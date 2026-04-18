@@ -1,0 +1,450 @@
+{
+  "state": "Alaska",
+  "category": "cdl",
+  "testName": "Combination Test #1 20 Questions • Passing Score 16",
+  "testSlug": "combination-1",
+  "url": "/images/alaska/cdl/combination-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11838",
+      "question": "开始旅行前，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "保持服务管线阀门打开。"
+        },
+        {
+          "letter": "B",
+          "text": "拆卸中继阀。"
+        },
+        {
+          "letter": "C",
+          "text": "关闭应急管线阀门。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "关闭应急管线阀门。",
+      "explanation": "在旅行前，你应该打开后部应急管线和服务管线关闭阀门，倾听逃逸的空气声，确保空气到达所有拖车上的所有空气制动装置。开始驾驶前关闭两个关闭阀门。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11074",
+      "question": "拖拉机保护阀：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "如果存在严重泄漏，保持制动系统中的空气。"
+        },
+        {
+          "letter": "B",
+          "text": "防止卡车被盗。"
+        },
+        {
+          "letter": "C",
+          "text": "防止拖车被意外释放。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "如果存在严重泄漏，保持制动系统中的空气。",
+      "explanation": "拖拉机保护阀可以在拖车断开或出现严重泄漏时保持拖拉机或卡车制动系统中的空气。如果压力下降到不安全水平，该阀将自动关闭。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9895",
+      "question": "以下哪一项不会帮助防止车辆翻转？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "将货物尽可能保持接近地面"
+        },
+        {
+          "letter": "B",
+          "text": "在转弯时缓慢行驶"
+        },
+        {
+          "letter": "C",
+          "text": "在道路肩部行驶"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在道路肩部行驶",
+      "explanation": "为了帮助防止车辆翻转，装载货物时应该将货物的重量尽可能保持接近地面。你还应该在转弯时缓慢行驶。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11850",
+      "question": "如果应急气路失去压力：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "防抱死制动系统将启动。"
+        },
+        {
+          "letter": "B",
+          "text": "服务气路将启动。"
+        },
+        {
+          "letter": "C",
+          "text": "应急制动器将启动。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "应急制动器将启动。",
+      "explanation": "紧急气路控制组合车辆上的紧急制动器。紧急管路中气压损失将导致紧急拖车制动器激活。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9610",
+      "question": "在驾驶配备防抱死制动系统（ABS）的车辆时，应该以____方式应用制动器。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "方式与在没有ABS的车辆中相同。"
+        },
+        {
+          "letter": "B",
+          "text": "当车辆置于空档时。"
+        },
+        {
+          "letter": "C",
+          "text": "使用手制动。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "方式与在没有ABS的车辆中相同。",
+      "explanation": "驾驶配备ABS的车辆时，你应该以与驾驶没有ABS的车辆相同的方式制动。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11843",
+      "question": "如果你的行驶速度低于40 mph，应该为你的车辆每10英尺保持至少____的跟车距离。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一秒"
+        },
+        {
+          "letter": "B",
+          "text": "两秒钟"
+        },
+        {
+          "letter": "C",
+          "text": "3秒"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "一秒",
+      "explanation": "在低于40 mph的速度下，您应该为每10英尺的车辆保持至少一秒的跟车距离。在较高速度行驶时遵循相同的公式，然后再增加一秒的跟车距离。请记住，较大的车辆需要比较小的车辆更多的停止空间。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11833",
+      "question": "服务气路通常由脚踏制动器控制，并连接到____阀。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "中继"
+        },
+        {
+          "letter": "B",
+          "text": "供应"
+        },
+        {
+          "letter": "C",
+          "text": "紧急"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "中继",
+      "explanation": "服务气路传输空气，由脚踏制动器或拖车手制动器控制。服务气路连接到中继阀，允许拖车制动器迅速应用。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8645",
+      "question": "什么是无挂车拖拉机？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "没有半挂车的拖拉机"
+        },
+        {
+          "letter": "B",
+          "text": "带有两个半挂车的拖拉机"
+        },
+        {
+          "letter": "C",
+          "text": "行驶速度超过限速的拖拉机"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "没有半挂车的拖拉机",
+      "explanation": "不带半挂车的牵引车称为\"无挂牵引车\"。无挂牵引车操作困难，驾驶员必须谨慎操作。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11072",
+      "question": "组合车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "挂车通常比单个商用车更高。"
+        },
+        {
+          "letter": "B",
+          "text": "通常比单个商用车轻。"
+        },
+        {
+          "letter": "C",
+          "text": "比驾驶单个商用车需要更多的技能。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "比驾驶单个商用车需要更多的技能。",
+      "explanation": "驾驶组合车比驾驶单个商用车需要更多的技能。组合车通常更长，通常更重，更容易翻转。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9467",
+      "question": "拖车手动阀：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停车时应始终使用。"
+        },
+        {
+          "letter": "B",
+          "text": "只应在下坡时停车时使用。"
+        },
+        {
+          "letter": "C",
+          "text": "停车时不应使用。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "停车时不应使用。",
+      "explanation": "停车时永远不要使用拖车手动阀，因为这样做可能会释放制动系统中的空气压力，释放保持车辆静止的制动器。相反，使用停车制动器或轮挡。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11830",
+      "question": "按入拖车供气控制将：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "为拖车供应空气。"
+        },
+        {
+          "letter": "B",
+          "text": "停用空气制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "防止车辆打滑。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "为拖车供应空气。",
+      "explanation": "推入拖车空气供应控制以为拖车供应空气。拉出拖车空气供应控制以关闭空气供应并启动紧急制动。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11025",
+      "question": "如果不确定拖车是否配备防抱死制动系统(ABS)，你可以：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在拖车下方查看来自制动器后部的车轮速度传感器。"
+        },
+        {
+          "letter": "B",
+          "text": "拆下轮胎并查看车轴上的ABS传感器。"
+        },
+        {
+          "letter": "C",
+          "text": "假设它确实配备了ABS。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在拖车下方查看来自制动器后部的车轮速度传感器。",
+      "explanation": "如果你不知道拖车是否配备ABS，请在车辆下方查看电子控制单元和来自制动器后部的车轮速度传感器导线。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11855",
+      "question": "在联接时，在您将气管连接到拖车后，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "为拖车供气。"
+        },
+        {
+          "letter": "B",
+          "text": "激活紧急制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "断开快速接头。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "为拖车供气。",
+      "explanation": "正确遵循联接和分离拖车的步骤对于安全操作组合车辆至关重要。在联接时将气管连接到拖车后，您应该为拖车供气。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9469",
+      "question": "防锁制动系统(ABS)有什么作用？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "它允许车辆的车轮抱死。"
+        },
+        {
+          "letter": "B",
+          "text": "它可以防止车辆的车轮抱死。"
+        },
+        {
+          "letter": "C",
+          "text": "它使车辆转向更容易。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "它可以防止车辆的车轮抱死。",
+      "explanation": "防抱死制动系统(ABS)有助于在紧急制动期间防止车轮抱死。如果ABS检测到即将抱死，它会将制动压力降低到安全水平。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11835",
+      "question": "____ 年之前制造的拖车不需要配备弹簧制动器。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1985"
+        },
+        {
+          "letter": "B",
+          "text": "1975"
+        },
+        {
+          "letter": "C",
+          "text": "1999"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "1975",
+      "explanation": "1975年之前制造的拖车不需要配备弹簧制动器。停放没有弹簧制动器的拖车时，请务必使用轮挡防止拖车滚动。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11832",
+      "question": "如果气源控制杆处于其\"应急\"位置：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "车辆将加速。"
+        },
+        {
+          "letter": "B",
+          "text": "拖车应急制动器将被启动。"
+        },
+        {
+          "letter": "C",
+          "text": "到拖车的空气供应将增加。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "拖车应急制动器将被启动。",
+      "explanation": "旧车辆中的牵引车保护控制装置可能由杆杆而不是旋钮操作。如果气源控制杆设置在其\"应急\"位置，气源供应将停止，挂车应急制动器将被施加。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9607",
+      "question": "什么是无挂车拖拉机？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "没有拖车的拖拉机"
+        },
+        {
+          "letter": "B",
+          "text": "连接两个拖车的拖拉机"
+        },
+        {
+          "letter": "C",
+          "text": "带有油箱的拖拉机"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "没有拖车的拖拉机",
+      "explanation": "没有半挂车的拖拉机被称为平头拖拉机。操作平头拖拉机需要驾驶员谨慎行驶。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11841",
+      "question": "在测试 ____ 时，你应该使用手动控制器踩下车辆制动器，同时缓慢前进。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "防抱死制动系统"
+        },
+        {
+          "letter": "B",
+          "text": "应急制动系统"
+        },
+        {
+          "letter": "C",
+          "text": "拖车行驶制动器"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "拖车行驶制动器",
+      "explanation": "要测试拖车行驶制动器，你应该首先确保制动系统的空气压力水平正常，然后释放驻车制动器。然后你应该缓慢向前移动车辆，并使用手动控制器踩下制动器。如果拖车行驶制动器工作正常，你会感到制动器启动。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11206",
+      "question": "什么是Johnson bar（约翰逊杆）？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "操作拖车制动器的手动阀"
+        },
+        {
+          "letter": "B",
+          "text": "指示燃油液位的阀"
+        },
+        {
+          "letter": "C",
+          "text": "限制货物数量的阀"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "操作拖车制动器的手动阀",
+      "explanation": "拖车手动阀，也称为手推车阀或Johnson bar，用于操作拖车制动器。它应仅用于测试制动器。在车辆行驶中使用它可能会导致打滑。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11847",
+      "question": "联合车辆需要额外的道路空间，因为它们：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "比其他商业机动车辆行驶速度更慢。"
+        },
+        {
+          "letter": "B",
+          "text": "比其他商业机动车辆更重。"
+        },
+        {
+          "letter": "C",
+          "text": "比其他商业机动车辆需要更多的转向和停止空间。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "比其他商业机动车辆需要更多的转向和停止空间。",
+      "explanation": "组合车辆需要比其他商业车辆更多的道路空间，因为它们更长，需要更多空间来转向和停止。在操作组合车辆时，妥善管理空间特别重要。"
+    }
+  ]
+}

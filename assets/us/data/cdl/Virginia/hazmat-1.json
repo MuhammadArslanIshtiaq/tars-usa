@@ -1,0 +1,674 @@
+{
+  "state": "Virginia",
+  "category": "cdl",
+  "testName": "HazMat Test #1 30 Questions • Passing Score 24",
+  "testSlug": "hazmat-1",
+  "url": "/images/virginia/cdl/hazmat-1.html",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8690",
+      "question": "Unless the package looks clearly unsafe, a driver needs ____ to accept it.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The shipper's certification"
+        },
+        {
+          "letter": "B",
+          "text": "A notarized statement"
+        },
+        {
+          "letter": "C",
+          "text": "A verbal agreement"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The shipper's certification",
+      "explanation": "The shipper certifies that hazardous materials are packaged correctly. You can accept the shipper's certification unless the package is clearly unsafe or does not follow regulations."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8710",
+      "question": "Which of these is NOT your job as a driver at an accident scene?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keeping people away from the scene."
+        },
+        {
+          "letter": "B",
+          "text": "Trying to put out a hazardous materials fire yourself."
+        },
+        {
+          "letter": "C",
+          "text": "Telling emergency workers about the hazardous materials."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Trying to put out a hazardous materials fire yourself.",
+      "explanation": "Your job is to keep people away, limit the spread of materials if safe, and tell emergency workers about the hazards. Do not try to fight hazardous materials fires unless you have protective equipment and proper training."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10643",
+      "question": "If there is a fire, what should you do before opening trailer doors?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Check if the doors are hot."
+        },
+        {
+          "letter": "B",
+          "text": "Throw water on the doors."
+        },
+        {
+          "letter": "C",
+          "text": "Find someone else to open them."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Check if the doors are hot.",
+      "explanation": "Feel the doors first to see if they are hot. If they are, there may be a cargo fire inside. Leave the doors closed because opening them can make the fire worse by giving it more oxygen."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "10890",
+      "question": "Before loading or unloading flammable liquids, the engine should be:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turned off."
+        },
+        {
+          "letter": "B",
+          "text": "Running fast."
+        },
+        {
+          "letter": "C",
+          "text": "Left on."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Turned off.",
+      "explanation": "Turn off the engine before loading or unloading flammable liquids. Only keep it running if you need to operate a pump."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10703",
+      "question": "Where must a hazardous materials placard be placed?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inside the trailer."
+        },
+        {
+          "letter": "B",
+          "text": "Inside the cab."
+        },
+        {
+          "letter": "C",
+          "text": "On the outside of the vehicle."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "On the outside of the vehicle.",
+      "explanation": "Placards must be placed on the front, rear, and both sides of the vehicle on the outside."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8675",
+      "question": "A material's hazard class shows:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The dangers of the material."
+        },
+        {
+          "letter": "B",
+          "text": "How quickly it must arrive."
+        },
+        {
+          "letter": "C",
+          "text": "How much it weighs."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The dangers of the material.",
+      "explanation": "Materials are placed into one of nine hazard classes based on the type of danger they pose."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9487",
+      "question": "What is a sign that cargo contains hazardous materials?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The cargo is in cylinder tanks."
+        },
+        {
+          "letter": "B",
+          "text": "The cargo came from a supermarket."
+        },
+        {
+          "letter": "C",
+          "text": "The cargo is in cardboard boxes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The cargo is in cylinder tanks.",
+      "explanation": "The type of packaging can indicate hazardous materials. Cylinders and drums are commonly used to store and transport hazardous materials."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "9474",
+      "question": "Who must label hazardous materials?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The shipper"
+        },
+        {
+          "letter": "B",
+          "text": "The loader"
+        },
+        {
+          "letter": "C",
+          "text": "The driver"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The shipper",
+      "explanation": "The shipper is responsible for packaging, marking, and labeling hazardous materials. They must provide the warning placards."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "10922",
+      "question": "What does a driver need to transport hazardous materials?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A CDL only"
+        },
+        {
+          "letter": "B",
+          "text": "A CDL with a hazardous materials endorsement"
+        },
+        {
+          "letter": "C",
+          "text": "A CDL with a tank endorsement"
+        },
+        {
+          "letter": "D",
+          "text": "A CDL with a cargo endorsement"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "A CDL with a hazardous materials endorsement",
+      "explanation": "You must have a CDL with a hazardous materials endorsement to drive any vehicle used to transport hazardous materials."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8676",
+      "question": "What information is on a shipping paper?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A description of the materials being transported"
+        },
+        {
+          "letter": "B",
+          "text": "How the materials will be transported"
+        },
+        {
+          "letter": "C",
+          "text": "Who should accept the materials being transported"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A description of the materials being transported",
+      "explanation": "Shipping papers must include a description of the hazardous materials being transported, among other information."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8667",
+      "question": "When transporting hazardous materials, how should you warn others?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Display HazMat placards on your truck."
+        },
+        {
+          "letter": "B",
+          "text": "Put flashing lights on your truck."
+        },
+        {
+          "letter": "C",
+          "text": "Sound a siren."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Display HazMat placards on your truck.",
+      "explanation": "You must display diamond-shaped warning signs called placards on vehicles carrying hazardous materials. You must also provide labels, shipping papers, and emergency response information."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9308",
+      "question": "If hazardous materials cargo catches fire, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Try to put it out with a fire extinguisher."
+        },
+        {
+          "letter": "B",
+          "text": "Call emergency personnel and let them handle the fire."
+        },
+        {
+          "letter": "C",
+          "text": "Wait for the fire to go out on its own."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Call emergency personnel and let them handle the fire.",
+      "explanation": "Fighting a hazardous materials fire requires special training and equipment. Do not try to fight the fire yourself unless you have the proper training and gear."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9898",
+      "question": "Where should you leave shipping papers if you stop and leave your vehicle while transporting hazardous materials?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carry them with you."
+        },
+        {
+          "letter": "B",
+          "text": "Leave them on the driver's seat in the cab."
+        },
+        {
+          "letter": "C",
+          "text": "Put them in a box under the passenger seat."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Leave them on the driver's seat in the cab.",
+      "explanation": "When you exit your vehicle, hazardous materials shipping papers must be left on the driver's seat."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8679",
+      "question": "What should you do if a hazardous materials label will not fit on a package?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Attach the label to a tag secured to the package."
+        },
+        {
+          "letter": "B",
+          "text": "Attach a QR code instead."
+        },
+        {
+          "letter": "C",
+          "text": "Make the label smaller to fit on the package."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Attach the label to a tag secured to the package.",
+      "explanation": "If a diamond-shaped label will not fit on a package, you can place it on a tag that is securely attached to the package instead."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9306",
+      "question": "When carrying Division 1.1 explosives, how far from a building must you park?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At least 10 feet"
+        },
+        {
+          "letter": "B",
+          "text": "At least 50 feet"
+        },
+        {
+          "letter": "C",
+          "text": "At least 300 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "At least 300 feet",
+      "explanation": "When carrying Division 1.1, 1.2, or 1.3 explosives, do not park within 300 feet of a bridge, tunnel, or building. The only exception is for short stops needed for operations like refueling."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10932",
+      "question": "What must a shipping paper include?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An emergency response telephone number."
+        },
+        {
+          "letter": "B",
+          "text": "The address of the shipper."
+        },
+        {
+          "letter": "C",
+          "text": "The locations of fire departments along your route."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "An emergency response telephone number.",
+      "explanation": "Hazardous materials shipping papers must include an emergency response telephone number."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8698",
+      "question": "Where should you load hazardous materials?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Near heat sources."
+        },
+        {
+          "letter": "B",
+          "text": "Away from heat sources."
+        },
+        {
+          "letter": "C",
+          "text": "Away from shadows."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Away from heat sources.",
+      "explanation": "Always load hazardous materials away from heat sources. Know the rules about explosives and flammable materials that cannot be loaded near heaters."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8709",
+      "question": "What equipment must be in the vehicle when transporting chlorine?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An approved gas mask"
+        },
+        {
+          "letter": "B",
+          "text": "Goggles"
+        },
+        {
+          "letter": "C",
+          "text": "An axe"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "An approved gas mask",
+      "explanation": "When transporting chlorine in cargo tanks, you must have an approved gas mask in your vehicle."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11149",
+      "question": "How should you label a hazardous materials package that is too small for a label?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use a barcode."
+        },
+        {
+          "letter": "B",
+          "text": "Use a tag."
+        },
+        {
+          "letter": "C",
+          "text": "Place it in a certain part of the trailer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Use a tag.",
+      "explanation": "If a label will not fit on a hazardous materials package, attach it to a tag that is securely fastened to the package."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10921",
+      "question": "On shipping papers, can the identification number, shipping name, and hazard class be abbreviated?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, if using a small piece of paper."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, if the abbreviations are easy to understand."
+        },
+        {
+          "letter": "C",
+          "text": "No, never."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "No, never.",
+      "explanation": "On hazardous materials shipping papers, the identification number, shipping name, and hazard class must not be abbreviated unless the regulations specifically allow it."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9307",
+      "question": "A person attending a placarded vehicle may be:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the sleeper berth."
+        },
+        {
+          "letter": "B",
+          "text": "Either awake or asleep inside the vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "Within 100 feet of the vehicle."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Within 100 feet of the vehicle.",
+      "explanation": "A person attending a parked placarded vehicle must either be awake inside the vehicle or within 100 feet of it. If outside the vehicle, they must be able to see it clearly. They cannot be in the sleeper berth."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "9818",
+      "question": "Placards are:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Not needed if a driver feels there is no need to display them."
+        },
+        {
+          "letter": "B",
+          "text": "Only required on the front of a vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "Required when transporting hazardous materials."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Required when transporting hazardous materials.",
+      "explanation": "Vehicles carrying hazardous materials must display diamond-shaped warning signs on all four sides. These signs are called placards."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8695",
+      "question": "To know which placard to use, you need to know:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The hazard class of the materials."
+        },
+        {
+          "letter": "B",
+          "text": "The type of container that is holding the materials."
+        },
+        {
+          "letter": "C",
+          "text": "The destination of the materials."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The hazard class of the materials.",
+      "explanation": "To choose the right placard, you must know the hazard class of the materials, how much hazardous material you are shipping, and the total weight of all hazardous materials in your vehicle."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9485",
+      "question": "Which agency helps coordinate emergency response to chemical hazards?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The National Response Center"
+        },
+        {
+          "letter": "B",
+          "text": "The Federal Containment Organization"
+        },
+        {
+          "letter": "C",
+          "text": "The United Center for Chemical Assistance"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The National Response Center",
+      "explanation": "The National Response Center coordinates emergency response to chemical hazards. Contact it if there is a hazardous materials spill."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "9482",
+      "question": "If you discover that your cargo is leaking, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Touch the leaking material to identify the cargo."
+        },
+        {
+          "letter": "B",
+          "text": "Use shipping papers and labels to identify the leaking cargo."
+        },
+        {
+          "letter": "C",
+          "text": "Assume all the cargo is leaking."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Use shipping papers and labels to identify the leaking cargo.",
+      "explanation": "If you find a leak in hazardous materials cargo, identify the materials using shipping papers, labels, or package location. Do not touch the leaking material."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "11507",
+      "question": "Which type of material may be required to have a transport index?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Liquid"
+        },
+        {
+          "letter": "B",
+          "text": "Combustible"
+        },
+        {
+          "letter": "C",
+          "text": "Radioactive"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Radioactive",
+      "explanation": "Some radioactive materials must have a transport index. A transport index is a number that shows how much control the material needs during transport. The total transport index of all cargo in one vehicle cannot exceed 50."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "11217",
+      "question": "When transporting hazardous materials, placards:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Should be lit up."
+        },
+        {
+          "letter": "B",
+          "text": "Should be used on all four sides of the vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "Should be used only by Class A licensed drivers."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Should be used on all four sides of the vehicle.",
+      "explanation": "When required, placards must be placed on all four sides of a vehicle that is transporting hazardous materials."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "10935",
+      "question": "An improperly placarded vehicle can only be moved:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To make room for other vehicles."
+        },
+        {
+          "letter": "B",
+          "text": "In an emergency."
+        },
+        {
+          "letter": "C",
+          "text": "If the vehicle will be traveling fewer than 10 miles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "In an emergency.",
+      "explanation": "A vehicle that is not properly placarded can only be driven if necessary to protect life or property in an emergency."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "10933",
+      "question": "When a shipper packages hazardous materials, they certify:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That the package does not contain hazardous materials."
+        },
+        {
+          "letter": "B",
+          "text": "That the package has been prepared in compliance with the rules."
+        },
+        {
+          "letter": "C",
+          "text": "That the package was packed at a different location."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "That the package has been prepared in compliance with the rules.",
+      "explanation": "A shipper of hazardous materials must certify on the shipping paper that the shipment follows all the rules."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "10892",
+      "question": "When loading compressed gas, the liquid discharge valves should be:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Closed."
+        },
+        {
+          "letter": "B",
+          "text": "Greased."
+        },
+        {
+          "letter": "C",
+          "text": "Opened."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Opened.",
+      "explanation": "Keep liquid discharge valves on a compressed gas tank open when loading and unloading. Keep them closed at all other times."
+    }
+  ]
+}

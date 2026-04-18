@@ -1,0 +1,819 @@
+{
+  "state": "Hawaii",
+  "category": "car",
+  "quizName": "Signs Practice Test #2",
+  "slug": "signs-practice-test-2",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "948",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/no_left_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "좌회전 금지."
+        },
+        {
+          "letter": "B",
+          "text": "신호자 앞."
+        },
+        {
+          "letter": "C",
+          "text": "양방향 좌회전."
+        },
+        {
+          "letter": "D",
+          "text": "우회전하거나 직진하십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "좌회전 금지.",
+      "explanation": "규정 표지판은 교통 속도와 움직임을 규제하며 운전자가 따라야 할 규칙을 표시합니다. 이 규정 표지판은 좌회전이 금지됨을 의미합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "970",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/t_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T자 교차로."
+        },
+        {
+          "letter": "B",
+          "text": "차선 변경."
+        },
+        {
+          "letter": "C",
+          "text": "측도로."
+        },
+        {
+          "letter": "D",
+          "text": "교차로를 막지 마세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "T자 교차로.",
+      "explanation": "경고 표지판은 운전자에게 앞으로의 도로 상황과 위험을 알려주며 일반적으로 검은색 표시가 있는 노란색입니다. 이 표지판은 운전자에게 T자 교차로에 접근하고 있으며 오른쪽 또는 왼쪽으로 회전할 준비를 해야 함을 경고합니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1686",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/pedestrian_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "학교가 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "학교 횡단."
+        },
+        {
+          "letter": "C",
+          "text": "보행자 횡단."
+        },
+        {
+          "letter": "D",
+          "text": "도로 위 또는 근처의 건설 인부들"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "보행자 횡단.",
+      "explanation": "경고 표지판은 일반적으로 노란 배경에 검은색 표시가 있는 마름모 모양입니다. 운전자에게 다가오는 위험을 알립니다. 이 표지판은 도로를 횡단하는 보행자가 앞에 있을 수 있음을 나타냅니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "583",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "당신은 잘못된 방향에서 일방통행 도로로 진입하려고 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "U턴은 금지됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "도로가 명확하면 진행할 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "진행하기 전에 완전히 멈추세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "당신은 잘못된 방향에서 일방통행 도로로 진입하려고 합니다.",
+      "explanation": "이 표지판을 지나면 잘못된 방향으로 가고 있는 것이며 정면 충돌의 위험이 있습니다. 조심스럽게 돌아가야 합니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "582",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/arizona-four_way_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "급격한 경사가 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞에서 좌회전해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "진입 금지."
+        },
+        {
+          "letter": "D",
+          "text": "4방향 교차로가 앞에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4방향 교차로가 앞에 있습니다.",
+      "explanation": "이 표지판은 4방향 교차로가 앞에 있음을 경고합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "602",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/winding_road_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "오른쪽으로 급회전."
+        },
+        {
+          "letter": "B",
+          "text": "이중 곡선."
+        },
+        {
+          "letter": "C",
+          "text": "굽은 도로."
+        },
+        {
+          "letter": "D",
+          "text": "포장도로 끝."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "굽은 도로.",
+      "explanation": "이 표지판은 앞의 도로가 일련의 회전 또는 곡선으로 구불거림을 나타냅니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "918",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/indiana-buggy_warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "마차 경고."
+        },
+        {
+          "letter": "B",
+          "text": "오른쪽으로 회전하거나 직진합니다."
+        },
+        {
+          "letter": "C",
+          "text": "최저 속도."
+        },
+        {
+          "letter": "D",
+          "text": "굽은 도로."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "마차 경고.",
+      "explanation": "경고 표지판은 운전자에게 앞으로의 도로 상황과 위험을 알려주며 일반적으로 검은색 표시가 있는 노란색입니다. 이 표지판은 운전자에게 앞에 마차가 있을 수 있음을 알립니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "541",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/washington-no_turn_to_the_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우회전 금지."
+        },
+        {
+          "letter": "B",
+          "text": "반드시 우회전해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "오른쪽 교통을 주의하세요."
+        },
+        {
+          "letter": "D",
+          "text": "거리의 오른쪽에 주차하지 마십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "우회전 금지.",
+      "explanation": "기호 위에 빨간색 원과 슬래시가 있는 표지판은 기호로 표현된 조치(이 예에서는 우회전)가 허용되지 않음을 나타냅니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "955",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/one_way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일방통행"
+        },
+        {
+          "letter": "B",
+          "text": "양방향 좌회전."
+        },
+        {
+          "letter": "C",
+          "text": "양방향 교통."
+        },
+        {
+          "letter": "D",
+          "text": "최소 속도 제한."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "일방통행",
+      "explanation": "규제 표지판은 교통 속도와 움직임을 규제하며 운전자가 반드시 따라야 할 규칙을 표시합니다. 이 표지판은 일방통행 도로로 회전할 때 운전자가 운전해야 할 방향을 알려줍니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "226",
+      "question": "당신의 차선 위에 이 표지판이 보이면 당신은:",
+      "image": "/images/signs/pennsylvania-progress_exit_only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "고속도로에서 진출할 수 없습니다."
+        },
+        {
+          "letter": "B",
+          "text": "현재 차선에서 교차로를 통과하거나 고속도로에서 진출할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "현재 차선에 머물고 교차로를 통과할 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "현재 차선에 머물면 고속도로에서 진출해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "현재 차선에 머물면 고속도로에서 진출해야 합니다.",
+      "explanation": "고속도로 표지판에 \"진출만 가능\" 메시지가 있는 노란색 패널이 있으면, 그 표지판 아래의 차선은 교차로를 통과하지 않습니다. 대신 차선은 램프를 형성하기 위해 도로에서 벗어납니다. \"진출만 가능\" 표지판 바로 아래에 있는 차선에 있으면 차선을 변경하여 교차로를 통과하거나 고속도로에서 진출해야 합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "234",
+      "question": "이 표지판은 운전자에게 다음을 경고하기 위해 사용됩니다:",
+      "image": "/images/signs/alabama-lane_ends_merge_left(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우측 차선이 끝나고 교통이 좌측으로 합류해야 함을 나타냅니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로가 앞에서 곡선임을 나타냅니다."
+        },
+        {
+          "letter": "C",
+          "text": "다가오는 교차로에 대해서."
+        },
+        {
+          "letter": "D",
+          "text": "도로 공사에 대해."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "우측 차선이 끝나고 교통이 좌측으로 합류해야 함을 나타냅니다.",
+      "explanation": "이 표지판은 다중 차선 도로의 우측 차선이 앞에서 끝남을 나타냅니다. 우측 차선의 교통은 좌측으로 합류해야 합니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1510",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "완전히 정지한 후 우회전하세요."
+        },
+        {
+          "letter": "B",
+          "text": "우회전이 허용되지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "좌회전이 허용됩니다."
+        },
+        {
+          "letter": "D",
+          "text": "위 중 어느 것도 아닙니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "우회전이 허용되지 않습니다.",
+      "explanation": "규제 표지판은 운전자가 항상 따라야 하는 법칙을 표시합니다. 이 표지판이 있는 곳에서는 우회전이 허용되지 않습니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "585",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/pedestrian_crossing(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "학교 횡단."
+        },
+        {
+          "letter": "B",
+          "text": "보행자 횡단."
+        },
+        {
+          "letter": "C",
+          "text": "조깅 트레일."
+        },
+        {
+          "letter": "D",
+          "text": "붐비는 보도."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "보행자 횡단.",
+      "explanation": "이 표지판은 보행자 횡단도의 존재를 나타냅니다. 횡단보도에 진입하거나 당신의 경로를 건너는 사람들을 주의깊게 살펴봐야 합니다. 속도를 줄이고 정지할 준비를 하세요."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1683",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/hawaii-divided_highway_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일방통행"
+        },
+        {
+          "letter": "B",
+          "text": "분리된 고속도로 끝"
+        },
+        {
+          "letter": "C",
+          "text": "양방향 교통."
+        },
+        {
+          "letter": "D",
+          "text": "왼쪽으로 유지하십시오."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "분리된 고속도로 끝",
+      "explanation": "경고 표지판은 일반적으로 마름모 모양이며 노란색 배경에 검은색 표시가 있습니다. 운전자에게 다가오는 위험을 알립니다. 이 표지판은 분리 고속도로가 곧 끝나감을 나타냅니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "263",
+      "question": "이 검은색과 노란색 표지판을 보면 다음을 의미합니다:",
+      "image": "/images/signs/pennsylvania-directional_arrow_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우측 도로는 일방통행만 가능합니다."
+        },
+        {
+          "letter": "B",
+          "text": "다가오는 도로 공사로 인해 오른쪽으로 우회한다는 것입니다."
+        },
+        {
+          "letter": "C",
+          "text": "도로가 극단적인 각도로 방향을 바꾸므로 속도를 줄이십시오."
+        },
+        {
+          "letter": "D",
+          "text": "오른쪽에 교차로가 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "도로가 극단적인 각도로 방향을 바꾸므로 속도를 줄이십시오.",
+      "explanation": "이 표지판은 앞의 도로가 극단적인 각도(이 경우 오른쪽)로 방향을 바꾼다는 것을 나타냅니다. 그러한 극단적인 곡선에 도달하기 전에 교차로에서 회전할 때처럼 속도를 줄여야 합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "256",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/pennsylvania-workers_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "지역사회 봉사 단체가 고속도로 앞쪽에서 쓰레기를 수거하고 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "작업 구역 앞의 도로에 작업자들이 있거나 매우 가까이 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "앞쪽에 어린이들이 놀고 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "앞쪽에 보행자 횡단보도가 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "작업 구역 앞의 도로에 작업자들이 있거나 매우 가까이 있습니다.",
+      "explanation": "이 표지판은 작업자들이 앞쪽 도로에 있거나 매우 가까이 있을 수 있으므로, 이 구역을 지나갈 때 특별히 주의해야 함을 나타냅니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "958",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/indiana-playground_warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "놀이터가 근처에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "낮은 어깨."
+        },
+        {
+          "letter": "C",
+          "text": "일방통행"
+        },
+        {
+          "letter": "D",
+          "text": "공사 구간에서 벌금이 2배입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "놀이터가 근처에 있습니다.",
+      "explanation": "경고 표지판은 운전자들에게 다가오는 도로 상태와 위험을 알려주며 일반적으로 검은색 표시가 있는 노란색입니다. 이 표지판은 운전자들에게 놀이터 근처에 있으며 도로에 있거나 근처에 있는 어린이들을 주의해야 함을 알려줍니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1895",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/connecticut-roundabout_circle.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "회전교차로가 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "차선 끝남, 왼쪽으로 합류합니다."
+        },
+        {
+          "letter": "C",
+          "text": "회전합니다."
+        },
+        {
+          "letter": "D",
+          "text": "앞에 곡선이 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "회전교차로가 앞에 있습니다.",
+      "explanation": "이 표지판은 앞에 원형 교차로가 있음을 나타냅니다. 낮은 속도로 원형 교차로에 진입하고 기존 교통에 양보하세요."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "592",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/low_clearance.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "분리된 고속도로 시작."
+        },
+        {
+          "letter": "B",
+          "text": "급격한 경사가 앞에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "앞의 고가도로 높이가 낮습니다."
+        },
+        {
+          "letter": "D",
+          "text": "반대 방향으로 이동하는 두 개의 교통 차선이 합류하려고 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "앞의 고가도로 높이가 낮습니다.",
+      "explanation": "이 표지판은 앞의 고가도로 높이가 낮음을 경고합니다. 당신의 차량이 표시된 높이(이 경우 13 feet, 6 inches)보다 높으면 진행하지 마세요."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "608",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교차로가 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "가파른 경사도가 앞에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "굽은 도로."
+        },
+        {
+          "letter": "D",
+          "text": "진입하는 차량들."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "가파른 경사도가 앞에 있습니다.",
+      "explanation": "이 표지판은 가파른 내리막 구간이 앞에 있음을 나타냅니다."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "928",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "진입 금지."
+        },
+        {
+          "letter": "B",
+          "text": "차선 끝."
+        },
+        {
+          "letter": "C",
+          "text": "양방향 교통."
+        },
+        {
+          "letter": "D",
+          "text": "측도로."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "진입 금지.",
+      "explanation": "규제 표지판은 교통 속도와 이동을 규제하며 운전자가 반드시 따라야 할 규칙을 표시합니다. 이 표지판은 종종 일방 도로의 끝에 게시되며 운전자에게 잘못된 방향에서 도로에 진입하지 말도록 경고합니다. 운전자는 이 표지판에 접근할 때마다 정지하고 방향을 돌려야 합니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "950",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/indiana-no_parking_any_time.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "언제든지 주차 금지."
+        },
+        {
+          "letter": "B",
+          "text": "양방향 교통."
+        },
+        {
+          "letter": "C",
+          "text": "신호자 앞."
+        },
+        {
+          "letter": "D",
+          "text": "가파른 경사입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "언제든지 주차 금지.",
+      "explanation": "규제 표지판은 교통 속도와 이동을 규제하며, 운전자가 준수해야 하는 규칙을 표시합니다. 이 규제 표지판은 언제든지 주차가 허용되지 않음을 나타냅니다."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "536",
+      "question": "이 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "오른쪽 우회를 따릅니다."
+        },
+        {
+          "letter": "B",
+          "text": "편도 거리에 진입할 준비를 하세요."
+        },
+        {
+          "letter": "C",
+          "text": "가능하면 주요 고속도로에 머물러야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "편리한 경우에만 우측으로 우회도로를 따르십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "오른쪽 우회를 따릅니다.",
+      "explanation": "작업 구간 표지판은 일반적으로 검은색 글자 또는 기호가 있는 주황색입니다. 우회 표지판은 운전자에게 공사로 완전히 차단된 도로를 피하기 위한 대체 경로를 제공합니다."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "933",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/flagger_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "신호자 앞."
+        },
+        {
+          "letter": "B",
+          "text": "우회."
+        },
+        {
+          "letter": "C",
+          "text": "일방통행"
+        },
+        {
+          "letter": "D",
+          "text": "주차 금지."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "신호자 앞.",
+      "explanation": "건설 구역은 운전자와 건설 인부 모두에게 위험을 초래합니다. 주황색 고속도로 건설 표지판은 운전자에게 건설 구역을 만날 때 주의하도록 경고합니다. 이 표지판은 운전자에게 앞에 깃발을 드는 사람이 있으며 따라야 할 지시를 할 것임을 알립니다."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "940",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/indiana-limited_parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제한된 주차"
+        },
+        {
+          "letter": "B",
+          "text": "낮은 간격."
+        },
+        {
+          "letter": "C",
+          "text": "신호자 앞."
+        },
+        {
+          "letter": "D",
+          "text": "우회전 금지."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "제한된 주차",
+      "explanation": "규제 표지판은 교통 속도와 이동을 규제하며 운전자가 반드시 따라야 할 규칙을 표시합니다. 이 규제 표지판이 게시된 곳에서 운전자는 게시된 시간 사이에 최대 2시간 동안 주차할 수 있습니다."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "228",
+      "question": "이 표지판은 다음에 대해 운전자에게 경고하기 위해 사용됩니다:",
+      "image": "/images/signs/curve_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다가오는 교차로."
+        },
+        {
+          "letter": "B",
+          "text": "도로 공사."
+        },
+        {
+          "letter": "C",
+          "text": "앞에 도로 커브가 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "교통 차선 변경."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "앞에 도로 커브가 있습니다.",
+      "explanation": "이 표지판은 앞의 도로가 오른쪽으로 커브함을 나타냅니다."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "963",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/road_work_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로 공사가 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "놀이터 앞."
+        },
+        {
+          "letter": "C",
+          "text": "소방서."
+        },
+        {
+          "letter": "D",
+          "text": "정지합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "도로 공사가 앞에 있습니다.",
+      "explanation": "공사 구간은 운전자와 건설 근로자 모두에게 위험을 초래합니다. 주황색 고속도로 공사 표지판은 공사 구간을 만날 때 주의할 것을 운전자에게 경고합니다. 이 표지판은 다가올 공사 구간의 시작을 운전자에게 알립니다."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "411",
+      "question": "운전자가 왼쪽 팔과 손을 아래쪽으로 펼쳤습니다. 이 손 신호는 운전자가 다음을 계획하고 있음을 의미합니다:",
+      "image": "/images/signs/new-york-hand_signal_down.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "왼쪽으로 회전하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "우회전합니다."
+        },
+        {
+          "letter": "C",
+          "text": "정지합니다."
+        },
+        {
+          "letter": "D",
+          "text": "출발합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "정지합니다.",
+      "explanation": "운전자의 왼쪽 팔과 손이 아래쪽으로 펼쳐져 있으면, 멈추려고 하는 의도를 나타내고 있습니다. 이 손 신호를 사용하는 운전자를 따라가고 있다면 그에 따라 운전을 조정하십시오."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "235",
+      "question": "이 표지판은 다음 중 한 가지 유형을 나타냅니다:",
+      "image": "/images/signs/maryland-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교차로."
+        },
+        {
+          "letter": "B",
+          "text": "도로 곡선."
+        },
+        {
+          "letter": "C",
+          "text": "우회전."
+        },
+        {
+          "letter": "D",
+          "text": "차선 변경."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "교차로.",
+      "explanation": "이 표지판은 교차로를 따라 다가오는 도로와의 교차로를 나타냅니다."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "535",
+      "question": "이 표지판은 다음입니다:",
+      "image": "/images/signs/washington-warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "서비스 표지판."
+        },
+        {
+          "letter": "B",
+          "text": "규제 표지판."
+        },
+        {
+          "letter": "C",
+          "text": "경고 표지판."
+        },
+        {
+          "letter": "D",
+          "text": "정지 표지판."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "경고 표지판.",
+      "explanation": "경고 표지판은 일반적으로 마름모 모양이며 검은색 글자 또는 기호가 있는 노란색입니다. 특수한 상황이나 앞의 잠재적 위험에 대해 운전자에게 경고합니다."
+    }
+  ]
+}

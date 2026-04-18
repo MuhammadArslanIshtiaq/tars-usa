@@ -1,0 +1,502 @@
+{
+  "state": "Tennessee",
+  "category": "cdl",
+  "testName": "Passenger Test #2 20 Questions • Passing Score 16",
+  "testSlug": "passenger-2",
+  "url": "/images/tennessee/cdl/passenger-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8640",
+      "question": "If your vehicle has ABS on only one axle, what happens?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It can be dangerous."
+        },
+        {
+          "letter": "B",
+          "text": "You still have better control when braking."
+        },
+        {
+          "letter": "C",
+          "text": "It slows the vehicle but cannot stop it."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You still have better control when braking.",
+      "explanation": "Even if ABS is on only one axle, you will have more control when braking than without ABS. Brake normally."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9190",
+      "question": "When should you remind passengers to take their carry-on bags when they exit?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Before you stop the bus."
+        },
+        {
+          "letter": "B",
+          "text": "After you stop the bus."
+        },
+        {
+          "letter": "C",
+          "text": "At least five times."
+        },
+        {
+          "letter": "D",
+          "text": "As they exit the bus."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Before you stop the bus.",
+      "explanation": "Tell passengers to take their carry-on bags before the bus comes to a complete stop."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9134",
+      "question": "Why do dry bulk tanks need special care?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They have low centers of gravity."
+        },
+        {
+          "letter": "B",
+          "text": "They have high centers of gravity."
+        },
+        {
+          "letter": "C",
+          "text": "Loads are usually stable."
+        },
+        {
+          "letter": "D",
+          "text": "They are usually overloaded."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "They have high centers of gravity.",
+      "explanation": "Dry bulk tanks have high centers of gravity and loads shift during transport. Be extra careful on turns and curves."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8998",
+      "question": "What happens if air pressure in the tanks drops below 60 psi?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A warning light will come on."
+        },
+        {
+          "letter": "B",
+          "text": "The vehicle will not shift out of gear."
+        },
+        {
+          "letter": "C",
+          "text": "The front lights will flash."
+        },
+        {
+          "letter": "D",
+          "text": "The vehicle should stop."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A warning light will come on.",
+      "explanation": "If air pressure drops below 60 psi, a warning light or wig wag signal will activate."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10988",
+      "question": "When do you need a tank endorsement?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only when transporting gases."
+        },
+        {
+          "letter": "B",
+          "text": "Only when transporting liquids."
+        },
+        {
+          "letter": "C",
+          "text": "When transporting liquids and gases."
+        },
+        {
+          "letter": "D",
+          "text": "It is optional when transporting hazardous materials."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "When transporting liquids and gases.",
+      "explanation": "You need a tank endorsement to drive tank vehicles that carry liquids or gases. This applies to both hazardous and non-hazardous materials."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11672",
+      "question": "What does the S-cam do when the brake pedal is pressed?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It presses brake shoes against the inside of the brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "It tightens the brake drum onto the axle."
+        },
+        {
+          "letter": "C",
+          "text": "It presses the brake lining against the wheel."
+        },
+        {
+          "letter": "D",
+          "text": "It releases air from the air tanks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "It presses brake shoes against the inside of the brake drum.",
+      "explanation": "When you press the brake pedal, the S-cam turns and pushes brake shoes against the inside of the brake drum. This creates friction and slows the vehicle."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8634",
+      "question": "What is a dual air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two separate air brake systems that share one set of controls."
+        },
+        {
+          "letter": "B",
+          "text": "One air brake system with two different sets of controls."
+        },
+        {
+          "letter": "C",
+          "text": "One system for the left side and one for the right side, each with its own controls."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Two separate air brake systems that share one set of controls.",
+      "explanation": "A dual air brake system has two separate systems that share one set of controls. Each system has its own air tanks, hoses, and lines. One typically controls the rear axle brakes, and the other controls the front axle brakes."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "9014",
+      "question": "During a steering box inspection, what should you NOT do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Check that the steering box is securely mounted."
+        },
+        {
+          "letter": "B",
+          "text": "Check for power steering fluid leaks."
+        },
+        {
+          "letter": "C",
+          "text": "Look for missing bolts."
+        },
+        {
+          "letter": "D",
+          "text": "Assume all cotter keys are present."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Assume all cotter keys are present.",
+      "explanation": "Check that the steering box is securely mounted. Look for missing nuts, bolts, and cotter keys. Check for power steering fluid leaks and damaged hoses. Do not assume cotter keys are present."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9945",
+      "question": "Which item cannot be transported in a space with people on a bus?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Beverages"
+        },
+        {
+          "letter": "B",
+          "text": "Radioactive materials"
+        },
+        {
+          "letter": "C",
+          "text": "Medical supplies"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Radioactive materials",
+      "explanation": "Radioactive materials must never be carried in spaces where people are present. Other hazardous materials may be transported by bus under specific conditions."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8872",
+      "question": "What was the purpose of front brake limiting valves?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prevent the front tires from skidding."
+        },
+        {
+          "letter": "B",
+          "text": "Prevent the front tires from overheating."
+        },
+        {
+          "letter": "C",
+          "text": "Create equal brake usage."
+        },
+        {
+          "letter": "D",
+          "text": "Remove uncertainty when applying brakes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Prevent the front tires from skidding.",
+      "explanation": "Some older vehicles have front brake limiting valves designed to prevent front wheel skidding. However, research showed these devices are unnecessary, so leave them in the \"normal\" position."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11121",
+      "question": "Who is responsible for loading cargo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The driver must load it."
+        },
+        {
+          "letter": "B",
+          "text": "A second person can load it and be responsible for its safety."
+        },
+        {
+          "letter": "C",
+          "text": "A second person can load it, but the driver is responsible for its safety."
+        },
+        {
+          "letter": "D",
+          "text": "Only a shipping company employee can load it."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "A second person can load it, but the driver is responsible for its safety.",
+      "explanation": "No matter who loads the cargo, the driver is always responsible for keeping it safe."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11897",
+      "question": "In cold weather, how often should you check your vehicle's alcohol evaporator?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Every three hours."
+        },
+        {
+          "letter": "B",
+          "text": "Every day."
+        },
+        {
+          "letter": "C",
+          "text": "Every other week."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Every day.",
+      "explanation": "An alcohol evaporator prevents ice from forming in air brake systems. In cold weather, check and refill it every day."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8984",
+      "question": "On a truck with air brakes, what does the air compressor do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pumps air into the air storage tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Fills the tires."
+        },
+        {
+          "letter": "C",
+          "text": "Moves air to the back of the truck."
+        },
+        {
+          "letter": "D",
+          "text": "Cleans the brakes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pumps air into the air storage tanks.",
+      "explanation": "The air compressor pumps air into the air storage tanks. The air compressor governor controls it."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10360",
+      "question": "What are air brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An effective way to stop large vehicles."
+        },
+        {
+          "letter": "B",
+          "text": "Not allowed on large vehicles."
+        },
+        {
+          "letter": "C",
+          "text": "Only work well in poor weather."
+        },
+        {
+          "letter": "D",
+          "text": "A way to save fuel."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "An effective way to stop large vehicles.",
+      "explanation": "When properly maintained, air brakes are a safe and effective way to stop large, heavy vehicles."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11101",
+      "question": "Before driving a vehicle with a dual brake system, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Let the vehicle warm up so fuel reaches the engine."
+        },
+        {
+          "letter": "B",
+          "text": "Wait for air pressure to build in both systems."
+        },
+        {
+          "letter": "C",
+          "text": "Start driving right after the engine starts."
+        },
+        {
+          "letter": "D",
+          "text": "Pump the pedal 20 times to build pressure, then drive."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Wait for air pressure to build in both systems.",
+      "explanation": "Before driving a vehicle with a dual air brake system, allow the compressor to build air pressure to at least 100 psi in both systems."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10310",
+      "question": "What is an alcohol evaporator used for?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are illegal."
+        },
+        {
+          "letter": "B",
+          "text": "They add alcohol to air brake systems."
+        },
+        {
+          "letter": "C",
+          "text": "They are only allowed in northern parts of the state."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "They add alcohol to air brake systems.",
+      "explanation": "Some air brake systems have alcohol evaporators that add alcohol to the braking system to prevent ice from forming."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10699",
+      "question": "What should happen to a bus after a trip is completed?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It should be returned without an inspection."
+        },
+        {
+          "letter": "B",
+          "text": "It should be inspected."
+        },
+        {
+          "letter": "C",
+          "text": "It should be drained of fuel."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "It should be inspected.",
+      "explanation": "Buses must be inspected after every trip. Passengers may have damaged safety items, so an inspection finds any damage that needs to be fixed before the next trip."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8985",
+      "question": "What do air storage tanks do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They hold air for only one braking use."
+        },
+        {
+          "letter": "B",
+          "text": "They hold enough air for the brakes to work several times if the compressor fails."
+        },
+        {
+          "letter": "C",
+          "text": "They do not hold air unless there is an emergency."
+        },
+        {
+          "letter": "D",
+          "text": "They hold enough air for more than 1,000 braking uses."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "They hold enough air for the brakes to work several times if the compressor fails.",
+      "explanation": "Air storage tanks hold enough air for the brakes to be used several times if the compressor stops working."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8754",
+      "question": "What is the air compressor connected to?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The transmission."
+        },
+        {
+          "letter": "B",
+          "text": "The engine."
+        },
+        {
+          "letter": "C",
+          "text": "The radiator."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The engine.",
+      "explanation": "The air compressor is connected to the engine by gears or a belt. It can be cooled by air or by the engine's cooling system."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9886",
+      "question": "A 40-foot-long item on a flatbed trailer needs at least ____ tie-down(s).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One"
+        },
+        {
+          "letter": "B",
+          "text": "Two"
+        },
+        {
+          "letter": "C",
+          "text": "Three"
+        },
+        {
+          "letter": "D",
+          "text": "Four"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Four",
+      "explanation": "Use at least one tie-down for every 10 feet of cargo length. Always use at least two tie-downs, no matter the cargo size."
+    }
+  ]
+}

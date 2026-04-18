@@ -1,0 +1,955 @@
+{
+  "state": "Rhode Island",
+  "category": "car",
+  "quizName": "Warning Signs",
+  "slug": "warning-signs",
+  "totalQuestions": 43,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/stop-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May stop sign na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "May traffic signal na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "May crosswalk na paparating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May stop sign na paparating.",
+      "explanation": "Ang sign na ito ay nagbabantay na may stop sign na paparating. Magsimulang bumabagal upang handa kang huminto nang lubusan."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/yield-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May yield sign na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "May merge point na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "May stop sign na paparating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May yield sign na paparating.",
+      "explanation": "Ang sign na ito ay nagbabantay na may yield sign na paparating. Maging handa na bumabagal at magbigay ng right-of-way sa iba pang trapiko."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May traffic signal na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "May railroad crossing na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "May school zone na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May traffic signal na paparating.",
+      "explanation": "Ang sign na ito ay nagbabantay na may traffic signal na paparating. Maging handa na huminto kung ang ilaw ay pula o dilaw."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/emergency-signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May emergency vehicle signal na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "May fire station na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "May hospital zone na paparating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May emergency vehicle signal na paparating.",
+      "explanation": "Ang sign na ito ay nagbabantay na may signal na kontrolado ng emergency vehicles na paparating. Ang signal ay maaaring magbago upang payagan ang emergency vehicles na dumaan."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/two-way-traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two-way traffic na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "Ang kalsada ay naghahati sa dalawang kalsada."
+        },
+        {
+          "letter": "C",
+          "text": "Dalawang lanes ay nagsasama sa isa."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Two-way traffic na paparating.",
+      "explanation": "Ang sign na ito ay nagbabantay na ikaw ay malapit nang pumasok sa isang kalsada na may trapiko na nagmumula sa kabaligtaran na direksyon. Manatili sa iyong lane."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/no-passing-zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pumapasok ka sa no-passing zone."
+        },
+        {
+          "letter": "B",
+          "text": "Ang kalsada ay nagiging makitid na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "May school zone na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pumapasok ka sa no-passing zone.",
+      "explanation": "Ang pennant-shaped sign na ito ay nagmamarka ng simula ng no-passing zone. Huwag magpass ng ibang mga sasakyan sa lugar na ito."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/right-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang kalsada ay umuusot sa kanan na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "Magikot sa kanan sa susunod na intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Ang right lane ay nagtatapos."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang kalsada ay umuusot sa kanan na paparating.",
+      "explanation": "Ang sign na ito ay nagbabantay na ang kalsada na paparating ay umuusot sa kanan. Bumabagal bago pumasok sa kurba."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/sharp-curve-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May matalas na kurba sa kanan na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "May malambot na kurba na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "Ang kalsada ay tumitigok nang matalas sa kaliwa."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May matalas na kurba sa kanan na paparating.",
+      "explanation": "Ang sign na ito ay nagbabantay ng matalas na kurba sa kanan. Bumabagal nang maaga bago ang kurba upang mapanatili ang kontrol ng iyong sasakyan."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/sharp-curve-to-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May matalas na kaanan na kurba na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "Ang right lane ay nagtatapos."
+        },
+        {
+          "letter": "C",
+          "text": "Ang right turn ay kailangan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May matalas na kaanan na kurba na paparating.",
+      "explanation": "Ang sign na ito ay nagbabantay ng matalas na kurba sa kanan. Bawasan ang iyong bilis bago pumasok sa kurba."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/very-sharp-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May napakatalas na kurba o turn na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "Ang kalsada ay nagtatapos na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "Ang U-turn ay kailangan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May napakatalas na kurba o turn na paparating.",
+      "explanation": "Ang sign na ito ay nagbabantay ng napakatalas na kurba na paparating. Bumabagal nang malaki bago ang kurba upang maiwasan ang pagkawalan ng kontrol."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/hairpin-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May hairpin curve na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "May U-turn area na darating."
+        },
+        {
+          "letter": "C",
+          "text": "May dead end na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May hairpin curve na paparating.",
+      "explanation": "Ang sign na ito ay nagbabantay ng napakahigpit na hairpin curve na paparating. Bawasan ang bilis nang husto bago pumasok sa kurba."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/left-turn-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang kalsada ay liliko sa kaliwa."
+        },
+        {
+          "letter": "B",
+          "text": "May karilang para sa left turn na nagsisimula."
+        },
+        {
+          "letter": "C",
+          "text": "Walang left turn na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang kalsada ay liliko sa kaliwa.",
+      "explanation": "Ang sign na ito ay nagbabanta na ang kalsada ay magiging kaliwa. Bawasan ang iyong bilis bago ang lumiko."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/left-reverse-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May serye ng curves na nagsisimula sa left turn."
+        },
+        {
+          "letter": "B",
+          "text": "May U-turn na darating."
+        },
+        {
+          "letter": "C",
+          "text": "May roundabout na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May serye ng curves na nagsisimula sa left turn.",
+      "explanation": "Ang sign na ito ay nagbabanta ng reverse curve na darating, na nagsisimula sa curve na kaliwa. Bumabagal at maghanda para sa mga pagbabago sa direksyon."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/winding-road-left-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May winding road na darating, na nagsisimula sa curve na kaliwa."
+        },
+        {
+          "letter": "B",
+          "text": "May steep hill na darating."
+        },
+        {
+          "letter": "C",
+          "text": "Ang kalsada ay malusog kapag basa."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May winding road na darating, na nagsisimula sa curve na kaliwa.",
+      "explanation": "Ang sign na ito ay nagbabanta ng winding road na darating na may maraming curves. Ang unang curve ay napunta sa kaliwa. Bumabagal at magmaneho nang maingat."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/advisory-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang inirekomendang ligtas na bilis para sa kalsada na darating."
+        },
+        {
+          "letter": "B",
+          "text": "Ang pinakamababang bilis na pinapayagan."
+        },
+        {
+          "letter": "C",
+          "text": "Ang maximum speed limit."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang inirekomendang ligtas na bilis para sa kalsada na darating.",
+      "explanation": "Ang advisory speed sign ay nagpapakita ng inirekomendang ligtas na bilis para sa curve o ibang kondisyon ng kalsada. Hindi ito speed limit kundi mungkahi para sa kaligtasan."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/advisory-turn-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang inirekomendang bilis para sa paparating na lumiko."
+        },
+        {
+          "letter": "B",
+          "text": "Ang speed limit ay nagbabago na darating."
+        },
+        {
+          "letter": "C",
+          "text": "May speed bump na paparating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang inirekomendang bilis para sa paparating na lumiko.",
+      "explanation": "Ang sign na ito ay nagpapakita ng isinusugot na ligtas na bilis para sa isang paparating na lumiko. Bawasan ang iyong bilis sa antas na ito bago pumasok sa lumiko."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/advisory-speed-on-exit-ramp.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang inirekomendang bilis para sa exit ramp na darating."
+        },
+        {
+          "letter": "B",
+          "text": "Ang speed limit sa highway."
+        },
+        {
+          "letter": "C",
+          "text": "Ang pinakamababang bilis sa ramp."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang inirekomendang bilis para sa exit ramp na darating.",
+      "explanation": "Ang sign na ito ay nagpapakita ng inirekomendang ligtas na bilis para sa exit ramp. Bumabagal sa bilis na ito bago pumasok sa ramp."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/truck-rollover-warning-sharp-curve.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang mga truck ay maaaring magbigay sa matalas na curve na darating."
+        },
+        {
+          "letter": "B",
+          "text": "Ang mga truck ay dapat umalis dito."
+        },
+        {
+          "letter": "C",
+          "text": "May truck weigh station na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang mga truck ay maaaring magbigay sa matalas na curve na darating.",
+      "explanation": "Ang sign na ito ay nagbabanta sa mga truck driver ng isang matalas na curve kung saan maaaring bumigay. Ang lahat ng mga driver ay dapat bumabagal bago ang curve na ito."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/cross-road-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May crossroad na darating."
+        },
+        {
+          "letter": "B",
+          "text": "May railroad crossing na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "May hospital na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May crossroad na darating.",
+      "explanation": "Ang sign na ito ay nagbabanta sa iyo na ang ibang kalsada ay sumasalubong sa kalsada na iyong ginagamit. Bantayan ang trapiko mula sa magkabilang panig."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/side-road-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May side road na papasok mula sa kaliwa."
+        },
+        {
+          "letter": "B",
+          "text": "Ang left lane ay nagtatapos."
+        },
+        {
+          "letter": "C",
+          "text": "May left turn na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May side road na papasok mula sa kaliwa.",
+      "explanation": "Ang sign na ito ay nagbabanta na may side road na nakakatugon sa iyong kalsada mula sa kaliwa. Bantayan ang trapiko na papasok mula sa direksyong iyon."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/side-road-at-angle-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May side road na papasok sa isang anggulo na darating."
+        },
+        {
+          "letter": "B",
+          "text": "Ang daan ay yumuyuko na darating."
+        },
+        {
+          "letter": "C",
+          "text": "May merge point na paparating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May side road na papasok sa isang anggulo na darating.",
+      "explanation": "Ang sign na ito ay nagbabanta na may kalsada na papasok mula sa gilid sa isang anggulo. Bantayan ang mga sasakyan na papasok mula sa kalsadang iyon."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/side-road-at-angle-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May side road na papasok sa isang anggulo mula sa kanan."
+        },
+        {
+          "letter": "B",
+          "text": "Ang right turn ay kailangan."
+        },
+        {
+          "letter": "C",
+          "text": "May rest area sa kanan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May side road na papasok sa isang anggulo mula sa kanan.",
+      "explanation": "Ang sign na ito ay nagbabanta ng side road na papasok mula sa kanan sa isang anggulo. Bantayan ang mga sasakyan na nagmumula sa direksyong iyon."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/t-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May T-intersection na darating."
+        },
+        {
+          "letter": "B",
+          "text": "May dead end na darating."
+        },
+        {
+          "letter": "C",
+          "text": "May toll booth na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May T-intersection na darating.",
+      "explanation": "Ang sign na ito ay nagbabanta na ang kalsada na iyong ginagamit ay nagtatapos sa T-intersection. Dapat kang lumiko sa kaliwa o kanan."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/t-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kayo ay papalapit sa T-intersection."
+        },
+        {
+          "letter": "B",
+          "text": "May bridge na darating."
+        },
+        {
+          "letter": "C",
+          "text": "May tunnel na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Kayo ay papalapit sa T-intersection.",
+      "explanation": "Ang sign na ito ay nagbabanta na ang iyong kalsada ay nagtatapos sa T-intersection. Maging handa na lumiko sa kaliwa o kanan."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/y-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May Y-intersection na darating."
+        },
+        {
+          "letter": "B",
+          "text": "May merge point na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "May fork sa kalsada na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May Y-intersection na darating.",
+      "explanation": "Ang sign na ito ay nagbabanta ng Y-intersection na darating kung saan ang kalsada ay nagsasahagi sa dalawang direksyon. Pumili ng iyong lane nang maaga."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/intersection-within-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May intersection sa loob ng isang curve sa unahan."
+        },
+        {
+          "letter": "B",
+          "text": "Isang sharp curve ay naghihintay sa unahan."
+        },
+        {
+          "letter": "C",
+          "text": "Ang kalsada ay nagiging mas makitid sa isang curve."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May intersection sa loob ng isang curve sa unahan.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan ng intersection na matatagpuan sa loob ng isang curve. Ito ay maaaring maging extra na mapanganib dahil ang visibility ay maaaring limitado."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/circular-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May roundabout o traffic circle sa unahan."
+        },
+        {
+          "letter": "B",
+          "text": "May dead end na darating."
+        },
+        {
+          "letter": "C",
+          "text": "May U-turn area na darating."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May roundabout o traffic circle sa unahan.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na may roundabout o traffic circle na darating. Bumagal at magbigay-daan sa traffic na nasa loob na ng bilog."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/merging-traffic-from-right-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang traffic ay sumasama mula sa kanan sa unahan."
+        },
+        {
+          "letter": "B",
+          "text": "Ang right lane ay nagtatapos."
+        },
+        {
+          "letter": "C",
+          "text": "Isang right turn lane ay nagsisimula sa unahan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang traffic ay sumasama mula sa kanan sa unahan.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na ang mga sasakyan mula sa ibang kalsada ay magsasama sa iyong lane mula sa kanan. Maging handa na ayusin ang iyong bilis o lumipat ng lane."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/entering-roadway-merge-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dapat kang magsama sa kanan kapag pumasok sa roadway."
+        },
+        {
+          "letter": "B",
+          "text": "Ang right lane ay sarado."
+        },
+        {
+          "letter": "C",
+          "text": "Isang right curve ay naghihintay sa unahan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Dapat kang magsama sa kanan kapag pumasok sa roadway.",
+      "explanation": "Ang sign na ito ay nagsasabi na dapat kang magsama sa kanan kapag pumasok sa roadway. Ayusin ang iyong bilis upang ligtas na makipagsama sa traffic."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/entering-roadway-added-lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang bagong lane ay idinagdag para sa traffic na pumapasok sa roadway."
+        },
+        {
+          "letter": "B",
+          "text": "Ang kalsada ay lumalaki."
+        },
+        {
+          "letter": "C",
+          "text": "Isang passing lane ay nagsisimula dito."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Isang bagong lane ay idinagdag para sa traffic na pumapasok sa roadway.",
+      "explanation": "Ang sign na ito ay nangangahulugang isang bagong lane ay idinaragdag sa kalsada para sa traffic na pumapasok. Hindi mo na kailangang magsama kaagad."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/added-lane-from-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang bagong lane ay idinagdag mula sa kaliwa."
+        },
+        {
+          "letter": "B",
+          "text": "Ang left lane ay nagtatapos."
+        },
+        {
+          "letter": "C",
+          "text": "Ang traffic ay sumasama mula sa kaliwa."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Isang bagong lane ay idinagdag mula sa kaliwa.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na isang bagong lane ay idinaragdag sa kalsada mula sa kaliwang bahagi. Ang traffic mula sa kaliwa ay magkakaroon ng sariling lane."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/lane-reduction-right-lane-ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang right lane ay nagtatapos sa unahan. Magsama sa kaliwa."
+        },
+        {
+          "letter": "B",
+          "text": "Isang bagong right lane ay nagsisimula."
+        },
+        {
+          "letter": "C",
+          "text": "Ang kalsada ay lumalaki."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang right lane ay nagtatapos sa unahan. Magsama sa kaliwa.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na ang right lane ay magtatapos sa unahan. Ang mga driver sa right lane ay dapat ligtas na magsama sa kaliwa."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/road-narrows.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang kalsada sa unahan ay nagiging mas makitid."
+        },
+        {
+          "letter": "B",
+          "text": "May bridge na darating."
+        },
+        {
+          "letter": "C",
+          "text": "Isang one-lane road ay naghihintay sa unahan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang kalsada sa unahan ay nagiging mas makitid.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na ang kalsada sa unahan ay nagiging mas makitid. Bumagal at maging handa para sa napakaliit na espasyo."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/divided-highway-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang divided highway ay nagsisimula sa unahan."
+        },
+        {
+          "letter": "B",
+          "text": "May merge point na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "Ang kalsada ay naghahati sa dalawang kalsada."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Isang divided highway ay nagsisimula sa unahan.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na ang kalsada sa unahan ay nagiging isang divided highway na may median. Manatili sa kanan ng divider."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May steep hill na darating."
+        },
+        {
+          "letter": "B",
+          "text": "May speed bump na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "Ang kalsada ay hindi pantay."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May steep hill na darating.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan ng isang mataas na bundok sa unahan. Maaari mong kailangang lumipat sa mas mababang gear at gamitin ang iyong preno nang maingat habang bumababa."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/slippery-when-wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang kalsada ay maaaring maging slippery kapag basa."
+        },
+        {
+          "letter": "B",
+          "text": "Ang kalsada ay may maraming curves."
+        },
+        {
+          "letter": "C",
+          "text": "May yelo sa kalsada sa unahan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang kalsada ay maaaring maging slippery kapag basa.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na ang kalsada ay nagiging slippery kapag ito ay basa. Bumagal at iwasan ang biglaang tigil o pagliko sa mga basang kondisyon."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/deer-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang mga usa ay maaaring tumatagos sa kalsada sa lugar na ito."
+        },
+        {
+          "letter": "B",
+          "text": "Isang wildlife park ay malapit na."
+        },
+        {
+          "letter": "C",
+          "text": "Ang pangangaso ay pinapayagan sa malapit na."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang mga usa ay maaaring tumatagos sa kalsada sa lugar na ito.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na ang mga usa ay madalas na tumatagos sa kalsada sa lugar na ito. Panoorin ang mga usa, lalo na sa umaga at takipsilim."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/cattle-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang mga baka ay maaaring tumatagos sa kalsada sa lugar na ito."
+        },
+        {
+          "letter": "B",
+          "text": "Isang sakahan ay malapit na."
+        },
+        {
+          "letter": "C",
+          "text": "Isang rodeo area ay naghihintay sa unahan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang mga baka ay maaaring tumatagos sa kalsada sa lugar na ito.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na ang mga baka o ibang hayop na alagang domestiko ay maaaring tumatagos sa kalsada. Bumagal at maging handa na tumigil para sa mga hayop."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/farm-machinery-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang kagamitan sa sakahan ay maaaring tumatagos o gumamit ng kalsada."
+        },
+        {
+          "letter": "B",
+          "text": "Isang farm market ay naghihintay sa unahan."
+        },
+        {
+          "letter": "C",
+          "text": "Ang mabigat na mga trak ay gumagamit ng kalsadang ito."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang kagamitan sa sakahan ay maaaring tumatagos o gumamit ng kalsada.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na ang mabagal na gumagalaw na kagamitan sa sakahan ay maaaring naroroon o tumatagos sa kalsada. Maging maparaan at lumipas lamang kapag ligtas."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/truck-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang mga trak ay maaaring pumapasok o tumatagos sa kalsada."
+        },
+        {
+          "letter": "B",
+          "text": "May truck stop na malapit."
+        },
+        {
+          "letter": "C",
+          "text": "Dapat gumagamit ang mga trak ng kanang lane."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang mga trak ay maaaring pumapasok o tumatagos sa kalsada.",
+      "explanation": "Ang sign na ito ay nagbibigig-daan na ang mga trak ay madalas na pumapasok o tumatagos sa kalsada sa lokasyong ito. Panoorin ang malalaking sasakyan."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/snow-mobile-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maaaring tumatawid ang snowmobile sa kalsada sa lugar na ito."
+        },
+        {
+          "letter": "B",
+          "text": "May ski resort na malapit."
+        },
+        {
+          "letter": "C",
+          "text": "Maaaring masaklaw ng niyebe ang kalsada."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Maaaring tumatawid ang snowmobile sa kalsada sa lugar na ito.",
+      "explanation": "Ang sign na ito ay nagbabanta na madalas na tumatawid ang snowmobile sa kalsada sa lugar na ito. Maging alerto sa snowmobile, lalo na sa taglamig."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/fire-station.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May fire station na malapit sa kalsada. Bantayan ang fire truck."
+        },
+        {
+          "letter": "B",
+          "text": "May fire hydrant na malapit."
+        },
+        {
+          "letter": "C",
+          "text": "May campfire area na nasa unahan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May fire station na malapit sa kalsada. Bantayan ang fire truck.",
+      "explanation": "Ang sign na ito ay nagbabanta na may fire station na malapit sa kalsada. Bantayan ang fire truck na maaaring biglang pumasok sa kalsada. Palaging magbigay daan sa emergency vehicle."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Ano ang kahulugan ng sign na ito?",
+      "image": "/images/warning-signs/traffic-laws-enforced-by-cam.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ipinapatupad ang traffic law sa pamamagitan ng camera sa lugar na ito."
+        },
+        {
+          "letter": "B",
+          "text": "May speed bump na paparating."
+        },
+        {
+          "letter": "C",
+          "text": "May toll booth na may camera na nasa unahan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ipinapatupad ang traffic law sa pamamagitan ng camera sa lugar na ito.",
+      "explanation": "Ang sign na ito ay nagsasabi na gumagamit ng camera upang ipatupad ang traffic law sa lugar na ito. Sundin ang lahat ng traffic rule, kasama ang speed limit at red light."
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "state": "Vermont",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/vermont/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8638",
+      "question": "在空气制动系统油箱中的空气压力下降到55 psi以下之前应该发生什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "警告灯应该激活。"
+        },
+        {
+          "letter": "B",
+          "text": "车辆将无法从齿轮中换出。"
+        },
+        {
+          "letter": "C",
+          "text": "前灯应该闪烁。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "警告灯应该激活。",
+      "explanation": "在空气供应压力下降到空气箱中的55 psi以下之前，低空气压力警告信号必须激活。如果在检查期间测试时警告信号没有打开，车辆不安全驾驶。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11896",
+      "question": "在双气制动系统中，气压应在____秒内从85到100 psi之间增加。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25"
+        },
+        {
+          "letter": "B",
+          "text": "10"
+        },
+        {
+          "letter": "C",
+          "text": "45"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "45",
+      "explanation": "检查配有双气制动系统的车辆时，您应该等待气压在主系统和副系统中从85到100 psi增加。这应该需要约45秒。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10027",
+      "question": "酒精蒸发器特别重要：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在寒冷天气中。"
+        },
+        {
+          "letter": "B",
+          "text": "在炎热天气中。"
+        },
+        {
+          "letter": "C",
+          "text": "在干燥天气中。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在寒冷天气中。",
+      "explanation": "一些空气制动系统包含酒精蒸发器。该蒸发器将酒精引入系统，以帮助在寒冷天气中防止冰的形成。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11195",
+      "question": "基础制动器用于：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅在车辆的前轮上。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在车辆的后轮上。"
+        },
+        {
+          "letter": "C",
+          "text": "在车辆的每个车轮上。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在车辆的每个车轮上。",
+      "explanation": "基础制动器用于CMV的每个车轮上。最常见的基础制动器类型是s-凸轮鼓式制动器。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11881",
+      "question": "制动机构位于内部：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "第五轮。"
+        },
+        {
+          "letter": "B",
+          "text": "制动鼓内。"
+        },
+        {
+          "letter": "C",
+          "text": "着陆装置。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "制动鼓内。",
+      "explanation": "鼓式制动器附在车轮上，位于车辆的车轴上。使车辆停止的制动机构可以在鼓式制动器内部找到。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11197",
+      "question": "使用防抱死制动系统(ABS)：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在某些州是必需的。"
+        },
+        {
+          "letter": "B",
+          "text": "缩短制动响应时间。"
+        },
+        {
+          "letter": "C",
+          "text": "提供额外的控制。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "提供额外的控制。",
+      "explanation": "防抱死制动系统(ABS)有助于在硬制动时提供额外的控制，但不一定会缩短车辆的制动距离。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10028",
+      "question": "防抱死制动系统(ABS)：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不适用于配备气制动的车辆。"
+        },
+        {
+          "letter": "B",
+          "text": "在大多数驾驶情况下没有帮助。"
+        },
+        {
+          "letter": "C",
+          "text": "可以帮助您在制动时保持控制。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "可以帮助您在制动时保持控制。",
+      "explanation": "防锁制动系统(ABS)与气制动兼容，通过防止车轮锁止来帮助驾驶员保持车辆控制。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11321",
+      "question": "如果空气制动系统中的安全释放阀释放空气：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "压缩机需要更多空气。"
+        },
+        {
+          "letter": "B",
+          "text": "制动器出现问题。"
+        },
+        {
+          "letter": "C",
+          "text": "您可以继续驾驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "制动器出现问题。",
+      "explanation": "空气制动系统有一个安全释放阀，如果压力过高，它会从油箱中释放空气。如果阀门必须工作，系统中可能出现问题，应该由机械师处理。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8770",
+      "question": "使用弹簧制动器运输重载时，完全停止将：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "是不可能的。"
+        },
+        {
+          "letter": "B",
+          "text": "需要很长时间。"
+        },
+        {
+          "letter": "C",
+          "text": "需要很短的时间。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "需要很长时间。",
+      "explanation": "弹簧制动器不是在所有车轴上都有效。如果您的车辆因空气制动系统压力不足而启动弹簧制动器，您的车辆停止所需的距离将比平常更长，特别是在您携带重载的情况下。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11879",
+      "question": "S型凸轮制动器中的拉杆在向制动室添加气压时移动松弛调节器。当驾驶员以下列方式操作时，向室中添加气压:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "踩下制动踏板。"
+        },
+        {
+          "letter": "B",
+          "text": "使用应急制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "使用挂车手阀。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "踩下制动踏板。",
+      "explanation": "按下装有S凸轮制动器的车辆中的制动踏板时，空气会进入制动室。增加的空气压力将推出杆并移动松弛调节器，扭转制动凸轮轴。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10311",
+      "question": "低气压警告信号：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不建议用于装有空气制动系统的车辆。"
+        },
+        {
+          "letter": "B",
+          "text": "在装有气制动系统的车辆上是必需的。"
+        },
+        {
+          "letter": "C",
+          "text": "在装有气制动系统的车辆上是可选的。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在装有气制动系统的车辆上是必需的。",
+      "explanation": "任何装有空气制动系统的车辆都必须配备低气压警告信号。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8640",
+      "question": "仅在一个轴上配有ABS：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "可能很危险。"
+        },
+        {
+          "letter": "B",
+          "text": "仍然在制动时为你提供额外的控制。"
+        },
+        {
+          "letter": "C",
+          "text": "减缓车辆速度，但无法停止。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "仍然在制动时为你提供额外的控制。",
+      "explanation": "如果你的牵引车、挂车或仅某一轴配备了防抱死制动系统(ABS)，在制动时，你仍然会比没有ABS时对车辆有更好的控制。你应该正常制动。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11889",
+      "question": "在静态泄漏测试中，单个装有空气制动器的车辆的泄漏率应不超过一分钟内____。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 psi"
+        },
+        {
+          "letter": "B",
+          "text": "2 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2 psi",
+      "explanation": "在对配备空气制动器的单个车辆进行静态泄漏测试时，泄漏率应不超过每分钟2 psi。如果空气制动系统的泄漏速度更快，则不应驾驶该车辆，因为可能需要进行维修。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11198",
+      "question": "要在配备空气制动的车辆中停止，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "踩下制动踏板。"
+        },
+        {
+          "letter": "B",
+          "text": "抬起制动踏板。"
+        },
+        {
+          "letter": "C",
+          "text": "拉出空气制动旋钮。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "踩下制动踏板。",
+      "explanation": "要在配备空气制动的车辆中进行正常停止，您只需踩下制动踏板。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8771",
+      "question": "停车时，如果以下情况存在，您不应使用驻车制动器：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "制动器非常热。"
+        },
+        {
+          "letter": "B",
+          "text": "制动器非常冷。"
+        },
+        {
+          "letter": "C",
+          "text": "地面上有积雪。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "制动器非常热。",
+      "explanation": "如果您的制动器在下陡坡后很热，停车时不应使用驻车制动器。在使用驻车制动器或冒损坏制动器风险之前，让制动器冷却。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8641",
+      "question": "制动器特别容易失调，尤其是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "如果它们很热。"
+        },
+        {
+          "letter": "B",
+          "text": "在冬季。"
+        },
+        {
+          "letter": "C",
+          "text": "如果经常使用它们。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "如果它们很热。",
+      "explanation": "如果制动器很热，它们特别容易失调。请务必定期检查制动器的调整。为了安全控制车辆，所有制动器必须正常工作和调整。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8756",
+      "question": "充气罐排水管：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不应在寒冷天气中使用。"
+        },
+        {
+          "letter": "B",
+          "text": "有助于清除充气罐中的水和油。"
+        },
+        {
+          "letter": "C",
+          "text": "用于将空气输送到制动器。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "有助于清除充气罐中的水和油。",
+      "explanation": "空气制动系统中的压缩空气通常含有一定量的水和油。如果允许积累，这可能会对系统造成伤害。充气罐配有排水阀，以帮助清除压缩空气中的水和油。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10310",
+      "question": "酒精蒸发器是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "违法的。"
+        },
+        {
+          "letter": "B",
+          "text": "用于将酒精引入空气制动系统。"
+        },
+        {
+          "letter": "C",
+          "text": "仅允许在该州的北部地区使用。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "用于将酒精引入空气制动系统。",
+      "explanation": "某些空气制动系统具有酒精蒸发器，可将酒精引入制动系统以帮助防止冰的形成。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11951",
+      "question": "低气压警告信号应该激活：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "当罐压力降至120 psi以下时。"
+        },
+        {
+          "letter": "B",
+          "text": "当罐压力降至55 psi以下时。"
+        },
+        {
+          "letter": "C",
+          "text": "当罐压力降至10 psi以下时。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "当罐压力降至55 psi以下时。",
+      "explanation": "在气动制动系统中，如果罐中的空气压力降至55 psi以下，必须出现低气压警告信号。此警告信号可以是灯光、蜂鸣器或雨刮式警告。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10079",
+      "question": "空气箱排水口应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅由机械师使用。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在外面潮湿时使用。"
+        },
+        {
+          "letter": "C",
+          "text": "用于完全排空储气罐。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "用于完全排空储气罐。",
+      "explanation": "在空气制动系统中，空气箱排水口用于从空气箱中清除水和压缩机油。操作排水口时，请务必完全排空储气罐。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9605",
+      "question": "什么有助于防止制动时车轮抱死？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "防抱死制动系统（ABS）"
+        },
+        {
+          "letter": "B",
+          "text": "空气制动器"
+        },
+        {
+          "letter": "C",
+          "text": "交流发电机"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "防抱死制动系统（ABS）",
+      "explanation": "防抱死制动系统（ABS）的目的是防止在应用制动器时车轮抱死。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11890",
+      "question": "驾驶时，____通常将弹簧制动器保持在原位。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "气压"
+        },
+        {
+          "letter": "B",
+          "text": "电力"
+        },
+        {
+          "letter": "C",
+          "text": "汽油"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "气压",
+      "explanation": "行驶时，弹簧制动通常由气压固定。如果气压下降到足够低，弹簧将激活制动。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8634",
+      "question": "双空气制动系统：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "由两个独立的空气制动系统组成，共享一套控制装置。"
+        },
+        {
+          "letter": "B",
+          "text": "是一个具有两套不同控制装置的单一空气制动系统。"
+        },
+        {
+          "letter": "C",
+          "text": "由卡车左侧的一个空气制动系统和右侧的另一个系统组成，每个系统都有自己的控制装置。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "由两个独立的空气制动系统组成，共享一套控制装置。",
+      "explanation": "双空气制动系统由两个独立的空气制动系统组成。这些系统共享一套制动控制装置，但每个系统都有自己的储气罐、软管和管线。一个系统通常控制后轴或多根后轴上的常规制动器，另一个系统控制前轴上的常规制动器。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9606",
+      "question": "如果低气压警告信号亮起，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "继续驾驶，但在一周内修理制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "靠边停车并检查制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "驾驶时拨打机械师。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "靠边停车并检查制动器。",
+      "explanation": "如果在驾驶配备气动制动的车辆时低气压警告信号亮起，您应该立即将车辆停放在安全位置，同时您仍能控制制动器。尽快检查和修理制动器。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8629",
+      "question": "紧急制动器使用什么样的力？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "气压"
+        },
+        {
+          "letter": "B",
+          "text": "机械力"
+        },
+        {
+          "letter": "C",
+          "text": "沉重的"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "机械力",
+      "explanation": "空气制动系统实际上是三个不同的制动系统：行车制动、停驻制动和紧急制动。紧急制动和停驻制动通过机械力施加。"
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+{
+  "state": "Wyoming",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #2",
+  "slug": "intermediate-practice-test-2",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1816",
+      "question": "Une ligne jaune pointillée à côté d'une ligne jaune pleine indique que :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le dépassement est autorisé à partir de la voie à côté de la ligne jaune pleine."
+        },
+        {
+          "letter": "B",
+          "text": "Le dépassement n'est pas autorisé de chaque direction."
+        },
+        {
+          "letter": "C",
+          "text": "Le dépassement est autorisé à partir de la voie à côté de la ligne jaune pointillée."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Le dépassement est autorisé à partir de la voie à côté de la ligne jaune pointillée.",
+      "explanation": "Une ligne jaune pointillée à côté d'une ligne jaune pleine signifie que le trafic dans la voie à côté de la ligne pointillée peut traverser la ligne pour dépasser, tandis que le trafic dans la voie à côté de la ligne pleine ne peut pas."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "103",
+      "question": "Si vous avez du mal à voir d'autres véhicules en raison de la poussière ou de la fumée qui traverse la chaussée, vous devriez conduire plus lentement et allumer vos:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feux de détresse."
+        },
+        {
+          "letter": "B",
+          "text": "Feux de stationnement."
+        },
+        {
+          "letter": "C",
+          "text": "Phares."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Phares.",
+      "explanation": "Vous devez allumer vos phares à tout moment où les conditions vous empêchent de voir d'autres véhicules. Les autres conducteurs peuvent aussi avoir du mal à vous voir."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "64",
+      "question": "Pour tourner à gauche d'une rue à sens unique multilvoies vers une rue à sens unique, vous devez commencer votre virage à partir de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "N'importe quelle voie (tant que c'est sûr)."
+        },
+        {
+          "letter": "B",
+          "text": "La voie la plus proche du trottoir gauche."
+        },
+        {
+          "letter": "C",
+          "text": "La voie au centre de la route."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La voie la plus proche du trottoir gauche.",
+      "explanation": "Lorsque vous tournez à gauche d'une rue à sens unique vers une autre rue à sens unique, vous devez commencer le virage à partir de la voie la plus à gauche."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "176",
+      "question": "Les lignes jaunes séparent :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les voies de circulation sur les rues à sens unique."
+        },
+        {
+          "letter": "B",
+          "text": "Le trafic se déplaçant dans les directions opposées sur les routes bidirectionnelles."
+        },
+        {
+          "letter": "C",
+          "text": "Toutes les voies de covoiturage des voies de circulation régulières."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Le trafic se déplaçant dans les directions opposées sur les routes bidirectionnelles.",
+      "explanation": "Les lignes jaunes marquent le centre d'une route utilisée pour la circulation bidirectionnelle. Une ligne jaune continue au centre indique que les conducteurs ne peuvent pas dépasser cette ligne. Une ligne jaune pointillée au centre indique que les conducteurs peuvent dépasser cette ligne, mais seulement si cela n'interfère pas avec le trafic."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1991",
+      "question": "Vous pouvez aider à maintenir le conducteur derrière vous à une distance sûre de votre véhicule en :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rouler 10 mph plus vite que la voiture derrière vous."
+        },
+        {
+          "letter": "B",
+          "text": "Rouler 10 mph plus lentement que la voiture derrière vous."
+        },
+        {
+          "letter": "C",
+          "text": "Maintenir une vitesse constante."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Maintenir une vitesse constante.",
+      "explanation": "Il n'est pas toujours facile de maintenir une distance sûre derrière votre véhicule. Cependant, vous pouvez aider à maintenir le conducteur derrière vous à une distance sûre de votre véhicule en maintenant une vitesse constante et en signalant les virages, les changements de voie et les décélérations à l'avance."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "863",
+      "question": "Lorsque vous voyez ce panneau routier, vous devriez :",
+      "image": "/images/signs/divided_highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rester à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Rester à gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Dépasser avec prudence."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Rester à droite.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marquages noirs. Ce panneau indique qu'une autoroute divisée commence et les voitures doivent rester à droite."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "839",
+      "question": "Que signifie ce panneau routier?",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ralentissez et préparez-vous à vous arrêter si des voitures s'approchent de vous."
+        },
+        {
+          "letter": "B",
+          "text": "Faites un arrêt complet puis procédez lorsqu'il est sécuritaire de le faire."
+        },
+        {
+          "letter": "C",
+          "text": "Traversez l'intersection avec prudence, sans toujours vous arrêter."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Faites un arrêt complet puis procédez lorsqu'il est sécuritaire de le faire.",
+      "explanation": "Un panneau octogonal signifie toujours arrêt. Lorsque vous approchez d'un panneau d'arrêt, vous devez faire un arrêt complet à la ligne d'arrêt marquée et procéder uniquement lorsqu'il est sécuritaire de le faire. S'il n'y a pas de ligne d'arrêt, arrêtez-vous avant le passage pour piétons. S'il n'y a pas de passage pour piétons, arrêtez-vous avant l'intersection à un endroit d'où vous pouvez voir toute circulation venant en sens inverse."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "175",
+      "question": "Il y a des véhicules venant en sens inverse à votre gauche et une rangée de véhicules garés à votre droite. Vous devriez diriger:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plus près des véhicules venant en sens inverse que des véhicules garés."
+        },
+        {
+          "letter": "B",
+          "text": "Plus près des véhicules garés que des véhicules venant en sens inverse."
+        },
+        {
+          "letter": "C",
+          "text": "Un parcours médian entre les véhicules venant en sens inverse et les véhicules garés."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Un parcours médian entre les véhicules venant en sens inverse et les véhicules garés.",
+      "explanation": "S'il y a des véhicules venant en sens inverse à votre gauche et une rangée de véhicules garés à votre droite, la meilleure chose à faire est de trouver un équilibre. Suivez un parcours médian entre les voitures venant en sens inverse et les voitures garées."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1468",
+      "question": "Si des piétons traversent illégalement au milieu de la rue au lieu de traverser à un passage pour piétons, vous:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devez vous arrêter pour eux."
+        },
+        {
+          "letter": "B",
+          "text": "N'avez pas besoin de vous arrêter pour eux."
+        },
+        {
+          "letter": "C",
+          "text": "Devriez klaxonner sur eux."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Devez vous arrêter pour eux.",
+      "explanation": "Vous devez céder le passage aux piétons à tout moment. Si les piétons traversent sans droit de passage ou traversent la rue où ils ne devraient pas, vous devez quand même vous arrêter pour eux."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1770",
+      "question": "Si les conditions météorologiques ou de lumière vous obligent à allumer vos feux en conduisant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utilisez vos feux de stationnement."
+        },
+        {
+          "letter": "B",
+          "text": "Utilisez vos feux de route."
+        },
+        {
+          "letter": "C",
+          "text": "Utilisez vos feux de croisement."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Utilisez vos feux de croisement.",
+      "explanation": "Utilisez vos feux de croisement en conduisant dans des conditions brumeuses, enneigées ou pluvieuses. La lumière des feux de route se réfléchira, causant des reflets et rendant encore plus difficile de voir devant."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1309",
+      "question": "Lorsque vous changez de voie, vous ne devriez jamais :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Franchir la ligne médiane à une intersection."
+        },
+        {
+          "letter": "B",
+          "text": "Vérifier vos angles morts en regardant par-dessus votre épaule gauche ou droite."
+        },
+        {
+          "letter": "C",
+          "text": "Vérifier les autres conducteurs se déplaçant dans la même voie."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Franchir la ligne médiane à une intersection.",
+      "explanation": "Avant de changer de voie, vérifiez les conducteurs qui essaient de vous dépasser et qui peuvent essayer d'entrer dans la même voie que vous. Regardez par-dessus votre épaule pour vérifier votre angle mort. Vous ne devriez jamais essayer de dépasser ou autrement changer de voie dans une intersection."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1850",
+      "question": "L'aquaplanage se produit lorsque les pneus roulent sur un mince film d'eau au lieu de rouler sur la surface de la route. Pour prévenir l'aquaplanage par temps pluvieux, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Activer le contrôle de vitesse pour maintenir une vitesse constante."
+        },
+        {
+          "letter": "B",
+          "text": "Réduire votre vitesse."
+        },
+        {
+          "letter": "C",
+          "text": "Vous diriger vers l'accotement de la route dès qu'il commence à pleuvoir."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Réduire votre vitesse.",
+      "explanation": "Par temps pluvieux, vous devriez réduire votre vitesse pour réduire le risque d'aquaplanage. Conduire trop vite peut faire que vos pneus remontent sur l'eau et perdent le contact avec la surface de la route, ce qui rend très difficile le contrôle de votre véhicule."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1897",
+      "question": "Pour améliorer la visibilité réduite par la pluie ou le brouillard, les conducteurs doivent utiliser leurs :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feux de croisement."
+        },
+        {
+          "letter": "B",
+          "text": "Feux de route."
+        },
+        {
+          "letter": "C",
+          "text": "Feux de stationnement."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Feux de croisement.",
+      "explanation": "Utilisez les feux de croisement en conduisant sous la pluie, la neige, la grésil ou le brouillard. Les feux de route dans des conditions météorologiques défavorables réduisent la visibilité en se réfléchissant sur les précipitations et en revenant dans les yeux du conducteur."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1350",
+      "question": "Laquelle des déclarations suivantes est correcte?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utilisez votre pied gauche pour freiner."
+        },
+        {
+          "letter": "B",
+          "text": "Utilisez votre pied droit à la fois pour freiner et accélérer votre véhicule."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devez toujours freiner brusquement pour assurer l'arrêt."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Utilisez votre pied droit à la fois pour freiner et accélérer votre véhicule.",
+      "explanation": "Utilisez votre pied droit à la fois pour freiner et accélérer. Vous devez appliquer les freins doucement avec une pression croissante afin que votre véhicule s'arrête progressivement et en douceur."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1362",
+      "question": "Vous devriez conduire sur l'accotement pour dépasser une voiture:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si le véhicule devant vous tourne à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "En aucun cas."
+        },
+        {
+          "letter": "C",
+          "text": "Si l'accotement est assez large."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "En aucun cas.",
+      "explanation": "Le dépassement par la droite n'est autorisé que s'il est possible de le faire sans quitter la chaussée. Ne dépassez jamais un autre véhicule sur l'accotement car le conducteur ne s'attendra pas à votre présence et pourrait se ranger sur le côté de la route."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "3080",
+      "question": "Que devriez-vous faire si un véhicule d'urgence s'approche avec des feux rouges ou bleus clignotants?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rangez-vous sur le côté de la route et arrêtez-vous complètement."
+        },
+        {
+          "letter": "B",
+          "text": "Continuez à conduire, mais essayez de rester hors de son chemin."
+        },
+        {
+          "letter": "C",
+          "text": "Voyez si vous pouvez atteindre votre destination avant que le véhicule d'urgence ne vous rattrape."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Rangez-vous sur le côté de la route et arrêtez-vous complètement.",
+      "explanation": "Si un véhicule d'urgence s'approche de n'importe quelle direction avec des feux rouges ou bleus clignotants, vous devez vous ranger sur le trottoir droit ou le côté de la route et vous arrêter complètement. N'essayez pas de dépasser le véhicule d'urgence."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1360",
+      "question": "À un passage à niveau, vous devez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Observez les véhicules qui doivent s'arrêter à tous les passages à niveau (autobus scolaires, camions transportant des matières dangereuses, etc.)."
+        },
+        {
+          "letter": "B",
+          "text": "Observez plusieurs trains."
+        },
+        {
+          "letter": "C",
+          "text": "Les deux précédentes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les deux précédentes.",
+      "explanation": "Vous devez approcher tous les passages à niveau avec une extrême prudence et ne traverser que lorsque vous savez qu'aucun train n'arrive d'aucune direction. Soyez conscient des véhicules qui doivent s'arrêter à tous les passages à niveau, tels que les autobus scolaires et les camions transportant des matières dangereuses."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "3079",
+      "question": "Lors de l'utilisation d'un rond-point, les conducteurs doivent:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cédez le passage à la circulation déjà dans le rond-point."
+        },
+        {
+          "letter": "B",
+          "text": "Cédez le passage à la circulation qui entre."
+        },
+        {
+          "letter": "C",
+          "text": "Conduisez dans le sens des aiguilles d'une montre."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cédez le passage à la circulation déjà dans le rond-point.",
+      "explanation": "Un rond-point est une intersection circulaire qui s'écoule dans le sens inverse des aiguilles d'une montre autour d'une île centrale et n'inclut généralement pas de feu de circulation. Les automobilistes qui y entrent doivent céder le passage au trafic déjà dans le rond-point, suivre le cercle vers la droite et sortir sur la route désirée."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1262",
+      "question": "Conduire plus lentement que le trafic environnant est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une bonne idée si le temps est mauvais."
+        },
+        {
+          "letter": "B",
+          "text": "Approprié si vous ne connaissez pas la limite de vitesse."
+        },
+        {
+          "letter": "C",
+          "text": "Souvent un danger car les autres conducteurs peuvent devenir frustrés et essayer de vous dépasser."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Souvent un danger car les autres conducteurs peuvent devenir frustrés et essayer de vous dépasser.",
+      "explanation": "Conduire plus lentement que les autres voitures peut être dangereux. Les conducteurs derrière vous peuvent devenir impatients et seront tentés de prendre des risques dangereux pour vous dépasser."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "877",
+      "question": "La bonne façon de tourner à droite est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Signalez, ralentissez et entrez dans la voie la plus proche de la ligne médiane avant de tourner."
+        },
+        {
+          "letter": "B",
+          "text": "Signalez, ralentissez et entrez dans la voie la plus proche du trottoir droit avant de tourner."
+        },
+        {
+          "letter": "C",
+          "text": "Approchez le coin dans la voie la plus proche du trottoir droit, mais déplacez-vous vers le milieu de la rue avant de tourner."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Signalez, ralentissez et entrez dans la voie la plus proche du trottoir droit avant de tourner.",
+      "explanation": "Avant de commencer un virage à droite, utilisez le signal approprié pour donner aux conducteurs environnants un préavis adéquat de vos intentions. Ralentissez et approchez l'intersection depuis la voie de droite, en restant aussi proche que possible du trottoir droit ou du bord de la route."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1785",
+      "question": "Le temps de réaction est plus lent après :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consommer de l'alcool."
+        },
+        {
+          "letter": "B",
+          "text": "Dormir."
+        },
+        {
+          "letter": "C",
+          "text": "Travailler dur."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Consommer de l'alcool.",
+      "explanation": "L'alcool ralentit vos réflexes et votre temps de réaction, réduit votre capacité à voir clairement et vous rend moins alerte. À mesure que la quantité d'alcool dans votre corps augmente, votre jugement s'aggrave et vos compétences de conduite diminuent. Vous aurez du mal à juger les distances, les vitesses et le mouvement des autres véhicules."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "208",
+      "question": "Laquelle de ces déclarations est vraie concernant la conduite et la prise de médicaments?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La plupart des médicaments contre le rhume peuvent rendre une personne somnolente."
+        },
+        {
+          "letter": "B",
+          "text": "Les médicaments en vente libre ne peuvent pas altérer la conduite s'ils sont pris aux doses recommandées."
+        },
+        {
+          "letter": "C",
+          "text": "Les médicaments sont sûrs à prendre à tout moment, s'ils sont prescrits par un médecin."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La plupart des médicaments contre le rhume peuvent rendre une personne somnolente.",
+      "explanation": "N'oubliez pas que tous les médicaments, sur ordonnance ou en vente libre, sont potentiellement dangereux et pourraient altérer votre conduite. Les médicaments en vente libre que vous prenez pour les rhumes et les allergies peuvent vous rendre somnolent et affecter votre capacité à conduire. C'est votre responsabilité de savoir comment votre médicament affecte votre capacité à conduire."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "815",
+      "question": "Un trottoir peint en rouge signifie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zone de chargement."
+        },
+        {
+          "letter": "B",
+          "text": "La zone est réservée pour prendre ou déposer des passagers."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de stationnement, arrêt ou immobilisation."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pas de stationnement, arrêt ou immobilisation.",
+      "explanation": "Vous ne pouvez pas vous arrêter, stationner ou vous garer à un trottoir peint en rouge."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1944",
+      "question": "Un conducteur devrait :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fixer directement devant sa voiture."
+        },
+        {
+          "letter": "B",
+          "text": "Se concentrer uniquement sur le milieu de la route."
+        },
+        {
+          "letter": "C",
+          "text": "Observer à côté, devant et à l'arrière de sa voiture."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Observer à côté, devant et à l'arrière de sa voiture.",
+      "explanation": "Un conducteur doit observer à côté, devant et à l'arrière de sa voiture. Pour être un bon conducteur, vous devez savoir ce qui se passe autour de votre véhicule."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "851",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de virage à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez tourner à droite."
+        },
+        {
+          "letter": "C",
+          "text": "Attention au trafic sur votre droite."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pas de virage à droite.",
+      "explanation": "Ce panneau interdit les virages à droite. Vous ne pouvez pas tourner à droite à une intersection où ce panneau est affiché."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "1012",
+      "question": "Dans une circulation à 50 à 55 mph, vous êtes moins susceptible d'avoir un accident si vous :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduisez à quelques milles à l'heure plus vite que la plupart des autres véhicules."
+        },
+        {
+          "letter": "B",
+          "text": "Restez dans cette gamme de vitesse."
+        },
+        {
+          "letter": "C",
+          "text": "Conduisez à quelques milles à l'heure plus lentement que la plupart des autres véhicules."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Restez dans cette gamme de vitesse.",
+      "explanation": "Vous devriez ajuster votre vitesse pour circuler en harmonie avec les autres véhicules sur la route (à condition que le reste du trafic roule conformément aux limites de vitesse affichées). Rappelez-vous que les véhicules se déplaçant dans la même direction à la même vitesse ne peuvent pas se percuter. Les collisions impliquant plusieurs véhicules se produisent souvent quand certains véhicules roulent à des vitesses différentes des autres."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "1299",
+      "question": "Pour voir les objets dans leur angle mort lors du changement de voie, les conducteurs doivent vérifier :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniquement le rétroviseur extérieur gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Par-dessus leur épaule gauche ou droite."
+        },
+        {
+          "letter": "C",
+          "text": "Uniquement le rétroviseur intérieur."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Par-dessus leur épaule gauche ou droite.",
+      "explanation": "Les angles morts de votre véhicule sont les zones que vous ne pouvez pas voir dans vos rétroviseurs. Regardez par-dessus l'épaule appropriée pour vérifier votre angle mort lors du changement de voie."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "1232",
+      "question": "À mesure que vous approchez d'une intersection avec un feu jaune clignotant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêtez-vous avant de traverser l'intersection."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentir et procéder avec prudence."
+        },
+        {
+          "letter": "C",
+          "text": "Attendez un feu vert avant de procéder."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ralentir et procéder avec prudence.",
+      "explanation": "Un feu jaune clignotant signifie que vous devez réduire votre vitesse, vérifier le trafic transversal et procéder prudemment."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "1000",
+      "question": "Si vous êtes continuellement dépassé sur la droite et sur la gauche en conduisant dans la voie centrale d'une autoroute, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rester dans la voie centrale."
+        },
+        {
+          "letter": "B",
+          "text": "Vous déplacer vers la voie à votre droite."
+        },
+        {
+          "letter": "C",
+          "text": "Vous déplacer vers la voie à votre gauche."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vous déplacer vers la voie à votre droite.",
+      "explanation": "Si une route a quatre voies ou plus avec circulation bidirectionnelle, conduisez dans les voies de droite sauf si vous dépassez ou tournez à gauche. Si vous êtes sur une autoroute interétatique et que vous roulez en dessous de la vitesse du flux de circulation, utilisez la voie de droite."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1980",
+      "question": "Quand un bus scolaire est arrêté devant vous de votre côté de la route avec ses feux rouges clignotants, vous devez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ralentissez à une vitesse ne dépassant pas 10 mph."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous jusqu'à ce que les feux cessent de clignoter."
+        },
+        {
+          "letter": "C",
+          "text": "Changez de voie et dépassez prudemment."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Arrêtez-vous jusqu'à ce que les feux cessent de clignoter.",
+      "explanation": "Les feux supérieurs clignotants et le bras d'arrêt sur un bus scolaire seront activés lorsque le bus s'arrête pour charger ou décharger des étudiants. Si vous vous approchez d'un bus utilisant ces signaux, vous ne pouvez pas procéder tant que les feux rouges n'ont pas cessé de clignoter et que le bras d'arrêt n'a pas été rétracté. Ne dépassez jamais un bus scolaire qui dépose ou ramasse des étudiants."
+    }
+  ]
+}

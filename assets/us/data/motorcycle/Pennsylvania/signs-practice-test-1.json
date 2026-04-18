@@ -1,0 +1,819 @@
+{
+  "state": "Pennsylvania",
+  "category": "motorcycle",
+  "quizName": "Mixed Signs Practice Test #1",
+  "slug": "signs-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8233",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always stop before entering the intersection."
+        },
+        {
+          "letter": "B",
+          "text": "Yield just to the traffic on the right."
+        },
+        {
+          "letter": "C",
+          "text": "Yield just to the traffic on the left."
+        },
+        {
+          "letter": "D",
+          "text": "Slow down and yield the right-of-way to other traffic."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Slow down and yield the right-of-way to other traffic.",
+      "explanation": "A yield sign tells you to slow down and let other traffic in the intersection go first before you enter."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8223",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continue at your current speed."
+        },
+        {
+          "letter": "B",
+          "text": "You must stop ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Speeding is not allowed."
+        },
+        {
+          "letter": "D",
+          "text": "There is a traffic signal ahead."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "There is a traffic signal ahead.",
+      "explanation": "This sign warns you that a traffic light is coming up ahead."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8411",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/hawaii-divided_highway_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One-way traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Divided highway ends."
+        },
+        {
+          "letter": "C",
+          "text": "Two-way traffic."
+        },
+        {
+          "letter": "D",
+          "text": "Keep left."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Divided highway ends.",
+      "explanation": "Warning signs are diamond-shaped with black markings on yellow. They alert you to upcoming hazards. This sign means the separated highway is ending soon."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8368",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop."
+        },
+        {
+          "letter": "B",
+          "text": "Side road."
+        },
+        {
+          "letter": "C",
+          "text": "Two-way left turn."
+        },
+        {
+          "letter": "D",
+          "text": "Farm machinery."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stop.",
+      "explanation": "Eight-sided signs mean you must stop completely at the intersection. Wait until it is safe, then go."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8350",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/bicycle_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bicycle crossing."
+        },
+        {
+          "letter": "B",
+          "text": "Stop."
+        },
+        {
+          "letter": "C",
+          "text": "Fines double in a work zone."
+        },
+        {
+          "letter": "D",
+          "text": "Stop ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bicycle crossing.",
+      "explanation": "Warning signs are yellow with black markings. They prepare you for hazards ahead. This sign warns that bicycles may cross the road here."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8222",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/new-york-keep_right_of_divider.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Divided highway ends."
+        },
+        {
+          "letter": "B",
+          "text": "One-way traffic ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Two-way traffic ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Keep to the right."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Keep to the right.",
+      "explanation": "This sign tells you to stay on the right side of the divider ahead."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8362",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/one_way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One-way traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Two-way left turn."
+        },
+        {
+          "letter": "C",
+          "text": "Two-way traffic."
+        },
+        {
+          "letter": "D",
+          "text": "Minimum speed limit."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "One-way traffic.",
+      "explanation": "Regulation signs tell you traffic rules you must follow. This sign shows the direction traffic flows on this street."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8247",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/arizona-shap_turn_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The road ahead turns sharply right, then left."
+        },
+        {
+          "letter": "B",
+          "text": "The road ahead turns sharply left, then right."
+        },
+        {
+          "letter": "C",
+          "text": "The road ahead curves to the left."
+        },
+        {
+          "letter": "D",
+          "text": "Construction ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The road ahead turns sharply right, then left.",
+      "explanation": "This sign warns that the road will make a sharp right turn followed by a sharp left turn."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8261",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/sharp_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One-way road."
+        },
+        {
+          "letter": "B",
+          "text": "No right turn."
+        },
+        {
+          "letter": "C",
+          "text": "Exit."
+        },
+        {
+          "letter": "D",
+          "text": "Sharp right turn in the road ahead."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Sharp right turn in the road ahead.",
+      "explanation": "This sign warns you that a sharp right turn is coming up on the road ahead."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8186",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop"
+        },
+        {
+          "letter": "B",
+          "text": "Wrong way"
+        },
+        {
+          "letter": "C",
+          "text": "Yield"
+        },
+        {
+          "letter": "D",
+          "text": "Do not enter"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Yield",
+      "explanation": "This triangular sign means yield. Slow down and check for traffic and pedestrians. Let other traffic go first. Only stop if necessary."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8263",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/arkansas-traffic_lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Road widens ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Lane reduction; the right lane ends soon."
+        },
+        {
+          "letter": "C",
+          "text": "Highway entrance ramp ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Lane reduction; the left lane ends soon."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Lane reduction; the right lane ends soon.",
+      "explanation": "This sign warns that the right lane will end soon."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8367",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/indiana-steep_downgrade.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Steep downgrade."
+        },
+        {
+          "letter": "B",
+          "text": "Crossroad ahead."
+        },
+        {
+          "letter": "C",
+          "text": "No right turn."
+        },
+        {
+          "letter": "D",
+          "text": "Narrow bridge."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Steep downgrade.",
+      "explanation": "This yellow and black warning sign alerts you to a steep downhill section ahead. Reduce your speed to protect your brakes and avoid accidents."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8228",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/two_way_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four-lane traffic ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Divided highway ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Two-way traffic ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Intersection ahead."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Two-way traffic ahead.",
+      "explanation": "This sign warns you that traffic flows in both directions ahead."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "3765",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/handsignal3.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow or stop"
+        },
+        {
+          "letter": "B",
+          "text": "Left turn"
+        },
+        {
+          "letter": "C",
+          "text": "Right turn"
+        },
+        {
+          "letter": "D",
+          "text": "Backing up"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Left turn",
+      "explanation": "Hand signals can be used instead of or along with turn signals. When the left arm is extended straight out to the side, it signals a left turn or left lane change."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "3764",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/handsignal2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow or stop"
+        },
+        {
+          "letter": "B",
+          "text": "Left turn"
+        },
+        {
+          "letter": "C",
+          "text": "Right turn"
+        },
+        {
+          "letter": "D",
+          "text": "Backing up"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Right turn",
+      "explanation": "Hand signals can be used instead of or along with turn signals. When the left arm is bent at the elbow pointing upward, it signals a right turn or right lane change."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8248",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/virginia-bicycle_crossing_left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bicycle crossing."
+        },
+        {
+          "letter": "B",
+          "text": "Stop only if other cars are approaching."
+        },
+        {
+          "letter": "C",
+          "text": "Bicycle store."
+        },
+        {
+          "letter": "D",
+          "text": "Soft shoulders."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bicycle crossing.",
+      "explanation": "This sign marks a bicycle crossing or path. Be alert in this area because bicycles regularly cross or travel next to traffic here."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8268",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drive with caution and be ready to slow down."
+        },
+        {
+          "letter": "B",
+          "text": "Do not drive in this lane."
+        },
+        {
+          "letter": "C",
+          "text": "You must come to a complete stop and yield the right-of-way."
+        },
+        {
+          "letter": "D",
+          "text": "Slow down, be prepared to stop, and, if necessary, yield the right-of-way."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Slow down, be prepared to stop, and, if necessary, yield the right-of-way.",
+      "explanation": "This triangular sign means yield. Slow down as you approach the intersection and be ready to stop. Allow other vehicles, bicycles, and pedestrians to pass safely before you go."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8272",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/winding_road_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sharp turn to the right."
+        },
+        {
+          "letter": "B",
+          "text": "Double curve."
+        },
+        {
+          "letter": "C",
+          "text": "Winding road."
+        },
+        {
+          "letter": "D",
+          "text": "Pavement ends."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Winding road.",
+      "explanation": "This sign warns that the road ahead has a series of curves and turns."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8259",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No left turn."
+        },
+        {
+          "letter": "B",
+          "text": "No U-turns."
+        },
+        {
+          "letter": "C",
+          "text": "No exit."
+        },
+        {
+          "letter": "D",
+          "text": "No right turn."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "No right turn.",
+      "explanation": "This sign prohibits right turns."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8197",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/pennsylvania-no_passing_zone2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No passing zone"
+        },
+        {
+          "letter": "B",
+          "text": "Wrong way"
+        },
+        {
+          "letter": "C",
+          "text": "Railroad crossing"
+        },
+        {
+          "letter": "D",
+          "text": "Stop"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No passing zone",
+      "explanation": "Pennant-shaped signs are used only to mark no passing zones."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8252",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When pavement is wet, reduce your speed."
+        },
+        {
+          "letter": "B",
+          "text": "The road ahead winds a series of turns or curves."
+        },
+        {
+          "letter": "C",
+          "text": "Traffic increases ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Steep grade ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When pavement is wet, reduce your speed.",
+      "explanation": "This sign warns that the road is slippery when wet. You should slow down, avoid sudden braking or sharp turns, and keep more distance from the vehicle ahead."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8255",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/divided_highway_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do not pass."
+        },
+        {
+          "letter": "B",
+          "text": "Do not enter."
+        },
+        {
+          "letter": "C",
+          "text": "No turn on red."
+        },
+        {
+          "letter": "D",
+          "text": "Keep right."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Keep right.",
+      "explanation": "This sign means a divided highway is coming. The road will split into two separate one-way sections with a median between them. Stay in the right lane."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8217",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An intersection."
+        },
+        {
+          "letter": "B",
+          "text": "A crosswalk."
+        },
+        {
+          "letter": "C",
+          "text": "A railroad crossing."
+        },
+        {
+          "letter": "D",
+          "text": "A blasting zone."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "A railroad crossing.",
+      "explanation": "This sign warns you that a railroad crossing is ahead."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "4642",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/riding17.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow down"
+        },
+        {
+          "letter": "B",
+          "text": "Speed up"
+        },
+        {
+          "letter": "C",
+          "text": "Leave the roadway"
+        },
+        {
+          "letter": "D",
+          "text": "Hazard"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Slow down",
+      "explanation": "When a lead rider extends their left arm straight out with palm down and then swings it to their side, riders following should reduce speed."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8269",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/y_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Your current roadway ends ahead."
+        },
+        {
+          "letter": "B",
+          "text": "You must bear either right or left."
+        },
+        {
+          "letter": "C",
+          "text": "A four-way intersection is ahead."
+        },
+        {
+          "letter": "D",
+          "text": "A road joins from the right."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You must bear either right or left.",
+      "explanation": "This sign shows a Y intersection ahead. You must choose to go right or left."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "8432",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/montana-narrow_bridge_2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trucks are permitted on an upcoming narrow bridge."
+        },
+        {
+          "letter": "B",
+          "text": "The bridge ahead is open to one-way traffic only."
+        },
+        {
+          "letter": "C",
+          "text": "The bridge ahead is wide enough for only one car at a time."
+        },
+        {
+          "letter": "D",
+          "text": "The bridge ahead may be too narrow to meet or pass a truck."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "The bridge ahead may be too narrow to meet or pass a truck.",
+      "explanation": "This warning sign tells you that a narrow bridge is ahead. You may not have room to pass or meet a truck. Be careful and slow down."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "8404",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/crossroad.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increase your speed."
+        },
+        {
+          "letter": "B",
+          "text": "Railroad crossing ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Intersection ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Four-way stop ahead."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Intersection ahead.",
+      "explanation": "This sign warns that an intersection is coming. Look carefully for traffic crossing your path."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "8189",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No U-turn."
+        },
+        {
+          "letter": "B",
+          "text": "No left turn."
+        },
+        {
+          "letter": "C",
+          "text": "No right turn."
+        },
+        {
+          "letter": "D",
+          "text": "No turning."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "No right turn.",
+      "explanation": "This sign means you cannot turn right at this intersection."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "8430",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/school.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You must drive slowly and sound your horn."
+        },
+        {
+          "letter": "B",
+          "text": "A bus stop is ahead."
+        },
+        {
+          "letter": "C",
+          "text": "You are entering a school's parking lot."
+        },
+        {
+          "letter": "D",
+          "text": "A school zone is ahead."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "A school zone is ahead.",
+      "explanation": "This warning sign tells you a school zone is ahead. Slow down and watch for children."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "8210",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/district-of-columbia-speed_limit_25.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only a recommended driving speed."
+        },
+        {
+          "letter": "B",
+          "text": "The exact speed at which you must travel to avoid a ticket."
+        },
+        {
+          "letter": "C",
+          "text": "The maximum safe driving speed under ideal road and weather conditions."
+        },
+        {
+          "letter": "D",
+          "text": "The maximum safe driving speed under all road conditions."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The maximum safe driving speed under ideal road and weather conditions.",
+      "explanation": "A speed limit sign shows the highest legal speed for that road under perfect conditions. You may need to drive slower if conditions are bad, such as rain, snow, or heavy traffic."
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "state": "South Dakota",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/south-dakota/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8633",
+      "question": "Sistemas de Frenos Antibloqueo (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducen la capacidad de frenado normal de un vehículo."
+        },
+        {
+          "letter": "B",
+          "text": "Se suman a otros sistemas de frenado y no reducen la potencia de frenado de un vehículo."
+        },
+        {
+          "letter": "C",
+          "text": "No son efectivos en vehículos más grandes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Se suman a otros sistemas de frenado y no reducen la potencia de frenado de un vehículo.",
+      "explanation": "Si está equipado, ABS se suma al sistema de frenado normal de un vehículo y no aumenta ni disminuye la potencia de frenado de ningún otro sistema. ABS solo se activa cuando las ruedas de un vehículo están a punto de bloquearse."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8984",
+      "question": "En un camión con frenos de aire, el compresor de aire del sistema de frenado:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bombea aire a los tanques de almacenamiento de aire."
+        },
+        {
+          "letter": "B",
+          "text": "Llena los neumáticos."
+        },
+        {
+          "letter": "C",
+          "text": "Mueve aire hacia la parte trasera del camión."
+        },
+        {
+          "letter": "D",
+          "text": "Limpia los frenos."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bombea aire a los tanques de almacenamiento de aire.",
+      "explanation": "En un sistema de frenos de aire, el compresor de aire bombea aire hacia los tanques de almacenamiento de aire. El compresor de aire está controlado por el gobernador del compresor de aire."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10080",
+      "question": "Los evaporadores de alcohol son:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ilegal."
+        },
+        {
+          "letter": "B",
+          "text": "Utilizados para agregar alcohol a los sistemas de frenado para evitar que los artículos se congelen."
+        },
+        {
+          "letter": "C",
+          "text": "Solo permitido en vehículos que transportan materiales peligrosos."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Utilizados para agregar alcohol a los sistemas de frenado para evitar que los artículos se congelen.",
+      "explanation": "Algunos sistemas de frenos de aire incluyen un evaporador de alcohol. El evaporador introduce alcohol en el sistema de frenado para evitar la formación de hielo, que puede causar daño."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "10742",
+      "question": "La presión de aire debe acumularse en un único sistema de aire dentro de:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 minutos."
+        },
+        {
+          "letter": "B",
+          "text": "12 minutos."
+        },
+        {
+          "letter": "C",
+          "text": "Tres minutos."
+        },
+        {
+          "letter": "D",
+          "text": "Un minuto."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tres minutos.",
+      "explanation": "En un vehículo con un único sistema de frenos de aire, después de que el motor esté a revoluciones de funcionamiento, la presión en el sistema de aire generalmente debe aumentar de 50 a 90 psi dentro de tres minutos."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10740",
+      "question": "En un sistema de frenos de aire dual:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tanques de aire son compartidos por ambos sistemas."
+        },
+        {
+          "letter": "B",
+          "text": "Cada sistema tiene sus propios tanques de aire."
+        },
+        {
+          "letter": "C",
+          "text": "Debe designar qué sistema está utilizando."
+        },
+        {
+          "letter": "D",
+          "text": "Los frenos en solo un lado del vehículo funcionarán."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Cada sistema tiene sus propios tanques de aire.",
+      "explanation": "La mayoría de los vehículos pesados utilizan sistemas de frenos de aire duales. Un sistema de freno de aire dual consta de dos sistemas de freno de aire separados, conectados por un único conjunto de controles de freno. Cada sistema tiene sus propios tanques de aire."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10724",
+      "question": "Los drenajes del tanque de aire:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitir que el agua de lluvia entre en los tanques de aire."
+        },
+        {
+          "letter": "B",
+          "text": "Se utilizan para drenar agua y aceite de los tanques de aire."
+        },
+        {
+          "letter": "C",
+          "text": "Nunca deben ser abiertos."
+        },
+        {
+          "letter": "D",
+          "text": "Deben permanecer abiertos mientras se conduce."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Se utilizan para drenar agua y aceite de los tanques de aire.",
+      "explanation": "En un sistema de frenos de aire, los tanques de aire están equipados con drenajes que permiten la extracción de agua y aceite del compresor del sistema. Si se acumulan, el agua y el aceite del compresor pueden dañar un sistema de frenos de aire."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11674",
+      "question": "Para inspeccionar los ajustadores de holgura en frenos S-cam, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estacione en una colina y pruebe los frenos."
+        },
+        {
+          "letter": "B",
+          "text": "Póngase guantes e empuje los ajustadores de holgura."
+        },
+        {
+          "letter": "C",
+          "text": "Retire el tambor y mire adentro."
+        },
+        {
+          "letter": "D",
+          "text": "Asegure las ruedas y desconecte el freno de estacionamiento."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Asegure las ruedas y desconecte el freno de estacionamiento.",
+      "explanation": "Verifique cada ajustador de holgura después de estacionar en terreno plano, colocar cuñas de rueda y desconectar el freno de estacionamiento. Tire de los ajustadores de holgura para asegurarse de que no se muevan más de aproximadamente una pulgada desde donde está unida la barra de empuje. Si se mueven más de una pulgada, pueden estar desajustados y necesitarán ser reparados."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11897",
+      "question": "Cuando experimente clima frío, asegúrese de revisar el evaporador de alcohol de su vehículo:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada tres horas."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los días."
+        },
+        {
+          "letter": "C",
+          "text": "Cada dos semanas."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Todos los días.",
+      "explanation": "Un evaporador de alcohol puede ayudar a prevenir la acumulación de hielo en un sistema de frenos de aire. En climas fríos, el evaporador debe ser verificado y rellenado todos los días."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8990",
+      "question": "Si los frenos de resorte están activados, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No usar el pedal de freno."
+        },
+        {
+          "letter": "B",
+          "text": "Presionar el acelerador."
+        },
+        {
+          "letter": "C",
+          "text": "Mover el volante."
+        },
+        {
+          "letter": "D",
+          "text": "Tenga especial cuidado porque los frenos pueden fallar."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No usar el pedal de freno.",
+      "explanation": "No debe aplicar el pedal de freno si los frenos de resorte están activados. Los frenos podrían dañarse si están sujetos a la fuerza de la presión de aire y los resortes al mismo tiempo."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11696",
+      "question": "Una válvula de control moduladora puede controlar el:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Frenos de resorte."
+        },
+        {
+          "letter": "B",
+          "text": "Tren de aterrizaje."
+        },
+        {
+          "letter": "C",
+          "text": "Frenos de aire."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema de frenos antibloqueo (ABS)."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Frenos de resorte.",
+      "explanation": "Una válvula de control modulador permite a un conductor aplicar gradualmente los frenos de resorte. En los vehículos equipados, la válvula es controlada por una palanca ubicada en el salpicadero."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11535",
+      "question": "Durante una prueba de fugas aplicada, la tasa máxima de fugas para un vehículo de triple combinación es ____ en un minuto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 psi"
+        },
+        {
+          "letter": "B",
+          "text": "4 psi"
+        },
+        {
+          "letter": "C",
+          "text": "6 psi"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "6 psi",
+      "explanation": "Es importante conocer la velocidad de pérdida de aire máxima que es segura para su vehículo específico. Una combinación triple debe tener una velocidad de fuga no superior a 6 psi en un minuto durante una prueba de fuga aplicada."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10230",
+      "question": "Los frenos de fundación se utilizan:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo en las ruedas delanteras."
+        },
+        {
+          "letter": "B",
+          "text": "Solo en las ruedas traseras."
+        },
+        {
+          "letter": "C",
+          "text": "Solo en las ruedas del lado del conductor."
+        },
+        {
+          "letter": "D",
+          "text": "En cada rueda."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "En cada rueda.",
+      "explanation": "Los frenos de base se usan en cada rueda. El tipo más común es el freno de tambor de leva S."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11894",
+      "question": "Una ____ permite a un conductor aplicar gradualmente los frenos de resorte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Válvula de control modulador"
+        },
+        {
+          "letter": "B",
+          "text": "Control de suministro de aire del remolque"
+        },
+        {
+          "letter": "C",
+          "text": "Válvula de relé"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Válvula de control modulador",
+      "explanation": "Una válvula de control modulador permite a un conductor aplicar gradualmente los frenos de resorte. En los vehículos equipados, la válvula es controlada por una palanca ubicada en el salpicadero."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9894",
+      "question": "Los frenos desajustados:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funcionarán correctamente."
+        },
+        {
+          "letter": "B",
+          "text": "Causarán que algunos de los frenos trabajen en exceso y funcionen mal."
+        },
+        {
+          "letter": "C",
+          "text": "Permitirán una mejor aceleración."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Causarán que algunos de los frenos trabajen en exceso y funcionen mal.",
+      "explanation": "Los frenos desajustados se desvanecerán antes que aquellos que están correctamente ajustados. El ajuste de los frenos debe verificarse con frecuencia para ayudar a prevenir problemas de frenos."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10081",
+      "question": "Una señal de advertencia de baja presión de aire:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se requiere en vehículos con frenos de aire."
+        },
+        {
+          "letter": "B",
+          "text": "Se requiere en vehículos con frenos de aire."
+        },
+        {
+          "letter": "C",
+          "text": "Es opcional en vehículos con frenos de aire."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Se requiere en vehículos con frenos de aire.",
+      "explanation": "Un vehículo con frenos de aire debe estar equipado con una señal de advertencia de baja presión de aire. Si la señal de advertencia se activa mientras se conduce un vehículo, el conductor debe detener el vehículo por completo y reparar el sistema."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11878",
+      "question": "Un conductor puede confiar en que el frenado de las ruedas delanteras funcione:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo en carreteras secas."
+        },
+        {
+          "letter": "B",
+          "text": "Bajo todas las condiciones."
+        },
+        {
+          "letter": "C",
+          "text": "Bajo todas las condiciones, excepto en nieve."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Bajo todas las condiciones.",
+      "explanation": "El frenado de las ruedas delanteras es efectivo bajo todas las condiciones de carretera. Es poco probable que experimente un bloqueo de la rueda delantera, incluso en hielo."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8884",
+      "question": "El desvanecimiento de frenos es causado cuando:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los frenos no se usan lo suficientemente a menudo."
+        },
+        {
+          "letter": "B",
+          "text": "Los frenos se sobrecalientan."
+        },
+        {
+          "letter": "C",
+          "text": "Los frenos están demasiado fríos."
+        },
+        {
+          "letter": "D",
+          "text": "Los frenos están mojados."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Los frenos se sobrecalientan.",
+      "explanation": "El uso excesivo de los frenos hará que se sobrecalienten, haciéndolos menos efectivos. Esto se conoce como \"desvanecimiento\"."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11899",
+      "question": "Debe ____ si la señal de advertencia de baja presión se activa mientras está conduciendo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detenerse donde esté y estacionar"
+        },
+        {
+          "letter": "B",
+          "text": "Salir de la carretera lo más pronto posible de forma segura"
+        },
+        {
+          "letter": "C",
+          "text": "Continuar conduciendo normalmente"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Salir de la carretera lo más pronto posible de forma segura",
+      "explanation": "Si la señal de advertencia de baja presión se activa mientras conduce, es importante que salga de la carretera de forma segura lo antes posible y estacione su vehículo. Si la presión del aire baja demasiado, los frenos ya no funcionarán lo suficientemente bien para que pueda detenerse de forma segura."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9007",
+      "question": "¿Qué puede suceder si se usa el freno de estacionamiento en clima muy húmedo cuando las temperaturas están bajo cero?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los frenos chirriarán."
+        },
+        {
+          "letter": "B",
+          "text": "Los frenos pueden congelarse para que el vehículo no pueda moverse."
+        },
+        {
+          "letter": "C",
+          "text": "Los frenos pueden soltarse repentinamente por sí solos."
+        },
+        {
+          "letter": "D",
+          "text": "Los frenos pueden explotar."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Los frenos pueden congelarse para que el vehículo no pueda moverse.",
+      "explanation": "Si usa los frenos de estacionamiento cuando el clima es muy húmedo y la temperatura está bajo cero, los frenos pueden congelarse, impidiendo que el vehículo se mueva."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11314",
+      "question": "Un vehículo equipado con un Sistema de Frenos Antibloqueo (ABS) utiliza una luz ____ para advertir que el sistema no está funcionando correctamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verde"
+        },
+        {
+          "letter": "B",
+          "text": "Amarillo"
+        },
+        {
+          "letter": "C",
+          "text": "Naranja"
+        },
+        {
+          "letter": "D",
+          "text": "Blanco"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Amarillo",
+      "explanation": "Las lámparas de malfunction del Sistema de Frenado Antibloqueo (ABS) generalmente son amarillas. Incluso si el ABS no funciona correctamente, el conductor aún tendrá acceso a las funciones de frenado habituales del vehículo."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11107",
+      "question": "Cuando se presiona el pedal de freno, los frenos de aire funcionan:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inmediatamente."
+        },
+        {
+          "letter": "B",
+          "text": "Después de un corto retraso."
+        },
+        {
+          "letter": "C",
+          "text": "Después de aproximadamente un minuto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo si se presiona la palanca verde en el panel de control."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Después de un corto retraso.",
+      "explanation": "Después de presionar el pedal de freno en un vehículo con frenos de aire, tarda medio segundo o más para que el aire fluya a través de las líneas y haga funcionar los frenos. Esto contrasta con los frenos hidráulicos utilizados en automóviles y camiones ligeros y medianos, que comienzan a funcionar instantáneamente cuando se presiona el pedal."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11193",
+      "question": "Debe tener un endoso de frenos de aire:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para usar un vehículo con frenos de aire."
+        },
+        {
+          "letter": "B",
+          "text": "Para conducir cualquier camión con remolque."
+        },
+        {
+          "letter": "C",
+          "text": "Para transportar materiales peligrosos."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Para usar un vehículo con frenos de aire.",
+      "explanation": "Debe realizar una prueba de conocimiento de frenos de aire para obtener la licencia para operar un vehículo equipado con frenos de aire, incluyendo un sistema de frenado hidráulico asistido por aire."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11670",
+      "question": "Los mecanismos de frenado se encuentran ____ un tambor de freno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuera"
+        },
+        {
+          "letter": "B",
+          "text": "Dentro"
+        },
+        {
+          "letter": "C",
+          "text": "Junto a"
+        },
+        {
+          "letter": "D",
+          "text": "Encima de"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dentro",
+      "explanation": "Los frenos de tambor están adjuntos a las ruedas y ubicados en los ejes de un vehículo. Los mecanismos de frenado que hacen que el vehículo se detenga se encuentran dentro de un freno de tambor."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11466",
+      "question": "Durante una prueba de fuga aplicada, la velocidad de fuga máxima para un vehículo triple es:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi en un minuto."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi en un minuto."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi en un minuto."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi en un minuto."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "6 psi en un minuto.",
+      "explanation": "Es importante conocer la velocidad de pérdida de aire máxima que es segura para su vehículo específico. Una combinación triple debe tener una velocidad de fuga no superior a 6 psi en un minuto durante una prueba de fuga aplicada."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8626",
+      "question": "¿Por qué debe drenar regularmente los tanques de aire?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el aire envejece y necesita ser reemplazado"
+        },
+        {
+          "letter": "B",
+          "text": "Porque el aire comprimido contiene algo de agua y el agua se acumula en los tanques"
+        },
+        {
+          "letter": "C",
+          "text": "Para permitir un cambio de presión"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Porque el aire comprimido contiene algo de agua y el agua se acumula en los tanques",
+      "explanation": "El aire comprimido generalmente contiene una cierta cantidad de humedad y aceite del compresor, que pueden acumularse en los tanques de almacenamiento de aire y dañar el sistema de frenos. Los tanques deben drenarse para limpiar estas acumulaciones. En un tanque con una válvula de drenaje manual, el drenaje debe realizarse al final de cada día de conducción."
+    }
+  ]
+}

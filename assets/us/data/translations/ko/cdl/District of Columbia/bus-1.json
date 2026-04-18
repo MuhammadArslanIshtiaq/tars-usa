@@ -1,0 +1,530 @@
+{
+  "state": "District of Columbia",
+  "category": "cdl",
+  "testName": "Bus Test #1 20 Questions • Passing Score 16",
+  "testSlug": "bus-1",
+  "url": "/images/district-of-columbia/cdl/bus-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9023",
+      "question": "차량 점검 중에 다음을 확인하십시오:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "비상 탈출구를 열기가 어렵습니다."
+        },
+        {
+          "letter": "B",
+          "text": "비상 탈출 경고 장치가 제대로 작동합니다."
+        },
+        {
+          "letter": "C",
+          "text": "비상구에서 삐걱거리는 소리가 난다."
+        },
+        {
+          "letter": "D",
+          "text": "비상구는 운전석 내부에서 접근할 수 없다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "비상 탈출 경고 장치가 제대로 작동합니다.",
+      "explanation": "차량 점검 테스트 중에 비상 탈출 경고 장치가 작동하는지 확인해야 합니다. 모든 비상 탈출구는 부드럽게 작동하고, 손상되지 않으며, 내부에서 안전하게 닫혀야 합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9036",
+      "question": "기술 시험의 일부로 정지/시작 기동을 수행할 때 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "필요하면 다른 차량을 자르고 어깨로 이동하세요."
+        },
+        {
+          "letter": "B",
+          "text": "방향 신호를 사용하지 마세요."
+        },
+        {
+          "letter": "C",
+          "text": "가능한 한 빨리 정지하기 위해 브레이크를 세게 밟으세요."
+        },
+        {
+          "letter": "D",
+          "text": "부드럽게 감속하세요."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "부드럽게 감속하세요.",
+      "explanation": "도로 운전 기술 시험 중에 차량을 도로 옆으로 끌어내려 차량의 무언가를 확인하기 위해 내릴 것처럼 멈춰야 합니다. 이 정지를 준비할 때 교통을 확인하고 방향 신호를 활성화하며 필요에 따라 기어를 변경하면서 부드럽게 감속하고 미끄러지지 않고 완전히 멈춰야 합니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9030",
+      "question": "도로 주행 시험 중에는 다음을 모두 수행해야 합니다(예외):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "안전 벨트를 착용하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "모든 교통 법규를 준수합니다."
+        },
+        {
+          "letter": "C",
+          "text": "움직이는 위반 없이 시험을 완료합니다."
+        },
+        {
+          "letter": "D",
+          "text": "다른 교통이 있을 때만 모든 교통 표지와 신호를 준수합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "다른 교통이 있을 때만 모든 교통 표지와 신호를 준수합니다.",
+      "explanation": "도로 주행 시험 중에는 안전하고 책임감 있게 운전해야 합니다. 여기에는 안전띠를 착용하고, 모든 교통 표지, 신호 및 법칙을 준수하며, 사고 또는 위반 없이 시험을 완료하는 것이 포함됩니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9012",
+      "question": "다음 중 허용되지 않는 긴급 장비는 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3개의 빨간색 반사 삼각형"
+        },
+        {
+          "letter": "B",
+          "text": "6개의 퓨즈"
+        },
+        {
+          "letter": "C",
+          "text": "3개의 액체 연소 플레어"
+        },
+        {
+          "letter": "D",
+          "text": "4개의 노란색 정사각형"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4개의 노란색 정사각형",
+      "explanation": "차량 검사 시험 중에 예비 전기 퓨즈, 세 개의 빨간색 반사 삼각형, 6개의 퓨즈 또는 3개의 액체 연소 플레어, 그리고 적절히 충전되고 정격된 소화기를 포함한 긴급 장비를 제시해야 합니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10162",
+      "question": "스쿨버스에서 오버헤드 실내 백미러는 어디에 위치합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "버스의 운전자 쪽 윈드실드 위"
+        },
+        {
+          "letter": "B",
+          "text": "버스의 승객 쪽 문 위"
+        },
+        {
+          "letter": "C",
+          "text": "뒤의 비상문 위"
+        },
+        {
+          "letter": "D",
+          "text": "운전자 좌석 아래"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "버스의 운전자 쪽 윈드실드 위",
+      "explanation": "스쿨버스에서 오버헤드 실내 백미러는 버스의 운전자 쪽 앞 유리창 바로 위에 장착됩니다. 그 목적은 운전자가 버스 내부의 승객 활동을 모니터링할 수 있도록 하는 것입니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10142",
+      "question": "학생들이 학교에서 하차한 후 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "학생들이 자신의 모든 소지품을 가져갔다고 가정할 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "학생들이 즉시 출입구를 정리했다고 가정해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "버스를 통해 걸어가서 자고 있거나 숨어 있는 학생들을 확인해야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "발송 라디오를 끄도록 할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "버스를 통해 걸어가서 자고 있거나 숨어 있는 학생들을 확인해야 합니다.",
+      "explanation": "학생들이 버스에서 학교에서 나간 후, 운전자는 숨어 있거나 자고 있을 수 있는 남은 학생들을 확인하기 위해 버스를 통해 걸어가야 합니다. 운전자는 또한 학생들이 남겨놓았을 수 있는 물건을 주의해야 합니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10140",
+      "question": "스쿨 버스는 다음의 경우 대피해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "버스가 겨울 날씨 조건에서 정지되었을 때."
+        },
+        {
+          "letter": "B",
+          "text": "에어컨 시스템이 고장났을 때."
+        },
+        {
+          "letter": "C",
+          "text": "충돌의 임박한 위험이 있을 때."
+        },
+        {
+          "letter": "D",
+          "text": "학생들이 멀미를 하고 있을 때."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "충돌의 임박한 위험이 있을 때.",
+      "explanation": "비상 상황에서는 일반적으로 학생들이 스쿨 버스에 머물러 있는 것이 가장 안전합니다. 버스가 철로에 정지된 경우, 버스가 화재 상태에 있거나 화재의 위협이 있는 경우, 또는 위험 물질 유출이 있는 경우 대피는 필수입니다. 충돌의 임박한 위험이 있을 때마다 학생들을 대피해야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "9015",
+      "question": "차량 점검 중 스프링을 확인할 때 다음을 모두 수행하되 다음은 제외합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "누락된 리프 스프링을 찾으십시오."
+        },
+        {
+          "letter": "B",
+          "text": "부러진 코일 스프링을 찾으십시오."
+        },
+        {
+          "letter": "C",
+          "text": "토션 스프링이 손상되지 않았는지 확인하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "금이 간 리프 스프링에 접착제를 바릅니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "금이 간 리프 스프링에 접착제를 바릅니다.",
+      "explanation": "차량 점검 테스트의 일부로 스프링을 확인할 때 누락되거나 이동하거나 금이 가거나 부러진 리프 스프링뿐만 아니라 부러지거나 뒤틀린 코일 스프링을 찾아야 합니다. 차량이 토션 바, 토크 암 또는 기타 유형의 현가 부품이 장착되어 있는 경우 손상되지 않았고 안전하게 장착되었는지 확인하십시오."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9042",
+      "question": "위험물 표시 차량을 운전하면서 철도 건널목에 접근할 때 항상 해야 할 일:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4방향 깜빡이를 활성화합니다."
+        },
+        {
+          "letter": "B",
+          "text": "철로에서 5피트 이내에서 정지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "선로 위에서 기어를 변경합니다."
+        },
+        {
+          "letter": "D",
+          "text": "선로 위에서 차선을 변경할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "4방향 깜빡이를 활성화합니다.",
+      "explanation": "철도 건널목에 접근하면서 대중교통 버스, 스쿨 버스 또는 위험물 표시 차량을 운전할 때는 특별한 절차가 적용됩니다. 건널목을 통과하기 전에 가장 가까운 철로로부터 50피트 이내, 15피트 이상의 거리에서 차량을 정지시키십시오. 건널목을 통과하는 동안 비상 점멸등을 활성화하십시오. 차량의 어떤 부분이든 선로를 통과하고 있는 동안 정지, 기어 변경 또는 차선 변경을 하지 마십시오."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10141",
+      "question": "학교에서 학생들을 내려줄 때 운전자는 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "점화 스위치를 꺼서 버스를 고정합니다."
+        },
+        {
+          "letter": "B",
+          "text": "점화 장치에 열쇠를 꽂아 놓은 채로 운전석을 떠납니다."
+        },
+        {
+          "letter": "C",
+          "text": "학생들이 하차하는 동안 책을 읽습니다."
+        },
+        {
+          "letter": "D",
+          "text": "버스 위에 있지 않아야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "점화 스위치를 꺼서 버스를 고정합니다.",
+      "explanation": "학교에서 아이들을 내려줄 때 버스 운전자는 점화 장치를 꺼서 버스를 고정해야 합니다. 운전자는 운전석을 떠나면 열쇠를 제거해야 합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11390",
+      "question": "차량의 최종 위치는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "검사관이 지시한 정확한 위치."
+        },
+        {
+          "letter": "B",
+          "text": "검사관이 설명한 최종 위치의 5피트 이내."
+        },
+        {
+          "letter": "C",
+          "text": "안전하게 주차할 수 있는 곳이면 어디든."
+        },
+        {
+          "letter": "D",
+          "text": "검사관이 설명한 최종 위치의 2피트 이내."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "검사관이 지시한 정확한 위치.",
+      "explanation": "각 연습을 검사관이 설명한 정확한 위치에서 차량을 완료해야 합니다. 검사관이 설명한 방식대로 정확하게 연습을 완료하지 않으면 처벌을 받을 수 있으며, 기본 제어 기술 시험에 떨어질 수 있습니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11394",
+      "question": "기본 차량 제어 능력 테스트의 연습 중에 차량을 적절하게 빠져나가지 못하면 다음 결과가 초래됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "해당 연습만 탈락."
+        },
+        {
+          "letter": "B",
+          "text": "해당 연습을 다시 시작합니다."
+        },
+        {
+          "letter": "C",
+          "text": "기본 차량 제어 기술 테스트에서 자동 탈락."
+        },
+        {
+          "letter": "D",
+          "text": "점수에 대한 추가 감점입니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "기본 차량 제어 기술 테스트에서 자동 탈락.",
+      "explanation": "기본 차량 제어 기술 시험 중에 차량에서 나갈 때 차량을 향하고 항상 3개의 접촉점을 유지해야 합니다. 시험용 차량이 버스인 경우 핸드레일과의 접촉을 유지해야 합니다. 차량을 잘못 나가면 기본 제어 기술 시험이 자동 불합격될 수 있습니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10648",
+      "question": "스쿨버스의 적절히 조정된 미러는 운전자가 버스 뒤로 ____를 볼 수 있게 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 feet"
+        },
+        {
+          "letter": "B",
+          "text": "100 feet"
+        },
+        {
+          "letter": "C",
+          "text": "200 feet"
+        },
+        {
+          "letter": "D",
+          "text": "1,000피트"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "200 feet",
+      "explanation": "적절한 거울 조정은 스쿨버스의 안전한 운영에 매우 중요합니다. 버스의 평면 거울은 운전자가 버스 뒤쪽으로 200피트 또는 버스 4대의 길이를 볼 수 있도록 조정되어야 합니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9408",
+      "question": "도로 운전 시험을 치를 때 다음을 모두 수행해야 하는 경우는 제외됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "안전 벨트를 착용하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "모든 교통 표지판을 준수하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "사고 없이 시험을 완료합니다."
+        },
+        {
+          "letter": "D",
+          "text": "운전 중 휴대폰을 사용할 수 있음을 시연합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "운전 중 휴대폰을 사용할 수 있음을 시연합니다.",
+      "explanation": "도로 운전 시험 중에 안전하고 책임감 있게 운전해야 하고, 안전 벨트를 착용해야 하며, 모든 교통 표지판, 신호 및 법률을 준수해야 하며, 사고나 교통 위반 없이 시험을 완료해야 합니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9022",
+      "question": "차량 검사 중 landing gear가 다음 상태인지 확인하십시오:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "축소됨"
+        },
+        {
+          "letter": "B",
+          "text": "완전히 올라와 있음"
+        },
+        {
+          "letter": "C",
+          "text": "탑승객 측에서 운전자 측보다 더 마모됨"
+        },
+        {
+          "letter": "D",
+          "text": "잘 조명됨"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "완전히 올라와 있음",
+      "explanation": "차량 검사 테스트 중 트레일러를 검사할 때 landing gear에 빠진 부품이 없고 완전히 올라와 있는지 확인하십시오. 크랭크 핸들은 안전해야 하며 서포트 프레임은 손상되지 않아야 합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10555",
+      "question": "스쿨 버스를 후진하는 것은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "강력히 권장됨"
+        },
+        {
+          "letter": "B",
+          "text": "강력히 권장되지 않음"
+        },
+        {
+          "letter": "C",
+          "text": "아침에만 수행해야 함"
+        },
+        {
+          "letter": "D",
+          "text": "학생들이 당신을 안내할 경우에만 수행할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "강력히 권장되지 않음",
+      "explanation": "스쿨버스 백업은 강력히 권장되지 않으며 차량을 이동할 다른 방법이 없을 경우에만 수행해야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9209",
+      "question": "버스 정거장에 접근할 때, 버스에 있는 학생들은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "앉아 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "일어나서 짐을 챙깁니다."
+        },
+        {
+          "letter": "C",
+          "text": "버스 앞으로 걸어가서 하차를 준비합니다."
+        },
+        {
+          "letter": "D",
+          "text": "운전자에게 질문을 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "앉아 있습니다.",
+      "explanation": "스쿨버스의 학생들은 지시를 받을 때까지 앉아 있어야 합니다. 버스가 움직이는 동안 학생들이 버스 내를 돌아다니는 것은 안전하지 않습니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9156",
+      "question": "버스에 외부 볼록 거울이 장착된 경우, 다음 위치에 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "외부 평면 거울 아래."
+        },
+        {
+          "letter": "B",
+          "text": "외부 평면 거울 위."
+        },
+        {
+          "letter": "C",
+          "text": "문 옆."
+        },
+        {
+          "letter": "D",
+          "text": "버스 위."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "외부 평면 거울 아래.",
+      "explanation": "스쿨버스의 외부 볼록 거울은 외부 평면 거울 아래에 위치합니다. 이는 교통, 간격 및 버스 주변 학생들의 광범위한 시야를 보기 위해 사용됩니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10261",
+      "question": "스쿨버스를 대피해야 하는 경우 승객은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "항상 후면 문을 사용합니다."
+        },
+        {
+          "letter": "B",
+          "text": "항상 창문을 사용합니다."
+        },
+        {
+          "letter": "C",
+          "text": "항상 앞문을 사용하세요."
+        },
+        {
+          "letter": "D",
+          "text": "가장 안전한 것으로 판단된 출구를 사용합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "가장 안전한 것으로 판단된 출구를 사용합니다.",
+      "explanation": "비상 상황에서 스쿨버스를 대피해야 하는 경우 운전자는 학생들이 사용하기에 가장 안전한 출구 또는 출구를 빠르게 결정하고 학생들을 그 출구로 안내해야 합니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9028",
+      "question": "직선 후진 운동 중에 차량의 위치를 확인하기 위해 차량을 빠져나갈 수 있는 횟수는 몇 번입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1회"
+        },
+        {
+          "letter": "B",
+          "text": "2배"
+        },
+        {
+          "letter": "C",
+          "text": "3배"
+        },
+        {
+          "letter": "D",
+          "text": "4회"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "1회",
+      "explanation": "직선 후진 운동 중에 차량의 위치를 확인하기 위해 차량을 빠져나갈 수 있는 횟수는 최대 1회입니다."
+    }
+  ]
+}

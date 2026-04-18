@@ -1,0 +1,1579 @@
+{
+  "regulatory": [
+    {
+      "id": 1,
+      "type": "regulatory",
+      "title_en": "60kmh Minimum Speed Limit Freeway",
+      "description_en": "Minimum speed limit of 60 km/h on the freeway.",
+      "image_path": "signs/regulatory-road-signs/60kmh-minimum-speed-limit-freeway.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "60kmh Minimum Speed Limit Freeway",
+          "description": "فری وے پر کم از کم رفتار کی حد 60 کلومیٹر فی گھنٹہ ہے۔"
+        },
+        "ar": {
+          "title": "60kmh Minimum Speed Limit Freeway",
+          "description": "الحد الأدنى للسرعة 60 كم/ساعة على الطريق السريع."
+        },
+        "hi": {
+          "title": "60kmh Minimum Speed Limit Freeway",
+          "description": "फ्रीवे पर न्यूनतम गति सीमा 60 किमी/घंटा है।"
+        },
+        "bn": {
+          "title": "60kmh Minimum Speed Limit Freeway",
+          "description": "ফ্রিওয়েতে সর্বনিম্ন গতি সীমা 60 কিমি/ঘন্টা।"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": "regulatory",
+      "title_en": "Ahead Only",
+      "description_en": "Vehicles must proceed straight ahead only.",
+      "image_path": "signs/regulatory-road-signs/Ahead-only.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Ahead Only",
+          "description": "گاڑیوں کو صرف سیدھے آگے بڑھنا چاہیے۔"
+        },
+        "ar": {
+          "title": "Ahead Only",
+          "description": "يجب على المركبات المتابعة مباشرة للأمام فقط."
+        },
+        "hi": {
+          "title": "Ahead Only",
+          "description": "वाहनों को केवल सीधे आगे बढ़ना चाहिए।"
+        },
+        "bn": {
+          "title": "Ahead Only",
+          "description": "যানবাহনগুলিকে শুধুমাত্র সামনে এগিয়ে যেতে হবে।"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "regulatory",
+      "title_en": "Animal Track",
+      "description_en": "This sign indicates an animal track or path for animals.",
+      "image_path": "signs/regulatory-road-signs/animal-track.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Animal Track",
+          "description": "یہ نشان جانوروں کے لیے راستہ یا پگڈنڈی کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "Animal Track",
+          "description": "تشير هذه اللافتة إلى مسار أو ممر للحيوانات."
+        },
+        "hi": {
+          "title": "Animal Track",
+          "description": "यह संकेत जानवरों के लिए पथ या रास्ते को दर्शाता है।"
+        },
+        "bn": {
+          "title": "Animal Track",
+          "description": "এই সাইনটি প্রাণীদের জন্য ট্র্যাক বা পথ নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "regulatory",
+      "title_en": "Bicycle Path",
+      "description_en": "This lane is designated for bicycles only.",
+      "image_path": "signs/regulatory-road-signs/bicycle-path.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Bicycle Path",
+          "description": "یہ لین صرف سائیکلوں کے لیے مخصوص ہے۔"
+        },
+        "ar": {
+          "title": "Bicycle Path",
+          "description": "هذا المسار مخصص للدراجات الهوائية فقط."
+        },
+        "hi": {
+          "title": "Bicycle Path",
+          "description": "यह लेन केवल साइकिलों के लिए निर्धारित है।"
+        },
+        "bn": {
+          "title": "Bicycle Path",
+          "description": "এই লেনটি শুধুমাত্র সাইকেলের জন্য নির্ধারিত।"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "regulatory",
+      "title_en": "Closed For Both Directions",
+      "description_en": "Road is closed for traffic in both directions.",
+      "image_path": "signs/regulatory-road-signs/closed-for-both-directions.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Closed For Both Directions",
+          "description": "دونوں سمتوں میں ٹریفک کے لیے سڑک بند ہے۔"
+        },
+        "ar": {
+          "title": "Closed For Both Directions",
+          "description": "الطريق مغلق لحركة المرور في كلا الاتجاهين."
+        },
+        "hi": {
+          "title": "Closed For Both Directions",
+          "description": "दोनों दिशाओं में यातायात के लिए सड़क बंद है।"
+        },
+        "bn": {
+          "title": "Closed For Both Directions",
+          "description": "উভয় দিকে ট্রাফিকের জন্য রাস্তা বন্ধ।"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "regulatory",
+      "title_en": "Custom Police",
+      "description_en": "Customs and police checkpoint ahead.",
+      "image_path": "signs/regulatory-road-signs/custom-police.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Custom Police",
+          "description": "آگے کسٹم اور پولیس چیک پوائنٹ۔"
+        },
+        "ar": {
+          "title": "Custom Police",
+          "description": "نقطة تفتيش الجمارك والشرطة أمامك."
+        },
+        "hi": {
+          "title": "Custom Police",
+          "description": "आगे सीमा शुल्क और पुलिस चौकी।"
+        },
+        "bn": {
+          "title": "Custom Police",
+          "description": "সামনে কাস্টমস এবং পুলিশ চেকপয়েন্ট।"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "type": "regulatory",
+      "title_en": "End Of All Prohibitions",
+      "description_en": "All previous prohibitions end here.",
+      "image_path": "signs/regulatory-road-signs/end-of-all-prohibitions.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "End Of All Prohibitions",
+          "description": "تمام سابقہ پابندیاں یہاں ختم ہوتی ہیں۔"
+        },
+        "ar": {
+          "title": "End Of All Prohibitions",
+          "description": "تنتهي جميع المحظورات السابقة هنا."
+        },
+        "hi": {
+          "title": "End Of All Prohibitions",
+          "description": "सभी पिछले प्रतिबंध यहां समाप्त होते हैं।"
+        },
+        "bn": {
+          "title": "End Of All Prohibitions",
+          "description": "সমস্ত পূর্ববর্তী নিষেধাজ্ঞা এখানে শেষ।"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "type": "regulatory",
+      "title_en": "End Of Minimum Speed",
+      "description_en": "Minimum speed limit ends.",
+      "image_path": "signs/regulatory-road-signs/end-of-minimun-speed.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "End Of Minimum Speed",
+          "description": "کم از کم رفتار کی حد ختم ہوتی ہے۔"
+        },
+        "ar": {
+          "title": "End Of Minimum Speed",
+          "description": "ينتهي الحد الأدنى للسرعة."
+        },
+        "hi": {
+          "title": "End Of Minimum Speed",
+          "description": "न্যূনতম गति सीमा समाप्त होती है।"
+        },
+        "bn": {
+          "title": "End Of Minimum Speed",
+          "description": "সর্বনিম্ন গতি সীমা শেষ।"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "type": "regulatory",
+      "title_en": "End Of Overtaking Prohibition",
+      "description_en": "Overtaking prohibition ends.",
+      "image_path": "signs/regulatory-road-signs/end-of-overtaking-prohibition.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "End Of Overtaking Prohibition",
+          "description": "اوورٹیکنگ کی پابندی ختم ہوتی ہے۔"
+        },
+        "ar": {
+          "title": "End Of Overtaking Prohibition",
+          "description": "ينتهي حظر التجاوز."
+        },
+        "hi": {
+          "title": "End Of Overtaking Prohibition",
+          "description": "ओवरटेकिंग प्रतिबंध समाप्त होता है।"
+        },
+        "bn": {
+          "title": "End Of Overtaking Prohibition",
+          "description": "ওভারটেকিং নিষেধাজ্ঞা শেষ।"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "type": "regulatory",
+      "title_en": "End Of Speed Limit",
+      "description_en": "Speed limit restriction ends.",
+      "image_path": "signs/regulatory-road-signs/end-of-speed-limit.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "End Of Speed Limit",
+          "description": "رفتار کی حد کی پابندی ختم ہوتی ہے۔"
+        },
+        "ar": {
+          "title": "End Of Speed Limit",
+          "description": "ينتهي تقييد حد السرعة."
+        },
+        "hi": {
+          "title": "End Of Speed Limit",
+          "description": "गति सीमा प्रतिबंध समाप्त होता है।"
+        },
+        "bn": {
+          "title": "End Of Speed Limit",
+          "description": "গতি সীমা সীমাবদ্ধতা শেষ।"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "type": "regulatory",
+      "title_en": "Freeway Begins",
+      "description_en": "Freeway section begins.",
+      "image_path": "signs/regulatory-road-signs/Freeway-begins.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Freeway Begins",
+          "description": "فری وے سیکشن شروع ہوتا ہے۔"
+        },
+        "ar": {
+          "title": "Freeway Begins",
+          "description": "يبدأ قسم الطريق السريع."
+        },
+        "hi": {
+          "title": "Freeway Begins",
+          "description": "फ्रीवे अनुभाग शुरू होता है।"
+        },
+        "bn": {
+          "title": "Freeway Begins",
+          "description": "ফ্রিওয়ে অংশ শুরু।"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "type": "regulatory",
+      "title_en": "Freeway Ends",
+      "description_en": "Freeway section ends.",
+      "image_path": "signs/regulatory-road-signs/Freeway-ends.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Freeway Ends",
+          "description": "فری وے سیکشن ختم ہوتا ہے۔"
+        },
+        "ar": {
+          "title": "Freeway Ends",
+          "description": "ينتهي قسم الطريق السريع."
+        },
+        "hi": {
+          "title": "Freeway Ends",
+          "description": "फ्रीवे अनुभाग समाप्त होता है।"
+        },
+        "bn": {
+          "title": "Freeway Ends",
+          "description": "ফ্রিওয়ে অংশ শেষ।"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "type": "regulatory",
+      "title_en": "Give Way",
+      "description_en": "Give way to traffic on the main road.",
+      "image_path": "signs/regulatory-road-signs/Give-Way.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Give Way",
+          "description": "مرکزی سڑک پر ٹریفک کو راستہ دیں۔"
+        },
+        "ar": {
+          "title": "Give Way",
+          "description": "أفسح الطريق لحركة المرور على الطريق الرئيسي."
+        },
+        "hi": {
+          "title": "Give Way",
+          "description": "मुख्य सड़क पर यातायात को रास्ता दें।"
+        },
+        "bn": {
+          "title": "Give Way",
+          "description": "প্রধান রাস্তায় ট্রাফিককে রাস্তা দিন।"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "type": "regulatory",
+      "title_en": "Go Straight Or Right Only",
+      "description_en": "Vehicles must go straight or turn right only.",
+      "image_path": "signs/regulatory-road-signs/go-Straight-or-Right-Only.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Go Straight Or Right Only",
+          "description": "گاڑیوں کو سیدھے جانا چاہیے یا صرف دائیں مڑنا چاہیے۔"
+        },
+        "ar": {
+          "title": "Go Straight Or Right Only",
+          "description": "يجب على المركبات الذهاب مباشرة أو الانعطاف يميناً فقط."
+        },
+        "hi": {
+          "title": "Go Straight Or Right Only",
+          "description": "वाहनों को सीधे जाना चाहिए या केवल दाएं मुड़ना चाहिए।"
+        },
+        "bn": {
+          "title": "Go Straight Or Right Only",
+          "description": "যানবাহনকে সোজা যেতে হবে অথবা শুধুমাত্র ডানে ঘুরতে হবে।"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "type": "regulatory",
+      "title_en": "Goods Vehicles Prohibited",
+      "description_en": "Goods vehicles are not allowed.",
+      "image_path": "signs/regulatory-road-signs/goods-vehicles-prohibited.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Goods Vehicles Prohibited",
+          "description": "مال بردار گاڑیوں کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "Goods Vehicles Prohibited",
+          "description": "مركبات البضائع غير مسموح بها."
+        },
+        "hi": {
+          "title": "Goods Vehicles Prohibited",
+          "description": "माल वाहनों की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "Goods Vehicles Prohibited",
+          "description": "পণ্য বাহন অনুমোদিত নয়।"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "type": "regulatory",
+      "title_en": "Handicapped Parking",
+      "description_en": "Parking reserved for disabled persons.",
+      "image_path": "signs/regulatory-road-signs/Handicapped-Parking.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Handicapped Parking",
+          "description": "معذور افراد کے لیے مخصوص پارکنگ۔"
+        },
+        "ar": {
+          "title": "Handicapped Parking",
+          "description": "موقف محجوز للأشخاص ذوي الإعاقة."
+        },
+        "hi": {
+          "title": "Handicapped Parking",
+          "description": "विकलांग व्यक्तियों के लिए आरक्षित पार्किंग।"
+        },
+        "bn": {
+          "title": "Handicapped Parking",
+          "description": "প্রতিবন্ধী ব্যক্তিদের জন্য সংরক্ষিত পার্কিং।"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "type": "regulatory",
+      "title_en": "Keep Left",
+      "description_en": "Keep to the left side.",
+      "image_path": "signs/regulatory-road-signs/keep-left.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Keep Left",
+          "description": "بائیں طرف رہیں۔"
+        },
+        "ar": {
+          "title": "Keep Left",
+          "description": "ابق على الجانب الأيسر."
+        },
+        "hi": {
+          "title": "Keep Left",
+          "description": "बाईं ओर रहें।"
+        },
+        "bn": {
+          "title": "Keep Left",
+          "description": "বাম দিকে থাকুন।"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "type": "regulatory",
+      "title_en": "Keep Right",
+      "description_en": "Keep to the right side.",
+      "image_path": "signs/regulatory-road-signs/keep-right.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Keep Right",
+          "description": "دائیں طرف رہیں۔"
+        },
+        "ar": {
+          "title": "Keep Right",
+          "description": "ابق على الجانب الأيمن."
+        },
+        "hi": {
+          "title": "Keep Right",
+          "description": "दाईं ओर रहें।"
+        },
+        "bn": {
+          "title": "Keep Right",
+          "description": "ডান দিকে থাকুন।"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "type": "regulatory",
+      "title_en": "Lorries Prohibited",
+      "description_en": "Lorries and heavy vehicles prohibited.",
+      "image_path": "signs/regulatory-road-signs/Lorries-prohibited.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Lorries Prohibited",
+          "description": "لاریاں اور بھاری گاڑیاں ممنوع ہیں۔"
+        },
+        "ar": {
+          "title": "Lorries Prohibited",
+          "description": "الشاحنات والمركبات الثقيلة ممنوعة."
+        },
+        "hi": {
+          "title": "Lorries Prohibited",
+          "description": "लॉरियां और भारी वाहन निषिद्ध हैं।"
+        },
+        "bn": {
+          "title": "Lorries Prohibited",
+          "description": "লরি এবং ভারী যানবাহন নিষিদ্ধ।"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "type": "regulatory",
+      "title_en": "Maximum Gross Weight Limit",
+      "description_en": "Maximum gross weight limit for vehicles.",
+      "image_path": "signs/regulatory-road-signs/Maximum-Gross weight-limit.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Maximum Gross Weight Limit",
+          "description": "گاڑیوں کے لیے زیادہ سے زیادہ مجموعی وزن کی حد۔"
+        },
+        "ar": {
+          "title": "Maximum Gross Weight Limit",
+          "description": "الحد الأقصى للوزن الإجمالي للمركبات."
+        },
+        "hi": {
+          "title": "Maximum Gross Weight Limit",
+          "description": "वाहनों के लिए अधिकतम सकल वजन सीमा।"
+        },
+        "bn": {
+          "title": "Maximum Gross Weight Limit",
+          "description": "যানবাহনের জন্য সর্বাধিক মোট ওজন সীমা।"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "type": "regulatory",
+      "title_en": "Maximum Height Limit",
+      "description_en": "Maximum height limit for vehicles.",
+      "image_path": "signs/regulatory-road-signs/Maximum-Height-limit.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Maximum Height Limit",
+          "description": "گاڑیوں کے لیے زیادہ سے زیادہ اونچائی کی حد۔"
+        },
+        "ar": {
+          "title": "Maximum Height Limit",
+          "description": "الحد الأقصى للارتفاع للمركبات."
+        },
+        "hi": {
+          "title": "Maximum Height Limit",
+          "description": "वाहनों के लिए अधिकतम ऊंचाई सीमा।"
+        },
+        "bn": {
+          "title": "Maximum Height Limit",
+          "description": "যানবাহনের জন্য সর্বাধিক উচ্চতা সীমা।"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "type": "regulatory",
+      "title_en": "Maximum Length Limit Arabic",
+      "description_en": "Maximum length limit (Arabic).",
+      "image_path": "signs/regulatory-road-signs/maximum-length-limit-arabic.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Maximum Length Limit Arabic",
+          "description": "زیادہ سے زیادہ لمبائی کی حد (عربی)۔"
+        },
+        "ar": {
+          "title": "Maximum Length Limit Arabic",
+          "description": "الحد الأقصى للطول (بالعربية)."
+        },
+        "hi": {
+          "title": "Maximum Length Limit Arabic",
+          "description": "अधिकतम लंबाई सीमा (अरबी)।"
+        },
+        "bn": {
+          "title": "Maximum Length Limit Arabic",
+          "description": "সর্বাধিক দৈর্ঘ্য সীমা (আরবি)।"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "type": "regulatory",
+      "title_en": "Maximum Length Limit",
+      "description_en": "Maximum length limit for vehicles.",
+      "image_path": "signs/regulatory-road-signs/maximum-length-limit.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Maximum Length Limit",
+          "description": "گاڑیوں کے لیے زیادہ سے زیادہ لمبائی کی حد۔"
+        },
+        "ar": {
+          "title": "Maximum Length Limit",
+          "description": "الحد الأقصى للطول للمركبات."
+        },
+        "hi": {
+          "title": "Maximum Length Limit",
+          "description": "वाहनों के लिए अधिकतम लंबाई सीमा।"
+        },
+        "bn": {
+          "title": "Maximum Length Limit",
+          "description": "যানবাহনের জন্য সর্বাধিক দৈর্ঘ্য সীমা।"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "type": "regulatory",
+      "title_en": "Maximum Speed Limit",
+      "description_en": "Maximum speed limit allowed.",
+      "image_path": "signs/regulatory-road-signs/Maximum-speed-limit.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Maximum Speed Limit",
+          "description": "زیادہ سے زیادہ رفتار کی حد کی اجازت ہے۔"
+        },
+        "ar": {
+          "title": "Maximum Speed Limit",
+          "description": "الحد الأقصى للسرعة المسموح به."
+        },
+        "hi": {
+          "title": "Maximum Speed Limit",
+          "description": "अधिकतम गति सीमा की अनुमति है।"
+        },
+        "bn": {
+          "title": "Maximum Speed Limit",
+          "description": "সর্বাধিক গতি সীমা অনুমোদিত।"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "type": "regulatory",
+      "title_en": "Maximum Speed Limit Arabic",
+      "description_en": "Maximum speed limit (Arabic).",
+      "image_path": "signs/regulatory-road-signs/maximum-speed-limit-arabic.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Maximum Speed Limit Arabic",
+          "description": "زیادہ سے زیادہ رفتار کی حد (عربی)۔"
+        },
+        "ar": {
+          "title": "Maximum Speed Limit Arabic",
+          "description": "الحد الأقصى للسرعة (بالعربية)."
+        },
+        "hi": {
+          "title": "Maximum Speed Limit Arabic",
+          "description": "अधिकतम गति सीमा (अरबी)।"
+        },
+        "bn": {
+          "title": "Maximum Speed Limit Arabic",
+          "description": "সর্বাধিক গতি সীমা (আরবি)।"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "type": "regulatory",
+      "title_en": "Maximum Width Limit",
+      "description_en": "Maximum width limit for vehicles.",
+      "image_path": "signs/regulatory-road-signs/Maximum-width-limit.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Maximum Width Limit",
+          "description": "گاڑیوں کے لیے زیادہ سے زیادہ چوڑائی کی حد۔"
+        },
+        "ar": {
+          "title": "Maximum Width Limit",
+          "description": "الحد الأقصى للعرض للمركبات."
+        },
+        "hi": {
+          "title": "Maximum Width Limit",
+          "description": "वाहनों के लिए अधिकतम चौड़ाई सीमा।"
+        },
+        "bn": {
+          "title": "Maximum Width Limit",
+          "description": "যানবাহনের জন্য সর্বাধিক প্রস্থ সীমা।"
+        }
+      }
+    },
+    {
+      "id": 27,
+      "type": "regulatory",
+      "title_en": "Maximum Weight Of A Pivotal",
+      "description_en": "Maximum weight limit for pivotal axle.",
+      "image_path": "signs/regulatory-road-signs/maximum-weight-of-a-pivotal.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Maximum Weight Of A Pivotal",
+          "description": "محوری ایکسل کے لیے زیادہ سے زیادہ وزن کی حد۔"
+        },
+        "ar": {
+          "title": "Maximum Weight Of A Pivotal",
+          "description": "الحد الأقصى للوزن للمحور المحوري."
+        },
+        "hi": {
+          "title": "Maximum Weight Of A Pivotal",
+          "description": "धुरी के लिए अधिकतम वजन सीमा।"
+        },
+        "bn": {
+          "title": "Maximum Weight Of A Pivotal",
+          "description": "পিভটাল এক্সেলের জন্য সর্বাধিক ওজন সীমা।"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "type": "regulatory",
+      "title_en": "Minimum Speed",
+      "description_en": "Minimum speed limit.",
+      "image_path": "signs/regulatory-road-signs/minimun-speed.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Minimum Speed",
+          "description": "کم از کم رفتار کی حد۔"
+        },
+        "ar": {
+          "title": "Minimum Speed",
+          "description": "الحد الأدنى للسرعة."
+        },
+        "hi": {
+          "title": "Minimum Speed",
+          "description": "न्यूनतम गति सीमा।"
+        },
+        "bn": {
+          "title": "Minimum Speed",
+          "description": "সর্বনিম্ন গতি সীমা।"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "type": "regulatory",
+      "title_en": "No Cyclists",
+      "description_en": "Cyclists are not allowed.",
+      "image_path": "signs/regulatory-road-signs/No-cyclists.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Cyclists",
+          "description": "سائیکل سواروں کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Cyclists",
+          "description": "راكبو الدراجات الهوائية غير مسموح لهم."
+        },
+        "hi": {
+          "title": "No Cyclists",
+          "description": "साइकिल चालकों की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Cyclists",
+          "description": "সাইকেল চালকদের অনুমতি নেই।"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "type": "regulatory",
+      "title_en": "No Entry For Animal Drawn Vehicle",
+      "description_en": "Animal-drawn vehicles prohibited.",
+      "image_path": "signs/regulatory-road-signs/no-Entry-for-Animal-Drawn-Vehicle.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Entry For Animal Drawn Vehicle",
+          "description": "جانوروں سے چلنے والی گاڑیاں ممنوع ہیں۔"
+        },
+        "ar": {
+          "title": "No Entry For Animal Drawn Vehicle",
+          "description": "المركبات التي تجرها الحيوانات ممنوعة."
+        },
+        "hi": {
+          "title": "No Entry For Animal Drawn Vehicle",
+          "description": "पशु-चालित वाहन निषिद्ध हैं।"
+        },
+        "bn": {
+          "title": "No Entry For Animal Drawn Vehicle",
+          "description": "পশু-চালিত যানবাহন নিষিদ্ধ।"
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "regulatory",
+      "title_en": "No Entry For Bus",
+      "description_en": "Buses are not allowed.",
+      "image_path": "signs/regulatory-road-signs/no-Entry-for-BUS.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Entry For Bus",
+          "description": "بسوں کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Entry For Bus",
+          "description": "الحافلات غير مسموح بها."
+        },
+        "hi": {
+          "title": "No Entry For Bus",
+          "description": "बसों की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Entry For Bus",
+          "description": "বাসের অনুমতি নেই।"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "type": "regulatory",
+      "title_en": "No Entry For Hand Carts",
+      "description_en": "Hand carts are not allowed.",
+      "image_path": "signs/regulatory-road-signs/no-Entry-for-Hand-Carts.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Entry For Hand Carts",
+          "description": "ہاتھ کی گاڑیوں کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Entry For Hand Carts",
+          "description": "عربات اليد غير مسموح بها."
+        },
+        "hi": {
+          "title": "No Entry For Hand Carts",
+          "description": "हाथ की गाड़ियों की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Entry For Hand Carts",
+          "description": "হাতের গাড়ি অনুমোদিত নয়।"
+        }
+      }
+    },
+    {
+      "id": 33,
+      "type": "regulatory",
+      "title_en": "No Entry For Motor Vehicle",
+      "description_en": "Motor vehicles are not allowed.",
+      "image_path": "signs/regulatory-road-signs/no-Entry-for-Motor-Vehical.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Entry For Motor Vehicle",
+          "description": "موٹر گاڑیوں کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Entry For Motor Vehicle",
+          "description": "المركبات الآلية غير مسموح بها."
+        },
+        "hi": {
+          "title": "No Entry For Motor Vehicle",
+          "description": "मोटर वाहनों की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Entry For Motor Vehicle",
+          "description": "মোটর যানবাহন অনুমোদিত নয়।"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "type": "regulatory",
+      "title_en": "No Entry For Motorbike",
+      "description_en": "Motorbikes are not allowed.",
+      "image_path": "signs/regulatory-road-signs/no-Entry-for-Motorbike.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Entry For Motorbike",
+          "description": "موٹر بائیک کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Entry For Motorbike",
+          "description": "الدراجات النارية غير مسموح بها."
+        },
+        "hi": {
+          "title": "No Entry For Motorbike",
+          "description": "मोटरबाइक की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Entry For Motorbike",
+          "description": "মোটরবাইক অনুমোদিত নয়।"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "type": "regulatory",
+      "title_en": "No Entry For Public Works Vehicles",
+      "description_en": "Public works vehicles prohibited.",
+      "image_path": "signs/regulatory-road-signs/no-Entry-for-public-works-vehicles.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Entry For Public Works Vehicles",
+          "description": "عوامی کاموں کی گاڑیاں ممنوع ہیں۔"
+        },
+        "ar": {
+          "title": "No Entry For Public Works Vehicles",
+          "description": "مركبات الأشغال العامة ممنوعة."
+        },
+        "hi": {
+          "title": "No Entry For Public Works Vehicles",
+          "description": "सार्वजनिक कार्य वाहन निषिद्ध हैं।"
+        },
+        "bn": {
+          "title": "No Entry For Public Works Vehicles",
+          "description": "পাবলিক ওয়ার্কস যানবাহন নিষিদ্ধ।"
+        }
+      }
+    },
+    {
+      "id": 36,
+      "type": "regulatory",
+      "title_en": "No Entry For Trailers",
+      "description_en": "Trailers are not allowed.",
+      "image_path": "signs/regulatory-road-signs/no-Entry-for-trailers.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Entry For Trailers",
+          "description": "ٹریلرز کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Entry For Trailers",
+          "description": "المقطورات غير مسموح بها."
+        },
+        "hi": {
+          "title": "No Entry For Trailers",
+          "description": "ट्रेलरों की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Entry For Trailers",
+          "description": "ট্রেলার অনুমোদিত নয়।"
+        }
+      }
+    },
+    {
+      "id": 37,
+      "type": "regulatory",
+      "title_en": "No Entry",
+      "description_en": "Entry prohibited for all vehicles.",
+      "image_path": "signs/regulatory-road-signs/No-entry.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Entry",
+          "description": "تمام گاڑیوں کے لیے داخلہ ممنوع ہے۔"
+        },
+        "ar": {
+          "title": "No Entry",
+          "description": "الدخول ممنوع لجميع المركبات."
+        },
+        "hi": {
+          "title": "No Entry",
+          "description": "सभी वाहनों के लिए प्रवेश निषिद्ध है।"
+        },
+        "bn": {
+          "title": "No Entry",
+          "description": "সমস্ত যানবাহনের জন্য প্রবেশ নিষিদ্ধ।"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "type": "regulatory",
+      "title_en": "No Hazardous Materials",
+      "description_en": "Vehicles carrying hazardous materials prohibited.",
+      "image_path": "signs/regulatory-road-signs/No-Hazardous-materials.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Hazardous Materials",
+          "description": "خطرناک مواد لے جانے والی گاڑیاں ممنوع ہیں۔"
+        },
+        "ar": {
+          "title": "No Hazardous Materials",
+          "description": "المركبات التي تحمل مواد خطرة ممنوعة."
+        },
+        "hi": {
+          "title": "No Hazardous Materials",
+          "description": "खतरनाक सामग्री ले जाने वाले वाहन निषिद्ध हैं।"
+        },
+        "bn": {
+          "title": "No Hazardous Materials",
+          "description": "বিপজ্জনক সামগ্রী বহনকারী যানবাহন নিষিদ্ধ।"
+        }
+      }
+    },
+    {
+      "id": 39,
+      "type": "regulatory",
+      "title_en": "No Left Turn",
+      "description_en": "Left turn not allowed.",
+      "image_path": "signs/regulatory-road-signs/No-left-turn.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Left Turn",
+          "description": "بائیں مڑنے کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Left Turn",
+          "description": "الانعطاف يساراً غير مسموح."
+        },
+        "hi": {
+          "title": "No Left Turn",
+          "description": "बाएं मुड़ने की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Left Turn",
+          "description": "বাম দিকে ঘোরার অনুমতি নেই।"
+        }
+      }
+    },
+    {
+      "id": 40,
+      "type": "regulatory",
+      "title_en": "No Parking On Even Dates",
+      "description_en": "No parking on even-numbered dates.",
+      "image_path": "signs/regulatory-road-signs/no-parking-on-even-dates.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Parking On Even Dates",
+          "description": "جفت تاریخوں میں پارکنگ ممنوع ہے۔"
+        },
+        "ar": {
+          "title": "No Parking On Even Dates",
+          "description": "ممنوع الوقوف في التواريخ الزوجية."
+        },
+        "hi": {
+          "title": "No Parking On Even Dates",
+          "description": "सम संख्या वाली तारीखों पर पार्किंग निषिद्ध है।"
+        },
+        "bn": {
+          "title": "No Parking On Even Dates",
+          "description": "জোড় সংখ্যার তারিখে পার্কিং নিষিদ্ধ।"
+        }
+      }
+    },
+    {
+      "id": 41,
+      "type": "regulatory",
+      "title_en": "No Parking On Odd Dates",
+      "description_en": "No parking on odd-numbered dates.",
+      "image_path": "signs/regulatory-road-signs/no-parking-on-odd-dates.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Parking On Odd Dates",
+          "description": "طاق تاریخوں میں پارکنگ ممنوع ہے۔"
+        },
+        "ar": {
+          "title": "No Parking On Odd Dates",
+          "description": "ممنوع الوقوف في التواريخ الفردية."
+        },
+        "hi": {
+          "title": "No Parking On Odd Dates",
+          "description": "विषम संख्या वाली तारीखों पर पार्किंग निषिद्ध है।"
+        },
+        "bn": {
+          "title": "No Parking On Odd Dates",
+          "description": "বিজোড় সংখ্যার তারিখে পার্কিং নিষিদ্ধ।"
+        }
+      }
+    },
+    {
+      "id": 42,
+      "type": "regulatory",
+      "title_en": "No Parking",
+      "description_en": "Parking is not allowed.",
+      "image_path": "signs/regulatory-road-signs/no-parking.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Parking",
+          "description": "پارکنگ کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Parking",
+          "description": "الوقوف غير مسموح."
+        },
+        "hi": {
+          "title": "No Parking",
+          "description": "पार्किंग की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Parking",
+          "description": "পার্কিং অনুমোদিত নয়।"
+        }
+      }
+    },
+    {
+      "id": 43,
+      "type": "regulatory",
+      "title_en": "No Overtaking",
+      "description_en": "Overtaking is not allowed.",
+      "image_path": "signs/regulatory-road-signs/No-overtaking.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Overtaking",
+          "description": "اوورٹیک کرنے کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Overtaking",
+          "description": "التجاوز غير مسموح."
+        },
+        "hi": {
+          "title": "No Overtaking",
+          "description": "ओवरटेक करने की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Overtaking",
+          "description": "ওভারটেক করার অনুমতি নেই।"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "type": "regulatory",
+      "title_en": "No Pedestrians",
+      "description_en": "Pedestrians are not allowed.",
+      "image_path": "signs/regulatory-road-signs/No-pedestrians.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Pedestrians",
+          "description": "پیدل چلنے والوں کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Pedestrians",
+          "description": "المشاة غير مسموح لهم."
+        },
+        "hi": {
+          "title": "No Pedestrians",
+          "description": "पैदल यात्रियों की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Pedestrians",
+          "description": "পথচারীদের অনুমতি নেই।"
+        }
+      }
+    },
+    {
+      "id": 45,
+      "type": "regulatory",
+      "title_en": "No Right Turn",
+      "description_en": "Right turn not allowed.",
+      "image_path": "signs/regulatory-road-signs/No-right-turn.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Right Turn",
+          "description": "دائیں مڑنے کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Right Turn",
+          "description": "الانعطاف يميناً غير مسموح."
+        },
+        "hi": {
+          "title": "No Right Turn",
+          "description": "दाएं मुड़ने की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Right Turn",
+          "description": "ডান দিকে ঘোরার অনুমতি নেই।"
+        }
+      }
+    },
+    {
+      "id": 46,
+      "type": "regulatory",
+      "title_en": "No Stopping Clearway",
+      "description_en": "Stopping is not allowed - clearway.",
+      "image_path": "signs/regulatory-road-signs/no-Stopping-Clearway.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Stopping Clearway",
+          "description": "رکنا ممنوع ہے - کلیئر وے۔"
+        },
+        "ar": {
+          "title": "No Stopping Clearway",
+          "description": "التوقف غير مسموح - طريق خال."
+        },
+        "hi": {
+          "title": "No Stopping Clearway",
+          "description": "रुकना अनुमति नहीं है - क्लियरवे।"
+        },
+        "bn": {
+          "title": "No Stopping Clearway",
+          "description": "থামা অনুমোদিত নয় - ক্লিয়ারওয়ে।"
+        }
+      }
+    },
+    {
+      "id": 47,
+      "type": "regulatory",
+      "title_en": "No Uturn",
+      "description_en": "U-turns are not allowed.",
+      "image_path": "signs/regulatory-road-signs/No-uturn.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "No Uturn",
+          "description": "یو ٹرن کی اجازت نہیں ہے۔"
+        },
+        "ar": {
+          "title": "No Uturn",
+          "description": "الدوران للخلف غير مسموح."
+        },
+        "hi": {
+          "title": "No Uturn",
+          "description": "यू-टर्न की अनुमति नहीं है।"
+        },
+        "bn": {
+          "title": "No Uturn",
+          "description": "ইউ-টার্ন অনুমোদিত নয়।"
+        }
+      }
+    },
+    {
+      "id": 48,
+      "type": "regulatory",
+      "title_en": "Overtaking Prohibited For Goods Vehicles",
+      "description_en": "Overtaking prohibited for goods vehicles.",
+      "image_path": "signs/regulatory-road-signs/overtaking-prohibited-for-goods-vehicles.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Overtaking Prohibited For Goods Vehicles",
+          "description": "مال بردار گاڑیوں کے لیے اوورٹیکنگ ممنوع ہے۔"
+        },
+        "ar": {
+          "title": "Overtaking Prohibited For Goods Vehicles",
+          "description": "التجاوز ممنوع لمركبات البضائع."
+        },
+        "hi": {
+          "title": "Overtaking Prohibited For Goods Vehicles",
+          "description": "माल वाहनों के लिए ओवरटेकिंग निषिद्ध है।"
+        },
+        "bn": {
+          "title": "Overtaking Prohibited For Goods Vehicles",
+          "description": "পণ্য বাহনের জন্য ওভারটেকিং নিষিদ্ধ।"
+        }
+      }
+    },
+    {
+      "id": 49,
+      "type": "regulatory",
+      "title_en": "Overtaking Prohibited",
+      "description_en": "Overtaking is prohibited.",
+      "image_path": "signs/regulatory-road-signs/overtaking-prohibited.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Overtaking Prohibited",
+          "description": "اوورٹیکنگ ممنوع ہے۔"
+        },
+        "ar": {
+          "title": "Overtaking Prohibited",
+          "description": "التجاوز ممنوع."
+        },
+        "hi": {
+          "title": "Overtaking Prohibited",
+          "description": "ओवरटेकिंग निषिद्ध है।"
+        },
+        "bn": {
+          "title": "Overtaking Prohibited",
+          "description": "ওভারটেকিং নিষিদ্ধ।"
+        }
+      }
+    },
+    {
+      "id": 50,
+      "type": "regulatory",
+      "title_en": "Pass Either Side",
+      "description_en": "May pass on either side.",
+      "image_path": "signs/regulatory-road-signs/Pass-either-side.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Pass Either Side",
+          "description": "دونوں طرف سے گزر سکتے ہیں۔"
+        },
+        "ar": {
+          "title": "Pass Either Side",
+          "description": "يمكن المرور من أي جانب."
+        },
+        "hi": {
+          "title": "Pass Either Side",
+          "description": "किसी भी तरफ से गुजर सकते हैं।"
+        },
+        "bn": {
+          "title": "Pass Either Side",
+          "description": "যেকোনো দিক থেকে যেতে পারেন।"
+        }
+      }
+    },
+    {
+      "id": 51,
+      "type": "regulatory",
+      "title_en": "Pedestrian And Bicycle Path",
+      "description_en": "Path for pedestrians and bicycles.",
+      "image_path": "signs/regulatory-road-signs/pedestrian-and-bicycle-path.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Pedestrian And Bicycle Path",
+          "description": "پیدل چلنے والوں اور سائیکلوں کے لیے راستہ۔"
+        },
+        "ar": {
+          "title": "Pedestrian And Bicycle Path",
+          "description": "مسار للمشاة والدراجات الهوائية."
+        },
+        "hi": {
+          "title": "Pedestrian And Bicycle Path",
+          "description": "पैदल यात्रियों और साइकिलों के लिए पथ।"
+        },
+        "bn": {
+          "title": "Pedestrian And Bicycle Path",
+          "description": "পথচারী এবং সাইকেলের জন্য পথ।"
+        }
+      }
+    },
+    {
+      "id": 52,
+      "type": "regulatory",
+      "title_en": "Pedestrian Path",
+      "description_en": "Path designated for pedestrians only.",
+      "image_path": "signs/regulatory-road-signs/pedestrian-path.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Pedestrian Path",
+          "description": "صرف پیدل چلنے والوں کے لیے مخصوص راستہ۔"
+        },
+        "ar": {
+          "title": "Pedestrian Path",
+          "description": "مسار مخصص للمشاة فقط."
+        },
+        "hi": {
+          "title": "Pedestrian Path",
+          "description": "केवल पैदल यात्रियों के लिए निर्धारित पथ।"
+        },
+        "bn": {
+          "title": "Pedestrian Path",
+          "description": "শুধুমাত্র পথচারীদের জন্য নির্ধারিত পথ।"
+        }
+      }
+    },
+    {
+      "id": 53,
+      "type": "regulatory",
+      "title_en": "Priority To Oncoming Traffic",
+      "description_en": "Give priority to oncoming traffic.",
+      "image_path": "signs/regulatory-road-signs/Priority-to-oncoming-traffic.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Priority To Oncoming Traffic",
+          "description": "آنے والی ٹریفک کو ترجیح دیں۔"
+        },
+        "ar": {
+          "title": "Priority To Oncoming Traffic",
+          "description": "أعط الأولوية لحركة المرور القادمة."
+        },
+        "hi": {
+          "title": "Priority To Oncoming Traffic",
+          "description": "आने वाले यातायात को प्राथमिकता दें।"
+        },
+        "bn": {
+          "title": "Priority To Oncoming Traffic",
+          "description": "আসছে ট্রাফিককে অগ্রাধিকার দিন।"
+        }
+      }
+    },
+    {
+      "id": 54,
+      "type": "regulatory",
+      "title_en": "Roundabout",
+      "description_en": "Roundabout ahead.",
+      "image_path": "signs/regulatory-road-signs/Roundabout.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Roundabout",
+          "description": "آگے گول چکر۔"
+        },
+        "ar": {
+          "title": "Roundabout",
+          "description": "دوار أمامك."
+        },
+        "hi": {
+          "title": "Roundabout",
+          "description": "आगे गोल चक्कर।"
+        },
+        "bn": {
+          "title": "Roundabout",
+          "description": "সামনে রাউন্ডঅ্যাবাউট।"
+        }
+      }
+    },
+    {
+      "id": 55,
+      "type": "regulatory",
+      "title_en": "Stop",
+      "description_en": "Come to a complete stop.",
+      "image_path": "signs/regulatory-road-signs/Stop.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Stop",
+          "description": "مکمل طور پر رک جائیں۔"
+        },
+        "ar": {
+          "title": "Stop",
+          "description": "توقف تماماً."
+        },
+        "hi": {
+          "title": "Stop",
+          "description": "पूर्ण रूप से रुकें।"
+        },
+        "bn": {
+          "title": "Stop",
+          "description": "সম্পূর্ণভাবে থামুন।"
+        }
+      }
+    },
+    {
+      "id": 56,
+      "type": "regulatory",
+      "title_en": "Traffic Flow Must Go Right Or Left",
+      "description_en": "Traffic must go right or left.",
+      "image_path": "signs/regulatory-road-signs/traffic-flow-Must-go-right-or-left.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Traffic Flow Must Go Right Or Left",
+          "description": "ٹریفک کو دائیں یا بائیں جانا چاہیے۔"
+        },
+        "ar": {
+          "title": "Traffic Flow Must Go Right Or Left",
+          "description": "يجب أن تذهب حركة المرور يميناً أو يساراً."
+        },
+        "hi": {
+          "title": "Traffic Flow Must Go Right Or Left",
+          "description": "यातायात को दाएं या बाएं जाना चाहिए।"
+        },
+        "bn": {
+          "title": "Traffic Flow Must Go Right Or Left",
+          "description": "ট্রাফিককে ডানে বা বামে যেতে হবে।"
+        }
+      }
+    },
+    {
+      "id": 57,
+      "type": "regulatory",
+      "title_en": "Turn Left Ahead",
+      "description_en": "Must turn left ahead.",
+      "image_path": "signs/regulatory-road-signs/Turn-left-ahead.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Turn Left Ahead",
+          "description": "آگے بائیں مڑنا لازمی ہے۔"
+        },
+        "ar": {
+          "title": "Turn Left Ahead",
+          "description": "يجب الانعطاف يساراً أمامك."
+        },
+        "hi": {
+          "title": "Turn Left Ahead",
+          "description": "आगे बाएं मुड़ना अनिवार्य है।"
+        },
+        "bn": {
+          "title": "Turn Left Ahead",
+          "description": "সামনে বাম দিকে ঘুরতে হবে।"
+        }
+      }
+    },
+    {
+      "id": 58,
+      "type": "regulatory",
+      "title_en": "Turn Left",
+      "description_en": "Must turn left.",
+      "image_path": "signs/regulatory-road-signs/Turn-left.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Turn Left",
+          "description": "بائیں مڑنا لازمی ہے۔"
+        },
+        "ar": {
+          "title": "Turn Left",
+          "description": "يجب الانعطاف يساراً."
+        },
+        "hi": {
+          "title": "Turn Left",
+          "description": "बाएं मुड़ना अनिवार्य है।"
+        },
+        "bn": {
+          "title": "Turn Left",
+          "description": "বাম দিকে ঘুরতে হবে।"
+        }
+      }
+    },
+    {
+      "id": 59,
+      "type": "regulatory",
+      "title_en": "Turn Right Ahead",
+      "description_en": "Must turn right ahead.",
+      "image_path": "signs/regulatory-road-signs/Turn-right-ahead.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Turn Right Ahead",
+          "description": "آگے دائیں مڑنا لازمی ہے۔"
+        },
+        "ar": {
+          "title": "Turn Right Ahead",
+          "description": "يجب الانعطاف يميناً أمامك."
+        },
+        "hi": {
+          "title": "Turn Right Ahead",
+          "description": "आगे दाएं मुड़ना अनिवार্य है।"
+        },
+        "bn": {
+          "title": "Turn Right Ahead",
+          "description": "সামনে ডান দিকে ঘুরতে হবে।"
+        }
+      }
+    },
+    {
+      "id": 60,
+      "type": "regulatory",
+      "title_en": "Turn Right",
+      "description_en": "Must turn right.",
+      "image_path": "signs/regulatory-road-signs/Turn-right.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Turn Right",
+          "description": "دائیں مڑنا لازمی ہے۔"
+        },
+        "ar": {
+          "title": "Turn Right",
+          "description": "يجب الانعطاف يميناً."
+        },
+        "hi": {
+          "title": "Turn Right",
+          "description": "दाएं मुड़ना अनिवार्य है।"
+        },
+        "bn": {
+          "title": "Turn Right",
+          "description": "ডান দিকে ঘুরতে হবে।"
+        }
+      }
+    },
+    {
+      "id": 61,
+      "type": "regulatory",
+      "title_en": "Use Of Horn Prohibited",
+      "description_en": "Horn use is prohibited.",
+      "image_path": "signs/regulatory-road-signs/Use-of-horn-prohibited.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Use Of Horn Prohibited",
+          "description": "ہارن کا استعمال ممنوع ہے۔"
+        },
+        "ar": {
+          "title": "Use Of Horn Prohibited",
+          "description": "استخدام الزامور ممنوع."
+        },
+        "hi": {
+          "title": "Use Of Horn Prohibited",
+          "description": "हॉर्न का उपयोग निषिद्ध है।"
+        },
+        "bn": {
+          "title": "Use Of Horn Prohibited",
+          "description": "হর্ন ব্যবহার নিষিদ্ধ।"
+        }
+      }
+    },
+    {
+      "id": 62,
+      "type": "regulatory",
+      "title_en": "Used In Temporary Situations",
+      "description_en": "Used in temporary traffic situations.",
+      "image_path": "signs/regulatory-road-signs/Used-in-temporary-situations.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "Used In Temporary Situations",
+          "description": "عارضی ٹریفک حالات میں استعمال کیا جاتا ہے۔"
+        },
+        "ar": {
+          "title": "Used In Temporary Situations",
+          "description": "يستخدم في حالات المرور المؤقتة."
+        },
+        "hi": {
+          "title": "Used In Temporary Situations",
+          "description": "अस्थायी यातायात स्थितियों में उपयोग किया जाता है।"
+        },
+        "bn": {
+          "title": "Used In Temporary Situations",
+          "description": "অস্থায়ী ট্রাফিক পরিস্থিতিতে ব্যবহৃত।"
+        }
+      }
+    },
+    {
+      "id": 63,
+      "type": "regulatory",
+      "title_en": "You Must Go This Way",
+      "description_en": "Mandatory direction of travel.",
+      "image_path": "signs/regulatory-road-signs/You-must-go-this-way.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "You Must Go This Way",
+          "description": "سفر کی لازمی سمت۔"
+        },
+        "ar": {
+          "title": "You Must Go This Way",
+          "description": "اتجاه السفر الإلزامي."
+        },
+        "hi": {
+          "title": "You Must Go This Way",
+          "description": "यात्रा की अनिवार्य दिशा।"
+        },
+        "bn": {
+          "title": "You Must Go This Way",
+          "description": "ভ্রমণের বাধ্যতামূলক দিক।"
+        }
+      }
+    }
+  ]
+}

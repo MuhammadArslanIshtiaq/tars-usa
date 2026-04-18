@@ -1,0 +1,498 @@
+{
+  "state": "Oregon",
+  "category": "cdl",
+  "testName": "Tank Test #1 20 Questions • Passing Score 16",
+  "testSlug": "tank-1",
+  "url": "/images/oregon/cdl/tank-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9961",
+      "question": "大多数重型车辆在换挡时使用____方法。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "双离合"
+        },
+        {
+          "letter": "B",
+          "text": "双换挡"
+        },
+        {
+          "letter": "C",
+          "text": "三离合"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "双离合",
+      "explanation": "大多数带有不同步手动变速器的重型车辆需要双离合换挡。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10534",
+      "question": "在进行出车前检查时，驾驶员应该查看车辆下方：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "查看车辆是否在斜坡上。"
+        },
+        {
+          "letter": "B",
+          "text": "查看车辆下是否有任何新鲜液体。"
+        },
+        {
+          "letter": "C",
+          "text": "查看车辆是否在停车位。"
+        },
+        {
+          "letter": "D",
+          "text": "查看车辆是否在斜坡上。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "查看车辆下是否有任何新鲜液体。",
+      "explanation": "接近你的车辆进行检查时，你应该查看其下方是否有新鲜的油、冷却液、润滑脂或燃料泄漏在地上。泄漏可能表明车辆有不安全的缺陷。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8841",
+      "question": "当轮胎爆胎时，你可能会听到一声巨响。卡车会受到影响：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "立即。"
+        },
+        {
+          "letter": "B",
+          "text": "短暂延迟后。"
+        },
+        {
+          "letter": "C",
+          "text": "仅当受损轮胎靠近卡车前部时。"
+        },
+        {
+          "letter": "D",
+          "text": "仅当卡车运载货物时。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "短暂延迟后。",
+      "explanation": "轮胎失效的声音与车辆受到轮胎失效影响的时间之间可能有几秒钟的延迟。由于延迟很短，驾驶员最初可能认为声音来自另一辆车。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8585",
+      "question": "如果您车辆的ABS不工作，应该如何制动？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "正常制动，因为制动器仍然有效。"
+        },
+        {
+          "letter": "B",
+          "text": "反复踩踏制动踏板。"
+        },
+        {
+          "letter": "C",
+          "text": "尽力压下制动踏板。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "正常制动，因为制动器仍然有效。",
+      "explanation": "没有正常工作的防抱死制动系统（ABS），您的车辆仍然具有正常的制动功能。继续按照您平常的方式驾驶和制动，并尽快对您的ABS进行维修。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8711",
+      "question": "当试图控制轻微的卡车火灾时，在打开拖车门之前你应该做什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查门是否发热。"
+        },
+        {
+          "letter": "B",
+          "text": "在门上泼水。"
+        },
+        {
+          "letter": "C",
+          "text": "取下你的防护装备。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "检查门是否发热。",
+      "explanation": "如果你正在经历卡车火灾，不应该在没有先感觉车门是否发热的情况下尝试打开拖车门。如果车门发热，可能存在货物火灾。如果有货物火灾，请保持车门关闭。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10119",
+      "question": "驾驶油罐时，驾驶员应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "增加跟车距离。"
+        },
+        {
+          "letter": "B",
+          "text": "突然停车。"
+        },
+        {
+          "letter": "C",
+          "text": "定期急转向。"
+        },
+        {
+          "letter": "D",
+          "text": "放气轮胎。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "增加跟车距离。",
+      "explanation": "突然停止可能会在运输液体货物的油罐中产生危险的浪涌。为了减少突然停止的需要，油罐驾驶员应增加跟随距离，以便他们可以提前开始制动停止。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10144",
+      "question": "第1类、第2.1类和第3类物品不应与以下物品放在同一拖车中：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "加热器。"
+        },
+        {
+          "letter": "B",
+          "text": "空调。"
+        },
+        {
+          "letter": "C",
+          "text": "其他物品。"
+        },
+        {
+          "letter": "D",
+          "text": "纸张。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "加热器。",
+      "explanation": "货物加热器并非总是被允许使用。在运输分类为第1类（爆炸物）、第2.1类（易燃气体）或第3类（易燃液体）的物品时，通常禁止使用加热器。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10467",
+      "question": "翻车发生在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您行驶速度太慢。"
+        },
+        {
+          "letter": "B",
+          "text": "您已停止。"
+        },
+        {
+          "letter": "C",
+          "text": "你转弯太快。"
+        },
+        {
+          "letter": "D",
+          "text": "你计划一条逃生路线。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "你转弯太快。",
+      "explanation": "翻车是由于驾驶员转弯过快而发生的。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11181",
+      "question": "分心驾驶：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不是一个问题。"
+        },
+        {
+          "letter": "B",
+          "text": "仅由在驾驶时做某些身体活动的人引起。"
+        },
+        {
+          "letter": "C",
+          "text": "可能由心理活动（如走神）引起。"
+        },
+        {
+          "letter": "D",
+          "text": "在不拥挤的道路上被鼓励。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "可能由心理活动（如走神）引起。",
+      "explanation": "驾驶时的分心可以是身体上的（如伸手拿物品）、心理上的（如与乘客交谈）或两者兼有（如拿手机发短信）。帮助您避免分心驾驶的策略包括：预先编程电台；提前规划路线；避免在驾驶时进行复杂或情感上繁重的交谈；在出发前调整镜子；以及不要在方向盘后吃东西、喝东西或吸烟。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8670",
+      "question": "危险品员工需要多频繁进行培训和测试？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每年一次"
+        },
+        {
+          "letter": "B",
+          "text": "每三年一次"
+        },
+        {
+          "letter": "C",
+          "text": "每五年一次"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "每三年一次",
+      "explanation": "所有驾驶员必须接受危险品运输安全风险培训。此培训必须包括如何识别和应对可能的安全威胁。危险品员工必须至少每三年进行一次培训和测试。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10945",
+      "question": "当车辆下坡行驶时，车速可能会：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "减少。"
+        },
+        {
+          "letter": "B",
+          "text": "不改变。"
+        },
+        {
+          "letter": "C",
+          "text": "增加。"
+        },
+        {
+          "letter": "D",
+          "text": "与交通车速相匹配。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "增加。",
+      "explanation": "在下坡上，重力会导致车速增加。当接近下坡时，选择对车辆大小和重量安全的速度。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10651",
+      "question": "在驾驶油罐之前，您应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查管道、连接和软管是否泄漏。"
+        },
+        {
+          "letter": "B",
+          "text": "确保舱口盖没有垫圈。"
+        },
+        {
+          "letter": "C",
+          "text": "确保所有阀门都打开。"
+        },
+        {
+          "letter": "D",
+          "text": "打开排放阀。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "检查管道、连接和软管是否泄漏。",
+      "explanation": "检查油罐车时，最重要的是检查泄漏。检查所有管道、连接和软管，特别是在接头处。确保舱口盖有垫圈并正确关闭。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9426",
+      "question": "车辆检查报告有什么作用？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "通知机动车承运人可能需要修复的问题"
+        },
+        {
+          "letter": "B",
+          "text": "确保定期检查车辆"
+        },
+        {
+          "letter": "C",
+          "text": "让人们对检查车辆负责"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "通知机动车承运人可能需要修复的问题",
+      "explanation": "车辆检查报告使承运人了解需要修复的任何问题。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9308",
+      "question": "如果您正在运输危险品且货物着火，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "尝试用灭火器扑灭火灾。"
+        },
+        {
+          "letter": "B",
+          "text": "联系应急人员让他们扑灭火灾。"
+        },
+        {
+          "letter": "C",
+          "text": "希望火灾自行熄灭。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "联系应急人员让他们扑灭火灾。",
+      "explanation": "扑灭危险品火灾需要特殊培训和防护装备。除非您拥有适当的设备和培训，否则不应尝试自行扑灭危险品火灾。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9442",
+      "question": "人们通常在何时最不警惕？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "早上"
+        },
+        {
+          "letter": "B",
+          "text": "傍晚"
+        },
+        {
+          "letter": "C",
+          "text": "深夜"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "深夜",
+      "explanation": "大多数驾驶员在夜间最不警惕，尤其是午夜之后。因此，疲劳驾驶导致的碰撞比一天中的任何其他时间都更可能在夜间发生。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9525",
+      "question": "当超越另一辆车时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "与其他驾驶员进行眼神接触。"
+        },
+        {
+          "letter": "B",
+          "text": "假设其他驾驶员没有看到你。"
+        },
+        {
+          "letter": "C",
+          "text": "鸣喇叭。"
+        },
+        {
+          "letter": "D",
+          "text": "向其他驾驶员挥手。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "假设其他驾驶员没有看到你。",
+      "explanation": "始终最安全的做法是假设其他驾驶员、骑自行车者和行人没有看到你。要为他们可能突然进入你的路径的可能性做好准备。当你经过时，轻轻按一下喇叭或闪烁车灯可能是安全的。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11060",
+      "question": "当启动车辆时，冷却液温度应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "减少。"
+        },
+        {
+          "letter": "B",
+          "text": "缓慢上升。"
+        },
+        {
+          "letter": "C",
+          "text": "迅速跳跃。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "缓慢上升。",
+      "explanation": "引擎启动后，冷却液温度应该逐渐上升到正常工作范围。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11574",
+      "question": "紧急气路：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "由脚制动器控制。"
+        },
+        {
+          "letter": "B",
+          "text": "连接到继电器阀。"
+        },
+        {
+          "letter": "C",
+          "text": "为拖车气罐供气。"
+        },
+        {
+          "letter": "D",
+          "text": "防止侧滑。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "为拖车气罐供气。",
+      "explanation": "紧急气路（也称为供气管路）有两个功能。第一个是为组合车辆上的拖车气罐供气，第二个是控制紧急制动器。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8898",
+      "question": "联接快速接头时查看匹配的颜色。服务管路通常：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色。"
+        },
+        {
+          "letter": "B",
+          "text": "橙色。"
+        },
+        {
+          "letter": "C",
+          "text": "红色。"
+        },
+        {
+          "letter": "D",
+          "text": "蓝色。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "蓝色。",
+      "explanation": "联接快速接头时，确保将匹配的快速接头连接在一起。为了帮助驾驶员避免错误，有时会使用色彩编码。服务管路通常用蓝色编码，应急管路通常用红色编码。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10241",
+      "question": "当半挂车的车轮锁定时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "拖车将保持直线。"
+        },
+        {
+          "letter": "B",
+          "text": "拖车倾向于摇摆。"
+        },
+        {
+          "letter": "C",
+          "text": "驾驶室会摇摆，但拖车将保持直线。"
+        },
+        {
+          "letter": "D",
+          "text": "它们可能会爆胎。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "拖车倾向于摇摆。",
+      "explanation": "如果拖车的轮子锁定，拖车可能会向外摇摆并撞击其他车辆。这种情况在负载较轻的拖车中尤其可能发生。"
+    }
+  ]
+}

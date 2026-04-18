@@ -1,0 +1,608 @@
+{
+  "state": "Wisconsin",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/wisconsin/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11710",
+      "question": "踩下制动踏板会导致空气压力启动电气开关并：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "关闭制动灯。"
+        },
+        {
+          "letter": "B",
+          "text": "打开低压警告灯。"
+        },
+        {
+          "letter": "C",
+          "text": "打开制动灯。"
+        },
+        {
+          "letter": "D",
+          "text": "关闭低压警告灯。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "打开制动灯。",
+      "explanation": "在配备气动制动器的车辆中，当踩下制动踏板且空气压力移动电气开关时，制动灯被激活。通过空气压力的施加，开关将打开制动灯。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11899",
+      "question": "如果在驾驶时低压警告信号激活，你应该____。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停在你所在的地方并停车"
+        },
+        {
+          "letter": "B",
+          "text": "尽可能安全地驶离道路"
+        },
+        {
+          "letter": "C",
+          "text": "继续正常驾驶"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "尽可能安全地驶离道路",
+      "explanation": "如果低气压警告信号在驾驶时激活，重要的是您应尽快安全地驶离路面并停泊车辆。如果空气压力太低，制动器将无法正常工作，您无法安全停车。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11700",
+      "question": "双空气制动系统中的空气压力应在以下时间内从85至100 psi增加：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "两分钟"
+        },
+        {
+          "letter": "B",
+          "text": "15秒。"
+        },
+        {
+          "letter": "C",
+          "text": "10分钟。"
+        },
+        {
+          "letter": "D",
+          "text": "45秒"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "45秒",
+      "explanation": "检查配有双气制动系统的车辆时，您应该等待气压在主系统和副系统中从85到100 psi增加。这应该需要约45秒。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9139",
+      "question": "在陡峭的下坡时，使用制动器的最佳方式是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "全程踩制动器下坡。"
+        },
+        {
+          "letter": "B",
+          "text": "应用制动器几秒钟，然后释放制动器几秒钟。在下坡时继续重复这些步骤。"
+        },
+        {
+          "letter": "C",
+          "text": "仅在下坡底部附近应用制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "全程对制动踏板施加持续压力下坡。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "应用制动器几秒钟，然后释放制动器几秒钟。在下坡时继续重复这些步骤。",
+      "explanation": "在长陡坡上，制动器应仅用于补充发动机的制动效果。施加制动器直到感到明显的减速，然后在车速降至目标\"安全\"速度以下约 5 mph 时释放制动器。一旦车辆恢复到安全速度，重复此过程。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9894",
+      "question": "制动器调整不当会：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "正常工作。"
+        },
+        {
+          "letter": "B",
+          "text": "导致某些制动器过度工作和故障。"
+        },
+        {
+          "letter": "C",
+          "text": "加速性能更好。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "导致某些制动器过度工作和故障。",
+      "explanation": "调整不当的制动器会比调整正确的制动器更早褪色。必须经常检查制动器调整，以帮助防止制动问题。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8629",
+      "question": "紧急制动器使用什么样的力？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "气压"
+        },
+        {
+          "letter": "B",
+          "text": "机械力"
+        },
+        {
+          "letter": "C",
+          "text": "沉重的"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "机械力",
+      "explanation": "空气制动系统实际上是三个不同的制动系统：行车制动、停驻制动和紧急制动。紧急制动和停驻制动通过机械力施加。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8880",
+      "question": "在双气制动系统中：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每个系统都有单独的空气罐、软管和管路。"
+        },
+        {
+          "letter": "B",
+          "text": "系统共享空气罐，但每个系统都有自己单独的软管和管路。"
+        },
+        {
+          "letter": "C",
+          "text": "每个系统使用相同的管路和软管。"
+        },
+        {
+          "letter": "D",
+          "text": "一个系统是主制动系统，第二个系统在第一个系统失效时可以使用。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "每个系统都有单独的空气罐、软管和管路。",
+      "explanation": "双空气制动系统由两个独立的空气制动系统组成。这些系统共享一套制动控制装置，但每个系统都有自己的空气罐、软管和管路。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10230",
+      "question": "基础制动器用于：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅在前轮。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在后轮。"
+        },
+        {
+          "letter": "C",
+          "text": "仅在驾驶员侧车轮。"
+        },
+        {
+          "letter": "D",
+          "text": "在每个车轮。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "在每个车轮。",
+      "explanation": "基础制动器用于每个车轮。最常见的类型是S凸轮鼓式制动器。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8635",
+      "question": "驾驶配备双气制动系统的车辆时，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "让车辆预热后再驾驶，以确保燃油到达发动机。"
+        },
+        {
+          "letter": "B",
+          "text": "让空气压缩机在主系统和副系统中至少建立100 psi的压力后再驾驶。"
+        },
+        {
+          "letter": "C",
+          "text": "在车辆启动后立即开始驾驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "让空气压缩机在主系统和副系统中至少建立100 psi的压力后再驾驶。",
+      "explanation": "驾驶配备双气制动系统的车辆前，请留出时间让空气压缩机在主系统和副系统中都至少建立100 psi的压力。注意空气压力表以监测压力水平。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11289",
+      "question": "充气罐排水管：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "允许雨水进入罐中。"
+        },
+        {
+          "letter": "B",
+          "text": "用于从罐中排出水和油。"
+        },
+        {
+          "letter": "C",
+          "text": "永远不应打开。"
+        },
+        {
+          "letter": "D",
+          "text": "在驾驶时必须保持打开。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "用于从罐中排出水和油。",
+      "explanation": "在气制动系统中,空气储存罐配备有排水装置,以允许水和压缩机油被排出。如果水和油在系统中积累,会损坏制动器。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11886",
+      "question": "在施加泄漏测试期间,配备空气制动装置的单辆车辆的最大安全泄漏率是多少?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每分钟10 psi"
+        },
+        {
+          "letter": "B",
+          "text": "每分钟5 psi"
+        },
+        {
+          "letter": "C",
+          "text": "每分钟3 psi"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "每分钟3 psi",
+      "explanation": "了解特定车辆的最大安全空气损失率很重要。在施加泄漏测试期间,配备空气制动装置的单辆车辆的泄漏率不应超过每分钟3 psi。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8765",
+      "question": "在双气制动系统中：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "储气罐在两个系统之间共用。"
+        },
+        {
+          "letter": "B",
+          "text": "每个系统都有自己的储气罐。"
+        },
+        {
+          "letter": "C",
+          "text": "您必须指定您正在使用哪个系统。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "每个系统都有自己的储气罐。",
+      "explanation": "双气制动系统中有两个空气制动系统。这两个系统共用一套制动控制装置，但每个系统都有自己的储气罐、软管和管线。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8756",
+      "question": "充气罐排水管：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不应在寒冷天气中使用。"
+        },
+        {
+          "letter": "B",
+          "text": "有助于清除充气罐中的水和油。"
+        },
+        {
+          "letter": "C",
+          "text": "用于将空气输送到制动器。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "有助于清除充气罐中的水和油。",
+      "explanation": "空气制动系统中的压缩空气通常含有一定量的水和油。如果允许积累，这可能会对系统造成伤害。充气罐配有排水阀，以帮助清除压缩空气中的水和油。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8768",
+      "question": "什么是制动滞后？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "按下制动踏板后制动器开始工作所需的时间"
+        },
+        {
+          "letter": "B",
+          "text": "制动踏板和地板之间的距离"
+        },
+        {
+          "letter": "C",
+          "text": "用于停止车辆的空气压力量"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "按下制动踏板后制动器开始工作所需的时间",
+      "explanation": "由于空气通过气管流向制动器需要时间，空气制动器无法立即开始工作。从按下制动踏板的时刻到制动器开始工作的时刻，通常至少有半秒的制动滞后。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9384",
+      "question": "停车制动器如何释放？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "通过点击制动踏板三次"
+        },
+        {
+          "letter": "B",
+          "text": "通过向内推动制动控制旋钮"
+        },
+        {
+          "letter": "C",
+          "text": "通过启动车辆"
+        },
+        {
+          "letter": "D",
+          "text": "通过轻点加速踏板两次"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "通过向内推动制动控制旋钮",
+      "explanation": "在配有气动制动的车辆中,驻车制动由一个旋钮控制。拉出旋钮以应用制动,推入以释放制动。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8766",
+      "question": "在双空气制动系统中，如果一个空气系统压力很低：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "所有制动器都完全失效。"
+        },
+        {
+          "letter": "B",
+          "text": "前制动器或后制动器之一将不能完全操作。"
+        },
+        {
+          "letter": "C",
+          "text": "通常没有明显的影响。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "前制动器或后制动器之一将不能完全操作。",
+      "explanation": "在双空气制动系统中，如果其中一个空气系统压力过低，前制动器或后制动器之一将不能完全操作。如果在驾驶时任一油罐中的空气压力过低，您应尽快驶出道路并停靠。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11531",
+      "question": "什么能告诉你车辆气罐中有多少压力？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "供气压力表"
+        },
+        {
+          "letter": "B",
+          "text": "ABS故障指示灯"
+        },
+        {
+          "letter": "C",
+          "text": "牵引车保护阀"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "供气压力表",
+      "explanation": "配备空气制动系统的车辆还必须配备供气压力表。该压力表告诉驾驶员每个车辆气罐中的空气压力有多大。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8994",
+      "question": "所有气罐必须包括：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "排水阀。"
+        },
+        {
+          "letter": "B",
+          "text": "锁。"
+        },
+        {
+          "letter": "C",
+          "text": "活板门。"
+        },
+        {
+          "letter": "D",
+          "text": "警告标签。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "排水阀。",
+      "explanation": "气压制动系统罐必须包含排水阀。这些阀门用于排出罐中积累的油和水，可以是手动或自动操作。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9137",
+      "question": "制动装置应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每月测试一次。"
+        },
+        {
+          "letter": "B",
+          "text": "仅由受过培训的机械师测试。"
+        },
+        {
+          "letter": "C",
+          "text": "在每次出行前进行测试。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在每次出行前进行测试。",
+      "explanation": "驾驶前，你应该始终验证你的制动装置工作良好。在出行前测试制动装置可以让你在需要制动前发现任何问题。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9891",
+      "question": "空气储气罐：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不允许在车辆上使用。"
+        },
+        {
+          "letter": "B",
+          "text": "为制动器储存压缩空气。"
+        },
+        {
+          "letter": "C",
+          "text": "每次行驶后应排出多余的空气。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "为制动器储存压缩空气。",
+      "explanation": "在空气制动系统中，空气储气罐储存压缩空气供制动器使用。空气罐的数量和大小因车辆而异。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "10960",
+      "question": "排放空气罐时会清除什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "水和油"
+        },
+        {
+          "letter": "B",
+          "text": "氨"
+        },
+        {
+          "letter": "C",
+          "text": "木头"
+        },
+        {
+          "letter": "D",
+          "text": "氯气"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "水和油",
+      "explanation": "在气制动系统中,空气储存罐配备有排水装置,以允许水和压缩机油被排出。如果水和油在系统中积累,会损坏制动器。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11900",
+      "question": "双气制动系统的两个系统共享什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "软管"
+        },
+        {
+          "letter": "B",
+          "text": "一个空气压缩机"
+        },
+        {
+          "letter": "C",
+          "text": "空气储罐"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "一个空气压缩机",
+      "explanation": "双气制动系统中的两个系统共享单个空气压缩机。如果空气压缩机损坏，两个系统都无法正常运行。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "9005",
+      "question": "当按下制动踏板时，空气制动的工作方式：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "立即。"
+        },
+        {
+          "letter": "B",
+          "text": "短暂延迟后。"
+        },
+        {
+          "letter": "C",
+          "text": "大约一分钟后。"
+        },
+        {
+          "letter": "D",
+          "text": "仅当外面温暖时。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "短暂延迟后。",
+      "explanation": "由于空气通过气管流向制动器需要时间，空气制动器无法立即开始工作。从按下制动踏板的时刻到制动器开始工作的时刻，通常至少有半秒的制动滞后。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8879",
+      "question": "大多数重型车辆使用____空气制动系统。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "单"
+        },
+        {
+          "letter": "B",
+          "text": "双"
+        },
+        {
+          "letter": "C",
+          "text": "三"
+        },
+        {
+          "letter": "D",
+          "text": "四"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "双",
+      "explanation": "大多数重型车辆配备双空气制动系统。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "10988",
+      "question": "罐体背书是:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅在运输气体时需要。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在运输液体时需要。"
+        },
+        {
+          "letter": "C",
+          "text": "用于运输液体和气体时使用。"
+        },
+        {
+          "letter": "D",
+          "text": "运输危险品时可选。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "用于运输液体和气体时使用。",
+      "explanation": "一般来说，驾驶用于运输液体或气体的油罐车需要持有油罐背书。这适用于有害物质和无害物质。"
+    }
+  ]
+}

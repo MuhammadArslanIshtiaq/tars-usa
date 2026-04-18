@@ -1,0 +1,804 @@
+{
+  "state": "Ohio",
+  "category": "car",
+  "quizName": "Easy Practice Test #1",
+  "slug": "easy-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "575",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前方有环形交叉路口。"
+        },
+        {
+          "letter": "B",
+          "text": "禁止超车区域。"
+        },
+        {
+          "letter": "C",
+          "text": "绿灯时左转让行。"
+        },
+        {
+          "letter": "D",
+          "text": "前方有交通信号灯。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "前方有交通信号灯。",
+      "explanation": "此标志表示前方有交通信号灯。您应该减速并准备停车。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "586",
+      "question": "这个道路标志表示：",
+      "image": "/images/signs/florida-exit_speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "住宅区的最大安全速度。"
+        },
+        {
+          "letter": "B",
+          "text": "高速公路出口的最大安全速度。"
+        },
+        {
+          "letter": "C",
+          "text": "高速公路入口的最大安全速度。"
+        },
+        {
+          "letter": "D",
+          "text": "工作区的最大安全速度。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "高速公路出口的最大安全速度。",
+      "explanation": "这个建议速度标志表示高速公路出口的最大安全速度（在本例中为30 mph）。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "966",
+      "question": "这个标志表示：",
+      "image": "/images/signs/indiana-slippery_when_wet(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "潮湿时滑行。"
+        },
+        {
+          "letter": "B",
+          "text": "拖车区。"
+        },
+        {
+          "letter": "C",
+          "text": "陡峭下坡。"
+        },
+        {
+          "letter": "D",
+          "text": "前方道路施工。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "潮湿时滑行。",
+      "explanation": "警告标志为驾驶员准备即将到来的道路条件和危险，通常是黄色背景配黑色标记。这个标志告诉驾驶员在可能导致路面变得潮湿和滑溜的条件下驾驶时要谨慎。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "2297",
+      "question": "摩托车有权获得：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "自行车道。"
+        },
+        {
+          "letter": "B",
+          "text": "与其他机动车相同的全车道宽度。"
+        },
+        {
+          "letter": "C",
+          "text": "车道宽度的一半。"
+        },
+        {
+          "letter": "D",
+          "text": "人行道的宽度。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "与其他机动车相同的全车道宽度。",
+      "explanation": "摩托车驾驶员的车道使用至关重要。摩托车有权获得与所有其他车辆相同的全车道宽度。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "216",
+      "question": "当您看到此标志时，您必须：",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "完全停止并检查行人和交叉车流。"
+        },
+        {
+          "letter": "B",
+          "text": "减速但不需完全停止。"
+        },
+        {
+          "letter": "C",
+          "text": "完全停止并等待绿灯。"
+        },
+        {
+          "letter": "D",
+          "text": "减速并检查车流。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "完全停止并检查行人和交叉车流。",
+      "explanation": "任何八边形标志都是停止标志。在有停止标志的十字路口，您必须完全停止并检查行人和路口交叉车流。等待路口清空后再继续前进。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "934",
+      "question": "这个标志表示：",
+      "image": "/images/signs/keep_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "靠右行驶。"
+        },
+        {
+          "letter": "B",
+          "text": "低路肩。"
+        },
+        {
+          "letter": "C",
+          "text": "禁止在任何时间停车。"
+        },
+        {
+          "letter": "D",
+          "text": "车道结束。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "靠右行驶。",
+      "explanation": "法规标志规范交通速度和行驶方向，显示驾驶员必须遵守的规则。此法规标志表示驾驶员应靠右行驶以避免即将出现的潜在驾驶危险。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "2232",
+      "question": "启动点火开关前，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "确保只有后座乘客系好了安全带。"
+        },
+        {
+          "letter": "B",
+          "text": "确保只有成人乘客系好了安全带。"
+        },
+        {
+          "letter": "C",
+          "text": "确保只有儿童乘客系好了安全带。"
+        },
+        {
+          "letter": "D",
+          "text": "确保车上所有乘客都系好了安全带。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "确保车上所有乘客都系好了安全带。",
+      "explanation": "养成进出车辆的例行习惯。启动点火开关前，系好安全带，并确保所有乘客也都系好安全带。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "2074",
+      "question": "在处理行人时,驾驶员必须:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "确保行人意识到你的车辆。"
+        },
+        {
+          "letter": "B",
+          "text": "始终让行,即使行人在错误的地方。"
+        },
+        {
+          "letter": "C",
+          "text": "仅当行人在法律上有权时才让行。"
+        },
+        {
+          "letter": "D",
+          "text": "在人行横道附近减速并鸣喇叭。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "始终让行,即使行人在错误的地方。",
+      "explanation": "无论情况如何,你必须尽一切努力避免撞到行人或另一辆车。作为驾驶员,你的基本责任是警惕行人,并向所有行人让行,即使行人在不应该过街的地方过街。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "615",
+      "question": "酒精导致：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "注意力不集中。"
+        },
+        {
+          "letter": "B",
+          "text": "协调性差。"
+        },
+        {
+          "letter": "C",
+          "text": "判断力变慢。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "即使饮用少量酒精也会影响您的视力、判断力、专注力和协调能力。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "294",
+      "question": "为了帮助防止碰撞，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "与其他道路使用者沟通。"
+        },
+        {
+          "letter": "B",
+          "text": "忽视道路上的其他驾驶员。"
+        },
+        {
+          "letter": "C",
+          "text": "仅在辅路和偏僻道路上行驶。"
+        },
+        {
+          "letter": "D",
+          "text": "避免在高峰时段驾驶。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "与其他道路使用者沟通。",
+      "explanation": "碰撞通常发生是因为一个驾驶员做了其他道路使用者没有预料到的事情。您应该通过以下方式与其他驾驶员、骑自行车的人和行人沟通：在减速、停止或改变方向时发出信号。在适当时使用应急信号灯或喇叭。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "390",
+      "question": "告诉你到高速公路下一个出口距离的标志是什么颜色？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "黄色底配黑色字母"
+        },
+        {
+          "letter": "B",
+          "text": "黑色底配白色字母"
+        },
+        {
+          "letter": "C",
+          "text": "红色底配白色字母"
+        },
+        {
+          "letter": "D",
+          "text": "绿色底配白色字母"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "绿色底配白色字母",
+      "explanation": "提供目的地信息的标志是绿色底配白色字母或符号。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "3164",
+      "question": "开车时发短信是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "总是合法的，但不被建议。"
+        },
+        {
+          "letter": "B",
+          "text": "违法的。"
+        },
+        {
+          "letter": "C",
+          "text": "一项安全的活动。"
+        },
+        {
+          "letter": "D",
+          "text": "如果驾驶员使用语音转文字技术，则合法。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "违法的。",
+      "explanation": "在俄亥俄州，驾驶员在驾驶车辆时不被允许发短信。开车时发短信是一项危险的活动，可能导致罚款和驾驶执照吊销。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "239",
+      "question": "这个标志表示：",
+      "image": "/images/signs/pennsylvania-divided_highway1.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "分隔式公路结束。"
+        },
+        {
+          "letter": "B",
+          "text": "单向街道开始。"
+        },
+        {
+          "letter": "C",
+          "text": "单向街道结束。"
+        },
+        {
+          "letter": "D",
+          "text": "分隔式公路开始。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "分隔式公路开始。",
+      "explanation": "此标志表示前方道路变为分隔式公路。保持在分隔线或中央隔离带的右侧。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "591",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/sharp_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "单向道路。"
+        },
+        {
+          "letter": "B",
+          "text": "禁止右转。"
+        },
+        {
+          "letter": "C",
+          "text": "出口。"
+        },
+        {
+          "letter": "D",
+          "text": "前方道路急转右。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "前方道路急转右。",
+      "explanation": "此标志表示前方有急转右弯。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "2867",
+      "question": "学校区域的速度限制是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 mph。"
+        },
+        {
+          "letter": "B",
+          "text": "30 mph。"
+        },
+        {
+          "letter": "C",
+          "text": "45 mph。"
+        },
+        {
+          "letter": "D",
+          "text": "50 mph。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "20 mph。",
+      "explanation": "除非另有说明，驾驶员在学校区域的行驶速度不应超过20 mph。在学校区域驾驶时，您应始终保持谨慎。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1647",
+      "question": "你正在路上行驶，听到身后有警报声。你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在原地停止。"
+        },
+        {
+          "letter": "B",
+          "text": "靠右边停靠并停止。"
+        },
+        {
+          "letter": "C",
+          "text": "加速让开。"
+        },
+        {
+          "letter": "D",
+          "text": "减速。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "靠右边停靠并停止。",
+      "explanation": "当你听到应急车辆从身后发出的警报声或看到闪烁的灯光时，你必须为应急车辆让出道路并停止。降低速度，安全地靠到路边。如果应急车辆在交通繁忙时直接跟在你的车后，保持缓慢行驶，直到你能让开。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1499",
+      "question": "如果两辆车同时到达四向停止标志：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "左边的车辆必须向右边的车辆让行。"
+        },
+        {
+          "letter": "B",
+          "text": "右边的车辆必须向左边的车辆让行。"
+        },
+        {
+          "letter": "C",
+          "text": "驾驶员必须通过手势与彼此沟通。"
+        },
+        {
+          "letter": "D",
+          "text": "一名驾驶员应该不停止地通行。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "左边的车辆必须向右边的车辆让行。",
+      "explanation": "一般来说，四向停止标志处的车辆应按照到达的顺序进行。但是，如果两辆车同时到达交叉路口，左边的车辆必须向右边的车辆让行。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1510",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "完全停止后向右转。"
+        },
+        {
+          "letter": "B",
+          "text": "不允许右转。"
+        },
+        {
+          "letter": "C",
+          "text": "允许左转。"
+        },
+        {
+          "letter": "D",
+          "text": "以上都不是。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "不允许右转。",
+      "explanation": "法律标志显示驾驶员必须始终遵守的法律。该标志所在位置不允许右转。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "490",
+      "question": "不遵守交通法规的骑自行车者：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "是正确的，因为自行车手不必遵守交通法规。"
+        },
+        {
+          "letter": "B",
+          "text": "可被罚单。"
+        },
+        {
+          "letter": "C",
+          "text": "将始终收到执法部门的警告。"
+        },
+        {
+          "letter": "D",
+          "text": "将被没收自行车。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "可被罚单。",
+      "explanation": "所有自行车手都享有与机动车驾驶员相同的权利、责任和义务。不遵守交通法规的驾驶员和自行车手可被罚单。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "2858",
+      "question": "驾驶员必须在他们的车和摩托车手之间保持\"安全区域\"至少____。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一秒"
+        },
+        {
+          "letter": "B",
+          "text": "两秒钟"
+        },
+        {
+          "letter": "C",
+          "text": "3秒"
+        },
+        {
+          "letter": "D",
+          "text": "四秒钟"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "3秒",
+      "explanation": "驾驶员应该在他们的车和摩托车手之间留出至少三秒的\"安全区域\"。汽车和摩托车之间的最轻微接触都可能意味着骑手的跌倒或伤害。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "593",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/arkansas-traffic_lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前方道路变宽。"
+        },
+        {
+          "letter": "B",
+          "text": "车道减少；右车道即将结束。"
+        },
+        {
+          "letter": "C",
+          "text": "高速公路入口匝道即将到来。"
+        },
+        {
+          "letter": "D",
+          "text": "车道减少；左车道即将结束。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "车道减少；右车道即将结束。",
+      "explanation": "此标志表示右车道即将结束。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "235",
+      "question": "这个标志显示一种类型的：",
+      "image": "/images/signs/maryland-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "路口。"
+        },
+        {
+          "letter": "B",
+          "text": "道路曲线。"
+        },
+        {
+          "letter": "C",
+          "text": "右转。"
+        },
+        {
+          "letter": "D",
+          "text": "变道。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "路口。",
+      "explanation": "此标志表示前方有与穿越道路的交叉路口。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "960",
+      "question": "这个标志表示：",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "铁路道口。"
+        },
+        {
+          "letter": "B",
+          "text": "单向交通。"
+        },
+        {
+          "letter": "C",
+          "text": "停车位有限。"
+        },
+        {
+          "letter": "D",
+          "text": "前方有游乐场。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "铁路道口。",
+      "explanation": "圆形交通标志表示即将到来的铁路道口。此标志告诉驾驶员他们正在接近铁路道口，应该寻找迎面驶来的火车的迹象。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "388",
+      "question": "菱形标志是一个:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "道路危险标志。"
+        },
+        {
+          "letter": "B",
+          "text": "州际公路标志。"
+        },
+        {
+          "letter": "C",
+          "text": "学校横道标志。"
+        },
+        {
+          "letter": "D",
+          "text": "速度限制标志。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "道路危险标志。",
+      "explanation": "警告标志通常是菱形且为黄色,虽然在施工区域使用橙色警告标志。这些标志警告你正在接近危险地点或需要遵守特殊规则的区域。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "574",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/low_clearance.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前方陡坡。"
+        },
+        {
+          "letter": "B",
+          "text": "前方行人穿越。"
+        },
+        {
+          "letter": "C",
+          "text": "低位铁路平交道口。"
+        },
+        {
+          "letter": "D",
+          "text": "空地间隙较低。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "空地间隙较低。",
+      "explanation": "此标志表示前方高架桥净空高度较低。如果您的车辆高度超过标志上显示的高度（本例中为13英尺6英寸），不应继续前行。"
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "263",
+      "question": "当你看到这个黑色和黄色标志时，意味着：",
+      "image": "/images/signs/pennsylvania-directional_arrow_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "右侧道路仅供单向交通使用。"
+        },
+        {
+          "letter": "B",
+          "text": "由于即将进行的道路施工，有向右的绕行路线。"
+        },
+        {
+          "letter": "C",
+          "text": "减速，因为前方道路以极端角度改变方向。"
+        },
+        {
+          "letter": "D",
+          "text": "您的右侧有一条横向道路。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "减速，因为前方道路以极端角度改变方向。",
+      "explanation": "此标志表示前方道路以极端角度改变方向（在本例中向右）。在到达这样的极端弯道之前，您应该像在十字路口转弯一样减速。"
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "311",
+      "question": "____限制你的注意力、感知、判断和记忆。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "只有血液酒精含量超过法定限度才能"
+        },
+        {
+          "letter": "B",
+          "text": "酒精不会"
+        },
+        {
+          "letter": "C",
+          "text": "即使最少量的酒精可以"
+        },
+        {
+          "letter": "D",
+          "text": "只有血液酒精含量大于0.05%才能"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "即使最少量的酒精可以",
+      "explanation": "即使最少量的酒精也会降低你的注意力、感知、判断和记忆，你的驾驶技能会受到影响。没有人可以在喝酒后安全驾驶。"
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "920",
+      "question": "这个标志表示：",
+      "image": "/images/signs/indiana-intersection_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "十字路口即将到来。"
+        },
+        {
+          "letter": "B",
+          "text": "前方有旗手。"
+        },
+        {
+          "letter": "C",
+          "text": "车道结束。"
+        },
+        {
+          "letter": "D",
+          "text": "右转或直行。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "十字路口即将到来。",
+      "explanation": "警告标志为驾驶员提前准备即将到来的道路状况和危险，通常为黄色配黑色标记。此标志提醒驾驶员即将到来的交叉路口。"
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "804",
+      "question": "当两辆车同时到达交叉路口时，在没有标志或信号指示规则的情况下，哪一辆有优先通行权？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "从右方接近的车辆有优先通行权。"
+        },
+        {
+          "letter": "B",
+          "text": "从左方接近的车辆有优先通行权。"
+        },
+        {
+          "letter": "C",
+          "text": "首先鸣喇叭的驾驶员的车辆有优先通行权。"
+        },
+        {
+          "letter": "D",
+          "text": "行驶速度最快的车辆有优先通行权。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "从右方接近的车辆有优先通行权。",
+      "explanation": "在两条相似道路的交叉路口处，如果没有交通控制装置，驾驶员必须让行于从右方接近的车辆。"
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "976",
+      "question": "这个标志表示：",
+      "image": "/images/signs/two_way_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "双向交通。"
+        },
+        {
+          "letter": "B",
+          "text": "变道。"
+        },
+        {
+          "letter": "C",
+          "text": "空地间隙较低。"
+        },
+        {
+          "letter": "D",
+          "text": "增加的车道。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "双向交通。",
+      "explanation": "警告标志为驾驶员准备即将到来的道路状况和危险，通常是黑色标记的黄色。这个标志告诉驾驶员他们可能会遇到来自相反方向的交通。"
+    }
+  ]
+}

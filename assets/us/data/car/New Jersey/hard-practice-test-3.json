@@ -1,0 +1,792 @@
+{
+  "state": "New Jersey",
+  "category": "car",
+  "quizName": "Hard Practice Test #3",
+  "slug": "hard-practice-test-3",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "216",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop completely. Check for people walking and traffic crossing."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down. Do not stop completely."
+        },
+        {
+          "letter": "C",
+          "text": "Stop completely. Wait for a green light."
+        },
+        {
+          "letter": "D",
+          "text": "Slow down and look for traffic."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stop completely. Check for people walking and traffic crossing.",
+      "explanation": "An eight-sided sign is a stop sign. You must stop completely. Look for pedestrians and crossing traffic. Wait until the road is clear before you go."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "324",
+      "question": "To turn left from a street or highway with multiple lanes going one direction, start from which lane?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The middle of the intersection."
+        },
+        {
+          "letter": "B",
+          "text": "The right lane."
+        },
+        {
+          "letter": "C",
+          "text": "The left lane."
+        },
+        {
+          "letter": "D",
+          "text": "Any lane."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The left lane.",
+      "explanation": "Always start from the left lane when turning left on a street or highway with multiple lanes going one direction."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1563",
+      "question": "A work zone:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Can be moving or stationary."
+        },
+        {
+          "letter": "B",
+          "text": "Has black and white signs."
+        },
+        {
+          "letter": "C",
+          "text": "Does not require you to slow down or pay extra attention."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Can be moving or stationary.",
+      "explanation": "Work zones can be stationary or moving, like vehicles that stripe lines, mow, or remove snow. Work zones have orange signs with black letters or symbols. Always slow down and pay attention in work zones."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "3227",
+      "question": "It is illegal for drivers 21 years old or older to drive with a blood alcohol concentration (BAC) of at least:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.05 percent."
+        },
+        {
+          "letter": "B",
+          "text": "0.08 percent."
+        },
+        {
+          "letter": "C",
+          "text": "0.02 percent."
+        },
+        {
+          "letter": "D",
+          "text": "0.1 percent."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "0.08 percent.",
+      "explanation": "If you are 21 or older, it is illegal to drive with a BAC of 0.08 percent or higher. Driving under the influence is illegal and dangerous."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "401",
+      "question": "Which of these is used on some highways to show drivers which lanes to use for turning?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flashing red lights"
+        },
+        {
+          "letter": "B",
+          "text": "Flashing yellow lights"
+        },
+        {
+          "letter": "C",
+          "text": "White lines on the side of the road"
+        },
+        {
+          "letter": "D",
+          "text": "White arrows in the middle of the lanes"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "White arrows in the middle of the lanes",
+      "explanation": "White arrows in the middle of lanes show drivers which lanes to use for specific actions, like going straight or turning."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "2261",
+      "question": "When you see a traffic light with a flashing yellow arrow, you:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Should move into a lane in the direction of the arrow."
+        },
+        {
+          "letter": "B",
+          "text": "Should stop completely."
+        },
+        {
+          "letter": "C",
+          "text": "May turn left after letting oncoming traffic and pedestrians pass."
+        },
+        {
+          "letter": "D",
+          "text": "Have the right-of-way and oncoming traffic must stop for you."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "May turn left after letting oncoming traffic and pedestrians pass.",
+      "explanation": "A flashing yellow arrow means you can turn left in that direction. But you must let oncoming traffic and pedestrians cross first."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "3113",
+      "question": "If you are in a crash, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Move injured people where they want to go."
+        },
+        {
+          "letter": "B",
+          "text": "Do not move injured people unless you must."
+        },
+        {
+          "letter": "C",
+          "text": "Only call emergency services if you think it is necessary."
+        },
+        {
+          "letter": "D",
+          "text": "Tell injured people they are fine and do not need medical help."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Do not move injured people unless you must.",
+      "explanation": "Call emergency services right away. If someone is hurt or killed, do not move them unless it is absolutely necessary."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "921",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/indiana-curve_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Curve ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Road work ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Traffic merging."
+        },
+        {
+          "letter": "D",
+          "text": "No left turn."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Curve ahead.",
+      "explanation": "Warning signs are usually yellow with black markings. They warn you about upcoming road conditions and hazards. This sign tells you a curve is coming."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "319",
+      "question": "You are driving on a one-way street. An emergency vehicle with flashing lights is coming toward you. You must:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn on your flashers."
+        },
+        {
+          "letter": "B",
+          "text": "Drive to the side of the road and stop."
+        },
+        {
+          "letter": "C",
+          "text": "Speed up and take the nearest exit."
+        },
+        {
+          "letter": "D",
+          "text": "Slow down until the vehicle passes you."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Drive to the side of the road and stop.",
+      "explanation": "When an emergency vehicle with flashing lights approaches on a one-way street, drive to the nearest side and stop."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "3117",
+      "question": "If you do not let a pedestrian cross in a crosswalk, you may face:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only a fine."
+        },
+        {
+          "letter": "B",
+          "text": "Only points against your license."
+        },
+        {
+          "letter": "C",
+          "text": "Only a fine and points against your license."
+        },
+        {
+          "letter": "D",
+          "text": "Points, a fine, license suspension, community service, and jail time."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Points, a fine, license suspension, community service, and jail time.",
+      "explanation": "You must always let pedestrians cross in a crosswalk. If you do not, you may get two points on your license, a fine up to $500, up to 25 days in jail, required community service, and a license suspension up to six months."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1176",
+      "question": "What can help drivers save gasoline?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leaving their car running in the driveway."
+        },
+        {
+          "letter": "B",
+          "text": "Speeding up quickly."
+        },
+        {
+          "letter": "C",
+          "text": "Slowing down gradually."
+        },
+        {
+          "letter": "D",
+          "text": "Braking hard and suddenly."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Slowing down gradually.",
+      "explanation": "Quick stops waste fuel because you have to accelerate again to match traffic speed. Drivers who look ahead can slow down gradually or change lanes to avoid hard braking. This saves gas."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "784",
+      "question": "You can avoid a traffic signal by driving on public or private property:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Never."
+        },
+        {
+          "letter": "B",
+          "text": "If the property owner lets you."
+        },
+        {
+          "letter": "C",
+          "text": "If you are running late."
+        },
+        {
+          "letter": "D",
+          "text": "If a police officer directs you to."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "If a police officer directs you to.",
+      "explanation": "Driving on public or private property to avoid a traffic signal is illegal. The only exception is if a police officer directs you to do so."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1663",
+      "question": "You are driving on a highway with two solid yellow lines dividing the lanes. You may:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cross them only to turn left into or out of an alley, private road, or driveway."
+        },
+        {
+          "letter": "B",
+          "text": "Cross them to pass other vehicles if no cars are coming."
+        },
+        {
+          "letter": "C",
+          "text": "Never cross them."
+        },
+        {
+          "letter": "D",
+          "text": "Cross them only to make a U-turn."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cross them only to turn left into or out of an alley, private road, or driveway.",
+      "explanation": "Double solid yellow lines mean no passing is allowed from either direction. You may cross them only to turn left into or out of an alley, private road, or driveway."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "2744",
+      "question": "Signal to turn ____ before you start the turn.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 feet"
+        },
+        {
+          "letter": "B",
+          "text": "50 feet"
+        },
+        {
+          "letter": "C",
+          "text": "100 feet"
+        },
+        {
+          "letter": "D",
+          "text": "300 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "100 feet",
+      "explanation": "Signal at least 100 feet before you turn or change lanes. Keep signaling until you finish the turn or lane change."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "562",
+      "question": "When a car's bright headlights are blinding you, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use your bright lights until the other driver dims theirs."
+        },
+        {
+          "letter": "B",
+          "text": "Flash your lights to warn the other driver."
+        },
+        {
+          "letter": "C",
+          "text": "Dim your lights and speed up to pass quickly."
+        },
+        {
+          "letter": "D",
+          "text": "Look toward the right side of the road."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Look toward the right side of the road.",
+      "explanation": "If oncoming headlights are too bright, look away from them and toward the right side of the road until the car passes. This prevents you from being blinded."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1710",
+      "question": "When driving to a place you don't know, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rely on road signs to find your way."
+        },
+        {
+          "letter": "B",
+          "text": "Plan your trip before you leave."
+        },
+        {
+          "letter": "C",
+          "text": "Only know the general area of your destination."
+        },
+        {
+          "letter": "D",
+          "text": "Always take the most direct route."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Plan your trip before you leave.",
+      "explanation": "Plan your trip in advance before driving to an unfamiliar area. Check a map to know your route before you start driving."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "419",
+      "question": "You hear a siren but cannot see the emergency vehicle. You should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep driving until you see the vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "Pull to the curb and check if it is on your street."
+        },
+        {
+          "letter": "C",
+          "text": "Slow down but don't stop until you see it."
+        },
+        {
+          "letter": "D",
+          "text": "Speed up and turn at the next corner."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pull to the curb and check if it is on your street.",
+      "explanation": "If you hear a siren but don't know where it's coming from, safely pull to the right side of the road and stop. Stay stopped until you're sure the emergency vehicle is not heading toward you."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "2828",
+      "question": "A regulatory sign with a red circle and a slash through it means:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You must come to a complete stop."
+        },
+        {
+          "letter": "B",
+          "text": "You cannot do something."
+        },
+        {
+          "letter": "C",
+          "text": "Some drivers must yield to others."
+        },
+        {
+          "letter": "D",
+          "text": "You must drive under the speed limit."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You cannot do something.",
+      "explanation": "A red circle with a slash is a prohibition sign. It tells you that a specific action is not allowed. These signs are rectangular and white with red and black markings."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1748",
+      "question": "Your car hits an unattended parked car and you cannot find the owner. You must:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leave since you've done all you can."
+        },
+        {
+          "letter": "B",
+          "text": "Wait for the police to arrive."
+        },
+        {
+          "letter": "C",
+          "text": "Leave a written note with your name, address, and what happened."
+        },
+        {
+          "letter": "D",
+          "text": "Drive away."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Leave a written note with your name, address, and what happened.",
+      "explanation": "If you hit a parked car, try to find the owner. If you cannot, leave a written note with your name, address, and a description of the accident."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "2049",
+      "question": "Which recommendation does NOT make night driving safer?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep your windshield clean."
+        },
+        {
+          "letter": "B",
+          "text": "Know that tinted windows make it harder to see at night."
+        },
+        {
+          "letter": "C",
+          "text": "Carry a flashlight in your car."
+        },
+        {
+          "letter": "D",
+          "text": "Look directly into the headlights of oncoming vehicles."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Look directly into the headlights of oncoming vehicles.",
+      "explanation": "Looking into bright headlights makes your eyes contract. When the car passes, your eyes need time to adjust to the darker light. During this adjustment period, you cannot see well enough to drive safely."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "3120",
+      "question": "What is the fastest speed a driver can pass a stopped school bus at a school?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 mph"
+        },
+        {
+          "letter": "B",
+          "text": "15 mph"
+        },
+        {
+          "letter": "C",
+          "text": "25 mph"
+        },
+        {
+          "letter": "D",
+          "text": "35 mph"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "10 mph",
+      "explanation": "When a school bus is stopped at a school to drop off or pick up students, you may pass it from either direction at no more than 10 mph, if it is safe. Always drive carefully near children and other people on foot."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "601",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/divided_highway_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep right."
+        },
+        {
+          "letter": "B",
+          "text": "Keep left."
+        },
+        {
+          "letter": "C",
+          "text": "Pass with caution."
+        },
+        {
+          "letter": "D",
+          "text": "No passing."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Keep right.",
+      "explanation": "This sign warns that a divided highway is coming. The road will split into two separate one-way roads with a divider between them. Stay to the right."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "573",
+      "question": "What lights should you use when driving in fog?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use your parking lights."
+        },
+        {
+          "letter": "B",
+          "text": "Use your low beams."
+        },
+        {
+          "letter": "C",
+          "text": "Use your high beams."
+        },
+        {
+          "letter": "D",
+          "text": "It makes no difference which lights you use."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Use your low beams.",
+      "explanation": "Use low beam headlights when driving in fog, rain, or snow."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "2077",
+      "question": "What should you do when approaching an intersection with no stop sign or traffic signal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maintain your speed and proceed."
+        },
+        {
+          "letter": "B",
+          "text": "Stop, look in all directions, then proceed."
+        },
+        {
+          "letter": "C",
+          "text": "Yield to all other drivers."
+        },
+        {
+          "letter": "D",
+          "text": "Be prepared to yield."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Be prepared to yield.",
+      "explanation": "At an uncontrolled intersection, yield to a vehicle approaching from the right. Always be ready to yield to avoid a crash. Ease off the gas, cover the brake, and look left, right, and left again."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1597",
+      "question": "Which statement about winter driving is false?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Winter is the most difficult driving season."
+        },
+        {
+          "letter": "B",
+          "text": "Check your antifreeze and windshield washer fluid levels in winter."
+        },
+        {
+          "letter": "C",
+          "text": "Using cruise control in winter weather is safe."
+        },
+        {
+          "letter": "D",
+          "text": "Snow tires help your vehicle grip slippery roads."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Using cruise control in winter weather is safe.",
+      "explanation": "Do not use cruise control on snow, rain, fog, or other hazardous conditions. Winter is the hardest driving season and needs extra care. Check antifreeze and windshield washer fluid often. Snow tires improve traction on slippery roads."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "798",
+      "question": "What technique helps prevent crashes on icy or snowy roads?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Add extra weight to your vehicle for better grip."
+        },
+        {
+          "letter": "B",
+          "text": "Leave the highway as fast as possible."
+        },
+        {
+          "letter": "C",
+          "text": "Turn on four-wheel drive."
+        },
+        {
+          "letter": "D",
+          "text": "Slow down and increase your distance from other vehicles."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Slow down and increase your distance from other vehicles.",
+      "explanation": "Reduce speed on snow or ice. Slowing down and increasing your following distance are the most important ways to avoid crashes in these conditions."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "1745",
+      "question": "Your vehicle is in an accident and blocks traffic. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Move your vehicle off the road if you can."
+        },
+        {
+          "letter": "B",
+          "text": "Do not move your vehicle at all."
+        },
+        {
+          "letter": "C",
+          "text": "Wait for police to arrive before moving."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Move your vehicle off the road if you can.",
+      "explanation": "After a minor accident, move your vehicle off the traveled portion of the road if possible. Do not leave the scene without identifying yourself and helping if needed."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "1188",
+      "question": "An oncoming driver does not dim their bright headlights. Where should you look?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At the wheels of their vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "Toward the right side of the road."
+        },
+        {
+          "letter": "C",
+          "text": "Toward the left side of the road."
+        },
+        {
+          "letter": "D",
+          "text": "Straight ahead down the road."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Toward the right side of the road.",
+      "explanation": "If an oncoming driver does not dim their bright lights, look toward the right side of the road. This prevents you from being blinded and lets you see the road well enough to stay on course until they pass."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "2750",
+      "question": "What is the speed limit in suburban business districts if no sign says otherwise?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70 mph"
+        },
+        {
+          "letter": "B",
+          "text": "55 mph"
+        },
+        {
+          "letter": "C",
+          "text": "40 mph"
+        },
+        {
+          "letter": "D",
+          "text": "35 mph"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "35 mph",
+      "explanation": "The default speed limit in suburban business districts is 35 mph. Follow posted signs if they show a different speed limit."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "300",
+      "question": "An oncoming vehicle has bright headlights on. Where should you look?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Either side"
+        },
+        {
+          "letter": "B",
+          "text": "The center"
+        },
+        {
+          "letter": "C",
+          "text": "The right side"
+        },
+        {
+          "letter": "D",
+          "text": "The left side"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The right side",
+      "explanation": "If an oncoming vehicle has bright lights on and does not dim them, look toward the right side of the road. This keeps you from being blinded and lets you see enough to stay on your path until they pass."
+    }
+  ]
+}

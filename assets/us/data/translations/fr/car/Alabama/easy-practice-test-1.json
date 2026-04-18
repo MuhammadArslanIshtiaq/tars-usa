@@ -1,0 +1,643 @@
+{
+  "state": "Alabama",
+  "category": "car",
+  "quizName": "Easy Practice Test #1",
+  "slug": "easy-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Quand vous voyez ce panneau noir et jaune, cela signifie:",
+      "image": "/images/signs/alaska-sharp_turn_to_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La route à droite est réservée au trafic unidirectionnel uniquement."
+        },
+        {
+          "letter": "B",
+          "text": "Il y a un détour à droite en raison de travaux routiers."
+        },
+        {
+          "letter": "C",
+          "text": "La route devant change de direction à un angle extrême."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La route devant change de direction à un angle extrême.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marquages noirs. Ils vous alertent sur les conditions qui se trouvent immédiatement devant vous. Ce panneau indique aux conducteurs de ralentir et de se préparer à un changement abrupt de direction à un angle extrême."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Vous devez céder le passage à un piéton:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniquement s'il se trouve dans un passage pour piétons."
+        },
+        {
+          "letter": "B",
+          "text": "À tout moment, même si le piéton ne respecte pas les règles de circulation."
+        },
+        {
+          "letter": "C",
+          "text": "Uniquement si les feux de circulation sont en faveur du piéton."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "À tout moment, même si le piéton ne respecte pas les règles de circulation.",
+      "explanation": "Soyez toujours conscient des piétons près de votre véhicule. Vous devez faire tout votre possible pour éviter de heurter un piéton, quelles que soient les circonstances."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Si une route est glissante, maintenez une distance de suivi qui est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas différente que d'habitude."
+        },
+        {
+          "letter": "B",
+          "text": "Plus loin de la voiture devant vous que d'habitude."
+        },
+        {
+          "letter": "C",
+          "text": "Plus proche de la voiture devant vous que d'habitude."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Plus loin de la voiture devant vous que d'habitude.",
+      "explanation": "Vous avez besoin d'une distance plus longue pour arrêter votre véhicule sur une route glissante que sur une route sèche. Maintenez une distance de suivi accrue lors de la conduite sur des routes glissantes."
+    },
+    {
+      "questionNumber": 4,
+      "question": "N'importe quelle quantité d'alcool dans le sang peut affecter la capacité d'un conducteur à:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les privilèges de priorité."
+        },
+        {
+          "letter": "B",
+          "text": "Le jugement et la coordination physique."
+        },
+        {
+          "letter": "C",
+          "text": "Les connaissances."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Le jugement et la coordination physique.",
+      "explanation": "La capacité d'un conducteur à exploiter un véhicule en toute sécurité peut être compromise à n'importe quel taux d'alcoolémie, même inférieur à la limite légale. N'importe quelle quantité d'alcool peut affecter son jugement et sa coordination physique. Conduire sous l'influence de même une petite quantité d'alcool peut entraîner des poursuites pénales."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Lequel des éléments suivants sont des facteurs contribuant couramment aux accidents de la circulation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dépasser la limite de vitesse affichée et conduire trop vite pour les conditions ou circonstances."
+        },
+        {
+          "letter": "B",
+          "text": "Obtenir un repos adéquat et rester alerte."
+        },
+        {
+          "letter": "C",
+          "text": "Observer l'environnement et rester concentré sur la tâche de conduite."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Dépasser la limite de vitesse affichée et conduire trop vite pour les conditions ou circonstances.",
+      "explanation": "Dépasser la limite de vitesse affichée, conduire beaucoup trop lentement que la limite de vitesse, et conduire trop vite selon les conditions sont tous des actions qui contribuent couramment aux accidents de la circulation. Conduisez toujours au même rythme que le flux général de la circulation, dans les limites de vitesse légales."
+    },
+    {
+      "questionNumber": 6,
+      "question": "L'utilisation d'un téléphone cellulaire lors de la conduite d'un véhicule automobile est considérée comme une distraction parce que:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cela fait craindre au conducteur le coût de l'appel."
+        },
+        {
+          "letter": "B",
+          "text": "Il occupe les mains, les yeux et l'esprit du conducteur."
+        },
+        {
+          "letter": "C",
+          "text": "C'est une activité qui attire l'attention des autres conducteurs."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Il occupe les mains, les yeux et l'esprit du conducteur.",
+      "explanation": "L'utilisation d'un téléphone cellulaire en conduisant est dangereuse car elle occupe les yeux, les mains et l'esprit de l'utilisateur. Même les conducteurs les plus compétents augmentent leur risque d'être impliqués dans un accident en utilisant un téléphone cellulaire sur la route."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Quand il est arrêté pour violation du code de la route ou lors d'une vérification d'équipement, un conducteur doit présenter:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniquement son assurance et son immatriculation."
+        },
+        {
+          "letter": "B",
+          "text": "Uniquement son permis."
+        },
+        {
+          "letter": "C",
+          "text": "Son permis, son assurance et son immatriculation."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Son permis, son assurance et son immatriculation.",
+      "explanation": "Quand il est arrêté pour violation du code de la route ou lors d'une vérification d'équipement, un conducteur doit présenter son permis, la preuve d'immatriculation et la preuve d'assurance. Les conducteurs sont tenus d'avoir ces trois documents dans un véhicule quand il est en circulation."
+    },
+    {
+      "questionNumber": 8,
+      "question": "La conduite de nuit présente des problèmes uniques parce que:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La limite de vitesse est augmentée la nuit."
+        },
+        {
+          "letter": "B",
+          "text": "Il y a moins de voitures sur les routes la nuit."
+        },
+        {
+          "letter": "C",
+          "text": "La distance et la vitesse des véhicules sont difficiles à juger dans l'obscurité."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La distance et la vitesse des véhicules sont difficiles à juger dans l'obscurité.",
+      "explanation": "La conduite de nuit crée un ensemble unique de problèmes pour les conducteurs. En raison de la visibilité réduite, il peut être difficile de juger la distance et les vitesses de déplacement des autres véhicules lors de la conduite de nuit. Les conducteurs ne peuvent voir que jusqu'où leurs phares le permettent."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Si vous avez un éclatement de pneu:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tapotez ou pompez les freins."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentissez progressivement et utilisez vos freins légèrement."
+        },
+        {
+          "letter": "C",
+          "text": "Appliquez les freins fermement et rapidement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ralentissez progressivement et utilisez vos freins légèrement.",
+      "explanation": "Si vous avez un éclatement de pneu, vous devez ralentir progressivement en retirant votre pied de l'accélérateur. N'appliquez pas les freins jusqu'à ce que le véhicule ait considérablement ralenti."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduisez avec prudence et soyez prêt à vous arrêter."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez vous arrêter complètement."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous, si nécessaire."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vous devez vous arrêter complètement.",
+      "explanation": "Le panneau d'arrêt est le seul panneau à huit côtés que vous verrez sur n'importe quelle voie routière. Quand vous rencontrez un panneau d'arrêt, vous devez vous arrêter complètement. Vous ne pouvez pas procéder tant que la voie n'est pas libre pour vous de traverser complètement et en toute sécurité l'intersection."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Les collisions sont plus susceptibles de se produire quand :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tous les véhicules circulent à environ la même vitesse."
+        },
+        {
+          "letter": "B",
+          "text": "Une voie de circulation circule plus vite que les autres voies."
+        },
+        {
+          "letter": "C",
+          "text": "Un véhicule circule plus vite ou plus lentement que le flux de circulation."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Un véhicule circule plus vite ou plus lentement que le flux de circulation.",
+      "explanation": "Les collisions sont plus susceptibles de se produire quand un conducteur se déplace plus vite ou plus lentement que les autres véhicules sur la route. Conduire plus vite que le trafic augmente vos risques d'être impliqué dans une collision. Conduire plus lentement que le trafic est également dangereux car cela peut augmenter le risque d'une collision par l'arrière avec votre véhicule ou faire dévier les autres conducteurs pour éviter de vous heurter."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Les motocyclettes ont le droit à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La même largeur de voie complète que les autres véhicules à moteur."
+        },
+        {
+          "letter": "B",
+          "text": "La largeur du trottoir."
+        },
+        {
+          "letter": "C",
+          "text": "La moitié de la largeur d'une voie."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La même largeur de voie complète que les autres véhicules à moteur.",
+      "explanation": "L'utilisation de la voie pour le motocycliste est essentielle. Les motocyclettes ont le droit à la même largeur de voie complète que tous les autres véhicules."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Si la chaussée est mouillée ou glacée, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réduire votre vitesse."
+        },
+        {
+          "letter": "B",
+          "text": "Conduire à la vitesse affichée."
+        },
+        {
+          "letter": "C",
+          "text": "Accélérer."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Réduire votre vitesse.",
+      "explanation": "Parce que vos pneus n'adhéreront pas à la route dans des conditions mouillées, enneigées ou glacées aussi bien qu'ils le feront dans des conditions sèches, vous devriez ralentir si la chaussée est mouillée ou glacée."
+    },
+    {
+      "questionNumber": 14,
+      "question": "S'il n'y a pas de passage pour piétons et que vous voyez un piéton traverser votre voie, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous assurer que le piéton peut vous voir avant de continuer."
+        },
+        {
+          "letter": "B",
+          "text": "Contourner prudemment le piéton."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêter et laisser le piéton terminer la traversée."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Arrêter et laisser le piéton terminer la traversée.",
+      "explanation": "Les conducteurs doivent toujours céder le droit de passage aux piétons sur la chaussée, même s'il n'y a pas de passage pour piétons marqué."
+    },
+    {
+      "questionNumber": 15,
+      "question": "La conduite distraite est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "N'importe quoi qui vous oblige à prendre une action d'évitement pendant la conduite."
+        },
+        {
+          "letter": "B",
+          "text": "N'importe quoi qui détourne votre attention de la conduite."
+        },
+        {
+          "letter": "C",
+          "text": "N'importe quoi qui vous oblige à accorder plus d'attention à la conduite."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "N'importe quoi qui détourne votre attention de la conduite.",
+      "explanation": "Le terme « conduite distraite » fait référence à la conduite lorsque quelque chose détourne vos yeux, vos mains ou votre esprit de la tâche à accomplir. La conduite distraite est le facteur contributif le plus courant aux collisions de circulation signalées. Les distractions de toute sorte amènent les conducteurs à rater les signaux visuels et auditifs clés nécessaires pour éviter un accident."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Suivre d'autres conducteurs trop closely (conduire trop près de leur pare-chocs arrière) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peut frustrer les autres conducteurs et les mettre en colère."
+        },
+        {
+          "letter": "B",
+          "text": "Ne peut pas entraîner une contravention de circulation."
+        },
+        {
+          "letter": "C",
+          "text": "Réduit les collisions en empêchant d'être « coupé »."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Peut frustrer les autres conducteurs et les mettre en colère.",
+      "explanation": "Suivre de trop près est un comportement courant qui peut mener à une conduite agressive, et il devrait donc être évité. Les conducteurs peuvent faire face à des conséquences légales pour avoir conduit de manière dangereuse."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Laquelle des compétences de conduite suivantes est/sont affectée(s) par l'utilisation d'alcool et/ou de drogues ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vigilance."
+        },
+        {
+          "letter": "B",
+          "text": "Coordination."
+        },
+        {
+          "letter": "C",
+          "text": "Les deux précédentes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les deux précédentes.",
+      "explanation": "L'alcool et d'autres drogues peuvent affecter négativement un certain nombre de compétences nécessaires à une conduite sûre, y compris le temps de réaction du conducteur, la coordination, la vigilance et la capacité à se concentrer."
+    },
+    {
+      "questionNumber": 18,
+      "question": "À un passage pour piétons :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devez céder le passage aux piétons."
+        },
+        {
+          "letter": "B",
+          "text": "Les piétons doivent vous céder le passage."
+        },
+        {
+          "letter": "C",
+          "text": "Les ouvriers de construction doivent vous céder le passage."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous devez céder le passage aux piétons.",
+      "explanation": "Les piétons ont le droit de passage aux passages routiers mais doivent obéir aux signaux de circulation. Lorsqu'un signal de circulation n'est pas présent, les véhicules doivent s'arrêter pour les piétons dans un passage pour piétons, qu'il soit marqué ou non."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Fusionner."
+        },
+        {
+          "letter": "C",
+          "text": "Changement de direction imminent."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Arrêt.",
+      "explanation": "Un panneau rouge octogonal signifie « arrêt »."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Les angles morts sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des taches dans votre vision lorsque vous devenez fatigué."
+        },
+        {
+          "letter": "B",
+          "text": "Des zones de la route qui ne peuvent pas être vues dans les rétroviseurs d'un véhicule."
+        },
+        {
+          "letter": "C",
+          "text": "Dispositifs de contrôle de la circulation."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Des zones de la route qui ne peuvent pas être vues dans les rétroviseurs d'un véhicule.",
+      "explanation": "Lorsque vous changez de voie, regardez par-dessus votre épaule dans la direction que vous envisagez de vous déplacer. Vérifiez les obstructions près des coins arrière de votre véhicule. Ces zones sont appelées « angles morts » parce que vous ne pouvez pas les voir en utilisant vos rétroviseurs."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Lors du dépassement d'un autre véhicule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dépassez le véhicule aussi lentement que possible."
+        },
+        {
+          "letter": "B",
+          "text": "Conduisez à la même vitesse que le véhicule que vous dépassez."
+        },
+        {
+          "letter": "C",
+          "text": "Dépassez le véhicule aussi rapidement et aussi en toute sécurité que possible."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Dépassez le véhicule aussi rapidement et aussi en toute sécurité que possible.",
+      "explanation": "Lors du dépassement d'un véhicule qui se déplace dans la même direction que vous, dépassez rapidement pour reprendre la visibilité. Retournez à votre voie précédente uniquement lorsque vous pouvez voir les deux phares du véhicule dans votre rétroviseur."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Un feu de circulation vert indique que les conducteurs qui s'en approchent doivent :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faire un arrêt complet."
+        },
+        {
+          "letter": "B",
+          "text": "Augmenter leur vitesse pour dégager rapidement l'intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Continuer tout droit dans l'intersection, tourner à gauche ou tourner à droite."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Continuer tout droit dans l'intersection, tourner à gauche ou tourner à droite.",
+      "explanation": "Lorsque vous approchez d'un feu de circulation vert fixe, vous pouvez continuer tout droit ou vous pouvez tourner, le cas échéant. Lorsque vous tournez au feu vert, vous devez d'abord céder le passage aux piétons ou à d'autres véhicules légalement dans l'intersection."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Vous conduisez sur l'autoroute derrière un gros camion. Vous devriez conduire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plus près derrière le camion que vous ne le feriez si vous suiviez un véhicule de tourisme."
+        },
+        {
+          "letter": "B",
+          "text": "Plus loin derrière le camion que vous ne le feriez si vous suiviez un véhicule de tourisme."
+        },
+        {
+          "letter": "C",
+          "text": "Sur le côté droit du camion et attendez pour dépasser."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Plus loin derrière le camion que vous ne le feriez si vous suiviez un véhicule de tourisme.",
+      "explanation": "Il est nécessaire de suivre plus loin derrière un gros camion que vous ne le feriez si vous suiviez un véhicule de tourisme, car les camions ont des angles morts plus grands."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Lorsque vous approchez d'une intersection contrôlée par un feu clignotant jaune, vous devez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faire un arrêt complet à l'intersection."
+        },
+        {
+          "letter": "B",
+          "text": "Maintenir votre vitesse normale."
+        },
+        {
+          "letter": "C",
+          "text": "Ralentir et procéder avec prudence."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ralentir et procéder avec prudence.",
+      "explanation": "Un feu de circulation affichant un feu jaune clignotant indique que vous devez être vigilant et procéder avec prudence. Ralentissez en approchant d'un feu de circulation jaune clignotant."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Lorsque vous tournez à gauche à une intersection :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devez toujours céder le passage au trafic venant en sens inverse et aux piétons."
+        },
+        {
+          "letter": "B",
+          "text": "Le trafic venant en sens inverse et les piétons doivent vous céder le passage."
+        },
+        {
+          "letter": "C",
+          "text": "Vous ne devez jamais céder le passage au trafic venant en sens inverse et aux piétons."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous devez toujours céder le passage au trafic venant en sens inverse et aux piétons.",
+      "explanation": "Les conducteurs qui tournent à gauche doivent céder le passage au trafic venant en sens inverse qui se déplace tout droit. Les conducteurs doivent toujours céder le passage aux piétons."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/y_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La chaussée se termine plus loin."
+        },
+        {
+          "letter": "B",
+          "text": "Les conducteurs doivent prendre soit à droite soit à gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Une intersection à quatre directions se trouve plus loin."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les conducteurs doivent prendre soit à droite soit à gauche.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marquages noirs. Ce panneau avertit les conducteurs qu'ils arrivent à une bifurcation de la route et doivent prendre soit à droite soit à gauche."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Il n'y a pas de passage pour piétons et vous voyez un piéton traverser votre voie plus loin. Vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Établir un contact visuel puis dépasser le piéton."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentissez en passant le piéton."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous et laissez le piéton terminer la traversée de la rue."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Arrêtez-vous et laissez le piéton terminer la traversée de la rue.",
+      "explanation": "À une intersection où le trafic n'est pas contrôlé par des feux de circulation, les conducteurs sont tenus de céder le droit de passage aux piétons dans n'importe quel passage pour piétons, marqué ou non. Même s'il n'y a pas de passage pour piétons, cédez le passage au piéton."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Pour éviter une perte de traction sur les routes mouillées, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faire des virages brusques."
+        },
+        {
+          "letter": "B",
+          "text": "Appliquer les freins fermement."
+        },
+        {
+          "letter": "C",
+          "text": "Ralentir."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ralentir.",
+      "explanation": "Pour éviter l'aquaplanage, réduisez votre vitesse en réponse aux routes mouillées et maintenez vos pneus en bon état. Si vous détectez une perte de contrôle, levez le pied de l'accélérateur, n'appliquez pas les freins, maintenez la direction du véhicule et laissez le véhicule ralentir à une vitesse acceptable."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Reculer votre véhicule est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toujours dangereux."
+        },
+        {
+          "letter": "B",
+          "text": "Dangereux si vous avez un assistant."
+        },
+        {
+          "letter": "C",
+          "text": "Dangereux uniquement dans les grands véhicules."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Toujours dangereux.",
+      "explanation": "Reculer est toujours dangereux car il est difficile de voir derrière votre véhicule. Soyez extra prudent lorsque vous reculez."
+    },
+    {
+      "questionNumber": 30,
+      "question": "À un passage à niveau, vous devez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Observez les véhicules qui doivent s'arrêter à tous les passages à niveau (autobus scolaires, camions transportant des matières dangereuses, etc.)."
+        },
+        {
+          "letter": "B",
+          "text": "Observez plusieurs trains."
+        },
+        {
+          "letter": "C",
+          "text": "Les deux précédentes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les deux précédentes.",
+      "explanation": "Vous devez approcher tous les passages à niveau avec une extrême prudence et ne traverser que lorsque vous savez qu'aucun train n'arrive d'aucune direction. Soyez conscient des véhicules qui doivent s'arrêter à tous les passages à niveau, tels que les autobus scolaires et les camions transportant des matières dangereuses."
+    }
+  ]
+}

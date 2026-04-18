@@ -1,0 +1,483 @@
+{
+  "state": "Oklahoma",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #2",
+  "slug": "intermediate-practice-test-2",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "553",
+      "question": "How do you enter a freeway?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Signal, yield to traffic already on the freeway, and match their speed."
+        },
+        {
+          "letter": "B",
+          "text": "Signal and enter. Freeway traffic must yield to you."
+        },
+        {
+          "letter": "C",
+          "text": "Drive slowly so you can check the traffic."
+        },
+        {
+          "letter": "D",
+          "text": "Always stop completely first."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Signal, yield to traffic already on the freeway, and match their speed.",
+      "explanation": "When entering a freeway, signal first. Yield to all other traffic. Then enter at the same speed as the traffic that is already moving."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "764",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/crossroad.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A crossroad is ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Merge."
+        },
+        {
+          "letter": "C",
+          "text": "Stop."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A crossroad is ahead.",
+      "explanation": "This sign warns you that a crossroad is coming."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1848",
+      "question": "You arrive at an uncontrolled intersection at the same time as vehicles on your right and left. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yield to the vehicle on your left."
+        },
+        {
+          "letter": "B",
+          "text": "Yield to the vehicle on your right."
+        },
+        {
+          "letter": "C",
+          "text": "Wait until there are no other vehicles before going."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Yield to the vehicle on your right.",
+      "explanation": "At an uncontrolled intersection with no signs or lights, the vehicle on your right has the right-of-way. Let that vehicle go first."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1863",
+      "question": "Drivers do not have to yield to pedestrians who cross against the traffic light.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "False",
+      "explanation": "You must always yield to pedestrians, even if they cross against the light. Be ready for pedestrians who may misjudge the traffic signal."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1207",
+      "question": "What does an orange sign mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No passing zone starts here."
+        },
+        {
+          "letter": "B",
+          "text": "A railroad crossing is ahead."
+        },
+        {
+          "letter": "C",
+          "text": "A school zone is ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Construction work is ahead."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Construction work is ahead.",
+      "explanation": "Orange signs with black symbols warn about construction, maintenance, or emergency work on the road."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "728",
+      "question": "Only vehicles with disability license plates or placards can park in spaces marked for people with disabilities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "True",
+      "explanation": "Reserved disability parking spaces can only be used by vehicles displaying disability license plates, disabled veteran plates, or disability parking placards."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1721",
+      "question": "It starts to rain while you are driving. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drive faster than other traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Drive at the maximum posted speed."
+        },
+        {
+          "letter": "C",
+          "text": "Slow down."
+        },
+        {
+          "letter": "D",
+          "text": "Drive close behind the vehicle in front of you."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Slow down.",
+      "explanation": "When it rains, slow down because you cannot see as well. Turn on your headlights. If it rains so hard you cannot see, pull over and stop until the rain passes."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "142",
+      "question": "When can you cross double yellow lines to pass another vehicle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When the vehicle in front of you moves right to let you pass."
+        },
+        {
+          "letter": "B",
+          "text": "When the yellow line on your side of the road is broken."
+        },
+        {
+          "letter": "C",
+          "text": "When the yellow line on the opposite side of the road is broken."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When the yellow line on your side of the road is broken.",
+      "explanation": "A broken yellow line means traffic on that side can pass if it is safe to do so."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1547",
+      "question": "When must you stop for a school bus?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When it is parked on the side of the road with no one in it."
+        },
+        {
+          "letter": "B",
+          "text": "When it approaches you, even if its lights are not flashing."
+        },
+        {
+          "letter": "C",
+          "text": "When you are on a two-lane road and its red lights are flashing."
+        },
+        {
+          "letter": "D",
+          "text": "Whenever the driver waves at you."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "When you are on a two-lane road and its red lights are flashing.",
+      "explanation": "You must stop when a school bus displays flashing red lights while picking up or dropping off children. On a two-lane road, traffic in both directions must stop and stay stopped while the red lights are flashing or the stop arm is extended."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "2235",
+      "question": "If a driver is worried, nervous, angry, or upset, they should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drive the same way they would if they were calm."
+        },
+        {
+          "letter": "B",
+          "text": "Drive faster because they are more alert."
+        },
+        {
+          "letter": "C",
+          "text": "Calm down and focus before starting the engine."
+        },
+        {
+          "letter": "D",
+          "text": "Call a friend to talk while driving."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Calm down and focus before starting the engine.",
+      "explanation": "Strong emotions can distract you from driving. Your mind focuses on your feelings instead of the road. Always take time to calm down and focus before you start driving."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "713",
+      "question": "If your vehicle skids on water, you should quickly apply the brakes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "False",
+      "explanation": "If your vehicle hydroplanes and skids, try to regain control. If you cannot, release the accelerator and let the skid stop. Do not apply the brakes right away."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1467",
+      "question": "A truck or bus is turning right where you also need to turn right. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn quickly before the truck or bus does."
+        },
+        {
+          "letter": "B",
+          "text": "Wait until the truck or bus finishes turning before you turn."
+        },
+        {
+          "letter": "C",
+          "text": "Squeeze between the truck or bus and the curb."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Wait until the truck or bus finishes turning before you turn.",
+      "explanation": "Do not try to squeeze your vehicle between a turning truck or bus and the curb. This can cause a serious crash. Wait until the truck or bus completes its turn before you turn."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "2899",
+      "question": "When can you pass a vehicle on the right shoulder of the road?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Never."
+        },
+        {
+          "letter": "B",
+          "text": "When the car in front of you is driving too slowly."
+        },
+        {
+          "letter": "C",
+          "text": "When the car in front of you is turning."
+        },
+        {
+          "letter": "D",
+          "text": "When the shoulder is paved."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Never.",
+      "explanation": "Never drive off the pavement or onto the shoulder to pass another vehicle. You can only pass on the right when it is legal and safe to do so on the road itself."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "763",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/divided_highway_begins.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Divided highway."
+        },
+        {
+          "letter": "B",
+          "text": "Railroad warning."
+        },
+        {
+          "letter": "C",
+          "text": "No passing zone."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Divided highway.",
+      "explanation": "This sign warns you that a divided highway is starting ahead."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1923",
+      "question": "When driving on snow or ice:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is safe to use your cruise control."
+        },
+        {
+          "letter": "B",
+          "text": "Change your speed and direction slowly and gradually."
+        },
+        {
+          "letter": "C",
+          "text": "Drive the same as you would in normal conditions."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Change your speed and direction slowly and gradually.",
+      "explanation": "When driving on snow or ice, make all speed and direction changes slowly. Never use cruise control on snow or ice because your tires may lose grip and you could lose control of your vehicle."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "2250",
+      "question": "Orange signs are:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Work zone signs."
+        },
+        {
+          "letter": "B",
+          "text": "Regulatory signs."
+        },
+        {
+          "letter": "C",
+          "text": "School zone signs."
+        },
+        {
+          "letter": "D",
+          "text": "Guide signs."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Work zone signs.",
+      "explanation": "Work zone signs are diamond-shaped with orange backgrounds and black letters or symbols. They warn drivers that people are working on or near the highway."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "638",
+      "question": "Passing other vehicles is not allowed:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On hills and curves."
+        },
+        {
+          "letter": "B",
+          "text": "At intersections."
+        },
+        {
+          "letter": "C",
+          "text": "At railroad crossings."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "You cannot pass other vehicles on hills, curves, at intersections, or at railroad crossings. These are unsafe and illegal places to pass."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1573",
+      "question": "Driving while distracted:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is never dangerous."
+        },
+        {
+          "letter": "B",
+          "text": "Usually slows your reaction time to hazards."
+        },
+        {
+          "letter": "C",
+          "text": "Usually makes you drive faster."
+        },
+        {
+          "letter": "D",
+          "text": "Is only dangerous for young drivers."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Usually slows your reaction time to hazards.",
+      "explanation": "Distractions slow your ability to react to traffic and road hazards. Distracted driving is never safe."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1535",
+      "question": "When passing other vehicles, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Check your mirrors and blind spots."
+        },
+        {
+          "letter": "B",
+          "text": "Honk your horn at least three times."
+        },
+        {
+          "letter": "C",
+          "text": "Move back into your lane within 10 feet of the vehicle you passed."
+        },
+        {
+          "letter": "D",
+          "text": "There is no need to signal."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Check your mirrors and blind spots.",
+      "explanation": "Before passing, check your mirrors and blind spots. Use your turn signal before changing lanes. Move back into your lane only when you can see the front of the passed vehicle in your rearview mirror."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "262",
+      "question": "Lines that divide traffic moving in opposite directions are ____ colored.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "White"
+        },
+        {
+          "letter": "B",
+          "text": "Red"
+        },
+        {
+          "letter": "C",
+          "text": "Black"
+        },
+        {
+          "letter": "D",
+          "text": "Yellow"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Yellow",
+      "explanation": "Yellow lines separate traffic moving in opposite directions."
+    }
+  ]
+}

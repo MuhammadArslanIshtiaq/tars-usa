@@ -1,0 +1,652 @@
+{
+  "state": "Florida",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/florida/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9006",
+      "question": "Si le voyant d'avertissement de basse pression s'allume pendant que vous conduisez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le freinage ne se produira que s'il y a suffisamment d'air dans les réservoirs."
+        },
+        {
+          "letter": "B",
+          "text": "Vous pouvez freiner 14 fois avant que l'air du système ne s'épuise."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devriez continuer à conduire normalement et vérifier le système de freinage quand cela vous convient."
+        },
+        {
+          "letter": "D",
+          "text": "Vous devriez continuer à conduire, mais allumez les feux de détresse pour avertir les autres automobilistes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le freinage ne se produira que s'il y a suffisamment d'air dans les réservoirs.",
+      "explanation": "Si le voyant d'avertissement de basse pression d'air s'allume, vous devez arrêter et garer votre véhicule en toute sécurité dès que possible. Un freinage contrôlé ne sera possible que tant qu'il y a suffisamment d'air dans les réservoirs."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8880",
+      "question": "Dans un système de freinage à air double :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chaque système dispose de réservoirs d'air, de tuyaux et de conduites séparés."
+        },
+        {
+          "letter": "B",
+          "text": "Les systèmes partagent des réservoirs d'air, mais chacun a ses propres tuyaux et conduites séparés."
+        },
+        {
+          "letter": "C",
+          "text": "Chaque système utilise les mêmes conduites et tuyaux."
+        },
+        {
+          "letter": "D",
+          "text": "Un système est le système de freinage principal et un deuxième système est prêt à être utilisé si le premier échoue."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Chaque système dispose de réservoirs d'air, de tuyaux et de conduites séparés.",
+      "explanation": "Un système de freins à air double est composé de deux systèmes de freins à air séparés. Les systèmes partagent un seul ensemble de commandes de freins, mais chacun a ses propres réservoirs d'air, tuyaux et conduites."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11706",
+      "question": "Si le signal d'avertissement de basse pression s'active pendant que vous conduisez, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuez à conduire normalement."
+        },
+        {
+          "letter": "B",
+          "text": "Quittez la route et garez-vous dès que possible en toute sécurité."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous où vous êtes et garez-vous."
+        },
+        {
+          "letter": "D",
+          "text": "Allumez vos feux de détresse et continuez à conduire."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Quittez la route et garez-vous dès que possible en toute sécurité.",
+      "explanation": "Si le signal d'avertissement de basse pression s'active pendant que vous conduisez, il est important que vous quittiez la route en toute sécurité dès que possible et gariez votre véhicule. Si la pression d'air devient trop basse, les freins ne fonctionneront plus assez bien pour vous arrêter en toute sécurité."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8990",
+      "question": "Si les freins à ressort sont enclenchés, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne pas utiliser la pédale de frein."
+        },
+        {
+          "letter": "B",
+          "text": "Appuyer sur l'accélérateur."
+        },
+        {
+          "letter": "C",
+          "text": "Tourner le volant."
+        },
+        {
+          "letter": "D",
+          "text": "Soyez particulièrement prudent car les freins pourraient défaillir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ne pas utiliser la pédale de frein.",
+      "explanation": "Vous ne devez pas appuyer sur la pédale de frein si les freins à ressort sont activés. Les freins pourraient être endommagés s'ils sont soumis à la fois à la force de la pression d'air et aux ressorts."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11670",
+      "question": "Les mécanismes de freinage sont situés ____ un tambour de frein.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "À l'extérieur"
+        },
+        {
+          "letter": "B",
+          "text": "À l'intérieur"
+        },
+        {
+          "letter": "C",
+          "text": "À côté"
+        },
+        {
+          "letter": "D",
+          "text": "Sur le dessus de"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "À l'intérieur",
+      "explanation": "Les freins à tambour sont attachés aux roues et situés sur les essieux d'un véhicule. Les mécanismes de freinage qui causent l'arrêt du véhicule se trouvent à l'intérieur d'un frein à tambour."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8861",
+      "question": "Que fait le régulateur de compresseur d'air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contrôle quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "B",
+          "text": "Contrôle la vitesse à laquelle l'air quitte les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "C",
+          "text": "Contrôle la température de l'air entrant dans les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "D",
+          "text": "Contrôle la température de l'air quittant les réservoirs de stockage d'air."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Contrôle quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air.",
+      "explanation": "Dans un système de freinage pneumatique, le régulateur de compresseur d'air contrôle quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8884",
+      "question": "La fadeur des freins est causée lorsque:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les freins ne sont pas utilisés assez souvent."
+        },
+        {
+          "letter": "B",
+          "text": "Les freins surchauffent."
+        },
+        {
+          "letter": "C",
+          "text": "Les freins sont trop froids."
+        },
+        {
+          "letter": "D",
+          "text": "Les freins sont mouillés."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les freins surchauffent.",
+      "explanation": "L'utilisation excessive des freins les fera surchauffer, les rendant moins efficaces. C'est ce qu'on appelle la « fadeur »."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8996",
+      "question": "Qu'est-ce que les freins antiblocage font?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aider un conducteur à éviter le blocage des roues"
+        },
+        {
+          "letter": "B",
+          "text": "Bloquer les roues avant"
+        },
+        {
+          "letter": "C",
+          "text": "Empêcher un véhicule d'accélérer en montée"
+        },
+        {
+          "letter": "D",
+          "text": "Empêcher un véhicule d'accélérer en descente"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Aider un conducteur à éviter le blocage des roues",
+      "explanation": "La fonction d'un système de freinage antiblocage (ABS) est d'empêcher les roues du véhicule de se bloquer lors d'un freinage brutal."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11672",
+      "question": "Quand une pédale de frein est enfoncée et que la came en S est tournée, la came en S :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Appuie les mâchoires de frein contre l'intérieur du tambour de frein."
+        },
+        {
+          "letter": "B",
+          "text": "Serre le tambour de frein sur l'essieu."
+        },
+        {
+          "letter": "C",
+          "text": "Appuie la garniture de frein contre la roue."
+        },
+        {
+          "letter": "D",
+          "text": "Libère l'air des réservoirs d'air."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Appuie les mâchoires de frein contre l'intérieur du tambour de frein.",
+      "explanation": "Quand une pédale de frein est enfoncée et que la came en S est tournée, la came en S appuie les mâchoires de frein contre l'intérieur du tambour de frein. Cela cause une friction et ralentira le véhicule."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8874",
+      "question": "Si les freins à ressort sont activés, vous ne devriez jamais:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Appuyer sur la pédale de frein."
+        },
+        {
+          "letter": "B",
+          "text": "Ouvrir le capot."
+        },
+        {
+          "letter": "C",
+          "text": "Relâcher l'air des réservoirs de stockage d'air."
+        },
+        {
+          "letter": "D",
+          "text": "Ouvrir la porte de la cabine."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Appuyer sur la pédale de frein.",
+      "explanation": "Ne jamais appuyer sur la pédale de frein si vos freins à ressort sont activés. Les freins peuvent être endommagés s'ils sont soumis à la fois aux ressorts et à la pression d'air."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11708",
+      "question": "Les deux systèmes d'un système de freinage à air double partagent :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réservoirs d'air."
+        },
+        {
+          "letter": "B",
+          "text": "Tuyaux."
+        },
+        {
+          "letter": "C",
+          "text": "Conduites d'air."
+        },
+        {
+          "letter": "D",
+          "text": "Un compresseur d'air."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Un compresseur d'air.",
+      "explanation": "Les deux systèmes d'un système de freinage à air double partagent un seul compresseur d'air. Si le compresseur d'air est endommagé, aucun des systèmes ne pourra fonctionner correctement."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9001",
+      "question": "Appuyer et relâcher inutilement une pédale de frein peut :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Libérer l'air plus vite qu'il ne peut être remplacé."
+        },
+        {
+          "letter": "B",
+          "text": "Ajouter plus d'air au système de freinage."
+        },
+        {
+          "letter": "C",
+          "text": "Rendre la pédale de frein plus sensible."
+        },
+        {
+          "letter": "D",
+          "text": "Créer un bruit fort."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Libérer l'air plus vite qu'il ne peut être remplacé.",
+      "explanation": "Dans un système de freinage pneumatique, appuyer et relâcher inutilement la pédale de frein peut libérer l'air du système de freinage plus rapidement que le compresseur ne peut le remplacer."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9379",
+      "question": "Si les plaquettes de frein frottent contre les tambours de frein et créent trop de chaleur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les freins vont se bloquer."
+        },
+        {
+          "letter": "B",
+          "text": "Les freins deviendront extrêmement sensibles."
+        },
+        {
+          "letter": "C",
+          "text": "Les freins peuvent cesser de fonctionner."
+        },
+        {
+          "letter": "D",
+          "text": "Le compresseur d'air va se mettre en marche pour refroidir les freins."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les freins peuvent cesser de fonctionner.",
+      "explanation": "Les freins chauffent avec l'utilisation. S'ils sont utilisés excessivement et deviennent trop chauds, l'expansion et les changements chimiques les rendront moins efficaces et finalement les feront cesser de fonctionner complètement. C'est ce qu'on appelle « fading des freins »."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10744",
+      "question": "Lorsque vous descendez une pente raide :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les freins à air doivent être utilisés."
+        },
+        {
+          "letter": "B",
+          "text": "Passez à un rapport inférieur, puis utilisez les freins pour compléter l'effet de freinage du moteur."
+        },
+        {
+          "letter": "C",
+          "text": "Le véhicule devrait être continuellement rétrogradé à la place d'utiliser les freins."
+        },
+        {
+          "letter": "D",
+          "text": "Le véhicule devrait être conduit sur l'accotement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Passez à un rapport inférieur, puis utilisez les freins pour compléter l'effet de freinage du moteur.",
+      "explanation": "En descente, l'effet de freinage du moteur devrait être votre méthode principale pour contrôler la vitesse. Passez à un rapport inférieur avant de commencer la descente et réservez les freins pour tout ralentissement ou arrêt supplémentaire qui pourrait être nécessaire selon les conditions routières ou de circulation."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11678",
+      "question": "Avant de commencer à descendre une colline, assurez-vous de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accélérez."
+        },
+        {
+          "letter": "B",
+          "text": "Passer à une vitesse supérieure."
+        },
+        {
+          "letter": "C",
+          "text": "Sonnez votre klaxon."
+        },
+        {
+          "letter": "D",
+          "text": "Passer à un rapport inférieur."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Passer à un rapport inférieur.",
+      "explanation": "Avant de commencer à descendre une colline, assurez-vous de passer à un rapport inférieur. La gravité augmentera la vitesse de votre véhicule lors de la descente."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11702",
+      "question": "Par temps froid, un évaporateur d'alcool devrait être vérifié et rempli:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une fois par semaine."
+        },
+        {
+          "letter": "B",
+          "text": "Chaque jour."
+        },
+        {
+          "letter": "C",
+          "text": "Chaque heure."
+        },
+        {
+          "letter": "D",
+          "text": "Une fois par mois."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Chaque jour.",
+      "explanation": "Un évaporateur d'alcool peut aider à prévenir l'accumulation de glace dans un système de freinage à air. Par temps froid, l'évaporateur devrait être vérifié et rempli chaque jour."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11720",
+      "question": "Si vous freinez à une vitesse de 55 mph en conduisant sur du pavé sec, le délai de freinage peut ajouter ____ à la distance d'arrêt totale de votre véhicule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "15 feet"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        },
+        {
+          "letter": "D",
+          "text": "10 pieds"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "La distance d'arrêt totale pour les véhicules équipés de freins pneumatiques est composée de quatre facteurs : distance de perception, distance de réaction, distance de délai de freinage et distance de freinage. Si vous freinez à une vitesse de 55 mph en conduisant sur du pavé sec, le délai de freinage peut ajouter environ 32 feet à la distance d'arrêt totale d'un véhicule."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11712",
+      "question": "Un clapet anti-retour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Draine l'eau et l'huile du compresseur des réservoirs d'air."
+        },
+        {
+          "letter": "B",
+          "text": "Empêche l'air de s'échapper si le compresseur d'air a une fuite."
+        },
+        {
+          "letter": "C",
+          "text": "Active les freins de secours en cas de fuite."
+        },
+        {
+          "letter": "D",
+          "text": "Maintient les freins à ressort en place jusqu'à ce qu'ils soient utilisés."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Empêche l'air de s'échapper si le compresseur d'air a une fuite.",
+      "explanation": "Un clapet anti-retour est requis entre un compresseur d'air et le premier réservoir principal. Ce clapet empêche l'air de s'échapper du système si le compresseur d'air développe une fuite."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11464",
+      "question": "Avant de conduire un véhicule avec des freins à air, vous devez vous assurer que les ressorts de frein se serrent automatiquement lorsque :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pression d'air tombe en dessous de 45 psi."
+        },
+        {
+          "letter": "B",
+          "text": "La pression d'air tombe en dessous de 20 psi."
+        },
+        {
+          "letter": "C",
+          "text": "Conduire en descente."
+        },
+        {
+          "letter": "D",
+          "text": "Conduire en montée."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La pression d'air tombe en dessous de 45 psi.",
+      "explanation": "Avant de conduire un véhicule avec des freins à air, vous devez vous assurer que les ressorts de frein se serrent automatiquement lorsque la pression du réservoir d'air tombe à un niveau entre 20 et 45 psi. Vous pouvez le faire en bloquant les roues et en libérant l'air du système de freinage en appuyant sur la pédale de frein à plusieurs reprises. Une fois que la pression tombe à un niveau dangereux, la soupape du frein de stationnement devrait s'ouvrir et les ressorts de frein devraient se serrer."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8985",
+      "question": "Les réservoirs de stockage d'air:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contiennent juste assez d'air pour un cycle de freinage."
+        },
+        {
+          "letter": "B",
+          "text": "Contiennent assez d'air pour que les freins soient utilisés plusieurs fois si le compresseur arrête de fonctionner."
+        },
+        {
+          "letter": "C",
+          "text": "Ne contiennent pas d'air à moins qu'il y ait une urgence."
+        },
+        {
+          "letter": "D",
+          "text": "Contiennent assez d'air pour plus de 1 000 cycles de freinage."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Contiennent assez d'air pour que les freins soient utilisés plusieurs fois si le compresseur arrête de fonctionner.",
+      "explanation": "Dans un système de freins pneumatiques, les réservoirs de stockage d'air contiennent assez d'air pour que les freins soient utilisés plusieurs fois si le compresseur arrête de fonctionner."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9137",
+      "question": "Les freins de service devraient :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Être testés une fois par mois."
+        },
+        {
+          "letter": "B",
+          "text": "Être testés uniquement par un mécanicien qualifié."
+        },
+        {
+          "letter": "C",
+          "text": "Être testés avant chaque trajet."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Être testés avant chaque trajet.",
+      "explanation": "Avant de conduire, vous devriez toujours vérifier que vos freins de service fonctionnent correctement. Tester les freins avant un trajet vous permet de localiser tout problème avant d'avoir besoin de freiner sur la route."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "10914",
+      "question": "Pour confirmer qu'une remorque est équipée d'ABS, vous pouvez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cherchez sous la remorque les capteurs de vitesse des roues provenant de l'arrière des freins."
+        },
+        {
+          "letter": "B",
+          "text": "Cherchez une étiquette ABS sous le capot."
+        },
+        {
+          "letter": "C",
+          "text": "Examinez les pneus."
+        },
+        {
+          "letter": "D",
+          "text": "Retirez un pneu et cherchez le capteur ABS sur l'essieu."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cherchez sous la remorque les capteurs de vitesse des roues provenant de l'arrière des freins.",
+      "explanation": "Si vous n'êtes pas certain qu'une remorque est équipée d'un système de freinage antiblocage (ABS), cherchez sous le véhicule l'unité de commande électronique et les câbles de capteur de vitesse des roues provenant de l'arrière des freins."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8992",
+      "question": "Systèmes de freinage anti-blocage (ABS) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réduisent la capacité de freinage normale."
+        },
+        {
+          "letter": "B",
+          "text": "Sont équipés en plus d'autres systèmes de freinage et ne réduisent pas la puissance de freinage normale."
+        },
+        {
+          "letter": "C",
+          "text": "Ne sont pas efficaces sur les véhicules plus grands."
+        },
+        {
+          "letter": "D",
+          "text": "Sont illégaux dans certains états."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sont équipés en plus d'autres systèmes de freinage et ne réduisent pas la puissance de freinage normale.",
+      "explanation": "L'ABS est équipé en plus du système de freinage normal d'un véhicule et il n'augmente ni ne diminue la capacité de freinage du véhicule. L'ABS s'active lors des applications fortes de la pédale de frein afin d'empêcher les roues de se bloquer."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9298",
+      "question": "Lorsque vous quittez votre véhicule sans surveillance:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le frein de stationnement devrait être utilisé."
+        },
+        {
+          "letter": "B",
+          "text": "Le frein de stationnement n'a besoin d'être utilisé que si le véhicule est garé sur une pente."
+        },
+        {
+          "letter": "C",
+          "text": "Le frein de stationnement ne devrait pas être utilisé, car il peut endommager les pneus."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le frein de stationnement devrait être utilisé.",
+      "explanation": "En général, vous devriez toujours utiliser le frein de stationnement lorsque vous garez votre véhicule. Cependant, vous ne devriez pas actionner le frein de stationnement si vos freins sont très chauds ou si vos freins sont mouillés et les températures sont en dessous du point de congélation."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "10560",
+      "question": "Le régulateur du compresseur d'air contrôle :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "B",
+          "text": "À quelle vitesse l'air est pompé dans les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "C",
+          "text": "La température de l'air pompé dans les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "D",
+          "text": "La vitesse du véhicule."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air.",
+      "explanation": "Dans un système de freinage pneumatique, le régulateur de compresseur d'air contrôle quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air."
+    }
+  ]
+}

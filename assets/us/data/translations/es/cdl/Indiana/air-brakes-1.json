@@ -1,0 +1,660 @@
+{
+  "state": "Indiana",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/indiana/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8874",
+      "question": "Si los frenos de resorte se activan, nunca debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presionar el pedal de freno."
+        },
+        {
+          "letter": "B",
+          "text": "Abrir el capó."
+        },
+        {
+          "letter": "C",
+          "text": "Liberar aire de los tanques de almacenamiento de aire."
+        },
+        {
+          "letter": "D",
+          "text": "Abrir la puerta de la cabina."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Presionar el pedal de freno.",
+      "explanation": "Nunca aplique el pedal de freno si sus frenos de resorte están activados. Los frenos pueden dañarse si se someten tanto a resortes como a presión de aire."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8990",
+      "question": "Si los frenos de resorte están activados, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No usar el pedal de freno."
+        },
+        {
+          "letter": "B",
+          "text": "Presionar el acelerador."
+        },
+        {
+          "letter": "C",
+          "text": "Mover el volante."
+        },
+        {
+          "letter": "D",
+          "text": "Tenga especial cuidado porque los frenos pueden fallar."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No usar el pedal de freno.",
+      "explanation": "No debe aplicar el pedal de freno si los frenos de resorte están activados. Los frenos podrían dañarse si están sujetos a la fuerza de la presión de aire y los resortes al mismo tiempo."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9138",
+      "question": "Cuando solo el tractor está equipado con un Sistema de Frenos Antibloqueo (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay un riesgo disminuido de patinaje."
+        },
+        {
+          "letter": "B",
+          "text": "Hay un riesgo aumentado de patinaje."
+        },
+        {
+          "letter": "C",
+          "text": "Los frenos no funcionarán tan efectivamente como lo harían sin ABS."
+        },
+        {
+          "letter": "D",
+          "text": "Los frenos se volverán más sensibles."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Hay un riesgo disminuido de patinaje.",
+      "explanation": "Si un tractor está equipado con un Sistema de Frenos Antibloqueo (ABS) pero el remolque no, el riesgo de patinaje se reducirá y el conductor aún debe poder mantener el control de dirección. Si solo el remolque está equipado con ABS, es menos probable que el remolque se desvíe hacia un lado."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11690",
+      "question": "En un sistema de freno de aire dual, una fuga en un sistema:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre significa que hay fugas en ambos sistemas."
+        },
+        {
+          "letter": "B",
+          "text": "Puede no afectar el otro sistema."
+        },
+        {
+          "letter": "C",
+          "text": "No es algo de qué preocuparse."
+        },
+        {
+          "letter": "D",
+          "text": "También afectará el otro sistema."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Puede no afectar el otro sistema.",
+      "explanation": "Un sistema de freno de aire dual está compuesto por dos sistemas de freno de aire separados. Si hay una fuga de aire en un sistema, es posible que no afecte al otro."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9384",
+      "question": "¿Cómo se libera el freno de estacionamiento?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tocando el pedal de freno tres veces"
+        },
+        {
+          "letter": "B",
+          "text": "Empujando el botón de control de freno"
+        },
+        {
+          "letter": "C",
+          "text": "Al iniciar el vehículo"
+        },
+        {
+          "letter": "D",
+          "text": "Tocando el acelerador dos veces"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Empujando el botón de control de freno",
+      "explanation": "En vehículos con frenos de aire, el freno de estacionamiento se controla mediante una perilla. La perilla se extrae para aplicar los frenos y se empuja hacia adentro para liberarlos."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8880",
+      "question": "En un sistema de frenos de aire dual:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada sistema tiene depósitos de aire, mangueras y líneas separados."
+        },
+        {
+          "letter": "B",
+          "text": "Los sistemas comparten depósitos de aire, pero cada uno tiene sus propias mangueras y líneas separadas."
+        },
+        {
+          "letter": "C",
+          "text": "Cada sistema utiliza las mismas líneas y mangueras."
+        },
+        {
+          "letter": "D",
+          "text": "Un sistema es el sistema de frenado principal y un segundo sistema está listo para usarse si el primero falla."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cada sistema tiene depósitos de aire, mangueras y líneas separados.",
+      "explanation": "Un sistema de freno de aire dual está compuesto por dos sistemas de freno de aire separados. Los sistemas comparten un conjunto único de controles de freno, pero cada uno tiene sus propios depósitos de aire, mangueras y líneas."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9382",
+      "question": "Si se enciende la luz de advertencia de presión de aire, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continúe conduciendo normalmente."
+        },
+        {
+          "letter": "B",
+          "text": "Active las luces de emergencia y continúe conduciendo."
+        },
+        {
+          "letter": "C",
+          "text": "Llame a la agencia local de aplicación de la ley."
+        },
+        {
+          "letter": "D",
+          "text": "Salga de la carretera de forma segura y deténgase."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Salga de la carretera de forma segura y deténgase.",
+      "explanation": "Si la luz de advertencia de presión de aire o la alarma se encienden mientras conduce, debe detener inmediatamente y estacionar el vehículo de forma segura. Esta señal de advertencia indica que hay un problema en el sistema de frenos neumáticos que necesita ser reparado."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8862",
+      "question": "¿Cuántos depósitos de aire se utilizan en un sistema de freno de aire?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos depósitos"
+        },
+        {
+          "letter": "B",
+          "text": "Cuatro depósitos"
+        },
+        {
+          "letter": "C",
+          "text": "Seis depósitos"
+        },
+        {
+          "letter": "D",
+          "text": "El número varía."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "El número varía.",
+      "explanation": "Los depósitos de almacenamiento de aire se utilizan para contener aire comprimido. El número y tamaño de los depósitos de aire en un sistema de freno de aire varía entre vehículos."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8881",
+      "question": "Antes de conducir un vehículo con un sistema de freno de aire dual, debe esperar a que el compresor de aire genere un mínimo de ____ en los sistemas primario y secundario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 psi"
+        },
+        {
+          "letter": "B",
+          "text": "50 psi"
+        },
+        {
+          "letter": "C",
+          "text": "75 psi"
+        },
+        {
+          "letter": "D",
+          "text": "100 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "100 psi",
+      "explanation": "Antes de conducir un vehículo con un sistema de freno de aire dual, debe esperar a que el compresor de aire genere al menos 100 psi en los sistemas primario y secundario."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11702",
+      "question": "En climas fríos, un evaporador de alcohol debe ser verificado y rellenado:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una vez a la semana."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los días."
+        },
+        {
+          "letter": "C",
+          "text": "Cada hora."
+        },
+        {
+          "letter": "D",
+          "text": "Una vez al mes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Todos los días.",
+      "explanation": "Un evaporador de alcohol puede ayudar a prevenir la acumulación de hielo en un sistema de frenos de aire. En climas fríos, el evaporador debe ser verificado y rellenado todos los días."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8884",
+      "question": "El desvanecimiento de frenos es causado cuando:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los frenos no se usan lo suficientemente a menudo."
+        },
+        {
+          "letter": "B",
+          "text": "Los frenos se sobrecalientan."
+        },
+        {
+          "letter": "C",
+          "text": "Los frenos están demasiado fríos."
+        },
+        {
+          "letter": "D",
+          "text": "Los frenos están mojados."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Los frenos se sobrecalientan.",
+      "explanation": "El uso excesivo de los frenos hará que se sobrecalienten, haciéndolos menos efectivos. Esto se conoce como \"desvanecimiento\"."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10914",
+      "question": "Para confirmar que un remolque tiene ABS, puede:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Busque debajo del remolque los sensores de velocidad de la rueda que salen de la parte trasera de los frenos."
+        },
+        {
+          "letter": "B",
+          "text": "Busque bajo el capó la etiqueta de ABS."
+        },
+        {
+          "letter": "C",
+          "text": "Mire los neumáticos."
+        },
+        {
+          "letter": "D",
+          "text": "Retire un neumático y busque el sensor ABS en el eje."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Busque debajo del remolque los sensores de velocidad de la rueda que salen de la parte trasera de los frenos.",
+      "explanation": "Si no está seguro de si un remolque está equipado con un Sistema de Frenos Antibloqueo (ABS), busque debajo del vehículo la unidad de control electrónico y los cables del sensor de velocidad de las ruedas que salen de la parte trasera de los frenos."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11688",
+      "question": "Mientras se conduce, los frenos de resorte generalmente se mantienen en su lugar por:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presión de aire."
+        },
+        {
+          "letter": "B",
+          "text": "Calzos."
+        },
+        {
+          "letter": "C",
+          "text": "Frenos de fundación."
+        },
+        {
+          "letter": "D",
+          "text": "Amarres resistentes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Presión de aire.",
+      "explanation": "Mientras se conduce, los frenos de resorte generalmente se mantienen en su lugar por presión de aire. Si la presión de aire baja lo suficiente, los resortes activarán los frenos."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11104",
+      "question": "El freno de estacionamiento debe ser:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se usa cada vez que estacionas el vehículo."
+        },
+        {
+          "letter": "B",
+          "text": "Usado mientras conduce."
+        },
+        {
+          "letter": "C",
+          "text": "Activado cuando se conduce en mal tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Se usa para detener el vehículo en la conducción normal."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Se usa cada vez que estacionas el vehículo.",
+      "explanation": "El freno de estacionamiento debe aplicarse cada vez que estaciones tu vehículo."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10363",
+      "question": "Un Sistema de Frenos Antibloqueo (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se puede utilizar con frenos de aire."
+        },
+        {
+          "letter": "B",
+          "text": "Debe usarse en pavimento seco."
+        },
+        {
+          "letter": "C",
+          "text": "Puede ayudar a mantener el control al frenar."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se debe usar si todos los ejes tienen ABS."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Puede ayudar a mantener el control al frenar.",
+      "explanation": "Los sistemas de frenos antibloqueo (ABS) son compatibles con sistemas de frenos de aire. ABS ayuda a mantener el control de un vehículo y evita que las ruedas se bloqueen durante un frenado fuerte en superficies resbaladizas. ABS aún puede proporcionar beneficios incluso si está presente en un solo eje."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10228",
+      "question": "El agua y el aceite del compresor generalmente se encuentran en el aire comprimido dentro de un sistema de frenos de aire. El agua y el aceite del compresor:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son necesarios para el funcionamiento adecuado del sistema de frenos de aire."
+        },
+        {
+          "letter": "B",
+          "text": "Deben agregarse si el nivel es bajo."
+        },
+        {
+          "letter": "C",
+          "text": "Deben removerse regularmente."
+        },
+        {
+          "letter": "D",
+          "text": "No son preocupaciones."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Deben removerse regularmente.",
+      "explanation": "El aire comprimido en un sistema de frenos de aire generalmente contiene una cierta cantidad de agua y aceite del compresor. El agua y el aceite pueden dañar los frenos si se dejan acumular en el sistema. Los drenajes manuales del tanque de aire deben abrirse diariamente para eliminar esta acumulación."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11682",
+      "question": "Durante una prueba de fuga estática, la tasa de fuga máxima para un vehículo de combinación doble es:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi en un minuto."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi en un minuto."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi en un minuto."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi en un minuto."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi en un minuto.",
+      "explanation": "Cuando se realiza una prueba de fuga estática en un vehículo de combinación doble con frenos de aire, la tasa de fuga no debe ser superior a 3 psi en un minuto. Si el aire se escapa del sistema de frenos de aire a una tasa más rápida, el vehículo no debe conducirse porque probablemente algo necesite ser reparado."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8988",
+      "question": "Para asegurar una potencia de frenado normal, los conductores de vehículos equipados con una válvula limitadora de freno delantero deben:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Establezca el control en normal."
+        },
+        {
+          "letter": "B",
+          "text": "Establezca el control en la posición de apagado."
+        },
+        {
+          "letter": "C",
+          "text": "Coloque el control en neutro."
+        },
+        {
+          "letter": "D",
+          "text": "Mantenga el control en la marca de mitad de camino."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Establezca el control en normal.",
+      "explanation": "Algunos vehículos anteriores a 1975 tienen una válvula limitadora de freno frontal con configuraciones \"normal\" y \"resbaladizo\". La idea detrás de estas válvulas era limitar la presión de aire disponible para los frenos delanteros al conducir en superficies resbaladizas y así reducir el peligro de un deslizamiento de las ruedas delanteras. Los estudios han encontrado que esto no es en realidad un problema, por lo que si su vehículo tiene una válvula limitadora de freno frontal, déjela en la posición \"normal\"."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8987",
+      "question": "¿Qué puede suceder si la presión de aire baja demasiado en un sistema de frenos de aire?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los frenos pueden chirriar."
+        },
+        {
+          "letter": "B",
+          "text": "Los frenos pueden no funcionar."
+        },
+        {
+          "letter": "C",
+          "text": "Los frenos pueden funcionar lentamente."
+        },
+        {
+          "letter": "D",
+          "text": "Los frenos serán muy sensibles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Los frenos pueden no funcionar.",
+      "explanation": "Presionar y soltar el pedal de freno innecesariamente puede dejar que el aire escape más rápido de lo que el compresor puede reemplazarlo, reduciendo la presión de aire disponible. Si la presión de aire en un sistema de frenos de aire se reduce demasiado, los frenos ya no funcionarán."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10743",
+      "question": "¿Qué es el retraso de frenos?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tiempo requerido para que los frenos funcionen después de presionar el pedal del freno"
+        },
+        {
+          "letter": "B",
+          "text": "La distancia entre la posición de reposo del pedal del freno y el piso"
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de presión de aire utilizada para detener un vehículo"
+        },
+        {
+          "letter": "D",
+          "text": "Qué tan gastados están los frenos"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El tiempo requerido para que los frenos funcionen después de presionar el pedal del freno",
+      "explanation": "Debido a que el aire tarda tiempo en fluir a través de las líneas de aire hacia los frenos, los frenos de aire no pueden comenzar a funcionar instantáneamente. A menudo hay un retraso de frenado de al menos medio segundo entre el momento en que se presiona el pedal del freno y el momento en que los frenos comienzan a funcionar. En vehículos con frenos hidráulicos, los frenos funcionan instantáneamente cuando se presiona el pedal."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11720",
+      "question": "Si frena a una velocidad de 55 mph mientras conduce en pavimento seco, el retardo de frenado puede agregar ____ a la distancia total de frenado de su vehículo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 pies"
+        },
+        {
+          "letter": "B",
+          "text": "15 feet"
+        },
+        {
+          "letter": "C",
+          "text": "50 pies"
+        },
+        {
+          "letter": "D",
+          "text": "10 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 pies",
+      "explanation": "La distancia total de frenado para vehículos equipados con frenos de aire se compone de cuatro factores: distancia de percepción, distancia de reacción, distancia de retardo de frenado y distancia de frenado. Al frenar a una velocidad de 55 mph mientras conduce en pavimento seco, el retardo de frenado puede agregar aproximadamente 32 pies a la distancia total de frenado de un vehículo."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11680",
+      "question": "Durante una prueba de fuga aplicada, la velocidad de fuga máxima para un vehículo individual con frenos de aire es:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi en un minuto."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi en un minuto."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi en un minuto."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi en un minuto."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi en un minuto.",
+      "explanation": "Es importante conocer la tasa máxima de pérdida de aire que es segura para su vehículo específico. Un solo vehículo con frenos de aire debe tener una tasa de fugas no mayor a 3 psi en un minuto durante una prueba de fugas aplicada."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11710",
+      "question": "Presionar el pedal del freno causa que la presión del aire active un interruptor eléctrico y:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apagar las luces de freno."
+        },
+        {
+          "letter": "B",
+          "text": "Encender la luz de advertencia de baja presión."
+        },
+        {
+          "letter": "C",
+          "text": "Encender las luces de freno."
+        },
+        {
+          "letter": "D",
+          "text": "Apagar la luz de advertencia de baja presión."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Encender las luces de freno.",
+      "explanation": "En un vehículo con frenos de aire, las luces de freno se activan cuando se presiona el pedal de freno y la presión de aire mueve un interruptor eléctrico. Con la aplicación de presión de aire, el interruptor activará las luces de freno."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8869",
+      "question": "¿Qué color es la luz de advertencia de baja presión de aire?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verde"
+        },
+        {
+          "letter": "B",
+          "text": "Naranja"
+        },
+        {
+          "letter": "C",
+          "text": "Rojo"
+        },
+        {
+          "letter": "D",
+          "text": "Purple"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Rojo",
+      "explanation": "Se requiere una señal de advertencia de baja presión de aire en vehículos con frenos de aire. La luz de advertencia suele ser roja y puede ir acompañada de un zumbador."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11668",
+      "question": "La fricción dentro de un tambor de freno es causada cuando las zapatas de freno y los forros:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empujan uno contra el otro."
+        },
+        {
+          "letter": "B",
+          "text": "Se separan del eje."
+        },
+        {
+          "letter": "C",
+          "text": "Empujan contra el interior del tambor."
+        },
+        {
+          "letter": "D",
+          "text": "Crean calor excesivo."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Empujan contra el interior del tambor.",
+      "explanation": "La fricción dentro de un tambor de freno es causada cuando las zapatas de freno y los forros empujan contra el interior del tambor. La fricción en los tambores ralentizará y detendrá el vehículo."
+    }
+  ]
+}

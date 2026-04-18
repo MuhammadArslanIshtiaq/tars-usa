@@ -1,0 +1,474 @@
+{
+  "state": "Utah",
+  "category": "cdl",
+  "testName": "Passenger Test #2 20 Questions • Passing Score 16",
+  "testSlug": "passenger-2",
+  "url": "/images/utah/cdl/passenger-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "10358",
+      "question": "汽油：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "可以带上公交车。"
+        },
+        {
+          "letter": "B",
+          "text": "绝不能带上公交车。"
+        },
+        {
+          "letter": "C",
+          "text": "在长途旅行期间可以存放在公交车的乘客舱内。"
+        },
+        {
+          "letter": "D",
+          "text": "应该用玻璃容器存放。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "绝不能带上公交车。",
+      "explanation": "公交车驾驶员和乘客不应被允许将常见危险物品（如汽油或汽车电池）带上公交车。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11144",
+      "question": "如果公交车在运送乘客时发生故障：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "另一辆公交车应推动故障公交车到最终目的地。"
+        },
+        {
+          "letter": "B",
+          "text": "应将公交车拖曳到最终目的地，乘客留在车上。"
+        },
+        {
+          "letter": "C",
+          "text": "可以将公交车拖曳到最近的安全地点以便乘客下车。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "可以将公交车拖曳到最近的安全地点以便乘客下车。",
+      "explanation": "除非乘客在公交车当前位置下车不安全，否则不应在乘客仍在车上时拖曳或推动故障公交车。如果是这种情况，应将故障公交车拖曳或推动到最近的安全地点让乘客下车。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10594",
+      "question": "有毒烟雾可能进入卡车驾驶室的原因包括：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "排气系统故障。"
+        },
+        {
+          "letter": "B",
+          "text": "使用了错误类型的燃料。"
+        },
+        {
+          "letter": "C",
+          "text": "发动机缺油。"
+        },
+        {
+          "letter": "D",
+          "text": "轮胎充气不足。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "排气系统故障。",
+      "explanation": "排气系统的缺陷非常危险,因为它们可能导致有毒烟雾进入驾驶室或卧铺。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9119",
+      "question": "如果轮胎失败，你应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "放松对方向盘的控制。"
+        },
+        {
+          "letter": "B",
+          "text": "立即踩刹车。"
+        },
+        {
+          "letter": "C",
+          "text": "停完车后检查您的轮胎。"
+        },
+        {
+          "letter": "D",
+          "text": "急速转向驶离道路。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "停完车后检查您的轮胎。",
+      "explanation": "如果轮胎失效，请牢固握住方向盘。不要使用制动器，让车辆自行减速。车辆减速相当多后，您应该非常轻轻地制动，驶离道路并停止。完全停止后检查您的轮胎。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10862",
+      "question": "当牵引力不足时，驾驶员应该特别缓慢加速：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "因为缓慢加速总是好的。"
+        },
+        {
+          "letter": "B",
+          "text": "为了防止失去对车辆的控制。"
+        },
+        {
+          "letter": "C",
+          "text": "为了防止加速速度快于前面的车辆。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "为了防止失去对车辆的控制。",
+      "explanation": "在湿滑条件下驾驶时，你应该非常缓慢地加速。在这种条件下使用过多动力可能会导致你失去对车辆的控制。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11167",
+      "question": "当接近由绿色交通灯控制的吊桥时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您必须停止。"
+        },
+        {
+          "letter": "B",
+          "text": "您可以不停止地继续行驶。"
+        },
+        {
+          "letter": "C",
+          "text": "你必须等待信号灯从绿灯变为黄灯。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "您可以不停止地继续行驶。",
+      "explanation": "如果吊桥由显示绿灯的交通信号灯控制，公交车不需要在过桥前停止。但是，公交车驾驶员应该始终在过吊桥前减速，以确保安全通行。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10459",
+      "question": "当尝试扑灭电气火灾时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "使用水。"
+        },
+        {
+          "letter": "B",
+          "text": "使用B类或C类灭火器。"
+        },
+        {
+          "letter": "C",
+          "text": "使用X灭火器。"
+        },
+        {
+          "letter": "D",
+          "text": "使用Q型灭火器。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "使用B类或C类灭火器。",
+      "explanation": "B类和C类灭火器专为电气火灾设计。永远不应该用水来扑灭电气火灾，因为这样做可能导致触电。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11387",
+      "question": "在不是直线倒车练习的其他练习中，您可以下车检查其位置的次数不超过：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一次。"
+        },
+        {
+          "letter": "B",
+          "text": "2倍。"
+        },
+        {
+          "letter": "C",
+          "text": "3倍。"
+        },
+        {
+          "letter": "D",
+          "text": "4倍。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2倍。",
+      "explanation": "在任何基本控制技能测试练习中，驾驶员被允许下车检查其车辆位置。此操作称为\"查看\"。在直线倒车练习中，驾驶员最多只能查看一次。在任何其他练习中，驾驶员最多只能查看两次。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "10680",
+      "question": "桥梁上发布的高度：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "总是准确的。"
+        },
+        {
+          "letter": "B",
+          "text": "在法律上是具有约束力的。"
+        },
+        {
+          "letter": "C",
+          "text": "可能是不准确的。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "可能是不准确的。",
+      "explanation": "永远不要假设桥梁或其他架空物体上发布的高度是正确的。即使当初发布时是准确的，可能已有改变影响间隙，可能是永久性的（如道路重新铺设）或临时性的（如道路上的积雪）。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9795",
+      "question": "在有两条可用左转车道的地方进行左转时，驾驶员应在最右边的车道上开始转向，原因是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶员更容易跟踪左侧的转向车辆而不是右侧的。"
+        },
+        {
+          "letter": "B",
+          "text": "车辆将能够更快地转向。"
+        },
+        {
+          "letter": "C",
+          "text": "其他车辆会让出转向车辆的路。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "驾驶员更容易跟踪左侧的转向车辆而不是右侧的。",
+      "explanation": "如果在有一条以上可用左转车道的地方进行左转，您应始终选择在最右边的车道上开始转向。大型车辆通常必须向右摆动才能进行左转。因此，在左边而不是右边有其他左转交通对您更安全。这将使您能够最好地观察其他转向车辆，并降低您的车辆与它们碰撞的风险。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11172",
+      "question": "一旦驾驶员在更换了车辆上的轮胎后开始驾驶，应在短距离后停止以：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "确保轮螺帽仍然拧紧。"
+        },
+        {
+          "letter": "B",
+          "text": "确保轮胎磨损均匀。"
+        },
+        {
+          "letter": "C",
+          "text": "确保轮胎的气压仍然在可接受的范围内。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "确保轮螺帽仍然拧紧。",
+      "explanation": "一旦你开始在轮胎更换后驾驶，你应该在短距离后停下来重新检查螺栓螺帽的紧度。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10997",
+      "question": "检查轮胎时，以下哪一项不是关注原因？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "气压过高"
+        },
+        {
+          "letter": "B",
+          "text": "前轮胎沟槽中至少4/32英寸的胎面"
+        },
+        {
+          "letter": "C",
+          "text": "使用子午线轮胎和斜交轮胎"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "前轮胎沟槽中至少4/32英寸的胎面",
+      "explanation": "检查车辆轮胎时，您应该确认气压既不过低也不过高；前轮胎每条主沟槽中至少有4/32英寸的胎面深度；以及不一起使用径向和斜交轮胎。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9271",
+      "question": "为了在驾驶时保持警觉，你应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在开始行程前吃一顿丰盛的饭。"
+        },
+        {
+          "letter": "B",
+          "text": "保持驾驶室温暖。"
+        },
+        {
+          "letter": "C",
+          "text": "与可以分担驾驶责任的第二个人一起乘坐。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "与可以分担驾驶责任的第二个人一起乘坐。",
+      "explanation": "与第二名驾驶员分担驾驶责任可以降低你们中任何一人在疲劳时驾驶的可能性。你还可以通过避免进食重食和保持驾驶室内部凉爽来降低疲劳风险。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11244",
+      "question": "____是形成在路面上的一层薄冰。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "白冰"
+        },
+        {
+          "letter": "B",
+          "text": "黑冰"
+        },
+        {
+          "letter": "C",
+          "text": "软冰"
+        },
+        {
+          "letter": "D",
+          "text": "尖锐冰"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "黑冰",
+      "explanation": "黑冰是形成的薄冰层，清晰到足以看到道路表面。覆盖黑冰的道路可能看起来仅仅是湿润的。当温度低于冰点且道路看起来潮湿时，您应该非常小心。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10991",
+      "question": "方向盘游隙超过____ 会使转向困难。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 度"
+        },
+        {
+          "letter": "B",
+          "text": "25 度"
+        },
+        {
+          "letter": "C",
+          "text": "50 度"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "10 度",
+      "explanation": "方向盘的游隙不应超过 10 度。这相当于 20 英寸车轮轮缘处约 2 英寸的运动。如果游隙超过此值，转向可能会很困难。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10690",
+      "question": "如果试图纠正驱动轮制动打滑，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "加速。"
+        },
+        {
+          "letter": "B",
+          "text": "反向转向。"
+        },
+        {
+          "letter": "C",
+          "text": "接合应急制动器。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "反向转向。",
+      "explanation": "要纠正驱动轮制动打滑，您应首先减少制动踏板的压力，以允许锁定的车轮重新开始滚动。迅速转向您想去的方向，然后反向转向以防止您的车辆向相反方向打滑。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9420",
+      "question": "每次都以相同的顺序执行行前检查的步骤，因为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您不太可能忘记某些事项。"
+        },
+        {
+          "letter": "B",
+          "text": "您将有更多时间来完成检查。"
+        },
+        {
+          "letter": "C",
+          "text": "这是法律规定的。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "您不太可能忘记某些事项。",
+      "explanation": "每次旅行前以相同的顺序完成车辆检查的步骤有助于学习正确的步骤。此外，按规定的顺序逐步进行清单时，您不太可能忘记某个步骤。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10698",
+      "question": "大多数公交事故发生在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在十字路口。"
+        },
+        {
+          "letter": "B",
+          "text": "在开放道路上。"
+        },
+        {
+          "letter": "C",
+          "text": "在加油站。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在十字路口。",
+      "explanation": "公交事故最常发生在十字路口。即使十字路口由标志或信号控制，也要谨慎。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9584",
+      "question": "在牵引力差的路面（如湿路）上加速时，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "快速加速。"
+        },
+        {
+          "letter": "B",
+          "text": "缓慢加速。"
+        },
+        {
+          "letter": "C",
+          "text": "不用担心路面。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "缓慢加速。",
+      "explanation": "在牵引力差的条件下行驶时，应非常缓慢地加速。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9570",
+      "question": "后轮胎的最小可接受胎面深度是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/64英寸。"
+        },
+        {
+          "letter": "B",
+          "text": "1/32英寸。"
+        },
+        {
+          "letter": "C",
+          "text": "2/32英寸。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "2/32英寸。",
+      "explanation": "检查轮胎时，验证前轮的每条主槽中至少有4/32英寸的胎面深度，其他轮胎的胎面深度至少为2/32英寸。同一车辆上的轮胎应该完全相同。"
+    }
+  ]
+}

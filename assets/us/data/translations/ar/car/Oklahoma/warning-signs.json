@@ -1,0 +1,955 @@
+{
+  "state": "Oklahoma",
+  "category": "car",
+  "quizName": "Warning Signs",
+  "slug": "warning-signs",
+  "totalQuestions": 43,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/stop-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "علامة توقف قادمة."
+        },
+        {
+          "letter": "B",
+          "text": "إشارة مرور قادمة."
+        },
+        {
+          "letter": "C",
+          "text": "ممر عبور قادم."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "علامة توقف قادمة.",
+      "explanation": "تحذرك هذه العلامة من أن علامة التوقف قادمة. ابدأ التباطؤ حتى تكون مستعداً للتوقف بالكامل."
+    },
+    {
+      "questionNumber": 2,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/yield-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "علامة امتناع قادمة."
+        },
+        {
+          "letter": "B",
+          "text": "نقطة دمج قادمة."
+        },
+        {
+          "letter": "C",
+          "text": "علامة توقف قادمة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "علامة امتناع قادمة.",
+      "explanation": "تحذرك هذه العلامة من أن علامة الامتناع قادمة. كن مستعداً للتباطؤ وإعطاء الأولوية لحركة المرور الأخرى."
+    },
+    {
+      "questionNumber": 3,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "إشارة مرور قادمة."
+        },
+        {
+          "letter": "B",
+          "text": "معبر سكة حديد قادم."
+        },
+        {
+          "letter": "C",
+          "text": "منطقة مدرسة في المقدمة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "إشارة مرور قادمة.",
+      "explanation": "تحذرك هذه العلامة من أن إشارة مرور قادمة. كن مستعداً للتوقف إذا كان الضوء أحمر أو أصفر."
+    },
+    {
+      "questionNumber": 4,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/emergency-signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "إشارة مركبة طوارئ قادمة."
+        },
+        {
+          "letter": "B",
+          "text": "محطة إطفاء قادمة."
+        },
+        {
+          "letter": "C",
+          "text": "منطقة مستشفى قادمة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "إشارة مركبة طوارئ قادمة.",
+      "explanation": "تحذرك هذه العلامة من أن إشارة يتحكم بها مركبات الطوارئ قادمة. قد تتغير الإشارة للسماح لمركبات الطوارئ بالمرور."
+    },
+    {
+      "questionNumber": 5,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/two-way-traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "حركة مرور ثنائية الاتجاه قادمة."
+        },
+        {
+          "letter": "B",
+          "text": "الطريق ينقسم إلى طريقين."
+        },
+        {
+          "letter": "C",
+          "text": "مسارتان تندمجان في واحد."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "حركة مرور ثنائية الاتجاه قادمة.",
+      "explanation": "تحذر هذه العلامة من أنك على وشك الدخول إلى طريق بها حركة مرور قادمة من الاتجاه المعاكس. ابقَ في مسارك."
+    },
+    {
+      "questionNumber": 6,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/no-passing-zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "أنت تدخل منطقة عدم تجاوز."
+        },
+        {
+          "letter": "B",
+          "text": "الطريق يضيق قادماً."
+        },
+        {
+          "letter": "C",
+          "text": "منطقة مدرسة في المقدمة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "أنت تدخل منطقة عدم تجاوز.",
+      "explanation": "تشير العلامة الرقية على شكل علم إلى بداية منطقة عدم تجاوز. لا تتجاوز المركبات الأخرى في هذه المنطقة."
+    },
+    {
+      "questionNumber": 7,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/right-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "الطريق ينحني إلى اليمين قادماً."
+        },
+        {
+          "letter": "B",
+          "text": "انعطف يميناً في التقاطع التالي."
+        },
+        {
+          "letter": "C",
+          "text": "مسار يميني ينتهي."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "الطريق ينحني إلى اليمين قادماً.",
+      "explanation": "تحذرك هذه العلامة من أن الطريق قادم ينحني إلى اليمين. قلل السرعة قبل دخول المنحنى."
+    },
+    {
+      "questionNumber": 8,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/sharp-curve-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "منحنى حاد إلى اليمين قادم."
+        },
+        {
+          "letter": "B",
+          "text": "منحنى لطيف قادم."
+        },
+        {
+          "letter": "C",
+          "text": "الطريق ينحني بشكل حاد إلى اليسار."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "منحنى حاد إلى اليمين قادم.",
+      "explanation": "تحذر هذه العلامة من منحنى حاد إلى اليمين. قلل السرعة جيداً قبل المنحنى للحفاظ على التحكم بسيارتك."
+    },
+    {
+      "questionNumber": 9,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/sharp-curve-to-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "منحنى يميني حاد قادم."
+        },
+        {
+          "letter": "B",
+          "text": "المسار الأيمن ينتهي."
+        },
+        {
+          "letter": "C",
+          "text": "انعطاف يميني مطلوب."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "منحنى يميني حاد قادم.",
+      "explanation": "تحذر هذه العلامة من منحنى حاد إلى اليمين. قلل سرعتك قبل دخول المنحنى."
+    },
+    {
+      "questionNumber": 10,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/very-sharp-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "منحنى أو انعطاف حاد جداً قادم."
+        },
+        {
+          "letter": "B",
+          "text": "الطريق ينتهي قادماً."
+        },
+        {
+          "letter": "C",
+          "text": "دوران على شكل حرف U مطلوب."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "منحنى أو انعطاف حاد جداً قادم.",
+      "explanation": "تحذرك هذه العلامة من منحنى حاد جداً قادم. قلل السرعة بشكل كبير قبل المنحنى لتجنب فقدان السيطرة."
+    },
+    {
+      "questionNumber": 11,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/hairpin-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "منحنى شعري قادم."
+        },
+        {
+          "letter": "B",
+          "text": "منطقة الالتفاف على شكل حرف U في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "طريق مسدود في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "منحنى شعري قادم.",
+      "explanation": "تحذرك هذه العلامة من منحنى شعري ضيق جداً قادم. قلل السرعة بشكل كبير قبل دخول المنحنى."
+    },
+    {
+      "questionNumber": 12,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/left-turn-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "الطريق ينعطف نحو اليسار في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "بدء مسار انعطاف نحو اليسار."
+        },
+        {
+          "letter": "C",
+          "text": "لا يوجد انعطاف نحو اليسار في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "الطريق ينعطف نحو اليسار في الأمام.",
+      "explanation": "تحذير: الطريق في الأمام ينعطف نحو اليسار. قلل سرعتك قبل الانعطاف."
+    },
+    {
+      "questionNumber": 13,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/left-reverse-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "سلسلة من المنحنيات تبدأ بانعطاف نحو اليسار في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "التفاف على شكل حرف U في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "دوار مروري في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "سلسلة من المنحنيات تبدأ بانعطاف نحو اليسار في الأمام.",
+      "explanation": "تحذير: منحنى عكسي في الأمام، يبدأ بمنحنى نحو اليسار. أبطئ سرعتك وكن مستعداً لتغيير الاتجاهات."
+    },
+    {
+      "questionNumber": 14,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/winding-road-left-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "طريق ملتوية في الأمام، تبدأ بمنحنى نحو اليسار."
+        },
+        {
+          "letter": "B",
+          "text": "تل شديد الانحدار في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "الطريق زلق عندما يكون رطباً."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "طريق ملتوية في الأمام، تبدأ بمنحنى نحو اليسار.",
+      "explanation": "تحذير: طريق ملتوية في الأمام مع عدة منحنيات. المنحنى الأول يتجه نحو اليسار. أبطئ سرعتك وقد بحذر."
+    },
+    {
+      "questionNumber": 15,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/advisory-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "السرعة الموصى بها الآمنة للطريق في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "الحد الأدنى المسموح به للسرعة."
+        },
+        {
+          "letter": "C",
+          "text": "الحد الأقصى المسموح به للسرعة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "السرعة الموصى بها الآمنة للطريق في الأمام.",
+      "explanation": "علامة السرعة الاستشارية تظهر السرعة الآمنة الموصى بها لمنحنى أو ظروف طريق أخرى. إنها ليست حد أقصى للسرعة بل اقتراح للسلامة."
+    },
+    {
+      "questionNumber": 16,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/advisory-turn-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "السرعة الموصى بها للانعطاف القادم."
+        },
+        {
+          "letter": "B",
+          "text": "حد السرعة يتغير في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "مطب سرعة قادم."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "السرعة الموصى بها للانعطاف القادم.",
+      "explanation": "تحذير: تظهر هذه العلامة السرعة الآمنة الموصى بها لانعطاف قادم. قلل سرعتك إلى هذا المستوى قبل الدخول للانعطاف."
+    },
+    {
+      "questionNumber": 17,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/advisory-speed-on-exit-ramp.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "السرعة الموصى بها لمخرج الطريق السريع في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "حد السرعة على الطريق السريع."
+        },
+        {
+          "letter": "C",
+          "text": "الحد الأدنى للسرعة على المخرج."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "السرعة الموصى بها لمخرج الطريق السريع في الأمام.",
+      "explanation": "تحذير: تظهر هذه العلامة السرعة الآمنة الموصى بها لمخرج الطريق السريع. أبطئ سرعتك إلى هذا المستوى قبل الدخول للمخرج."
+    },
+    {
+      "questionNumber": 18,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/truck-rollover-warning-sharp-curve.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "قد تنقلب الشاحنات على المنحنى الحاد في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "يجب على الشاحنات أن تخرج هنا."
+        },
+        {
+          "letter": "C",
+          "text": "محطة وزن الشاحنات في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "قد تنقلب الشاحنات على المنحنى الحاد في الأمام.",
+      "explanation": "تحذير: سائقو الشاحنات من منحنى حاد حيث قد تنقلب الشاحنات. على جميع السائقين أن يبطئوا قبل هذا المنحنى."
+    },
+    {
+      "questionNumber": 19,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/cross-road-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "طريق متقاطعة في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "معبر سكة حديد قادم."
+        },
+        {
+          "letter": "C",
+          "text": "مستشفى في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "طريق متقاطعة في الأمام.",
+      "explanation": "تحذير: طريق أخرى تعبر الطريق التي تسير عليها. راقب حركة المرور من كلا الجانبين."
+    },
+    {
+      "questionNumber": 20,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/side-road-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "طريق جانبية تدخل من اليسار."
+        },
+        {
+          "letter": "B",
+          "text": "انتهاء المسار الأيسر."
+        },
+        {
+          "letter": "C",
+          "text": "انعطاف نحو اليسار في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "طريق جانبية تدخل من اليسار.",
+      "explanation": "تحذير: طريق جانبية تلتقي بطريقك من اليسار. راقب حركة المرور القادمة من تلك الاتجاهات."
+    },
+    {
+      "questionNumber": 21,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/side-road-at-angle-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "طريق جانبية تدخل بزاوية في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "الطريق منحنية في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "نقطة دمج قادمة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "طريق جانبية تدخل بزاوية في الأمام.",
+      "explanation": "تحذير: طريق تدخل من الجانب بزاوية. راقب المركبات القادمة من تلك الطريق."
+    },
+    {
+      "questionNumber": 22,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/side-road-at-angle-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "طريق جانبية تدخل بزاوية من اليمين."
+        },
+        {
+          "letter": "B",
+          "text": "انعطاف يميني مطلوب."
+        },
+        {
+          "letter": "C",
+          "text": "منطقة راحة إلى اليمين."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "طريق جانبية تدخل بزاوية من اليمين.",
+      "explanation": "تحذير: طريق جانبية تدخل من اليمين بزاوية. راقب المركبات القادمة من تلك الاتجاهات."
+    },
+    {
+      "questionNumber": 23,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/t-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "تقاطع على شكل T في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "طريق مسدود في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "محطة رسوم الطريق في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "تقاطع على شكل T في الأمام.",
+      "explanation": "تحذير: الطريق التي تسير عليها تنتهي في أمامك عند تقاطع على شكل T. يجب عليك الانعطاف نحو اليسار أو اليمين."
+    },
+    {
+      "questionNumber": 24,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/t-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "تقترب من تقاطع على شكل T."
+        },
+        {
+          "letter": "B",
+          "text": "جسر في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "نفق في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "تقترب من تقاطع على شكل T.",
+      "explanation": "تحذير: طريقك ينتهي في أمامك عند تقاطع على شكل T. كن مستعداً للانعطاف نحو اليسار أو اليمين."
+    },
+    {
+      "questionNumber": 25,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/y-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "تقاطع على شكل Y في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "نقطة دمج قادمة."
+        },
+        {
+          "letter": "C",
+          "text": "تفرع في الطريق في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "تقاطع على شكل Y في الأمام.",
+      "explanation": "تحذير: تقاطع على شكل Y في الأمام حيث ينقسم الطريق إلى اتجاهين. اختر مسارك مبكراً."
+    },
+    {
+      "questionNumber": 26,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/intersection-within-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "هناك تقاطع داخل منحنى في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "منحنى حاد في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "الطريق يضيق في منحنى."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "هناك تقاطع داخل منحنى في الأمام.",
+      "explanation": "هذه العلامة تحذر من وجود تقاطع داخل منحنى. يمكن أن يكون هذا خطيراً إضافياً لأن الرؤية قد تكون محدودة."
+    },
+    {
+      "questionNumber": 27,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/circular-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "دوار مرور أو حلقة مرور في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "طريق مسدود في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "منطقة الالتفاف على شكل حرف U في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "دوار مرور أو حلقة مرور في الأمام.",
+      "explanation": "هذه العلامة تحذر من أن هناك دوار مرور أو حلقة مرور في الأمام. قلل السرعة وأعط الأولوية للمرور الموجود بالفعل في الحلقة."
+    },
+    {
+      "questionNumber": 28,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/merging-traffic-from-right-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "المرور يندمج من اليمين في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "المسار الأيمن ينتهي."
+        },
+        {
+          "letter": "C",
+          "text": "مسار منعطف يميني يبدأ في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "المرور يندمج من اليمين في الأمام.",
+      "explanation": "هذه العلامة تحذر من أن المركبات من طريق آخر ستندمج في مسارك من اليمين. كن مستعداً لتعديل سرعتك أو تغيير المسار."
+    },
+    {
+      "questionNumber": 29,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/entering-roadway-merge-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يجب عليك الاندماج إلى اليمين عند دخول الطريق."
+        },
+        {
+          "letter": "B",
+          "text": "مسار اليمين مغلق."
+        },
+        {
+          "letter": "C",
+          "text": "منحنى يميني في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "يجب عليك الاندماج إلى اليمين عند دخول الطريق.",
+      "explanation": "هذه العلامة تخبرك بالاندماج إلى اليمين عند دخول الطريق. عدّل سرعتك للاندماج بأمان مع المرور."
+    },
+    {
+      "questionNumber": 30,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/entering-roadway-added-lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "مسار جديد يتم إضافته لحركة المرور الداخلة إلى الطريق."
+        },
+        {
+          "letter": "B",
+          "text": "الطريق يصبح أوسع."
+        },
+        {
+          "letter": "C",
+          "text": "مسار تجاوز يبدأ هنا."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "مسار جديد يتم إضافته لحركة المرور الداخلة إلى الطريق.",
+      "explanation": "هذه العلامة تعني أن مسار جديد يتم إضافته إلى الطريق لحركة المرور الداخلة. لا تحتاج إلى الاندماج على الفور."
+    },
+    {
+      "questionNumber": 31,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/added-lane-from-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "مسار جديد يتم إضافته من اليسار."
+        },
+        {
+          "letter": "B",
+          "text": "مسار اليسار ينتهي."
+        },
+        {
+          "letter": "C",
+          "text": "المرور ينحدر من اليسار."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "مسار جديد يتم إضافته من اليسار.",
+      "explanation": "هذه العلامة تخبرك بأن مسار جديد يتم إضافته إلى الطريق من الجانب الأيسر. سيكون للمرور من اليسار مساره الخاص."
+    },
+    {
+      "questionNumber": 32,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/lane-reduction-right-lane-ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "مسار اليمين ينتهي في الأمام. اندمج لليسار."
+        },
+        {
+          "letter": "B",
+          "text": "مسار يميني جديد يبدأ."
+        },
+        {
+          "letter": "C",
+          "text": "الطريق يتسع."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "مسار اليمين ينتهي في الأمام. اندمج لليسار.",
+      "explanation": "هذه العلامة تحذر من أن مسار اليمين سينتهي في الأمام. على السائقين في مسار اليمين الاندماج إلى اليسار بأمان."
+    },
+    {
+      "questionNumber": 33,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/road-narrows.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "الطريق في الأمام يصبح أضيق."
+        },
+        {
+          "letter": "B",
+          "text": "جسر في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "طريق بمسار واحد في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "الطريق في الأمام يصبح أضيق.",
+      "explanation": "هذه العلامة تحذر من أن الطريق في الأمام يصبح أضيق. قلل السرعة وكن مستعداً لتقليل المساحة."
+    },
+    {
+      "questionNumber": 34,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/divided-highway-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "طريق مقسم يبدأ في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "نقطة دمج قادمة."
+        },
+        {
+          "letter": "C",
+          "text": "الطريق ينقسم إلى طريقين."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "طريق مقسم يبدأ في الأمام.",
+      "explanation": "هذه العلامة تحذر من أن الطريق في الأمام يصبح طريق مقسم به وسط فاصل. حافظ على الجانب الأيمن من الفاصل."
+    },
+    {
+      "questionNumber": 35,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "تل شديد الانحدار في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "مطب سرعة قادم."
+        },
+        {
+          "letter": "C",
+          "text": "الطريق غير متساوٍ."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "تل شديد الانحدار في الأمام.",
+      "explanation": "هذه العلامة تحذر من وجود منحدر حاد في الأمام. قد تحتاج إلى التحول إلى غيار أقل واستخدام الفرامل بحذر عند النزول."
+    },
+    {
+      "questionNumber": 36,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/slippery-when-wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "الطريق قد يكون زلقاً عندما يكون رطباً."
+        },
+        {
+          "letter": "B",
+          "text": "الطريق به عدة منحنيات."
+        },
+        {
+          "letter": "C",
+          "text": "جليد على الطريق في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "الطريق قد يكون زلقاً عندما يكون رطباً.",
+      "explanation": "هذه العلامة تحذر من أن الطريق يصبح زلقاً عندما يكون رطباً. قلل السرعة وتجنب الفرملة أو الانعطاف المفاجئ في الظروف الرطبة."
+    },
+    {
+      "questionNumber": 37,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/deer-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "الغزلان قد تعبر الطريق في هذه المنطقة."
+        },
+        {
+          "letter": "B",
+          "text": "حديقة حيوانات قريبة."
+        },
+        {
+          "letter": "C",
+          "text": "الصيد مسموح به بالقرب من هنا."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "الغزلان قد تعبر الطريق في هذه المنطقة.",
+      "explanation": "هذه العلامة تحذر من أن الغزلان غالباً ما تعبر الطريق في هذه المنطقة. انتبه للغزلان، خاصة عند الفجر والغسق."
+    },
+    {
+      "questionNumber": 38,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/cattle-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "قد تعبر الماشية الطريق في هذه المنطقة."
+        },
+        {
+          "letter": "B",
+          "text": "مزرعة قريبة."
+        },
+        {
+          "letter": "C",
+          "text": "منطقة حفل الفروسية في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "قد تعبر الماشية الطريق في هذه المنطقة.",
+      "explanation": "هذه العلامة تحذر من أن الماشية أو حيوانات أخرى قد تعبر الطريق. قلل السرعة وكن مستعداً للتوقف للحيوانات."
+    },
+    {
+      "questionNumber": 39,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/farm-machinery-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "قد تعبر الآليات الزراعية الطريق أو تستخدمه."
+        },
+        {
+          "letter": "B",
+          "text": "سوق مزرعة في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "الشاحنات الثقيلة تستخدم هذا الطريق."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "قد تعبر الآليات الزراعية الطريق أو تستخدمه.",
+      "explanation": "هذه العلامة تحذر من أن المعدات الزراعية البطيئة الحركة قد تكون على الطريق أو تعبره. كن صبوراً وتجاوز فقط عندما يكون آمناً."
+    },
+    {
+      "questionNumber": 40,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/truck-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "قد تكون الشاحنات تدخل أو تعبر الطريق."
+        },
+        {
+          "letter": "B",
+          "text": "محطة شاحنات في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "يجب على الشاحنات استخدام المسار الأيمن."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "قد تكون الشاحنات تدخل أو تعبر الطريق.",
+      "explanation": "هذه العلامة تحذر من أن الشاحنات تدخل أو تعبر الطريق بشكل متكرر في هذا الموقع. انتبه للمركبات الكبيرة."
+    },
+    {
+      "questionNumber": 41,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/snow-mobile-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "قد تعبر الدراجات الثلجية الطريق في هذه المنطقة."
+        },
+        {
+          "letter": "B",
+          "text": "منتجع تزلج قريب."
+        },
+        {
+          "letter": "C",
+          "text": "قد يكون الطريق مغطى بالثلج."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "قد تعبر الدراجات الثلجية الطريق في هذه المنطقة.",
+      "explanation": "تحذر هذه العلامة من أن الدراجات الثلجية تعبر الطريق بشكل متكرر في هذه المنطقة. كن منتبهاً للدراجات الثلجية، خاصة في فصل الشتاء."
+    },
+    {
+      "questionNumber": 42,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/fire-station.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "محطة إطفاء قريبة من الطريق. انتبه لشاحنات الإطفاء."
+        },
+        {
+          "letter": "B",
+          "text": "صنبور حريق قريب."
+        },
+        {
+          "letter": "C",
+          "text": "منطقة الحرائق المخيمة في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "محطة إطفاء قريبة من الطريق. انتبه لشاحنات الإطفاء.",
+      "explanation": "تحذر هذه العلامة من أن محطة الإطفاء قريبة من الطريق. انتبه لشاحنات الإطفاء التي قد تدخل الطريق فجأة. استسلم دائماً لمركبات الطوارئ."
+    },
+    {
+      "questionNumber": 43,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/warning-signs/traffic-laws-enforced-by-cam.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يتم تطبيق قوانين المرور بواسطة الكاميرا في هذه المنطقة."
+        },
+        {
+          "letter": "B",
+          "text": "مطب سرعة قادم."
+        },
+        {
+          "letter": "C",
+          "text": "كشك رسوم مع كاميرات في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "يتم تطبيق قوانين المرور بواسطة الكاميرا في هذه المنطقة.",
+      "explanation": "تخبرك هذه العلامة بأن الكاميرات تُستخدم لتطبيق قوانين المرور في هذه المنطقة. اتبع جميع قوانين المرور، بما فيها حدود السرعة والإشارات الحمراء."
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "state": "Connecticut",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #2",
+  "slug": "intermediate-practice-test-2",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1984",
+      "question": "차선을 바꿀 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "백미러에 의존하세요."
+        },
+        {
+          "letter": "B",
+          "text": "이동하려는 방향으로 어깨를 넘어 보세요."
+        },
+        {
+          "letter": "C",
+          "text": "좌측 미러에 의존하세요."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "이동하려는 방향으로 어깨를 넘어 보세요.",
+      "explanation": "차선을 변경할 때 어깨를 넘어 사각지대의 교통을 확인하기 위해 살짝 보세요. 차선을 변경하기 전에 여러 번 보아야 할 수도 있습니다. 앞의 교통뿐만 아니라 옆 차선의 교통이 무엇을 하고 있는지 추적해야 합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "58",
+      "question": "사각지대에 대한 다음 진술 중 어느 것이 참입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량의 각 측면에 외부 거울이 하나씩 있으면 제거됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "대형 트럭은 대부분의 승용차보다 더 큰 사각지대를 가지고 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "사각지대는 백미러를 보면 확인할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "대형 트럭은 대부분의 승용차보다 더 큰 사각지대를 가지고 있습니다.",
+      "explanation": "사각지대는 거울을 볼 때 운전자가 볼 수 없는 영역입니다. 큰 트럭은 다른 차량의 운전자가 피해야 할 큰 사각지대를 가지고 있습니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "773",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/slow_moving_vehicle.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "저속 주행 차량."
+        },
+        {
+          "letter": "B",
+          "text": "도로 공사/유지보수 구간."
+        },
+        {
+          "letter": "C",
+          "text": "신호등이 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "저속 주행 차량.",
+      "explanation": "이 표지판은 저속 이동 차량에 표시됩니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "2110",
+      "question": "이 표지판은 다음을 나타냅니다:",
+      "image": "/images/signs/district-of-columbia-railroad_crossing_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "철도 건널목."
+        },
+        {
+          "letter": "B",
+          "text": "보행자 횡단."
+        },
+        {
+          "letter": "C",
+          "text": "추월 금지 구간."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "철도 건널목.",
+      "explanation": "검은색 표시가 있는 노란색 표지판은 운전자에게 예정된 위험이나 특수한 상황에 대해 경고하는 데 사용됩니다. 원형 표지판은 예정된 철도 건넘이에 대해서만 경고하는 데 사용됩니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1909",
+      "question": "점멸하는 빨강색 신호등으로 제어되는 교차로에 접근할 때 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "완전히 정지하고, 맞은편 교통 또는 보행자에게 양보한 후 진행하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "속도를 낮추고 주의해서 진행하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "완전히 정지하고 신호등이 빨간색인 동안 정지된 상태를 유지하십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "완전히 정지하고, 맞은편 교통 또는 보행자에게 양보한 후 진행하십시오.",
+      "explanation": "점멸하는 빨강색 신호등을 정지 표지판과 동일하게 처리하십시오. 완전히 정지하고, 맞은편 교통 또는 보행자에게 양보하고, 길이 명확할 때 진행하십시오."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1269",
+      "question": "대형 상용차 근처에서 운전할 때는 어떻게 해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량의 풍저항을 줄이기 위해 대형 차량을 밀착 추종하세요."
+        },
+        {
+          "letter": "B",
+          "text": "오랜 시간 동안 옆에서 운전하는 것을 피하세요."
+        },
+        {
+          "letter": "C",
+          "text": "곡선과 언덕에서는 우측에서 운전하세요."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "오랜 시간 동안 옆에서 운전하는 것을 피하세요.",
+      "explanation": "대형 상용차는 양쪽에 큰 사각지대가 있으므로 오랫동안 옆에서 운전하는 것을 피해야 합니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "61",
+      "question": "당신은 합법적으로 교차로를 막을 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "초록불에서 교차로에 진입했으면."
+        },
+        {
+          "letter": "B",
+          "text": "러시아워 교통 중에."
+        },
+        {
+          "letter": "C",
+          "text": "어떤 경우에도 불가능합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "어떤 경우에도 불가능합니다.",
+      "explanation": "신호등이 초록색이어도 불이 빨간색으로 바뀌기 전에 완전히 건널 수 없으면 교차로에 진입할 수 없습니다. 교차로를 막으면 신고를 받을 수 있습니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1789",
+      "question": "알코올이 가장 먼저 영향을 미치는 것은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "시력."
+        },
+        {
+          "letter": "B",
+          "text": "판단력."
+        },
+        {
+          "letter": "C",
+          "text": "균형."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "판단력.",
+      "explanation": "알코올은 안전하게 운전하기 위해 필요한 모든 중요한 능력을 감소시킵니다. 알코올은 위에서 혈액으로, 그 다음 혈액에서 신체의 다른 모든 부분으로 이동합니다. 알코올은 판단력과 기술을 조절하는 뇌 영역에 영향을 미칩니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "983",
+      "question": "모든 농도의 알코올은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "자극제."
+        },
+        {
+          "letter": "B",
+          "text": "중추신경억제제."
+        },
+        {
+          "letter": "C",
+          "text": "위의 어느 것도 아닙니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "중추신경억제제.",
+      "explanation": "모든 농도의 알코올은 중추신경억제제입니다. 모든 신경 임펄스와 신체 기능을 둔화시켜 억제 감소 및 집중력과 경각심 유지 능력에 부정적인 영향을 미칩니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1760",
+      "question": "운전면허를 소유한 지 6개월이 지난 후 다음 중 누가 운전 중 차량에 탈 수 없습니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18세 친구"
+        },
+        {
+          "letter": "B",
+          "text": "부모님"
+        },
+        {
+          "letter": "C",
+          "text": "더 어린 형제"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "18세 친구",
+      "explanation": "운전면허를 취득한 처음 6개월 동안, 신규 면허자는 운전 강사, 부모 또는 보호자, 또는 특정 면허 제한이 있는 20세 이상의 사람과만 함께 차량에 탈 수 있습니다. 다음 6개월 동안, 차량에 탈 수 있는 유일한 추가 승객은 운전자의 직계가족 구성원입니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1215",
+      "question": "혈중 알코올 농도 0.02 퍼센트:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "당신의 운전에 영향을 미치지 않을 것입니다."
+        },
+        {
+          "letter": "B",
+          "text": "다른 운전자에게 위험을 주지 않을 것입니다."
+        },
+        {
+          "letter": "C",
+          "text": "사고의 가능성을 두 배로 늘릴 것입니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "사고의 가능성을 두 배로 늘릴 것입니다.",
+      "explanation": "혈중 알코올 농도가 0.02 퍼센트 증가할 때마다 운전자가 치명적인 충돌에 휘말릴 위험이 거의 두 배가 됩니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1816",
+      "question": "실선 옆의 깨진 노란색 선은 다음을 나타냅니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "실선 노란색 옆 차선에서 통과가 허용됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "양쪽 방향 모두에서 추월이 허용되지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "깨진 노란색 선 옆 차선에서 통과가 허용됩니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "깨진 노란색 선 옆 차선에서 통과가 허용됩니다.",
+      "explanation": "실선 옆의 깨진 노란색 선은 깨진 선 옆의 차선의 교통이 통과할 수 있지만 실선 옆의 차선의 교통은 통과할 수 없음을 의미합니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1980",
+      "question": "학교 버스가 당신의 도로 쪽에서 빨간 불이 깜박이며 정차해 있을 때 당신은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "시속 10 mph 이상의 속도로 감속하세요."
+        },
+        {
+          "letter": "B",
+          "text": "불이 깜박이지 않을 때까지 정차하세요."
+        },
+        {
+          "letter": "C",
+          "text": "차선을 변경하고 조심스럽게 추월하세요."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "불이 깜박이지 않을 때까지 정차하세요.",
+      "explanation": "학교 버스의 깜박이는 오버헤드 조명과 정지 팔은 버스가 학생을 태우거나 내릴 때 활성화됩니다. 이 신호를 사용하는 버스에 접근할 때 빨간 불이 깜박이지 않고 정지 팔이 수축될 때까지 진행할 수 없습니다. 학생을 태우거나 내리는 학교 버스를 절대 추월하지 마세요."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1770",
+      "question": "날씨나 조명 상태로 인해 운전 중 라이트를 켜야 하는 경우:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주차 라이트를 사용합니다."
+        },
+        {
+          "letter": "B",
+          "text": "상향 라이트를 사용하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "하향 라이트를 사용하십시오."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "하향 라이트를 사용하십시오.",
+      "explanation": "안개, 눈, 또는 비오는 상태에서 운전할 때 하향 헤드라이트를 사용하십시오. 상향 헤드라이트의 빛은 반사되어 눈부심을 유발하고 전방 시야를 더욱 어렵게 합니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1948",
+      "question": "모든 모서리에 정지 표지판이 있는 교차로에서 다음 운전자에게 통행권을 양보하세요:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "당신의 왼쪽에."
+        },
+        {
+          "letter": "B",
+          "text": "당신보다 먼저 도착한 사람."
+        },
+        {
+          "letter": "C",
+          "text": "당신의 차량 맞은편."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "당신보다 먼저 도착한 사람.",
+      "explanation": "완전히 정지한 후 차량은 교차로에 도착한 순서대로 4방향 정지를 통과해야 합니다. 여러 차량이 동시에 도착한 경우 왼쪽의 차량은 오른쪽 차량에 통행권을 양보해야 합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "39",
+      "question": "도로변에 주차된 후 교통에 진입할 때 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 교통보다 200피트 동안 더 천천히 운전해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량이 교통 속도에 도달할 수 있을 만큼 충분한 간격이 생길 때까지 기다려야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "처음 두 대의 차량이 지나갈 때까지 기다린 후 차선으로 진입해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "차량이 교통 속도에 도달할 수 있을 만큼 충분한 간격이 생길 때까지 기다려야 합니다.",
+      "explanation": "도시 또는 고속도로 교통에 진입할 때마다 차량이 다른 교통 속도에 도달할 수 있을 만큼 충분한 간격이 생길 때까지 기다려야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "105",
+      "question": "교통 흐름보다 더 느리게 운전하면 가능성이 높습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교통을 방해하고 티켓을 받으세요."
+        },
+        {
+          "letter": "B",
+          "text": "교통 흐름을 개선하세요."
+        },
+        {
+          "letter": "C",
+          "text": "방어적 운전 기법을 시연하세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "교통을 방해하고 티켓을 받으세요.",
+      "explanation": "교통이 많거나 악천후일 때는 평소보다 더 느리게 운전해야 합니다. 그러나 너무 느리게 운전하여 교통의 정상적이고 합리적인 흐름을 방해하면 인용될 수 있습니다. 교통 속도가 법적 속도 제한을 초과하지 않는 한 교통 속도와 일치해야 합니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1252",
+      "question": "초록색 화살표가 있는 빨간 신호등에서 멈춰 있을 때, 다음의 경우 화살표 방향으로 진행할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "먼저 완전히 멈춘다."
+        },
+        {
+          "letter": "B",
+          "text": "신호등이 바뀔 때까지 기다립니다."
+        },
+        {
+          "letter": "C",
+          "text": "올바른 차선에 있고 교차로가 맑을 때."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "올바른 차선에 있고 교차로가 맑을 때.",
+      "explanation": "초록색 화살표 신호가 가리키는 방향으로 진행할 수 있습니다. 표시되는 다른 신호와 관계없이 올바른 차선에 있으면 됩니다. 좌회전하기 전에 이미 교차로 내에 있는 보행자와 차량에 통행권을 양보해야 합니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "880",
+      "question": "중앙선 당신 쪽의 노란 실선은 다음을 의미합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "속도를 줄입니다."
+        },
+        {
+          "letter": "B",
+          "text": "신호등이 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "추월 금지."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "추월 금지.",
+      "explanation": "2차선 도로의 노란 실선은 추월 금지 구간을 나타냅니다. 노란 실선 옆에 끊어진 노란 선이 있으면, 노란 실선에 가까운 차선의 운전자는 추월할 수 없습니다. 경우에 따라 두 노란 선이 모두 실선일 수 있으며, 이는 어느 방향에서든 추월이 안전하지 않음을 나타냅니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1456",
+      "question": "신호등이나 표지판에서 차량을 멈추기 전에 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "가속 페달을 힘껏 누르세요."
+        },
+        {
+          "letter": "B",
+          "text": "주변 교통에 대해 미러를 확인하세요."
+        },
+        {
+          "letter": "C",
+          "text": "주차 브레이크를 설정하세요."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "주변 교통에 대해 미러를 확인하세요.",
+      "explanation": "도로에서 차량을 정지할 때 먼저 미러를 확인하여 교통을 살펴보세요. 가속 페달을 놓고 차량이 느려질 때 주변 운전자를 인식하세요. 발을 브레이크 페달로 옮기고 부드러운 정지를 위해 일정한 압력으로 누르세요."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1010",
+      "question": "고속도로에서 차량이 고장나면 어떻게 해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우측 차선에 정차하세요."
+        },
+        {
+          "letter": "B",
+          "text": "가능하면 4개의 바퀴 모두를 도로 밖에 주차하세요."
+        },
+        {
+          "letter": "C",
+          "text": "현재 위치에서 정지합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "가능하면 4개의 바퀴 모두를 도로 밖에 주차하세요.",
+      "explanation": "차량이 고장나면 가능한 한 4개의 바퀴 모두를 주행 도로 밖에 주차해야 합니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1007",
+      "question": "여러 잔의 맥주를 마신 경우, 알코올의 영향은 다음에 의해서만 감소합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "찬 샤워를 하는 것입니다."
+        },
+        {
+          "letter": "B",
+          "text": "여러 시간을 기다리는 것입니다."
+        },
+        {
+          "letter": "C",
+          "text": "여러 잔의 커피를 마시는 것입니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "여러 시간을 기다리는 것입니다.",
+      "explanation": "알코올의 손상 효과를 제거하는 유일한 방법은 신체가 체내에서 제거할 수 있도록 시간을 주는 것입니다. 커피를 마시거나, 신체 활동을 하거나, 찬 샤워를 하는 것은 이 과정을 빠르게 하지 않습니다. 한 잔의 음료의 영향을 취소하는 데 약 1시간이 걸립니다."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "9",
+      "question": "도시 도로에서 운전 중이고 뒤에서 깜박이는 불이 있는 응급 차량을 봅니다. 무엇을 해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로의 오른쪽 가장자리로 운전하여 속도를 줄입니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로의 오른쪽 가장자리로 운전하여 정지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "차선에 머물러 속도를 줄이고 통과하도록 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "도로의 오른쪽 가장자리로 운전하여 정지합니다.",
+      "explanation": "사이렌과 불이 켜진 모든 응급 차량에 우선 통행권을 양보해야 합니다. 도로의 오른쪽 가장자리로 운전하여 응급 차량이 지나갈 때까지 정지하십시오. 교차로 내에 있는 경우 먼저 교차로를 통과한 다음 정지하십시오."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1940",
+      "question": "기차가 지나간 후 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "신호등 깜박임이 멈출 때까지 기다립니다."
+        },
+        {
+          "letter": "B",
+          "text": "두 번째 기차를 찾아봅니다."
+        },
+        {
+          "letter": "C",
+          "text": "위의 둘 다입니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "위의 둘 다입니다.",
+      "explanation": "기차가 지나간 후에도 모든 선로에 접근하는 두 번째 기차를 주의하십시오. 모든 차단기가 올려지고 모든 경고 신호가 깜박이기를 멈출 때까지 진행하지 마십시오."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1308",
+      "question": "차선을 변경할 때 사각지대는 다음을 통해 확인할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "실내 후방 미러 사용하기."
+        },
+        {
+          "letter": "B",
+          "text": "머리를 돌려 어깨 너머를 보기."
+        },
+        {
+          "letter": "C",
+          "text": "측면 미러 사용하기."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "머리를 돌려 어깨 너머를 보기.",
+      "explanation": "차량이 미러를 적절히 갖추고 있더라도 미러를 사용하여 볼 수 없는 사각지대가 있습니다. 차선을 변경하기 전에 어깨 너머를 보아 이러한 영역을 확인하세요."
+    }
+  ]
+}

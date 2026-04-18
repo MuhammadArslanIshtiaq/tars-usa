@@ -1,0 +1,483 @@
+{
+  "state": "Oklahoma",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #1",
+  "slug": "intermediate-practice-test-1",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1116",
+      "question": "If your vehicle starts to skid, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Release the gas pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Brake as hard as you can."
+        },
+        {
+          "letter": "C",
+          "text": "Turn off the engine."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Release the gas pedal.",
+      "explanation": "If your vehicle skids, release the gas or brake pedal to help regain control. Steer in the direction of the skid to straighten the vehicle."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "1264",
+      "question": "Your speed does not affect how far your vehicle travels after you brake.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "TRUE"
+        },
+        {
+          "letter": "B",
+          "text": "FALSE"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "FALSE",
+      "explanation": "Speed affects braking distance. As you drive faster, it takes longer and farther for your vehicle to stop. Always stay far behind the vehicle in front of you."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1039",
+      "question": "When a school bus has red lights flashing, you must stay stopped until:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All students have left the bus."
+        },
+        {
+          "letter": "B",
+          "text": "The stop arm is pulled in."
+        },
+        {
+          "letter": "C",
+          "text": "The stop arm is pulled in and the bus starts moving."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The stop arm is pulled in and the bus starts moving.",
+      "explanation": "When a school bus has red lights flashing and its stop arm out, you must stop completely. Stay stopped until the lights turn off, the stop arm is pulled in, and the bus moves again."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "2896",
+      "question": "In bad weather, what following distance should you use?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four seconds."
+        },
+        {
+          "letter": "B",
+          "text": "Three seconds."
+        },
+        {
+          "letter": "C",
+          "text": "Two seconds."
+        },
+        {
+          "letter": "D",
+          "text": "One second."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Four seconds.",
+      "explanation": "More distance between vehicles gives you more time to react. In poor weather or heavy traffic, keep at least four seconds between your vehicle and the one ahead."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "2324",
+      "question": "What do round signs mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No passing zones."
+        },
+        {
+          "letter": "B",
+          "text": "School zones."
+        },
+        {
+          "letter": "C",
+          "text": "Railroad crossing ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Hospitals."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Railroad crossing ahead.",
+      "explanation": "Round signs warn you of a railroad crossing. Be extra careful and watch for trains when you see this sign."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1022",
+      "question": "What is the amount of alcohol in your blood called?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Implied consent (IC)."
+        },
+        {
+          "letter": "B",
+          "text": "Blood alcohol concentration (BAC)."
+        },
+        {
+          "letter": "C",
+          "text": "Rate of alcohol consumption (RAC)."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Blood alcohol concentration (BAC).",
+      "explanation": "Blood alcohol concentration (BAC) measures the percentage of alcohol in your blood. A higher BAC means you are more impaired."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1984",
+      "question": "When changing lanes, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use only the rearview mirror."
+        },
+        {
+          "letter": "B",
+          "text": "Look over your shoulder toward where you want to go."
+        },
+        {
+          "letter": "C",
+          "text": "Use only the left side mirror."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Look over your shoulder toward where you want to go.",
+      "explanation": "Look over your shoulder to check the blind spot before changing lanes. Check several times and watch both the traffic ahead and beside you."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "521",
+      "question": "If you stop on the road at night, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn off all lights."
+        },
+        {
+          "letter": "B",
+          "text": "Use only parking lights."
+        },
+        {
+          "letter": "C",
+          "text": "Use only headlights."
+        },
+        {
+          "letter": "D",
+          "text": "Turn on emergency flashers and keep low beams on."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Turn on emergency flashers and keep low beams on.",
+      "explanation": "Turn on emergency flashers and keep your low beam headlights on. This makes sure other drivers can clearly see your vehicle."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "584",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/divided_highway_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do not pass."
+        },
+        {
+          "letter": "B",
+          "text": "Do not enter."
+        },
+        {
+          "letter": "C",
+          "text": "No turn on red."
+        },
+        {
+          "letter": "D",
+          "text": "Keep right."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Keep right.",
+      "explanation": "This sign warns that a divided highway is ahead. The road splits into two separate one-way roads. Stay in the right lane."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "2881",
+      "question": "After a collision, what should you do with injured people?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Move them far away from the road."
+        },
+        {
+          "letter": "B",
+          "text": "Move them where they want to go."
+        },
+        {
+          "letter": "C",
+          "text": "Tell them they are fine without medical help."
+        },
+        {
+          "letter": "D",
+          "text": "Do not move them unless absolutely necessary."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Do not move them unless absolutely necessary.",
+      "explanation": "Moving injured people can cause more harm. Only move them if there is immediate danger, such as fire. Keep them sitting or lying down until medical help arrives."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "165",
+      "question": "When a school bus stops ahead to pick up or drop off children, what must you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop completely until all children have left the bus."
+        },
+        {
+          "letter": "B",
+          "text": "Stop completely until the red lights stop flashing and the stop arm is pulled in."
+        },
+        {
+          "letter": "C",
+          "text": "Change lanes, drive slowly, and pass the bus carefully."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stop completely until the red lights stop flashing and the stop arm is pulled in.",
+      "explanation": "When a school bus stops with flashing lights and its stop arm out, you must stop completely. Wait until the lights stop flashing and the stop arm is pulled in before you move. Even after the bus starts moving, wait to make sure no children are crossing the road."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "400",
+      "question": "At a flashing red light, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop completely, then go when it is safe."
+        },
+        {
+          "letter": "B",
+          "text": "Stop only if other cars are coming to the intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Stop only if other cars are already in the intersection."
+        },
+        {
+          "letter": "D",
+          "text": "Slow down and be ready to stop if needed."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stop completely, then go when it is safe.",
+      "explanation": "A flashing red light means the same thing as a stop sign. You must stop, let other traffic go first, then go when it is safe."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1672",
+      "question": "Traffic signals sometimes show arrows to control turns from certain lanes. What does a green arrow mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is used only on one-way streets."
+        },
+        {
+          "letter": "B",
+          "text": "It means the same as a regular green light, but you must turn in the direction the arrow shows."
+        },
+        {
+          "letter": "C",
+          "text": "You may go only if the green arrow appears with a regular green light."
+        },
+        {
+          "letter": "D",
+          "text": "It points the way to an airport."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "It means the same as a regular green light, but you must turn in the direction the arrow shows.",
+      "explanation": "A green arrow means the same as a regular green light. Traffic in that lane must turn in the direction shown by the arrow."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1405",
+      "question": "How fast should you always drive?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At the same speed as the cars around you."
+        },
+        {
+          "letter": "B",
+          "text": "At the speed limit."
+        },
+        {
+          "letter": "C",
+          "text": "At a speed that fits the road and weather conditions."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "At a speed that fits the road and weather conditions.",
+      "explanation": "Your speed should match the road conditions, weather, and the legal speed limit. Never drive faster than the speed limit. Slow down when conditions are not ideal."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1265",
+      "question": "Hydroplaning happens when tires ride on water instead of the road. How do you prevent it in wet weather?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use cruise control to keep a steady speed."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down."
+        },
+        {
+          "letter": "C",
+          "text": "Move to the shoulder as soon as it rains."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Slow down.",
+      "explanation": "Hydroplaning happens when you drive too fast on wet roads. Slow down when the pavement is wet to prevent hydroplaning."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1892",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/divided_highway_begins.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A divided highway is ending ahead."
+        },
+        {
+          "letter": "B",
+          "text": "A divided highway is starting ahead."
+        },
+        {
+          "letter": "C",
+          "text": "The road will be slippery ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "A divided highway is starting ahead.",
+      "explanation": "This sign shows that a divided highway is starting ahead. Stay to the right of the center divider."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "2112",
+      "question": "When changing lanes on a highway, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Signal before you change lanes."
+        },
+        {
+          "letter": "B",
+          "text": "Check your rearview and side mirrors."
+        },
+        {
+          "letter": "C",
+          "text": "Look over your shoulder to check your blind spot."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "When changing lanes, signal ahead of time, check your mirrors, and look over your shoulder to check your blind spot. Do all three things."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "257",
+      "question": "You may pass another vehicle if the line between your lane and the lane you want to enter is a ____ line.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Broken white"
+        },
+        {
+          "letter": "B",
+          "text": "Double solid yellow"
+        },
+        {
+          "letter": "C",
+          "text": "Solid yellow"
+        },
+        {
+          "letter": "D",
+          "text": "Solid white"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Broken white",
+      "explanation": "White lines separate lanes going in the same direction. You may cross broken white lines to pass if the passing lane is clear."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "40",
+      "question": "When passing another vehicle, when is it safe to return to your lane?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When you cannot see the vehicle directly to your right."
+        },
+        {
+          "letter": "B",
+          "text": "When you see the vehicle's headlights in your rearview mirror."
+        },
+        {
+          "letter": "C",
+          "text": "When you have passed the vehicle's front bumper."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When you see the vehicle's headlights in your rearview mirror.",
+      "explanation": "Before returning to your lane after passing, make sure you are far enough from the vehicle you passed. When you can see both headlights in your rearview mirror, you have enough space to move back."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1269",
+      "question": "When driving near a large truck, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Follow the truck closely to reduce wind drag on your car."
+        },
+        {
+          "letter": "B",
+          "text": "Avoid driving next to it for long periods of time."
+        },
+        {
+          "letter": "C",
+          "text": "Drive on its right side on curves and hills."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Avoid driving next to it for long periods of time.",
+      "explanation": "Large trucks have large blind spots on each side. Do not drive beside them for long periods of time."
+    }
+  ]
+}

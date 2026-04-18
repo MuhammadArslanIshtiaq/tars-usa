@@ -1,0 +1,526 @@
+{
+  "state": "North Dakota",
+  "category": "cdl",
+  "testName": "Passenger Test #1 20 Questions • Passing Score 16",
+  "testSlug": "passenger-1",
+  "url": "/images/north-dakota/cdl/passenger-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8871",
+      "question": "什么是摇摆装置（wig wag）？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一种警告系统"
+        },
+        {
+          "letter": "B",
+          "text": "用于将空气从压缩机输送到储气罐的管道"
+        },
+        {
+          "letter": "C",
+          "text": "使用空气制动时发出的噪音"
+        },
+        {
+          "letter": "D",
+          "text": "制动装置内的一个零件，允许空气自由流动"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "一种警告系统",
+      "explanation": "摇摆装置（wig wag）是空气制动系统中的一种低空气压力警告装置。当储气罐中的空气压力降至60 psi以下时，它会将机械臂放入驾驶员的视野中。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11708",
+      "question": "双空气制动系统中的两个系统共享：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "空气储罐"
+        },
+        {
+          "letter": "B",
+          "text": "软管"
+        },
+        {
+          "letter": "C",
+          "text": "气管"
+        },
+        {
+          "letter": "D",
+          "text": "空气压缩机。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "空气压缩机。",
+      "explanation": "双空气制动系统中的两个系统共享单个空气压缩机。如果空气压缩机损坏，两个系统都将无法正常运行。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10235",
+      "question": "制动力衰退是以下原因造成的：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "暴露在阳光下。"
+        },
+        {
+          "letter": "B",
+          "text": "暴露在潮湿环境中。"
+        },
+        {
+          "letter": "C",
+          "text": "过度使用。"
+        },
+        {
+          "letter": "D",
+          "text": "未充分使用制动器。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "过度使用。",
+      "explanation": "如果制动器使用过度，它们将过热并变得效能降低。这称为制动衰退。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8875",
+      "question": "弹簧制动器启动：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "当损失过多空气压力时。"
+        },
+        {
+          "letter": "B",
+          "text": "当仪表板上的控制装置被激活时。"
+        },
+        {
+          "letter": "C",
+          "text": "当轮胎胎面深度最小时。"
+        },
+        {
+          "letter": "D",
+          "text": "当制动器噪音很大时。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "当损失过多空气压力时。",
+      "explanation": "当空气压力下降到不安全的 psi 水平时，弹簧制动器会自动启动。与其等待弹簧制动器自动激活，你应该在注意到低压警告信号后立即安全地驶离道路，并在仍然能够控制制动器的情况下停车。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10224",
+      "question": "在乘客在车上时加油：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在长途旅行中是被鼓励的。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在绝对必要时才应进行。"
+        },
+        {
+          "letter": "C",
+          "text": "只要乘客留在巴士内，就不是问题。"
+        },
+        {
+          "letter": "D",
+          "text": "应进行此操作以向乘客表明有足够的燃油到达下一站。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "仅在绝对必要时才应进行。",
+      "explanation": "除非绝对必要，否则不应在乘客在车上时为巴士加油。特别是，切勿在封闭建筑物内为载有乘客的巴士加油。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11253",
+      "question": "驾驶时，驾驶员应该始终：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "留在右侧车道。"
+        },
+        {
+          "letter": "B",
+          "text": "制定应急计划。"
+        },
+        {
+          "letter": "C",
+          "text": "保持在左车道。"
+        },
+        {
+          "letter": "D",
+          "text": "以超过规定速度限制的速度行驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "制定应急计划。",
+      "explanation": "驾驶时，你应该不断扫视道路以提前发现潜在危险。为如果危险变得严重而制定应急计划。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8850",
+      "question": "您在哪里可以找到轮胎载重等级？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在驾驶员车门的内侧"
+        },
+        {
+          "letter": "B",
+          "text": "在仪表板上"
+        },
+        {
+          "letter": "C",
+          "text": "在每个轮胎的侧面"
+        },
+        {
+          "letter": "D",
+          "text": "在引擎盖下"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在每个轮胎的侧面",
+      "explanation": "轮胎载重等级是在指定压力下轮胎可以安全承载的最大重量。这个数字标注在每个轮胎的侧面。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10213",
+      "question": "酒精从体内被清除：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "速率取决于体内酒精的量而变化。"
+        },
+        {
+          "letter": "B",
+          "text": "以一致的速率，无论体内有多少酒精。"
+        },
+        {
+          "letter": "C",
+          "text": "如果人喝咖啡会更快。"
+        },
+        {
+          "letter": "D",
+          "text": "如果该人保持清醒，速度会更快。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "以一致的速率，无论体内有多少酒精。",
+      "explanation": "肝脏以固定速率从体内清除酒精，不能通过常见的技巧（如喝咖啡或洗冷水澡）加速。酒精成醒后唯一的方法就是给你的身体足够的时间来处理体内的酒精。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8843",
+      "question": "如果卡车的防抱死制动系统(ABS)不工作：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "卡车将没有任何制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "卡车只应以低速行驶。"
+        },
+        {
+          "letter": "C",
+          "text": "卡车仍然会有制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "卡车的左侧将没有制动器。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "卡车仍然会有制动器。",
+      "explanation": "如果ABS系统失效，车辆仍然具有正常的制动功能。驾驶员应继续以正常方式驾驶和制动。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10978",
+      "question": "驾驶时，驾驶员应该始终：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "留在右侧车道。"
+        },
+        {
+          "letter": "B",
+          "text": "制定应急计划。"
+        },
+        {
+          "letter": "C",
+          "text": "保持在左车道。"
+        },
+        {
+          "letter": "D",
+          "text": "以超过速度限制的速度行驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "制定应急计划。",
+      "explanation": "驾驶时，你应该不断扫视道路以提前发现潜在危险。为如果危险变得严重而制定应急计划。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9082",
+      "question": "当其他车辆在黎明或黄昏时难以看到你时，你可以通过以下方式增加你的能见度：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "打开四闪灯。"
+        },
+        {
+          "letter": "B",
+          "text": "鸣喇叭。"
+        },
+        {
+          "letter": "C",
+          "text": "打开你的前灯。"
+        },
+        {
+          "letter": "D",
+          "text": "打开你的挡风玻璃雨刮器。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "打开你的前灯。",
+      "explanation": "在黎明或黄昏以及下雪或下雨的条件下，你应该打开车前灯，使其他道路使用者更容易看到你的车辆。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10782",
+      "question": "前轮主槽中的胎面深度应至少为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/32英寸。"
+        },
+        {
+          "letter": "B",
+          "text": "2/32英寸。"
+        },
+        {
+          "letter": "C",
+          "text": "4/32英寸。"
+        },
+        {
+          "letter": "D",
+          "text": "3/4英寸。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "4/32英寸。",
+      "explanation": "轮胎需要在前轮的每条主槽中至少有4/32英寸的胎面深度，在其他轮胎上至少有2/32英寸的胎面深度。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11666",
+      "question": "当您按下装有S凸轮制动器的车辆中的制动踏板时，空气压力会推出杆并移动：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "松弛调节器。"
+        },
+        {
+          "letter": "B",
+          "text": "车轴。"
+        },
+        {
+          "letter": "C",
+          "text": "制动鼓。"
+        },
+        {
+          "letter": "D",
+          "text": "酒精蒸发器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "松弛调节器。",
+      "explanation": "按下装有S凸轮制动器的车辆中的制动踏板时，空气会进入制动室。增加的空气压力将推出杆并移动松弛调节器，扭转制动凸轮轴。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8985",
+      "question": "储气罐：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅储存足够的空气用于一个制动周期。"
+        },
+        {
+          "letter": "B",
+          "text": "储存足够的空气，使制动器在压缩机停止工作的情况下可以使用多次。"
+        },
+        {
+          "letter": "C",
+          "text": "除非在紧急情况下，否则不储存空气。"
+        },
+        {
+          "letter": "D",
+          "text": "储存足够的空气以进行超过1,000次制动循环。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "储存足够的空气，使制动器在压缩机停止工作的情况下可以使用多次。",
+      "explanation": "在气压制动系统中，空气储存罐储存的空气足以在压缩机停止工作的情况下使制动器使用多次。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9166",
+      "question": "驾驶公交车前，您必须：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "审查其最近的检查报告。"
+        },
+        {
+          "letter": "B",
+          "text": "清洗外部。"
+        },
+        {
+          "letter": "C",
+          "text": "清洁内部。"
+        },
+        {
+          "letter": "D",
+          "text": "计算座位数。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "审查其最近的检查报告。",
+      "explanation": "公交车在驾驶前必须始终进行检查。检查过程必须包括对前一驾驶员进行的检查报告的审查。只有在检查报告中列出的缺陷已被证实已修复或不需要修复的情况下，您才应操作车辆。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10952",
+      "question": "如果驾驶时感到困倦，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "继续行驶并完成旅程。"
+        },
+        {
+          "letter": "B",
+          "text": "加快驾驶速度以更快地到达目的地。"
+        },
+        {
+          "letter": "C",
+          "text": "驶离路面并小睡一下。"
+        },
+        {
+          "letter": "D",
+          "text": "服用能量药丸。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "驶离路面并小睡一下。",
+      "explanation": "如果您在驾驶时开始感到困倦，唯一安全的做法是停止驾驶并睡觉。试图抵抗疲劳是危险的，也是致命事故的主要原因。刺激剂不是安全的解决方案，因为它们可能有助于保持清醒但不会使您更加警觉。一旦刺激剂消退，您会比原来更加疲劳。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9530",
+      "question": "普通驾驶员的平均反应时间是多少？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "十六分之一秒"
+        },
+        {
+          "letter": "B",
+          "text": "八分之一秒"
+        },
+        {
+          "letter": "C",
+          "text": "四分之三秒到一秒之间"
+        },
+        {
+          "letter": "D",
+          "text": "两秒钟"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "四分之三秒到一秒之间",
+      "explanation": "平均驾驶员的反应时间在四分之三秒到一秒之间。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11682",
+      "question": "在静态泄漏测试中，双组合车的最大泄漏率为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一分钟内3 psi。"
+        },
+        {
+          "letter": "B",
+          "text": "一分钟内6 psi。"
+        },
+        {
+          "letter": "C",
+          "text": "一分钟内8 psi。"
+        },
+        {
+          "letter": "D",
+          "text": "每分钟4 psi。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "一分钟内3 psi。",
+      "explanation": "在对装备气压制动的双组合车进行静态泄漏测试时，泄漏率在一分钟内应不超过3 psi。如果气压制动系统的气体泄漏速度更快，则不应驾驶车辆，因为可能需要进行维修。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9177",
+      "question": "行李和货物应该以以下方式存放：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "允许乘客在紧急情况下通过任何门或窗户出口。"
+        },
+        {
+          "letter": "B",
+          "text": "阻挡出口，如果至少还有另一个出口可供乘客使用。"
+        },
+        {
+          "letter": "C",
+          "text": "部分覆盖门，因为物品可以移开。"
+        },
+        {
+          "letter": "D",
+          "text": "允许货物在紧急情况下轻松卸载。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "允许乘客在紧急情况下通过任何门或窗户出口。",
+      "explanation": "在公交车上，所有行李和货物应该以允许驾驶员自由轻松地移动的方式存放；允许乘客在紧急情况下通过任何车窗或门出口；并保护乘客免受物品掉落或移位造成的伤害。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10002",
+      "question": "在凸面镜中，物体看起来比实际情况____。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "更大"
+        },
+        {
+          "letter": "B",
+          "text": "更小"
+        },
+        {
+          "letter": "C",
+          "text": "更近"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "更小",
+      "explanation": "凸面镜使物体看起来比实际情况更小和更远。"
+    }
+  ]
+}

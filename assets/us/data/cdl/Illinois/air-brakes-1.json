@@ -1,0 +1,660 @@
+{
+  "state": "Illinois",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/illinois/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11101",
+      "question": "Before driving a vehicle with a dual brake system, a driver should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Let the engine warm up so fuel reaches it."
+        },
+        {
+          "letter": "B",
+          "text": "Wait for air pressure to build in both systems."
+        },
+        {
+          "letter": "C",
+          "text": "Start driving right after the engine starts."
+        },
+        {
+          "letter": "D",
+          "text": "Pump the pedal about 20 times to build pressure, then drive."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Wait for air pressure to build in both systems.",
+      "explanation": "Before driving a vehicle with a dual air brake system, let the compressor build pressure to at least 100 psi in both systems."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10232",
+      "question": "An Anti-Lock Braking System (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shortens stopping distance."
+        },
+        {
+          "letter": "B",
+          "text": "Makes brakes respond faster."
+        },
+        {
+          "letter": "C",
+          "text": "Gives you less control."
+        },
+        {
+          "letter": "D",
+          "text": "Gives you more control."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Gives you more control.",
+      "explanation": "An Anti-Lock Braking System (ABS) prevents wheels from locking up during hard braking. This gives you better control. However, it does not always shorten stopping distance."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9006",
+      "question": "If the low pressure warning light comes on while driving:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You can only brake if there is enough air in the tanks."
+        },
+        {
+          "letter": "B",
+          "text": "You can brake 14 times before the air runs out."
+        },
+        {
+          "letter": "C",
+          "text": "Continue driving normally and check the brakes later."
+        },
+        {
+          "letter": "D",
+          "text": "Continue driving but turn on emergency flashers to warn others."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "You can only brake if there is enough air in the tanks.",
+      "explanation": "If the low air pressure warning light comes on, stop and park safely as soon as possible. You can only brake as long as enough air remains in the tanks."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8994",
+      "question": "All air tanks must have:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A drain valve."
+        },
+        {
+          "letter": "B",
+          "text": "A lock."
+        },
+        {
+          "letter": "C",
+          "text": "A trap door."
+        },
+        {
+          "letter": "D",
+          "text": "A warning sticker."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A drain valve.",
+      "explanation": "Air brake system tanks must have drain valves. These valves remove water and oil that build up in the tanks. They can be operated manually or automatically."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11289",
+      "question": "Air tank drains are used to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Let rain water enter the tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Remove water and oil from the tanks."
+        },
+        {
+          "letter": "C",
+          "text": "Never be opened."
+        },
+        {
+          "letter": "D",
+          "text": "Stay open while driving."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Remove water and oil from the tanks.",
+      "explanation": "Air storage tanks have drain valves to remove water and compressor oil. Water and oil can damage the brakes if they build up in the system."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11676",
+      "question": "How do you test the low pressure warning signal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Engage and disengage the parking brake."
+        },
+        {
+          "letter": "B",
+          "text": "Quickly press and release the brake pedal."
+        },
+        {
+          "letter": "C",
+          "text": "Open the rear shut-off valves."
+        },
+        {
+          "letter": "D",
+          "text": "Unplug and replug all glad hands."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Quickly press and release the brake pedal.",
+      "explanation": "Your low pressure warning light must work properly. After the system charges, test the warning signal by quickly pressing and releasing the brake pedal. This releases air from the system. The warning light should come on when pressure drops to a dangerous level."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10742",
+      "question": "Air pressure in a single air system should build up within:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 minutes."
+        },
+        {
+          "letter": "B",
+          "text": "12 minutes."
+        },
+        {
+          "letter": "C",
+          "text": "Three minutes."
+        },
+        {
+          "letter": "D",
+          "text": "One minute."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Three minutes.",
+      "explanation": "In a vehicle with a single air brake system, pressure should build from 50 to 90 psi within three minutes after the engine reaches operating speed."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11465",
+      "question": "For a double combination vehicle, the maximum air leakage during an applied leakage test is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi per minute."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi per minute."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi per minute."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi per minute."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4 psi per minute.",
+      "explanation": "Know the maximum safe air loss rate for your vehicle. A double combination vehicle should lose no more than 4 psi per minute during an applied leakage test."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11104",
+      "question": "The parking brake should be:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Used every time you park the vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "Used while driving."
+        },
+        {
+          "letter": "C",
+          "text": "Set only in bad weather."
+        },
+        {
+          "letter": "D",
+          "text": "Used to stop the vehicle during normal driving."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Used every time you park the vehicle.",
+      "explanation": "Apply the parking brake every time you park your vehicle."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10228",
+      "question": "Water and compressor oil in an air brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Are needed for the brakes to work properly."
+        },
+        {
+          "letter": "B",
+          "text": "Should be added if low."
+        },
+        {
+          "letter": "C",
+          "text": "Should be removed regularly."
+        },
+        {
+          "letter": "D",
+          "text": "Are not a problem."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Should be removed regularly.",
+      "explanation": "Compressed air in an air brake system usually contains water and compressor oil. Water and oil can damage the brakes if they build up. Open manual air tank drains daily to remove this buildup."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10363",
+      "question": "What does an Anti-Lock Braking System (ABS) do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It cannot work with air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "It should only be used on dry pavement."
+        },
+        {
+          "letter": "C",
+          "text": "It helps you keep control when braking."
+        },
+        {
+          "letter": "D",
+          "text": "It only works if all axles have ABS."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "It helps you keep control when braking.",
+      "explanation": "ABS works with air brakes. It helps keep your vehicle under control and stops wheels from locking up during hard braking on slippery surfaces. ABS can help even if only one axle has it."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11712",
+      "question": "What does a one-way check valve do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It drains water and oil from the air tanks."
+        },
+        {
+          "letter": "B",
+          "text": "It stops air from leaking out if the compressor breaks."
+        },
+        {
+          "letter": "C",
+          "text": "It activates emergency brakes when there is a leak."
+        },
+        {
+          "letter": "D",
+          "text": "It holds spring brakes in place until they are used."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "It stops air from leaking out if the compressor breaks.",
+      "explanation": "A one-way check valve sits between the air compressor and the first main tank. It prevents air from escaping the system if the compressor leaks."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8874",
+      "question": "If spring brakes are activated, what should you never do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Push down the brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Open the hood."
+        },
+        {
+          "letter": "C",
+          "text": "Release air from the air tanks."
+        },
+        {
+          "letter": "D",
+          "text": "Open the cab door."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Push down the brake pedal.",
+      "explanation": "Never push the brake pedal if your spring brakes are on. Using both springs and air pressure together can damage the brakes."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10231",
+      "question": "What does it mean if the ABS warning light comes on while driving?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The ABS is working correctly."
+        },
+        {
+          "letter": "B",
+          "text": "The ABS just started working."
+        },
+        {
+          "letter": "C",
+          "text": "The ABS is not working right."
+        },
+        {
+          "letter": "D",
+          "text": "The ABS needs to be turned on."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The ABS is not working right.",
+      "explanation": "Vehicles with ABS have yellow warning lights. When the light turns on, it means there is a problem with the braking system. You may have lost ABS on one or more wheels."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9007",
+      "question": "What can happen if you use the parking brake in wet weather when it is freezing?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The brakes will squeak."
+        },
+        {
+          "letter": "B",
+          "text": "The brakes may freeze and the vehicle cannot move."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes may suddenly release on their own."
+        },
+        {
+          "letter": "D",
+          "text": "The brakes may explode."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The brakes may freeze and the vehicle cannot move.",
+      "explanation": "Using the parking brake in wet, freezing weather can cause the brakes to freeze. This will prevent your vehicle from moving."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9003",
+      "question": "What should you do when using controlled braking in an emergency?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Press the brakes as hard as you can without locking the wheels."
+        },
+        {
+          "letter": "B",
+          "text": "Press the brakes with about half your normal force."
+        },
+        {
+          "letter": "C",
+          "text": "Press the brakes so hard the wheels lock."
+        },
+        {
+          "letter": "D",
+          "text": "Press the brakes with minimal pressure."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Press the brakes as hard as you can without locking the wheels.",
+      "explanation": "Controlled braking means pressing the brakes as hard as possible without locking the wheels. Keep steering movements small when braking this way."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8876",
+      "question": "What equipment must truck tractors with air brakes have if they were built after March 1, 1997?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An extra set of brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Voice-activated brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Cruise control."
+        },
+        {
+          "letter": "D",
+          "text": "Anti-Lock Braking Systems (ABS)."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Anti-Lock Braking Systems (ABS).",
+      "explanation": "Truck tractors with air brakes made after March 1, 1997 must have ABS. Other vehicles with air brakes made after March 1, 1998 must also have ABS."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8987",
+      "question": "What happens if air pressure gets too low in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The brakes will squeak."
+        },
+        {
+          "letter": "B",
+          "text": "The brakes may stop working."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes may work slowly."
+        },
+        {
+          "letter": "D",
+          "text": "The brakes will be very sensitive."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The brakes may stop working.",
+      "explanation": "If you press and release the brake pedal too many times, air escapes faster than the compressor can replace it. If air pressure gets too low, the brakes will not work."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10230",
+      "question": "Where are foundation brakes located?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only at the front wheels."
+        },
+        {
+          "letter": "B",
+          "text": "Only at the rear wheels."
+        },
+        {
+          "letter": "C",
+          "text": "Only at the driver's side wheels."
+        },
+        {
+          "letter": "D",
+          "text": "At each wheel."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "At each wheel.",
+      "explanation": "Foundation brakes are at each wheel. The most common type is the S-cam drum brake."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8985",
+      "question": "What do air storage tanks hold?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only enough air for one time braking."
+        },
+        {
+          "letter": "B",
+          "text": "Enough air to use the brakes several times if the compressor stops working."
+        },
+        {
+          "letter": "C",
+          "text": "Air only during an emergency."
+        },
+        {
+          "letter": "D",
+          "text": "Enough air for more than 1,000 braking cycles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Enough air to use the brakes several times if the compressor stops working.",
+      "explanation": "Air storage tanks hold enough air to use the brakes several times if the compressor stops working."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8993",
+      "question": "What is a dual air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One air brake system with two sets of controls."
+        },
+        {
+          "letter": "B",
+          "text": "One air brake system for each side of the truck."
+        },
+        {
+          "letter": "C",
+          "text": "Two brakes for each wheel."
+        },
+        {
+          "letter": "D",
+          "text": "Two separate air brake systems with one set of controls."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Two separate air brake systems with one set of controls.",
+      "explanation": "A dual air brake system has two separate air brake systems that work with one set of controls. One system controls the rear axle brakes. The other system controls the front axle brakes."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11720",
+      "question": "At 55 mph on dry pavement, how much does brake lag add to your stopping distance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "15 feet"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        },
+        {
+          "letter": "D",
+          "text": "10 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "Total stopping distance has four parts: how far you see ahead, how far you travel while reacting, brake lag distance, and braking distance. At 55 mph on dry pavement, brake lag adds about 32 feet to your total stopping distance."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11106",
+      "question": "How do you use the stab braking method?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Press the brakes hard until the wheels lock. Release until the wheels roll again. Repeat."
+        },
+        {
+          "letter": "B",
+          "text": "Press the brakes halfway and keep the wheels rolling."
+        },
+        {
+          "letter": "C",
+          "text": "Press the brakes hard until the wheels lock and the vehicle stops."
+        },
+        {
+          "letter": "D",
+          "text": "Use the emergency brake until the vehicle slows down."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Press the brakes hard until the wheels lock. Release until the wheels roll again. Repeat.",
+      "explanation": "Stab braking is an emergency stop method. Press the brakes fully until they lock up. Then release them until the wheels start rolling again. Repeat this process."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8884",
+      "question": "What causes brake fading?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brakes are not used often enough."
+        },
+        {
+          "letter": "B",
+          "text": "Brakes get too hot."
+        },
+        {
+          "letter": "C",
+          "text": "Brakes are too cold."
+        },
+        {
+          "letter": "D",
+          "text": "Brakes are wet."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Brakes get too hot.",
+      "explanation": "Using brakes too much causes them to overheat. When brakes overheat, they become less effective. This is called fading."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "9000",
+      "question": "How often should you drain manually operated air tank drains?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Every day"
+        },
+        {
+          "letter": "B",
+          "text": "Once a week"
+        },
+        {
+          "letter": "C",
+          "text": "Once a month"
+        },
+        {
+          "letter": "D",
+          "text": "Once every 3,000 miles"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Every day",
+      "explanation": "Drain manually operated air tank drains at the end of each driving day. This stops oil and water from building up in the air tanks."
+    }
+  ]
+}

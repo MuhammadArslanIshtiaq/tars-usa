@@ -1,0 +1,560 @@
+{
+  "state": "Michigan",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/michigan/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8759",
+      "question": "An application pressure gauge shows:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How much air pressure is being applied to the brakes."
+        },
+        {
+          "letter": "B",
+          "text": "How much air pressure is available."
+        },
+        {
+          "letter": "C",
+          "text": "How much air pressure is needed to stop a vehicle."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "How much air pressure is being applied to the brakes.",
+      "explanation": "An application pressure gauge shows how much air pressure is being applied to the brakes. This helps drivers know if their brakes are starting to fade."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11901",
+      "question": "The ____ are turned on by an electric switch that the brake pedal triggers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Headlights"
+        },
+        {
+          "letter": "B",
+          "text": "Turn signals"
+        },
+        {
+          "letter": "C",
+          "text": "Brake lights"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Brake lights",
+      "explanation": "Brake lights turn on when you press the brake pedal. The brake pedal pushes air pressure that moves an electric switch, which turns the brake lights on."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8638",
+      "question": "What should happen before the air pressure in an air brake system tank drops below 55 psi?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The warning light should turn on."
+        },
+        {
+          "letter": "B",
+          "text": "The vehicle will not shift out of gear."
+        },
+        {
+          "letter": "C",
+          "text": "The front lights should flash."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The warning light should turn on.",
+      "explanation": "The low air pressure warning light must turn on before the air pressure drops below 55 psi. If the warning light does not work during an inspection, the vehicle is not safe to drive."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11905",
+      "question": "When you need to stop in an emergency, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn your trailer to the right and stop."
+        },
+        {
+          "letter": "B",
+          "text": "Stop in a straight line."
+        },
+        {
+          "letter": "C",
+          "text": "Turn your trailer to the left and stop."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stop in a straight line.",
+      "explanation": "In an emergency stop, brake in a way that keeps your vehicle straight. You may need to turn, so make sure you can still control the steering while braking."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9892",
+      "question": "What kind of brakes do most new heavy-duty trucks use?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Single air brakes"
+        },
+        {
+          "letter": "B",
+          "text": "Dual air brakes"
+        },
+        {
+          "letter": "C",
+          "text": "Triple air brakes"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dual air brakes",
+      "explanation": "Most new heavy-duty trucks use dual air brake systems. This system has two separate air brake systems that share one set of brake controls."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11880",
+      "question": "Friction in an S-cam brake happens when the brake shoes and linings:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Press against the outside of the brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "Press against the inside of the brake drum."
+        },
+        {
+          "letter": "C",
+          "text": "Push against each other."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Press against the inside of the brake drum.",
+      "explanation": "Friction happens when brake shoes and linings push against the inside of the brake drum. This friction slows and stops the vehicle."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11879",
+      "question": "In S-cam brakes, rods move the slack adjusters when air pressure enters the brake chambers. The driver adds this air pressure by:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pressing the brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Using the emergency brake."
+        },
+        {
+          "letter": "C",
+          "text": "Using the trailer hand valve."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pressing the brake pedal.",
+      "explanation": "When you press the brake pedal, air enters the brake chambers. This air pressure pushes out the rods and moves the slack adjusters, which twist the brake camshafts."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8641",
+      "question": "Brakes can get out of adjustment quickly, especially:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When they are hot."
+        },
+        {
+          "letter": "B",
+          "text": "In winter."
+        },
+        {
+          "letter": "C",
+          "text": "When they are used a lot."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When they are hot.",
+      "explanation": "Hot brakes get out of adjustment quickly. Check your brake adjustment regularly. All brakes must be working and adjusted properly for safe vehicle control."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11888",
+      "question": "During a static leakage test, a triple combination vehicle with air brakes should lose no more than ____ psi in one minute.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 psi"
+        },
+        {
+          "letter": "B",
+          "text": "5 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "5 psi",
+      "explanation": "In a static leakage test, a triple combination air brake vehicle should not lose more than 5 psi in one minute. If air leaks faster than this, something needs to be repaired and the vehicle should not be driven."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8754",
+      "question": "The air compressor is connected to the:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmission."
+        },
+        {
+          "letter": "B",
+          "text": "Engine."
+        },
+        {
+          "letter": "C",
+          "text": "Radiator."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Engine.",
+      "explanation": "The air compressor is connected to the engine with gears or a v-belt. It may be cooled by air or by the engine cooling system."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8635",
+      "question": "When operating a vehicle with a dual air brake system, what should the driver do before driving?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Let the vehicle warm up to ensure fuel reaches the engine."
+        },
+        {
+          "letter": "B",
+          "text": "Let the air compressor build up at least 100 psi pressure in both the primary and secondary systems."
+        },
+        {
+          "letter": "C",
+          "text": "Begin driving as soon as the vehicle starts."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Let the air compressor build up at least 100 psi pressure in both the primary and secondary systems.",
+      "explanation": "Before driving a vehicle with a dual air brake system, let the air compressor build up at least 100 psi pressure in both the primary and secondary systems. Watch the air pressure gauges to check the pressure levels."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11903",
+      "question": "When air tanks reach 125 psi, what does the air compressor governor do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stops pumping air."
+        },
+        {
+          "letter": "B",
+          "text": "Releases air from the tanks."
+        },
+        {
+          "letter": "C",
+          "text": "Begins pumping air into the tanks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stops pumping air.",
+      "explanation": "The air compressor governor stops pumping air when tanks reach about 125 psi. This pressure level is called the \"cut-out\" level."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11883",
+      "question": "During inspection, how much can slack adjusters on S-cam brakes move?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One foot."
+        },
+        {
+          "letter": "B",
+          "text": "One centimeter."
+        },
+        {
+          "letter": "C",
+          "text": "One inch."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "One inch.",
+      "explanation": "Park on level ground, set wheel chocks, and disengage the parking brake. Pull each slack adjuster to check it does not move more than about one inch. If it moves more than one inch, it needs adjustment."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9890",
+      "question": "What do air brakes use to work?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compressed air"
+        },
+        {
+          "letter": "B",
+          "text": "Outside air"
+        },
+        {
+          "letter": "C",
+          "text": "Non-compressed air"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Compressed air",
+      "explanation": "Large commercial vehicles have air brake systems. Air brakes use compressed air to operate."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8625",
+      "question": "What is the purpose of air storage tanks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hold air for only one braking cycle."
+        },
+        {
+          "letter": "B",
+          "text": "Hold enough air for the brakes to work several times if the compressor stops."
+        },
+        {
+          "letter": "C",
+          "text": "Hold air only in an emergency."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Hold enough air for the brakes to work several times if the compressor stops.",
+      "explanation": "Air storage tanks hold compressed air for braking. They store enough air for the brakes to work several times if the compressor stops working."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9894",
+      "question": "What happens when brakes are out of adjustment?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They work properly."
+        },
+        {
+          "letter": "B",
+          "text": "Some brakes overwork and fail."
+        },
+        {
+          "letter": "C",
+          "text": "The vehicle accelerates better."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Some brakes overwork and fail.",
+      "explanation": "Out of adjustment brakes wear out faster than properly adjusted brakes. Check brake adjustment frequently to prevent brake problems."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11900",
+      "question": "What do both systems in a dual air brake system share?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hoses"
+        },
+        {
+          "letter": "B",
+          "text": "An air compressor"
+        },
+        {
+          "letter": "C",
+          "text": "Air tanks"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "An air compressor",
+      "explanation": "Both systems in a dual air brake system share one air compressor. If the compressor is damaged, neither system will work properly."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9604",
+      "question": "What is commonly found in compressed air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water"
+        },
+        {
+          "letter": "B",
+          "text": "Cardboard"
+        },
+        {
+          "letter": "C",
+          "text": "Brake fluid"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Water",
+      "explanation": "Compressed air in an air brake system usually contains water and compressor oil. Water and oil can damage the brakes if they build up. Drain tanks regularly to remove this buildup."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8766",
+      "question": "In a dual air brake system, what happens if one air system has very low pressure?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "None of the brakes work."
+        },
+        {
+          "letter": "B",
+          "text": "Either the front or rear brakes will not work fully."
+        },
+        {
+          "letter": "C",
+          "text": "There is usually no effect."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Either the front or rear brakes will not work fully.",
+      "explanation": "In a dual air brake system, either the front or rear brakes will not work fully if one system has low pressure. If air pressure gets too low while driving, exit the road and park as soon as possible."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9299",
+      "question": "When parked on a flat surface, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use wheel chocks to prevent the vehicle from moving."
+        },
+        {
+          "letter": "B",
+          "text": "Do not use wheel chocks."
+        },
+        {
+          "letter": "C",
+          "text": "Use wheel chocks only if you have applied the parking brake."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Use wheel chocks to prevent the vehicle from moving.",
+      "explanation": "When parked on a level surface, use wheel chocks. This is especially important for vehicles without spring brakes to prevent the trailer from moving."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11904",
+      "question": "When driving downhill, you should brake until you reach a speed that is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 mph below your safe speed."
+        },
+        {
+          "letter": "B",
+          "text": "10 mph below your safe speed."
+        },
+        {
+          "letter": "C",
+          "text": "15 mph below your safe speed."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "5 mph below your safe speed.",
+      "explanation": "When driving downhill, press the brake pedal until your speed drops to 5 mph below your safe speed. Then release the brake. Repeat this process as needed."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8756",
+      "question": "Air tank drains:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Should not be used in cold weather."
+        },
+        {
+          "letter": "B",
+          "text": "Help remove water and oil from the air tanks."
+        },
+        {
+          "letter": "C",
+          "text": "Are used to move air to the brakes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Help remove water and oil from the air tanks.",
+      "explanation": "Compressed air in an air brake system contains water and oil. If these build up, they can damage the system. Air tanks have drain valves to remove water and oil from the compressed air."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "9297",
+      "question": "What color light shows that a vehicle's ABS is not working?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green"
+        },
+        {
+          "letter": "B",
+          "text": "Blue"
+        },
+        {
+          "letter": "C",
+          "text": "Yellow"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Yellow",
+      "explanation": "Vehicles with Anti-Lock Braking Systems (ABS) use a yellow light to alert the driver when the ABS is not working."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8634",
+      "question": "A dual air brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has two separate air brake systems that use one set of controls."
+        },
+        {
+          "letter": "B",
+          "text": "Is one air brake system with two different sets of controls."
+        },
+        {
+          "letter": "C",
+          "text": "Has one system for the left side of the truck and one for the right side, each with its own controls."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Has two separate air brake systems that use one set of controls.",
+      "explanation": "A dual air brake system has two separate air brake systems. They share one set of brake controls, but each system has its own air tanks, hoses, and lines. One system usually operates the rear brakes, and the other operates the front brakes."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11881",
+      "question": "Braking mechanisms are located inside:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The fifth wheel."
+        },
+        {
+          "letter": "B",
+          "text": "A brake drum."
+        },
+        {
+          "letter": "C",
+          "text": "The landing gear."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "A brake drum.",
+      "explanation": "Drum brakes are attached to the wheels on the axles. The braking mechanisms that stop the vehicle are inside the drum brake."
+    }
+  ]
+}

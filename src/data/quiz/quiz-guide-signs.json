@@ -1,0 +1,604 @@
+{
+  "guide-signs-quiz": [
+    {
+      "id": 1,
+      "image_path": "images/signs/georgia-reduction_of_lanes.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Road widens ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "Lane reduction. The right lane ends soon and traffic should merge left.",
+          "is_correct": true
+        },
+        {
+          "text": "Highway entrance ramp ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 2,
+      "image_path": "images/signs/no_u_turn.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Do not enter.",
+          "is_correct": false
+        },
+        {
+          "text": "Roundabout ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "No U-turns.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 3,
+      "image_path": "images/signs/lane_ends.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Merge right.",
+          "is_correct": false
+        },
+        {
+          "text": "Divided highway begins.",
+          "is_correct": false
+        },
+        {
+          "text": "Lane ends.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 4,
+      "image_path": "images/signs/stop.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Check for vehicles only in the direction that you plan on going, then proceed.",
+          "is_correct": false
+        },
+        {
+          "text": "Let all vehicles that arrive before or after you go first.",
+          "is_correct": false
+        },
+        {
+          "text": "Check for traffic in all directions before proceeding.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 5,
+      "image_path": "images/signs/hill.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "There is a steep hill ahead.",
+          "is_correct": true
+        },
+        {
+          "text": "No trucks are allowed on the upcoming hill.",
+          "is_correct": false
+        },
+        {
+          "text": "A logging road is ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 6,
+      "image_path": "images/signs/illinois-pedestrian_crosswalk.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Pedestrian crossing.",
+          "is_correct": true
+        },
+        {
+          "text": "Side road.",
+          "is_correct": false
+        },
+        {
+          "text": "Railroad ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 7,
+      "image_path": "images/signs/connecticut-road_curves_to_right_and_left.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Road construction ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "The road ahead curves left then right.",
+          "is_correct": false
+        },
+        {
+          "text": "The road ahead curves right then left.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 8,
+      "image_path": "images/signs/winding_road.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Sharp turn to the right ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "Upcoming sharp left and right turns.",
+          "is_correct": false
+        },
+        {
+          "text": "Winding road ahead.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 9,
+      "image_path": "images/signs/pennsylvania-no_passing_zone2.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "No passing zone.",
+          "is_correct": true
+        },
+        {
+          "text": "Right turn permitted on red.",
+          "is_correct": false
+        },
+        {
+          "text": "Yield right-of-way.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 10,
+      "image_path": "images/signs/yield.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Cars on the right move first.",
+          "is_correct": false
+        },
+        {
+          "text": "You have the right-of-way.",
+          "is_correct": false
+        },
+        {
+          "text": "Let cross traffic pass before proceeding.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 11,
+      "image_path": "images/signs/yield_ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Yield sign ahead.",
+          "is_correct": true
+        },
+        {
+          "text": "Side road entering from left.",
+          "is_correct": false
+        },
+        {
+          "text": "Stop sign ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 12,
+      "image_path": "images/signs/do_not_enter.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "You are about to enter a one-way street from the wrong direction.",
+          "is_correct": true
+        },
+        {
+          "text": "U-turns are prohibited.",
+          "is_correct": false
+        },
+        {
+          "text": "You may proceed if the way is clear.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 13,
+      "image_path": "images/signs/sharp_turn_right.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Sharp right turn ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "A road joins from the right.",
+          "is_correct": false
+        },
+        {
+          "text": "The road ahead turns sharply right then sharply left.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 14,
+      "image_path": "images/signs/illinois-parking_for_persons_with_disabilities.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Reserved parking for persons with disabilities.",
+          "is_correct": true
+        },
+        {
+          "text": "Slow-moving vehicle.",
+          "is_correct": false
+        },
+        {
+          "text": "No U-turn.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 15,
+      "image_path": "images/signs/indiana-intersection_ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Intersection.",
+          "is_correct": true
+        },
+        {
+          "text": "Road curve.",
+          "is_correct": false
+        },
+        {
+          "text": "Right turn.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 16,
+      "image_path": "images/signs/illinois-merging_lanes.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Merge.",
+          "is_correct": true
+        },
+        {
+          "text": "Winding road ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "Reserved parking for persons with disabilities.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 17,
+      "image_path": "images/signs/do_not_pass.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Until after you pass the sign.",
+          "is_correct": false
+        },
+        {
+          "text": "Unless it seems safe to do so.",
+          "is_correct": false
+        },
+        {
+          "text": "For any reason.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 18,
+      "image_path": "images/signs/one_way.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "No right turn.",
+          "is_correct": false
+        },
+        {
+          "text": "Drive only in the direction of the arrow.",
+          "is_correct": true
+        },
+        {
+          "text": "Curve ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 19,
+      "image_path": "images/signs/illinois-school_2.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Stop sign.",
+          "is_correct": false
+        },
+        {
+          "text": "Regulatory sign.",
+          "is_correct": false
+        },
+        {
+          "text": "School zone or school crossing sign.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 20,
+      "image_path": "images/signs/slow_moving_vehicle.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Dangerous intersections.",
+          "is_correct": false
+        },
+        {
+          "text": "Slow-moving vehicles.",
+          "is_correct": true
+        },
+        {
+          "text": "Yield signs.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 21,
+      "image_path": "images/signs/stop.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Stop.",
+          "is_correct": true
+        },
+        {
+          "text": "Merge.",
+          "is_correct": false
+        },
+        {
+          "text": "Upcoming change in direction.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 22,
+      "image_path": "images/signs/divided_highway.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Keep right.",
+          "is_correct": true
+        },
+        {
+          "text": "Keep left.",
+          "is_correct": false
+        },
+        {
+          "text": "Pass with caution.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 23,
+      "image_path": "images/signs/slow_moving_vehicle.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "The vehicle has the right-of-way.",
+          "is_correct": false
+        },
+        {
+          "text": "Slow-moving vehicle.",
+          "is_correct": true
+        },
+        {
+          "text": "Shoulder work ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 24,
+      "image_path": "images/signs/illinois-slippery_pavement.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Slippery when wet.",
+          "is_correct": true
+        },
+        {
+          "text": "Stop sign ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "No U-turn.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 25,
+      "image_path": "images/signs/no_u_turn.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "No turns.",
+          "is_correct": false
+        },
+        {
+          "text": "No outlet.",
+          "is_correct": false
+        },
+        {
+          "text": "No U-turns.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 26,
+      "image_path": "images/signs/yield.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Yield the right-of-way.",
+          "is_correct": true
+        },
+        {
+          "text": "No passing zone.",
+          "is_correct": false
+        },
+        {
+          "text": "Reduction in lanes.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 27,
+      "image_path": "images/signs/merging_traffic.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Watch for traffic merging from the right.",
+          "is_correct": true
+        },
+        {
+          "text": "Merge right.",
+          "is_correct": false
+        },
+        {
+          "text": "Turn left.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 28,
+      "image_path": "images/signs/yield.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Slow down and yield to traffic on the main road when merging.",
+          "is_correct": true
+        },
+        {
+          "text": "Always come to a complete stop.",
+          "is_correct": false
+        },
+        {
+          "text": "Activate your turn signal and proceed into traffic at the usual speed.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 29,
+      "image_path": "images/signs/district-of-columbia-railroad_crossing_ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Railroad crossing.",
+          "is_correct": true
+        },
+        {
+          "text": "Pedestrian crossing.",
+          "is_correct": false
+        },
+        {
+          "text": "No passing zone.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 30,
+      "image_path": "images/signs/alabama-merging_traffic_from_right.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "One-way traffic.",
+          "is_correct": false
+        },
+        {
+          "text": "Intersection ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "Merging traffic from the right.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    }
+  ]
+}

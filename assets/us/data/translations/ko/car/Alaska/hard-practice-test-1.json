@@ -1,0 +1,530 @@
+{
+  "state": "Alaska",
+  "category": "car",
+  "quizName": "Hard Practice Test #1",
+  "slug": "hard-practice-test-1",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1517",
+      "question": "차량을 후진할 때 당신의 안전과 주변 사람들의 안전을 가장 잘 보장하는 것은 다음 중 어느 것입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "후진으로 변속하기 직전에 경적을 울리십시오."
+        },
+        {
+          "letter": "B",
+          "text": "운전석에 앉기 전에 차량 뒤를 확인하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "룸미러를 확인하여 당신 뒤에 무엇이 있는지 보십시오."
+        },
+        {
+          "letter": "D",
+          "text": "당신 주변에 있을 수 있는 사람의 주의를 끌기 위해 후진하기 전에 자동차 라디오를 켜십시오."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "운전석에 앉기 전에 차량 뒤를 확인하십시오.",
+      "explanation": "후진은 운전자가 차량 뒤에서 보기 어렵기 때문에 추가 주의가 필요합니다. 차량을 후진하기 위해 들어가기 전에 차량 뒤로 걸어가 어린이와 작은 물체를 확인하십시오."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "332",
+      "question": "고속도로에서 나갈 때 속도를 줄여야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주도로에서 출구 차선 바로 앞."
+        },
+        {
+          "letter": "B",
+          "text": "톨부스를 본 후."
+        },
+        {
+          "letter": "C",
+          "text": "출구 차선으로 진입한 후."
+        },
+        {
+          "letter": "D",
+          "text": "처음 출구 표지판을 볼 때."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "출구 차선으로 진입한 후.",
+      "explanation": "고속도로를 빠져나갈 때는 충분한 시간을 미리 확보하여 출구 차선으로 진입해야 합니다. 출구 차선으로 진입한 후에야 감속을 시작하세요."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1585",
+      "question": "당신의 차량의 정지 거리는 다음의 경우 증가합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "젖은 도로나 얼음 도로에서."
+        },
+        {
+          "letter": "B",
+          "text": "포장된 고속도로에서."
+        },
+        {
+          "letter": "C",
+          "text": "야간 운전 중일 때."
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "젖은 도로나 얼음 도로에서.",
+      "explanation": "정지 거리는 젖은 도로나 얼음 도로에서 증가합니다. 정지 거리는 또한 느슨한 자갈이나 돌로 덮인 도로 표면에서도 증가합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "482",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/new-york-hospital_emergency_services_to_the_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "고속도로 변화가 앞쪽 오른쪽에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "등산로가 앞쪽 오른쪽에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "호텔이 앞쪽 오른쪽에 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "병원이 앞쪽 오른쪽에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "병원이 앞쪽 오른쪽에 있습니다.",
+      "explanation": "이 표지판은 응급실이 오른쪽에 있음을 나타냅니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "2024",
+      "question": "회전하기 최소 ____ 전에 회전 의도를 알려야 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 feet"
+        },
+        {
+          "letter": "B",
+          "text": "50 feet"
+        },
+        {
+          "letter": "C",
+          "text": "200 feet"
+        },
+        {
+          "letter": "D",
+          "text": "300 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "100 feet",
+      "explanation": "손동작 또는 기계식 방향 신호는 차량이 회전하거나 차선을 변경하기 최소 100피트 전에 표시되어야 합니다. 차량이 고속으로 이동할 때는 더 먼 거리에서 신호를 표시해야 합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "2251",
+      "question": "안내 표지판은 운전자에게 방향과 거리 정보를 제공하는 ____ 표지판입니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "노란색"
+        },
+        {
+          "letter": "B",
+          "text": "빨간색"
+        },
+        {
+          "letter": "C",
+          "text": "녹색"
+        },
+        {
+          "letter": "D",
+          "text": "흰색"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "녹색",
+      "explanation": "목적지 표지판으로도 알려진 안내 표지판은 녹색 배경을 가지고 있으며 특정 목적지로 가는 방향과 거리 정보를 제공합니다. 낯선 지역에서 운전할 때 도움이 될 수 있습니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1616",
+      "question": "두 대의 차 사이에 평행 주차할 때 먼저 해야 할 일은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "바퀴를 왼쪽으로 돌립니다."
+        },
+        {
+          "letter": "B",
+          "text": "바퀴를 오른쪽으로 돌립니다."
+        },
+        {
+          "letter": "C",
+          "text": "원하는 주차 공간 앞의 차량과 같은 높이로 당겨 올립니다."
+        },
+        {
+          "letter": "D",
+          "text": "천천히 뒤로 갑니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "원하는 주차 공간 앞의 차량과 같은 높이로 당겨 올립니다.",
+      "explanation": "주차 공간을 찾은 후, 교통을 확인하고 신호를 한 후, 원하는 주차 공간 앞의 차량과 평행하게 정지한 후 바퀴를 돌려 주차해야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1663",
+      "question": "두 개의 연속 노란색 선으로 나뉜 고속도로를 운전 중입니다. 당신은 다음을 할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "이 선을 넘어 골목, 개인 도로 또는 진입로로의 좌회전 또는 그곳에서의 좌회전만 할 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "이 선을 넘어 다른 차량을 추월할 수 있지만, 맞은편 교통이 없을 때만 가능합니다."
+        },
+        {
+          "letter": "C",
+          "text": "어떤 경우에도 이 선을 넘을 수 없습니다."
+        },
+        {
+          "letter": "D",
+          "text": "이 선을 넘어 U턴만 할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "이 선을 넘어 골목, 개인 도로 또는 진입로로의 좌회전 또는 그곳에서의 좌회전만 할 수 있습니다.",
+      "explanation": "이중 연속 노란색 선은 양쪽 방향 모두에서 추월이 금지된 도로를 표시하는 데 사용됩니다. 이 선을 넘을 수 있는 경우는 골목, 개인 도로 또는 진입로로의 좌회전을 할 때만입니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1501",
+      "question": "오토바이에 대해 주의가 중요한 이유는 다음과 같습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "자동차보다 보기 더 어렵습니다."
+        },
+        {
+          "letter": "B",
+          "text": "거의 헤드라이트를 사용하지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "오토바이 운전자는 다른 운전자보다 운전 기술이 떨어집니다."
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "자동차보다 보기 더 어렵습니다.",
+      "explanation": "오토바이는 자동차보다 더 작고 보기 어렵습니다. 크기 때문에 자동차의 사각지대에 쉽게 숨을 수 있습니다. 오토바이까지의 거리를 판단하기 어려울 수 있고 오토바이의 속도를 판단하기 어려울 수 있으므로 항상 주의하고 오토바이 운전자 근처에서는 각별한 주의가 필요합니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1425",
+      "question": "교차로에 접근 중일 때 신호등이 녹색에서 연속 노란색으로 변합니다. 당신은 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주의 표지판과 동일하게 간주하고 교차로를 통과하세요."
+        },
+        {
+          "letter": "B",
+          "text": "즉시 정지하세요."
+        },
+        {
+          "letter": "C",
+          "text": "안전하게 정지할 수 없는 경우가 아니면 교차로에 진입하기 전에 정지하세요."
+        },
+        {
+          "letter": "D",
+          "text": "빨간 신호등이 나타나기 전에 교차로를 통과하도록 속도를 올리세요."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "안전하게 정지할 수 없는 경우가 아니면 교차로에 진입하기 전에 정지하세요.",
+      "explanation": "연속 노란색 신호등이 있는 교차로에 접근할 때, 안전하면 교차로에 진입하기 전에 정지하도록 감속하세요. 안전하게 정지할 수 없으면 주의하며 교차로를 통과하세요."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1670",
+      "question": "신호등은 때때로 특정 차선의 회전을 제어하기 위해 화살표를 표시합니다. 연속 빨간 화살표는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교통 신호로 사용되지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "원형 빨간색 신호등과 같은 의미입니다."
+        },
+        {
+          "letter": "C",
+          "text": "운전자가 화살표가 가리키는 방향으로 회전할 수 있음을 의미합니다."
+        },
+        {
+          "letter": "D",
+          "text": "화살표가 가리키는 교통이 반드시 멈춰야 함을 의미합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "원형 빨간색 신호등과 같은 의미입니다.",
+      "explanation": "교통 신호에서 빨간 실선 화살표는 원형 빨간색 신호등과 같은 의미입니다. 화살표가 빨간색일 때, 해당 차선의 교통은 반드시 멈춰야 하며 화살표가 가리키는 방향으로 회전할 수 없습니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "241",
+      "question": "녹색 화살표가 실선 녹색 신호등으로 바뀔 때, 당신은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "여전히 회전할 수 있지만, 맞은편 교통에 양보해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "더 이상 회전할 수 없으며 직진해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "여전히 회전할 우선권이 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "더 이상 화살표가 가리키던 방향으로 회전할 필요가 없습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "여전히 회전할 수 있지만, 맞은편 교통에 양보해야 합니다.",
+      "explanation": "화살표가 가리키던 방향으로 여전히 회전할 수 있지만, 먼저 보행자와 맞은편 교통에 양보해야 합니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "2044",
+      "question": "도로 표면이 특히 빗이 내리기 시작한 후 30분 동안 미끄러워지는 이유는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로의 먼지와 기름이 아직 씻겨 내려가지 않았습니다."
+        },
+        {
+          "letter": "B",
+          "text": "타이어가 아직 물을 흡수하지 못했습니다."
+        },
+        {
+          "letter": "C",
+          "text": "물이 강우가 시작될 때 가장 많이 고입니다."
+        },
+        {
+          "letter": "D",
+          "text": "그 시간 동안 가장 많이 내립니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "도로의 먼지와 기름이 아직 씻겨 내려가지 않았습니다.",
+      "explanation": "도로 표면이 빗이 내리기 시작한 후 30분 동안 특히 미끄러워지는 이유는 도로 표면의 먼지와 기름이 아직 씻겨 내려가지 않았기 때문입니다. 물과 이러한 물질의 조합이 타이어가 제대로 잡을 수 없는 기름진 막을 형성합니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "488",
+      "question": "편도 도로로 좌회전하려고 할 때, 다음 차선으로 회전을 완료해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우측 차선."
+        },
+        {
+          "letter": "B",
+          "text": "이전 차선에 가장 가까운 차선."
+        },
+        {
+          "letter": "C",
+          "text": "어느 차선이든."
+        },
+        {
+          "letter": "D",
+          "text": "어느 차선도 아닙니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "이전 차선에 가장 가까운 차선.",
+      "explanation": "항상 가고자 하는 방향에 가장 가까운 차선에서 회전해야 합니다. 이전 차선에 가장 가까운 차선으로 회전하십시오."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "468",
+      "question": "보도가 없는 도로에서 보행자는 다음 쪽에서 걸어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교통량이 적은 도로의 한쪽."
+        },
+        {
+          "letter": "B",
+          "text": "교통이 움직이고 있는 도로의 같은 쪽."
+        },
+        {
+          "letter": "C",
+          "text": "맞은편 교통과 마주보는 도로의 한쪽."
+        },
+        {
+          "letter": "D",
+          "text": "교통량이 많은 도로의 한쪽."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "맞은편 교통과 마주보는 도로의 한쪽.",
+      "explanation": "보행자는 자신에게 가장 가까운 차선의 교통과 마주보는 도로의 한쪽에서 걸어야 합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "904",
+      "question": "점멸하는 노란색 신호등이 있는 교차로에 접근하고 있습니다. 당신은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "신호등이 빨간색으로 바뀔 때까지 멈춰 기다립니다."
+        },
+        {
+          "letter": "B",
+          "text": "교차로가 폐쇄되었으므로 유턴을 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "신중하게 교차로를 통과합니다."
+        },
+        {
+          "letter": "D",
+          "text": "멈출 준비를 하십시오. 신호등이 곧 빨간색으로 바뀝니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "신중하게 교차로를 통과합니다.",
+      "explanation": "점멸하는 노란색 신호등은 천천히 그리고 주의 깊게 교차로를 통과해야 함을 의미합니다. 양쪽 방향의 교통을 눈으로 스캔하십시오."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "2047",
+      "question": "점멸하는 황색 신호등을 표시하고 있는 정지된 스쿨버스에 접근하는 운전자는 항상:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "멈춘 후 버스가 지나갈 때까지 계속 멈춰 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "속도를 줄이고 멈춀 준비를 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "경적을 울리고 천천히 지나갑니다."
+        },
+        {
+          "letter": "D",
+          "text": "속도를 높이고 빠르게 지나갑니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "속도를 줄이고 멈춀 준비를 합니다.",
+      "explanation": "점멸하는 황색 신호등이 활성화된 정지된 스쿨버스에 접근하는 운전자는 속도를 줄이고 멈출 준비를 해야 합니다. 운전자는 스쿨버스가 멈추고 점멸하는 빨간 신호등을 활성화하며 정지 신호를 펼칠 때 차량을 완전히 멈춰야 합니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1202",
+      "question": "반대 방향으로 이동하는 교통 차선을 분리하는 포장 표시는 무슨 색입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "노란색"
+        },
+        {
+          "letter": "B",
+          "text": "흰색"
+        },
+        {
+          "letter": "C",
+          "text": "노란색과 흰색"
+        },
+        {
+          "letter": "D",
+          "text": "노란색, 흰색, 검은색"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "노란색",
+      "explanation": "노란색 선은 도로 중앙에 반대 방향으로 이동하는 교통 차선을 분리하는 데 사용됩니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1206",
+      "question": "운전하기 위해 차에 들어갈 때 필요한 경우 먼저 조정해야 할 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "안전벨트"
+        },
+        {
+          "letter": "B",
+          "text": "스티어링 휠"
+        },
+        {
+          "letter": "C",
+          "text": "백미러"
+        },
+        {
+          "letter": "D",
+          "text": "좌석"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "좌석",
+      "explanation": "운전을 준비할 때, 편안한 위치에 있는지 확인하고 도로를 명확하게 볼 수 있도록 먼저 좌석을 조정해야 합니다. 좌석이 완전히 조정된 후 거울과 스티어링 휠을 효과적으로 조정하십시오."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "418",
+      "question": "다른 차량으로 막혀 있는 교차로에 접근합니다. 다음 중 어떻게 해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "앞의 교통이 움직일 때까지 천천히 가십시오."
+        },
+        {
+          "letter": "B",
+          "text": "당신 앞 자동차에 최대한 가깝게 접근하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "교차로를 통과할 수 있을 때까지 교차로 밖에 있으십시오."
+        },
+        {
+          "letter": "D",
+          "text": "자동차를 움직이게 하기 위해 경적을 울리십시오."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "교차로를 통과할 수 있을 때까지 교차로 밖에 있으십시오.",
+      "explanation": "다른 쪽의 교통이 백업되어 있고 교차로를 완전히 통과할 수 없는 경우 교차로에 진입할 수 없습니다. 교차로를 막지 않도록 앞쪽 교통이 정리될 때까지 기다리십시오."
+    }
+  ]
+}

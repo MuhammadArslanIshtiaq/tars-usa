@@ -1,0 +1,742 @@
+{
+  "state": "Iowa",
+  "category": "car",
+  "quizName": "Hard Practice Test #1",
+  "slug": "hard-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "977",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/winding_road.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường quanh co."
+        },
+        {
+          "letter": "B",
+          "text": "Không được đỗ xe."
+        },
+        {
+          "letter": "C",
+          "text": "Làn đường bên phải bị đóng cửa."
+        },
+        {
+          "letter": "D",
+          "text": "Nhiều lượt rẽ."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đường quanh co.",
+      "explanation": "Biển cảnh báo chuẩn bị cho người lái xe cho các điều kiện đường bộ và các mối nguy hiểm sắp tới và thường có màu vàng với các dấu hiệu đen. Biển này cảnh báo cho người lái xe rằng họ đang tiếp cận một con đường quanh co và họ nên điều chỉnh tốc độ của họ cho phù hợp."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "2251",
+      "question": "Biển hướng dẫn là các biển ____ cung cấp thông tin hướng dẫn và km số cho các lái xe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vàng"
+        },
+        {
+          "letter": "B",
+          "text": "Đỏ"
+        },
+        {
+          "letter": "C",
+          "text": "Xanh lá cây"
+        },
+        {
+          "letter": "D",
+          "text": "Trắng"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Xanh lá cây",
+      "explanation": "Biển hướng dẫn, đôi khi được gọi là biển đích đến, có nền xanh lá cây và cung cấp thông tin hướng dẫn và km số đến các điểm đến cụ thể. Chúng có thể là một tài nguyên hữu ích khi lái xe ở các địa điểm không quen thuộc."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "480",
+      "question": "Biển báo này được sử dụng để ngăn chặn:",
+      "image": "/images/signs/new-york-one_way_traffic_do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lối vào các bãi đỗ xe đầy."
+        },
+        {
+          "letter": "B",
+          "text": "Lối vào các khu vực xây dựng đường."
+        },
+        {
+          "letter": "C",
+          "text": "Lối vào các con đường cul-de-sac."
+        },
+        {
+          "letter": "D",
+          "text": "Lối vào từ hướng sai trên các đường một chiều và các đường dốc của đường cao tốc."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Lối vào từ hướng sai trên các đường một chiều và các đường dốc của đường cao tốc.",
+      "explanation": "Biển báo này cảnh báo rằng một con đường có giao thông một chiều và bạn không được phép vào từ hướng hiện tại của mình."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "154",
+      "question": "Một phương tiện đột ngột cắt ngang phía trước bạn, tạo ra một nguy hiểm. Bạn nên làm gì trước tiên?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bấm còi và phanh chắc chắn."
+        },
+        {
+          "letter": "B",
+          "text": "Nhấc chân ra khỏi bàn đạp ga."
+        },
+        {
+          "letter": "C",
+          "text": "Swerve vào làn đường bên cạnh."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Nhấc chân ra khỏi bàn đạp ga.",
+      "explanation": "Nếu một phương tiện hợp nhất phía trước bạn quá gần, hãy nhấc chân ra khỏi bàn đạp tăng tốc. Điều này sẽ tạo ra khoảng cách giữa bạn và phương tiện phía trước mà không cần phải phanh gấp hoặc swerve vào làn khác."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1987",
+      "question": "Cái nào sau đây có khả năng bị trơn nhất trong thời tiết lạnh sau tuyết hoặc mưa?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một con đường đồi núi, mở rộng"
+        },
+        {
+          "letter": "B",
+          "text": "Một con đường dân cư"
+        },
+        {
+          "letter": "C",
+          "text": "Một con đường ở khu vực được che phủ bóng mát"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Một con đường ở khu vực được che phủ bóng mát",
+      "explanation": "Vào những ngày lạnh, ẩm ướt, những chỗ được che phủ bóng mát trên con đường có thể trở nên đóng băng. Các khu vực được che phủ bóng mát thường đóng băng trước và tan chảy sau phần còn lại của con đường."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1748",
+      "question": "Xe của bạn đâm vào một xe đỗ không có chủ nhân và bạn không thể tìm thấy chủ sở hữu của xe. Bạn:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đã làm được tất cả những gì bạn có thể."
+        },
+        {
+          "letter": "B",
+          "text": "Phải ở lại cho đến khi cảnh sát tới."
+        },
+        {
+          "letter": "C",
+          "text": "Phải để lại một thông báo bằng văn bản có tên của bạn, địa chỉ của bạn và các hoàn cảnh của vụ tai nạn."
+        },
+        {
+          "letter": "D",
+          "text": "Có thể tiếp tục đi."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Phải để lại một thông báo bằng văn bản có tên của bạn, địa chỉ của bạn và các hoàn cảnh của vụ tai nạn.",
+      "explanation": "Khi đâm vào một xe không có chủ nhân, hãy dừng lại và cố gắng tìm chủ nhân. Nếu bạn không thể tìm thấy chủ nhân, hãy để lại một thông báo bằng văn bản có tên của bạn, địa chỉ của bạn và các hoàn cảnh của vụ tai nạn."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1986",
+      "question": "Nếu bạn đỗ xe song song hướng xuống một ngọn đồi:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quay bánh xe của bạn về phía cạnh đường."
+        },
+        {
+          "letter": "B",
+          "text": "Quay bánh xe của bạn ra khỏi cạnh đường."
+        },
+        {
+          "letter": "C",
+          "text": "Giữ bánh xe của bạn thẳng."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Quay bánh xe của bạn về phía cạnh đường.",
+      "explanation": "Khi đỗ xe xuống dốc, quay bánh xe phía trước của bạn về phía lề đường hoặc cạnh đường. Khi đỗ xe lên dốc trên một con đường không có lề, quay bánh xe của bạn về phía cạnh đường. Khi đỗ xe lên dốc trên một con đường có lề, bạn phải quay bánh xe phía trước của bạn ra khỏi lề."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1958",
+      "question": "Nếu tài xế của phương tiện đang đối diện không làm mờ đèn pha của họ:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nhìn về phía giữa đường."
+        },
+        {
+          "letter": "B",
+          "text": "Nhìn về phía bên phải của đường."
+        },
+        {
+          "letter": "C",
+          "text": "Nhìn thẳng phía trước."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Nhìn về phía bên phải của đường.",
+      "explanation": "Nếu tài xế đối diện không làm mờ đèn pha, hãy nhìn về phía bên phải của đường. Điều này sẽ giúp bạn tránh bị chói bởi đèn pha của phương tiện khác và cho phép bạn nhìn thấy đủ phần đường để giữ được hướng. Đừng cố gắng trả đũa bằng cách giữ đèn sáng của bạn."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "495",
+      "question": "Một đèn vàng nhấp nháy bật tắt có nghĩa là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dừng lại và tìm kiếm các phương tiện khác, sau đó đi nếu không có giao thông."
+        },
+        {
+          "letter": "B",
+          "text": "Dừng lại và chờ đèn xanh."
+        },
+        {
+          "letter": "C",
+          "text": "Tăng tốc độ để sơ tán giao lộ một cách nhanh chóng."
+        },
+        {
+          "letter": "D",
+          "text": "Giảm tốc độ và tiếp tục với cẩn thận."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Giảm tốc độ và tiếp tục với cẩn thận.",
+      "explanation": "Một đèn giao thông vàng nhấp nháy có nghĩa là người lái xe nên giảm tốc độ và tiến hành với sự cẩn thận."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1645",
+      "question": "Bạn không được lái xe của mình với tốc độ lớn hơn:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giới hạn tốc độ tối đa."
+        },
+        {
+          "letter": "B",
+          "text": "Tốc độ nhanh hơn là hợp lý và thận trọng."
+        },
+        {
+          "letter": "C",
+          "text": "Tốc độ an toàn cho các điều kiện hiện tại."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các trên.",
+      "explanation": "Bạn không được lái xe với tốc độ nhanh hơn là hợp lý và thận trọng. Bạn phải lái xe với tốc độ thích hợp cho khu vực nơi bạn lái xe, loại và tình trạng của lưu lượng giao thông xung quanh, sự có mặt của người đi bộ, thời tiết, chất lượng của đường, và điều kiện ánh sáng. Bạn phải lái xe trong giới hạn tốc độ hợp pháp."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "899",
+      "question": "Bạn đến một giao lộ với đèn đỏ nhấp nháy. Bạn phải:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giảm tốc độ và lái cẩn thận qua giao lộ."
+        },
+        {
+          "letter": "B",
+          "text": "Rẽ phải hoặc trái, vì đường bị chặn phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Dừng lại tại giao lộ và chờ đèn xanh nhấp nháy."
+        },
+        {
+          "letter": "D",
+          "text": "Dừng lại tại giao lộ, sau đó tiến hành khi giao thông cho phép."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Dừng lại tại giao lộ, sau đó tiến hành khi giao thông cho phép.",
+      "explanation": "Đèn đỏ nhấp nháy có nghĩa là bạn phải dừng lại hoàn toàn, sau đó tiến hành khi đường đã sáng."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "410",
+      "question": "Bạn đang chờ tại giao lộ để hoàn thành lượt quay trái. Bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Báo hiệu và giữ bánh xe quay sang trái."
+        },
+        {
+          "letter": "B",
+          "text": "Báo hiệu và giữ bánh xe thẳng."
+        },
+        {
+          "letter": "C",
+          "text": "Nhấp nháy đèn pha để các tài xế khác cho bạn đi qua."
+        },
+        {
+          "letter": "D",
+          "text": "Lái xe quanh phía sau chiếc xe nếu nó chặn bạn."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Báo hiệu và giữ bánh xe thẳng.",
+      "explanation": "Bạn phải luôn báo hiệu trước khi quay hoặc thay đổi làn đường. Bạn nên giữ bánh xe thẳng trong khi chờ để quay trái. Nếu một chiếc xe khác t撞vào bạn từ phía sau, điều này đảm bảo rằng bạn sẽ không bị đẩy vào giao thông ngược chiều."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "2103",
+      "question": "Nếu bạn tới giao lộ và tầm nhìn sang bên của bạn bị che khuất, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giảm tốc độ và nhìn cả hai bên."
+        },
+        {
+          "letter": "B",
+          "text": "Duy trì tốc độ của bạn và nhìn cả hai bên."
+        },
+        {
+          "letter": "C",
+          "text": "Dừng lại, sau đó từ từ tiến tới cho đến khi bạn có thể nhìn rõ ràng theo cả hai hướng."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Dừng lại, sau đó từ từ tiến tới cho đến khi bạn có thể nhìn rõ ràng theo cả hai hướng.",
+      "explanation": "Tài xế phải giảm tốc độ khi tiếp cận giao lộ. Nếu tầm nhìn rõ ràng của giao thông chéo bị che khuất, tài xế nên dừng lại và từ từ tiến tới cho đến khi có thể nhìn rõ ràng theo cả hai hướng."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1181",
+      "question": "Bạn đang lái xe trong làn trái và muốn di chuyển vào làn bên phải. Bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kiểm tra gương chiếu hậu, bật tín hiệu và nhìn qua vai trái để tìm các phương tiện khác trước khi thay đổi làn đường."
+        },
+        {
+          "letter": "B",
+          "text": "Kiểm tra gương chiếu hậu, bật tín hiệu và nhìn qua vai phải để tìm các phương tiện khác trước khi thay đổi làn đường."
+        },
+        {
+          "letter": "C",
+          "text": "Kiểm tra gương chiếu hậu, bật tín hiệu và nhìn qua cả hai vai để tìm các phương tiện khác trước khi thay đổi làn đường."
+        },
+        {
+          "letter": "D",
+          "text": "Kiểm tra gương chiếu hậu, bật tín hiệu và thay đổi làn đường."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Kiểm tra gương chiếu hậu, bật tín hiệu và nhìn qua vai phải để tìm các phương tiện khác trước khi thay đổi làn đường.",
+      "explanation": "Khi thay đổi làn đường, bạn nên kiểm tra các điểm mù của xe bằng cách nhìn qua vai theo hướng mà bạn muốn di chuyển. Luôn kiểm tra gương chiếu hậu của bạn và bật tín hiệu hướng trước khi bắt đầu thay đổi làn đường."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "415",
+      "question": "Bạn muốn rẽ trái ở một ngã tư. Đèn xanh nhưng lưu lượng giao thông đối diện rất dày đặc. Bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sử dụng ngã tư tiếp theo."
+        },
+        {
+          "letter": "B",
+          "text": "Chờ ở lối qua đường cho đến khi giao thông thông thoáng."
+        },
+        {
+          "letter": "C",
+          "text": "Chờ ở giữa ngã tư cho đến khi giao thông thông thoáng."
+        },
+        {
+          "letter": "D",
+          "text": "Lấy quyền đi trước vì bạn có đèn xanh."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Chờ ở giữa ngã tư cho đến khi giao thông thông thoáng.",
+      "explanation": "Khi rẽ trái nơi có giao thông đối diện, bạn phải chờ giao thông đối diện đi qua trước khi bạn rẽ. Bạn có thể vào ngã tư để chuẩn bị rẽ trái nếu đèn xanh và không có phương tiện khác phía trước bạn dự định rẽ trái."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "613",
+      "question": "Giới hạn tốc độ là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tốc độ pháp lý tối đa hoặc tối thiểu mà bạn có thể di chuyển trên đường trong các điều kiện nguy hiểm."
+        },
+        {
+          "letter": "B",
+          "text": "Tốc độ pháp lý tối đa hoặc tối thiểu mà bạn có thể di chuyển trên đường trong các điều kiện lý tưởng."
+        },
+        {
+          "letter": "C",
+          "text": "Tốc độ được đề nghị để di chuyển trên đường trong các điều kiện lý tưởng."
+        },
+        {
+          "letter": "D",
+          "text": "Không có cái nào ở trên."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tốc độ pháp lý tối đa hoặc tối thiểu mà bạn có thể di chuyển trên đường trong các điều kiện lý tưởng.",
+      "explanation": "Giới hạn tốc độ là tốc độ pháp lý tối đa hoặc tối thiểu mà bạn có thể di chuyển trên đường trong các điều kiện lý tưởng. Bạn có thể lái xe chậm hơn tốc độ được công bố, nhưng sẽ bất hợp pháp nếu lái xe nhanh hơn. Bạn phải lái xe chậm hơn nơi các biển báo hoặc ký hiệu chỉ ra giới hạn tốc độ vùng trường học hoặc vùng công trường. Nếu các điều kiện như xây dựng đường bộ hoặc thời tiết xấu làm cho tốc độ được công bố không an toàn, hãy lái xe dưới giới hạn tốc độ."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "562",
+      "question": "Khi gặp một chiếc xe với đèn pha chói lóa, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sử dụng đèn sáng của bạn cho đến khi phương tiện khác tắm của họ."
+        },
+        {
+          "letter": "B",
+          "text": "Nháy đèn của bạn bật và tắt để cảnh báo tài xế khác."
+        },
+        {
+          "letter": "C",
+          "text": "Tắm đèn của bạn và sau đó tăng tốc độ để vượt qua nhanh chóng."
+        },
+        {
+          "letter": "D",
+          "text": "Nhìn về phía bên phải của đường."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Nhìn về phía bên phải của đường.",
+      "explanation": "Nếu một phương tiện đi về phía bạn với đèn pha cao, nhìn đi khỏi đèn pha và hướng về phía bên phải của đường cho đến khi chiếc xe đã qua. Điều này sẽ giữ cho bạn khỏi bị chói lóa."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "330",
+      "question": "Tại một giao lộ có biển dừng, bạn nên dừng lại và:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kiểm tra gương chiếu hậu của bạn để tìm các xe ôtô theo sát phía sau."
+        },
+        {
+          "letter": "B",
+          "text": "Di chuyển khi phương tiện phía trước bạn di chuyển."
+        },
+        {
+          "letter": "C",
+          "text": "Nhìn sang phải trước, sau đó sang trái, rồi sang phải lần nữa."
+        },
+        {
+          "letter": "D",
+          "text": "Nhìn sang trái trước, sau đó sang phải, rồi sang trái lần nữa."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Nhìn sang trái trước, sau đó sang phải, rồi sang trái lần nữa.",
+      "explanation": "Khi dừng tại một giao lộ, trước tiên bạn nên nhìn sang trái, vì các phương tiện đến từ bên trái gần bạn hơn các phương tiện đến từ bên phải. Nhìn sang phải, sau đó nhìn sang trái lần nữa, trong trường hợp có bất kỳ phương tiện nào đến từ hướng đó mà bạn không thấy trong lần nhìn đầu tiên."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "456",
+      "question": "Uống cà phê sau khi uống rượu:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giảm nồng độ cồn trong máu."
+        },
+        {
+          "letter": "B",
+          "text": "Hủy bỏ tác dụng của rượu."
+        },
+        {
+          "letter": "C",
+          "text": "Không có ảnh hưởng đến nồng độ cồn trong máu."
+        },
+        {
+          "letter": "D",
+          "text": "Tăng nồng độ cồn trong máu."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Không có ảnh hưởng đến nồng độ cồn trong máu.",
+      "explanation": "Uống cà phê sẽ không giảm nồng độ cồn trong máu (BAC) của bạn. Mặc dù nó có thể giúp bạn tỉnh táo, nhưng nó không thể thay đổi BAC hoặc làm bạn tỉnh rượu."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1975",
+      "question": "Để có thể quay nhanh, hai tay bạn phải được đặt:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ở các phía đối diện của vô lăng."
+        },
+        {
+          "letter": "B",
+          "text": "Cạnh nhau ở phía trên của vô lăng."
+        },
+        {
+          "letter": "C",
+          "text": "Ở phía trên và dưới của vô lăng."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ở các phía đối diện của vô lăng.",
+      "explanation": "Cả hai tay nên được đặt ở các phía đối diện của vô lăng. Vị trí này thoải mái và thúc đẩy quay an toàn trên đường tốc độ cao."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1501",
+      "question": "Điều quan trọng là phải cảnh báo đối với xe máy vì:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chúng khó nhìn thấy hơn ô tô."
+        },
+        {
+          "letter": "B",
+          "text": "Họ hiếm khi sử dụng đèn pha của họ."
+        },
+        {
+          "letter": "C",
+          "text": "Những người lái xe máy là những tài xế kém kỹ năng hơn so với các tài xế khác."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Chúng khó nhìn thấy hơn ô tô.",
+      "explanation": "Xe máy nhỏ hơn và khó nhìn thấy hơn ô tô. Vì kích thước của chúng, chúng dễ dàng bị che giấu trong điểm mù của ô tô. Có thể khó đánh giá khoảng cách của bạn đến xe máy và khó để biết xe máy đang chuyển động nhanh như thế nào, vì vậy luôn cảnh báo và cẩn thận thêm khi ở gần một người lái xe máy."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1281",
+      "question": "Vô pháp luật cho một chiếc ô tô cố gắng chia sẻ làn với một chiếc mô tô.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ĐÚNG"
+        },
+        {
+          "letter": "B",
+          "text": "SAI"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "ĐÚNG",
+      "explanation": "Người điều khiển mô tô có quyền sử dụng một làn giao thông đầy đủ. Hai tay đua mô tô có thể chia sẻ một làn, nhưng một chiếc ô tô không bao giờ nên cố gắng chia sẻ làn với một chiếc mô tô."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "1112",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/flagger_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Người cầm cờ phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Quay trái tại giao lộ."
+        },
+        {
+          "letter": "C",
+          "text": "Lần quay cuối cùng trước đường dẫn phí."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Người cầm cờ phía trước.",
+      "explanation": "Màu cam là màu tiêu chuẩn cho hoạt động khu vực công trường. Nếu bạn thấy các biển báo, hình nón hoặc thùng cam trong khi lái xe, hãy cảnh báo và chuẩn bị cho các điều kiện lái xe không mong đợi. Biển báo này cảnh báo tài xế về một người cầm cờ sắp tới mà các hướng dẫn của họ phải được tuân theo bởi tất cả các tài xế."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1355",
+      "question": "Bạn đang tiếp cận một ngã tư với đèn giao thông vàng liên tục. Nếu bạn chưa vào ngã tư, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tăng tốc để vượt qua đèn đỏ."
+        },
+        {
+          "letter": "B",
+          "text": "Giảm tốc độ và đi qua ngã tư một cách cẩn thận."
+        },
+        {
+          "letter": "C",
+          "text": "Dừng lại một cách an toàn."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Dừng lại một cách an toàn.",
+      "explanation": "Khi một đèn vàng liên tục xuất hiện trên tín hiệu giao thông, bạn nên chuẩn bị dừng lại. Nếu bạn đã ở trong ngã tư, bạn nên ra khỏi ngã tư nhanh nhất có thể."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "294",
+      "question": "Để giúp ngăn chặn tai nạn, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giao tiếp với những người sử dụng đường khác."
+        },
+        {
+          "letter": "B",
+          "text": "Bỏ qua các tài xế khác trên đường."
+        },
+        {
+          "letter": "C",
+          "text": "Chỉ lái xe trên các đường phụ và đường liên hạp."
+        },
+        {
+          "letter": "D",
+          "text": "Tránh lái xe trong giờ cao điểm."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giao tiếp với những người sử dụng đường khác.",
+      "explanation": "Tai nạn thường xảy ra vì một tài xế làm điều gì đó mà những người sử dụng đường khác không mong đợi. Bạn nên giao tiếp với các tài xế khác, người đi xe đạp và người đi bộ bằng cách làm những việc như báo hiệu khi giảm tốc độ, dừng lại hoặc thay đổi hướng. Sử dụng các tín hiệu khẩn cấp hoặc còi của bạn khi cần thiết."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "84",
+      "question": "Tại các giao lộ, đường dành cho người đi bộ và các lối giao nhau với đường sắt, bạn nên luôn:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dừng lại, lắng nghe và tiến hành cẩn thận."
+        },
+        {
+          "letter": "B",
+          "text": "Nhìn sang các cạnh của xe bạn để xem điều gì đang đến."
+        },
+        {
+          "letter": "C",
+          "text": "Từ từ vượt qua các xe mà dường như đã dừng mà không có lý do."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Nhìn sang các cạnh của xe bạn để xem điều gì đang đến.",
+      "explanation": "Bất kỳ lúc nào bạn đến một nơi mà mọi người có thể qua hoặc vào đường của bạn, hoặc nơi một làn đường giao nhau với một làn khác, bạn nên nhìn sang trái và phải của xe để đảm bảo không ai đang đến."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "1121",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không được vào."
+        },
+        {
+          "letter": "B",
+          "text": "Vòng xuyến phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Không được quay đầu xe."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Không được quay đầu xe.",
+      "explanation": "Các biển báo quy định cung cấp thông báo cho người sử dụng đường bộ về các luật giao thông phải tuân theo. Biển báo này cho tài xế biết rằng việc quay đầu xe bị cấm."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "609",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giảm tốc độ hoặc dừng lại."
+        },
+        {
+          "letter": "B",
+          "text": "Dừng lại, nếu cần thiết."
+        },
+        {
+          "letter": "C",
+          "text": "Bạn phải dừng lại hoàn toàn."
+        },
+        {
+          "letter": "D",
+          "text": "Lái xe cẩn thận và chuẩn bị dừng lại."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Bạn phải dừng lại hoàn toàn.",
+      "explanation": "Một biển báo hình bát giác luôn có nghĩa là \"dừng lại\". Bạn phải dừng hoàn toàn và chờ cho bất kỳ phương tiện hoặc người đi bộ nào qua khỏi đường trước khi tiếp tục."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "789",
+      "question": "Khi lái xe trong thời tiết xấu, người lái xe nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tăng tốc độ để đến nơi cuối cùng nhanh hơn."
+        },
+        {
+          "letter": "B",
+          "text": "Giảm khoảng cách theo dõi của họ."
+        },
+        {
+          "letter": "C",
+          "text": "Tăng khoảng cách theo dõi của họ."
+        },
+        {
+          "letter": "D",
+          "text": "Không có cái nào ở trên."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tăng khoảng cách theo dõi của họ.",
+      "explanation": "Khi lái xe trên đường ướt, người lái xe nên tăng khoảng cách theo dõi của họ."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1108",
+      "question": "Trong khi lái xe trên đường có một đường trung tâm màu trắng đứt nét:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn phải ở trong làn đường của mình."
+        },
+        {
+          "letter": "B",
+          "text": "Bạn có thể vượt qua đường trung tâm để thay đổi làn đường."
+        },
+        {
+          "letter": "C",
+          "text": "Bạn chỉ có thể thay đổi làn đường từ làn đường bên trái."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Bạn có thể vượt qua đường trung tâm để thay đổi làn đường.",
+      "explanation": "Các đường màu trắng giữa các làn đường cho biết các làn đường đang di chuyển cùng một hướng. Các ký hiệu đường trắng đứt nét cho biết rằng việc vượt xe khác là hợp pháp khi an toàn."
+    }
+  ]
+}

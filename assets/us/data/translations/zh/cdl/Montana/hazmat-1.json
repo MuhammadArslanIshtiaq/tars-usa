@@ -1,0 +1,734 @@
+{
+  "state": "Montana",
+  "category": "cdl",
+  "testName": "HazMat Test #1 30 Questions • Passing Score 24",
+  "testSlug": "hazmat-1",
+  "url": "/images/montana/cdl/hazmat-1.html",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8920",
+      "question": "为了区分运单上的危险物质和非危险物质：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "危险物品应该列在纸张的底部。"
+        },
+        {
+          "letter": "B",
+          "text": "危险物品应该列在纸张的顶部。"
+        },
+        {
+          "letter": "C",
+          "text": "危险物品应该用与非危险物品相同的颜色突出显示。"
+        },
+        {
+          "letter": "D",
+          "text": "非危险物质应标记为\"X\"。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "危险物品应该列在纸张的顶部。",
+      "explanation": "如果运单包括有关危险物质和非危险物质的信息，危险物质必须以三种方式之一区分。它们必须首先列出、用对比色高亮显示，或在标记为\"HM\"的列中用\"X\"在运输描述前标记。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9399",
+      "question": "硝酸容器应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "堆叠不超过两个容器高。"
+        },
+        {
+          "letter": "B",
+          "text": "堆叠到天花板。"
+        },
+        {
+          "letter": "C",
+          "text": "装载在其他产品的顶部。"
+        },
+        {
+          "letter": "D",
+          "text": "装载在驾驶室内。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "堆叠不超过两个容器高。",
+      "explanation": "硝酸不应堆叠在任何其他产品的上方。硝酸容器可以堆叠，但高度不超过两个容器。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8959",
+      "question": "一般来说，运输单据必须列出：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "应急响应电话号码。"
+        },
+        {
+          "letter": "B",
+          "text": "托运人的地址。"
+        },
+        {
+          "letter": "C",
+          "text": "沿计划路线的消防部门的位置。"
+        },
+        {
+          "letter": "D",
+          "text": "材料的成本。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "应急响应电话号码。",
+      "explanation": "一般来说，托运人需要在危险品的运输文件上列出应急响应电话号码。但此规则也有一些例外。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11334",
+      "question": "运输第1.1类爆炸品时，您必须停放在距离任何建筑物至少____处。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25英尺"
+        },
+        {
+          "letter": "B",
+          "text": "50 feet"
+        },
+        {
+          "letter": "C",
+          "text": "300 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "300 feet",
+      "explanation": "运载第1.1、1.2或1.3类爆炸品时，不得停放在距离桥梁、隧道或建筑物、人群聚集地或明火300英尺以内的地方。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8922",
+      "question": "托运人必须保留以下运输文件的副本：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "六周。"
+        },
+        {
+          "letter": "B",
+          "text": "六个月。"
+        },
+        {
+          "letter": "C",
+          "text": "一年。"
+        },
+        {
+          "letter": "D",
+          "text": "两年。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "两年。",
+      "explanation": "托运人必须保留危险物质运输单据的物理副本或电子图像至少两年，自初始承运人接受这些物质之日起。对于危险废物，这增加到三年。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8972",
+      "question": "驾驶员应确保：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "运输单据与包装上的标记和标签相匹配。"
+        },
+        {
+          "letter": "B",
+          "text": "运输单据用代码编写。"
+        },
+        {
+          "letter": "C",
+          "text": "所有包装都标记为有毒物质。"
+        },
+        {
+          "letter": "D",
+          "text": "运输单据不在车辆中。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "运输单据与包装上的标记和标签相匹配。",
+      "explanation": "将运输单据与适用的包装标记和标签进行比较是个好主意。确保发货人在运输单据上包含了正确的基本描述，并且与标记和标签相匹配。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9476",
+      "question": "在描述危险品和非危险品的运输单据上，危险品可以通过以下方式识别：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "首先列出。"
+        },
+        {
+          "letter": "B",
+          "text": "用铅笔书写。"
+        },
+        {
+          "letter": "C",
+          "text": "用红墨水列出。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "首先列出。",
+      "explanation": "如果运输单据包含危险品和非危险品的信息，危险物品必须在单据上清楚地标识。它们可以先列出、用对比色突出显示，或在运输描述前标记\"X\"。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8709",
+      "question": "如果运输氯气，车辆内必须配备什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "防毒面具"
+        },
+        {
+          "letter": "B",
+          "text": "护目镜"
+        },
+        {
+          "letter": "C",
+          "text": "斧头"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "防毒面具",
+      "explanation": "如果在货运槽车中运输氯气，驾驶员必须在其车辆中配备经批准的防毒面具。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8974",
+      "question": "您的货物含有危险品的线索是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "托运人从事特定类型的业务，例如烟火经销商或害虫防治公司。"
+        },
+        {
+          "letter": "B",
+          "text": "您最后提取的货物被标记为危险品。"
+        },
+        {
+          "letter": "C",
+          "text": "包装看起来已损坏。"
+        },
+        {
+          "letter": "D",
+          "text": "托运人的业务位于城镇的不安全地区。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "托运人从事特定类型的业务，例如烟火经销商或害虫防治公司。",
+      "explanation": "表明货物可能含有危险材料的一个线索是托运人从事的业务类型是您预期会涉及危险材料的业务。此类业务的例子包括油漆经销商、化学品供应企业或害虫防治公司。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8715",
+      "question": "国家应急中心必须被通知导致以下任何情况的事件，除了：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "死亡。"
+        },
+        {
+          "letter": "B",
+          "text": "需要住院治疗的伤害。"
+        },
+        {
+          "letter": "C",
+          "text": "不需要住院的伤害。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "不需要住院的伤害。",
+      "explanation": "国家应急中心必须被通知任何导致死亡、住院治疗、估计财产损失50,000美元或以上、疏散公众或关闭主要运输路线/设施超过一小时、火灾、破损、泄漏或涉及放射性物质、细菌或毒素的可疑污染的事件。此外，如果承运人认为情况严重到应该报告，则应报告。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8702",
+      "question": "如果运输含有放射性物质的包装，重要的是要知道：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "放射线环绕包装物并会穿过其他包装物。"
+        },
+        {
+          "letter": "B",
+          "text": "包装物应在驾驶室内运输。"
+        },
+        {
+          "letter": "C",
+          "text": "包装物应侧放装载。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "放射线环绕包装物并会穿过其他包装物。",
+      "explanation": "辐射将环绕每个放射性物质包装并穿过到所有附近的包装。可以一起装载的包装数量是受控的。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11336",
+      "question": "如果你正在运输危险品，货物着火了，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "尝试用灭火器扑灭火灾。"
+        },
+        {
+          "letter": "B",
+          "text": "联系应急人员让他们扑灭火灾。"
+        },
+        {
+          "letter": "C",
+          "text": "继续开车前往消防部门。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "联系应急人员让他们扑灭火灾。",
+      "explanation": "扑灭危险品火灾需要专业培训和设备。除非你自己拥有这些，最好让应急人员处理火灾。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8966",
+      "question": "以下哪个不是保存危险物品运输文件的可接受位置？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在驾驶员侧车门上的袋子中。"
+        },
+        {
+          "letter": "B",
+          "text": "在乘客侧车门上的袋子中。"
+        },
+        {
+          "letter": "C",
+          "text": "系好安全带时在驾驶员可及的范围内。"
+        },
+        {
+          "letter": "D",
+          "text": "当驾驶员不在车辆外时，在驾驶员座位上。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在乘客侧车门上的袋子中。",
+      "explanation": "在车辆行驶时，危险物品运输文件必须保存在驾驶员车门上的袋子中，或保存在清晰可见且驾驶员可及的其他地方。如果驾驶员不在车辆内，运输文件应保存在驾驶员座位上。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8667",
+      "question": "运输危险品时，托运人应该通过以下方式警告他人：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在其卡车上张贴危险品标签。"
+        },
+        {
+          "letter": "B",
+          "text": "在其卡车上安装闪烁灯。"
+        },
+        {
+          "letter": "C",
+          "text": "鸣响警报器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在其卡车上张贴危险品标签。",
+      "explanation": "某些危险品的托运人必须在任何运输车辆上展示菱形警告标志（称为标签），以此警告他人。托运人应当提供适用的标签、标签、装运单据和应急反应信息。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10148",
+      "question": "如果您在运输爆炸品且车辆出现故障，您可以通知其他驾驶员：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "用照明弹。"
+        },
+        {
+          "letter": "B",
+          "text": "用电灯。"
+        },
+        {
+          "letter": "C",
+          "text": "通过站在路面上挥舞你的手臂。"
+        },
+        {
+          "letter": "D",
+          "text": "通过保持驾驶员侧车门打开。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "用电灯。",
+      "explanation": "如果您的车辆在运输爆炸品时在道路上出现故障，您必须警告其他驾驶员。如果您携带的是1.1、1.2或1.3类爆炸品，请放置警示信号，如反光三角形或电灯。如果您驾驶的是用于运输第3类易燃液体或2.1类易燃气体的罐体，即使罐体是空的，也应这样做。如果运输易燃材料，请勿使用可能导致您的货物着火的警示信号。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11506",
+      "question": "运输第1.3类材料时，地板衬垫应该是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "由非铁金属材料制成。"
+        },
+        {
+          "letter": "B",
+          "text": "金属的。"
+        },
+        {
+          "letter": "C",
+          "text": "松散连接。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "由非铁金属材料制成。",
+      "explanation": "运输第1.1、1.2或1.3类材料时应使用地板衬垫。地板必须是密闭的，衬垫必须由非金属材料或非铁金属制成。非铁金属是指任何不含铁或铁合金的金属。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8983",
+      "question": "正确检查轮胎气压的唯一方法是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "使用轮胎气压表。"
+        },
+        {
+          "letter": "B",
+          "text": "目测轮胎。"
+        },
+        {
+          "letter": "C",
+          "text": "按压轮胎以感受气压。"
+        },
+        {
+          "letter": "D",
+          "text": "称量轮胎。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "使用轮胎气压表。",
+      "explanation": "您必须在每次出发时检查机动车上的每条轮胎。检查轮胎气压的唯一有效方法是使用轮胎气压表。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10968",
+      "question": "运输单据应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "隐藏起来。"
+        },
+        {
+          "letter": "B",
+          "text": "放在手套箱中。"
+        },
+        {
+          "letter": "C",
+          "text": "对进入驾驶室的任何人都清晰可见。"
+        },
+        {
+          "letter": "D",
+          "text": "覆膜保护。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "对进入驾驶室的任何人都清晰可见。",
+      "explanation": "运输危险品时，运输单据应保存在驾驶员侧车门的袋子中，或放在驾驶员系好安全带后能轻松拿到的其他位置。文件必须对进入驾驶室的任何人都清晰可见。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10481",
+      "question": "便携式油罐：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不能从车辆上移除。"
+        },
+        {
+          "letter": "B",
+          "text": "不永久附着在车辆上。"
+        },
+        {
+          "letter": "C",
+          "text": "永久附着在车辆上。"
+        },
+        {
+          "letter": "D",
+          "text": "不应该使用。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "不永久附着在车辆上。",
+      "explanation": "货物油罐始终保留在车辆上，无论是否载有货物。便携式油罐是散装包装，不永久附着在车辆上。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9484",
+      "question": "如果腐蚀性物质在拖车中泄漏，拖车应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "用酸清洗。"
+        },
+        {
+          "letter": "B",
+          "text": "用水清洗。"
+        },
+        {
+          "letter": "C",
+          "text": "不清洗，留其自然风干。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "用水清洗。",
+      "explanation": "暴露于腐蚀性液体的车辆部件必须用水彻底冲洗。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11335",
+      "question": "照看标记车辆的人员必须：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在加油站内通过窗户观察。"
+        },
+        {
+          "letter": "B",
+          "text": "在车辆内，清醒或睡着。"
+        },
+        {
+          "letter": "C",
+          "text": "在距离车辆100英尺以内的地方。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在距离车辆100英尺以内的地方。",
+      "explanation": "照看标记车辆的人员必须在车辆内清醒或在距离车辆100英尺以内的地方；了解所运输物质的危害；知道在紧急情况下应该怎么做；并且能够并被授权在必要时移动罐车。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11435",
+      "question": "与危险品相关的识别号应该出现在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在物料的包装上。"
+        },
+        {
+          "letter": "B",
+          "text": "在车辆的车牌上。"
+        },
+        {
+          "letter": "C",
+          "text": "直接在标志牌旁边。"
+        },
+        {
+          "letter": "D",
+          "text": "在车辆上的保险杠贴纸上。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在物料的包装上。",
+      "explanation": "物质的ID号必须出现在其随附的运单上以及其包装上。它也必须出现在货运罐和其他散装包装上。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "9479",
+      "question": "驾驶时，运输单证应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在可达范围内。"
+        },
+        {
+          "letter": "B",
+          "text": "在睡眠区。"
+        },
+        {
+          "letter": "C",
+          "text": "藏在座位下面。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在可达范围内。",
+      "explanation": "在运输危险物品时，运输单证应该放在驾驶员侧车门的袋子中，或放在驾驶员系好安全带后能够轻易到达的其他位置。文件必须清晰可见于任何进入驾驶室的人。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8705",
+      "question": "如果运输炸药：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "你必须有一个书面路线计划。"
+        },
+        {
+          "letter": "B",
+          "text": "你应该选择尽可能短的路线。"
+        },
+        {
+          "letter": "C",
+          "text": "你可以随时使用隧道。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "你必须有一个书面路线计划。",
+      "explanation": "如果运输第1.1、1.2或1.3类炸药，你必须遵循书面路线计划。任何时候贴标后，要避免人口密集区、人群、隧道、狭窄街道和小巷。确保研究可能适用于你计划路线的任何限制。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11439",
+      "question": "带牌照的车辆必须携带最小等级为以下数值的灭火器：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 B:C。"
+        },
+        {
+          "letter": "B",
+          "text": "20 C。"
+        },
+        {
+          "letter": "C",
+          "text": "10 A:B。"
+        },
+        {
+          "letter": "D",
+          "text": "5 B:C。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "10 B:C。",
+      "explanation": "带牌照车辆的动力装置必须配备保险商实验室(UL)等级为10 B:C或更高的灭火器。"
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "8712",
+      "question": "在货物火灾期间，打开拖车门实际上可能导致火灾扩大，因为这样做：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "允许氧气进入拖车。"
+        },
+        {
+          "letter": "B",
+          "text": "改变拖车的温度。"
+        },
+        {
+          "letter": "C",
+          "text": "向拖车提供更多水分。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "允许氧气进入拖车。",
+      "explanation": "在经历货物火灾时，打开拖车门可能是个坏主意。这样做会让氧气进入该区域，可能导致火灾激烈燃烧和扩散。"
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "8956",
+      "question": "如果产品需要\"毒性吸入危险\"标签，则在运输时必须使用该标签：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "超过100磅的产品。"
+        },
+        {
+          "letter": "B",
+          "text": "超过50磅的产品。"
+        },
+        {
+          "letter": "C",
+          "text": "任何数量的产品。"
+        },
+        {
+          "letter": "D",
+          "text": "装在泄漏容器中的产品。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "任何数量的产品。",
+      "explanation": "对于适用材料，必须始终显示\"毒性吸入危险\"标签和相应的危险类别标签，即使材料数量很少。"
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "9477",
+      "question": "一般来说，在装载或卸载任何易燃液体之前，发动机应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "关闭。"
+        },
+        {
+          "letter": "B",
+          "text": "加速。"
+        },
+        {
+          "letter": "C",
+          "text": "启动。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "关闭。",
+      "explanation": "在用易燃液体装载或卸载油罐之前，你应该关闭引擎，除非运行引擎对于操作泵是必要的。在打开填充孔之前建立接地，并在关闭填充孔后保持接地。"
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "9402",
+      "question": "如果涉及运输第1类爆炸物的车辆发生碰撞，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不警告他人危险。"
+        },
+        {
+          "letter": "B",
+          "text": "允许在车辆附近吸烟。"
+        },
+        {
+          "letter": "C",
+          "text": "在分离碰撞中涉及的车辆后，将爆炸物保留在车辆内。"
+        },
+        {
+          "letter": "D",
+          "text": "在分离碰撞中涉及的车辆之前，从车辆中移除爆炸物。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "在分离碰撞中涉及的车辆之前，从车辆中移除爆炸物。",
+      "explanation": "如果您驾驶的车辆正在运输第1类爆炸物并发生事故，您应该警告他人危险，让旁观者远离，并且不允许在车辆附近吸烟或点燃明火。在分离碰撞中涉及的车辆之前，移除所有爆炸物，并将其放置在距离车辆和任何占用建筑物至少200英尺的地方。"
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "9396",
+      "question": "驾驶员必须参加危险品知识测试：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每年一次。"
+        },
+        {
+          "letter": "B",
+          "text": "在每次CDL更新之前。"
+        },
+        {
+          "letter": "C",
+          "text": "每10年一次。"
+        },
+        {
+          "letter": "D",
+          "text": "仅一次。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在每次CDL更新之前。",
+      "explanation": "在每次CDL更新之前，您必须参加并通过英文版危险品知识笔试，并通过联邦背景调查。"
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "state": "California",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/california/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8758",
+      "question": "브레이크를 사용하면 열이 발생합니다. 과도한 열이 발생하면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크가 작동하지 않을 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크가 평소보다 더 많이 삐걱거릴 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크가 불균등하게 제동할 것입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "브레이크가 작동하지 않을 수 있습니다.",
+      "explanation": "브레이크는 많은 열을 견디도록 설계되었지만, 운전자는 차량을 느리게 하기 위해 브레이크에만 의존해서는 안 됩니다. 브레이크가 너무 뜨거워지면 페이드되고 차량을 느리게 하는 능력을 잃을 수 있으므로, 운전자는 엔진 브레이킹 효과에도 의존해야 합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11900",
+      "question": "이중 에어 브레이크 시스템의 두 시스템이 공유하는 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "호스"
+        },
+        {
+          "letter": "B",
+          "text": "에어 컴프레서"
+        },
+        {
+          "letter": "C",
+          "text": "에어 탱크"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "에어 컴프레서",
+      "explanation": "이중 에어 브레이크 시스템의 두 시스템은 단일 에어 컴프레서를 공유합니다. 에어 컴프레서가 손상되면 어떤 시스템도 제대로 작동할 수 없습니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9890",
+      "question": "공기 제동이 제동을 작동시키기 위해 무엇을 사용합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "압축 공기"
+        },
+        {
+          "letter": "B",
+          "text": "외부 공기"
+        },
+        {
+          "letter": "C",
+          "text": "압축되지 않은 공기"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "압축 공기",
+      "explanation": "많은 대형 CMV는 공기 제동이 장착되어 있습니다. 공기 제동 시스템은 압축 공기를 사용하여 작동합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9462",
+      "question": "에어 탱크를 배출할 때 무엇이 제거되나요?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "물과 오일"
+        },
+        {
+          "letter": "B",
+          "text": "암모니아"
+        },
+        {
+          "letter": "C",
+          "text": "액체 세정제"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "물과 오일",
+      "explanation": "에어 브레이크 시스템에서 에어 탱크는 물과 컴프레서 오일의 축적을 제거하기 위해 배수구가 있습니다. 물과 오일이 시스템에 축적되도록 방치하면 브레이크에 손상을 줄 수 있습니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9947",
+      "question": "에어 브레이크가 있는 차량에서 저기압 경고 신호가 켜지면 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전 중 브레이크를 테스트하지만 문제가 없으면 계속 운전합니다."
+        },
+        {
+          "letter": "B",
+          "text": "즉시 운전을 중지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "비상등을 활성화하여 운전합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "즉시 운전을 중지합니다.",
+      "explanation": "에어 브레이크가 있는 차량을 운영하는 동안 저기압 경고 신호가 켜지면 가능한 빨리 차량을 안전하게 정차하고 주차해야 합니다. 여전히 약간의 제동력이 남아 있는 동안 안전하게 정지할 수 있어야 하는 것이 필수적입니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8756",
+      "question": "에어 탱크 드레인:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "추운 날씨에는 사용하지 않아야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "에어 탱크에서 물과 오일을 제거하는 데 도움이 됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크로 공기를 이동하는 데 사용됩니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "에어 탱크에서 물과 오일을 제거하는 데 도움이 됩니다.",
+      "explanation": "에어 브레이크 시스템의 압축 공기는 일반적으로 일정한 양의 물과 오일을 포함하고 있습니다. 이는 축적되도록 방치하면 시스템에 해를 끼칠 수 있습니다. 에어 탱크에는 압축 공기에서 물과 오일을 제거하는 데 도움이 되는 드레인 밸브가 있습니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8767",
+      "question": "공기 압력은 단일 공기 시스템에서 다음 시간 내에 축적되어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15분."
+        },
+        {
+          "letter": "B",
+          "text": "12분."
+        },
+        {
+          "letter": "C",
+          "text": "3분."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "3분.",
+      "explanation": "단일 에어 시스템에서, 공기 압력은 3분 이내에 약 50psi에서 90psi로 증가해야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11691",
+      "question": "이중 에어 브레이크 시스템에서, 한 시스템의 누수는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "항상 두 시스템 모두에 누수가 있음을 의미합니다."
+        },
+        {
+          "letter": "B",
+          "text": "다른 시스템에 영향을 미치지 않을 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "걱정할 필요가 없는 것입니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "다른 시스템에 영향을 미치지 않을 수 있습니다.",
+      "explanation": "듀얼 에어 브레이크 시스템은 두 개의 독립적인 에어 브레이크 시스템으로 구성됩니다. 한 시스템에 에어 누수가 있으면 다른 시스템에 영향을 미치지 않을 수 있습니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11667",
+      "question": "S-cam 브레이크가 있는 차량에서 브레이크 페달을 누르면 공기 압력이 로드를 밀어내고 다음을 움직입니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "슬랙 조정기."
+        },
+        {
+          "letter": "B",
+          "text": "차축."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크 드럼."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "슬랙 조정기.",
+      "explanation": "S-cam 브레이크가 있는 차량에서 브레이크 페달을 누르면 공기가 브레이크 챔버로 들어갑니다. 추가된 공기 압력은 로드를 밀어내고 슬랙 조정기를 움직여 브레이크 캠샤프트를 회전시킵니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11715",
+      "question": "에어 컴프레서 거버너는 에어 탱크가 다음의 에어 압력 수준에 도달하면 컴프레서가 에어를 펌핑하는 것을 멈춥니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125 psi."
+        },
+        {
+          "letter": "B",
+          "text": "100 psi."
+        },
+        {
+          "letter": "C",
+          "text": "150 psi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "125 psi.",
+      "explanation": "에어 컴프레서 거버너는 에어 탱크가 125 psi의 에어 압력 수준에 도달하면 컴프레서가 에어를 펌핑하는 것을 멈춥니다. 이 에어 압력 수준을 \"절단\" 수준이라고 합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11322",
+      "question": "공기 브레이크 시스템의 안전 구제 밸브가 공기를 방출하면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "압축기가 더 많은 공기가 필요합니다."
+        },
+        {
+          "letter": "B",
+          "text": "공기 압력이 너무 높아졌습니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크가 완전히 작동합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "공기 압력이 너무 높아졌습니다.",
+      "explanation": "공기 브레이크 시스템에는 압력이 너무 높아지면 탱크에서 공기를 방출하는 안전 구제 밸브가 있습니다. 밸브가 작동해야 하면 시스템에 문제가 있으며 정비사가 해결해야 합니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8763",
+      "question": "새로운 차량의 주차 브레이크는 다음에 의해 적용됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "레버를 오른쪽으로 이동합니다."
+        },
+        {
+          "letter": "B",
+          "text": "노란색 다이아몬드 모양의 손잡이를 밉니다."
+        },
+        {
+          "letter": "C",
+          "text": "노란색 다이아몬드 모양의 손잡이를 당깁니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "노란색 다이아몬드 모양의 손잡이를 당깁니다.",
+      "explanation": "새로운 에어 브레이크 차량에서 주차 브레이크는 노란색 다이아몬드 모양의 손잡이로 제어됩니다. 운전자는 주차 브레이크를 적용하려면 손잡이를 바깥쪽으로 당기고 해제하려면 손잡이를 안쪽으로 밀어야 합니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9296",
+      "question": "에어 브레이크 시스템의 안전 감압 밸브가 공기를 배출하는 경우:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "이것은 정상적인 과정이므로 걱정하지 않아도 됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크에 문제가 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "밸브가 작동합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "브레이크에 문제가 있습니다.",
+      "explanation": "에어 브레이크 시스템의 안전 감압 밸브는 필요에 따라 공기를 배출하여 시스템의 압력이 너무 높아지는 것을 방지합니다. 밸브가 공기를 배출하기 시작하면 문제가 있는 것입니다. 정비사가 문제를 수리하도록 하십시오."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11681",
+      "question": "적용된 누수 시험 중에, 에어 브레이크가 있는 단일 차량의 최대 누수율은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1분에 3 psi입니다."
+        },
+        {
+          "letter": "B",
+          "text": "1분에 6 psi입니다."
+        },
+        {
+          "letter": "C",
+          "text": "1분에 8 psi입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "1분에 3 psi입니다.",
+      "explanation": "특정 차량에 안전한 최대 공기 손실률을 아는 것이 중요합니다. 에어 브레이크를 갖춘 단일 차량은 적용된 누수 테스트 중에 1분에 3 psi 이상의 누수율을 가지면 안 됩니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11878",
+      "question": "운전자는 전륜 제동이 작동하는 것에 의존할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "건조한 도로에서만."
+        },
+        {
+          "letter": "B",
+          "text": "모든 상황에서."
+        },
+        {
+          "letter": "C",
+          "text": "눈을 제외한 모든 상황에서."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "모든 상황에서.",
+      "explanation": "전륜 제동은 모든 도로 상태에서 효과적입니다. 얼음 위에서도 전륜 스키드를 경험할 가능성은 낮습니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9298",
+      "question": "차량을 무인 상태로 두고 떠날 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주차 브레이크를 사용해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "주차 브레이크는 차량이 경사진 곳에 주차되어 있을 때만 사용하면 됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "주차 브레이크는 타이어를 손상시킬 수 있으므로 사용하지 않아야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "주차 브레이크를 사용해야 합니다.",
+      "explanation": "일반적으로 차량을 주차할 때 항상 주차 브레이크를 사용해야 합니다. 그러나 브레이크가 매우 뜨거운 경우 또는 브레이크가 젖어 있고 온도가 영하 이하인 경우 주차 브레이크를 작동하지 않아야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11901",
+      "question": "____ 은(는) 브레이크 페달에 의해 트리거되는 전기 스위치로 작동됩니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "헤드라이트"
+        },
+        {
+          "letter": "B",
+          "text": "방향 지시등"
+        },
+        {
+          "letter": "C",
+          "text": "브레이크 라이트"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "브레이크 라이트",
+      "explanation": "에어 브레이크가 있는 차량에서 브레이크 페달을 밟으면 브레이크 라이트가 활성화되고 공기 압력이 전기 스위치를 움직입니다. 공기 압력이 적용되면 스위치가 브레이크 라이트를 켭니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11701",
+      "question": "이중 공기 제동 시스템의 공기압은 85~100 psi로 다음 시간 내에 상승해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2분"
+        },
+        {
+          "letter": "B",
+          "text": "15초."
+        },
+        {
+          "letter": "C",
+          "text": "45초"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "45초",
+      "explanation": "이중 공기 브레이크 시스템이 있는 차량을 점검할 때, 주 시스템과 보조 시스템 모두에서 공기 압력이 85~100 psi로 증가할 때까지 기다려야 합니다. 이것은 약 45초가 소요됩니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11899",
+      "question": "운전 중에 저압 경고 신호가 활성화되면 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "현재 위치에 정차하여 주차함"
+        },
+        {
+          "letter": "B",
+          "text": "가능한 한 빨리 도로에서 벗어남"
+        },
+        {
+          "letter": "C",
+          "text": "정상적으로 운전을 계속함"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "가능한 한 빨리 도로에서 벗어남",
+      "explanation": "저압 경고 신호가 주행 중에 활성화되면 안전하게 도로를 빠져나와 가능한 한 빨리 차량을 주차하는 것이 중요합니다. 공기 압력이 너무 낮아지면 안전하게 멈출 수 있을 정도로 브레이크가 더 이상 잘 작동하지 않습니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11671",
+      "question": "제동 메커니즘은 브레이크 드럼의 ____ 위치에 있습니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "외부"
+        },
+        {
+          "letter": "B",
+          "text": "내부"
+        },
+        {
+          "letter": "C",
+          "text": "옆"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "내부",
+      "explanation": "드럼 브레이크는 바퀴에 부착되어 있고 차량의 액슬에 위치합니다. 차량을 멈추게 하는 제동 메커니즘은 드럼 브레이크 내부에서 찾을 수 있습니다."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8759",
+      "question": "응용 압력 게이지는 다음을 나타냅니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크에 가해지는 공기 압력의 양."
+        },
+        {
+          "letter": "B",
+          "text": "이용 가능한 공기 압력의 양."
+        },
+        {
+          "letter": "C",
+          "text": "차량을 정지시키기 위해 필요한 공기 압력의 양."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "브레이크에 가해지는 공기 압력의 양.",
+      "explanation": "차량에 장착된 경우, 응용 압력 게이지는 브레이크에 가해지는 공기 압력의 양을 표시합니다. 이 게이지는 운전자가 브레이크가 페이드되기 시작하는지 확인하는 데 도움이 될 수 있습니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11723",
+      "question": "공기 제동 장비가 있는 차량이 이상적인 주행 조건에서 55 mph의 속도로 주행할 때 완전히 정지하기까지 약 ____가 필요합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 feet"
+        },
+        {
+          "letter": "B",
+          "text": "250 feet"
+        },
+        {
+          "letter": "C",
+          "text": "450 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "450 feet",
+      "explanation": "차량의 전체 정지 거리는 인지 거리, 반응 거리, 브레이크 지연 거리 및 브레이킹 거리로 구성됩니다. 이 모든 요소를 포함하여 이상적인 운전 조건에서 55 mph의 속도로 주행하는 에어 브레이크 장착 차량은 완전히 멈추기 위해 약 450 feet가 필요합니다."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "9299",
+      "question": "평탄한 표면에 주차할 때는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "휠 초크를 사용하여 차량이 움직이는 것을 방지합니다."
+        },
+        {
+          "letter": "B",
+          "text": "휠 초크를 사용하지 마십시오."
+        },
+        {
+          "letter": "C",
+          "text": "주차 제동을 작동시킨 경우에만 휠 초크를 사용합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "휠 초크를 사용하여 차량이 움직이는 것을 방지합니다.",
+      "explanation": "평평한 표면에 주차할 때는 휠 초크를 사용해야 합니다. 차량에 스프링 제동이 장착되지 않은 경우 트레일러가 움직이는 것을 방지하기 위해 필수적입니다."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9604",
+      "question": "압축 공기에서 자주 발견되는 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "물"
+        },
+        {
+          "letter": "B",
+          "text": "판지"
+        },
+        {
+          "letter": "C",
+          "text": "브레이크 액"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "물",
+      "explanation": "에어 브레이크 시스템의 압축 공기는 일반적으로 일정한 양의 물과 컴프레서 오일을 포함하고 있습니다. 물과 오일이 시스템에 축적되면 브레이크가 손상될 수 있습니다. 이러한 축적을 제거하기 위해 탱크를 정기적으로 배출해야 합니다."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8634",
+      "question": "이중 에어 브레이크 시스템:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "단일 제어 장치를 공유하는 두 개의 별개 에어 브레이크 시스템으로 구성됨."
+        },
+        {
+          "letter": "B",
+          "text": "서로 다른 두 세트의 제어 장치를 가진 단일 에어 브레이크 시스템."
+        },
+        {
+          "letter": "C",
+          "text": "트럭의 왼쪽에 하나, 오른쪽에 하나씩 각각 고유한 제어 장치 세트를 가진 에어 브레이크 시스템으로 구성됨."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "단일 제어 장치를 공유하는 두 개의 별개 에어 브레이크 시스템으로 구성됨.",
+      "explanation": "이중 에어 브레이크 시스템은 두 개의 별개 에어 브레이크 시스템으로 구성됨. 시스템은 단일 브레이크 제어 장치를 공유하지만, 각각은 고유한 에어 탱크, 호스 및 라인을 가짐. 일반적으로 한 시스템은 후미 차축의 정상 브레이크를 작동하고 다른 시스템은 전방 차축의 정상 브레이크를 작동함."
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "state": "Montana",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/montana/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9892",
+      "question": "What type of brakes do most newer heavy-duty trucks use?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Single air brakes"
+        },
+        {
+          "letter": "B",
+          "text": "Dual air brakes"
+        },
+        {
+          "letter": "C",
+          "text": "Triple air brakes"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dual air brakes",
+      "explanation": "Most newer heavy-duty trucks use dual air brake systems. This system has two separate air brake systems that share one set of brake controls."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11700",
+      "question": "In a dual air brake system, air pressure should build from 85 to 100 psi in how much time?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two minutes."
+        },
+        {
+          "letter": "B",
+          "text": "15 seconds."
+        },
+        {
+          "letter": "C",
+          "text": "10 minutes."
+        },
+        {
+          "letter": "D",
+          "text": "45 seconds."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "45 seconds.",
+      "explanation": "When checking a dual air brake system, air pressure should build from 85 to 100 psi in both the primary and secondary systems in about 45 seconds."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8633",
+      "question": "What does an Anti-Lock Braking System (ABS) do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce a vehicle's normal braking power."
+        },
+        {
+          "letter": "B",
+          "text": "Work in addition to other braking systems without reducing braking power."
+        },
+        {
+          "letter": "C",
+          "text": "Are not effective on larger vehicles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Work in addition to other braking systems without reducing braking power.",
+      "explanation": "ABS works in addition to a vehicle's normal braking system. It does not increase or decrease the braking power of other systems. ABS only activates when a vehicle's wheels are about to lock."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8877",
+      "question": "What color is the ABS malfunction lamp?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orange"
+        },
+        {
+          "letter": "B",
+          "text": "Yellow"
+        },
+        {
+          "letter": "C",
+          "text": "Green"
+        },
+        {
+          "letter": "D",
+          "text": "Blue"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Yellow",
+      "explanation": "Vehicles with Anti-Lock Braking Systems have yellow malfunction lamps."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11883",
+      "question": "During an inspection, how far should slack adjusters on S-cam brakes move?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No more than one foot."
+        },
+        {
+          "letter": "B",
+          "text": "No more than one centimeter."
+        },
+        {
+          "letter": "C",
+          "text": "No more than one inch."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "No more than one inch.",
+      "explanation": "Park on level ground, set wheel chocks, and disengage the parking brake. Pull the slack adjusters to check that they do not move more than one inch from the push rod attachment point. If they move more than one inch, they need adjustment."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11933",
+      "question": "When should a low air pressure warning signal activate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When tank pressure falls below 120 psi."
+        },
+        {
+          "letter": "B",
+          "text": "When tank pressure falls below 60 psi."
+        },
+        {
+          "letter": "C",
+          "text": "When tank pressure falls below 10 psi."
+        },
+        {
+          "letter": "D",
+          "text": "When tank pressure falls below 5 psi."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When tank pressure falls below 60 psi.",
+      "explanation": "In an air brake system, a low air pressure warning signal must come on when air pressure drops below 60 psi. The warning can be a light, buzzer, or wig wag."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11682",
+      "question": "What is the maximum air leakage rate for a double combination vehicle during a static leakage test?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi in one minute."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi in one minute."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi in one minute."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi in one minute."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi in one minute.",
+      "explanation": "During a static leakage test on a double combination vehicle with air brakes, air should not leak more than 3 psi in one minute. Higher leakage means something needs repair before driving."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11464",
+      "question": "Before driving a vehicle with air brakes, when should spring brakes come on automatically?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When air pressure falls below 45 psi."
+        },
+        {
+          "letter": "B",
+          "text": "When air pressure falls below 20 psi."
+        },
+        {
+          "letter": "C",
+          "text": "When driving downhill."
+        },
+        {
+          "letter": "D",
+          "text": "When driving uphill."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When air pressure falls below 45 psi.",
+      "explanation": "Before driving, test that spring brakes come on automatically when air pressure falls between 20 and 45 psi. To test this, chock the wheels, disengage the parking brake, and release air by pressing the brake pedal repeatedly. The parking brake valve should pop out and spring brakes should engage when pressure gets too low."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8625",
+      "question": "What do the air storage tanks do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hold enough air for only one braking cycle."
+        },
+        {
+          "letter": "B",
+          "text": "Hold enough air for several braking cycles if the compressor stops working."
+        },
+        {
+          "letter": "C",
+          "text": "Do not hold air unless there is an emergency."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Hold enough air for several braking cycles if the compressor stops working.",
+      "explanation": "The air storage tanks store compressed air for braking. They hold enough air for the brakes to work several times even if the compressor stops working."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11884",
+      "question": "How should you test the low pressure warning signal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn on the engine and apply the trailer hand brake."
+        },
+        {
+          "letter": "B",
+          "text": "Press and release the brake pedal quickly and repeatedly."
+        },
+        {
+          "letter": "C",
+          "text": "Remove wheel chocks and disengage the parking brake."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Press and release the brake pedal quickly and repeatedly.",
+      "explanation": "After the system is fully charged, test the warning signal by pressing and releasing the brake pedal repeatedly. This releases air from the system, and the warning signal should come on when pressure drops to a dangerous level."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10744",
+      "question": "What should you do when driving down a steep hill?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use only the air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Shift to a lower gear, then use brakes to help slow the engine braking."
+        },
+        {
+          "letter": "C",
+          "text": "Downshift instead of using the brakes."
+        },
+        {
+          "letter": "D",
+          "text": "Drive on the shoulder of the road."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Shift to a lower gear, then use brakes to help slow the engine braking.",
+      "explanation": "On a downgrade, use engine braking as your main way to control speed. Shift to a lower gear before going down the hill. Use brakes only when you need extra slowing or stopping."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9001",
+      "question": "What can happen if you press and release the brake pedal too many times?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air leaves the system faster than the compressor can replace it."
+        },
+        {
+          "letter": "B",
+          "text": "More air is added to the brake system."
+        },
+        {
+          "letter": "C",
+          "text": "The brake pedal becomes more sensitive."
+        },
+        {
+          "letter": "D",
+          "text": "A loud noise is created."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Air leaves the system faster than the compressor can replace it.",
+      "explanation": "In an air brake system, pressing and releasing the brake pedal too many times causes air to leave the system faster than the compressor can replace it."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9379",
+      "question": "What happens if brake pads create too much heat against the brake drums?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The brakes will stick."
+        },
+        {
+          "letter": "B",
+          "text": "The brakes will become extra sensitive."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes may stop working."
+        },
+        {
+          "letter": "D",
+          "text": "The air compressor will turn on to cool the brakes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The brakes may stop working.",
+      "explanation": "When brakes get too hot from overuse, they become less effective and may stop working. This is called brake fade."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8866",
+      "question": "Where is the safety relief valve usually located?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Near the rear brake."
+        },
+        {
+          "letter": "B",
+          "text": "Near the front brake."
+        },
+        {
+          "letter": "C",
+          "text": "In an air tank."
+        },
+        {
+          "letter": "D",
+          "text": "On the dashboard."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "In an air tank.",
+      "explanation": "The safety relief valve is located in the air tank that receives air first from the compressor."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11676",
+      "question": "How do you test the low pressure warning signal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apply and release the parking brake."
+        },
+        {
+          "letter": "B",
+          "text": "Press and release the brake pedal quickly several times."
+        },
+        {
+          "letter": "C",
+          "text": "Open the rear shut-off valves."
+        },
+        {
+          "letter": "D",
+          "text": "Disconnect and reconnect all air hose connections."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Press and release the brake pedal quickly several times.",
+      "explanation": "After the system is fully charged, test the warning signal by pressing and releasing the brake pedal quickly several times. This releases air and the warning light should come on when pressure drops to a dangerous level."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11465",
+      "question": "What is the maximum air leakage rate for a double combination vehicle during a leakage test?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi in one minute."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi in one minute."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi in one minute."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi in one minute."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4 psi in one minute.",
+      "explanation": "A double combination vehicle should not lose more than 4 psi in one minute during a leakage test."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9604",
+      "question": "What is commonly found in compressed air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water."
+        },
+        {
+          "letter": "B",
+          "text": "Cardboard."
+        },
+        {
+          "letter": "C",
+          "text": "Brake fluid."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Water.",
+      "explanation": "Compressed air usually contains water and compressor oil. These can damage the brakes if they build up in the system. Tanks must be drained regularly to remove this buildup."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8873",
+      "question": "How do you apply the parking brake in a newer vehicle with air brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By pulling out a diamond-shaped yellow knob."
+        },
+        {
+          "letter": "B",
+          "text": "By pulling out a round red knob."
+        },
+        {
+          "letter": "C",
+          "text": "By pulling out a square green knob."
+        },
+        {
+          "letter": "D",
+          "text": "By pulling out a black round knob."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "By pulling out a diamond-shaped yellow knob.",
+      "explanation": "In a newer vehicle with air brakes, the parking brake is controlled by a diamond-shaped yellow knob. Pull it out to apply the brakes and push it in to release them."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11533",
+      "question": "Before driving, what should automatically come on when air pressure falls below 45 psi?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spring brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Parking brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Air brakes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Spring brakes.",
+      "explanation": "Before driving a vehicle with air brakes, make sure the spring brakes come on automatically when pressure falls between 20 and 45 psi. Test this by chocking the wheels and releasing air by pressing the brake pedal repeatedly. When pressure gets too low, the spring brakes should come on."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11668",
+      "question": "What causes friction inside a brake drum?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brake shoes and linings push against each other."
+        },
+        {
+          "letter": "B",
+          "text": "Brake shoes and linings separate from the axle."
+        },
+        {
+          "letter": "C",
+          "text": "Brake shoes and linings push against the inside of the drum."
+        },
+        {
+          "letter": "D",
+          "text": "Excess heat is created."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Brake shoes and linings push against the inside of the drum.",
+      "explanation": "Friction is created when the brake shoes and linings push against the inside of the drum. This friction slows and stops the vehicle."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11531",
+      "question": "What shows you how much air pressure is in your vehicle's air tanks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The supply pressure gauge"
+        },
+        {
+          "letter": "B",
+          "text": "The ABS malfunction lamp"
+        },
+        {
+          "letter": "C",
+          "text": "The tractor protection valve"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The supply pressure gauge",
+      "explanation": "Vehicles with air brakes must have a supply pressure gauge. This gauge shows the driver how much air pressure is in each air tank."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8634",
+      "question": "What is a dual air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two separate air brake systems that share one set of controls."
+        },
+        {
+          "letter": "B",
+          "text": "One air brake system with two different sets of controls."
+        },
+        {
+          "letter": "C",
+          "text": "One system for the left side of the truck and one for the right side, each with its own controls."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Two separate air brake systems that share one set of controls.",
+      "explanation": "A dual air brake system has two separate air brake systems. They share one set of brake controls. Each system has its own air tanks, hoses, and lines. One system usually operates the rear brakes while the other operates the front brakes."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "10960",
+      "question": "What comes out when you drain an air tank?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water and oil"
+        },
+        {
+          "letter": "B",
+          "text": "Ammonia"
+        },
+        {
+          "letter": "C",
+          "text": "Wood"
+        },
+        {
+          "letter": "D",
+          "text": "Chlorine"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Water and oil",
+      "explanation": "Air storage tanks have drains to remove water and compressor oil. If left in the system, water and oil can damage the brakes."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9890",
+      "question": "What do air brakes use to work?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compressed air"
+        },
+        {
+          "letter": "B",
+          "text": "Outside air"
+        },
+        {
+          "letter": "C",
+          "text": "Non-compressed air"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Compressed air",
+      "explanation": "Many large trucks use air brakes. An air brake system uses compressed air to operate."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11325",
+      "question": "What should a driver do when leaving a vehicle unattended?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always set the parking brake."
+        },
+        {
+          "letter": "B",
+          "text": "Only set the parking brake if parked on a slope."
+        },
+        {
+          "letter": "C",
+          "text": "Deflate the tires by 10 percent."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Always set the parking brake.",
+      "explanation": "Always apply the parking brake when you leave your vehicle unattended."
+    }
+  ]
+}

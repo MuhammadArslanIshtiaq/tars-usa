@@ -1,0 +1,512 @@
+{
+  "state": "New York",
+  "category": "car",
+  "quizName": "Hard Practice Test #2",
+  "slug": "hard-practice-test-2",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1960",
+      "question": "如果在双车道上被跟随得太近：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "缓慢减速以促使尾随者绕过你。"
+        },
+        {
+          "letter": "B",
+          "text": "加速以增加你和另一辆车之间的距离。"
+        },
+        {
+          "letter": "C",
+          "text": "踩刹车减速，然后恢复原来的速度。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "缓慢减速以促使尾随者绕过你。",
+      "explanation": "如果被另一驾驶员跟随得太近，合并到不同的车道。如果没有可用的车道进行合并，请等待前方道路畅通，然后缓慢降低速度。这样会促使尾随者绕过你。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "395",
+      "question": "你可以越过双实黄线:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "超过一辆缓行卡车。"
+        },
+        {
+          "letter": "B",
+          "text": "转入车道。"
+        },
+        {
+          "letter": "C",
+          "text": "超过另一辆车。"
+        },
+        {
+          "letter": "D",
+          "text": "在任何情况下都不可以。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "转入车道。",
+      "explanation": "双实线表示你不可以超车或变道。除非是为了左转进入或驶出高速公路、转入或驶出车道,或进行掉头(在允许的情况下),否则你不能越过这些线。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "485",
+      "question": "这个标志表示：",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "禁止左转。"
+        },
+        {
+          "letter": "B",
+          "text": "禁止停车。"
+        },
+        {
+          "letter": "C",
+          "text": "禁止掉头。"
+        },
+        {
+          "letter": "D",
+          "text": "前方绕行。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "禁止掉头。",
+      "explanation": "此标志表示禁止掉头。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "418",
+      "question": "你来到一个被其他车辆阻挡的十字路口。你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "缓慢行驶，直到前方交通移动。"
+        },
+        {
+          "letter": "B",
+          "text": "尽可能靠近前面的车。"
+        },
+        {
+          "letter": "C",
+          "text": "在能够通过之前，保持在十字路口外。"
+        },
+        {
+          "letter": "D",
+          "text": "按喇叭让车辆向前移动。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在能够通过之前，保持在十字路口外。",
+      "explanation": "如果另一侧交通堵塞，你无法完全通过十字路口，则不能进入该十字路口。等待前方交通畅通，以免阻挡十字路口。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "415",
+      "question": "您想在十字路口向左转。灯是绿色的，但对面的交通很繁忙。您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "使用下一个十字路口。"
+        },
+        {
+          "letter": "B",
+          "text": "在斑马线处等待交通通过。"
+        },
+        {
+          "letter": "C",
+          "text": "在十字路口中心等待交通通过。"
+        },
+        {
+          "letter": "D",
+          "text": "由于您有绿灯，请占用通行权。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在十字路口中心等待交通通过。",
+      "explanation": "在有接近交通的地方进行左转时，您必须等待接近的交通通过后才能转弯。如果灯是绿色的且您前面没有其他车辆计划进行左转，您可以进入十字路口为左转做准备。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "103",
+      "question": "如果因为灰尘或烟雾吹过道路而难以看到其他车辆，你应该驾驶更慢并打开你的：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "紧急闪烁灯。"
+        },
+        {
+          "letter": "B",
+          "text": "停车灯。"
+        },
+        {
+          "letter": "C",
+          "text": "前灯。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "前灯。",
+      "explanation": "任何时候条件阻止你看到其他车辆时，你都必须打开前灯。其他驾驶者也可能难以看到你。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "324",
+      "question": "从多车道、单向街道和高速公路左转时，你应该从以下位置开始：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "交叉口的中间。"
+        },
+        {
+          "letter": "B",
+          "text": "右侧车道。"
+        },
+        {
+          "letter": "C",
+          "text": "左车道。"
+        },
+        {
+          "letter": "D",
+          "text": "任何车道。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "左车道。",
+      "explanation": "从多车道街道和高速公路左转时，从左车道开始。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1174",
+      "question": "当您在有路缘的街道上向上坡停车时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "保持前轮笔直并设置停车制动。"
+        },
+        {
+          "letter": "B",
+          "text": "将前轮转向远离路缘的方向。"
+        },
+        {
+          "letter": "C",
+          "text": "将前轮转向朝向路缘的方向。"
+        },
+        {
+          "letter": "D",
+          "text": "将后轮向路缘转向。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "将前轮转向远离路缘的方向。",
+      "explanation": "在有路缘的斜坡上停车时，应将车轮向左急速转向，远离路缘。这样，如果制动失效，您的车辆不会滑向交通流。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "432",
+      "question": "某个地点的\"No parking\"标志表示:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您不能在那里停车。"
+        },
+        {
+          "letter": "B",
+          "text": "你只能临时停止以装卸乘客。"
+        },
+        {
+          "letter": "C",
+          "text": "如果驾驶员留在车内，您可以在那里停车。"
+        },
+        {
+          "letter": "D",
+          "text": "你可以将你的车辆无人值守停放不超过5分钟。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "你只能临时停止以装卸乘客。",
+      "explanation": "\"禁止停车\"标志意味着您可以临时停车以上下货物或乘客。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "2079",
+      "question": "你在超越自行车时应该谨慎，因为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您的行驶速度比自行车快。"
+        },
+        {
+          "letter": "B",
+          "text": "自行车始终拥有优先通行权。"
+        },
+        {
+          "letter": "C",
+          "text": "对面来的交通可能看不到您驶出超越自行车。"
+        },
+        {
+          "letter": "D",
+          "text": "骑车者可能需要突然转向交通中以避开道路上的物体。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "骑车者可能需要突然转向交通中以避开道路上的物体。",
+      "explanation": "经过自行车时，您应该始终保持谨慎，因为骑车者可能需要突然转向交通中以避开道路上的物体。驾驶到自行车骑手附近时要特别小心。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "117",
+      "question": "当您看到此标志时，您：",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "正在靠近铁路道口，应准备停止。"
+        },
+        {
+          "letter": "B",
+          "text": "将始终在即将到来的铁路道口停止。"
+        },
+        {
+          "letter": "C",
+          "text": "应在穿过铁路轨道前停止并等待信号。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "正在靠近铁路道口，应准备停止。",
+      "explanation": "该标志表示您正在靠近铁路道口。您必须观察、倾听、减速并准备停止。在您继续之前，等待任何列车通过。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "85",
+      "question": "当您：时，您正在防御性驾驶。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在您和前面的车之间保持一个车长的距离。"
+        },
+        {
+          "letter": "B",
+          "text": "驾驶时只看前面的车。"
+        },
+        {
+          "letter": "C",
+          "text": "让您的眼睛不断移动以寻找可能的危险。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "让您的眼睛不断移动以寻找可能的危险。",
+      "explanation": "当您向前看可能存在的危险时，您正在进行防御性驾驶。不断盯着您车辆正前方的道路是危险的。当您向前扫视时，要警惕您周围的车辆。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "593",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/arkansas-traffic_lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前方道路变宽。"
+        },
+        {
+          "letter": "B",
+          "text": "车道减少；右车道即将结束。"
+        },
+        {
+          "letter": "C",
+          "text": "高速公路入口匝道即将到来。"
+        },
+        {
+          "letter": "D",
+          "text": "车道减少；左车道即将结束。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "车道减少；右车道即将结束。",
+      "explanation": "此标志表示右车道即将结束。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "562",
+      "question": "当遇到一辆前灯致眩的车辆时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "使用你的远光灯，直到对方车辆调暗灯光。"
+        },
+        {
+          "letter": "B",
+          "text": "闪烁你的灯光来警告其他驾驶员。"
+        },
+        {
+          "letter": "C",
+          "text": "调暗你的灯光，然后加速快速超车。"
+        },
+        {
+          "letter": "D",
+          "text": "朝道路右侧看。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "朝道路右侧看。",
+      "explanation": "如果对面有车辆打开远光灯向你驶来，要看向远离前灯的地方并朝向道路右侧，直到该车通过。这样可以防止你被致眩。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "471",
+      "question": "驾驶者应该意识到所有在天黑后使用的自行车必须具有：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "反光把手握把。"
+        },
+        {
+          "letter": "B",
+          "text": "前照灯和红色尾灯。"
+        },
+        {
+          "letter": "C",
+          "text": "前后挡泥板上的白色反光镜。"
+        },
+        {
+          "letter": "D",
+          "text": "制动灯。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "前照灯和红色尾灯。",
+      "explanation": "夜间使用的自行车必须配备前照灯（从至少500英尺前方可见）和红色尾灯（从至少300英尺后方可见）。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "473",
+      "question": "你想从你的车道倒车。你看到附近有孩子在玩。在你开始移动你的车之前,你应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "加速你的发动机以警告孩子你在移动。"
+        },
+        {
+          "letter": "B",
+          "text": "鸣笛以便孩子听到你。"
+        },
+        {
+          "letter": "C",
+          "text": "走到车后确认路线清楚。"
+        },
+        {
+          "letter": "D",
+          "text": "告诉孩子远离车道。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "走到车后确认路线清楚。",
+      "explanation": "当你倒车时,通过后窗查看行人和其他障碍物。不要仅依靠你的镜子,特别是当孩子在附近时。在你倒入或从车道倒出之前,下车检查你的车后面。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1461",
+      "question": "拥有驾驶执照是一种:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "权利,而不是特权。"
+        },
+        {
+          "letter": "B",
+          "text": "特权,而不是权利。"
+        },
+        {
+          "letter": "C",
+          "text": "要求。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "特权,而不是权利。",
+      "explanation": "持有驾驶执照不是权利。这是必须获得和维持的特权。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "421",
+      "question": "你正在从双向街道左转到单向街道。完成转弯后,你的车应该在:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在街道的右车道。"
+        },
+        {
+          "letter": "B",
+          "text": "在街道的中心。"
+        },
+        {
+          "letter": "C",
+          "text": "在街道的左车道。"
+        },
+        {
+          "letter": "D",
+          "text": "在交通最少的车道。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在街道的左车道。",
+      "explanation": "如果你从双向街道左转到单向街道,你应该完成转弯进入离你刚离开的车道最近的车道。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "406",
+      "question": "驶近没有信号指示交通的铁路道口时应该采取什么适当的行动？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "始终将汽车完全停下来。"
+        },
+        {
+          "letter": "B",
+          "text": "减速并做好停止准备。"
+        },
+        {
+          "letter": "C",
+          "text": "所有铁路道口都有信号，所以你永远不会遇到这种情况。"
+        },
+        {
+          "letter": "D",
+          "text": "加速以快速通过轨道。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "减速并做好停止准备。",
+      "explanation": "驶近无标记的铁路道口时，减速并准备停止。在你通过之前，确保没有火车从任何方向在任何轨道上驶来。如果你看到或听到火车驶来，在距离最近轨道安全距离处停车，并等待火车通过后再继续行驶。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1423",
+      "question": "当你看到或听到紧急车辆驶来时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "立即停止并让车辆通过。"
+        },
+        {
+          "letter": "B",
+          "text": "尽可能靠近道路右侧行驶并停止。"
+        },
+        {
+          "letter": "C",
+          "text": "缓慢前进并允许车辆通过。"
+        },
+        {
+          "letter": "D",
+          "text": "保持缓慢移动，停留在道路的右侧。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "尽可能靠近道路右侧行驶并停止。",
+      "explanation": "当在两车道道路或未分隔的高速公路上行驶时，无论紧急车辆从哪个方向驶来，如果它正在使用灯光和/或警笛，你必须让行。立即尽可能靠近道路右侧行驶并停止，注意不要在十字路口内停止。"
+    }
+  ]
+}

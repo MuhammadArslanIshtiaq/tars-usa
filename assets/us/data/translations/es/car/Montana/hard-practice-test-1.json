@@ -1,0 +1,792 @@
+{
+  "state": "Montana",
+  "category": "car",
+  "quizName": "Hard Practice Test #1",
+  "slug": "hard-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1748",
+      "question": "Tu vehículo choca con un vehículo estacionado desatendido y no puedes localizar al dueño del vehículo. Tú:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has hecho todo lo que puedes."
+        },
+        {
+          "letter": "B",
+          "text": "Debes esperar hasta que llegue la policía."
+        },
+        {
+          "letter": "C",
+          "text": "Debes dejar un aviso escrito con tu nombre, tu dirección y las circunstancias del accidente."
+        },
+        {
+          "letter": "D",
+          "text": "Puedes seguir tu camino."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Debes dejar un aviso escrito con tu nombre, tu dirección y las circunstancias del accidente.",
+      "explanation": "Al chocar con un vehículo desatendido, detente e intenta localizar al dueño. Si no puedes encontrar al dueño, deja un aviso escrito con tu nombre, tu dirección y las circunstancias del accidente."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "1707",
+      "question": "Aumentar la velocidad de su vehículo:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta su campo de visión."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye su campo de visión."
+        },
+        {
+          "letter": "C",
+          "text": "Facilita la visión del tráfico cruzado."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene efecto en su campo de visión."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Disminuye su campo de visión.",
+      "explanation": "Cuanto más rápido conduzca, más pequeño se vuelve su campo de visión. A medida que aumenta su velocidad y disminuye su campo de visión, debe estar especialmente atento a los peligros potenciales."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1710",
+      "question": "Cuando conduce hacia un área desconocida, usted:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe depender de las señales de tránsito para encontrar su camino."
+        },
+        {
+          "letter": "B",
+          "text": "Debe planificar su viaje con anticipación."
+        },
+        {
+          "letter": "C",
+          "text": "Solo necesita saber aproximadamente dónde está su destino."
+        },
+        {
+          "letter": "D",
+          "text": "Siempre debe elegir la ruta más directa."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Debe planificar su viaje con anticipación.",
+      "explanation": "Cuando conduce hacia un área desconocida, planifique su viaje con anticipación. No comience solo con una idea vaga de adónde va. Si su destino está en un área desconocida, verifique la ubicación en un mapa antes de comenzar a conducir."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "416",
+      "question": "Cuando dos vehículos entran en una intersección desde diferentes carreteras al mismo tiempo, ¿cuál vehículo debe ceder el paso?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cualquiera de los dos"
+        },
+        {
+          "letter": "B",
+          "text": "El vehículo a la izquierda"
+        },
+        {
+          "letter": "C",
+          "text": "El vehículo de la derecha"
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "El vehículo a la izquierda",
+      "explanation": "En intersecciones controladas por señales o letreros y en intersecciones no controladas, el conductor a la izquierda debe ceder el paso al conductor a la derecha cuando dos vehículos llegan a la intersección al mismo tiempo."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "301",
+      "question": "Puede tocar su bocina cuando:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene que detenerse rápidamente."
+        },
+        {
+          "letter": "B",
+          "text": "Está adelantando otro vehículo."
+        },
+        {
+          "letter": "C",
+          "text": "Ha perdido el control de su automóvil."
+        },
+        {
+          "letter": "D",
+          "text": "Está pasando a un ciclista."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ha perdido el control de su automóvil.",
+      "explanation": "Una situación donde es apropiado usar su bocina es si pierde el control de su vehículo. En este caso, suene su bocina para alertar a otros conductores."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "2251",
+      "question": "Las señales de guía son ____ señales que proporcionan información direccional y de distancia a los conductores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amarillo"
+        },
+        {
+          "letter": "B",
+          "text": "Rojo"
+        },
+        {
+          "letter": "C",
+          "text": "Verde"
+        },
+        {
+          "letter": "D",
+          "text": "Blanco"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Verde",
+      "explanation": "Las señales de guía, a veces conocidas como señales de destino, tienen un fondo verde y proporcionan información direccional y de distancia a destinos específicos. Pueden ser un recurso útil cuando se conduce en ubicaciones desconocidas."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "2068",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/montana-right_and_left_curves.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La carretera adelante se curva solo hacia la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera adelante gira bruscamente hacia la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera adelante se curva hacia la derecha y luego hacia la izquierda."
+        },
+        {
+          "letter": "D",
+          "text": "La carretera adelante se curva hacia la izquierda y luego hacia la derecha."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La carretera adelante se curva hacia la derecha y luego hacia la izquierda.",
+      "explanation": "Las señales de advertencia se utilizan para advertir a los conductores sobre condiciones peligrosas próximas y generalmente son amarillas con marcas negras. Esta señal advierte a los conductores que la carretera adelante se curva hacia la derecha y luego hacia la izquierda."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "2082",
+      "question": "Además de sus señales de giro, otros conductores a veces pueden determinar su intención de girar por:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La posición de su vehículo y contacto visual."
+        },
+        {
+          "letter": "B",
+          "text": "El giro de sus ruedas."
+        },
+        {
+          "letter": "C",
+          "text": "Su desaceleración en la esquina."
+        },
+        {
+          "letter": "D",
+          "text": "Las acciones del auto detrás de usted."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La posición de su vehículo y contacto visual.",
+      "explanation": "Debe advertir a otros conductores que va a cambiar de dirección con la posición de su vehículo y contacto visual. El contacto visual y la posición del vehículo deben ser además de usar correctamente sus señales de giro."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "571",
+      "question": "Puedes estacionar o detenerte en el acotamiento de la carretera:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre que enciendas tus luces de emergencia intermitentes."
+        },
+        {
+          "letter": "B",
+          "text": "Si ninguna parte de tu vehículo está en la carretera."
+        },
+        {
+          "letter": "C",
+          "text": "Si necesitas ver un mapa para direcciones."
+        },
+        {
+          "letter": "D",
+          "text": "Solo si tienes una emergencia."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Solo si tienes una emergencia.",
+      "explanation": "Está prohibido estacionar en el acotamiento de una carretera, excepto en caso de emergencia."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1425",
+      "question": "Se acerca a una intersección cuando el semáforo cambia de verde a amarillo sólido. Debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Considérelo como una señal de precaución y continúe a través de la intersección."
+        },
+        {
+          "letter": "B",
+          "text": "Deténgase inmediatamente."
+        },
+        {
+          "letter": "C",
+          "text": "Deténgase antes de entrar a la intersección, a menos que esté demasiado cerca para detenerse de forma segura."
+        },
+        {
+          "letter": "D",
+          "text": "Acelere para pasar a través de la intersección antes de que aparezca la luz roja."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Deténgase antes de entrar a la intersección, a menos que esté demasiado cerca para detenerse de forma segura.",
+      "explanation": "Al acercarse a una intersección con un semáforo amarillo sólido, reduzca la velocidad para detenerse antes de entrar a la intersección, si es seguro hacerlo. Si no puede detenerse de forma segura, conduzca cuidadosamente a través de la intersección."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1059",
+      "question": "Cuando se acerca a un cruce de ferrocarril sin señales de advertencia intermitentes o puertas de cruce, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cruce las vías inmediatamente y lo más rápido posible."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre deténgase antes de cruzar las vías."
+        },
+        {
+          "letter": "C",
+          "text": "Prepárese para ceder a cualquier tren en el cruce."
+        },
+        {
+          "letter": "D",
+          "text": "Acelere para vencer a cualquier tren que se acerque."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Prepárese para ceder a cualquier tren en el cruce.",
+      "explanation": "Siempre esté preparado para ceder ante cualquier tren que se aproxime antes de cruzar las vías del ferrocarril, particularmente si no hay luces ni puertas que controlen el cruce. Nunca comience a cruzar las vías hasta que haya espacio para todo su vehículo al otro lado de las vías. Debido al riesgo de que un vehículo se bloquee, no es prudente cambiar de velocidad al cruzar vías de ferrocarril."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "332",
+      "question": "Al salir de una carretera, debes reducir la velocidad:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la carretera principal, justo antes del carril de salida."
+        },
+        {
+          "letter": "B",
+          "text": "Una vez que vea una cabina de peaje."
+        },
+        {
+          "letter": "C",
+          "text": "Una vez que se ha movido al carril de salida."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando ve por primera vez la señal de salida."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Una vez que se ha movido al carril de salida.",
+      "explanation": "Al salir de una autopista, debe entrar en el carril de salida con suficiente anticipación. No comience a reducir la velocidad hasta después de haber entrado en el carril de salida."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1432",
+      "question": "Para revisar su punto ciego cuando cambia de carril hacia la izquierda, debe mirar:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sobre su hombro derecho."
+        },
+        {
+          "letter": "B",
+          "text": "En su espejo lateral."
+        },
+        {
+          "letter": "C",
+          "text": "Sobre su hombro izquierdo."
+        },
+        {
+          "letter": "D",
+          "text": "En su espejo retrovisor."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sobre su hombro izquierdo.",
+      "explanation": "Para revisar su punto ciego, mire sobre su hombro en la dirección que desea moverse."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "418",
+      "question": "Llegas a una intersección bloqueada por otro tráfico. Deberías:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ve lentamente hasta que el tráfico adelante se mueva."
+        },
+        {
+          "letter": "B",
+          "text": "Acércate lo más posible al auto que está frente a ti."
+        },
+        {
+          "letter": "C",
+          "text": "Mantente fuera de la intersección hasta que puedas pasar por ella."
+        },
+        {
+          "letter": "D",
+          "text": "Toca tu claxon para que los autos se muevan."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Mantente fuera de la intersección hasta que puedas pasar por ella.",
+      "explanation": "No puedes entrar en una intersección si el tráfico está respaldado en el otro lado y no puedes pasar completamente por la intersección. Espera hasta que el tráfico adelante se despeje para que no bloquees la intersección."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "327",
+      "question": "Lo más importante que debe recordar sobre la gestión de velocidad en curvas es que debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduzca a la velocidad máxima permitida al entrar en la curva, luego reduzca la velocidad en la parte más cerrada de la curva."
+        },
+        {
+          "letter": "B",
+          "text": "Reduzca la velocidad antes de entrar en la curva."
+        },
+        {
+          "letter": "C",
+          "text": "Acelere suavemente antes de entrar en la curva."
+        },
+        {
+          "letter": "D",
+          "text": "Conduzca a la velocidad máxima permitida antes, durante y después de la curva."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Reduzca la velocidad antes de entrar en la curva.",
+      "explanation": "Lo más importante que debe recordar sobre conducir en curvas es que la inercia de su vehículo puede dificultar el giro. Para mantener el control, es esencial que reduzca la velocidad antes de entrar en la curva."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1517",
+      "question": "¿Cuál de los siguientes asegura mejor tu seguridad y la seguridad de quienes te rodean cuando estás retrocediendo tu vehículo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toca la bocina justo antes de cambiar a reversa."
+        },
+        {
+          "letter": "B",
+          "text": "Revisa detrás del vehículo antes de sentarte en el asiento del conductor."
+        },
+        {
+          "letter": "C",
+          "text": "Verifica tus espejos retrovisores para ver lo que hay detrás de ti."
+        },
+        {
+          "letter": "D",
+          "text": "Sube el volumen de la radio del coche antes de retroceder para llamar la atención de cualquiera que esté cerca de ti."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Revisa detrás del vehículo antes de sentarte en el asiento del conductor.",
+      "explanation": "Retroceder requiere precaución extra porque es difícil para los conductores ver detrás de sus vehículos. Antes de entrar a un vehículo para retroceder, camina hacia la parte trasera del vehículo para verificar si hay niños y objetos pequeños."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1563",
+      "question": "Una zona de trabajo:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pueden ser móviles o estacionarias."
+        },
+        {
+          "letter": "B",
+          "text": "Se marca con señales blancas y negras."
+        },
+        {
+          "letter": "C",
+          "text": "No requiere que un conductor reduzca la velocidad y preste atención extra."
+        },
+        {
+          "letter": "D",
+          "text": "Todo lo anterior."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pueden ser móviles o estacionarias.",
+      "explanation": "Las zonas de trabajo a menudo son estacionarias, pero también pueden estar presentes en forma de vehículos en movimiento, líneas de demarcación, siega o remoción de nieve. Las zonas de trabajo se marcan con señales naranjas con letras o símbolos negros. Reduce la velocidad y presta atención extra cuando te aproximes o conduzcas a través de una zona de trabajo."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "899",
+      "question": "Llegas a una intersección con una luz roja intermitente. Debes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye la velocidad y conduce cuidadosamente a través de la intersección."
+        },
+        {
+          "letter": "B",
+          "text": "Gira a la derecha o a la izquierda, ya que el camino está bloqueado adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Detente en la intersección y espera una luz verde intermitente."
+        },
+        {
+          "letter": "D",
+          "text": "Detente en la intersección y procede según lo permita el tráfico."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Detente en la intersección y procede según lo permita el tráfico.",
+      "explanation": "Una luz roja intermitente significa que debes detenerte completamente y luego proceder cuando el camino esté despejado."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1671",
+      "question": "Los semáforos a veces muestran flechas para controlar giros desde carriles específicos. Una flecha amarilla sólida:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nunca se utiliza como señal de tráfico."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene el mismo significado que una luz de tráfico circular amarilla."
+        },
+        {
+          "letter": "C",
+          "text": "Significa que los conductores pueden girar en la dirección indicada por la flecha."
+        },
+        {
+          "letter": "D",
+          "text": "Le indica a los conductores que una flecha verde está a punto de mostrarse."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tiene el mismo significado que una luz de tráfico circular amarilla.",
+      "explanation": "Una flecha amarilla sólida tiene el mismo significado que una luz de tráfico amarilla. Cuando te aproximas a una flecha amarilla sólida, debes reducir tu velocidad y prepararte para una luz roja."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "2520",
+      "question": "Si necesita detenerse rápidamente y su vehículo no está equipado con un Sistema de Frenos Antibloqueo (ABS), debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantenga presionado el pedal de freno."
+        },
+        {
+          "letter": "B",
+          "text": "Bombee firmemente los frenos."
+        },
+        {
+          "letter": "C",
+          "text": "Toque ligeramente los frenos."
+        },
+        {
+          "letter": "D",
+          "text": "Suelte el pedal de freno."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Bombee firmemente los frenos.",
+      "explanation": "Bombear los frenos es generalmente la mejor manera de detener un automóvil en una emergencia. El automóvil se detendrá rápidamente y también podrá continuar dirigiendo."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1731",
+      "question": "Está conduciendo en una calle concurrida y el acelerador de su vehículo se queda abierto. Debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toque la bocina."
+        },
+        {
+          "letter": "B",
+          "text": "Pise a fondo los frenos."
+        },
+        {
+          "letter": "C",
+          "text": "Encienda los intermitentes de cuatro vías."
+        },
+        {
+          "letter": "D",
+          "text": "Apague el encendido, teniendo cuidado de no activar el mecanismo de bloqueo del volante."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Apague el encendido, teniendo cuidado de no activar el mecanismo de bloqueo del volante.",
+      "explanation": "Si el acelerador de su vehículo se queda abierto, su vehículo continuará manteniendo su velocidad o acelerará, incluso si retira el pie del pedal del gas. Apague el motor, teniendo cuidado de mover el interruptor de encendido solo lo suficiente para detener el motor y no activar el mecanismo de bloqueo del volante. Aplique los frenos y salga de la carretera hacia un área segura."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "2075",
+      "question": "Al encontrar un autobús escolar detenido en la carretera con sus luces rojas parpadeando, un conductor que viene de cualquier dirección debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deténgase antes de alcanzar el autobús y no proceda hasta que el autobús haya reanudado su marcha."
+        },
+        {
+          "letter": "B",
+          "text": "Deténgase antes de alcanzar el autobús y no proceda hasta que las luces rojas dejen de parpadear."
+        },
+        {
+          "letter": "C",
+          "text": "Deténgase antes de alcanzar el autobús y proceda cuando todos los niños hayan subido o bajado del autobús."
+        },
+        {
+          "letter": "D",
+          "text": "Deténgase y no proceda hasta que el autobús haya dejado la calle."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Deténgase antes de alcanzar el autobús y no proceda hasta que las luces rojas dejen de parpadear.",
+      "explanation": "Al encontrar cualquier autobús escolar detenido con sus luces rojas parpadeando, el conductor de un vehículo que viene de cualquier dirección debe detenerse al menos 30 pies del autobús. Un conductor no puede proceder hasta que las luces rojas parpadeantes se hayan apagado."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "905",
+      "question": "Al cambiar de carril, puede verificar sus puntos ciegos mediante:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usando el espejo retrovisor interior."
+        },
+        {
+          "letter": "B",
+          "text": "Usando el espejo retrovisor exterior."
+        },
+        {
+          "letter": "C",
+          "text": "Usando tanto los espejos retrovisores interiores como exteriores."
+        },
+        {
+          "letter": "D",
+          "text": "Girando su cabeza y mirando sobre su hombro."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Girando su cabeza y mirando sobre su hombro.",
+      "explanation": "Debe girar la cabeza para verificar sus puntos ciegos antes de cada cambio de carril."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1660",
+      "question": "Ciertas señales de carretera requieren que los conductores obedezcan una instrucción indicada. Tales señales se conocen como:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señales regulatorias."
+        },
+        {
+          "letter": "B",
+          "text": "Señales de advertencia."
+        },
+        {
+          "letter": "C",
+          "text": "Señales de información."
+        },
+        {
+          "letter": "D",
+          "text": "Señales de guía."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Señales regulatorias.",
+      "explanation": "Las señales regulatorias requieren que los conductores obedezcan una instrucción indicada. El incumplimiento está sujeto a penalización."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "977",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/winding_road.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camino sinuoso."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibido estacionar."
+        },
+        {
+          "letter": "C",
+          "text": "Carril derecho cerrado."
+        },
+        {
+          "letter": "D",
+          "text": "Múltiples giros."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Camino sinuoso.",
+      "explanation": "Las señales de advertencia preparan a los conductores para las condiciones y peligros viales próximos y suelen ser amarillas con marcas negras. Esta señal advierte a los conductores que se acercan a una carretera sinuosa y que deben ajustar su velocidad en consecuencia."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "1181",
+      "question": "Estás conduciendo en el carril izquierdo y quieres moverte al carril derecho. Deberías:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verifica tus espejos, señaliza y mira sobre tu hombro izquierdo para ver otros vehículos antes de cambiar de carril."
+        },
+        {
+          "letter": "B",
+          "text": "Verifica tus espejos, señaliza y mira sobre tu hombro derecho para ver otros vehículos antes de cambiar de carril."
+        },
+        {
+          "letter": "C",
+          "text": "Verifica tus espejos, señaliza y mira sobre ambos hombros para ver otros vehículos antes de cambiar de carril."
+        },
+        {
+          "letter": "D",
+          "text": "Verifica tus espejos, señaliza y cambia de carril."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Verifica tus espejos, señaliza y mira sobre tu hombro derecho para ver otros vehículos antes de cambiar de carril.",
+      "explanation": "Al cambiar de carril, debes verificar los puntos ciegos de tu vehículo mirando sobre tu hombro en la dirección que deseas moverte. Siempre verifica tus espejos y enciende tu indicador direccional antes de comenzar un cambio de carril."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "1745",
+      "question": "Estás involucrado en un accidente y tu vehículo está bloqueando el tráfico. Deberías:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aleja tu vehículo de la porción transitada de la carretera, si es posible."
+        },
+        {
+          "letter": "B",
+          "text": "No muevas tu vehículo bajo ninguna circunstancia."
+        },
+        {
+          "letter": "C",
+          "text": "Espera a que la policía llegue antes de mover tu vehículo."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los anteriores."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Aleja tu vehículo de la porción transitada de la carretera, si es posible.",
+      "explanation": "Después de una colisión menor, aleja tu vehículo de la porción transitada de la carretera, si es posible. No abandones el lugar de un accidente sin identificarte y prestar asistencia."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "670",
+      "question": "Su primera respuesta a la visibilidad reducida debe ser:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encender sus faros."
+        },
+        {
+          "letter": "B",
+          "text": "Reducir su velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "Encender los limpiaparabrisas."
+        },
+        {
+          "letter": "D",
+          "text": "Buscar marcas de bordes de carretera para guiarle."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Reducir su velocidad.",
+      "explanation": "Reducir su velocidad debe ser su primera respuesta a la disminución de visibilidad y condiciones peligrosas del camino."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "598",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduzca con precaución y esté listo para reducir la velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "No conduzca en este carril."
+        },
+        {
+          "letter": "C",
+          "text": "Debe detenerse completamente y ceder el derecho de paso."
+        },
+        {
+          "letter": "D",
+          "text": "Reduzca la velocidad, esté preparado para detenerse y, si es necesario, ceda el derecho de paso."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Reduzca la velocidad, esté preparado para detenerse y, si es necesario, ceda el derecho de paso.",
+      "explanation": "Este tipo de señal triangular significa que los conductores deben ceder. Debe reducir la velocidad cuando llegue a una intersección marcada con esta señal y estar preparado para detenerse. Deje pasar de manera segura a cualquier otro vehículo, ciclista o peatón antes de proceder."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1532",
+      "question": "Al estacionar cuesta arriba en una colina o pendiente con una acera:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gira las ruedas delanteras bruscamente hacia la acera."
+        },
+        {
+          "letter": "B",
+          "text": "Gira las ruedas delanteras ligeramente hacia la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Gira las ruedas delanteras bruscamente alejándolas de la acera."
+        },
+        {
+          "letter": "D",
+          "text": "Mantén las ruedas delanteras rectas."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Gira las ruedas delanteras bruscamente alejándolas de la acera.",
+      "explanation": "Para evitar que tu vehículo ruede hacia el tráfico cuando está estacionado frente a una cuesta, gira las ruedas delanteras bruscamente alejándolas de la acera. Si estacionas cuesta arriba en una calle sin acera, gira las ruedas bruscamente hacia el borde de la carretera."
+    }
+  ]
+}

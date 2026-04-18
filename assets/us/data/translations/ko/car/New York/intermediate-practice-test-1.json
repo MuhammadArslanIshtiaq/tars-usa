@@ -1,0 +1,501 @@
+{
+  "state": "New York",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #1",
+  "slug": "intermediate-practice-test-1",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1672",
+      "question": "교통 신호등은 때때로 특정 차선에서 회전을 제어하기 위해 화살표를 표시합니다. 녹색 화살표:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "편도 도로에서만 사용됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "원형 녹색 신호등과 같은 의미를 가지지만 교통은 화살표가 나타내는 방향으로 회전해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "녹색 화살표가 원형 녹색 신호등과 함께 표시될 때만 진행할 수 있음을 의미합니다."
+        },
+        {
+          "letter": "D",
+          "text": "공항으로 가는 길을 가리킵니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "원형 녹색 신호등과 같은 의미를 가지지만 교통은 화살표가 나타내는 방향으로 회전해야 합니다.",
+      "explanation": "녹색 화살표는 원형 녹색 신호등과 같은 의미를 가지지만 해당 차선의 교통은 화살표가 나타내는 방향으로 회전해야 합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "605",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/virginia-curve_ahead_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로 공사가 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로가 왼쪽으로 구부러진 후 오른쪽으로 구부러집니다."
+        },
+        {
+          "letter": "C",
+          "text": "도로가 오른쪽으로 구부러진 후 왼쪽으로 구부러집니다."
+        },
+        {
+          "letter": "D",
+          "text": "가파른 경사도가 앞에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "도로가 오른쪽으로 구부러진 후 왼쪽으로 구부러집니다.",
+      "explanation": "이 표지판은 도로가 오른쪽으로 구부러진 후 왼쪽으로 구부러짐을 나타냅니다. 이 곡선을 안전하게 통과할 수 있도록 속도를 줄여야 합니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1218",
+      "question": "밤에 운전할 때 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "항상 상향 빔을 사용하세요."
+        },
+        {
+          "letter": "B",
+          "text": "마주오는 차의 헤드라이트를 직접 보세요."
+        },
+        {
+          "letter": "C",
+          "text": "따라가는 거리를 늘리세요."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "따라가는 거리를 늘리세요.",
+      "explanation": "어둠으로 인해 보기 어려울 때 따라가는 거리를 늘리세요. 헤드라이트를 사용하여 가시성을 높이고, 상향 빔과 하향 빔의 올바른 사용 규칙을 따르세요. 마주오는 차의 헤드라이트를 직접 보지 마세요. 눈부심으로 인해 눈이 멀 수 있습니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1810",
+      "question": "다음과 같은 경우 차량을 추월할 수 있다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "당신은 언덕이나 곡선도로에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "당신은 당신의 차선 옆에 실선이 있는 도로에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "당신은 당신의 차선 옆에 끊어진 선이 있는 도로에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "당신은 당신의 차선 옆에 끊어진 선이 있는 도로에 있습니다.",
+      "explanation": "단일 점선은 운전자가 차선을 변경하기 위해 어느 차선에서든 지나갈 수 있음을 나타낸다. 점선 노란색 선과 함께 있는 노란색 선은 점선 옆의 차선에서는 추월이 허용되지만 실선 옆의 차선에서는 허용되지 않음을 나타낸다. 안전할 때만 차선을 변경하시오."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "478",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "현재 속도를 유지합니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞에서 정지해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "과속은 허용되지 않습니다."
+        },
+        {
+          "letter": "D",
+          "text": "앞에 교통 신호가 있습니다"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "앞에 교통 신호가 있습니다",
+      "explanation": "이 표지판은 신호등이 앞에 있음을 나타냅니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "3181",
+      "question": "도로에서 가장자리선이 안쪽으로 각도를 이루는 것을 보면 이는 다음을 의미합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "속도 제한이 감소하고 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로가 좁아지고 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "도로가 넓어지고 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "속도 제한이 증가하고 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "도로가 좁아지고 있습니다.",
+      "explanation": "도로에서 가장자리선이 안쪽으로 각도를 이루는 것을 보면 앞쪽 도로가 좁아지고 있다는 의미입니다. 안전하게 진로를 변경하세요."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "350",
+      "question": "도로 앞에서 나타날 수 있는 모든 것에 대비하려면 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로 전체와 모든 도로변을 지속적으로 주시하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "항상 정면을 응시하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "왼쪽 발을 브레이크 페달에 가볍게 올려놓고 운전하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "도로 중앙에 집중을 유지하십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "도로 전체와 모든 도로변을 지속적으로 주시하십시오.",
+      "explanation": "위험한 교통 상황을 처리할 수 있는 능력은 주로 문제를 만나기 전에 문제를 찾아내고 파악하는 능력에 달려 있습니다. 차량 앞을 멀리 보는 것이 단순히 도로 중앙을 응시한다는 의미는 아닙니다. 도로의 양쪽을 포함한 전체 도로를 지속적으로 주시해야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1873",
+      "question": "중앙에 이중 실선 황색 표시가 있는 도로는 추월이 다음을 의미합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "양쪽 방향 모두에서 허용됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "당신의 이동 방향에서만 허용됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "양쪽 방향 모두에서 허용되지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "양쪽 방향 모두에서 허용되지 않습니다.",
+      "explanation": "도로 중앙의 이중 실선 황색 표시는 교통이 반대 방향으로 움직이고 있으며 양쪽 방향에서 추월이 허용되지 않음을 나타냅니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "434",
+      "question": "다음 장소에는 절대 주차할 수 없습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일방통행로에."
+        },
+        {
+          "letter": "B",
+          "text": "건물 입구에."
+        },
+        {
+          "letter": "C",
+          "text": "횡단보도 내."
+        },
+        {
+          "letter": "D",
+          "text": "소화전으로부터 50 feet 이내."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "횡단보도 내.",
+      "explanation": "횡단보도 내에 주차, 정지, 또는 정차하는 것은 불법입니다. 소화전으로부터 15 feet 이내에 주차하는 것은 금지됩니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "869",
+      "question": "도로의 물로 인해 차량이 수막현상을 일으킬 수 있습니다. 귀 자동차는 다음의 낮은 속도에서 수막현상을 일으킬 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "시속 45마일."
+        },
+        {
+          "letter": "B",
+          "text": "시속 35마일."
+        },
+        {
+          "letter": "C",
+          "text": "시속 40마일."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "시속 35마일.",
+      "explanation": "수막현상은 도로에 고인 물이 있을 때 발생합니다. 시속 35 mph까지의 속도에서 대부분의 타이어는 타이어에서 물을 빼냅니다. 속도가 시속 35 mph를 초과하면 타이어가 물을 제대로 빼낼 수 없으며 타이어가 물 위에서 수상스키 세트처럼 도로와의 접촉을 잃기 시작할 수 있습니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "78",
+      "question": "다른 차량을 추월할 계획이라면 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 운전자가 당신이 차선으로 복귀할 공간을 만들어 줄 것이라고 가정하지 마세요."
+        },
+        {
+          "letter": "B",
+          "text": "방향 신호를 사용하면 다른 운전자가 추월을 허락할 것이라고 가정하세요."
+        },
+        {
+          "letter": "C",
+          "text": "다른 운전자가 일정한 속도를 유지할 것이라고 가정하세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "다른 운전자가 당신이 차선으로 복귀할 공간을 만들어 줄 것이라고 가정하지 마세요.",
+      "explanation": "신호를 하더라도 원하는 공간이 비어있거나 다른 운전자가 당신에게 우선권을 줄 것이라고 가정해서는 안 됩니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "867",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교차로가 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "가파른 경사도가 앞에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "굽은 도로."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "가파른 경사도가 앞에 있습니다.",
+      "explanation": "경고 표지판은 일반적으로 검은색 표시가 있는 노란색입니다. 이 표지판은 앞에 가파른 언덕이 있음을 나타냅니다. 감속하고 더 낮은 기어로 변속할 준비를 하여 속도를 제어하고 브레이크 손상으로부터 보호하십시오."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1537",
+      "question": "끊어진 흰색 선을 가로질러 운전할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "언제든지."
+        },
+        {
+          "letter": "B",
+          "text": "주간 운전 시에만."
+        },
+        {
+          "letter": "C",
+          "text": "차선을 변경하는 것이 안전할 때."
+        },
+        {
+          "letter": "D",
+          "text": "오토바이를 추월할 때만."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "차선을 변경하는 것이 안전할 때.",
+      "explanation": "같은 방향으로 이동하는 교통 차선은 끊어진 흰색 선으로 구분됩니다. 안전하면 끊어진 선을 넘어 추월할 수 있습니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1830",
+      "question": "빨간 신호등과 초록 화살표가 있을 때, 다음의 경우에 화살표 방향으로 진행할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "먼저 완전히 정지합니다."
+        },
+        {
+          "letter": "B",
+          "text": "신호등이 바뀔 때까지 기다립니다."
+        },
+        {
+          "letter": "C",
+          "text": "적절한 차선에 있고 도로가 맑습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "적절한 차선에 있고 도로가 맑습니다.",
+      "explanation": "신호등에 초록 화살표가 표시된 차선에 있으면, 길이 맑을 때 화살표 방향으로 진행할 수 있습니다. 이는 화살표가 단독으로 표시되든 다른 신호와 함께 표시되든 적용됩니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "589",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "좌회전 금지."
+        },
+        {
+          "letter": "B",
+          "text": "유턴 금지."
+        },
+        {
+          "letter": "C",
+          "text": "출구 없음."
+        },
+        {
+          "letter": "D",
+          "text": "우회전 금지."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "우회전 금지.",
+      "explanation": "이 표지판은 우회전이 금지됨을 나타냅니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1480",
+      "question": "정지 표지판은 다음과 같은 모양입니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "직사각형."
+        },
+        {
+          "letter": "B",
+          "text": "정사각형."
+        },
+        {
+          "letter": "C",
+          "text": "원형."
+        },
+        {
+          "letter": "D",
+          "text": "팔각형."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "팔각형.",
+      "explanation": "팔각형 모양은 정지 표지판에만 사용됩니다. 모든 8각형 표지판은 운전자에게 진행하기 전에 완전히 멈추도록 지시합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "459",
+      "question": "다음 중 어느 것이 알코올의 영향에 영향을 미칩니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "위에 있는 음식의 양"
+        },
+        {
+          "letter": "B",
+          "text": "개인의 체중"
+        },
+        {
+          "letter": "C",
+          "text": "음주 사이에 경과하는 시간"
+        },
+        {
+          "letter": "D",
+          "text": "세 가지 선택 모두"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "세 가지 선택 모두",
+      "explanation": "혈중 알코올 농도(BAC)는 마신 알코올의 양, 음주 사이에 경과한 시간, 그리고 체중에 따라 달라집니다. 음주 전이나 음주 중에 음식을 섭취하면 알코올 흡수를 어느 정도 늦추는 데 도움이 되지만, 너무 많이 마시면 중독이나 손상을 방지할 수 없습니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "2078",
+      "question": "황혼이나 흐린 날씨에는 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4방향 비상등을 사용하여 운전합니다."
+        },
+        {
+          "letter": "B",
+          "text": "주차등을 사용하여 운전합니다."
+        },
+        {
+          "letter": "C",
+          "text": "어떤 차량 불도 켜지 않습니다."
+        },
+        {
+          "letter": "D",
+          "text": "헤드라이트를 켜십시오."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "헤드라이트를 켜십시오.",
+      "explanation": "황혼이나 흐린 날씨에는 전조등을 켜야 합니다. 접근하는 차량으로부터 1,000 피트 이내에서 그리고 따라가는 차량으로부터 500 피트 이내에서 조명을 저광 설정으로 어둡게 합니다. 악천후에서 운전할 때는 항상 저광을 사용하십시오."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1917",
+      "question": "이중 노란 실선이 차선을 분리할 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "좌측에서 추월이 허용됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "우측에서 추월이 허용됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "양쪽 방향 모두에서 추월이 허용되지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "양쪽 방향 모두에서 추월이 허용되지 않습니다.",
+      "explanation": "교통 차선을 분리하는 노란 선은 교통이 반대 방향으로 이동함을 나타냅니다. 이중 실선은 양쪽 방향 모두에서 추월이 허용되지 않음을 나타냅니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "442",
+      "question": "방어 운전의 전략 중 하나는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전하면서 정면을 곧게 보기."
+        },
+        {
+          "letter": "B",
+          "text": "경계를 유지하고 눈을 계속 움직이기."
+        },
+        {
+          "letter": "C",
+          "text": "다른 운전자들이 당신의 오류를 보상해 줄 것으로 기대하기."
+        },
+        {
+          "letter": "D",
+          "text": "마지막 순간에 위험을 피할 수 있다는 확신을 갖기."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "경계를 유지하고 눈을 계속 움직이기.",
+      "explanation": "교통 상황은 항상 변하기 때문에 도로 앞쪽을 지속적으로 주시해야 합니다. 눈을 계속 움직이고, 도로 양쪽에서 어떤 일이 일어나고 있는지 주목하고, 거울을 사용하여 몇 초마다 뒤를 확인하세요."
+    }
+  ]
+}

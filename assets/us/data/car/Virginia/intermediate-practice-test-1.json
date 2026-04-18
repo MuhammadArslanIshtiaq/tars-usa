@@ -1,0 +1,799 @@
+{
+  "state": "Virginia",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #1",
+  "slug": "intermediate-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "480",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/new-york-one_way_traffic_do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Full parking lots ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Road construction ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Dead-end street ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Do not enter from this direction. This applies to one-way streets and expressway ramps."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Do not enter from this direction. This applies to one-way streets and expressway ramps.",
+      "explanation": "This sign warns you that traffic only goes one way. You cannot enter from your current direction."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "2094",
+      "question": "When approaching an accident scene, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep your attention on your driving."
+        },
+        {
+          "letter": "B",
+          "text": "Keep moving."
+        },
+        {
+          "letter": "C",
+          "text": "Stop only if you are involved or emergency help has not arrived."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "Do not stop at an accident unless you are involved or emergency help has not arrived. Stay focused on driving and keep moving. Watch for people on or near the road. Do not drive to accidents, fires, or disasters just to look."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "247",
+      "question": "You may carefully continue through an intersection on a yellow light if:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An emergency vehicle is crossing your lane."
+        },
+        {
+          "letter": "B",
+          "text": "Pedestrians are crossing."
+        },
+        {
+          "letter": "C",
+          "text": "You are turning right."
+        },
+        {
+          "letter": "D",
+          "text": "You are already in the intersection when the light turns yellow."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "You are already in the intersection when the light turns yellow.",
+      "explanation": "If the light turns yellow while you are already in the intersection, you may continue through carefully."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "2323",
+      "question": "Downward-facing triangular signs mean:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "School zone ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Yield to other traffic."
+        },
+        {
+          "letter": "C",
+          "text": "Construction zone ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Railroad crossing ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Yield to other traffic.",
+      "explanation": "Downward-facing triangular signs tell drivers to yield. You may go when the road is clear of traffic and pedestrians and it is safe."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "628",
+      "question": "The speed limit in residential zones is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 mph."
+        },
+        {
+          "letter": "B",
+          "text": "25 mph."
+        },
+        {
+          "letter": "C",
+          "text": "30 mph."
+        },
+        {
+          "letter": "D",
+          "text": "35 mph."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "25 mph.",
+      "explanation": "The speed limit in residential, school, and business zones is 25 mph unless a different speed is posted."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1087",
+      "question": "When another driver is tailgating you, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Move to the right lane if one is open."
+        },
+        {
+          "letter": "B",
+          "text": "If no right lane is open, wait until the road ahead is clear and slowly reduce your speed to let the tailgater pass."
+        },
+        {
+          "letter": "C",
+          "text": "Never brake suddenly."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "If being tailgated and a right lane is open, move to it. If not, wait for clear road ahead and slowly reduce speed to let the tailgater pass. Never brake suddenly, as this increases the risk of being hit from behind."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "972",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/indiana-traffic_signal.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traffic signal ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Fire station ahead."
+        },
+        {
+          "letter": "C",
+          "text": "T intersection ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Left turn signal ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Traffic signal ahead.",
+      "explanation": "Warning signs are yellow with black markings and prepare you for road conditions ahead. This sign warns you of a traffic signal coming up. Be ready for yellow, red, and cross traffic."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "216",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Come to a complete stop and check for pedestrians and cross traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down without stopping completely."
+        },
+        {
+          "letter": "C",
+          "text": "Stop completely and wait for a green light."
+        },
+        {
+          "letter": "D",
+          "text": "Slow down and check for traffic."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Come to a complete stop and check for pedestrians and cross traffic.",
+      "explanation": "Any eight-sided sign is a stop sign. You must stop completely and check for pedestrians and traffic. Wait until the intersection is clear before going."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1489",
+      "question": "You cannot pass safely on a two-way, two-lane street unless:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You can clearly see the road ahead."
+        },
+        {
+          "letter": "B",
+          "text": "You can return to your lane before meeting oncoming traffic."
+        },
+        {
+          "letter": "C",
+          "text": "Your vehicle is fast enough to pass."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "Safe passing on a two-way, two-lane street requires three things: clear visibility of the road ahead, ability to return to your lane before meeting oncoming traffic, and a vehicle capable of passing speed. Do not pass where it is illegal or unsafe."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1510",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn right after a complete stop."
+        },
+        {
+          "letter": "B",
+          "text": "Right turns are not allowed."
+        },
+        {
+          "letter": "C",
+          "text": "Left turns are allowed."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Right turns are not allowed.",
+      "explanation": "This is a regulatory sign that shows laws you must follow. Right turns are not permitted at this location."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "976",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/two_way_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two-way traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Lane shifting."
+        },
+        {
+          "letter": "C",
+          "text": "Low clearance."
+        },
+        {
+          "letter": "D",
+          "text": "Added lane."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Two-way traffic.",
+      "explanation": "This is a yellow warning sign with black markings. It tells you that traffic is coming from the opposite direction."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1737",
+      "question": "When passing a large vehicle, the driver of a small vehicle must be prepared for:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loud noises."
+        },
+        {
+          "letter": "B",
+          "text": "Excess air pollution."
+        },
+        {
+          "letter": "C",
+          "text": "Wind gusts produced by the large vehicle."
+        },
+        {
+          "letter": "D",
+          "text": "Falling vehicle parts."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Wind gusts produced by the large vehicle.",
+      "explanation": "Large vehicles create strong wind gusts that can push smaller vehicles sideways. Be ready to steer if you pass a large vehicle moving at high speed."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "2309",
+      "question": "If you experience a tire blowout:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Take your foot of the gas."
+        },
+        {
+          "letter": "B",
+          "text": "Do not immediately use your brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Gradually slow down and pull off the side of the road."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "If a tire blows out: lift your foot off the gas, do not brake right away, slow down gradually, then gently apply the brakes and pull to the side of the road."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "2068",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/montana-right_and_left_curves.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The highway ahead curves only to the right."
+        },
+        {
+          "letter": "B",
+          "text": "The highway ahead turns sharply to the right."
+        },
+        {
+          "letter": "C",
+          "text": "The highway ahead curves to the right and then to the left."
+        },
+        {
+          "letter": "D",
+          "text": "The highway ahead curves to the left and then to the right."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The highway ahead curves to the right and then to the left.",
+      "explanation": "This is a yellow warning sign with black markings. It tells you the road curves right first, then left."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "658",
+      "question": "When driving in rain, you must:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use low beam headlights."
+        },
+        {
+          "letter": "B",
+          "text": "Use high beam headlights."
+        },
+        {
+          "letter": "C",
+          "text": "Use parking lights."
+        },
+        {
+          "letter": "D",
+          "text": "Use no lights."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Use low beam headlights.",
+      "explanation": "Use your low beam headlights when it is raining."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "311",
+      "question": "____ limit your concentration, perception, judgment, and memory.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only a blood alcohol level greater than the legal limit can"
+        },
+        {
+          "letter": "B",
+          "text": "Alcohol does not"
+        },
+        {
+          "letter": "C",
+          "text": "Even the smallest amount of alcohol can"
+        },
+        {
+          "letter": "D",
+          "text": "Only a blood alcohol level greater than 0.05 percent can"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Even the smallest amount of alcohol can",
+      "explanation": "Any amount of alcohol reduces your concentration, perception, judgment, and memory. It affects your driving no matter how little you drink. You cannot drive safely after drinking."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1337",
+      "question": "Which of the following statements about railroad crossings is true?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is against the law to go around lowered gates at a crossing."
+        },
+        {
+          "letter": "B",
+          "text": "You must stop at a railroad crossing when directed to do so by a flagger."
+        },
+        {
+          "letter": "C",
+          "text": "Not all railroad crossings are equipped with flashing red signals and gates."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "You must stop when a flagger tells you to, when warning gates are down, or when flashing red lights are on. Not all crossings have gates or lights. It is illegal to drive around lowered gates."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1750",
+      "question": "As a pedestrian, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always insist on the right-of-way over a vehicle when using a crosswalk."
+        },
+        {
+          "letter": "B",
+          "text": "Never enter a street or crosswalk when vehicles are approaching."
+        },
+        {
+          "letter": "C",
+          "text": "Enter a crosswalk at any time because it is the vehicle driver's responsibility to stop."
+        },
+        {
+          "letter": "D",
+          "text": "Use crosswalks only if they are convenient."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Never enter a street or crosswalk when vehicles are approaching.",
+      "explanation": "Do not enter a street or crosswalk when vehicles are approaching. Even though pedestrians have the right-of-way in crosswalks, a vehicle that is close may not have time to stop."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1076",
+      "question": "Work zone signs mean:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is summer."
+        },
+        {
+          "letter": "B",
+          "text": "You must immediately stop and back up."
+        },
+        {
+          "letter": "C",
+          "text": "Less than ideal conditions are present for driving."
+        },
+        {
+          "letter": "D",
+          "text": "You should drive faster to get out of the work zone."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Less than ideal conditions are present for driving.",
+      "explanation": "Work zone signs are orange. They warn you that work is being done on or near the road. Drive slowly and carefully when you see these signs."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "232",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/washington-warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Warns you about conditions on or near the road."
+        },
+        {
+          "letter": "B",
+          "text": "Helps direct you to cities and towns ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Tells you about traffic laws and regulations."
+        },
+        {
+          "letter": "D",
+          "text": "Tells you about road construction ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Warns you about conditions on or near the road.",
+      "explanation": "Warning signs tell you about road conditions ahead. They are diamond-shaped with a yellow background and black symbols or words."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "344",
+      "question": "When driving in traffic, what is safest?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Change your speed often to stay alert."
+        },
+        {
+          "letter": "B",
+          "text": "Drive faster than other cars."
+        },
+        {
+          "letter": "C",
+          "text": "Drive slower than other cars."
+        },
+        {
+          "letter": "D",
+          "text": "Drive at the same speed as other cars."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Drive at the same speed as other cars.",
+      "explanation": "Crashes happen when drivers go faster or slower than other cars. Always drive at the same speed as traffic around you, within the speed limit."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "308",
+      "question": "If another driver cuts you off, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pull next to them and yell."
+        },
+        {
+          "letter": "B",
+          "text": "Ignore it and move on."
+        },
+        {
+          "letter": "C",
+          "text": "Flash your high beams at them."
+        },
+        {
+          "letter": "D",
+          "text": "Cut them off in return."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ignore it and move on.",
+      "explanation": "To avoid road rage, do not take it personally if another driver cuts you off. Ignore it and continue driving safely."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "309",
+      "question": "If an aggressive driver is behind you, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Move out of their way."
+        },
+        {
+          "letter": "B",
+          "text": "Stare at the driver as they pass."
+        },
+        {
+          "letter": "C",
+          "text": "Speed up while they are passing."
+        },
+        {
+          "letter": "D",
+          "text": "Block the passing lane."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Move out of their way.",
+      "explanation": "When you see an aggressive driver, move out of their way. Avoid eye contact. Speeding up may make them angrier and more dangerous."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "236",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/maryland-t_intersection_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right turn."
+        },
+        {
+          "letter": "B",
+          "text": "Intersection ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Lane change."
+        },
+        {
+          "letter": "D",
+          "text": "Road curve."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Intersection ahead.",
+      "explanation": "This sign warns that a T intersection is coming up."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "582",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/arizona-four_way_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Steep hill ahead."
+        },
+        {
+          "letter": "B",
+          "text": "You must turn left."
+        },
+        {
+          "letter": "C",
+          "text": "Do not enter."
+        },
+        {
+          "letter": "D",
+          "text": "Four-way intersection ahead."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Four-way intersection ahead.",
+      "explanation": "This sign warns that a four-way intersection is coming up."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "1735",
+      "question": "When driving near large trucks, you must allow for:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The longer distance they need to stop."
+        },
+        {
+          "letter": "B",
+          "text": "The shorter distance they need to stop."
+        },
+        {
+          "letter": "C",
+          "text": "The less noise they make."
+        },
+        {
+          "letter": "D",
+          "text": "The higher speeds they drive."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The longer distance they need to stop.",
+      "explanation": "Large trucks need more distance to stop than smaller vehicles. Stay in places where the truck driver can see you and where your view of traffic is not blocked."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "1687",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/hawaii-right_lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrow bridge ahead."
+        },
+        {
+          "letter": "B",
+          "text": "A lane is ending or the road is narrowing."
+        },
+        {
+          "letter": "C",
+          "text": "Industrial area."
+        },
+        {
+          "letter": "D",
+          "text": "Freeway entrance ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "A lane is ending or the road is narrowing.",
+      "explanation": "Warning signs are diamond-shaped with black markings on yellow backgrounds. They warn you of hazards ahead. This sign tells you that a lane is ending or the road is getting narrower."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "409",
+      "question": "You may drive around or under a lowered railroad crossing gate:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If a train is not close."
+        },
+        {
+          "letter": "B",
+          "text": "If your car will not hit it."
+        },
+        {
+          "letter": "C",
+          "text": "If you look both ways first."
+        },
+        {
+          "letter": "D",
+          "text": "Never."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Never.",
+      "explanation": "Flashing red lights, lowered gates, and bells at railroad crossings mean you must stop completely. Wait until the lights and bells stop and the gates are fully up before crossing. Never drive around or under a moving gate."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "1661",
+      "question": "Highway signs that show information about hazardous conditions are called:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Regulatory signs."
+        },
+        {
+          "letter": "B",
+          "text": "Warning signs."
+        },
+        {
+          "letter": "C",
+          "text": "Information signs."
+        },
+        {
+          "letter": "D",
+          "text": "Guide signs."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Warning signs.",
+      "explanation": "Warning signs alert drivers to possible dangers. Always obey warning signs for your safety. Ignoring them can cause accidents."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "2271",
+      "question": "What do speed limit signs tell you?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The speeds you might want to drive."
+        },
+        {
+          "letter": "B",
+          "text": "The fastest or slowest legal speed to drive."
+        },
+        {
+          "letter": "C",
+          "text": "The speed to drive in heavy traffic."
+        },
+        {
+          "letter": "D",
+          "text": "The speed to drive in bad weather."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The fastest or slowest legal speed to drive.",
+      "explanation": "Speed limit signs show the fastest and slowest speeds allowed on that road. These limits are for good conditions. You must drive slower when weather or traffic is bad."
+    }
+  ]
+}

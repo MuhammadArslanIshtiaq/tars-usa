@@ -1,0 +1,466 @@
+{
+  "state": "Wisconsin",
+  "category": "cdl",
+  "testName": "Bus Test #1 20 Questions • Passing Score 16",
+  "testSlug": "bus-1",
+  "url": "/images/wisconsin/cdl/bus-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8745",
+      "question": "如果您车辆的ABS出现故障：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您将没有任何可用的制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "您仍然会有制动力。"
+        },
+        {
+          "letter": "C",
+          "text": "您应该只使用驻车制动器。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "您仍然会有制动力。",
+      "explanation": "防抱死制动器旨在防止车轮在紧急制动时锁定。如果您车辆的防抱死制动系统(ABS)出现故障，其标准制动功能应仍然有效。您应该继续以正常方式驾驶和制动。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9158",
+      "question": "正确调整的外部凸镜应该允许驾驶员看到：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每个后轮前端接触地面的位置。"
+        },
+        {
+          "letter": "B",
+          "text": "每个前轮前端接触地面的位置。"
+        },
+        {
+          "letter": "C",
+          "text": "校车的顶部。"
+        },
+        {
+          "letter": "D",
+          "text": "消声器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "每个后轮前端接触地面的位置。",
+      "explanation": "在校车上，外部凸镜应该调整为允许驾驶员在校车的两侧至少看到一条交通车道；校车的整个侧面直到镜子安装位置；以及每个后轮前端接触地面的位置。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8733",
+      "question": "当学生离开校车时，驾驶员应该注意确保他们：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "成对离开。"
+        },
+        {
+          "letter": "B",
+          "text": "没有卡在扶手或门上。"
+        },
+        {
+          "letter": "C",
+          "text": "离开时不要说话。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "没有卡在扶手或门上。",
+      "explanation": "学生在离开校车时，衣服、配饰或身体可能会卡在扶手或门上而受伤，甚至死亡。驾驶员应该仔细观察学生离开时的情况，以确保他们都已成功下车并到达了安全地点。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11344",
+      "question": "头顶后视镜位于：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在校车的右侧。"
+        },
+        {
+          "letter": "B",
+          "text": "在校车的方向盘上。"
+        },
+        {
+          "letter": "C",
+          "text": "在校车挡风玻璃上方的内部。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在校车挡风玻璃上方的内部。",
+      "explanation": "在校车上，内部顶部后视镜安装在驾驶员一侧的挡风玻璃正上方。这个镜子应该用来监控校车内的学生。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8736",
+      "question": "通常情况下，学生安全最好的方式是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "让学生留在巴士上。"
+        },
+        {
+          "letter": "B",
+          "text": "让一些学生疏散巴士。"
+        },
+        {
+          "letter": "C",
+          "text": "让学生疏散巴士并分散。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "让学生留在巴士上。",
+      "explanation": "在大多数紧急或危机情况下，学生将是最安全的，也最容易控制的方式是让他们留在学校巴士上。通常情况下，只要不会使学生面临不必要的风险或伤害，应该让学生留在巴士上。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8725",
+      "question": "停下来接学生时，确保停放在至少距学生10英尺远处，因为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您将能很好地看到他们的动作。"
+        },
+        {
+          "letter": "B",
+          "text": "将很难更接近学生。"
+        },
+        {
+          "letter": "C",
+          "text": "学生应该走路来锻炼。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "您将能很好地看到他们的动作。",
+      "explanation": "接乘客时，校车驾驶员应停放车辆，使前保险杠至少距离学生10英尺远。这是最安全的停放选择，因为它强制学生走到公交车，使驾驶员能够观察他们的动作。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9615",
+      "question": "如果学校巴士在铁路轨道上熄火：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "学生应该留在巴士上。"
+        },
+        {
+          "letter": "B",
+          "text": "学生应该疏散到靠近巴士的位置。"
+        },
+        {
+          "letter": "C",
+          "text": "学生应该疏散并远离巴士。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "学生应该疏散并远离巴士。",
+      "explanation": "如果学校巴士在铁路轨道上熄火或被困，驾驶员应立即疏散车上的所有人员。如果巴士被火车撞击，为了避免任何飞来的碎片，学生应该被引导远离巴士，方向应该与任何迎面而来的火车方向一致。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8735",
+      "question": "面对危险情况疏散校车之前，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "询问学生是否想离开。"
+        },
+        {
+          "letter": "B",
+          "text": "向调度员解释情况。"
+        },
+        {
+          "letter": "C",
+          "text": "花时间决定是否需要疏散。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "向调度员解释情况。",
+      "explanation": "如果时间允许，在决定疏散校车之前，驾驶员应该联系其调度员解释情况。疏散的决定必须是及时的。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "10142",
+      "question": "学生在学校卸车后，司机应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "可以假设学生已经带走了所有他们的物品。"
+        },
+        {
+          "letter": "B",
+          "text": "应该假设学生已经立即清空了门口。"
+        },
+        {
+          "letter": "C",
+          "text": "应该走过校车并检查任何睡着或躲藏的学生。"
+        },
+        {
+          "letter": "D",
+          "text": "可以关闭调度无线电。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "应该走过校车并检查任何睡着或躲藏的学生。",
+      "explanation": "学生在学校卸车后，司机应该走过校车检查是否有任何躲藏或睡着的学生。司机还应该留意学生可能遗留的物品。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8746",
+      "question": "ABS允许你：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "开得更快。"
+        },
+        {
+          "letter": "B",
+          "text": "更少谨慎地驾驶。"
+        },
+        {
+          "letter": "C",
+          "text": "在湿滑条件下保持控制。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在湿滑条件下保持控制。",
+      "explanation": "防抱死制动系统(ABS)有助于防止在湿滑路面上驾驶时制动锁定。如果驾驶员在湿滑路面上制动过猛，ABS使驾驶员更容易维持对车辆的控制。配备ABS的车辆应该以与没有ABS的车辆相同的方式驾驶和制动。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9206",
+      "question": "离开校车站前，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "确保没有学生跑着追赶校车。"
+        },
+        {
+          "letter": "B",
+          "text": "确保学生已将背包放在通道中。"
+        },
+        {
+          "letter": "C",
+          "text": "确保学生已打开应急通风口。"
+        },
+        {
+          "letter": "D",
+          "text": "确保学生面向校车的后部。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "确保没有学生跑着追赶校车。",
+      "explanation": "离开校车站前，驾驶员应该确保没有学生跑着追赶校车。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11347",
+      "question": "校车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "从不配备ABS。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在年龄小于10岁的学生将乘坐该校车时才配备ABS。"
+        },
+        {
+          "letter": "C",
+          "text": "可能配备ABS。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "可能配备ABS。",
+      "explanation": "一般来说，1998年或1999年之后制造的校车必须配备防抱死制动系统（ABS）。许多较旧的校车也配备了ABS。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8722",
+      "question": "头顶内后视镜应该位置调整以显示：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "后轮胎。"
+        },
+        {
+          "letter": "B",
+          "text": "公交车上的所有学生。"
+        },
+        {
+          "letter": "C",
+          "text": "公交车地板。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "公交车上的所有学生。",
+      "explanation": "头顶内后视镜的上部应调整到显示公交车后窗的顶部。此镜子位置应使驾驶员能够看到公交车上的所有学生，包括坐在驾驶员正后方的学生的头部。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8730",
+      "question": "在学校放下学生时，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "通过关闭引擎来确保校车安全。"
+        },
+        {
+          "letter": "B",
+          "text": "如果离开驾驶舱，将钥匙留在点火装置中。"
+        },
+        {
+          "letter": "C",
+          "text": "在学生下车时读书。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "通过关闭引擎来确保校车安全。",
+      "explanation": "在学校放下学生时，校车驾驶员必须通过关闭引擎来确保校车安全。如果他们必须离开驾驶舱，他们应该从点火装置中取出钥匙。驾驶员必须监督卸车过程。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8723",
+      "question": "公交车站可以由以下方式更改：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶员"
+        },
+        {
+          "letter": "B",
+          "text": "家长"
+        },
+        {
+          "letter": "C",
+          "text": "学区"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "学区",
+      "explanation": "官方校车路线和站点由当地学区建立。驾驶员不应在没有适当学区官员书面批准的情况下更改站点位置"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8933",
+      "question": "当学生在停靠的校车附近掉落物品时，他们应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "赶快捡起物品。"
+        },
+        {
+          "letter": "B",
+          "text": "把物品留下。"
+        },
+        {
+          "letter": "C",
+          "text": "要求驾驶员捡起该物体。"
+        },
+        {
+          "letter": "D",
+          "text": "让另一个学生捡起来。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "要求驾驶员捡起该物体。",
+      "explanation": "学生捡起掉落的物品是危险的，因为这样做可能会导致他们在关键时刻消失在驾驶员的视线范围内。如果物品掉落，学生应该离开校车的危险区域，引起驾驶员的注意，并要求驾驶员捡起物品。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8738",
+      "question": "如果龙卷风正在接近，附近没有避难所，学生应该去哪里？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "到附近的沟渠"
+        },
+        {
+          "letter": "B",
+          "text": "到最近的树"
+        },
+        {
+          "letter": "C",
+          "text": "在河附近"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "到附近的沟渠",
+      "explanation": "如果由于校车在目击到的龙卷风的直接路径上而进行疏散，驾驶员应该带领他们到附近建筑物的避难所。如果没有这样的避难所可用，驾驶员应该护送他们到附近的沟渠或涵洞。他们应该避免可能发生洪水的区域，并且应该远离校车，使得如果校车翻倒也不会砸到他们。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9614",
+      "question": "如果校车发生火灾，学生应：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "必须疏散。"
+        },
+        {
+          "letter": "B",
+          "text": "应留在公交车上，但应移至火灾未影响的公交车部分。"
+        },
+        {
+          "letter": "C",
+          "text": "应留在座位上。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "必须疏散。",
+      "explanation": "如果校车着火或存在火灾威胁，校车驾驶员必须强制撤离校车上的学生。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8726",
+      "question": "停止接送学生时，驾驶员应确保所有周围交通都停止才能：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "打开车门并示意学生靠近"
+        },
+        {
+          "letter": "B",
+          "text": "打开交替红灯"
+        },
+        {
+          "letter": "C",
+          "text": "靠边停车"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "打开车门并示意学生靠近",
+      "explanation": "停止接送学生时，校车驾驶员应确保所有周围交通都停止，然后才能打开车门并示意学生靠近校车"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11348",
+      "question": "靠近校车站点时，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "鸣笛。"
+        },
+        {
+          "letter": "B",
+          "text": "缓慢驾驶。"
+        },
+        {
+          "letter": "C",
+          "text": "与校车上的学生交谈。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "缓慢驾驶。",
+      "explanation": "校车驾驶员应始终缓慢谨慎地靠近校车站点。"
+    }
+  ]
+}

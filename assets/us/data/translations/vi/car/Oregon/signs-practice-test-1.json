@@ -1,0 +1,819 @@
+{
+  "state": "Oregon",
+  "category": "car",
+  "quizName": "Signs Practice Test #1",
+  "slug": "signs-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "235",
+      "question": "Biển báo này cho thấy một loại:",
+      "image": "/images/signs/maryland-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giao lộ."
+        },
+        {
+          "letter": "B",
+          "text": "Đường cong."
+        },
+        {
+          "letter": "C",
+          "text": "Rẽ phải."
+        },
+        {
+          "letter": "D",
+          "text": "Thay đổi làn đường."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giao lộ.",
+      "explanation": "Biển này chỉ ra rằng một giao lộ với một đường giao cắt sắp tới."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "920",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/indiana-intersection_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường giao nhau phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Người cầm cờ phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Làn đường kết thúc."
+        },
+        {
+          "letter": "D",
+          "text": "Rẽ phải hoặc đi thẳng."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đường giao nhau phía trước.",
+      "explanation": "Biển báo cảnh báo chuẩn bị cho tài xế các điều kiện và mối nguy hiểm đường bộ sắp tới và thường có màu vàng với các dấu hiệu màu đen. Biển báo này cảnh báo tài xế về một giao lộ sắp tới."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "963",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/road_work_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Công trường phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Sân chơi phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Trạm cứu hỏa."
+        },
+        {
+          "letter": "D",
+          "text": "Dừng lại."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Công trường phía trước.",
+      "explanation": "Các khu vực xây dựng gây nguy hiểm cho cả người lái xe và công nhân xây dựng. Biển xây dựng đường cao tốc màu cam cảnh báo cho người lái xe phải cẩn thận khi gặp các khu vực xây dựng. Biển này cảnh báo cho người lái xe về sự bắt đầu của một khu vực xây dựng sắp tới."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "411",
+      "question": "Tay trái và tay của người lái xe được duỗi thẳng xuống dưới. Tín hiệu tay này có nghĩa là người lái xe dự định:",
+      "image": "/images/signs/new-york-hand_signal_down.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quay trái."
+        },
+        {
+          "letter": "B",
+          "text": "Rẽ phải."
+        },
+        {
+          "letter": "C",
+          "text": "Dừng lại."
+        },
+        {
+          "letter": "D",
+          "text": "Khởi động."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Dừng lại.",
+      "explanation": "Nếu tay trái và tay của người lái xe được duỗi thẳng xuống dưới, họ đang báo hiệu rằng họ có ý định dừng lại. Điều chỉnh cách lái xe của bạn nếu bạn theo sau một người lái xe đang sử dụng tín hiệu tay này."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "542",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/washington-divided_highway_road_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường cong phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Đường cao tốc chia làn bắt đầu."
+        },
+        {
+          "letter": "C",
+          "text": "Đường cao tốc chia làn kết thúc."
+        },
+        {
+          "letter": "D",
+          "text": "Những cái mounds trên đường."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Đường cao tốc chia làn kết thúc.",
+      "explanation": "Biển báo này cảnh báo tài xế rằng đường cao tốc phân chia sắp kết thúc."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "501",
+      "question": "Tại một giao lộ có biển nhường quyền đi, bạn nên:",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Luôn dừng lại trước khi vào giao lộ."
+        },
+        {
+          "letter": "B",
+          "text": "Chỉ nhường quyền cho giao thông bên phải."
+        },
+        {
+          "letter": "C",
+          "text": "Chỉ nhường quyền cho giao thông bên trái."
+        },
+        {
+          "letter": "D",
+          "text": "Giảm tốc độ và nhường quyền đi cho giao thông khác."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Giảm tốc độ và nhường quyền đi cho giao thông khác.",
+      "explanation": "Biển nhường quyền đi có nghĩa là bạn phải giảm tốc độ và nhường quyền đi cho giao thông ở giao lộ hoặc con đường mà bạn đang vào."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "541",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/washington-no_turn_to_the_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cấm rẽ phải."
+        },
+        {
+          "letter": "B",
+          "text": "Bạn phải rẽ phải."
+        },
+        {
+          "letter": "C",
+          "text": "Chú ý giao thông ở phía bên phải của bạn."
+        },
+        {
+          "letter": "D",
+          "text": "Đừng đỗ xe trên bên phải của đường."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cấm rẽ phải.",
+      "explanation": "Một biển báo có hình tròn màu đỏ và gạch chéo trên một biểu tượng cho biết rằng hành động được biểu thị bằng biểu tượng (trong ví dụ này, rẽ phải) là không được phép."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "536",
+      "question": "Biển này có nghĩa là bạn nên:",
+      "image": "/images/signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Theo một vòng tránh sang phải."
+        },
+        {
+          "letter": "B",
+          "text": "Chuẩn bị để vào một đường một chiều."
+        },
+        {
+          "letter": "C",
+          "text": "Hãy ở lại đường cao tốc chính nếu có thể."
+        },
+        {
+          "letter": "D",
+          "text": "Đi theo con đường vòng bên phải, nhưng chỉ khi tiện lợi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Theo một vòng tránh sang phải.",
+      "explanation": "Biển khu vực làm việc thường có màu cam với các chữ cái hoặc ký hiệu màu đen. Biển vòng tránh cung cấp cho các tài xế một tuyến đường thay thế để tránh một đoạn đường bị chặn hoàn toàn bởi xây dựng."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "950",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/indiana-no_parking_any_time.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không được phép đỗ xe vào bất kỳ lúc nào."
+        },
+        {
+          "letter": "B",
+          "text": "Giao thông hai chiều."
+        },
+        {
+          "letter": "C",
+          "text": "Người cầm cờ phía trước."
+        },
+        {
+          "letter": "D",
+          "text": "Độ dốc陡峭."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Không được phép đỗ xe vào bất kỳ lúc nào.",
+      "explanation": "Biển báo quy định điều chỉnh tốc độ giao thông và chuyển động, hiển thị các quy tắc mà tài xế phải tuân theo. Biển báo quy định này cho biết không được phép đỗ xe bất cứ lúc nào."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "230",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một đường cong bên trái phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Một loạt các đường cong phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Một đường cong S phía trước."
+        },
+        {
+          "letter": "D",
+          "text": "Đường sẽ trơn trượt khi ướt."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Đường sẽ trơn trượt khi ướt.",
+      "explanation": "Biển hiệu này cảnh báo rằng các điều kiện đặc biệt trơn trượt tồn tại khi đường bị ướt."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "955",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/one_way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giao thông một chiều."
+        },
+        {
+          "letter": "B",
+          "text": "Rẽ trái hai chiều."
+        },
+        {
+          "letter": "C",
+          "text": "Giao thông hai chiều."
+        },
+        {
+          "letter": "D",
+          "text": "Giới hạn tốc độ tối thiểu."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giao thông một chiều.",
+      "explanation": "Biển quy định điều chỉnh tốc độ giao thông và chuyển động, hiển thị các quy tắc mà các tài xế phải tuân theo. Biển báo này cho các tài xế biết hướng mà họ phải lái xe khi quay vào một con đường một chiều."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "601",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/divided_highway_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giữ bên phải."
+        },
+        {
+          "letter": "B",
+          "text": "Giữ bên trái."
+        },
+        {
+          "letter": "C",
+          "text": "Vượt một cách cẩn thận."
+        },
+        {
+          "letter": "D",
+          "text": "Không được vượt."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giữ bên phải.",
+      "explanation": "Biển này chỉ ra rằng một đường cao tốc chia làm hai phần bắt đầu phía trước. Con đường chia thành hai đường một chiều được phân tách bằng dải phân cách hoặc vách ngăn. Bạn phải giữ bên phải."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1678",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cấm quay ngược đầu xe."
+        },
+        {
+          "letter": "B",
+          "text": "Quay đầu được phép."
+        },
+        {
+          "letter": "C",
+          "text": "Con đường quanh co phía trước."
+        },
+        {
+          "letter": "D",
+          "text": "Rẽ trái gấp phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cấm quay ngược đầu xe.",
+      "explanation": "Một biển báo quy định hiển thị một vòng tròn đỏ với một vạch đỏ qua giữa cho biết một hành động cụ thể bị cấm. Quay đầu không được phép tại nơi có biển báo này."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "479",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đừng uống rượu nếu bạn sắp lái xe."
+        },
+        {
+          "letter": "B",
+          "text": "Trơn trượt khi ướt."
+        },
+        {
+          "letter": "C",
+          "text": "Đường cong phía trước."
+        },
+        {
+          "letter": "D",
+          "text": "Bạn sắp tiếp cận một ngọn đồi."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Trơn trượt khi ướt.",
+      "explanation": "Biển báo này cảnh báo rằng đường trơn khi ướt."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "975",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/indiana-two_way_left_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rẽ trái hai chiều."
+        },
+        {
+          "letter": "B",
+          "text": "Thay đổi làn đường."
+        },
+        {
+          "letter": "C",
+          "text": "Làn bổ sung."
+        },
+        {
+          "letter": "D",
+          "text": "Giao lộ hình chữ T."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Rẽ trái hai chiều.",
+      "explanation": "Biển báo quy định điều chỉnh tốc độ giao thông và chuyển động, hiển thị các quy tắc mà tài xế phải tuân theo. Biển báo quy định này cho biết tài xế từ cả hai hướng chỉ có thể sử dụng làn trung tâm chung để rẽ trái. Tài xế không nên sử dụng làn trung tâm như một làn lái thông thường."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "219",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/pennsylvania-no_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không được quay đầu."
+        },
+        {
+          "letter": "B",
+          "text": "Không được quay."
+        },
+        {
+          "letter": "C",
+          "text": "Cấm rẽ trái."
+        },
+        {
+          "letter": "D",
+          "text": "Cấm rẽ phải."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Không được quay đầu.",
+      "explanation": "Biển báo này cấm quay đầu ngược lại. Không quay đầu ngược lại nơi biển báo này được đặt."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "545",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/connecticut-speed_limit_50.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn nên lái xe theo chiều hướng của luồng giao thông."
+        },
+        {
+          "letter": "B",
+          "text": "Hạn chế tốc độ của bạn cho 50 dặm tiếp theo."
+        },
+        {
+          "letter": "C",
+          "text": "Giới hạn tốc độ được thực thi trong 50 dặm tiếp theo."
+        },
+        {
+          "letter": "D",
+          "text": "Giới hạn tốc độ là 50 mph."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Giới hạn tốc độ là 50 mph.",
+      "explanation": "Biển giới hạn tốc độ chỉ ra tốc độ an toàn tối đa được phép hoặc tốc độ an toàn tối thiểu được yêu cầu."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "969",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/stop_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dừng lại phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Cảnh báo xe ngựa."
+        },
+        {
+          "letter": "C",
+          "text": "Đỗ xe hạn chế."
+        },
+        {
+          "letter": "D",
+          "text": "Đừng chặn giao lộ."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Dừng lại phía trước.",
+      "explanation": "Các biển cảnh báo chuẩn bị cho tài xế cho các điều kiện đường bộ và nguy hiểm sắp tới và thường có màu vàng với các dấu hiệu màu đen. Biển này cho tài xế biết rằng có một biển dừng sắp tới và họ nên chuẩn bị dừng hoàn toàn trước khi tiếp tục."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "966",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/indiana-slippery_when_wet(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trơn trượt khi ướt."
+        },
+        {
+          "letter": "B",
+          "text": "Khu vực kéo xe."
+        },
+        {
+          "letter": "C",
+          "text": "Độ dốc陡峭."
+        },
+        {
+          "letter": "D",
+          "text": "Công trường phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Trơn trượt khi ướt.",
+      "explanation": "Các biển báo cảnh báo chuẩn bị tài xế cho các điều kiện đường và nguy hiểm sắp tới và thường có màu vàng với các ký hiệu đen. Biển hiệu này báo cho tài xế biết cần cẩn thận khi lái xe trong các điều kiện có thể làm cho đường trở nên ẩm và trơn."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "935",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Làn đường kết thúc."
+        },
+        {
+          "letter": "B",
+          "text": "Cấm rẽ phải."
+        },
+        {
+          "letter": "C",
+          "text": "Trơn trượt khi ướt."
+        },
+        {
+          "letter": "D",
+          "text": "Giao thông hai chiều."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Làn đường kết thúc.",
+      "explanation": "Biển cảnh báo chuẩn bị cho các tài xế về các điều kiện đường bộ và nguy hiểm sắp tới và thường có màu vàng và đen. Biển báo này cho các tài xế biết rằng một làn đường đang kết thúc và họ nên chuẩn bị để cho phép giao thông hợp nhất một cách an toàn."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "240",
+      "question": "Từ trên xuống dưới, thứ tự thích hợp cho các tín hiệu giao thông là:",
+      "image": "/images/signs/pennsylvania-traffic_signal_ahead_blank.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đỏ, vàng, xanh."
+        },
+        {
+          "letter": "B",
+          "text": "Đỏ, xanh, vàng."
+        },
+        {
+          "letter": "C",
+          "text": "Xanh, đỏ, vàng."
+        },
+        {
+          "letter": "D",
+          "text": "Xanh, vàng, đỏ."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đỏ, vàng, xanh.",
+      "explanation": "Trên tín hiệu giao thông sắp xếp theo chiều dọc, màu đỏ luôn ở trên cùng và màu xanh ở dưới cùng. Khi sắp xếp theo chiều ngang, màu đỏ luôn ở bên trái và màu xanh ở bên phải."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "575",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vòng xuyến phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Khu vực cấm vượt."
+        },
+        {
+          "letter": "C",
+          "text": "Rẽ trái nhượng quyền khi đèn xanh."
+        },
+        {
+          "letter": "D",
+          "text": "Tín hiệu giao thông phía trước."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tín hiệu giao thông phía trước.",
+      "explanation": "Biển báo này có nghĩa là có tín hiệu giao thông phía trước. Bạn nên giảm tốc độ và chuẩn bị dừng lại."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "583",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn sắp vào một con đường một chiều từ hướng sai."
+        },
+        {
+          "letter": "B",
+          "text": "Cấm quay ngược đầu xe."
+        },
+        {
+          "letter": "C",
+          "text": "Bạn có thể tiếp tục nếu đường đã sáng."
+        },
+        {
+          "letter": "D",
+          "text": "Dừng hoàn toàn trước khi tiếp tục."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bạn sắp vào một con đường một chiều từ hướng sai.",
+      "explanation": "Nếu bạn lái xe vượt qua các biển báo này, bạn đang đi sai hướng và có nguy cơ va chạm đầu. Bạn nên cẩn thận quay lại."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "595",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/virginia-right_curve_35_mph.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường phía trước cong về bên phải. Giảm tốc độ xuống tốc độ an toàn được chỉ định."
+        },
+        {
+          "letter": "B",
+          "text": "Đường cao tốc chia cách bắt đầu. Giảm tốc độ xuống tốc độ an toàn được chỉ định."
+        },
+        {
+          "letter": "C",
+          "text": "Nhập làn. Giảm tốc độ xuống tốc độ an toàn được chỉ định."
+        },
+        {
+          "letter": "D",
+          "text": "Đường quanh co phía trước. Giảm tốc độ xuống tốc độ an toàn được chỉ định."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đường phía trước cong về bên phải. Giảm tốc độ xuống tốc độ an toàn được chỉ định.",
+      "explanation": "Các biển báo này chỉ ra rằng đường phía trước cong về bên phải và tài xế nên giảm tốc độ xuống tốc độ an toàn được chỉ định (trong trường hợp này, 35 mph)."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1511",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/crossroad.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tăng tốc độ của bạn."
+        },
+        {
+          "letter": "B",
+          "text": "Đường sắt cắt ngang phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Ngã tư phía trước."
+        },
+        {
+          "letter": "D",
+          "text": "Bốn chiều dừng lại phía trước."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ngã tư phía trước.",
+      "explanation": "Biển hiệu này có nghĩa là bạn đang tiếp cận một giao lộ sắp tới. Quan sát kỹ giao thông ngang."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "964",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/indiana-sharp_turn_slow_down.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Khúc cua sắc phía trước, giảm tốc độ."
+        },
+        {
+          "letter": "B",
+          "text": "Đội công nhân phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Con đường bên."
+        },
+        {
+          "letter": "D",
+          "text": "Sân chơi phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Khúc cua sắc phía trước, giảm tốc độ.",
+      "explanation": "Các biển báo cảnh báo chuẩn bị cho người lái xe về các điều kiện đường và nguy hiểm sắp tới và thường có màu vàng với các đánh dấu đen. Biển báo này cảnh báo cho người lái xe rằng có một khúc cua sắc ạo phía trước và họ nên giảm tốc độ của mình cho phù hợp."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "918",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/indiana-buggy_warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cảnh báo xe ngựa."
+        },
+        {
+          "letter": "B",
+          "text": "Rẽ phải hoặc đi thẳng."
+        },
+        {
+          "letter": "C",
+          "text": "Tốc độ tối thiểu."
+        },
+        {
+          "letter": "D",
+          "text": "Đường quanh co."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cảnh báo xe ngựa.",
+      "explanation": "Biển cảnh báo chuẩn bị cho người lái xe các điều kiện đường và nguy hiểm sắp xảy ra và thường có màu vàng với các đánh dấu màu đen. Biển này cảnh báo người lái xe về những chiếc xe ngựa phía trước."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "1686",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/pedestrian_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trường học phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Khu vực qua đường trường học."
+        },
+        {
+          "letter": "C",
+          "text": "Lối qua đường cho người đi bộ."
+        },
+        {
+          "letter": "D",
+          "text": "Công nhân xây dựng trên hoặc gần đường."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Lối qua đường cho người đi bộ.",
+      "explanation": "Các biển báo cảnh báo thường có hình dạng kim cương với các đánh dấu đen trên nền vàng. Chúng cảnh báo cho người lái xe về các nguy hiểm sắp tới. Biển báo này chỉ ra rằng có thể có người đi bộ qua đường phía trước."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "581",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Khi mặt đường ướt, giảm tốc độ của bạn."
+        },
+        {
+          "letter": "B",
+          "text": "Đường phía trước quanh một loạt các lần quay hoặc đường cong."
+        },
+        {
+          "letter": "C",
+          "text": "Giao thông tăng lên phía trước."
+        },
+        {
+          "letter": "D",
+          "text": "Độ dốc cao phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Khi mặt đường ướt, giảm tốc độ của bạn.",
+      "explanation": "Biển báo này cảnh báo rằng mặt đường trơn trượt khi ẩm. Trong điều kiện ẩm ướt, bạn nên giảm tốc độ, tránh phanh hoặc thay đổi hướng đột ngột, và tăng khoảng cách giữa xe của bạn và xe phía trước."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "593",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/arkansas-traffic_lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường mở rộng phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Giảm làn đường; làn đường bên phải kết thúc sắp tới."
+        },
+        {
+          "letter": "C",
+          "text": "Đường dốc vào cao tốc phía trước."
+        },
+        {
+          "letter": "D",
+          "text": "Giảm làn đường; làn đường bên trái kết thúc sắp tới."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Giảm làn đường; làn đường bên phải kết thúc sắp tới.",
+      "explanation": "Biển báo này chỉ ra rằng làn đường bên phải kết thúc phía trước."
+    }
+  ]
+}

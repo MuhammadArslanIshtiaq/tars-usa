@@ -1,0 +1,560 @@
+{
+  "state": "Vermont",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/vermont/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8757",
+      "question": "A safety valve opens at ____ pounds per square inch (psi).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100"
+        },
+        {
+          "letter": "B",
+          "text": "150"
+        },
+        {
+          "letter": "C",
+          "text": "200"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "150",
+      "explanation": "The safety valve protects air tanks and the air brake system from too much pressure. It usually opens at 150 psi."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8640",
+      "question": "If only one axle has ABS:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Can be dangerous."
+        },
+        {
+          "letter": "B",
+          "text": "You still have more control when braking."
+        },
+        {
+          "letter": "C",
+          "text": "It slows the vehicle but cannot stop it."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You still have more control when braking.",
+      "explanation": "If ABS is on only one axle, you still have better brake control than without it. Brake normally."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10079",
+      "question": "Air tank drains should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only be used by mechanics."
+        },
+        {
+          "letter": "B",
+          "text": "Only be used when it is wet outside."
+        },
+        {
+          "letter": "C",
+          "text": "Drain the tanks completely."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Drain the tanks completely.",
+      "explanation": "Air tank drains remove water and oil from the air tanks. Always drain the tank completely."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9605",
+      "question": "What prevents wheel lockup when braking?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An Anti-Lock Braking System (ABS)"
+        },
+        {
+          "letter": "B",
+          "text": "Air brakes"
+        },
+        {
+          "letter": "C",
+          "text": "An alternator"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "An Anti-Lock Braking System (ABS)",
+      "explanation": "An Anti-Lock Braking System (ABS) stops wheels from locking up when you brake."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8627",
+      "question": "What happens if air pressure gets too low in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The brakes may squeak."
+        },
+        {
+          "letter": "B",
+          "text": "The brakes may stop working."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes may respond slowly."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The brakes may stop working.",
+      "explanation": "If air pressure becomes too low, the brakes may not work. Pressing and releasing the brake pedal too often lets air out faster than the compressor can replace it."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11904",
+      "question": "On a downgrade, brake until your speed is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 mph below your safe speed."
+        },
+        {
+          "letter": "B",
+          "text": "10 mph below your safe speed."
+        },
+        {
+          "letter": "C",
+          "text": "15 mph below your safe speed."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "5 mph below your safe speed.",
+      "explanation": "On a downhill grade, brake until you reach 5 mph below your safe speed. Then release the brakes and repeat."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10700",
+      "question": "Emergency brakes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Are not required on vehicles with air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Are required only on buses."
+        },
+        {
+          "letter": "C",
+          "text": "Are required on all vehicles."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Are required on all vehicles.",
+      "explanation": "All trucks, truck tractors, and buses must have emergency brakes and parking brakes."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "9604",
+      "question": "What is often found in compressed air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water"
+        },
+        {
+          "letter": "B",
+          "text": "Cardboard"
+        },
+        {
+          "letter": "C",
+          "text": "Brake fluid"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Water",
+      "explanation": "Compressed air usually contains water and oil. These can damage the brakes if they build up. Drain tanks regularly to remove this buildup."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8628",
+      "question": "To keep normal stopping power, drivers with a front brake limiting valve should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Set the control to normal."
+        },
+        {
+          "letter": "B",
+          "text": "Set the control to the off position."
+        },
+        {
+          "letter": "C",
+          "text": "Set the control to the neutral position."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Set the control to normal.",
+      "explanation": "Some older vehicles have a front brake limiting valve with \"normal\" and \"slippery\" settings. Set it to \"normal\" for full stopping power. The \"slippery\" setting reduces stopping power."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8634",
+      "question": "A dual air brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has two separate air brake systems that share one set of controls."
+        },
+        {
+          "letter": "B",
+          "text": "Is one air brake system with two different sets of controls."
+        },
+        {
+          "letter": "C",
+          "text": "Has one system for the left side and one for the right side, each with its own controls."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Has two separate air brake systems that share one set of controls.",
+      "explanation": "A dual air brake system has two separate brake systems. They share one set of controls but each has its own tanks and lines. One system usually controls the rear brakes and the other controls the front brakes."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11890",
+      "question": "While driving, ____ holds spring brakes in place.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air pressure"
+        },
+        {
+          "letter": "B",
+          "text": "Electricity"
+        },
+        {
+          "letter": "C",
+          "text": "Gasoline"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Air pressure",
+      "explanation": "Spring brakes are held in place by air pressure while driving. If air pressure drops too low, the springs will activate the brakes."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8632",
+      "question": "ABS malfunction lamps are ____ in color.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green"
+        },
+        {
+          "letter": "B",
+          "text": "Blue"
+        },
+        {
+          "letter": "C",
+          "text": "Yellow"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Yellow",
+      "explanation": "ABS malfunction lamps are yellow. They alert drivers when the anti-lock braking system is not working. Know where the malfunction lamp is on your vehicle before driving."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11899",
+      "question": "If the low pressure warning signal activates while driving, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop where you are and park"
+        },
+        {
+          "letter": "B",
+          "text": "Exit the roadway as soon as safely possible"
+        },
+        {
+          "letter": "C",
+          "text": "Continue driving normally"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Exit the roadway as soon as safely possible",
+      "explanation": "If the low pressure warning activates, safely exit the roadway as soon as possible and park your vehicle. Low air pressure means your brakes will not work well enough to stop safely."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11886",
+      "question": "What is the maximum safe air leakage rate for a single vehicle with air brakes during a leakage test?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi in one minute"
+        },
+        {
+          "letter": "B",
+          "text": "5 psi in one minute"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi in one minute"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "3 psi in one minute",
+      "explanation": "The maximum safe air loss rate for a single vehicle with air brakes is 3 psi per minute during a leakage test. Know this limit for your vehicle."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8635",
+      "question": "Before driving a vehicle with a dual air brake system, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Let the vehicle warm up to ensure fuel reaches the engine"
+        },
+        {
+          "letter": "B",
+          "text": "Let the air compressor build up a minimum of 100 psi in both the primary and secondary systems"
+        },
+        {
+          "letter": "C",
+          "text": "Begin driving as soon as the vehicle starts"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Let the air compressor build up a minimum of 100 psi in both the primary and secondary systems",
+      "explanation": "Allow the air compressor to build a minimum of 100 psi pressure in both the primary and secondary systems before driving. Watch the air pressure gauges to check the levels."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10078",
+      "question": "Air brakes use ____ to function.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compressed air"
+        },
+        {
+          "letter": "B",
+          "text": "Liquid nitrogen"
+        },
+        {
+          "letter": "C",
+          "text": "Carbon dioxide"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Compressed air",
+      "explanation": "Air brakes use compressed air to work properly."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10081",
+      "question": "A low air pressure warning signal is ____ on vehicles with air brakes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Not required"
+        },
+        {
+          "letter": "B",
+          "text": "Required"
+        },
+        {
+          "letter": "C",
+          "text": "Optional"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Required",
+      "explanation": "All vehicles with air brakes must have a low air pressure warning signal. If it activates while driving, stop the vehicle and have the system repaired."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10029",
+      "question": "What color are ABS malfunction lamps?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green"
+        },
+        {
+          "letter": "B",
+          "text": "Yellow"
+        },
+        {
+          "letter": "C",
+          "text": "Blue"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Yellow",
+      "explanation": "ABS malfunction lamps are yellow. If the ABS is not working, you still have your regular brakes to stop the vehicle."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8630",
+      "question": "If spring brakes are on, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Not use the brake pedal"
+        },
+        {
+          "letter": "B",
+          "text": "Press the accelerator"
+        },
+        {
+          "letter": "C",
+          "text": "Move the steering wheel"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Not use the brake pedal",
+      "explanation": "Do not use the brake pedal when spring brakes are on. Using both together can damage the brakes."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11199",
+      "question": "Brake fade is caused by:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brakes exposed to sunlight"
+        },
+        {
+          "letter": "B",
+          "text": "Brakes exposed to moisture"
+        },
+        {
+          "letter": "C",
+          "text": "Excessive use of the brakes"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Excessive use of the brakes",
+      "explanation": "Overusing brakes causes them to overheat. This heat makes the brakes fade and less effective at slowing the vehicle."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8624",
+      "question": "What does an air compressor do in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It pumps air into the air storage tanks."
+        },
+        {
+          "letter": "B",
+          "text": "It fills the tires."
+        },
+        {
+          "letter": "C",
+          "text": "It moves air to the back of the truck."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "It pumps air into the air storage tanks.",
+      "explanation": "The air compressor pumps air into storage tanks. A governor controls the air compressor."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "10308",
+      "question": "Air brakes use ____ to function.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compressed air"
+        },
+        {
+          "letter": "B",
+          "text": "Liquid air"
+        },
+        {
+          "letter": "C",
+          "text": "Nitrogen"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Compressed air",
+      "explanation": "Air brakes work using compressed air."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11197",
+      "question": "An Anti-Lock Braking System (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is required in some states."
+        },
+        {
+          "letter": "B",
+          "text": "Shortens brake response time."
+        },
+        {
+          "letter": "C",
+          "text": "Provides additional control."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Provides additional control.",
+      "explanation": "ABS helps you keep control when braking hard. It does not always make the vehicle stop faster."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8637",
+      "question": "If an air compressor is belt-driven, the belt should be checked to make sure it is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thin."
+        },
+        {
+          "letter": "B",
+          "text": "Properly tightened."
+        },
+        {
+          "letter": "C",
+          "text": "Cracked."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Properly tightened.",
+      "explanation": "Check the air compressor belt before each drive. Make sure it is tight and in good condition."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11882",
+      "question": "When an S-cam turns inside a brake drum, the S-cam:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presses the brake shoes against the inside of the brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "Presses the brake shoes against the brake linings."
+        },
+        {
+          "letter": "C",
+          "text": "Presses the brake linings against the wheel axles."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Presses the brake shoes against the inside of the brake drum.",
+      "explanation": "When you press the brake pedal, the S-cam turns and pushes the brake shoes against the inside of the brake drum. This creates friction and slows the vehicle."
+    }
+  ]
+}

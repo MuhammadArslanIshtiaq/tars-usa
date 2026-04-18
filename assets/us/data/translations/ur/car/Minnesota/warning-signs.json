@@ -1,0 +1,955 @@
+{
+  "state": "Minnesota",
+  "category": "car",
+  "quizName": "Warning Signs",
+  "slug": "warning-signs",
+  "totalQuestions": 43,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/stop-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ایک stop sign ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے ایک traffic signal ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ایک crosswalk ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ایک stop sign ہے۔",
+      "explanation": "یہ نشان آپ کو خطرے سے متنبہ کرتا ہے کہ آگے ایک stop sign ہے۔ سست ہونا شروع کریں تاکہ آپ مکمل طور پر رکنے کے لیے تیار رہیں۔"
+    },
+    {
+      "questionNumber": 2,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/yield-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ایک yield sign ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے ایک merge point ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ایک stop sign ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ایک yield sign ہے۔",
+      "explanation": "یہ نشان آپ کو خطرے سے متنبہ کرتا ہے کہ ایک yield sign آنے والا ہے۔ سست ہونے اور دوسری ٹریفک کو راستے کا حق دینے کے لیے تیار رہیں۔"
+    },
+    {
+      "questionNumber": 3,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ایک traffic signal ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "ریل روڈ کراسنگ آگے ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے اسکول کا علاقہ ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ایک traffic signal ہے۔",
+      "explanation": "یہ نشان آپ کو خطرے سے متنبہ کرتا ہے کہ ایک traffic signal آگے ہے۔ اگر روشنی سرخ یا پیلی ہے تو رکنے کے لیے تیار رہیں۔"
+    },
+    {
+      "questionNumber": 4,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/emergency-signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ایک emergency vehicle signal ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے ایک fire station ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ایک hospital zone ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ایک emergency vehicle signal ہے۔",
+      "explanation": "یہ نشان آپ کو خطرے سے متنبہ کرتا ہے کہ emergency vehicles کے ذریعے کنٹرول کیا جانے والا signal آگے ہے۔ Emergency vehicles کو گزارنے کے لیے signal تبدیل ہو سکتا ہے۔"
+    },
+    {
+      "questionNumber": 5,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/two-way-traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے دو طرفہ ٹریفک ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "سڑک دو سڑکوں میں تقسیم ہو رہی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "دو lanes ایک میں merge ہو رہی ہیں۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے دو طرفہ ٹریفک ہے۔",
+      "explanation": "یہ نشان خطرے سے متنبہ کرتا ہے کہ آپ ایک ایسی سڑک میں داخل ہونے والے ہیں جس پر مخالف سمت سے ٹریفک آ رہی ہے۔ اپنی lane میں رہیں۔"
+    },
+    {
+      "questionNumber": 6,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/no-passing-zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آپ ایک no-passing zone میں داخل ہو رہے ہیں۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے سڑک تنگ ہو رہی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے اسکول کا علاقہ ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آپ ایک no-passing zone میں داخل ہو رہے ہیں۔",
+      "explanation": "یہ پرچم کی شکل کا نشان ایک no-passing zone کے آغاز کو نشان زد کرتا ہے۔ اس علاقے میں دوسری گاڑیوں کو نہ نکالیں۔"
+    },
+    {
+      "questionNumber": 7,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/right-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے سڑک دائیں طرف موڑتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "اگلے چوراہے پر دائیں طرف موڑیں۔"
+        },
+        {
+          "letter": "C",
+          "text": "ایک دائیں lane ختم ہو رہی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے سڑک دائیں طرف موڑتی ہے۔",
+      "explanation": "یہ نشان آپ کو خطرے سے متنبہ کرتا ہے کہ آگے کی سڑک دائیں طرف موڑ رہی ہے۔ موڑ میں داخل ہونے سے پہلے سست ہوں۔"
+    },
+    {
+      "questionNumber": 8,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/sharp-curve-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے دائیں طرف ایک تیز موڑ ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے ایک نرم موڑ ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "سڑک بائیں طرف تیزی سے موڑتی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے دائیں طرف ایک تیز موڑ ہے۔",
+      "explanation": "یہ نشان دائیں طرف تیز موڑ کے بارے میں خطرے سے متنبہ کرتا ہے۔ اپنی گاڑی کو کنٹرول میں رکھنے کے لیے موڑ سے پہلے اچھی طرح سست ہوں۔"
+    },
+    {
+      "questionNumber": 9,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/sharp-curve-to-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ایک تیز دائیں موڑ ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "دائیں lane ختم ہو رہی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "ایک دائیں موڑ ضروری ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ایک تیز دائیں موڑ ہے۔",
+      "explanation": "یہ نشان دائیں طرف تیز موڑ کے بارے میں خطرے سے متنبہ کرتا ہے۔ موڑ میں داخل ہونے سے پہلے اپنی رفتار کم کریں۔"
+    },
+    {
+      "questionNumber": 10,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/very-sharp-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ایک بہت تیز موڑ یا رخ ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے سڑک ختم ہو رہی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "ایک U-turn ضروری ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ایک بہت تیز موڑ یا رخ ہے۔",
+      "explanation": "یہ نشان آگے ایک انتہائی تیز موڑ کے بارے میں خطرے سے متنبہ کرتا ہے۔ کنٹرول کھونے سے بچنے کے لیے موڑ سے پہلے نمایاں طور پر سست ہوں۔"
+    },
+    {
+      "questionNumber": 11,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/hairpin-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ایک hairpin curve ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے یو-ٹرن کا علاقہ ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے بند سڑک ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ایک hairpin curve ہے۔",
+      "explanation": "یہ نشان آگے ایک بہت تنگ hairpin curve کے بارے میں خطرے سے متنبہ کرتا ہے۔ موڑ میں داخل ہونے سے پہلے رفتار میں ڈرامائی کمی کریں۔"
+    },
+    {
+      "questionNumber": 12,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/left-turn-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "سڑک آگے بائیں طرف مڑتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "بائیں موڑ کا لین شروع ہوتا ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے بائیں موڑ نہیں۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "سڑک آگے بائیں طرف مڑتی ہے۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ آگے کی سڑک بائیں طرف مڑتی ہے۔ موڑ سے پہلے اپنی رفتار کم کریں۔"
+    },
+    {
+      "questionNumber": 13,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/left-reverse-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "منحنی خطوط کی ایک سیریز آگے بائیں موڑ سے شروع ہوتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے یو-ٹرن ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے گول چکر ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "منحنی خطوط کی ایک سیریز آگے بائیں موڑ سے شروع ہوتی ہے۔",
+      "explanation": "یہ نشان آگے کے ریورس کرو کے بارے میں انتباہ دیتا ہے، جو بائیں طرف کے موڑ سے شروع ہوتا ہے۔ رفتار کم کریں اور سمت میں تبدیلیوں کے لیے تیار رہیں۔"
+    },
+    {
+      "questionNumber": 14,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/winding-road-left-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے پیچیدہ سڑک ہے، جو بائیں طرف کے موڑ سے شروع ہوتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے تیز ڈھلوان ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "سڑک گیلی ہونے پر پھسلن والی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے پیچیدہ سڑک ہے، جو بائیں طرف کے موڑ سے شروع ہوتی ہے۔",
+      "explanation": "یہ نشان آگے کی سڑک کے بارے میں انتباہ دیتا ہے جس میں کئی منحنی خطوط ہیں۔ پہلا موڑ بائیں طرف جاتا ہے۔ رفتار کم کریں اور احتیاط سے ڈرائیو کریں۔"
+    },
+    {
+      "questionNumber": 15,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/advisory-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے کی سڑک کے لیے تجویز کردہ محفوظ رفتار۔"
+        },
+        {
+          "letter": "B",
+          "text": "اجازت کی گئی کم سے کم رفتار۔"
+        },
+        {
+          "letter": "C",
+          "text": "رفتار کی زیادہ سے زیادہ حد۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے کی سڑک کے لیے تجویز کردہ محفوظ رفتار۔",
+      "explanation": "مشورہ دینے والی رفتار کا نشان ایک موڑ یا دوسری سڑک کی حالت کے لیے تجویز کردہ محفوظ رفتار دکھاتا ہے۔ یہ رفتار کی حد نہیں بلکہ حفاظت کے لیے ایک تجویز ہے۔"
+    },
+    {
+      "questionNumber": 16,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/advisory-turn-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے آنے والے موڑ کے لیے تجویز کردہ رفتار۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے رفتار کی حد تبدیل ہوتی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "سڑک پر رفتار کے گتے آگے ہیں۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے آنے والے موڑ کے لیے تجویز کردہ رفتار۔",
+      "explanation": "یہ نشان آگے آنے والے موڑ کے لیے تجویز کردہ محفوظ رفتار دکھاتا ہے۔ موڑ میں داخل ہونے سے پہلے اپنی رفتار اس سطح تک کم کریں۔"
+    },
+    {
+      "questionNumber": 17,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/advisory-speed-on-exit-ramp.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے باہر نکلنے والے رین کے لیے تجویز کردہ رفتار۔"
+        },
+        {
+          "letter": "B",
+          "text": "ہائی وے پر رفتار کی حد۔"
+        },
+        {
+          "letter": "C",
+          "text": "رین پر کم سے کم رفتار۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے باہر نکلنے والے رین کے لیے تجویز کردہ رفتار۔",
+      "explanation": "یہ نشان باہر نکلنے والے رین کے لیے تجویز کردہ محفوظ رفتار دکھاتا ہے۔ رین میں داخل ہونے سے پہلے اس رفتار تک سست کریں۔"
+    },
+    {
+      "questionNumber": 18,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/truck-rollover-warning-sharp-curve.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ٹرک آگے کے تیز موڑ پر الٹ سکتے ہیں۔"
+        },
+        {
+          "letter": "B",
+          "text": "ٹرک یہاں سے نکل جانا ضروری ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ٹرک وزن اسٹیشن ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "ٹرک آگے کے تیز موڑ پر الٹ سکتے ہیں۔",
+      "explanation": "یہ نشان ٹرک ڈرائیوروں کو تیز موڑ کے بارے میں انتباہ دیتا ہے جہاں الٹ سکتے ہیں۔ تمام ڈرائیورز کو اس موڑ سے پہلے رفتار کم کرنی چاہیے۔"
+    },
+    {
+      "questionNumber": 19,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/cross-road-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے کراس سڑک ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "ریل روڈ کراسنگ آگے ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ہسپتال ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے کراس سڑک ہے۔",
+      "explanation": "یہ نشان آپ کو انتباہ دیتا ہے کہ ایک اور سڑک آپ کی سڑک کو کاٹتی ہے۔ دونوں طرفوں سے آنے والی ٹریفک پر نظر رکھیں۔"
+    },
+    {
+      "questionNumber": 20,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/side-road-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "بائیں طرف سے ایک طرفہ سڑک آتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "بائیں لین ختم ہوتی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے بائیں موڑ ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "بائیں طرف سے ایک طرفہ سڑک آتی ہے۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ ایک طرفہ سڑک بائیں طرف سے آپ کی سڑک سے ملتی ہے۔ اس سمت سے آنے والی ٹریفک پر نظر رکھیں۔"
+    },
+    {
+      "questionNumber": 21,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/side-road-at-angle-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ایک طرفہ سڑک زاویہ پر آتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے سڑک کا موڑ ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ایک merge point ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ایک طرفہ سڑک زاویہ پر آتی ہے۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ ایک سڑک اپنی سڑک سے زاویہ پر ملتی ہے۔ اس سڑک سے آنے والی گاڑیوں پر نظر رکھیں۔"
+    },
+    {
+      "questionNumber": 22,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/side-road-at-angle-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "دائیں طرف سے ایک طرفہ سڑک زاویہ پر آتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "ایک دائیں موڑ ضروری ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آرام کی جگہ دائیں طرف ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "دائیں طرف سے ایک طرفہ سڑک زاویہ پر آتی ہے۔",
+      "explanation": "یہ نشان دائیں طرف سے زاویہ پر آنے والی طرفہ سڑک کے بارے میں انتباہ دیتا ہے۔ اس سمت سے آنے والی گاڑیوں پر نظر رکھیں۔"
+    },
+    {
+      "questionNumber": 23,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/t-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ٹی-انقطاع ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے بند سڑک ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ٹول بوتھ ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ٹی-انقطاع ہے۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ آپ کی سڑک آگے ٹی-انقطاع پر ختم ہوتی ہے۔ آپ کو بائیں یا دائیں موڑنا ہوگا۔"
+    },
+    {
+      "questionNumber": 24,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/t-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آپ ٹی-انقطاع کے قریب پہنچ رہے ہیں۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے پل ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے سرنگ ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آپ ٹی-انقطاع کے قریب پہنچ رہے ہیں۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ آپ کی سڑک آگے ٹی-انقطاع پر ختم ہوتی ہے۔ بائیں یا دائیں موڑنے کے لیے تیار رہیں۔"
+    },
+    {
+      "questionNumber": 25,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/y-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے Y-انقطاع ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے ایک merge point ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے سڑک کا انقسام ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے Y-انقطاع ہے۔",
+      "explanation": "یہ نشان آگے Y-انقطاع کے بارے میں انتباہ دیتا ہے جہاں سڑک دو سمتوں میں بٹتی ہے۔ اپنا لین جلدی منتخب کریں۔"
+    },
+    {
+      "questionNumber": 26,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/intersection-within-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے موڑ کے اندر ایک چوراہہ ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے ایک تیز موڑ ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "سڑک موڑ میں تنگ ہو جاتی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے موڑ کے اندر ایک چوراہہ ہے۔",
+      "explanation": "یہ نشان ایک موڑ کے اندر واقع چوراہے کی انتباہی ہے۔ یہ خاص طور پر خطرناک ہو سکتا ہے کیونکہ نظر آنا محدود ہو سکتی ہے۔"
+    },
+    {
+      "questionNumber": 27,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/circular-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ایک سرکلر چوراہہ یا ٹریفک سرکل ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے بند سڑک ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے یو-ٹرن کا علاقہ ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ایک سرکلر چوراہہ یا ٹریفک سرکل ہے۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ آگے ایک سرکلر چوراہہ یا ٹریفک سرکل ہے۔ رفتار کم کریں اور پہلے سے سرکل میں موجود ٹریفک کو راہ دیں۔"
+    },
+    {
+      "questionNumber": 28,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/merging-traffic-from-right-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے دائیں طرف سے ٹریفک شامل ہو رہی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "دائیں lane ختم ہو رہی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ایک دائیں موڑ کی لین شروع ہوتی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے دائیں طرف سے ٹریفک شامل ہو رہی ہے۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ دوسری سڑک سے گاڑیں دائیں طرف سے آپ کی لین میں شامل ہوں گی۔ اپنی رفتار میں تبدیلی یا لین تبدیل کرنے کے لیے تیار رہیں۔"
+    },
+    {
+      "questionNumber": 29,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/entering-roadway-merge-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "سڑک میں داخل ہوتے وقت آپ کو دائیں طرف شامل ہونا ضروری ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "دائیں لین بند ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ایک دائیں موڑ ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "سڑک میں داخل ہوتے وقت آپ کو دائیں طرف شامل ہونا ضروری ہے۔",
+      "explanation": "یہ نشان آپ کو کہتا ہے کہ سڑک پر داخل ہوتے وقت دائیں طرف شامل ہوں۔ ٹریفک کے ساتھ محفوظ طریقے سے ملنے کے لیے اپنی رفتار میں تبدیلی کریں۔"
+    },
+    {
+      "questionNumber": 30,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/entering-roadway-added-lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "سڑک میں داخل ہونے والی ٹریفک کے لیے ایک نئی لین شامل کی گئی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "سڑک چوڑی ہو رہی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "یہاں ایک passing لین شروع ہوتی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "سڑک میں داخل ہونے والی ٹریفک کے لیے ایک نئی لین شامل کی گئی ہے۔",
+      "explanation": "یہ نشان مطلب رکھتا ہے کہ سڑک میں داخل ہونے والی ٹریفک کے لیے ایک نئی لین شامل کی جا رہی ہے۔ آپ کو فوری طور پر شامل ہونے کی ضرورت نہیں ہے۔"
+    },
+    {
+      "questionNumber": 31,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/added-lane-from-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "بائیں طرف سے ایک نئی لین شامل کی گئی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "بائیں لین ختم ہو رہی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "بائیں طرف سے ٹریفک شامل ہو رہی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "بائیں طرف سے ایک نئی لین شامل کی گئی ہے۔",
+      "explanation": "یہ نشان بتاتا ہے کہ سڑک میں بائیں طرف سے ایک نئی لین شامل کی جا رہی ہے۔ بائیں طرف سے آنے والی ٹریفک کی اپنی لین ہوگی۔"
+    },
+    {
+      "questionNumber": 32,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/lane-reduction-right-lane-ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "دائیں لین آگے ختم ہوتی ہے۔ بائیں طرف شامل ہوں۔"
+        },
+        {
+          "letter": "B",
+          "text": "ایک نئی دائیں لین شروع ہو رہی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "سڑک چوڑی ہو رہی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "دائیں لین آگے ختم ہوتی ہے۔ بائیں طرف شامل ہوں۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ دائیں لین آگے ختم ہو جائے گی۔ دائیں لین میں موجود ڈرائیور کو محفوظ طریقے سے بائیں طرف شامل ہونا چاہیے۔"
+    },
+    {
+      "questionNumber": 33,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/road-narrows.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے کی سڑک تنگ ہو جاتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے پل ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ایک لین والی سڑک ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے کی سڑک تنگ ہو جاتی ہے۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ آگے کی سڑک تنگ ہو جاتی ہے۔ رفتار کم کریں اور کم جگہ کے لیے تیار رہیں۔"
+    },
+    {
+      "questionNumber": 34,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/divided-highway-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے ایک تقسیم شدہ شاہراہ شروع ہوتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے ایک merge point ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "سڑک دو سڑکوں میں تقسیم ہو رہی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے ایک تقسیم شدہ شاہراہ شروع ہوتی ہے۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ آگے کی سڑک ایک درمیانے علاقے کے ساتھ تقسیم شدہ شاہراہ بن جاتی ہے۔ تقسیم کنندہ کے دائیں طرف رہیں۔"
+    },
+    {
+      "questionNumber": 35,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "آگے تیز ڈھلوان ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "سڑک پر رفتار کے گتے آگے ہیں۔"
+        },
+        {
+          "letter": "C",
+          "text": "سڑک غیر مساوی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "آگے تیز ڈھلوان ہے۔",
+      "explanation": "یہ نشان آگے ایک تیز ڈھلوان کی انتباہی ہے۔ آپ کو کم گیئر میں تبدیل کرنے اور نیچے جاتے وقت اپنی brakes کو احتیاط سے استعمال کرنے کی ضرورت ہو سکتی ہے۔"
+    },
+    {
+      "questionNumber": 36,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/slippery-when-wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "سڑک گیلی ہونے پر پھسلن والی ہو سکتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "سڑک میں بہت سے موڑ ہیں۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے سڑک پر برف ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "سڑک گیلی ہونے پر پھسلن والی ہو سکتی ہے۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ سڑک گیلی ہونے پر پھسلن والی ہو جاتی ہے۔ رفتار کم کریں اور گیلی حالت میں اچانک رکنے یا موڑنے سے بچیں۔"
+    },
+    {
+      "questionNumber": 37,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/deer-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "اس علاقے میں ہرن سڑک عبور کر سکتے ہیں۔"
+        },
+        {
+          "letter": "B",
+          "text": "قریب میں ایک جنگلی حیات کا پارک ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "قریب میں شکار کی اجازت ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "اس علاقے میں ہرن سڑک عبور کر سکتے ہیں۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ اس علاقے میں ہرن اکثر سڑک عبور کرتے ہیں۔ خاص طور پر صبح سویرے اور شام کے وقت ہرن کو دیکھیں۔"
+    },
+    {
+      "questionNumber": 38,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/cattle-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "اس علاقے میں مویشی سڑک عبور کر سکتے ہیں۔"
+        },
+        {
+          "letter": "B",
+          "text": "قریب میں ایک کھیت ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ایک rodeo علاقہ ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "اس علاقے میں مویشی سڑک عبور کر سکتے ہیں۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ مویشی یا دوسرے جانور سڑک عبور کر سکتے ہیں۔ رفتار کم کریں اور جانوروں کے لیے رکنے کے لیے تیار رہیں۔"
+    },
+    {
+      "questionNumber": 39,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/farm-machinery-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "کھیتی کی مشینری سڑک کو عبور کر سکتی ہے یا اس کا استعمال کر سکتی ہے۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے ایک کھیت کی منڈی ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "اس سڑک پر بھاری ٹرک استعمال ہوتے ہیں۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "کھیتی کی مشینری سڑک کو عبور کر سکتی ہے یا اس کا استعمال کر سکتی ہے۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ سست رفتار والے کھیتی کے آلات سڑک پر یا اس کو عبور کر سکتے ہیں۔ صبر کریں اور صرف جب محفوظ ہو تو pass کریں۔"
+    },
+    {
+      "questionNumber": 40,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/truck-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ٹرک سڑک میں داخل ہو سکتے ہیں یا اس کو عبور کر سکتے ہیں۔"
+        },
+        {
+          "letter": "B",
+          "text": "آگے ایک ٹرک سٹاپ ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "ٹرکس کو دائیں لین استعمال کرنی چاہیے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "ٹرک سڑک میں داخل ہو سکتے ہیں یا اس کو عبور کر سکتے ہیں۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ ٹرک اس مقام پر سڑک میں داخل ہوتے ہیں یا اس کو عبور کرتے ہیں۔ بڑی گاڑیوں کو دیکھیں۔"
+    },
+    {
+      "questionNumber": 41,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/snow-mobile-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "اس علاقے میں سنو موبائلز سڑک کو عبور کر سکتے ہیں۔"
+        },
+        {
+          "letter": "B",
+          "text": "قریب میں ایک سکی ریزورٹ ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "سڑک برف سے ڈھکی ہو سکتی ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "اس علاقے میں سنو موبائلز سڑک کو عبور کر سکتے ہیں۔",
+      "explanation": "یہ نشان خطرے کی انتباہ دیتا ہے کہ اس علاقے میں سنو موبائلز بار بار سڑک کو عبور کرتے ہیں۔ خاص طور پر سردیوں میں سنو موبائلز کے لیے ہوشیار رہیں۔"
+    },
+    {
+      "questionNumber": 42,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/fire-station.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "سڑک کے قریب ایک فائر سٹیشن ہے۔ فائر ٹرکس کے لیے دیکھیں۔"
+        },
+        {
+          "letter": "B",
+          "text": "قریب میں ایک فائر ہائڈرنٹ ہے۔"
+        },
+        {
+          "letter": "C",
+          "text": "آگے ایک کیمپ فائر علاقہ ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "سڑک کے قریب ایک فائر سٹیشن ہے۔ فائر ٹرکس کے لیے دیکھیں۔",
+      "explanation": "یہ نشان انتباہ دیتا ہے کہ سڑک کے قریب ایک فائر سٹیشن ہے۔ فائر ٹرکس کے لیے دیکھیں جو اچانک سڑک میں داخل ہو سکتے ہیں۔ ہمیشہ ایمرجنسی گاڑیوں کو راستہ دیں۔"
+    },
+    {
+      "questionNumber": 43,
+      "question": "یہ نشان کیا معنی رکھتا ہے؟",
+      "image": "/images/warning-signs/traffic-laws-enforced-by-cam.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "اس علاقے میں ٹریفک قوانین کیمرے کے ذریعے نافذ کیے جاتے ہیں۔"
+        },
+        {
+          "letter": "B",
+          "text": "سڑک پر رفتار کے گتے آگے ہیں۔"
+        },
+        {
+          "letter": "C",
+          "text": "کیمروں کے ساتھ ایک ٹول بوتھ آگے ہے۔"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "اس علاقے میں ٹریفک قوانین کیمرے کے ذریعے نافذ کیے جاتے ہیں۔",
+      "explanation": "یہ نشان آپ کو بتاتا ہے کہ اس علاقے میں ٹریفک قوانین کو نافذ کرنے کے لیے کیمرے استعمال کیے جاتے ہیں۔ تمام ٹریفک قوانین کی پیروی کریں، بشمول رفتار کی حد اور سرخ روشنیاں۔"
+    }
+  ]
+}

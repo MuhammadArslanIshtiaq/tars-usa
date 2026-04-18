@@ -1,0 +1,501 @@
+{
+  "state": "New York",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #1",
+  "slug": "intermediate-practice-test-1",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1672",
+      "question": "交通信号灯有时显示箭头以控制来自特定车道的转向。绿色箭头：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅用于单向街道。"
+        },
+        {
+          "letter": "B",
+          "text": "的含义与圆形绿灯相同，但交通必须按箭头所示的方向转向。"
+        },
+        {
+          "letter": "C",
+          "text": "表示你可以通行，但仅在绿色箭头伴有圆形绿灯时。"
+        },
+        {
+          "letter": "D",
+          "text": "指向机场的方向。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "的含义与圆形绿灯相同，但交通必须按箭头所示的方向转向。",
+      "explanation": "绿色箭头的含义与圆形绿灯相同，但指示车道中的交通必须按箭头所示的方向转向。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "605",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/virginia-curve_ahead_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前方道路施工。"
+        },
+        {
+          "letter": "B",
+          "text": "前方道路向左弯，然后向右弯。"
+        },
+        {
+          "letter": "C",
+          "text": "前方道路向右弯，然后向左弯。"
+        },
+        {
+          "letter": "D",
+          "text": "前方陡坡。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "前方道路向右弯，然后向左弯。",
+      "explanation": "这个标志表示前方道路先向右弯，然后向左弯。你应该减速以能够安全地通过这些弯道。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1218",
+      "question": "夜间驾驶时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "始终使用远光灯。"
+        },
+        {
+          "letter": "B",
+          "text": "直接看迎面而来车辆的前灯。"
+        },
+        {
+          "letter": "C",
+          "text": "增加跟车距离。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "增加跟车距离。",
+      "explanation": "在黑暗中难以看清时增加跟车距离。使用前灯增加能见度，遵守远光灯和近光灯的使用规则。避免直接看迎面而来车辆的前灯，以免被眩光致盲。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1810",
+      "question": "您可以在以下情况下超越车辆：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "你在山丘或弯道上。"
+        },
+        {
+          "letter": "B",
+          "text": "你在一条在你的车道旁有实线的道路上。"
+        },
+        {
+          "letter": "C",
+          "text": "你在一条在你的车道旁有虚线的道路上。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "你在一条在你的车道旁有虚线的道路上。",
+      "explanation": "单条虚线表示驾驶员可以从任一车道穿过以变道。虚黄线与实黄线并排表示允许从靠近虚线的车道超车，但不允许从靠近实线的车道超车。仅在安全的情况下变道。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "478",
+      "question": "这个标志表示：",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "以当前速度继续行驶。"
+        },
+        {
+          "letter": "B",
+          "text": "你必须在前方停止。"
+        },
+        {
+          "letter": "C",
+          "text": "不允许超速。"
+        },
+        {
+          "letter": "D",
+          "text": "前方有交通信号灯。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "前方有交通信号灯。",
+      "explanation": "此标志表示前方有交通信号灯。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "3181",
+      "question": "如果你看到一条向内倾斜的边界线，它表示：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "速度限制在降低。"
+        },
+        {
+          "letter": "B",
+          "text": "道路变窄。"
+        },
+        {
+          "letter": "C",
+          "text": "道路变宽。"
+        },
+        {
+          "letter": "D",
+          "text": "速度限制在提高。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "道路变窄。",
+      "explanation": "如果你看到一条向内倾斜的边界线，它表示前方道路变窄。确保安全合并。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "350",
+      "question": "为了为道路上即将出现的任何情况做好准备，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不断扫描整条道路和所有路边。"
+        },
+        {
+          "letter": "B",
+          "text": "始终直视前方。"
+        },
+        {
+          "letter": "C",
+          "text": "驾驶时左脚轻轻搭在制动踏板上。"
+        },
+        {
+          "letter": "D",
+          "text": "保持对道路中心的关注。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "不断扫描整条道路和所有路边。",
+      "explanation": "你处理危险交通情况的能力主要取决于在遇到问题前发现和识别问题。向前看你的车辆并不意味着你应该只是盯着道路中心看。你需要不断扫描整条道路，包括道路两侧。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1873",
+      "question": "道路中心带有双实黄线标记表示超车是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "两个方向都允许。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在你的行驶方向上允许。"
+        },
+        {
+          "letter": "C",
+          "text": "任何方向都不允许。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "任何方向都不允许。",
+      "explanation": "道路中心的双实黄线表示交通在相反方向行驶，任何方向都不允许超车。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "434",
+      "question": "你永远不能停放在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "单向街道上。"
+        },
+        {
+          "letter": "B",
+          "text": "建筑物入口处。"
+        },
+        {
+          "letter": "C",
+          "text": "人行横道中。"
+        },
+        {
+          "letter": "D",
+          "text": "消火栓50英尺范围内。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "人行横道中。",
+      "explanation": "在人行横道内停放、停止或停驻是违法的。禁止在消火栓15英尺范围内停放。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "869",
+      "question": "路面上的水可能导致车辆打滑。你的车可能在低至以下速度时打滑：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45英里每小时。"
+        },
+        {
+          "letter": "B",
+          "text": "35英里每小时。"
+        },
+        {
+          "letter": "C",
+          "text": "40英里每小时。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "35英里每小时。",
+      "explanation": "当路面上有积水时会发生水滑现象。在不超过35 mph的速度下，大多数轮胎会将水从轮胎处排出。当你的速度超过35 mph时，轮胎无法很好地排出水，轮胎可能开始与路面失去接触，像水上滑橇一样浮在水面上。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "78",
+      "question": "如果你计划超越另一辆车,你应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不假设其他驾驶员会为你让出返回你的车道的空间。"
+        },
+        {
+          "letter": "B",
+          "text": "如果你使用转向灯,假设其他驾驶员会让你通行。"
+        },
+        {
+          "letter": "C",
+          "text": "假设其他驾驶员会保持恒定速度。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "不假设其他驾驶员会为你让出返回你的车道的空间。",
+      "explanation": "即使你发出信号,也不应该假设你想要的空间是空的或其他驾驶员会让你通行。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "867",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前方十字路口。"
+        },
+        {
+          "letter": "B",
+          "text": "前方陡坡。"
+        },
+        {
+          "letter": "C",
+          "text": "弯曲的道路。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "前方陡坡。",
+      "explanation": "警告标志通常为黄色配黑色标记。该标志表示前方有陡坡。减速并准备换到低档以控制您的速度并保护制动器免受损伤。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1537",
+      "question": "你可以越过虚线白线：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "随时。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在白天时间。"
+        },
+        {
+          "letter": "C",
+          "text": "当改变车道是安全的时候。"
+        },
+        {
+          "letter": "D",
+          "text": "仅在超越摩托车时。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "当改变车道是安全的时候。",
+      "explanation": "同一方向行驶的交通车道由虚线白线分隔。如果安全的话，你可以越过虚线进行超车。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1830",
+      "question": "在红灯带绿色箭头的交通灯处，如果满足以下条件，您可以按照箭头方向行驶：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您首先完全停止。"
+        },
+        {
+          "letter": "B",
+          "text": "您等待直到灯变。"
+        },
+        {
+          "letter": "C",
+          "text": "您在正确的车道上，道路畅通。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "您在正确的车道上，道路畅通。",
+      "explanation": "如果您在与显示绿色箭头信号相对应的车道中，当道路通畅时，您可以按照箭头方向行驶。无论箭头是单独显示还是与其他信号一起显示，这都适用。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "589",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "禁止左转。"
+        },
+        {
+          "letter": "B",
+          "text": "禁止掉头。"
+        },
+        {
+          "letter": "C",
+          "text": "禁止出口。"
+        },
+        {
+          "letter": "D",
+          "text": "禁止右转。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "禁止右转。",
+      "explanation": "这个标志表示禁止右转。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1480",
+      "question": "停止标志的形状像一个(n)：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "矩形。"
+        },
+        {
+          "letter": "B",
+          "text": "正方形。"
+        },
+        {
+          "letter": "C",
+          "text": "圆形。"
+        },
+        {
+          "letter": "D",
+          "text": "八边形。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "八边形。",
+      "explanation": "八边形仅用于停止标志。所有八边形标志都告诉驾驶员在继续之前必须完全停止。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "459",
+      "question": "以下哪一项影响酒精的效果?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "胃中的食物量"
+        },
+        {
+          "letter": "B",
+          "text": "个人的体重"
+        },
+        {
+          "letter": "C",
+          "text": "两次饮酒之间经过的时间"
+        },
+        {
+          "letter": "D",
+          "text": "所有三个选项"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "所有三个选项",
+      "explanation": "你的血液酒精含量(BAC)取决于你喝了多少酒、两杯酒之间相隔多少时间以及你的体重。在你喝酒前或喝酒时进食有助于减缓酒精的吸收速度，但如果你喝太多酒，它无法防止醉酒或损害。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "2078",
+      "question": "在黄昏或阴天时，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "使用四向闪光灯驾驶。"
+        },
+        {
+          "letter": "B",
+          "text": "使用停车灯驾驶。"
+        },
+        {
+          "letter": "C",
+          "text": "不打开任何车灯。"
+        },
+        {
+          "letter": "D",
+          "text": "打开您的前灯。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "打开您的前灯。",
+      "explanation": "在黄昏或阴天时，您必须打开前大灯。当靠近对面来车时距离为1,000英尺以内，以及当靠近您正在跟随的车辆时距离为500英尺以内时，将灯光调暗至近光。在恶劣天气驾驶时，始终使用近光。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1917",
+      "question": "当双实黄线分隔车道流量时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "允许从左侧超车。"
+        },
+        {
+          "letter": "B",
+          "text": "允许从右侧超车。"
+        },
+        {
+          "letter": "C",
+          "text": "任何方向都不允许超车。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "任何方向都不允许超车。",
+      "explanation": "分隔车道流量的黄线表示车辆在相反方向行驶。双实线表示任何方向都不允许超车。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "442",
+      "question": "防御性驾驶的策略之一是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶时直视前方。"
+        },
+        {
+          "letter": "B",
+          "text": "保持警惕并使眼睛持续活动。"
+        },
+        {
+          "letter": "C",
+          "text": "期望其他驾驶者会弥补你的错误。"
+        },
+        {
+          "letter": "D",
+          "text": "确信你可以在最后时刻避免危险。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "保持警惕并使眼睛持续活动。",
+      "explanation": "因为交通状况总是在变化，你应该持续扫描前方道路。让你的眼睛保持活动，注意道路两侧发生的情况，并通过使用后视镜每几秒检查一次后方。"
+    }
+  ]
+}

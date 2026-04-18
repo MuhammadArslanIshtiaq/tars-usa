@@ -1,0 +1,450 @@
+{
+  "state": "Alaska",
+  "category": "cdl",
+  "testName": "Combination Test #1 20 Questions • Passing Score 16",
+  "testSlug": "combination-1",
+  "url": "/images/alaska/cdl/combination-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11838",
+      "question": "여행을 시작하기 전에 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "서비스 라인 밸브를 열린 상태로 두세요."
+        },
+        {
+          "letter": "B",
+          "text": "릴레이 밸브를 제거하세요."
+        },
+        {
+          "letter": "C",
+          "text": "긴급 라인 밸브를 닫으세요."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "긴급 라인 밸브를 닫으세요.",
+      "explanation": "여행 전에 후방 긴급 라인과 서비스 라인 차단 밸브를 열고 공기가 빠져나가는 소리를 들음으로써 모든 트레일러의 모든 공기 브레이크에 공기가 전달되는지 확인해야 합니다. 운전을 시작하기 전에 두 차단 밸브를 모두 닫으세요."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11074",
+      "question": "트랙터 보호 밸브:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "심한 누출이 있을 경우 브레이크 시스템에 공기를 유지합니다."
+        },
+        {
+          "letter": "B",
+          "text": "트럭이 도난당하는 것을 방지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "트레일러가 실수로 분리되는 것을 방지합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "심한 누출이 있을 경우 브레이크 시스템에 공기를 유지합니다.",
+      "explanation": "트랙터 보호 밸브는 트레일러가 분리되거나 심한 누출이 발생할 경우 트랙터나 트럭 에어 브레이크 시스템에 공기를 유지합니다. 압력이 안전하지 않은 수준까지 떨어지면 밸브가 자동으로 닫힙니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9895",
+      "question": "다음 중 리그 전복을 방지하는 데 도움이 되지 않는 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "화물을 가능한 한 지면에 가깝게 유지"
+        },
+        {
+          "letter": "B",
+          "text": "곡선 부분에서 천천히 운전"
+        },
+        {
+          "letter": "C",
+          "text": "도로 갓길에서 운전"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "도로 갓길에서 운전",
+      "explanation": "리그 전복을 방지하기 위해서는 화물을 적재할 때 화물의 무게를 가능한 한 지면 가까이 유지해야 합니다. 또한 곡선 부분에서 천천히 운전해야 합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11850",
+      "question": "응급 에어라인이 압력을 잃으면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anti-Lock Braking System이 활성화됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "서비스 에어라인이 활성화됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "응급 브레이크가 활성화됩니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "응급 브레이크가 활성화됩니다.",
+      "explanation": "긴급 에어 라인은 연결 차량의 긴급 브레이크를 제어합니다. 긴급 라인의 공기 압력 손실로 인해 긴급 트레일러 브레이크가 활성화됩니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9610",
+      "question": "Anti-Lock Braking System(ABS)이 장착된 차량을 운전할 때, 브레이크를 적용해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ABS가 없는 차량에서와 동일한 방식으로 작동합니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량이 중립 상태에 놓여 있을 때와 같이 작동합니다."
+        },
+        {
+          "letter": "C",
+          "text": "핸드 브레이크를 사용합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "ABS가 없는 차량에서와 동일한 방식으로 작동합니다.",
+      "explanation": "ABS가 장착된 차량을 운전할 때는 ABS가 없는 차량에서와 동일한 방식으로 브레이크를 밟아야 합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11843",
+      "question": "시속 40 mph 미만의 속도로 이동하는 경우, 차량의 10 피트마다 최소 ____ 정도의 추종 거리를 유지하십시오.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1초"
+        },
+        {
+          "letter": "B",
+          "text": "2초"
+        },
+        {
+          "letter": "C",
+          "text": "3초"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "1초",
+      "explanation": "시속 40 mph 이하의 속도로 여행할 때, 차량의 10 피트마다 최소 1초의 따라가는 거리를 허용해야 합니다. 더 빠른 속도로 여행할 때도 동일한 공식을 따른 다음, 따라가는 거리에 1초를 추가로 더하십시오. 더 큰 차량은 더 작은 차량보다 정지하기 위해 더 많은 공간이 필요하다는 것을 기억하십시오."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11833",
+      "question": "Service air line은 종종 풋 브레이크로 제어되며 ____ 밸브에 연결됩니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relay"
+        },
+        {
+          "letter": "B",
+          "text": "Supply"
+        },
+        {
+          "letter": "C",
+          "text": "Emergency"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Relay",
+      "explanation": "Service air line은 에어를 운반하며 풋 브레이크 또는 트레일러 핸드 브레이크로 제어됩니다. Service air line은 트레일러 브레이크를 빠르게 적용할 수 있는 relay 밸브에 연결됩니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8645",
+      "question": "보브테일 트랙터는 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "세미트레일러가 없는 트랙터"
+        },
+        {
+          "letter": "B",
+          "text": "두 개의 세미트레일러가 있는 트랙터"
+        },
+        {
+          "letter": "C",
+          "text": "제한 속도보다 빠르게 이동하는 트랙터"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "세미트레일러가 없는 트랙터",
+      "explanation": "세미트레일러가 없는 트랙터를 \"보브테일 트랙터\"라고 합니다. 보브테일 트랙터는 조작이 어려우며 운전자는 주의를 기울여야 합니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11072",
+      "question": "연결 차량:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "단일 상용 차량보다 더 높은 트레일러가 있는 경우가 많습니다."
+        },
+        {
+          "letter": "B",
+          "text": "일반적으로 단일 상용 차량보다 가볍습니다."
+        },
+        {
+          "letter": "C",
+          "text": "단일 상용 차량보다 운전에 더 많은 기술이 필요합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "단일 상용 차량보다 운전에 더 많은 기술이 필요합니다.",
+      "explanation": "연결 차량을 운전하려면 단일 상용 차량을 운전하는 것보다 더 많은 기술이 필요합니다. 연결 차량은 일반적으로 더 길고, 일반적으로 더 무겁고, 전복에 더 취약합니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9467",
+      "question": "트레일러 핸드 밸브:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "항상 주차에 사용해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "내리막에서만 주차에 사용해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "주차에 절대 사용하면 안 됩니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "주차에 절대 사용하면 안 됩니다.",
+      "explanation": "그렇게 하면 브레이킹 시스템에서 공기 압력이 해제되어 차량을 제자리에 고정하는 브레이크가 해제될 수 있으므로 주차 중에는 트레일러 핸드 밸브를 절대 사용하지 마십시오. 대신 주차 브레이크나 휠 초크를 사용하십시오."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11830",
+      "question": "트레일러 에어 공급 제어를 누르면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "트레일러에 공기를 공급합니다."
+        },
+        {
+          "letter": "B",
+          "text": "에어 제동장치를 비활성화하세요."
+        },
+        {
+          "letter": "C",
+          "text": "차량이 미끄러지는 것을 방지합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "트레일러에 공기를 공급합니다.",
+      "explanation": "트레일러 공기 공급 제어 버튼을 눌러 트레일러에 공기를 공급합니다. 트레일러 공기 공급 제어 버튼을 빼면 공기 공급이 차단되고 비상 브레이크가 작동합니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11025",
+      "question": "트레일러에 Anti-Lock Braking System (ABS)이 있는지 확실하지 않다면 다음을 할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "트레일러 아래에서 제동장치 뒤쪽에서 나오는 휠 속도 센서를 찾아보십시오."
+        },
+        {
+          "letter": "B",
+          "text": "타이어를 제거하고 액슬에서 ABS 센서를 찾아보십시오."
+        },
+        {
+          "letter": "C",
+          "text": "ABS가 있다고 가정하십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "트레일러 아래에서 제동장치 뒤쪽에서 나오는 휠 속도 센서를 찾아보십시오.",
+      "explanation": "트레일러에 ABS가 장착되어 있는지 확실하지 않다면 차량 아래에서 제동장치 뒤쪽에서 나오는 전자 제어 장치와 휠 속도 센서 전선을 확인하십시오."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11855",
+      "question": "연결할 때, 트레일러에 에어 라인을 연결한 후, 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "트레일러에 공기를 공급합니다."
+        },
+        {
+          "letter": "B",
+          "text": "긴급 브레이크를 활성화합니다."
+        },
+        {
+          "letter": "C",
+          "text": "글래드 핸드를 분리합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "트레일러에 공기를 공급합니다.",
+      "explanation": "트레일러를 올바르게 연결 및 분리하는 단계를 따르는 것은 연결 차량을 안전하게 운전하는 데 매우 중요합니다. 연결할 때 트레일러에 에어 라인을 연결한 후, 트레일러에 공기를 공급해야 합니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9469",
+      "question": "안티록 브레이킹 시스템(ABS)은 무엇을 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량의 휠이 잠기도록 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량의 휠이 잠기는 것을 방지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "차량 조향을 더 쉽게 만듭니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "차량의 휠이 잠기는 것을 방지합니다.",
+      "explanation": "Anti-Lock Braking System (ABS)은 급제동 시 휠 잠금을 방지하는 데 도움이 됩니다. ABS가 잠금이 임박함을 감지하면 제동 압력을 안전한 수준으로 줄입니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11835",
+      "question": "____년 이전에 제조된 트레일러는 스프링 브레이크를 갖춰야 하는 것은 아닙니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1985"
+        },
+        {
+          "letter": "B",
+          "text": "1975"
+        },
+        {
+          "letter": "C",
+          "text": "1999"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "1975",
+      "explanation": "1975년 이전에 제조된 트레일러는 스프링 브레이크를 갖춰야 하는 것은 아닙니다. 스프링 브레이크가 없는 트레일러를 주차할 때는 트레일러가 굴러가는 것을 방지하기 위해 휠 초크를 사용해야 합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11832",
+      "question": "공기 공급 제어 장치가 \"긴급\" 위치에 있다면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량의 속도가 증가합니다."
+        },
+        {
+          "letter": "B",
+          "text": "트레일러 긴급 브레이크가 작동됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "트레일러로의 공기 공급이 증가합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "트레일러 긴급 브레이크가 작동됩니다.",
+      "explanation": "오래된 차량의 트랙터 보호 제어 장치는 노브 대신 레버로 작동될 수 있습니다. 공기 공급 제어 장치가 \"긴급\" 위치로 설정되어 있으면 공기 공급이 중단되고 트레일러 긴급 브레이크가 작동됩니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9607",
+      "question": "보브테일 트랙터는 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "트레일러가 없는 트랙터"
+        },
+        {
+          "letter": "B",
+          "text": "2개의 트레일러가 연결된 트랙터"
+        },
+        {
+          "letter": "C",
+          "text": "탱크가 있는 트랙터"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "트레일러가 없는 트랙터",
+      "explanation": "반트레일러가 없는 트랙터를 밥테일 트랙터라고 합니다. 밥테일 트랙터를 운전하려면 운전자가 주의를 기울여야 합니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11841",
+      "question": "____를 테스트할 때는 차량을 천천히 앞으로 움직이면서 핸드 제어로 차량의 브레이크를 적용해야 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anti-Lock Braking System"
+        },
+        {
+          "letter": "B",
+          "text": "긴급 제동 시스템"
+        },
+        {
+          "letter": "C",
+          "text": "트레일러 서비스 브레이크"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "트레일러 서비스 브레이크",
+      "explanation": "트레일러 서비스 브레이크를 테스트하려면 먼저 제동 시스템의 공기 압력이 정상 수준인지 확인한 다음 주차 브레이크를 해제해야 합니다. 그 다음 차량을 천천히 앞으로 움직이고 핸드 제어로 브레이크를 적용해야 합니다. 트레일러 서비스 브레이크가 제대로 작동하면 브레이크가 작동되는 것을 느낄 것입니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11206",
+      "question": "Johnson bar란 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "트레일러 브레이크를 작동하는 핸드 밸브"
+        },
+        {
+          "letter": "B",
+          "text": "연료 수준을 표시하는 밸브"
+        },
+        {
+          "letter": "C",
+          "text": "화물의 양을 제한하는 밸브"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "트레일러 브레이크를 작동하는 핸드 밸브",
+      "explanation": "트레일러 핸드 밸브(트롤리 밸브 또는 Johnson bar라고도 함)는 트레일러 브레이크를 작동하는 데 사용됩니다. 이는 브레이크를 테스트할 때만 사용해야 합니다. 차량이 움직이는 중에 사용하면 미끄러짐이 발생할 수 있습니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11847",
+      "question": "조합 차량이 도로에서 추가 공간이 필요한 이유는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 상용 자동차보다 더 천천히 운전합니다."
+        },
+        {
+          "letter": "B",
+          "text": "다른 상용 자동차보다 무겁습니다."
+        },
+        {
+          "letter": "C",
+          "text": "다른 상용 자동차보다 회전 및 정지에 더 많은 공간이 필요합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "다른 상용 자동차보다 회전 및 정지에 더 많은 공간이 필요합니다.",
+      "explanation": "연결 차량은 다른 상용 차량보다 도로에서 더 많은 공간이 필요한 이유는 더 길고 회전 및 정지를 위해 더 많은 공간이 필요하기 때문입니다. 연결 차량을 운영할 때 공간을 적절히 관리하는 것이 특히 중요합니다."
+    }
+  ]
+}

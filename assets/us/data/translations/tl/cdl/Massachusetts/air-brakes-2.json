@@ -1,0 +1,656 @@
+{
+  "state": "Massachusetts",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/massachusetts/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9003",
+      "question": "Kapag gumagamit ng controlled braking method sa emergency situation, dapat mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ipatupad ang mga preno nang kasing lakas na posible nang hindi na-lock ang mga gulong."
+        },
+        {
+          "letter": "B",
+          "text": "Ipatupad ang mga preno na may mga kalahating karaniwang puwersa."
+        },
+        {
+          "letter": "C",
+          "text": "Ipatupad ang mga preno upang ma-lock ang mga gulong."
+        },
+        {
+          "letter": "D",
+          "text": "Ipatupad ang mga preno na may minimal na presyon."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ipatupad ang mga preno nang kasing lakas na posible nang hindi na-lock ang mga gulong.",
+      "explanation": "Ang controlled braking method para sa emergency stops ay nagsasangkot ng pagpapatulak ng mga preno nang kasing lakas na hindi mo lock ang mga gulong. Panatilihing maliit ang mga galaw ng steering wheel kapag nagpreno sa ganitong paraan."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11015",
+      "question": "Ano ang maaaring mangyari kung ang parking brakes ay ginagamit sa napakabigat na panahon na may temperatura sa ibaba ng pagyelo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang brakes ay kikilig."
+        },
+        {
+          "letter": "B",
+          "text": "Ang brakes ay maaaring mag-ice upang ang sasakyan ay hindi makapagsagwan."
+        },
+        {
+          "letter": "C",
+          "text": "Ang brakes ay maaaring biglang ilabas ang sarili."
+        },
+        {
+          "letter": "D",
+          "text": "Ang brakes ay maaaring maging masyadong makinis upang magamit."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang brakes ay maaaring mag-ice upang ang sasakyan ay hindi makapagsagwan.",
+      "explanation": "Ang parking brakes ay hindi dapat gamitin sa napakabigat na panahon kapag ang temperatura ay nasa ibaba ng pagyelo. Ang brakes ay maaaring maging naka-freeze sa lugar, na ginagawang imposible na ilipat ang sasakyan."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8863",
+      "question": "Ang hangin na pumasok sa air storage tanks ay maaaring maglaman ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tubig at compressor oil."
+        },
+        {
+          "letter": "B",
+          "text": "Frost."
+        },
+        {
+          "letter": "C",
+          "text": "Gravel."
+        },
+        {
+          "letter": "D",
+          "text": "Antifreeze."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tubig at compressor oil.",
+      "explanation": "Ang hangin na pumapasok sa air storage tanks sa isang air brake system ay karaniwang naglalaman ng isang tiyak na halaga ng tubig at compressor oil. Dahil ang mga akumulasyon ng mga materyaleng ito ay maaaring makasama sa braking system, ang mga tank ay nilagyan ng drains upang payagan ang kanilang pagtanggal."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11682",
+      "question": "Sa panahon ng static leakage test, ang maximum leakage rate para sa isang double combination vehicle ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi sa loob ng isang minuto."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi sa loob ng isang minuto."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi sa loob ng isang minuto."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi sa loob ng isang minuto."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi sa loob ng isang minuto.",
+      "explanation": "Kapag nagsasagawa ng static leakage test sa isang double combination vehicle na may air brakes, ang leakage rate ay dapat na hindi higit sa 3 psi sa loob ng isang minuto. Kung ang hangin ay umaakyat mula sa air brake system sa mas mabilis na rate, ang sasakyan ay hindi dapat biglain dahil malamang na may kailangang ayusin."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10961",
+      "question": "Ang pagkabigo sa pagdrein ng mga tangke sa isang air brake system ay maaaring magresulta sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang tubig ay magre-freeze at magdudulot ng brake failure."
+        },
+        {
+          "letter": "B",
+          "text": "Squishy brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Masyadong maraming hangin na kumukumpol."
+        },
+        {
+          "letter": "D",
+          "text": "Masyadong maraming gasolina ang dinadalang."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang tubig ay magre-freeze at magdudulot ng brake failure.",
+      "explanation": "Sa isang air brake system, ang mga air storage tank ay dapat na mapagalingan upang alisin ang napon na tubig at compressor oil. Ang pagkabigo na gawin ito ay maaaring magdulot ng pinsala. Halimbawa, ang tubig na naipon sa system ay maaaring mag-freeze sa malamig na panahon at magdulot ng brake failure."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10360",
+      "question": "Ang air brakes ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang epektibong kasangkapan para sa paghihintay ng malalaking sasakyan."
+        },
+        {
+          "letter": "B",
+          "text": "Ipinagbawal sa malalaking sasakyan."
+        },
+        {
+          "letter": "C",
+          "text": "Epektibo lamang sa masamang panahon."
+        },
+        {
+          "letter": "D",
+          "text": "Isang kasangkapan upang mapabuti ang fuel efficiency."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Isang epektibong kasangkapan para sa paghihintay ng malalaking sasakyan.",
+      "explanation": "Hangga't ang brakes ay tamang-tama na pinananatili, ang paggamit ng air brakes ay isang ligtas at epektibong paraan ng paghihintay sa malaki, mabigat na sasakyan."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8883",
+      "question": "Kung ang iyong tractor ay may ABS ngunit ang iyong trailer ay wala, ang ABS:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hindi magiging epektibo."
+        },
+        {
+          "letter": "B",
+          "text": "Magpapabuti pa rin sa iyong kontrol sa pagkikotrol."
+        },
+        {
+          "letter": "C",
+          "text": "Mapadali ang jackknifing."
+        },
+        {
+          "letter": "D",
+          "text": "Magbibigay-daan sa iba na makita kung kailan ka nag-brake."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Magpapabuti pa rin sa iyong kontrol sa pagkikotrol.",
+      "explanation": "Sa isang tractor-trailer na kombinasyon, kung ang tractor ay may Anti-Lock Braking System (ABS) ngunit ang trailer ay wala, ang ABS ay magpapabuti pa rin ng kontrol sa pagsisid ng driver. Dapat bantayan ng driver ang trailer at magpagaan sa brakes kung ang trailer ay nagsisimulang lumiko palabas."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10988",
+      "question": "Ang tank endorsement ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kinakailangan lamang kapag nagdadala ng gas."
+        },
+        {
+          "letter": "B",
+          "text": "Kinakailangan lamang kapag nagdadala ng likido."
+        },
+        {
+          "letter": "C",
+          "text": "Ginagamit kapag nagdadala ng parehong mga likido at gas."
+        },
+        {
+          "letter": "D",
+          "text": "Opsyonal kapag nagdadala ng hazardous materials."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ginagamit kapag nagdadala ng parehong mga likido at gas.",
+      "explanation": "Sa pangkalahatan, kinakailangan ng endorsement sa tangke upang magmaneho ng sasakyang tangke na ginagamit upang magdala ng mga likido o gas. Ito ay naaaring sa parehong mapanganib at hindi mapanganib na materyales."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9382",
+      "question": "Kung ang air pressure warning light ay nagsisimula, dapat kang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patuloy na magmaneho nang normal."
+        },
+        {
+          "letter": "B",
+          "text": "Aktibuin ang iyong hazard lights at magpatuloy sa pagmamaneho."
+        },
+        {
+          "letter": "C",
+          "text": "Tawagan ang lokal na law enforcement agency."
+        },
+        {
+          "letter": "D",
+          "text": "Ligtas na lumabas mula sa roadway at tumitigil."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Ligtas na lumabas mula sa roadway at tumitigil.",
+      "explanation": "Kung ang air pressure warning light o buzzer ay nagsisimula habang nagmamaneho ka, dapat kang kaagad na tumitigil at ligtas na mag-park ng sasakyan. Ang warning signal na ito ay nagpapahiwatig na may problema sa air brake system na kailangang ayusin."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9007",
+      "question": "Ano ang maaaring mangyari kung ang parking brake ay ginagamit sa napakabasa na panahon kapag ang temperatura ay mas mababa sa pagkakagatin?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang brakes ay kikilig."
+        },
+        {
+          "letter": "B",
+          "text": "Ang brakes ay maaaring mag-ice upang ang sasakyan ay hindi makapagsagwan."
+        },
+        {
+          "letter": "C",
+          "text": "Ang brakes ay maaaring biglang ilabas ang sarili."
+        },
+        {
+          "letter": "D",
+          "text": "Ang brakes ay maaaring lumabog."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang brakes ay maaaring mag-ice upang ang sasakyan ay hindi makapagsagwan.",
+      "explanation": "Kung gagamitin mo ang parking brakes kapag ang panahon ay napakabasa at ang temperatura ay mas mababa sa pagkakagatin, ang brakes ay maaaring mag-icing, na pipigilan ang sasakyan na gumalaw."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11314",
+      "question": "Ang isang vehicle na equipped ng Anti-Lock Braking System (ABS) ay gumagamit ng ____ light upang abisuhan na ang sistema ay hindi gumagana nang maayos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Berde"
+        },
+        {
+          "letter": "B",
+          "text": "Dilaw"
+        },
+        {
+          "letter": "C",
+          "text": "Orange"
+        },
+        {
+          "letter": "D",
+          "text": "Puti"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dilaw",
+      "explanation": "Ang Anti-Lock Braking System (ABS) malfunction lamps ay karaniwan na yellow. Kahit ang ABS ay hindi gumagana nang maayos, ang driver ay mayroon pa ring access sa regular na braking functions ng sasakyan."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8868",
+      "question": "Ang application pressure gauge:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nagpapakita kung gaano kalaki ang air pressure na inilalapat sa mga preno."
+        },
+        {
+          "letter": "B",
+          "text": "Nagpapakita ng temperatura ng air na ginagamit sa braking system."
+        },
+        {
+          "letter": "C",
+          "text": "Nagpapakita ng pressure ng air na nagmumula sa compressor."
+        },
+        {
+          "letter": "D",
+          "text": "Nagpapakita ng bilang ng beses na nagamit ang mga preno."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Nagpapakita kung gaano kalaki ang air pressure na inilalapat sa mga preno.",
+      "explanation": "Sa air brake system, ang application pressure gauge ay nagpapakita kung gaano kalaki ang air pressure na inilalapat sa mga preno. Hindi lahat ng vehicles na may air brake system ay may ganitong gauge."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10233",
+      "question": "Sa isang sasakyan na may dual air brakes, ano ang mangyayari kung ang isang sistema ay mababa sa pressure?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang hangin mula sa ibang sistema ay gagamitin upang i-supplement ang sistema na may mababang pressure."
+        },
+        {
+          "letter": "B",
+          "text": "Ang front o rear brakes ay maaaring hindi gumana nang maayos."
+        },
+        {
+          "letter": "C",
+          "text": "Ang lahat ng brakes ay magiging inoperable."
+        },
+        {
+          "letter": "D",
+          "text": "Ang mababang sistema ay gumagamit ng auxiliary system upang punan ang tank."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang front o rear brakes ay maaaring hindi gumana nang maayos.",
+      "explanation": "Sa isang dalawang sistema ng preno ng hangin, kung ang isa sa mga sistema ng hangin ay nagiging napakababa sa presyon, maaaring ang harap o likod na mga preno ay hindi ganap na gumagana. Dapat mong dalhin ang iyong sasakyan sa isang ligtas na paghinto at magpahayag ng ang sistema ng hangin."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10740",
+      "question": "Sa isang dual air brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang air tanks ay ibinabahagi ng parehong systems."
+        },
+        {
+          "letter": "B",
+          "text": "Bawat system ay may sariling air tanks."
+        },
+        {
+          "letter": "C",
+          "text": "Dapat ninyong italagang kung aling system ang ginagamit ninyo."
+        },
+        {
+          "letter": "D",
+          "text": "Ang brakes sa isang panig lamang ng vehicle ay gumagana."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Bawat system ay may sariling air tanks.",
+      "explanation": "Karamihan ng heavy-duty vehicles ay gumagamit ng dual air brake systems. Ang dual air brake system ay binubuo ng dalawang magkahiwalay na air brake systems, na konektado ng isang hanay ng brake controls. Bawat system ay may sariling air tanks."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9558",
+      "question": "Emergency brakes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ay hindi required sa trucks."
+        },
+        {
+          "letter": "B",
+          "text": "Ay required lamang sa trailers."
+        },
+        {
+          "letter": "C",
+          "text": "Ay required sa tractors."
+        },
+        {
+          "letter": "D",
+          "text": "Ay optional."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ay required sa tractors.",
+      "explanation": "Lahat ng trucks, truck tractors, at buses ay dapat equipped ng emergency brakes at parking brakes. Ang mga prong ito ay dapat mahawakan ng mechanical force."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8988",
+      "question": "Upang masiguro ang normal na stopping power, ang mga driver ng mga sasakyang equipped ng front brake limiting valve ay dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Itakda ang control sa normal."
+        },
+        {
+          "letter": "B",
+          "text": "Itakda ang control sa off position."
+        },
+        {
+          "letter": "C",
+          "text": "I-set ang control sa neutral."
+        },
+        {
+          "letter": "D",
+          "text": "Panatilihin ang control sa halfway mark."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Itakda ang control sa normal.",
+      "explanation": "Ang ilang pre-1975 vehicles ay may front brake limiting valve, na may \"normal\" at \"slippery\" settings. Ang ideya sa likod ng mga balbulang ito ay upang limitahan ang air pressure na available sa front brakes kapag nagmamaneho sa slippery surfaces, at sa gayon ay mabawasan ang panganib ng front-wheel skid. Ang mga pag-aaral ay nahanap na ito ay hindi aktwal na isang alalahanin, kaya kung ang iyong sasakyan ay may front brake limiting valve, iwanan ito sa \"normal\" position."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10746",
+      "question": "Huwag gamitin ang parking brake kapag nagpark kung:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang brakes ay napaka-init."
+        },
+        {
+          "letter": "B",
+          "text": "Ang brakes ay napakainit."
+        },
+        {
+          "letter": "C",
+          "text": "Mayroong niyebe sa lupa."
+        },
+        {
+          "letter": "D",
+          "text": "May tubig sa lupa."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang brakes ay napaka-init.",
+      "explanation": "Ang parking brake ay hindi dapat gamitin kung ang brakes ng vehicle ay napakainit dahil sa paggamit sa isang mataas na downgrade o kung ang brakes ay napakabasa at ang temperatura ay nag-freeze. Ang paggamit ng parking brake kapag mainit ang brakes ay maaaring magdulot ng pinsala sa brakes, at ang paggamit ng brakes kapag sila ay basang nasa freezing weather ay maaaring magdulot ng ice up sa brakes, na nagsasabing ang vehicle ay hindi gumagalaw."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8881",
+      "question": "Bago magmaneho ng isang sasakyan na may dual air brake system, dapat kang maghintay para sa air compressor na bumuo ng minimum na ____ sa parehong primary at secondary systems.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 psi"
+        },
+        {
+          "letter": "B",
+          "text": "50 psi"
+        },
+        {
+          "letter": "C",
+          "text": "75 psi"
+        },
+        {
+          "letter": "D",
+          "text": "100 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "100 psi",
+      "explanation": "Bago magmaneho ng isang sasakyan na may dual air brake system, dapat kang maghintay para sa air compressor na bumuo ng hindi bababa sa 100 psi sa parehong primary at secondary systems."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10960",
+      "question": "Ano ang inalis kapag ang air tank ay drained?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tubig at oil"
+        },
+        {
+          "letter": "B",
+          "text": "Ammonia"
+        },
+        {
+          "letter": "C",
+          "text": "Kahoy"
+        },
+        {
+          "letter": "D",
+          "text": "Klorin"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tubig at oil",
+      "explanation": "Sa isang air brake system, ang air storage tanks ay equipped ng drains upang payagan ang tubig at compressor oil na mabuksan. Ang tubig at oil ay maaaring makasama sa brakes kung iiwan na makaipon sa system."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9000",
+      "question": "Kung gumagamit ng air tanks na may manually operated drains, gaano kadalas dapat mong i-drain ang tanks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Araw-araw"
+        },
+        {
+          "letter": "B",
+          "text": "Minsan sa isang linggo"
+        },
+        {
+          "letter": "C",
+          "text": "Minsan sa isang buwan"
+        },
+        {
+          "letter": "D",
+          "text": "Minsan sa bawat 3,000 miles"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Araw-araw",
+      "explanation": "Upang maiwasan ang pagtitipon ng langis at tubig sa air tanks ng sasakyan, ang manually operated air tank drains ay dapat gamitin sa pagtatapos ng bawat araw ng pagmamaneho."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9137",
+      "question": "Ang service brakes ay dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subukan minsan sa isang buwan."
+        },
+        {
+          "letter": "B",
+          "text": "Subukan lamang ng isang sinanay na mechaniko."
+        },
+        {
+          "letter": "C",
+          "text": "Subukan bago ang bawat biyahe."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Subukan bago ang bawat biyahe.",
+      "explanation": "Bago magmaneho, dapat mong laging i-verify na ang iyong service brakes ay gumagana nang maayos. Ang pag-test ng mga brake bago ang isang biyahe ay nagbibigay-daan sa iyo na mahanap ang anumang mga problema bago kailangan mong mag-brake habang nasa kalsada."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8874",
+      "question": "Kung ang spring brakes ay naka-activate, hindi mo dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Itulak ang brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Buksan ang hood."
+        },
+        {
+          "letter": "C",
+          "text": "Palabas ang hangin mula sa air storage tanks."
+        },
+        {
+          "letter": "D",
+          "text": "Buksan ang pinto ng cab."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Itulak ang brake pedal.",
+      "explanation": "Hindi dapat i-apply ang brake pedal kung ang iyong spring brakes ay naka-activate. Ang mga brakes ay maaaring masira kung sila ay napapailalim sa parehong mga spring at air pressure."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8990",
+      "question": "Kung ang spring brakes ay nakabukas, dapat kang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huwag gamitin ang brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Itulak ang accelerator."
+        },
+        {
+          "letter": "C",
+          "text": "Ilipat ang steering wheel."
+        },
+        {
+          "letter": "D",
+          "text": "Maging labis na maingat dahil ang mga preno ay maaaring mabigo."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Huwag gamitin ang brake pedal.",
+      "explanation": "Hindi mo dapat ipatupad ang brake pedal kung ang spring brakes ay naka-activate. Ang mga preno ay maaaring masira kung sila ay napapailalim sa puwersa ng air pressure at ang mga spring sa parehong oras."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "10152",
+      "question": "Ano ang dapat nasa isang air tank sa isang air-braked vehicle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang check valve"
+        },
+        {
+          "letter": "B",
+          "text": "Isang lock"
+        },
+        {
+          "letter": "C",
+          "text": "Isang trap door"
+        },
+        {
+          "letter": "D",
+          "text": "Isang oxidizer"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Isang check valve",
+      "explanation": "Lahat ng air tanks sa air-braked vehicles ay dapat may one-way check valves na matatagpuan sa pagitan ng air compressor at ang unang reservoir. Ito ay pumipigil sa hangin mula umalis sa kalagayan ng isang leak."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8869",
+      "question": "Anong kulay ang low air pressure warning light?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Berde"
+        },
+        {
+          "letter": "B",
+          "text": "Orange"
+        },
+        {
+          "letter": "C",
+          "text": "Pula"
+        },
+        {
+          "letter": "D",
+          "text": "Lila"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pula",
+      "explanation": "Ang low air pressure warning signal ay kinakailangan sa mga sasakyan na may air brakes. Ang warning light ay karaniwang pula at maaaring may kasamang buzzer."
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "state": "Washington",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/washington/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8760",
+      "question": "Ang wig wag ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang isang low pressure warning device."
+        },
+        {
+          "letter": "B",
+          "text": "Isang tube na nagdadala ng air sa brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Isang uri ng air brake system."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang isang low pressure warning device.",
+      "explanation": "Ang mga vehicle na may air brakes ay kailangan na equppado ng low pressure warning device. Ang wig wag ay isang uri ng low air pressure warning device. Ang device na ito ay bumababa ng mechanical arm sa view ng driver kung ang pressure sa mga tanks ay bumaba sa antas sa pagitan ng 55 at 75 psi."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9893",
+      "question": "Brake linings dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loose."
+        },
+        {
+          "letter": "B",
+          "text": "Free ng oil."
+        },
+        {
+          "letter": "C",
+          "text": "Malambot."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Free ng oil.",
+      "explanation": "Brake linings ay hindi dapat na loose o soaked sa oil o grease. Hindi sila dapat na dangerously thin."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11533",
+      "question": "Bago magmaneho ng sasakyan na may air brakes, dapat mong masiguro na ang ____ ay awtomatikong nag-activate kapag ang air pressure ay bumaba sa ibaba ng 45 psi.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spring brakes"
+        },
+        {
+          "letter": "B",
+          "text": "Parking brakes"
+        },
+        {
+          "letter": "C",
+          "text": "Air brakes"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Spring brakes",
+      "explanation": "Bago magmaneho ng sasakyan na may air brakes, dapat mong masiguro na ang spring brakes ay awtomatikong nag-activate kapag ang air tank pressure ay bumaba sa antas sa pagitan ng 20 at 45 psi. Maaari mong gawin ito sa pamamagitan ng pag-chock sa mga gulong at paglabas ng hangin mula sa braking system sa pamamagitan ng pag-step on at off sa brake pedal. Kapag ang pressure levels ay bumaba sa hindi ligtas na antas, ang parking brake valve ay dapat lumabas at ang spring brakes ay dapat mag-activate."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11883",
+      "question": "Sa panahon ng inspection, ang slack adjusters sa S-cam brakes ay hindi dapat na gumagalaw ng higit sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang paa."
+        },
+        {
+          "letter": "B",
+          "text": "Isang sentimetro."
+        },
+        {
+          "letter": "C",
+          "text": "Isang pulgada."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Isang pulgada.",
+      "explanation": "Suriin ang bawat slack adjuster pagkatapos ng pagpapahinto sa level ground, pag-set ng wheel chocks, at pag-disengage ng parking brake. Iguhit ang slack adjusters upang siguraduhin na hindi sila gumagalaw ng higit pa sa humigit-kumulang isang pulgada mula sa kung saan nakakabit ang push rod. Kung sila ay gumagalaw ng higit sa isang pulgada, maaaring maging out of adjustment sila at kailangang ayusin."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11885",
+      "question": "Kapag kayo ay nagsisimula nang bumaba sa isang bundok, dapat kayong lumipat sa isang ____ gear.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mas Mataas"
+        },
+        {
+          "letter": "B",
+          "text": "Mas Mabilis"
+        },
+        {
+          "letter": "C",
+          "text": "Mas Mababa"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Mas Mababa",
+      "explanation": "Bago sumugal sa isang bundok, siguraduhin na lumipat sa isang mababang gear. Ang gravity ay magpapataas ng bilis ng iyong sasakyan habang bumababa ka sa bundok."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11897",
+      "question": "Kapag nakakaranas ng malamig na panahon, siguraduhin na suriin ang alcohol evaporator ng iyong sasakyan:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bawat tatlong oras."
+        },
+        {
+          "letter": "B",
+          "text": "Araw-araw."
+        },
+        {
+          "letter": "C",
+          "text": "Bawat dalawang linggo."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Araw-araw.",
+      "explanation": "Ang isang alcohol evaporator ay makakatulong na maiwasan ang yelo mula sa pagbuo sa isang air brake system. Sa malamig na panahon, ang evaporator ay dapat tingnan at ilagyan ulit araw-araw."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8639",
+      "question": "ABS brakes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tulungan kayong iwasan ang wheel lockup."
+        },
+        {
+          "letter": "B",
+          "text": "I-lock up ang mga gulong ng inyong sasakyan."
+        },
+        {
+          "letter": "C",
+          "text": "Maiwasan ang inyong sasakyan mula sa pag-accelerate kapag umakyat ng burol."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tulungan kayong iwasan ang wheel lockup.",
+      "explanation": "Ang layunin ng Anti-Lock Braking System (ABS) ay upang maiwasan ang mga gulong ng sasakyan na mag-lock up kapag ang driver ay hard braking sa isang slippery surface."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8754",
+      "question": "Ang air compressor ay konektado sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmission."
+        },
+        {
+          "letter": "B",
+          "text": "Engine."
+        },
+        {
+          "letter": "C",
+          "text": "Radiator."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Engine.",
+      "explanation": "Ang air compressor ng isang air brake system ay konektado sa engine sa pamamagitan ng gears o isang v-belt. Ang compressor ay maaaring air-cooled o na-cool ng engine cooling system."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11879",
+      "question": "Ang rods sa S-cam brakes ay gumagalaw ng slack adjusters kapag air pressure ay dinagdag sa brake chambers. Ang air pressure na ito ay idinagdag sa chambers kapag ang driver:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presses ang brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Uses ang emergency brake."
+        },
+        {
+          "letter": "C",
+          "text": "Uses ang trailer hand valve."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Presses ang brake pedal.",
+      "explanation": "Kapag pinindot ang brake pedal sa sasakyan na may S-cam brakes, ang hangin ay papasok sa brake chambers. Ang dagdag na air pressure ay magtutulak ng labas ng rods at maglilipat ng slack adjusters, na iikot ang brake camshafts."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11534",
+      "question": "Sa panahon ng applied leakage test, ang maximum leakage rate para sa isang double combination vehicle ay ____ sa isang minuto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 psi"
+        },
+        {
+          "letter": "B",
+          "text": "4 psi"
+        },
+        {
+          "letter": "C",
+          "text": "6 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "4 psi",
+      "explanation": "Mahalaga na malaman ang maximum air loss rate na ligtas para sa iyong specific vehicle. Ang isang double combination vehicle ay dapat magkaroon ng leakage rate na hindi higit sa 4 psi sa isang minuto sa panahon ng applied leakage test."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11531",
+      "question": "Ano ang nagsasabi sa iyo kung magkano ang presyon sa mga tangke ng hangin ng iyong sasakyan?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang supply pressure gauge"
+        },
+        {
+          "letter": "B",
+          "text": "Ang ABS malfunction lamp"
+        },
+        {
+          "letter": "C",
+          "text": "Ang tractor protection valve"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang supply pressure gauge",
+      "explanation": "Ang isang sasakyan na may air brakes ay dapat ding may supply pressure gauge. Ang gauge na ito ay nagsasabi sa driver kung magkano ang air pressure sa bawat isa sa mga tangke ng hangin ng sasakyan."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11532",
+      "question": "Ang slack adjuster ay dapat lumipat ng hindi hihigit sa ____ mula sa kung saan ito ay nakakabit sa push rod.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dalawang inches"
+        },
+        {
+          "letter": "B",
+          "text": "Lima inches"
+        },
+        {
+          "letter": "C",
+          "text": "Isang pulgada"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Isang pulgada",
+      "explanation": "Bago ang isang biyahe, dapat mong suriin ang bawat slack adjuster pagkatapos ng parking, itakda ang wheel chocks, at idiskonekta ang parking brake. Hilahin ang slack adjusters upang masiguro na hindi sila lumipat ng higit sa humigit-kumulang isang pulgada mula sa kung saan ang push rod ay nakakabit. Kung sila ay lumipat ng higit sa isang pulgada, maaaring sila ay wala sa adjustment at kailangan ng pag-ayos."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9605",
+      "question": "Ano ang tumutulong sa pagpigil ng wheel lockup kapag gumagalaw?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang Anti-Lock Braking System (ABS)"
+        },
+        {
+          "letter": "B",
+          "text": "Air brakes"
+        },
+        {
+          "letter": "C",
+          "text": "Isang alternator"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Isang Anti-Lock Braking System (ABS)",
+      "explanation": "Ang layunin ng isang Anti-Lock Braking System (ABS) ay upang maiwasan ang wheel lockup habang ang brakes ay ipinapasok."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8764",
+      "question": "Kapag ang spring brakes ay naka-on, hindi mo dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buksan ang mga ilaw."
+        },
+        {
+          "letter": "B",
+          "text": "Itigil ang sasakyan."
+        },
+        {
+          "letter": "C",
+          "text": "Itulak ang brake pedal."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Itulak ang brake pedal.",
+      "explanation": "Kailanman itulak ang brake pedal habang ang spring brakes ay naka-activate. Ang kombinadong puwersa ng mga spring at air pressure ay maaaring sirain ang mga brake."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11898",
+      "question": "Kung ang air pressure ay bumaba sa isang antas sa pagitan ng ____, ang isang biswal na mababang pressure warning signal ay dapat na naka-activate na.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55 at 75 psi."
+        },
+        {
+          "letter": "B",
+          "text": "80 at 95 psi."
+        },
+        {
+          "letter": "C",
+          "text": "65 at 100 psi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "55 at 75 psi.",
+      "explanation": "Ang isang biswal na mababang pressure warning signal ay dapat mag-activate bago ang air pressure ay bumaba sa isang antas sa pagitan ng 55 at 75 psi. Ang signal na ito ay maaaring maging isang liwanag, isang buzzer, o isang wig wag."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11907",
+      "question": "Gaano kalayo ang kailangan ng air brake-equipped vehicle upang tumigil nang buo kung ito ay naglalakbay sa 55 mph sa ilalim ng ideal driving conditions?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "300 feet"
+        },
+        {
+          "letter": "B",
+          "text": "100 feet"
+        },
+        {
+          "letter": "C",
+          "text": "450 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "450 feet",
+      "explanation": "Ang total stopping distance ng vehicle ay binubuo ng perception distance, reaction distance, brake lag distance, at braking distance. Sa lahat ng mga factor na ito, ang air brake-equipped vehicle na naglalakbay sa bilis na 55 mph sa ilalim ng ideal driving conditions ay kailangan ng humigit-kumulang 450 feet upang tumigil nang buo."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11880",
+      "question": "Ang friction sa isang S-cam brake ay dulot ng pagkakabit ng mga brake shoes at linings:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mag-press laban sa labas ng brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "Mag-press laban sa loob ng brake drum."
+        },
+        {
+          "letter": "C",
+          "text": "Nagtulak laban sa isa't isa."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mag-press laban sa loob ng brake drum.",
+      "explanation": "Ang friction sa loob ng brake drum ay sanhi kapag ang brake shoes at linings ay nagtulak laban sa loob ng drum. Ang friction sa mga drum ay magpapabagal at titigil sa sasakyan."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8771",
+      "question": "Kapag nag-park, hindi mo dapat gamitin ang parking brake kung:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang brakes ay napaka-init."
+        },
+        {
+          "letter": "B",
+          "text": "Ang brakes ay napakainit."
+        },
+        {
+          "letter": "C",
+          "text": "Mayroong niyebe sa lupa."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang brakes ay napaka-init.",
+      "explanation": "Kung ang iyong brakes ay mainit pagkatapos bumaba ng mataas na grade, hindi mo dapat gamitin ang iyong parking brake kapag nag-park. Hayaang lumamig ang iyong brakes bago i-apply ang parking brake o maaaring masira ang brakes."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11902",
+      "question": "Ang ____ sa pagitan ng air compressor at reservoir tank ay pumipigil sa air mula sa paglabas kung ang air compressor ay may leak.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slack adjuster"
+        },
+        {
+          "letter": "B",
+          "text": "One-way check valve"
+        },
+        {
+          "letter": "C",
+          "text": "Tractor protection valve"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "One-way check valve",
+      "explanation": "Ang one-way check valve ay kinakailangan na maging sa pagitan ng air compressor at unang pangunahing reservoir. Ang valve na ito ay pumipigil sa air mula sa paglabas ng system kung ang air compressor ay bumuo ng leak."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8755",
+      "question": "Ang air compressor governor ay kumokontrol sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kung kailan ang air compressor ay pumapakot ng hangin sa air storage tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Gaano kabilis ang hangin ay pumapakot sa air storage tanks."
+        },
+        {
+          "letter": "C",
+          "text": "Ang temperatura ng hangin na pumapakot sa air storage tanks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Kung kailan ang air compressor ay pumapakot ng hangin sa air storage tanks.",
+      "explanation": "Sa isang air brake system, ang air compressor governor ay kumokontrol kung kailan ang air compressor ay pumapakot ng hangin sa air storage tanks."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9298",
+      "question": "Kapag nag-iiwan ng iyong sasakyan nang walang bantay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang parking brake ay dapat gamitin."
+        },
+        {
+          "letter": "B",
+          "text": "Ang parking brake ay kailangan lamang gamitin kung ang sasakyan ay nakapark sa isang slope."
+        },
+        {
+          "letter": "C",
+          "text": "Ang parking brake ay hindi dapat gamitin, dahil maaari itong masira ang mga gulong."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang parking brake ay dapat gamitin.",
+      "explanation": "Sa pangkalahatan, dapat mong palaging gamitin ang parking brake kapag nag-park ng iyong sasakyan. Gayunpaman, hindi mo dapat i-apply ang parking brake kung ang iyong mga brakes ay napakainit o kung ang iyong mga brakes ay basang at ang temperatura ay mas mababa sa pag-freeze."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8769",
+      "question": "Kapag bumababa sa isang matarik na downgrade:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dapat gamitin ang air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Ang sasakyan ay dapat ilagay sa mababang gear at ang drayber ay dapat gumagamit ng engine braking."
+        },
+        {
+          "letter": "C",
+          "text": "Ang drayber ay dapat patuloy na bumaba sa halip na gumamit ng mga preno."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang sasakyan ay dapat ilagay sa mababang gear at ang drayber ay dapat gumagamit ng engine braking.",
+      "explanation": "Sa mahabang at/o matarik na mga downgrade, dapat mong pangunahin ang engine braking upang kontrolin ang bilis ng iyong sasakyan. Gamitin ang iyong mga preno lamang bilang suplemento sa epekto na ito."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8758",
+      "question": "Ang paggamit ng brakes ay lumilikha ng init. Kung masyadong maraming init ang nabuo:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang brakes ay maaaring hindi gumana."
+        },
+        {
+          "letter": "B",
+          "text": "Ang brakes ay maaaring sumisigaw nang higit pa sa dati."
+        },
+        {
+          "letter": "C",
+          "text": "Ang brakes ay preno nang hindi pantay."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang brakes ay maaaring hindi gumana.",
+      "explanation": "Ang brakes ay dinisenyo upang tumanggap ng maraming init, ngunit ang mga drayber ay hindi dapat umasa lamang sa brakes upang pabagalin ang kanilang sasakyan. Ang brakes ay maaaring lumabo at mawawalan ng kakayahang pabagalin ang sasakyan kung nagiging masyadong mainit, kaya ang mga drayber ay dapat din umasa sa engine braking effect."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11894",
+      "question": "Ang isang ____ ay nagpapahintulot sa driver na unti-unting ilapat ang spring brakes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modulating control valve"
+        },
+        {
+          "letter": "B",
+          "text": "Trailer air supply control"
+        },
+        {
+          "letter": "C",
+          "text": "Relay valve"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Modulating control valve",
+      "explanation": "Ang isang modulating control valve ay nagpapahintulot sa driver na unti-unting ilapat ang spring brakes. Sa mga equipped vehicles, ang valve ay kinokontrol ng isang lever na nakalagay sa dashboard."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8640",
+      "question": "Ang pagkakaroon ng ABS sa isang axle lamang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maaaring maging mapanganib."
+        },
+        {
+          "letter": "B",
+          "text": "Nagbibigay pa rin ng karagdagang kontrol kapag nag-brake."
+        },
+        {
+          "letter": "C",
+          "text": "Bumibigay ng tulin sa sasakyan, ngunit hindi ito makakahinto."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Nagbibigay pa rin ng karagdagang kontrol kapag nag-brake.",
+      "explanation": "Kung mayroon kang Anti-Lock Braking System (ABS) na naka-install lamang sa tractor, trailer lamang, o isang axle lamang, magkakaroon ka pa rin ng mas malaking kontrol sa sasakyan kapag nag-brake kumpara kung wala ang ABS. Dapat kang mag-brake nang normal."
+    }
+  ]
+}

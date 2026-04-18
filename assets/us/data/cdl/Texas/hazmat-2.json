@@ -1,0 +1,790 @@
+{
+  "state": "Texas",
+  "category": "cdl",
+  "testName": "HazMat Test #2 30 Questions • Passing Score 24",
+  "testSlug": "hazmat-2",
+  "url": "/images/texas/cdl/hazmat-2.html",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8954",
+      "question": "What should you do if the Hazardous Materials Table shows \"Forbidden\" in the third column?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do not transport this substance."
+        },
+        {
+          "letter": "B",
+          "text": "Transport it by air only."
+        },
+        {
+          "letter": "C",
+          "text": "Transport it only at night."
+        },
+        {
+          "letter": "D",
+          "text": "Transport it with a security guard."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Do not transport this substance.",
+      "explanation": "The third column of the Hazardous Materials Table shows hazard classes. Never transport any material marked \"Forbidden.\""
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8957",
+      "question": "On a shipping paper, identification numbers, shipping names, and hazard classes should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Be shortened if the paper is small."
+        },
+        {
+          "letter": "B",
+          "text": "Be shortened to make them easier to read."
+        },
+        {
+          "letter": "C",
+          "text": "Never be shortened."
+        },
+        {
+          "letter": "D",
+          "text": "Only be shortened if easy to understand."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Never be shortened.",
+      "explanation": "Never shorten identification numbers, shipping names, or hazard classes on a shipping paper. The only exception is abbreviations specifically allowed by hazardous materials rules."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11440",
+      "question": "If transporting explosives, you may leave your vehicle unattended in a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rest area."
+        },
+        {
+          "letter": "B",
+          "text": "Truck stop."
+        },
+        {
+          "letter": "C",
+          "text": "Private property."
+        },
+        {
+          "letter": "D",
+          "text": "Safe haven."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Safe haven.",
+      "explanation": "You may only leave an unattended vehicle with explosives in a safe haven. A safe haven is an approved location for parking vehicles loaded with explosives."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9664",
+      "question": "A vehicle with improper placards:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Can never be moved."
+        },
+        {
+          "letter": "B",
+          "text": "Can only be moved in an emergency."
+        },
+        {
+          "letter": "C",
+          "text": "Can be driven short distances."
+        },
+        {
+          "letter": "D",
+          "text": "Can be driven if it has no radioactive materials."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Can only be moved in an emergency.",
+      "explanation": "A hazardous materials vehicle must have proper placards to be driven. An improperly placarded vehicle may only be driven to protect life or property in an emergency."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8962",
+      "question": "An improperly placarded vehicle can only be moved:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To make room for other vehicles."
+        },
+        {
+          "letter": "B",
+          "text": "During an emergency."
+        },
+        {
+          "letter": "C",
+          "text": "If traveling less than 10 miles."
+        },
+        {
+          "letter": "D",
+          "text": "To wash the vehicle."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "During an emergency.",
+      "explanation": "A vehicle must have proper placards before it can be driven. An improperly placarded vehicle may only be moved if necessary to protect life or property in an emergency."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10970",
+      "question": "If cargo is leaking, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Touch the leaking material to identify it."
+        },
+        {
+          "letter": "B",
+          "text": "Use shipping papers and labels to identify the cargo."
+        },
+        {
+          "letter": "C",
+          "text": "Assume all cargo is leaking."
+        },
+        {
+          "letter": "D",
+          "text": "Spray the leaking containers with water."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Use shipping papers and labels to identify the cargo.",
+      "explanation": "If you find a leak in hazardous materials cargo, identify the materials using shipping papers and labels. Do not touch the leaking material."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11436",
+      "question": "When transporting Division 1.1 materials, the floor liner must be made from:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metallic materials."
+        },
+        {
+          "letter": "B",
+          "text": "Iron alloy."
+        },
+        {
+          "letter": "C",
+          "text": "Non-ferrous materials."
+        },
+        {
+          "letter": "D",
+          "text": "Loose material."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Non-ferrous materials.",
+      "explanation": "Use a tight floor liner when transporting Division 1.1, 1.2, or 1.3 materials. The liner must be non-metallic or non-ferrous metal. Non-ferrous metals contain no iron or iron alloys."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8978",
+      "question": "When transporting radioactive materials, it is important to know that:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radiation passes through to other packages."
+        },
+        {
+          "letter": "B",
+          "text": "The package should be placed in the cab."
+        },
+        {
+          "letter": "C",
+          "text": "The package should be loaded on its side."
+        },
+        {
+          "letter": "D",
+          "text": "The package should be made of wood."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Radiation passes through to other packages.",
+      "explanation": "Radiation surrounds each radioactive package and passes through to nearby packages. The number of packages you can load together is limited."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8971",
+      "question": "Unless clearly unsafe, what does a driver need to accept a package?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The shipper's certification."
+        },
+        {
+          "letter": "B",
+          "text": "A notarized statement."
+        },
+        {
+          "letter": "C",
+          "text": "A verbal agreement."
+        },
+        {
+          "letter": "D",
+          "text": "A contract."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The shipper's certification.",
+      "explanation": "When a shipper packages hazardous materials, they certify it meets the rules. Unless the package is clearly unsafe or doesn't meet the rules, you can accept the shipper's certification."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8915",
+      "question": "How many hazardous materials classes are there?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four"
+        },
+        {
+          "letter": "B",
+          "text": "Six"
+        },
+        {
+          "letter": "C",
+          "text": "Nine"
+        },
+        {
+          "letter": "D",
+          "text": "Two"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Nine",
+      "explanation": "There are nine hazardous materials classes. Each class represents different types of risks."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8917",
+      "question": "How is a hazardous materials warning shown?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On a placard"
+        },
+        {
+          "letter": "B",
+          "text": "By wrapping the package in orange"
+        },
+        {
+          "letter": "C",
+          "text": "By placing the item away from other cargo and covering it with a sign"
+        },
+        {
+          "letter": "D",
+          "text": "With flashing lights"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "On a placard",
+      "explanation": "Diamond-shaped signs called placards are placed on vehicles and bulk packages. They warn drivers and others about hazardous materials."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8938",
+      "question": "Who controls hazardous materials laws?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Local government"
+        },
+        {
+          "letter": "B",
+          "text": "State government"
+        },
+        {
+          "letter": "C",
+          "text": "Federal government"
+        },
+        {
+          "letter": "D",
+          "text": "All levels of government"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All levels of government",
+      "explanation": "Federal, state, and local governments all make rules about transporting hazardous materials because these materials are dangerous."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10968",
+      "question": "Where should shipping papers be kept?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hidden from view"
+        },
+        {
+          "letter": "B",
+          "text": "In the glove box"
+        },
+        {
+          "letter": "C",
+          "text": "Easy to see for anyone entering the cab"
+        },
+        {
+          "letter": "D",
+          "text": "Laminated"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Easy to see for anyone entering the cab",
+      "explanation": "Shipping papers must be in a pouch on the driver's side door or in another place the driver can reach easily while wearing a seat belt. Anyone entering the cab must be able to see them."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11435",
+      "question": "Where should the identification number for a hazardous material appear?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the material's packaging"
+        },
+        {
+          "letter": "B",
+          "text": "On the vehicle's license plate"
+        },
+        {
+          "letter": "C",
+          "text": "Right next to a placard"
+        },
+        {
+          "letter": "D",
+          "text": "On a bumper sticker"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "On the material's packaging",
+      "explanation": "The ID number must appear on the shipping papers and on the packaging. It must also appear on cargo tanks and other large containers."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8967",
+      "question": "How many placards must be placed on a vehicle transporting hazardous materials?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One"
+        },
+        {
+          "letter": "B",
+          "text": "Two"
+        },
+        {
+          "letter": "C",
+          "text": "Three"
+        },
+        {
+          "letter": "D",
+          "text": "Four"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Four",
+      "explanation": "When placards are required, place identical placards on all four sides of the vehicle."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10972",
+      "question": "If corrosive materials leak in the trailer, how should it be cleaned?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "With acid"
+        },
+        {
+          "letter": "B",
+          "text": "With water"
+        },
+        {
+          "letter": "C",
+          "text": "Let it air-dry without washing"
+        },
+        {
+          "letter": "D",
+          "text": "With bleach"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "With water",
+      "explanation": "Any part of a vehicle exposed to corrosive material must be thoroughly washed with water."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8979",
+      "question": "When carrying Division 1.1, 1.2, or 1.3 explosives, where should the vehicle NOT be parked?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Within 300 feet of a bridge"
+        },
+        {
+          "letter": "B",
+          "text": "Within 40 feet of the road"
+        },
+        {
+          "letter": "C",
+          "text": "For only short periods"
+        },
+        {
+          "letter": "D",
+          "text": "On grass"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Within 300 feet of a bridge",
+      "explanation": "Do not park a vehicle with Division 1.1, 1.2, or 1.3 explosives within 300 feet of a bridge, tunnel, or building. Never park within 5 feet of the road edge. Park only when needed for brief vehicle operations."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9552",
+      "question": "When loading hazardous materials, which action should you NOT take?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Set the parking brake"
+        },
+        {
+          "letter": "B",
+          "text": "Load away from heat"
+        },
+        {
+          "letter": "C",
+          "text": "Watch for leaks"
+        },
+        {
+          "letter": "D",
+          "text": "Use a hook"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Use a hook",
+      "explanation": "Do not use hooks or tools that could damage containers or packaging."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8940",
+      "question": "Who must train a driver to transport hazardous materials?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Local government"
+        },
+        {
+          "letter": "B",
+          "text": "State motor vehicle department"
+        },
+        {
+          "letter": "C",
+          "text": "State highway patrol"
+        },
+        {
+          "letter": "D",
+          "text": "The driver's employer"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "The driver's employer",
+      "explanation": "The employer must provide training and testing to drivers who will transport hazardous materials."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9402",
+      "question": "If a vehicle carrying Class 1 explosives crashes, what should the driver do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Not warn others of the danger"
+        },
+        {
+          "letter": "B",
+          "text": "Allow smoking near the vehicle"
+        },
+        {
+          "letter": "C",
+          "text": "Keep explosives in the vehicle while separating the crashed vehicles"
+        },
+        {
+          "letter": "D",
+          "text": "Remove explosives from the vehicle before separating the crashed vehicles"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Remove explosives from the vehicle before separating the crashed vehicles",
+      "explanation": "Warn others of danger. Keep people away. Do not allow smoking or open fires. Remove all explosives and place them at least 200 feet away from vehicles and any occupied buildings before separating the crashed vehicles."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9662",
+      "question": "For small packages that cannot hold a HazMat label, materials should be labeled:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "With a barcode."
+        },
+        {
+          "letter": "B",
+          "text": "With a tag."
+        },
+        {
+          "letter": "C",
+          "text": "With orange tape."
+        },
+        {
+          "letter": "D",
+          "text": "With a red checkmark."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "With a tag.",
+      "explanation": "If a hazardous materials package is too small for a proper label, attach the label to a tag that is securely fastened to the package."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8964",
+      "question": "Besides reading the manual, the best way to learn about transporting hazardous materials is to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Talk to other people."
+        },
+        {
+          "letter": "B",
+          "text": "Attend hazardous materials training courses."
+        },
+        {
+          "letter": "C",
+          "text": "Guess."
+        },
+        {
+          "letter": "D",
+          "text": "Ask a police officer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Attend hazardous materials training courses.",
+      "explanation": "The manual has what you need to pass the written test, but it does not have all the information needed to do the job safely. Take hazardous materials training courses to learn more."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8974",
+      "question": "A sign that your shipment contains hazardous materials is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The shipper works in a business like fireworks sales or pest control."
+        },
+        {
+          "letter": "B",
+          "text": "Your last shipment was labeled as hazardous."
+        },
+        {
+          "letter": "C",
+          "text": "The packaging looks damaged."
+        },
+        {
+          "letter": "D",
+          "text": "The shipper's business is in a bad neighborhood."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The shipper works in a business like fireworks sales or pest control.",
+      "explanation": "A shipment may contain hazardous materials if the shipper works in a business that typically uses them. Examples include paint dealers, chemical suppliers, and pest control companies."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8924",
+      "question": "When loading or unloading explosive materials, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep the engine running."
+        },
+        {
+          "letter": "B",
+          "text": "Turn off the engine."
+        },
+        {
+          "letter": "C",
+          "text": "Use sharp tools to open packages."
+        },
+        {
+          "letter": "D",
+          "text": "Toss packages."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Turn off the engine.",
+      "explanation": "Always turn off your vehicle's engine before loading or unloading explosives. Never drop, throw, or roll packages with explosives."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8960",
+      "question": "When a shipper packages hazardous materials, they certify that the package:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Does not contain hazardous materials."
+        },
+        {
+          "letter": "B",
+          "text": "Was prepared following the rules."
+        },
+        {
+          "letter": "C",
+          "text": "Was packed at a specific location."
+        },
+        {
+          "letter": "D",
+          "text": "Will be placed on the trailer first."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Was prepared following the rules.",
+      "explanation": "When a shipper packages hazardous materials, they certify that the package was prepared according to all applicable rules."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "8961",
+      "question": "To complete a Uniform Hazardous Waste Manifest, you must:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sign by hand."
+        },
+        {
+          "letter": "B",
+          "text": "Sign only if you cross into another state."
+        },
+        {
+          "letter": "C",
+          "text": "Sign only if the weather was hazardous."
+        },
+        {
+          "letter": "D",
+          "text": "Have a witness sign."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sign by hand.",
+      "explanation": "A Uniform Hazardous Waste Manifest must be signed by hand. The manifest must also include the name and EPA registration number of all shippers, carriers, and destinations."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "10641",
+      "question": "The only correct way to check tire pressure is by:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Using a tire pressure gauge."
+        },
+        {
+          "letter": "B",
+          "text": "Looking at the tire."
+        },
+        {
+          "letter": "C",
+          "text": "Pushing on the tire with your hand."
+        },
+        {
+          "letter": "D",
+          "text": "Measuring the tire height."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Using a tire pressure gauge.",
+      "explanation": "Check your tires at the start of every trip and after every stop to make sure they are properly inflated. Use a tire pressure gauge to check tire pressure."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "9403",
+      "question": "If you are transporting Class 3 flammable liquids and need to move them to another tank, the flammable liquids:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May be transferred on the road if no other people are nearby."
+        },
+        {
+          "letter": "B",
+          "text": "Should not be transferred on a public road unless it is an emergency."
+        },
+        {
+          "letter": "C",
+          "text": "Should be kept secret when moved to another tank."
+        },
+        {
+          "letter": "D",
+          "text": "Should be transferred at night."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Should not be transferred on a public road unless it is an emergency.",
+      "explanation": "Do not transfer flammable liquids between vehicles on a public road unless there is an emergency. Always warn others about the hazards of the materials."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "8937",
+      "question": "Hazardous materials may include all of the following except:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explosives."
+        },
+        {
+          "letter": "B",
+          "text": "Gases."
+        },
+        {
+          "letter": "C",
+          "text": "Solids."
+        },
+        {
+          "letter": "D",
+          "text": "Rocks."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Rocks.",
+      "explanation": "Hazardous materials are products that create risks to health, safety, and property during transport. These include explosives, flammable and poisonous gases, and flammable and other hazardous solids."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "10124",
+      "question": "When loading compressed gas, the liquid discharge valves should be:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Closed."
+        },
+        {
+          "letter": "B",
+          "text": "Greased."
+        },
+        {
+          "letter": "C",
+          "text": "Open."
+        },
+        {
+          "letter": "D",
+          "text": "Removed."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Open.",
+      "explanation": "Keep liquid discharge valves on a compressed gas tank closed, except when loading and unloading."
+    }
+  ]
+}

@@ -1,0 +1,955 @@
+{
+  "state": "Louisiana",
+  "category": "car",
+  "quizName": "Warning Signs",
+  "slug": "warning-signs",
+  "totalQuestions": 43,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/stop-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un panneau d'arrêt est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Un feu de circulation est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Un passage pour piétons est à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un panneau d'arrêt est à proximité.",
+      "explanation": "Ce panneau vous avertit qu'un panneau d'arrêt est à proximité. Commencez à ralentir pour être prêt à vous arrêter complètement."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/yield-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un panneau de cédez le passage est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Un point de convergence est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Un panneau d'arrêt est à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un panneau de cédez le passage est à proximité.",
+      "explanation": "Ce panneau vous avertit qu'un panneau de cédez le passage s'en vient. Soyez prêt à ralentir et à céder le droit de passage aux autres usagers de la route."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un feu de circulation est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Un passage à niveau est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Une zone scolaire se trouve plus loin."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un feu de circulation est à proximité.",
+      "explanation": "Ce panneau vous avertit qu'un feu de circulation est à proximité. Soyez prêt à vous arrêter si le feu est rouge ou jaune."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/emergency-signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un feu de véhicule d'urgence est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Une caserne de pompiers est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Une zone hospitalière est à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un feu de véhicule d'urgence est à proximité.",
+      "explanation": "Ce panneau vous avertit qu'un feu commandé par des véhicules d'urgence est à proximité. Le feu peut changer pour laisser passer les véhicules d'urgence."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/two-way-traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un trafic bidirectionnel est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "La route se divise en deux routes."
+        },
+        {
+          "letter": "C",
+          "text": "Deux voies se fusionnent en une seule."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un trafic bidirectionnel est à proximité.",
+      "explanation": "Ce panneau vous avertit que vous êtes sur le point d'entrer sur une route avec du trafic en sens inverse. Restez dans votre voie."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/no-passing-zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous entrez dans une zone d'interdiction de dépasser."
+        },
+        {
+          "letter": "B",
+          "text": "La route se rétrécit à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Une zone scolaire se trouve plus loin."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous entrez dans une zone d'interdiction de dépasser.",
+      "explanation": "Ce panneau en forme de fanion marque le début d'une zone d'interdiction de dépasser. Ne dépassez pas d'autres véhicules dans cette zone."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/right-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La route tourne à droite à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Tournez à droite à l'intersection suivante."
+        },
+        {
+          "letter": "C",
+          "text": "Une voie de droite se termine."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La route tourne à droite à proximité.",
+      "explanation": "Ce panneau vous avertit que la route à venir tourne à droite. Ralentissez avant d'entrer dans le virage."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/sharp-curve-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un virage serré à droite est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Un virage doux est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "La route tourne brusquement à gauche."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un virage serré à droite est à proximité.",
+      "explanation": "Ce panneau avertit d'un virage serré à droite. Ralentissez bien avant le virage pour garder le contrôle de votre véhicule."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/sharp-curve-to-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un virage serré à droite est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de droite se termine."
+        },
+        {
+          "letter": "C",
+          "text": "Un virage à droite est obligatoire."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un virage serré à droite est à proximité.",
+      "explanation": "Ce panneau avertit d'un virage serré à droite. Réduisez votre vitesse avant d'entrer dans le virage."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/very-sharp-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un virage très serré est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "La route se termine à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Un demi-tour est obligatoire."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un virage très serré est à proximité.",
+      "explanation": "Ce panneau avertit d'un virage extrêmement serré à proximité. Ralentissez considérablement avant le virage pour éviter de perdre le contrôle."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/hairpin-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un virage en épingle à cheveux est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Un demi-tour est à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Une impasse est à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un virage en épingle à cheveux est à proximité.",
+      "explanation": "Ce panneau avertit d'un virage en épingle à cheveux très serré à proximité. Réduisez drastiquement votre vitesse avant d'entrer dans le virage."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/left-turn-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La route tourne à gauche à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Une voie de virage à gauche commence."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de virage à gauche à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La route tourne à gauche à venir.",
+      "explanation": "Ce panneau avertit que la route à venir tourne à gauche. Réduisez votre vitesse avant le virage."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/left-reverse-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une série de courbes commence par un virage à gauche à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Un demi-tour est à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Un carrefour giratoire est à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une série de courbes commence par un virage à gauche à venir.",
+      "explanation": "Ce panneau avertit d'une courbe inverse à venir, commençant par une courbe à gauche. Ralentissez et préparez-vous aux changements de direction."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/winding-road-left-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une route sinueuse est à venir, commençant par une courbe à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Une pente raide est à venir."
+        },
+        {
+          "letter": "C",
+          "text": "La route est glissante quand elle est mouillée."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une route sinueuse est à venir, commençant par une courbe à gauche.",
+      "explanation": "Ce panneau avertit d'une route sinueuse à venir avec plusieurs courbes. La première courbe va à gauche. Ralentissez et conduisez avec prudence."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/advisory-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vitesse sûre recommandée pour la route à venir."
+        },
+        {
+          "letter": "B",
+          "text": "La vitesse minimale autorisée."
+        },
+        {
+          "letter": "C",
+          "text": "La limite de vitesse maximale."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La vitesse sûre recommandée pour la route à venir.",
+      "explanation": "Un panneau de vitesse indicative montre la vitesse sûre recommandée pour une courbe ou une autre condition routière. Ce n'est pas une limite de vitesse mais une suggestion pour la sécurité."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/advisory-turn-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vitesse recommandée pour le virage à venir."
+        },
+        {
+          "letter": "B",
+          "text": "La limite de vitesse change à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Un ralentisseur est à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La vitesse recommandée pour le virage à venir.",
+      "explanation": "Ce panneau montre la vitesse sûre suggérée pour un virage à venir. Réduisez votre vitesse à ce niveau avant d'entrer dans le virage."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/advisory-speed-on-exit-ramp.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vitesse recommandée pour la bretelle de sortie à venir."
+        },
+        {
+          "letter": "B",
+          "text": "La limite de vitesse sur l'autoroute."
+        },
+        {
+          "letter": "C",
+          "text": "La vitesse minimale sur la bretelle."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La vitesse recommandée pour la bretelle de sortie à venir.",
+      "explanation": "Ce panneau montre la vitesse sûre recommandée pour une bretelle de sortie. Ralentissez à cette vitesse avant d'entrer sur la bretelle."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/truck-rollover-warning-sharp-curve.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les camions peuvent se renverser sur la courbe accentuée à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Les camions doivent sortir ici."
+        },
+        {
+          "letter": "C",
+          "text": "Une station de pesage pour camions est à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les camions peuvent se renverser sur la courbe accentuée à venir.",
+      "explanation": "Ce panneau avertit les chauffeurs de camion d'une courbe accentuée où des tonnellements peuvent se produire. Tous les conducteurs doivent ralentir avant cette courbe."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/cross-road-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un carrefour est à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Un passage à niveau est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Un hôpital est à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un carrefour est à venir.",
+      "explanation": "Ce panneau vous avertit qu'une autre route croise la route sur laquelle vous êtes. Surveillez la circulation des deux côtés."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/side-road-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une route latérale entre par la gauche."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de gauche se termine."
+        },
+        {
+          "letter": "C",
+          "text": "Un virage à gauche est à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une route latérale entre par la gauche.",
+      "explanation": "Ce panneau avertit qu'une route latérale rencontre votre route depuis la gauche. Surveillez la circulation entrant de cette direction."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/side-road-at-angle-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une route latérale entre à un angle à venir."
+        },
+        {
+          "letter": "B",
+          "text": "La route s'incurve ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Un point de convergence est à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une route latérale entre à un angle à venir.",
+      "explanation": "Ce panneau avertit qu'une route entre par le côté à un angle. Surveillez les véhicules entrant de cette route."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/side-road-at-angle-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une route latérale entre à un angle depuis la droite."
+        },
+        {
+          "letter": "B",
+          "text": "Un virage à droite est obligatoire."
+        },
+        {
+          "letter": "C",
+          "text": "Une zone de repos se trouve à droite."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une route latérale entre à un angle depuis la droite.",
+      "explanation": "Ce panneau avertit d'une route latérale entrant par la droite à un angle. Surveillez les véhicules venant de cette direction."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/t-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un carrefour en T est à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Une impasse est à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Un péage est à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un carrefour en T est à venir.",
+      "explanation": "Ce panneau avertit que la route sur laquelle vous êtes se termine à venir à un carrefour en T. Vous devez tourner à gauche ou à droite."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/t-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous vous approchez d'un carrefour en T."
+        },
+        {
+          "letter": "B",
+          "text": "Un pont est à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Un tunnel est à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous vous approchez d'un carrefour en T.",
+      "explanation": "Ce panneau avertit que votre route se termine à venir à un carrefour en T. Préparez-vous à tourner à gauche ou à droite."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/y-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une intersection en Y est à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Un point de convergence est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Une bifurcation de la route est à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une intersection en Y est à venir.",
+      "explanation": "Ce panneau avertit d'une intersection en Y à venir où la route se divise en deux directions. Choisissez votre voie de bonne heure."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/intersection-within-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il y a une intersection dans une courbe devant."
+        },
+        {
+          "letter": "B",
+          "text": "Une courbe prononcée est devant."
+        },
+        {
+          "letter": "C",
+          "text": "La route se rétrécit dans une courbe."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Il y a une intersection dans une courbe devant.",
+      "explanation": "Ce panneau avertit d'une intersection située dans une courbe. Cela peut être particulièrement dangereux car la visibilité peut être limitée."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/circular-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un rond-point ou un carrefour giratoire est devant."
+        },
+        {
+          "letter": "B",
+          "text": "Une impasse est à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Un demi-tour est à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un rond-point ou un carrefour giratoire est devant.",
+      "explanation": "Ce panneau avertit qu'un rond-point ou un carrefour giratoire est devant. Ralentissez et cédez le passage au trafic déjà dans le cercle."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/merging-traffic-from-right-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le trafic se fusionne depuis la droite devant."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de droite se termine."
+        },
+        {
+          "letter": "C",
+          "text": "Une voie de virage à droite commence devant."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le trafic se fusionne depuis la droite devant.",
+      "explanation": "Ce panneau avertit que des véhicules d'une autre route vont se fusionner dans votre voie depuis la droite. Soyez prêt à ajuster votre vitesse ou à changer de voie."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/entering-roadway-merge-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devez vous fusionner à droite en entrant sur la route."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de droite est fermée."
+        },
+        {
+          "letter": "C",
+          "text": "Une courbe à droite est devant."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous devez vous fusionner à droite en entrant sur la route.",
+      "explanation": "Ce panneau vous dit de vous fusionner à droite en entrant sur la route. Ajustez votre vitesse pour vous mélanger en toute sécurité au trafic."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/entering-roadway-added-lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une nouvelle voie est ajoutée pour le trafic entrant sur la route."
+        },
+        {
+          "letter": "B",
+          "text": "La route s'élargit."
+        },
+        {
+          "letter": "C",
+          "text": "Une voie de dépassement commence ici."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une nouvelle voie est ajoutée pour le trafic entrant sur la route.",
+      "explanation": "Ce panneau signifie qu'une nouvelle voie est ajoutée à la route pour le trafic entrant. Vous n'avez pas besoin de vous fusionner immédiatement."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/added-lane-from-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une nouvelle voie est ajoutée depuis la gauche."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de gauche se termine."
+        },
+        {
+          "letter": "C",
+          "text": "Le trafic se fusionne depuis la gauche."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une nouvelle voie est ajoutée depuis la gauche.",
+      "explanation": "Ce panneau vous dit qu'une nouvelle voie est ajoutée à la route depuis le côté gauche. Le trafic depuis la gauche aura sa propre voie."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/lane-reduction-right-lane-ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La voie de droite se termine devant. Fusionnez à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Une nouvelle voie à droite commence."
+        },
+        {
+          "letter": "C",
+          "text": "La route s'élargit."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La voie de droite se termine devant. Fusionnez à gauche.",
+      "explanation": "Ce panneau avertit que la voie de droite se terminera devant. Les conducteurs dans la voie de droite doivent se fusionner à gauche en toute sécurité."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/road-narrows.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La route devant devient plus étroite."
+        },
+        {
+          "letter": "B",
+          "text": "Un pont est à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Une route à une seule voie est devant."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La route devant devient plus étroite.",
+      "explanation": "Ce panneau avertit que la route devant devient plus étroite. Ralentissez et soyez prêt pour un espace réduit."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/divided-highway-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une autoroute divisée commence devant."
+        },
+        {
+          "letter": "B",
+          "text": "Un point de convergence est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "La route se divise en deux routes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une autoroute divisée commence devant.",
+      "explanation": "Ce panneau avertit que la route devant devient une autoroute divisée avec un terre-plein. Restez du côté droit du diviseur."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une pente raide est à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Un ralentisseur est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "La route est inégale."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une pente raide est à venir.",
+      "explanation": "Ce panneau avertit d'une pente raide devant. Vous pourriez avoir besoin de passer à un vitesse inférieure et d'utiliser vos freins avec soin en descente."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/slippery-when-wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La route peut être glissante quand elle est mouillée."
+        },
+        {
+          "letter": "B",
+          "text": "La route a de nombreuses courbes."
+        },
+        {
+          "letter": "C",
+          "text": "Glace sur la route devant."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La route peut être glissante quand elle est mouillée.",
+      "explanation": "Ce panneau avertit que la route devient glissante lorsqu'elle est mouillée. Ralentissez et évitez les arrêts ou les virages soudains par temps humide."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/deer-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des cerfs peuvent traverser la route dans cette zone."
+        },
+        {
+          "letter": "B",
+          "text": "Un parc animalier est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "La chasse est autorisée à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Des cerfs peuvent traverser la route dans cette zone.",
+      "explanation": "Ce panneau avertit que les cerfs traversent souvent la route dans cette zone. Guettez les cerfs, surtout à l'aube et au crépuscule."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/cattle-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Du bétail peut traverser la route dans cette zone."
+        },
+        {
+          "letter": "B",
+          "text": "Une ferme est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Une zone de rodéo est devant."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Du bétail peut traverser la route dans cette zone.",
+      "explanation": "Ce panneau avertit que du bétail ou d'autres animaux d'élevage peuvent traverser la route. Ralentissez et soyez prêt à vous arrêter pour les animaux."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/farm-machinery-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les machines agricoles peuvent traverser ou utiliser la route."
+        },
+        {
+          "letter": "B",
+          "text": "Un marché agricole est devant."
+        },
+        {
+          "letter": "C",
+          "text": "Les camions lourds utilisent cette route."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les machines agricoles peuvent traverser ou utiliser la route.",
+      "explanation": "Ce panneau avertit que les machines agricoles à mouvement lent peuvent être sur ou traverser la route. Soyez patient et ne dépassez que lorsque c'est sûr."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/truck-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les camions peuvent entrer ou traverser la route."
+        },
+        {
+          "letter": "B",
+          "text": "Une aire de repos pour camions est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Les camions doivent utiliser la voie de droite."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les camions peuvent entrer ou traverser la route.",
+      "explanation": "Ce panneau avertit que les camions entrent ou traversent fréquemment la route à cet endroit. Guettez les gros véhicules."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/snow-mobile-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les motoneiges peuvent traverser la route dans cette zone."
+        },
+        {
+          "letter": "B",
+          "text": "Une station de ski est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "La route peut être couverte de neige."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les motoneiges peuvent traverser la route dans cette zone.",
+      "explanation": "Ce panneau avertit que les motoneiges traversent fréquemment la route dans cette zone. Soyez vigilant aux motoneiges, particulièrement en hiver."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/fire-station.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une caserne de pompiers est près de la route. Surveillez les camions de pompiers."
+        },
+        {
+          "letter": "B",
+          "text": "Une borne-fontaine est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Une zone de feu de camp est à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une caserne de pompiers est près de la route. Surveillez les camions de pompiers.",
+      "explanation": "Ce panneau avertit qu'une caserne de pompiers est près de la route. Surveillez les camions de pompiers qui pourraient soudainement entrer sur la route. Cédez toujours la priorité aux véhicules d'urgence."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/warning-signs/traffic-laws-enforced-by-cam.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les lois sur la circulation sont appliquées par caméra dans cette zone."
+        },
+        {
+          "letter": "B",
+          "text": "Un ralentisseur est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Un poste de péage avec caméras est à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les lois sur la circulation sont appliquées par caméra dans cette zone.",
+      "explanation": "Ce panneau vous indique que des caméras sont utilisées pour appliquer les lois sur la circulation dans cette zone. Respectez tous les règlements de circulation, y compris les limites de vitesse et les feux rouges."
+    }
+  ]
+}

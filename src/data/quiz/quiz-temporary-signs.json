@@ -1,0 +1,292 @@
+{
+  "temporary-work-quiz": [
+    {
+      "id": 1,
+      "image_path": "images/temporary-traffic-control-signs/end-road-works.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Road work begins ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Construction zone speed limit ends",
+          "is_correct": false
+        },
+        {
+          "text": "End of road work zone",
+          "is_correct": true
+        },
+        {
+          "text": "Detour route ends here",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 2,
+      "image_path": "images/temporary-traffic-control-signs/shoulder-work.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Shoulder may be soft — do not drive on it",
+          "is_correct": false
+        },
+        {
+          "text": "Pull over to the shoulder and stop",
+          "is_correct": false
+        },
+        {
+          "text": "Shoulder lane open for passing",
+          "is_correct": false
+        },
+        {
+          "text": "Shoulder work ahead — workers on the shoulder",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 3,
+      "image_path": "images/temporary-traffic-control-signs/road-works-next-5-miles.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Road work zone continues for the next 5 miles",
+          "is_correct": true
+        },
+        {
+          "text": "Speed limit enforced for the next 5 miles",
+          "is_correct": false
+        },
+        {
+          "text": "Detour route is 5 miles long",
+          "is_correct": false
+        },
+        {
+          "text": "Rest area in 5 miles",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 4,
+      "image_path": "images/temporary-traffic-control-signs/flagger-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Pedestrian crossing ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Flagger ahead — be prepared to stop or follow directions",
+          "is_correct": true
+        },
+        {
+          "text": "School crossing guard on duty",
+          "is_correct": false
+        },
+        {
+          "text": "Police traffic control ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 5,
+      "image_path": "images/temporary-traffic-control-signs/shoulder-work-2.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Road shoulder under repair — do not use",
+          "is_correct": false
+        },
+        {
+          "text": "Soft shoulder — keep off",
+          "is_correct": false
+        },
+        {
+          "text": "Workers on the shoulder ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Emergency vehicles parked on shoulder",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 6,
+      "image_path": "images/temporary-traffic-control-signs/utility work ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Power lines overhead — high clearance vehicles stop",
+          "is_correct": false
+        },
+        {
+          "text": "Underground construction — road may be uneven",
+          "is_correct": false
+        },
+        {
+          "text": "Emergency road repair in progress",
+          "is_correct": false
+        },
+        {
+          "text": "Utility work ahead — proceed with caution",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 7,
+      "image_path": "images/temporary-traffic-control-signs/right-shoulder-closed.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Right lane closed — merge left",
+          "is_correct": false
+        },
+        {
+          "text": "Right shoulder closed ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Right turn lane closed ahead",
+          "is_correct": false
+        },
+        {
+          "text": "No stopping on the right side",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 8,
+      "image_path": "images/temporary-traffic-control-signs/detour.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Detour ahead — follow the alternate route",
+          "is_correct": true
+        },
+        {
+          "text": "Road closed permanently",
+          "is_correct": false
+        },
+        {
+          "text": "Scenic route available",
+          "is_correct": false
+        },
+        {
+          "text": "Reduced speed zone ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 9,
+      "image_path": "images/temporary-traffic-control-signs/workers-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Pedestrian crossing ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Workers ahead — proceed with caution",
+          "is_correct": true
+        },
+        {
+          "text": "School zone — children present",
+          "is_correct": false
+        },
+        {
+          "text": "Road crew vehicle entering highway",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 10,
+      "image_path": "images/temporary-traffic-control-signs/exit-closed.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Road closed — no through traffic",
+          "is_correct": false
+        },
+        {
+          "text": "On-ramp closed to all vehicles",
+          "is_correct": false
+        },
+        {
+          "text": "Lane closure ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Exit closed — use alternate exit",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 11,
+      "image_path": "images/temporary-traffic-control-signs/slow-traffic-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Slow traffic ahead — reduce speed",
+          "is_correct": true
+        },
+        {
+          "text": "Minimum speed limit posted ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Slow vehicles must use right lane",
+          "is_correct": false
+        },
+        {
+          "text": "Traffic congestion — use alternate route",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 12,
+      "image_path": "images/temporary-traffic-control-signs/right-two-lanes-closed-1mile.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Two new lanes opening ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Right two lanes closed one mile ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Road narrows to one lane in one mile",
+          "is_correct": false
+        },
+        {
+          "text": "Highway splits into two roads ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    }
+  ]
+}

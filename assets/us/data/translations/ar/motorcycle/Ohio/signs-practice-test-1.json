@@ -1,0 +1,759 @@
+{
+  "state": "Ohio",
+  "category": "motorcycle",
+  "quizName": "Signs Practice Test #1",
+  "slug": "signs-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8242",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/crossroad.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يجب على جميع المرور أن ينعطف"
+        },
+        {
+          "letter": "B",
+          "text": "انعطف لليمين عند التقاطع"
+        },
+        {
+          "letter": "C",
+          "text": "منطقة وقوف في الأمام"
+        },
+        {
+          "letter": "D",
+          "text": "طريق متقاطع في الأمام. انتبه للمرور"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "طريق متقاطع في الأمام. انتبه للمرور",
+      "explanation": "تحذرك هذه العلامة من وجود طريق متقاطع في الأمام"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8190",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/divided_highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يجب عليك الانعطاف لليسار أو لليمين."
+        },
+        {
+          "letter": "B",
+          "text": "تقترب من تقاطع على شكل T."
+        },
+        {
+          "letter": "C",
+          "text": "الطريق الذي تسير عليه يتقاطع مع طريق سريع مقسم."
+        },
+        {
+          "letter": "D",
+          "text": "أنت على جسر فوق طريق سريع مقسم."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "الطريق الذي تسير عليه يتقاطع مع طريق سريع مقسم.",
+      "explanation": "تشير هذه العلامة إلى أن الطريق الذي تسير عليه يتقاطع مع طريق سريع مقسم. الطريق السريع المقسم هو طريقان بنظام اتجاه واحد مفصولان بحاجز فاصل أو درابزين توجيه."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8283",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/illinois-school_2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "منطقة مدرسة أو معبر مدرسة."
+        },
+        {
+          "letter": "B",
+          "text": "معبر للمشاة."
+        },
+        {
+          "letter": "C",
+          "text": "سكة حديدية قادمة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "منطقة مدرسة أو معبر مدرسة.",
+      "explanation": "لافتة صفراء أو صفراء-خضراء خماسية الجوانب تنبه السائقين إلى منطقة مدرسة أو معبر مدرسة."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8405",
+      "question": "إذا رأيت هذه الإشارة، فأنت:",
+      "image": "/images/signs/do_not_pass.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يجب ألا تتجاوز مركبة أخرى."
+        },
+        {
+          "letter": "B",
+          "text": "يمكنك تجاوز مركبة بطيئة الحركة إذا كان بإمكانك القيام بذلك بسرعة."
+        },
+        {
+          "letter": "C",
+          "text": "يمكنك التجاوز إذا كنت تعرف الطريق الذي في المقدمة."
+        },
+        {
+          "letter": "D",
+          "text": "يمكنك التجاوز، لكن فقط في الليل."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "يجب ألا تتجاوز مركبة أخرى.",
+      "explanation": "إشارات التنظيم عبارة عن إشارات بيضاء مستطيلة الشكل بعلامات سوداء. يجب على السائقين الامتثال للتعليمات المعروضة على جميع إشارات التنظيم. حيث يتم نشر هذه الإشارة، يُحظر على السائقين تجاوز بعضهم البعض."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8424",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "شاحنات تدخل."
+        },
+        {
+          "letter": "B",
+          "text": "خروج الشاحنات فقط."
+        },
+        {
+          "letter": "C",
+          "text": "منحدر شديد قادم."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "منحدر شديد قادم.",
+      "explanation": "هذه العلامة تحذر من وجود منحدر شديد قادم على الطريق. يجب على السائقين فحص الفرامل."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8417",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "لا تحولات."
+        },
+        {
+          "letter": "B",
+          "text": "لا منفذ."
+        },
+        {
+          "letter": "C",
+          "text": "لا التفاف بزاوية 180 درجة."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "لا التفاف بزاوية 180 درجة.",
+      "explanation": "تشير هذه العلامة إلى أن الدورات على شكل حرف U محظورة. قد ترى علامة مثل هذه عند تقاطع يتمتع بحركة مرور قادمة شائعة."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8340",
+      "question": "تعني علامة الطريق هذه:",
+      "image": "/images/signs/winding_road.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "منعطف حاد إلى اليمين قادم."
+        },
+        {
+          "letter": "B",
+          "text": "منعطفات حادة قادمة إلى اليسار واليمين."
+        },
+        {
+          "letter": "C",
+          "text": "طريق متعرج قادم."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "طريق متعرج قادم.",
+      "explanation": "علامات التحذير عادةً ما تكون صفراء مع علامات سوداء. تحذر هذه العلامة السائق من وجود طريق متعرج قادم. يجب تعديل السرعة بشكل مناسب."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8429",
+      "question": "عندما تقترب من علامة ثمانية الأضلاع، يجب عليك:",
+      "image": "/images/signs/tennessee-stop_empty.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "بطء."
+        },
+        {
+          "letter": "B",
+          "text": "توقف."
+        },
+        {
+          "letter": "C",
+          "text": "انعطف."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "توقف.",
+      "explanation": "العلامة ثمانية الأضلاع تعني دائماً \"توقف\". توقف بالكامل، أعطِ الحق في الطريق لحركة المرور والمشاة الذين لهم الحق في الطريق، وتابع عندما يكون الطريق خالياً."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8369",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/stop_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "توقف أمامك."
+        },
+        {
+          "letter": "B",
+          "text": "تحذير من عربة."
+        },
+        {
+          "letter": "C",
+          "text": "انتظار محدود."
+        },
+        {
+          "letter": "D",
+          "text": "لا تحجب التقاطع."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "توقف أمامك.",
+      "explanation": "تحضر علامات التحذير السائقين للظروف والمخاطر القادمة على الطريق وعادة ما تكون صفراء مع علامات سوداء. تخبر هذه العلامة السائقين بأن هناك علامة إيقاف قادمة وأنه يجب عليهم الاستعداد للتوقف الكامل قبل المتابعة."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8362",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/one_way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "حركة المرور في اتجاه واحد فقط."
+        },
+        {
+          "letter": "B",
+          "text": "منعطف يساري ثنائي الاتجاه."
+        },
+        {
+          "letter": "C",
+          "text": "حركة مرور ثنائية الاتجاه."
+        },
+        {
+          "letter": "D",
+          "text": "حد السرعة الأدنى."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "حركة المرور في اتجاه واحد فقط.",
+      "explanation": "تنظم علامات التنظيم سرعة وحركة المرور، وتعرض القواعس التي يجب على السائقين الامتثال لها. تخبر هذه العلامة السائقين عن الاتجاه الذي يجب عليهم القيادة فيه عند الانعطاف إلى شارع باتجاه واحد."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8313",
+      "question": "من الأعلى إلى الأسفل، فإن الترتيب الصحيح لإشارات المرور هو:",
+      "image": "/images/signs/pennsylvania-traffic_signal_ahead_blank.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "أحمر، أصفر، أخضر."
+        },
+        {
+          "letter": "B",
+          "text": "أحمر، أخضر، أصفر."
+        },
+        {
+          "letter": "C",
+          "text": "أخضر، أحمر، أصفر."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "أحمر، أصفر، أخضر.",
+      "explanation": "تكون لافتات التحذير عادة صفراء مع علامات سوداء. تحذرك من الحالات الموجودة مباشرة في الأمام. تحذر هذه اللافتة السائقين من وجود إشارات مرور عند تقاطع في الأمام."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8176",
+      "question": "عندما ترى هذه العلامة، يجب عليك التوقف و:",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "تحقق من المركبات فقط في الاتجاه الذي تخطط للذهاب إليه، ثم تابع."
+        },
+        {
+          "letter": "B",
+          "text": "دع جميع المركبات التي وصلت قبلك أو بعدك تمر أولاً."
+        },
+        {
+          "letter": "C",
+          "text": "تحقق من حركة المرور في جميع الاتجاهات قبل المتابعة."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "تحقق من حركة المرور في جميع الاتجاهات قبل المتابعة.",
+      "explanation": "عند علامة التوقف، يجب عليك التوقف التام والتحقق من حركة المرور في جميع الاتجاهات قبل المتابعة."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8426",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/pedestrian_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "عبور المدرسة."
+        },
+        {
+          "letter": "B",
+          "text": "منطقة مدرسية."
+        },
+        {
+          "letter": "C",
+          "text": "معبر للمشاة."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "معبر للمشاة.",
+      "explanation": "تحدد هذه العلامة وجود ممر مشاة. كن متنبهاً لأي مشاة قد يعبرون الطريق."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8225",
+      "question": "تُستخدم هذه العلامة لمنع:",
+      "image": "/images/signs/new-york-one_way_traffic_do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "الدخول إلى مواقف السيارات الممتلئة."
+        },
+        {
+          "letter": "B",
+          "text": "الدخول إلى مناطق البناء على الطريق."
+        },
+        {
+          "letter": "C",
+          "text": "الدخول إلى شوارع مسدودة."
+        },
+        {
+          "letter": "D",
+          "text": "الدخول من الاتجاه الخاطئ على شوارع الاتجاه الواحد وممرات الطريق السريع."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "الدخول من الاتجاه الخاطئ على شوارع الاتجاه الواحد وممرات الطريق السريع.",
+      "explanation": "تحذر هذه العلامة من أن الطريق به حركة مرور في اتجاه واحد ويجب أن لا تدخل من اتجاهك الحالي."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8323",
+      "question": "عند علامة عبور مدرسة، يجب أن:",
+      "image": "/images/signs/georgia-school_crosswalk.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "توقف دائماً، سواء كان هناك علامة توقف أم لا."
+        },
+        {
+          "letter": "B",
+          "text": "راقب الأطفال وكن مستعداً للتوقف."
+        },
+        {
+          "letter": "C",
+          "text": "اصدر صرخة بوقك دائماً عندما ترى أطفالاً."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "راقب الأطفال وكن مستعداً للتوقف.",
+      "explanation": "تعني العلامات الخماسية أنك تقترب من منطقة مدرسية و/أو عبور مدرسي. عند رؤية هذه العلامات، كن يقظاً وتحضر للتوقف."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8413",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "زلق عند البلل."
+        },
+        {
+          "letter": "B",
+          "text": "راقب السائقين السكارى."
+        },
+        {
+          "letter": "C",
+          "text": "منحنى خطير قادم."
+        },
+        {
+          "letter": "D",
+          "text": "انتفاخ في الطريق قادم."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "زلق عند البلل.",
+      "explanation": "عادة ما تكون علامات التحذير على شكل ماسة مع علامات سوداء على خلفية صفراء. تنبه السائقين إلى المخاطر القادمة. تحذر هذه العلامة السائقين ليكونوا حذرين للغاية عندما تكون الرصيف مبللاً لأن الطريق قد يصبح زلقاً، مما يجعل المركبات أصعب في السيطرة عليها."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8367",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/indiana-steep_downgrade.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "انحدار شديد."
+        },
+        {
+          "letter": "B",
+          "text": "طريق متقاطع قادم."
+        },
+        {
+          "letter": "C",
+          "text": "لا ينعطف لليمين."
+        },
+        {
+          "letter": "D",
+          "text": "جسر ضيق."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "انحدار شديد.",
+      "explanation": "علامات التحذير تحضر السائقين للظروف الطرقية القادمة والمخاطر وعادة ما تكون صفراء مع علامات سوداء. تحذر هذه العلامة السائقين من منحدر حاد قادم. يجب عليهم ضبط سرعتهم وفقاً لذلك لتجنب تلف المكابح أو الاصطدام."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8233",
+      "question": "عند تقاطع به علامة الأولوية، يجب عليك:",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "توقف دائماً قبل دخول التقاطع."
+        },
+        {
+          "letter": "B",
+          "text": "تنازل فقط للحركة المرورية على اليمين."
+        },
+        {
+          "letter": "C",
+          "text": "تنازل فقط للحركة المرورية على اليسار."
+        },
+        {
+          "letter": "D",
+          "text": "أبطئ السرعة وتنازل عن حق الطريق للحركة المرورية الأخرى."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "أبطئ السرعة وتنازل عن حق الطريق للحركة المرورية الأخرى.",
+      "explanation": "علامة الأولوية تعني أنه يجب عليك الإبطاء والتنازل عن حق الطريق للحركة المرورية في التقاطع أو الطريق الذي تدخله."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8350",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/bicycle_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "عبور الدراجات."
+        },
+        {
+          "letter": "B",
+          "text": "توقف."
+        },
+        {
+          "letter": "C",
+          "text": "تتضاعف الغرامات في منطقة العمل."
+        },
+        {
+          "letter": "D",
+          "text": "توقف أمامك."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "عبور الدراجات.",
+      "explanation": "تحضر علامات التحذير السائقين للظروف الطرقية والأخطار القادمة وعادة ما تكون صفراء بعلامات سوداء. تنبه هذه العلامة السائقين إلى حركة المشاة على الدراجات المحتملة."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8386",
+      "question": "ما الرسالة الموجودة على هذه العلامة الصفراء على شكل راية؟",
+      "image": "/images/signs/pennsylvania-no_passing_zone2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "انعطافات يمينية فقط."
+        },
+        {
+          "letter": "B",
+          "text": "انعطافات يمينية مسموحة."
+        },
+        {
+          "letter": "C",
+          "text": "منطقة ممنوعة للتجاوز."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "منطقة ممنوعة للتجاوز.",
+      "explanation": "تُستخدم العلامات الصفراء على شكل راية مثل هذه للإشارة إلى منطقة ممنوع فيها تجاوز."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8305",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "لا يُسمح بالدوران بزاوية 180 درجة."
+        },
+        {
+          "letter": "B",
+          "text": "لا التفافات."
+        },
+        {
+          "letter": "C",
+          "text": "لا ينعطف لليسار."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "لا يُسمح بالدوران بزاوية 180 درجة.",
+      "explanation": "تشير هذه الإشارة إلى أنك قد لا تقوم برعكس الاتجاه. لا يمكنك الالتفاف للعودة في الاتجاه المعاكس عند تقاطع حيث تم نشر هذه الإشارة."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8343",
+      "question": "تعني علامة الطريق هذه:",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "تقاطع قادم."
+        },
+        {
+          "letter": "B",
+          "text": "تدرج حاد قادم."
+        },
+        {
+          "letter": "C",
+          "text": "طريق ملتوية."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "تدرج حاد قادم.",
+      "explanation": "لافتات التحذير عادة ما تكون صفراء مع علامات سوداء. تشير هذه اللافتة إلى وجود تل شديد الانحدار في الأمام. قلل السرعة وكن مستعداً للانتقال إلى علبة تروس منخفضة للتحكم في سرعتك وحماية الفرامل من التلف."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8277",
+      "question": "تعني علامة الطريق هذه:",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "تقاطع قادم."
+        },
+        {
+          "letter": "B",
+          "text": "تدرج حاد قادم."
+        },
+        {
+          "letter": "C",
+          "text": "طريق ملتوية."
+        },
+        {
+          "letter": "D",
+          "text": "حركة مرور متداخلة."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "تدرج حاد قادم.",
+      "explanation": "هذه العلامة تشير إلى أن هناك انحداراً حاداً قادماً."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8315",
+      "question": "ماذا تعني هذه علامة الطريق؟",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "بطيء السرعة واستعد للتوقف إذا كانت السيارات تقترب منك"
+        },
+        {
+          "letter": "B",
+          "text": "توقف بالكامل ثم تابع عندما يكون ذلك آمناً"
+        },
+        {
+          "letter": "C",
+          "text": "تقدم بحذر عبر التقاطع، وليس دائماً بالتوقف"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "توقف بالكامل ثم تابع عندما يكون ذلك آمناً",
+      "explanation": "تعني علامة ثمانية الأضلاع دائماً التوقف. عند الاقتراب من علامة التوقف، يجب عليك التوقف التام عند خط التوقف المحدد والمضي قدماً فقط عندما يكون ذلك آمناً. إذا لم تكن هناك خط توقف، توقف قبل ممر المشاة. إذا لم يكن هناك ممر مشاة، توقف قبل التقاطع من نقطة يمكنك من خلالها رؤية أي حركة مرور قادمة."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8210",
+      "question": "يعرض الحد الأقصى للسرعة المعلن:",
+      "image": "/images/signs/district-of-columbia-speed_limit_25.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "فقط سرعة قيادة موصى بها."
+        },
+        {
+          "letter": "B",
+          "text": "السرعة الدقيقة التي يجب عليك السفر بها لتجنب مخالفة."
+        },
+        {
+          "letter": "C",
+          "text": "أقصى سرعة قيادة آمنة في ظروف الطريق والطقس المثالية."
+        },
+        {
+          "letter": "D",
+          "text": "أقصى سرعة قيادة آمنة في جميع ظروف الطريق."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "أقصى سرعة قيادة آمنة في ظروف الطريق والطقس المثالية.",
+      "explanation": "تُظهر علامة الحد الأقصى للسرعة أقصى سرعة قيادة قانونية لقسم الطريق السريع حيث يتم نشرها. قد تتطلب القيادة الآمنة منك السفر بسرعة أبطأ من الحد المعلن. عندما تكون الظروف أقل من المثالية، يجب على السائقين أن يبطئوا السرعة."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "8223",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "استمر بسرعتك الحالية."
+        },
+        {
+          "letter": "B",
+          "text": "يجب عليك التوقف قريباً."
+        },
+        {
+          "letter": "C",
+          "text": "الإسراع غير مسموح به."
+        },
+        {
+          "letter": "D",
+          "text": "توجد إشارة مرور في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "توجد إشارة مرور في الأمام.",
+      "explanation": "هذه العلامة تشير إلى أن إشارة مرور قادمة."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "8332",
+      "question": "تعني علامة الطريق هذه:",
+      "image": "/images/signs/sharp_turn_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "منحنى حاد إلى اليمين في الأمام."
+        },
+        {
+          "letter": "B",
+          "text": "طريق تنضم من اليمين."
+        },
+        {
+          "letter": "C",
+          "text": "الطريق يدور بشكل حاد إلى اليمين ثم بشكل حاد إلى اليسار."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "الطريق يدور بشكل حاد إلى اليمين ثم بشكل حاد إلى اليسار.",
+      "explanation": "عادة ما تكون علامات التحذير صفراء مع علامات سوداء. تشير هذه العلامة إلى أن الطريق في الأمام سيدور بشكل حاد إلى اليمين ثم بشكل حاد إلى اليسار."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "8270",
+      "question": "تعني علامة الطريق هذه:",
+      "image": "/images/signs/t_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يجب على كل حركة المرور الانعطاف لليمين."
+        },
+        {
+          "letter": "B",
+          "text": "لا ينعطف لليمين."
+        },
+        {
+          "letter": "C",
+          "text": "يجب على جميع حركة المرور أن تستمر مباشرة في الأمام."
+        },
+        {
+          "letter": "D",
+          "text": "طريق تنضم من اليمين."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "طريق تنضم من اليمين.",
+      "explanation": "تشير هذه العلامة إلى وجود تقاطع في الأمام. الطريق ينضم من اليمين."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "8406",
+      "question": "هذه الإشارة تعني:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "الالتفافات على شكل حرف U محظورة."
+        },
+        {
+          "letter": "B",
+          "text": "يُسمح بالانعطافات على شكل حرف U."
+        },
+        {
+          "letter": "C",
+          "text": "طريق متعرج قادم."
+        },
+        {
+          "letter": "D",
+          "text": "انعطاف حاد لليسار في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "الالتفافات على شكل حرف U محظورة.",
+      "explanation": "علامة تنظيمية تعرض دائرة حمراء مع خط أحمر عبرها تشير إلى أن إجراءً معيناً محظور. لا يُسمح بالانعطافات على شكل حرف U حيث يتم نشر هذه العلامة."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "8346",
+      "question": "ماذا تعني هذه علامة الطريق؟",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يجب عليك الانعطاف لليمين."
+        },
+        {
+          "letter": "B",
+          "text": "لا يُسمح بالانعطاف لليمين"
+        },
+        {
+          "letter": "C",
+          "text": "يُسمح بالانعطاف لليمين على ضوء أحمر"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "لا يُسمح بالانعطاف لليمين",
+      "explanation": "تمنع هذه العلامة الانعطاف لليمين. من غير القانوني الانعطاف لليمين عند تقاطع معلق عليه هذه العلامة."
+    }
+  ]
+}

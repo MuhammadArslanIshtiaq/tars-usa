@@ -1,0 +1,568 @@
+{
+  "state": "California",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/california/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11673",
+      "question": "When you press the brake pedal and the S-cam turns, what does the S-cam do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presses the brake shoes against the inside of the brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "Tightens the brake drum onto the axle."
+        },
+        {
+          "letter": "C",
+          "text": "Presses the brake lining against the wheel."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Presses the brake shoes against the inside of the brake drum.",
+      "explanation": "When you press the brake pedal, the S-cam turns and presses the brake shoes against the inside of the brake drum. This creates friction and slows the vehicle."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11887",
+      "question": "What is the maximum safe air leakage for a double combination vehicle during a static leakage test?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi in one minute."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi in one minute."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi in one minute."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi in one minute.",
+      "explanation": "For a double combination vehicle with air brakes, the leakage should not be more than 3 psi in one minute. If air leaks faster, the vehicle needs repairs before it can be driven."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11705",
+      "question": "At what air pressure range should the low pressure warning signal turn on?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55 and 75 psi."
+        },
+        {
+          "letter": "B",
+          "text": "35 and 50 psi."
+        },
+        {
+          "letter": "C",
+          "text": "75 and 100 psi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "55 and 75 psi.",
+      "explanation": "The low pressure warning signal should turn on before air pressure drops to between 55 and 75 psi. This signal can be a light, buzzer, or wig wag."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11466",
+      "question": "What is the maximum air leakage rate for a triple combination vehicle during an applied leakage test?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi in a minute."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi in a minute."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi in a minute."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi in a minute."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "6 psi in a minute.",
+      "explanation": "A triple combination vehicle should not leak more than 6 psi in a minute during an applied leakage test. Know the safe leakage rate for your vehicle."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11902",
+      "question": "What part is located between the air compressor and reservoir tank to prevent air from escaping if the compressor leaks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slack adjuster"
+        },
+        {
+          "letter": "B",
+          "text": "One-way check valve"
+        },
+        {
+          "letter": "C",
+          "text": "Tractor protection valve"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "One-way check valve",
+      "explanation": "A one-way check valve must be installed between the air compressor and the first main reservoir. It prevents air from escaping if the compressor develops a leak."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11707",
+      "question": "If the low pressure warning signal activates while driving, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continue driving normally."
+        },
+        {
+          "letter": "B",
+          "text": "Exit the road and park as soon as safely possible."
+        },
+        {
+          "letter": "C",
+          "text": "Stop where you are and park."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Exit the road and park as soon as safely possible.",
+      "explanation": "When the low pressure warning signal activates while driving, you must safely exit the road and park as soon as possible. If air pressure gets too low, your brakes will not work well enough to stop safely."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11903",
+      "question": "What does the air compressor governor do when air tanks reach 125 psi?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop the compressor from pumping air."
+        },
+        {
+          "letter": "B",
+          "text": "Release air from the tanks."
+        },
+        {
+          "letter": "C",
+          "text": "Begin pumping air into the tanks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stop the compressor from pumping air.",
+      "explanation": "When air tanks reach about 125 psi, the governor stops the compressor from pumping air. This pressure level is called the \"cut-out\" level."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8771",
+      "question": "When should you not use the parking brake?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When the brakes are very hot."
+        },
+        {
+          "letter": "B",
+          "text": "When the brakes are very cold."
+        },
+        {
+          "letter": "C",
+          "text": "When there is snow on the ground."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When the brakes are very hot.",
+      "explanation": "Do not use the parking brake if your brakes are hot after coming down a steep grade. Let them cool first to avoid damaging the brakes."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8632",
+      "question": "What color are the malfunction lamps on vehicles with Anti-Lock Braking Systems (ABS)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green"
+        },
+        {
+          "letter": "B",
+          "text": "Blue"
+        },
+        {
+          "letter": "C",
+          "text": "Yellow"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Yellow",
+      "explanation": "ABS vehicles have yellow malfunction lamps that alert you when the braking system is not working. Learn where this lamp is located on your vehicle before driving."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9893",
+      "question": "What condition should brake linings be in?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loose."
+        },
+        {
+          "letter": "B",
+          "text": "Free of oil."
+        },
+        {
+          "letter": "C",
+          "text": "Soft."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Free of oil.",
+      "explanation": "Brake linings must be free of oil and grease. They should not be loose or dangerously thin."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11709",
+      "question": "In a dual air brake system, both systems share:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Hoses."
+        },
+        {
+          "letter": "C",
+          "text": "An air compressor."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "An air compressor.",
+      "explanation": "Both systems in a dual air brake system use the same air compressor. If the air compressor breaks, neither system will work properly."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11899",
+      "question": "If the low pressure warning light comes on while you are driving, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop where you are and park"
+        },
+        {
+          "letter": "B",
+          "text": "Leave the road as soon as safely possible"
+        },
+        {
+          "letter": "C",
+          "text": "Continue driving normally"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Leave the road as soon as safely possible",
+      "explanation": "If the low pressure warning light turns on while driving, safely pull off the road and park as soon as you can. If air pressure gets too low, your brakes will not work well enough to stop safely."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11465",
+      "question": "During an applied leakage test, the maximum air loss for a double combination vehicle is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi in one minute."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi in one minute."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi in one minute."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi in one minute."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4 psi in one minute.",
+      "explanation": "For a double combination vehicle, the air loss rate must not exceed 4 psi in one minute during an applied leakage test. Know the safe leakage rate for your vehicle."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8633",
+      "question": "Anti-Lock Braking Systems (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Make a vehicle's normal brakes weaker."
+        },
+        {
+          "letter": "B",
+          "text": "Work with other braking systems and do not change braking power."
+        },
+        {
+          "letter": "C",
+          "text": "Do not work well on larger vehicles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Work with other braking systems and do not change braking power.",
+      "explanation": "ABS works together with a vehicle's normal braking system. It does not increase or decrease braking power. ABS only activates when the wheels are about to lock up."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9297",
+      "question": "What color light shows that a vehicle's ABS is broken?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green"
+        },
+        {
+          "letter": "B",
+          "text": "Blue"
+        },
+        {
+          "letter": "C",
+          "text": "Yellow"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Yellow",
+      "explanation": "On vehicles with ABS, a yellow warning light tells the driver that the ABS is not working."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11721",
+      "question": "When braking at 55 mph on dry pavement, brake lag adds about ____ to your stopping distance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "15 feet"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "Total stopping distance includes four parts: perception distance, reaction distance, brake lag distance, and braking distance. At 55 mph on dry pavement, brake lag adds about 32 feet to stopping distance."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11904",
+      "question": "When going downhill, you should brake until you reach a speed that is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 mph below your safe speed."
+        },
+        {
+          "letter": "B",
+          "text": "10 mph below your safe speed."
+        },
+        {
+          "letter": "C",
+          "text": "15 mph below your safe speed."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "5 mph below your safe speed.",
+      "explanation": "When driving downhill, brake until your speed is 5 mph below your safe speed. Then release the brake pedal. Repeat this process as needed."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11533",
+      "question": "Before driving a vehicle with air brakes, check that ____ turn on automatically when air pressure drops below 45 psi.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spring brakes"
+        },
+        {
+          "letter": "B",
+          "text": "Parking brakes"
+        },
+        {
+          "letter": "C",
+          "text": "Air brakes"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Spring brakes",
+      "explanation": "Before driving, make sure spring brakes turn on automatically when air pressure drops to between 20 and 45 psi. To test this, chock the wheels and release air by pressing the brake pedal on and off. The parking brake valve should pop out and spring brakes should turn on when pressure gets too low."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11675",
+      "question": "To inspect slack adjusters on S-cam brakes, you must:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Park on a hill and test the brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Put on gloves and push in the slack adjusters."
+        },
+        {
+          "letter": "C",
+          "text": "Chock the wheels and disengage the parking brake."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Chock the wheels and disengage the parking brake.",
+      "explanation": "Park on level ground, place wheel chocks, and disengage the parking brake. Pull each slack adjuster to check that it moves no more than about one inch. If it moves more than one inch, it needs to be adjusted."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11882",
+      "question": "When an S-cam turns inside a brake drum, it:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pushes the brake shoes against the inside of the brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "Pushes the brake shoes against the brake linings."
+        },
+        {
+          "letter": "C",
+          "text": "Pushes the brake linings against the wheel axles."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pushes the brake shoes against the inside of the brake drum.",
+      "explanation": "When you press the brake pedal, the S-cam turns and pushes the brake shoes against the inside of the brake drum. This creates friction and slows the vehicle."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11893",
+      "question": "In a vehicle with dual parking control valves, what can a separate air tank be used for?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To make the air brakes work better."
+        },
+        {
+          "letter": "B",
+          "text": "To temporarily release the spring brakes."
+        },
+        {
+          "letter": "C",
+          "text": "To charge the brakes on the rear trailer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "To temporarily release the spring brakes.",
+      "explanation": "A separate air tank can release the spring brakes if they were activated by low air pressure. The driver can push the control to release the spring brakes for a short time. This lets the driver move the vehicle in an emergency."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8626",
+      "question": "Why should you drain the air tanks regularly?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because the air gets old and needs to be replaced."
+        },
+        {
+          "letter": "B",
+          "text": "Because compressed air contains water that collects in the tanks."
+        },
+        {
+          "letter": "C",
+          "text": "To allow for a change in pressure."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Because compressed air contains water that collects in the tanks.",
+      "explanation": "Compressed air has moisture and oil in it. These build up in the air tanks and can damage the brake system. Drain the tanks to remove this buildup. On a manual drain valve, drain the tank at the end of each day of driving."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11326",
+      "question": "On flat surfaces, what do wheel chocks do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They prevent a parked vehicle from moving."
+        },
+        {
+          "letter": "B",
+          "text": "They make it easier for a parked vehicle to roll."
+        },
+        {
+          "letter": "C",
+          "text": "They should only be used on the front driver's side tire."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "They prevent a parked vehicle from moving.",
+      "explanation": "When you cannot use the parking brake, wheel chocks can hold a parked vehicle in place on a level surface."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11701",
+      "question": "In a dual air brake system, air pressure should build from 85 to 100 psi in how much time?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two minutes."
+        },
+        {
+          "letter": "B",
+          "text": "15 seconds."
+        },
+        {
+          "letter": "C",
+          "text": "45 seconds."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "45 seconds.",
+      "explanation": "When inspecting a dual air brake system, wait for air pressure to build from 85 to 100 psi in both the primary and secondary systems. This should take about 45 seconds."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8754",
+      "question": "The air compressor is connected to the:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmission."
+        },
+        {
+          "letter": "B",
+          "text": "Engine."
+        },
+        {
+          "letter": "C",
+          "text": "Radiator."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Engine.",
+      "explanation": "The air compressor connects to the engine using gears or a belt. It can be cooled by air or by the engine cooling system."
+    }
+  ]
+}

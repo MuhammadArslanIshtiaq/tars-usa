@@ -1,0 +1,619 @@
+{
+  "state": "New Mexico",
+  "category": "car",
+  "quizName": "Hard Practice Test #1",
+  "slug": "hard-practice-test-1",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "154",
+      "question": "Un véhicule s'insère soudainement devant vous, créant un danger. Que devriez-vous faire en premier ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Klaxonnez et freinez fermement."
+        },
+        {
+          "letter": "B",
+          "text": "Levez le pied de la pédale d'accélérateur."
+        },
+        {
+          "letter": "C",
+          "text": "Changez de voie vers la voie adjacente."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Levez le pied de la pédale d'accélérateur.",
+      "explanation": "Si un véhicule s'insère trop près devant vous, levez le pied de l'accélérateur. Cela créera de l'espace entre vous et le véhicule devant sans exiger que vous freiniez brutalement ou que vous vous déplaciez dans une autre voie."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "827",
+      "question": "Un panneau avec cette forme signifie:",
+      "image": "/images/signs/washington-warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Passage à niveau."
+        },
+        {
+          "letter": "B",
+          "text": "Avertissement."
+        },
+        {
+          "letter": "C",
+          "text": "Signal à venir."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Avertissement.",
+      "explanation": "Un panneau jaune en forme de losange avertit des dangers possibles à venir. Les panneaux orange, qui sont principalement en forme de losange, sont utilisés pour avertir des dangers possibles dans ou près des zones de travail."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1892",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/divided_highway_begins.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous approchez de la fin d'une autoroute divisée."
+        },
+        {
+          "letter": "B",
+          "text": "Vous approchez du début d'une autoroute divisée."
+        },
+        {
+          "letter": "C",
+          "text": "La route sera glissante ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vous approchez du début d'une autoroute divisée.",
+      "explanation": "Ce panneau indique le début d'une autoroute divisée. Restez à droite du diviseur médian."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "2245",
+      "question": "Une seule ligne jaune pointillée au centre d'une route à deux voies indique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les voies se déplacent dans des directions opposées et les conducteurs ne sont pas autorisés à dépasser."
+        },
+        {
+          "letter": "B",
+          "text": "Les voies se déplacent dans des directions opposées et les conducteurs ont le droit de dépasser quand il est sûr de le faire."
+        },
+        {
+          "letter": "C",
+          "text": "Les voies se déplacent dans la même direction et les conducteurs ne sont pas autorisés à dépasser."
+        },
+        {
+          "letter": "D",
+          "text": "Les voies se déplacent dans la même direction et les conducteurs ont le droit de dépasser quand il est sûr de le faire."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les voies se déplacent dans des directions opposées et les conducteurs ont le droit de dépasser quand il est sûr de le faire.",
+      "explanation": "Les lignes jaunes sont utilisées pour séparer le trafic circulant dans des directions opposées. Les lignes pointillées indiquent que les conducteurs directement à côté de la ligne sont autorisés à dépasser lorsqu'il est sûr de le faire."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "2787",
+      "question": "Lorsqu'un bordure est peint ____, cela indique une zone de chargement ou une autre restriction de stationnement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jaune"
+        },
+        {
+          "letter": "B",
+          "text": "Bleu"
+        },
+        {
+          "letter": "C",
+          "text": "Blanc"
+        },
+        {
+          "letter": "D",
+          "text": "Rouge"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Jaune",
+      "explanation": "Les bordures peintes indiquent les restrictions de stationnement. Lorsqu'une bordure est peinte en jaune, cela indique la présence d'une zone de chargement ou d'une autre restriction de stationnement."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "237",
+      "question": "À quoi devriez-vous être le plus préoccupé lorsque vous voyez ce panneau?",
+      "image": "/images/signs/pennsylvania-shoulder_drop_off.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduire avec les phares mal alignés parce qu'un côté de votre voiture est plus haut que l'autre."
+        },
+        {
+          "letter": "B",
+          "text": "Endommager un pneu en s'écartant sur l'accotement."
+        },
+        {
+          "letter": "C",
+          "text": "Aquaplaner, si l'accotement est mouillé."
+        },
+        {
+          "letter": "D",
+          "text": "Perdre le contrôle du véhicule si vous vous écartez sur l'accotement."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Perdre le contrôle du véhicule si vous vous écartez sur l'accotement.",
+      "explanation": "Ce panneau indique que l'accotement est plus bas que la route dans la zone à l'avance. Si vous vous écartez de la chaussée et qu'une roue tombe sur un accotement bas, ne freinez pas brusquement ni ne tournez fortement pour essayer de revenir sur la chaussée. Cela pourrait facilement vous faire perdre le contrôle de votre véhicule."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "21",
+      "question": "Vous arrivez à une intersection avec des panneaux d'arrêt aux quatre coins au même moment que le conducteur à votre gauche. Qui a le droit de passage?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le conducteur à votre gauche a le droit de passage."
+        },
+        {
+          "letter": "B",
+          "text": "Vous avez le droit de passage."
+        },
+        {
+          "letter": "C",
+          "text": "Celui qui signale pour tourner a le droit de passage."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vous avez le droit de passage.",
+      "explanation": "Si deux véhicules arrivent en même temps à une intersection qui a des panneaux d'arrêt aux quatre coins, le véhicule à droite a le droit de passage."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "404",
+      "question": "Une ligne blanche continue sur le bord droit de la route s'incline vers la gauche. Cela indique que :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une intersection est juste ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Vous approchez d'une zone de construction."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devrez tourner à gauche juste ahead."
+        },
+        {
+          "letter": "D",
+          "text": "La route sera plus étroite."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "La route sera plus étroite.",
+      "explanation": "Une ligne continue le long du bord de la route indique où se situe son extrémité, marquant la limite entre la voie de circulation et l'accotement. Si la ligne d'extrémité s'incline vers le centre de la route, cela signifie que la route est plus étroite ahead."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "661",
+      "question": "Lequel n'est pas un facteur dans la détermination de la distance nécessaire pour arrêter votre véhicule ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Capacité de direction"
+        },
+        {
+          "letter": "B",
+          "text": "Distance de freinage"
+        },
+        {
+          "letter": "C",
+          "text": "Distance de réaction"
+        },
+        {
+          "letter": "D",
+          "text": "Temps de perception"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Capacité de direction",
+      "explanation": "La distance nécessaire pour arrêter votre véhicule dépend du temps de perception, de la distance de réaction et de la distance de freinage. Cela change avec la vitesse et les conditions routières."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1228",
+      "question": "Si vous vous trouvez dans un dérapage :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Freinez légèrement."
+        },
+        {
+          "letter": "B",
+          "text": "Restez sans freiner."
+        },
+        {
+          "letter": "C",
+          "text": "Freinez brusquement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Restez sans freiner.",
+      "explanation": "Si votre véhicule commence à déraper, n'utilisez pas les freins. Freiner pourrait aggraver le dérapage."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "402",
+      "question": "Vous ne pouvez pas traverser une simple ligne blanche ou jaune pointillée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lorsque cela gênerait la circulation."
+        },
+        {
+          "letter": "B",
+          "text": "Lorsque vous tournez à gauche pour entrer dans une allée."
+        },
+        {
+          "letter": "C",
+          "text": "Lorsque la voiture devant vous est immobilisée."
+        },
+        {
+          "letter": "D",
+          "text": "Lorsque vous dépassez par la droite sur une rue à sens unique."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Lorsque cela gênerait la circulation.",
+      "explanation": "Vous pouvez traverser une simple ligne pointillée pour dépasser ou changer de voie tant que vous pouvez le faire en toute sécurité et sans gêner la circulation."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1432",
+      "question": "Pour vérifier votre angle mort lorsque vous changez de voie vers la gauche, vous devriez regarder :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Par-dessus votre épaule droite."
+        },
+        {
+          "letter": "B",
+          "text": "À votre rétroviseur latéral."
+        },
+        {
+          "letter": "C",
+          "text": "Par-dessus votre épaule gauche."
+        },
+        {
+          "letter": "D",
+          "text": "À votre rétroviseur."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Par-dessus votre épaule gauche.",
+      "explanation": "Pour vérifier votre angle mort, jetez un coup d'œil par-dessus votre épaule dans la direction dans laquelle vous voulez vous déplacer."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "401",
+      "question": "Lesquels des éléments suivants sont utilisés sur certaines autoroutes pour diriger les conducteurs vers les bonnes voies de virage ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feux rouges clignotants"
+        },
+        {
+          "letter": "B",
+          "text": "Feux jaunes clignotants"
+        },
+        {
+          "letter": "C",
+          "text": "Lignes blanches sur le bord de la route"
+        },
+        {
+          "letter": "D",
+          "text": "Flèches blanches au milieu des voies"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Flèches blanches au milieu des voies",
+      "explanation": "Des flèches peuvent être utilisées pour indiquer quelles voies doivent être utilisées à des fins spécifiques, comme conduire tout droit ou faire un virage."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "342",
+      "question": "Permettez un coussin d'espace plus grand que d'habitude lors de l'arrêt :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur une pente."
+        },
+        {
+          "letter": "B",
+          "text": "À une intersection."
+        },
+        {
+          "letter": "C",
+          "text": "À un panneau d'arrêt."
+        },
+        {
+          "letter": "D",
+          "text": "À un péage."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sur une pente.",
+      "explanation": "Vous devriez permettre plus d'espace devant votre véhicule que d'habitude lorsque vous êtes arrêté sur une pente ascendante. Si le véhicule devant vous recule vers votre véhicule lorsque la circulation recommence à bouger, il est moins probable qu'il y ait une collision."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "175",
+      "question": "Il y a des véhicules venant en sens inverse à votre gauche et une rangée de véhicules garés à votre droite. Vous devriez diriger:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plus près des véhicules venant en sens inverse que des véhicules garés."
+        },
+        {
+          "letter": "B",
+          "text": "Plus près des véhicules garés que des véhicules venant en sens inverse."
+        },
+        {
+          "letter": "C",
+          "text": "Un parcours médian entre les véhicules venant en sens inverse et les véhicules garés."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Un parcours médian entre les véhicules venant en sens inverse et les véhicules garés.",
+      "explanation": "S'il y a des véhicules venant en sens inverse à votre gauche et une rangée de véhicules garés à votre droite, la meilleure chose à faire est de trouver un équilibre. Suivez un parcours médian entre les voitures venant en sens inverse et les voitures garées."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "850",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/illinois-bicycles_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faites attention aux bicyclettes."
+        },
+        {
+          "letter": "B",
+          "text": "Les bicyclettes ne sont pas autorisées."
+        },
+        {
+          "letter": "C",
+          "text": "Atelier de réparation de bicyclettes à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Faites attention aux bicyclettes.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marquages noirs. Les panneaux d'avertissement peuvent alerter les conducteurs sur les zones où les animaux, les gens et les véhicules sont susceptibles de traverser la circulation."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "2777",
+      "question": "Lorsque vous approchez un autobus scolaire qui est arrêté de l'autre côté d'une autoroute divisée, les conducteurs:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peuvent continuer à conduire."
+        },
+        {
+          "letter": "B",
+          "text": "Doivent s'arrêter jusqu'à ce que l'autobus scolaire commence à se déplacer."
+        },
+        {
+          "letter": "C",
+          "text": "Doivent s'arrêter jusqu'à ce que le bras d'arrêt soit levé."
+        },
+        {
+          "letter": "D",
+          "text": "Doivent s'arrêter et attendre que les feux clignotants s'arrêtent."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Peuvent continuer à conduire.",
+      "explanation": "Lorsque vous approchez un autobus scolaire qui est arrêté de l'autre côté d'une autoroute divisée avec ses feux clignotants et son bras d'arrêt étendu, les conducteurs peuvent continuer à conduire. Si l'autoroute n'est pas séparée par un terre-plein ou un diviseur, les conducteurs des deux côtés de la rue doivent s'arrêter."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "206",
+      "question": "Vous traversez une intersection et un véhicule d'urgence s'approche en utilisant sa sirène et ses feux clignotants. Vous devez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêtez-vous immédiatement dans l'intersection jusqu'à ce qu'il passe."
+        },
+        {
+          "letter": "B",
+          "text": "Tirez vers la droite de l'intersection et arrêtez-vous."
+        },
+        {
+          "letter": "C",
+          "text": "Continuez à travers l'intersection, tirez vers la droite et arrêtez-vous."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Continuez à travers l'intersection, tirez vers la droite et arrêtez-vous.",
+      "explanation": "Si vous êtes dans une intersection lorsque vous voyez un véhicule d'urgence s'approcher en utilisant ses feux clignotants et/ou sa sirène, continuez à travers l'intersection, puis conduisez vers la droite et arrêtez-vous. Vous devez céder le droit de passage à tout véhicule de police, camion de pompiers, ambulance ou autre véhicule d'urgence utilisant une sirène ou des feux clignotants."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1280",
+      "question": "Si vous voyez que la route devant est couverte de fumée épaisse, vous devriez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Allumez vos feux de détresse et continuez."
+        },
+        {
+          "letter": "B",
+          "text": "Réduisez votre vitesse, déplacez-vous aussi loin que possible vers la droite, et arrêtez-vous en dehors de la route."
+        },
+        {
+          "letter": "C",
+          "text": "Allumez vos phares de route et continuez."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Réduisez votre vitesse, déplacez-vous aussi loin que possible vers la droite, et arrêtez-vous en dehors de la route.",
+      "explanation": "Si vous remarquez que la route devant est couverte de fumée épaisse, réduisez votre vitesse immédiatement, conduisez aussi loin que possible vers la droite, et arrêtez-vous en dehors de la route. Ce n'est qu'alors que vous devriez déterminer s'il est sûr de continuer. N'oubliez pas que certains types de fumée peuvent irriter vos yeux et vos poumons ou même vous tuer."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "2324",
+      "question": "Les panneaux circulaires indiquent:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les zones d'interdiction de dépasser."
+        },
+        {
+          "letter": "B",
+          "text": "Les zones scolaires."
+        },
+        {
+          "letter": "C",
+          "text": "Les passages à niveau approchants."
+        },
+        {
+          "letter": "D",
+          "text": "Les hôpitaux."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les passages à niveau approchants.",
+      "explanation": "Les panneaux circulaires avertissent les conducteurs d'une zone de passage à niveau approchante. Les conducteurs doivent être extra prudents lorsqu'ils approchent d'un passage à niveau."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1081",
+      "question": "Lorsque vous stationnez votre véhicule en bas de pente sur une rue à double sens :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tournez vos roues vers la droite."
+        },
+        {
+          "letter": "B",
+          "text": "Tournez vos roues vers la gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Gardez vos roues pointées droit devant."
+        },
+        {
+          "letter": "D",
+          "text": "Laissez votre transmission au point mort."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tournez vos roues vers la droite.",
+      "explanation": "Lorsque vous vous garez sur une pente descendante, tournez vos roues fortement vers le bord de la route. De cette façon, si votre véhicule commence à descendre la pente, il s'éloignera de la circulation."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "818",
+      "question": "Céder le droit de passage à tout piéton qui est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dans un passage pour piétons marqué."
+        },
+        {
+          "letter": "B",
+          "text": "Dans n'importe quel passage pour piétons ou intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Traversant n'importe quelle rue."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Traversant n'importe quelle rue.",
+      "explanation": "Les conducteurs doivent céder le droit de passage aux piétons qui traversent la rue dans n'importe quel passage pour piétons marqué ou non marqué. Pour des raisons de sécurité, les conducteurs devraient céder le droit de passage aux personnes traversant n'importe quelle rue."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "2769",
+      "question": "Qu'indique un signal de contrôle d'utilisation de voie affichant une flèche verte au-dessus d'une voie réversible?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le signal est sur le point de changer en X rouge."
+        },
+        {
+          "letter": "B",
+          "text": "Les conducteurs ne doivent pas conduire dans cette voie."
+        },
+        {
+          "letter": "C",
+          "text": "Les conducteurs peuvent utiliser cette voie uniquement pour tourner à gauche."
+        },
+        {
+          "letter": "D",
+          "text": "Les conducteurs peuvent conduire normalement dans cette voie."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Les conducteurs peuvent conduire normalement dans cette voie.",
+      "explanation": "Les signaux de contrôle d'utilisation de voie sont utilisés lorsque la direction du flux de circulation dans une voie spécifique change tout au long de la journée. Ils sont utilisés pour indiquer quelles voies de circulation sont ouvertes et fermées, ainsi que pour indiquer si les postes de péage sont ouverts ou fermés. Lorsqu'un signal de contrôle de voie contient une flèche verte, les conducteurs peuvent conduire normalement dans la voie indiquée."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "197",
+      "question": "Vous devriez augmenter la distance entre votre véhicule et le véhicule devant vous quand vous :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suivez un petit véhicule de tourisme."
+        },
+        {
+          "letter": "B",
+          "text": "Êtes talonnés par un autre conducteur."
+        },
+        {
+          "letter": "C",
+          "text": "Conduisez plus lentement que la limite de vitesse affichée."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Êtes talonnés par un autre conducteur.",
+      "explanation": "Lorsque vous êtes talonnés, créez un espace supplémentaire devant votre véhicule et ne freinez pas soudainement. Ralentissez graduellement ou changez de voie pour éviter une collision avec le conducteur qui vous talonne."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "532",
+      "question": "La bonne façon d'utiliser une bretelle de sortie d'autoroute est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ralentissez avant d'entrer dans la bretelle de sortie."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentissez une fois que vous vous engagez sur la bretelle de sortie."
+        },
+        {
+          "letter": "C",
+          "text": "Maintenez votre vitesse constante une fois dans la bretelle de sortie."
+        },
+        {
+          "letter": "D",
+          "text": "Dépasser le trafic plus lent dans la bretelle de sortie."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ralentissez une fois que vous vous engagez sur la bretelle de sortie.",
+      "explanation": "Lorsque vous utilisez une bretelle de sortie d'autoroute, ne ralentissez pas jusqu'à ce que vous vous engagiez sur la bretelle de sortie."
+    }
+  ]
+}

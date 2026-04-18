@@ -1,0 +1,339 @@
+{
+  "state": "Rhode Island",
+  "category": "car",
+  "quizName": "Regulatory Signs",
+  "slug": "regulatory-signs",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/speed-limit.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "आप पोस्ट की गई गति से तेज नहीं जा सकते।"
+        },
+        {
+          "letter": "B",
+          "text": "आपको सभी समय में पोस्ट की गई गति पर ड्राइव करना चाहिए।"
+        },
+        {
+          "letter": "C",
+          "text": "पोस्ट की गई गति केवल एक सुझाव है।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "आप पोस्ट की गई गति से तेज नहीं जा सकते।",
+      "explanation": "एक गति सीमा संकेत आपको उस सड़क पर अनुमत अधिकतम गति बताता है। आप पोस्ट की गई गति से तेज नहीं जा सकते, और आपको खराब मौसम या भारी ट्रैफिक में धीमी गति से ड्राइव करनी चाहिए।"
+    },
+    {
+      "questionNumber": 2,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/do-not-enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "इस सड़क या रैंप में प्रवेश न करें।"
+        },
+        {
+          "letter": "B",
+          "text": "आगे सड़क निर्माण।"
+        },
+        {
+          "letter": "C",
+          "text": "रुकें और संकेत की प्रतीक्षा करें।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "इस सड़क या रैंप में प्रवेश न करें।",
+      "explanation": "यह लाल और सफेद संकेत मतलब है कि आप सड़क या रैंप में प्रवेश नहीं कर सकते। यदि आप इस संकेत को पार करते हैं तो आप गलत दिशा में जाएंगे।"
+    },
+    {
+      "questionNumber": 3,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/one-way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "इस सड़क पर ट्रैफिक केवल एक दिशा में चलता है।"
+        },
+        {
+          "letter": "B",
+          "text": "आपको दिखाई गई दिशा में मुड़ना चाहिए।"
+        },
+        {
+          "letter": "C",
+          "text": "आगे केवल एक लेन खुली है।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "इस सड़क पर ट्रैफिक केवल एक दिशा में चलता है।",
+      "explanation": "एक-तरफा संकेत का मतलब है कि उस सड़क पर सभी ट्रैफिक उस दिशा में चलता है जिस ओर तीर इशारा करता है। ट्रैफिक के प्रवाह के विपरीत न ड्राइव करें।"
+    },
+    {
+      "questionNumber": 4,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/no-u-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "यहां यू-टर्न अनुमत नहीं हैं।"
+        },
+        {
+          "letter": "B",
+          "text": "दाहिनी ओर मुड़ना अनुमत नहीं है।"
+        },
+        {
+          "letter": "C",
+          "text": "आगे सड़क मुड़ी हुई है।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "यहां यू-टर्न अनुमत नहीं हैं।",
+      "explanation": "यह संकेत मतलब है कि आप इस स्थान पर यू-टर्न नहीं कर सकते। आपको अपनी दिशा उलट करने के लिए दूसरा रास्ता ढूंढना चाहिए।"
+    },
+    {
+      "questionNumber": 5,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/no-left-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "बाईं ओर मुड़ना यहां अनुमत नहीं है।"
+        },
+        {
+          "letter": "B",
+          "text": "बाईं लेन आगे समाप्त होती है।"
+        },
+        {
+          "letter": "C",
+          "text": "कांटे पर बाईं ओर रहें।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "बाईं ओर मुड़ना यहां अनुमत नहीं है।",
+      "explanation": "यह संकेत मतलब है कि आप इस चौराहे या स्थान पर बाईं ओर नहीं मुड़ सकते। आपको सीधे चलना चाहिए या दाहिनी ओर मुड़ना चाहिए।"
+    },
+    {
+      "questionNumber": 6,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/no-left-turn-or-uturn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "यहां कोई बाईं ओर का मुड़ना और कोई यू-टर्न अनुमत नहीं है।"
+        },
+        {
+          "letter": "B",
+          "text": "यहां कोई दाहिनी ओर का मुड़ना अनुमत नहीं है।"
+        },
+        {
+          "letter": "C",
+          "text": "किसी भी दिशा में कोई मुड़ना अनुमत नहीं है।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "यहां कोई बाईं ओर का मुड़ना और कोई यू-टर्न अनुमत नहीं है।",
+      "explanation": "यह संकेत बताता है कि इस स्थान पर बाईं ओर का मुड़ना और यू-टर्न दोनों अनुमत नहीं हैं।"
+    },
+    {
+      "questionNumber": 7,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/no-parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "यहां पार्किंग अनुमत नहीं है।"
+        },
+        {
+          "letter": "B",
+          "text": "किसी भी समय रुकना अनुमत नहीं है।"
+        },
+        {
+          "letter": "C",
+          "text": "पार्किंग केवल परमिट के लिए है।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "यहां पार्किंग अनुमत नहीं है।",
+      "explanation": "यह संकेत मतलब है कि आप इस क्षेत्र में अपने वाहन को पार्क नहीं कर सकते। आप यात्रियों को लोड या अनलोड करने के लिए संक्षेप में रुक सकते हैं, लेकिन आप अपने वाहन को पार्क नहीं कर सकते।"
+    },
+    {
+      "questionNumber": 8,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "आपको इस लेन से बाईं ओर मुड़ना चाहिए।"
+        },
+        {
+          "letter": "B",
+          "text": "बाईं लेन बंद है।"
+        },
+        {
+          "letter": "C",
+          "text": "बाईं ओर मुड़ना अनुमत नहीं है।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "आपको इस लेन से बाईं ओर मुड़ना चाहिए।",
+      "explanation": "यह संकेत मतलब है कि आप जिस लेन में हैं वह केवल बाईं ओर मुड़ने के लिए है। जब आप चौराहे पर पहुंचते हैं तो आपको बाईं ओर मुड़ना चाहिए।"
+    },
+    {
+      "questionNumber": 9,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/straight-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "आपको सीधे जाना चाहिए। कोई मुड़ना अनुमत नहीं है।"
+        },
+        {
+          "letter": "B",
+          "text": "आगे एक-तरफा ट्रैफिक।"
+        },
+        {
+          "letter": "C",
+          "text": "सड़क ऊपर की ओर जाती है।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "आपको सीधे जाना चाहिए। कोई मुड़ना अनुमत नहीं है।",
+      "explanation": "यह संकेत मतलब है कि आपको चौराहे से सीधे जाना चाहिए। इस लेन से बाईं या दाहिनी ओर मुड़ना अनुमत नहीं है।"
+    },
+    {
+      "questionNumber": 10,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/straight-or-left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "आप इस लेन से सीधे जा सकते हैं या बाईं ओर मुड़ सकते हैं।"
+        },
+        {
+          "letter": "B",
+          "text": "सड़क दो लेन में विभाजित होती है।"
+        },
+        {
+          "letter": "C",
+          "text": "आगे एक बाईं ओर की मुड़ने वाली लेन शुरू होती है।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "आप इस लेन से सीधे जा सकते हैं या बाईं ओर मुड़ सकते हैं।",
+      "explanation": "यह संकेत मतलब है कि आप इस लेन से सीधे जा सकते हैं या बाईं ओर मुड़ सकते हैं। दाहिनी ओर का मुड़ना अनुमत नहीं है।"
+    },
+    {
+      "questionNumber": 11,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/red-yield-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "धीमी गति करें और अन्य ट्रैफिक को राह दें।"
+        },
+        {
+          "letter": "B",
+          "text": "पूर्ण रूप से रुकें।"
+        },
+        {
+          "letter": "C",
+          "text": "ट्रैफिक के साथ मर्ज करने के लिए गति बढ़ाएं।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "धीमी गति करें और अन्य ट्रैफिक को राह दें।",
+      "explanation": "एक yield संकेत मतलब है कि आपको धीमी गति करनी चाहिए और अन्य वाहनों या पैदल चलने वालों को पहले जाने देना चाहिए। उन्हें सुरक्षित रूप से गुजरने देने के लिए यदि आवश्यक हो तो रुकें।"
+    },
+    {
+      "questionNumber": 12,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/pedestrians-prohibited.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "इस सड़क पर पैदल चलने की अनुमति नहीं है।"
+        },
+        {
+          "letter": "B",
+          "text": "एक पैदल क्रॉसिंग आगे है।"
+        },
+        {
+          "letter": "C",
+          "text": "पैदल चलने वालों के लिए देखें।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "इस सड़क पर पैदल चलने की अनुमति नहीं है।",
+      "explanation": "यह संकेत का मतलब है कि पैदल चलने वाले इस सड़क पर नहीं चल सकते। इसे आमतौर पर राजमार्गों या सड़कों पर लगाया जाता है जहां चलना खतरनाक है।"
+    },
+    {
+      "questionNumber": 13,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "दिखाई गई दिशा में डिटूर मार्ग का पालन करें।"
+        },
+        {
+          "letter": "B",
+          "text": "एक आराम क्षेत्र इस दिशा में है।"
+        },
+        {
+          "letter": "C",
+          "text": "एक सुंदर मार्ग उपलब्ध है।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "दिखाई गई दिशा में डिटूर मार्ग का पालन करें।",
+      "explanation": "एक डिटूर साइन आपको एक वैकल्पिक मार्ग की ओर निर्देशित करता है क्योंकि सामान्य सड़क बंद है। अपने मूल मार्ग पर वापस आने के लिए तीरों का पालन करें।"
+    },
+    {
+      "questionNumber": 14,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/four-way-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "इस चौराहे पर सभी ट्रैफिक को रुकना चाहिए।"
+        },
+        {
+          "letter": "B",
+          "text": "एक चार-लेन राजमार्ग शुरू होता है।"
+        },
+        {
+          "letter": "C",
+          "text": "एक ट्रैफिक सर्कल आगे है।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "इस चौराहे पर सभी ट्रैफिक को रुकना चाहिए।",
+      "explanation": "4-way साइन स्टॉप साइन के साथ लगाया जाता है। इसका मतलब है कि हर दिशा से सभी वाहनों को चौराहे में प्रवेश करने से पहले रुकना चाहिए।"
+    },
+    {
+      "questionNumber": 15,
+      "question": "यह संकेत क्या मतलब रखता है?",
+      "image": "/images/regulatory-signs/intersection-lane-control.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "यह दर्शाता है कि प्रत्येक लेन से कौन सी मोड़ या गतिविधियां की जा सकती हैं।"
+        },
+        {
+          "letter": "B",
+          "text": "यह प्रत्येक लेन के लिए गति दिखाता है।"
+        },
+        {
+          "letter": "C",
+          "text": "यह दर्शाता है कि कौन सी लेनें आगे बंद हैं।"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "यह दर्शाता है कि प्रत्येक लेन से कौन सी मोड़ या गतिविधियां की जा सकती हैं।",
+      "explanation": "इंटरसेक्शन लेन नियंत्रण संकेत चौराहे से पहले पोस्ट किए जाते हैं ताकि ड्राइवरों को दिखाया जा सके कि प्रत्येक लेन से कौन सी मोड़ या गतिविधियां की जा सकती हैं।"
+    }
+  ]
+}

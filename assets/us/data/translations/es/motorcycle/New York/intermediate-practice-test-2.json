@@ -1,0 +1,819 @@
+{
+  "state": "New York",
+  "category": "motorcycle",
+  "quizName": "Intermediate Practice Test #2",
+  "slug": "intermediate-practice-test-2",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8256",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/pedestrian_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cruce escolar."
+        },
+        {
+          "letter": "B",
+          "text": "Cruce peatonal."
+        },
+        {
+          "letter": "C",
+          "text": "Sendero para trotar."
+        },
+        {
+          "letter": "D",
+          "text": "Acera concurrida."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Cruce peatonal.",
+      "explanation": "Esta señal indica la presencia de un cruce de peatones. Debes estar atento a las personas que entran en un paso de peatones o cruzan tu camino. Reduce la velocidad y prepárate para detenerte."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8193",
+      "question": "Esta señal te indica que:",
+      "image": "/images/signs/winding_road.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se permiten giros en esta carretera."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera se estrecha adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Hay una serie de curvas adelante."
+        },
+        {
+          "letter": "D",
+          "text": "La carretera puede ser resbaladiza cuando está mojada."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Hay una serie de curvas adelante.",
+      "explanation": "Esta señal advierte sobre una carretera sinuosa próxima con tres o más curvas."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8238",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/washington-no_turn_to_the_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin giro a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "Debe girar a la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Esté atento al tráfico en su derecha."
+        },
+        {
+          "letter": "D",
+          "text": "No estaciones en el lado derecho de la calle."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sin giro a la derecha.",
+      "explanation": "Una señal con un círculo rojo y una barra sobre un símbolo indica que la acción representada por el símbolo (en este ejemplo, un giro a la derecha) no está permitida."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8254",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está a punto de entrar en una calle de un solo sentido desde la dirección incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "Los giros en U están prohibidos."
+        },
+        {
+          "letter": "C",
+          "text": "Puede proceder si el camino está despejado."
+        },
+        {
+          "letter": "D",
+          "text": "Deténgase completamente antes de proceder."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Está a punto de entrar en una calle de un solo sentido desde la dirección incorrecta.",
+      "explanation": "Si conduce más allá de estas señales, está yendo en la dirección incorrecta y corre el riesgo de una colisión frontal. Debe girar cautelosamente."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8410",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/divided_highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tráfico en una sola dirección."
+        },
+        {
+          "letter": "B",
+          "text": "Carretera dividida adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Tráfico de dos sentidos."
+        },
+        {
+          "letter": "D",
+          "text": "Manténgase a la izquierda."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Carretera dividida adelante.",
+      "explanation": "Las señales de advertencia generalmente tienen forma de diamante con marcas negras sobre fondo amarillo. Alertan a los conductores sobre los peligros próximos. Esta señal de advertencia indica que los conductores están a punto de encontrarse con una carretera dividida."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8270",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/t_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo el tráfico debe girar a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "Sin giro a la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Todo el tráfico debe continuar recto."
+        },
+        {
+          "letter": "D",
+          "text": "Un camino se une desde la derecha."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Un camino se une desde la derecha.",
+      "explanation": "Esta señal indica que hay una intersección adelante. Una carretera se une desde la derecha."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8360",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin giro a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "Manténgase a la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Sin vuelta en U."
+        },
+        {
+          "letter": "D",
+          "text": "El carril izquierdo debe girar a la izquierda."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sin giro a la derecha.",
+      "explanation": "Las señales de regulación regulan la velocidad y el movimiento del tráfico, mostrando reglas que los conductores deben obedecer. Esta señal de regulación significa que los giros a la derecha están prohibidos."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8353",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/keep_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manténgase a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "Hombro bajo."
+        },
+        {
+          "letter": "C",
+          "text": "No estacionar en ningún momento."
+        },
+        {
+          "letter": "D",
+          "text": "Carril termina."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Manténgase a la derecha.",
+      "explanation": "Las señales de regulación regulan la velocidad y el movimiento del tráfico, mostrando reglas que los conductores deben obedecer. Esta señal de regulación indica que los conductores deben mantenerse a la derecha para evitar un posible peligro de conducción."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8273",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/speed_limit_55.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debes viajar a la velocidad indicada."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad legal máxima en la carretera es de 55 mph."
+        },
+        {
+          "letter": "C",
+          "text": "Debes viajar a través de la intersección a la velocidad publicada."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los anteriores."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La velocidad legal máxima en la carretera es de 55 mph.",
+      "explanation": "Esta es una señal de límite de velocidad. Indica la velocidad legal máxima a la que puedes conducir en la carretera donde se publica. En momentos de lluvia, nieve, hielo u otras condiciones menos que ideales, es posible que tengas que conducir más lentamente que el límite publicado."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8260",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/deer_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Área de caza."
+        },
+        {
+          "letter": "B",
+          "text": "Parque estatal."
+        },
+        {
+          "letter": "C",
+          "text": "Cruce de ciervos."
+        },
+        {
+          "letter": "D",
+          "text": "Reserva de vida silvestre."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Cruce de ciervos.",
+      "explanation": "Esta señal advierte que los ciervos cruzan la carretera en el área. Debe reducir la velocidad, estar alerta y estar listo para detenerse."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8211",
+      "question": "Desde el carril central, ¿qué maniobra(s) puede realizar?",
+      "image": "/images/signs/pennsylvania-center_turn_lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede girar a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "Puede hacer giros en U."
+        },
+        {
+          "letter": "C",
+          "text": "Puede adelantar el tráfico lento."
+        },
+        {
+          "letter": "D",
+          "text": "Todo lo anterior."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Puede girar a la izquierda.",
+      "explanation": "Esta señal indica dónde un carril está reservado para el uso exclusivo de vehículos que giran a la izquierda desde cualquier dirección. Tal carril no puede ser utilizado para adelantar o para tráfico de paso."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8187",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alto."
+        },
+        {
+          "letter": "B",
+          "text": "Sin vuelta en U."
+        },
+        {
+          "letter": "C",
+          "text": "Ceder el paso."
+        },
+        {
+          "letter": "D",
+          "text": "No entrar."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "No entrar.",
+      "explanation": "Esta señal se coloca al comienzo de calles y rampas de una sola dirección para indicar que no debes continuar conduciendo en tu dirección actual."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8430",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/school.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debes conducir lentamente y sonar tu bocina."
+        },
+        {
+          "letter": "B",
+          "text": "Una parada de autobús está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Estás entrando en el estacionamiento de una escuela."
+        },
+        {
+          "letter": "D",
+          "text": "Una zona escolar está adelante."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Una zona escolar está adelante.",
+      "explanation": "Las señales de advertencia se utilizan para advertir a los conductores sobre condiciones peligrosas próximas y generalmente son de color amarillo con marcas negras. Esta señal indica a los conductores que se acercan a una zona escolar y que deben reducir la velocidad y estar atentos a los niños."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8277",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intersección adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente pronunciada adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Camino sinuoso."
+        },
+        {
+          "letter": "D",
+          "text": "Tráfico que se fusiona."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pendiente pronunciada adelante.",
+      "explanation": "Esta señal indica que hay una pendiente empinada hacia abajo adelante."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8192",
+      "question": "Este letrero se utiliza para advertir a los conductores sobre:",
+      "image": "/images/signs/curve_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intersecciones próximas."
+        },
+        {
+          "letter": "B",
+          "text": "Construcción en la carretera."
+        },
+        {
+          "letter": "C",
+          "text": "Una próxima curva en la carretera."
+        },
+        {
+          "letter": "D",
+          "text": "Cambios en los carriles de tráfico."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Una próxima curva en la carretera.",
+      "explanation": "Esta señal indica que la carretera adelante se curva hacia la derecha."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8408",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tráfico pesado adelante."
+        },
+        {
+          "letter": "B",
+          "text": "No entrar."
+        },
+        {
+          "letter": "C",
+          "text": "Cruce de ferrocarril."
+        },
+        {
+          "letter": "D",
+          "text": "Ceder el paso."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "No entrar.",
+      "explanation": "Esta señal significa que no es seguro que los conductores entren en la carretera o entrada indicada desde su dirección actual. Si encuentra una de estas señales, debe dar la vuelta inmediatamente y conducir por otro camino."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8264",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/left_turn_yield_on_green.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está a punto de entrar en una calle de sentido único en la dirección incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "Cruce escolar adelante."
+        },
+        {
+          "letter": "C",
+          "text": "No conduzca en este carril."
+        },
+        {
+          "letter": "D",
+          "text": "El tráfico que gira a la izquierda con la luz verde debe ceder el paso al tráfico que se aproxima."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "El tráfico que gira a la izquierda con la luz verde debe ceder el paso al tráfico que se aproxima.",
+      "explanation": "Esta señal se usa con un semáforo para indicarles a los conductores que el tráfico que gira a la izquierda no tiene derecho de paso y debe esperar a que el tráfico que viene de frente se despeje."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8226",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/no_left_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo el tráfico debe girar a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "Sin giro a la izquierda."
+        },
+        {
+          "letter": "C",
+          "text": "Sin vuelta en U."
+        },
+        {
+          "letter": "D",
+          "text": "Ruta para camiones a la izquierda."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sin giro a la izquierda.",
+      "explanation": "Esta señal indica que los giros a la izquierda están prohibidos."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8432",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/montana-narrow_bridge_2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los camiones están permitidos en un próximo puente estrecho."
+        },
+        {
+          "letter": "B",
+          "text": "El puente adelante está abierto a tráfico de una sola dirección."
+        },
+        {
+          "letter": "C",
+          "text": "El puente adelante es lo suficientemente ancho para solo un automóvil a la vez."
+        },
+        {
+          "letter": "D",
+          "text": "El puente adelante puede ser demasiado estrecho para encontrarse o adelantar a un camión."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "El puente adelante puede ser demasiado estrecho para encontrarse o adelantar a un camión.",
+      "explanation": "Las señales de advertencia se utilizan para advertir a los conductores sobre próximas condiciones peligrosas y generalmente son amarillas con marcas negras. Esta señal advierte a los conductores que un próximo puente puede ser demasiado estrecho para encontrarse o adelantar a un camión y que deben tener cuidado."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8185",
+      "question": "Cuando vea esta señal, debe:",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deténgase completamente y verifique peatones y tráfico cruzado."
+        },
+        {
+          "letter": "B",
+          "text": "Reduzca la velocidad sin llegar a una parada completa."
+        },
+        {
+          "letter": "C",
+          "text": "Deténgase completamente y espere una luz verde."
+        },
+        {
+          "letter": "D",
+          "text": "Reduzca la velocidad y verifique el tráfico."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Deténgase completamente y verifique peatones y tráfico cruzado.",
+      "explanation": "Cualquier señal de ocho lados es una señal de alto. En una intersección con una señal de alto, debe detenerse completamente y verificar peatones y tráfico cruzado en la intersección. Espere a que la intersección se despeje antes de continuar."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8257",
+      "question": "Esta señal de carretera indica:",
+      "image": "/images/signs/florida-exit_speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La velocidad máxima segura para una zona residencial."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad máxima segura para una salida de autopista."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad máxima segura para una entrada de autopista."
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad máxima segura para una zona de trabajo."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La velocidad máxima segura para una salida de autopista.",
+      "explanation": "Esta señal de velocidad recomendada indica la velocidad máxima segura para una salida de carretera (en este ejemplo, 30 mph)."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8404",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/crossroad.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta tu velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Cruce de ferrocarril adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Intersección adelante."
+        },
+        {
+          "letter": "D",
+          "text": "Parada de cuatro sentidos adelante."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Intersección adelante.",
+      "explanation": "Esta señal significa que se aproxima a una intersección próxima. Observa cuidadosamente el tráfico cruzado."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8261",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/sharp_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carretera de un solo sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Sin giro a la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Salida."
+        },
+        {
+          "letter": "D",
+          "text": "Giro cerrado a la derecha en la carretera adelante."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Giro cerrado a la derecha en la carretera adelante.",
+      "explanation": "Esta señal indica que hay un giro cerrado a la derecha adelante."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "5079",
+      "question": "Cuando viajas en grupo, ¿qué significa cuando el conductor principal levanta el brazo izquierdo y extiende el dedo índice, como se muestra en la imagen?",
+      "image": "/images/signs/vt-3.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumente la velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Reducir la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "Conduce en una formación de fila única."
+        },
+        {
+          "letter": "D",
+          "text": "El grupo se saldrá en la próxima salida."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Conduce en una formación de fila única.",
+      "explanation": "Las señales con las manos son una parte importante de la comunicación cuando se viaja en grupos. Un conductor principal levantando el brazo izquierdo y extendiendo el dedo índice significa que el grupo de conductores debe moverse en una formación de fila única."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8371",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/indiana-traffic_signal.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Semáforo."
+        },
+        {
+          "letter": "B",
+          "text": "Estación de bomberos."
+        },
+        {
+          "letter": "C",
+          "text": "Intersección T."
+        },
+        {
+          "letter": "D",
+          "text": "Señal de giro a la izquierda."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Semáforo.",
+      "explanation": "Las señales de advertencia preparan a los conductores para las próximas condiciones de la carretera y peligros, y generalmente son amarillas con marcas negras. Esta señal alerta a los conductores sobre un próximo semáforo. Deben estar preparados para responder a una luz amarilla, luz roja, y/o tráfico cruzado."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "8235",
+      "question": "Esta señal es una:",
+      "image": "/images/signs/washington-warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señal de servicio."
+        },
+        {
+          "letter": "B",
+          "text": "Letrero regulador."
+        },
+        {
+          "letter": "C",
+          "text": "Señal de advertencia."
+        },
+        {
+          "letter": "D",
+          "text": "Señal de parada."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Señal de advertencia.",
+      "explanation": "Las señales de advertencia generalmente tienen forma de diamante, son amarillas con letras o símbolos negros. Advierten a los conductores sobre situaciones especiales o posibles peligros adelante."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "8413",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resbaladizo cuando está mojado."
+        },
+        {
+          "letter": "B",
+          "text": "Esté atento a conductores ebrios."
+        },
+        {
+          "letter": "C",
+          "text": "Curva peligrosa adelante."
+        },
+        {
+          "letter": "D",
+          "text": "Bache en la carretera adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Resbaladizo cuando está mojado.",
+      "explanation": "Las señales de advertencia generalmente tienen forma de diamante con marcas negras sobre un fondo amarillo. Alertan a los conductores sobre los peligros próximos. Esta señal advierte a los conductores que tengan mucho cuidado cuando el pavimento está mojado porque la carretera puede volverse resbaladiza, lo que hace que los vehículos sean más difíciles de controlar."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "8207",
+      "question": "Esta señal significa que:",
+      "image": "/images/signs/pennsylvania-workers_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo de servicio comunitario está recogiendo basura a lo largo de la carretera adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Los trabajadores están en o muy cerca de la carretera en la zona de trabajo adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Hay niños jugando adelante."
+        },
+        {
+          "letter": "D",
+          "text": "Hay un cruce peatonal adelante."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Los trabajadores están en o muy cerca de la carretera en la zona de trabajo adelante.",
+      "explanation": "Esta señal indica que los trabajadores pueden estar en o muy cerca de la carretera adelante, por lo que debe tener especial cuidado al viajar por el área."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "8372",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/two_way_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tráfico de dos sentidos."
+        },
+        {
+          "letter": "B",
+          "text": "Cambio de carril."
+        },
+        {
+          "letter": "C",
+          "text": "Poco espacio libre."
+        },
+        {
+          "letter": "D",
+          "text": "Carril agregado."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tráfico de dos sentidos.",
+      "explanation": "Las señales de advertencia preparan a los conductores para condiciones de carretera y peligros futuros y generalmente son amarillas con marcas negras. Esta señal le advierte a los conductores que pueden encontrar tráfico que viene en dirección opuesta."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "8230",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin giro a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "No estacionarse."
+        },
+        {
+          "letter": "C",
+          "text": "Sin vuelta en U."
+        },
+        {
+          "letter": "D",
+          "text": "Desvío adelante."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sin vuelta en U.",
+      "explanation": "Este letrero indica que los giros en U están prohibidos."
+    }
+  ]
+}

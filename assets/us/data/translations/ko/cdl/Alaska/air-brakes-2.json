@@ -1,0 +1,560 @@
+{
+  "state": "Alaska",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/alaska/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11889",
+      "question": "에어 브레이크가 장착된 단일 차량의 누출률은 정적 누출 테스트 중 1분 동안 ____을(를) 초과하면 안 됩니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 psi"
+        },
+        {
+          "letter": "B",
+          "text": "2 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2 psi",
+      "explanation": "에어 브레이크가 장착된 단일 차량에서 정적 누출 테스트를 수행할 때, 누출률은 1분 동안 2 psi를 초과하면 안 됩니다. 에어 브레이크 시스템에서 더 빠른 속도로 공기가 누출되면 무언가 수리가 필요할 가능성이 높으므로 차량을 운전해서는 안 됩니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8755",
+      "question": "에어 컴프레서 거버너는 다음을 제어합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점"
+        },
+        {
+          "letter": "B",
+          "text": "에어가 에어 저장 탱크에 펌프질되는 속도"
+        },
+        {
+          "letter": "C",
+          "text": "에어 저장 탱크에 펌프질되는 에어의 온도"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점",
+      "explanation": "에어 브레이크 시스템에서 에어 컴프레서 거버너는 에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점을 제어합니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8759",
+      "question": "응용 압력 게이지는 다음을 나타냅니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크에 가해지는 공기 압력의 양."
+        },
+        {
+          "letter": "B",
+          "text": "이용 가능한 공기 압력의 양."
+        },
+        {
+          "letter": "C",
+          "text": "차량을 정지시키기 위해 필요한 공기 압력의 양."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "브레이크에 가해지는 공기 압력의 양.",
+      "explanation": "차량에 장착된 경우, 응용 압력 게이지는 브레이크에 가해지는 공기 압력의 양을 표시합니다. 이 게이지는 운전자가 브레이크가 페이드되기 시작하는지 확인하는 데 도움이 될 수 있습니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9463",
+      "question": "공기 탱크를 배수하지 못하면 다음과 같은 결과가 발생할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "물이 축적되어 얼어붙어 제동 고장을 일으킵니다."
+        },
+        {
+          "letter": "B",
+          "text": "말랑말랑한 제동."
+        },
+        {
+          "letter": "C",
+          "text": "탱크에 모이는 공기가 너무 많음."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "물이 축적되어 얼어붙어 제동 고장을 일으킵니다.",
+      "explanation": "공기 제동 시스템에서 공기 탱크는 물과 압축기 오일의 축적을 제거하기 위해 주기적으로 배수되어야 합니다. 물을 제거하지 않으면 추운 날씨에 얼어붙어 제동 고장을 일으킬 수 있습니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11897",
+      "question": "추운 날씨를 경험할 때 차량의 알코올 증발기를 확인해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3시간마다."
+        },
+        {
+          "letter": "B",
+          "text": "매일."
+        },
+        {
+          "letter": "C",
+          "text": "격주마다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "매일.",
+      "explanation": "알코올 기화기는 공기 제동 시스템에 얼음이 쌓이는 것을 방지하는 데 도움이 될 수 있습니다. 추운 날씨에 기화기를 매일 확인하고 다시 채워야 합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11195",
+      "question": "기초 브레이크는 다음과 같이 사용됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량의 앞 휠에만."
+        },
+        {
+          "letter": "B",
+          "text": "차량의 뒷 휠에만."
+        },
+        {
+          "letter": "C",
+          "text": "차량의 각 휠에."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "차량의 각 휠에.",
+      "explanation": "기초 브레이크는 CMV의 각 휠에 사용됩니다. 가장 일반적인 유형의 기초 브레이크는 s-cam 드럼 브레이크입니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11197",
+      "question": "잠금 방지 제동 시스템(ABS) 사용:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일부 주에서 필수입니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크 반응 시간을 단축합니다."
+        },
+        {
+          "letter": "C",
+          "text": "추가 제어를 제공합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "추가 제어를 제공합니다.",
+      "explanation": "잠금 방지 제동 시스템(ABS)은 급제동 시 추가 제어를 제공하는 데 도움이 되지만 반드시 차량의 정지 거리를 단축하지는 않습니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11532",
+      "question": "슬랙 어저스터는 푸시 로드가 부착된 위치에서 ____ 이상 움직이지 않아야 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2인치"
+        },
+        {
+          "letter": "B",
+          "text": "5인치"
+        },
+        {
+          "letter": "C",
+          "text": "1인치"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "1인치",
+      "explanation": "여행 전에, 주차한 후, 휠 쐐기를 설정한 후, 주차 브레이크를 해제한 후 각 슬랙 어저스터를 확인해야 합니다. 슬랙 어저스터를 당겨서 푸시 로드가 부착된 위치에서 약 1인치 이상 움직이지 않는지 확인하십시오. 1인치 이상 움직이면 조정이 필요할 수 있으며 수리가 필요합니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8627",
+      "question": "에어 브레이크 시스템에서 공기 압력이 너무 낮아지면 어떤 일이 발생할 수 있습니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크가 삑삑거릴 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크가 작동하지 않을 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크가 느릴 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "브레이크가 작동하지 않을 수 있습니다.",
+      "explanation": "불필요하게 브레이크 페달을 누르고 놓으면 컴프레서가 교체할 수 있는 것보다 빠르게 제동 시스템에서 공기가 빠져나올 수 있습니다. 압력이 너무 낮아지면 에어 브레이크가 효과적으로 작동하지 않을 수 있습니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8641",
+      "question": "브레이크는 빠르게 조정에서 벗어날 수 있으며, 특히:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "뜨거울 때."
+        },
+        {
+          "letter": "B",
+          "text": "겨울에."
+        },
+        {
+          "letter": "C",
+          "text": "자주 사용될 때."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "뜨거울 때.",
+      "explanation": "브레이크가 뜨거우면 조정에서 벗어나기 쉽습니다. 브레이크의 조정을 정기적으로 확인하십시오. 차량을 안전하게 제어하려면 모든 브레이크가 제대로 작동하고 조정되어야 합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10079",
+      "question": "에어 탱크 드레인은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "정비사만 사용해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "외부가 젖어 있을 때만 사용해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "탱크를 완전히 배수하는 데 사용해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "탱크를 완전히 배수하는 데 사용해야 합니다.",
+      "explanation": "에어 브레이크 시스템에서 에어 탱크 드레인은 에어 탱크에서 물과 컴프레서 오일을 제거하는 데 사용됩니다. 드레인을 작동할 때는 탱크를 완전히 배수하십시오."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11322",
+      "question": "공기 브레이크 시스템의 안전 구제 밸브가 공기를 방출하면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "압축기가 더 많은 공기가 필요합니다."
+        },
+        {
+          "letter": "B",
+          "text": "공기 압력이 너무 높아졌습니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크가 완전히 작동합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "공기 압력이 너무 높아졌습니다.",
+      "explanation": "공기 브레이크 시스템에는 압력이 너무 높아지면 탱크에서 공기를 방출하는 안전 구제 밸브가 있습니다. 밸브가 작동해야 하면 시스템에 문제가 있으며 정비사가 해결해야 합니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8638",
+      "question": "공기 브레이크 시스템 탱크의 공기 압력이 55 psi 아래로 떨어지기 전에 무엇이 발생해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "경고등이 활성화되어야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량이 기어를 벗어날 수 없게 됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "전조등이 깜박여야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "경고등이 활성화되어야 합니다.",
+      "explanation": "낮은 공기 압력 경고 신호는 공기 탱크의 공기 공급 압력이 55 psi 아래로 떨어지기 전에 활성화되어야 합니다. 검사 중에 테스트할 때 경고 신호가 켜지지 않으면 차량은 운전하기에 안전하지 않습니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11903",
+      "question": "공기 탱크가 125 psi의 공기 압력 수준에 도달하면 공기 컴프레서 조절기는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "컴프레서가 공기를 펌프질하는 것을 중지합니다."
+        },
+        {
+          "letter": "B",
+          "text": "탱크에서 공기를 방출합니다."
+        },
+        {
+          "letter": "C",
+          "text": "탱크에 공기를 펌프질하기 시작합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "컴프레서가 공기를 펌프질하는 것을 중지합니다.",
+      "explanation": "공기 탱크가 약 125 psi의 공기 압력 수준에 도달하면 공기 컴프레서 조절기는 컴프레서가 공기를 펌프질하는 것을 중지합니다. 이 공기 압력 수준을 \"컷아웃\" 수준이라고 합니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11323",
+      "question": "잠금 방지 브레이크가 작동하지 않음을 나타내는 조명은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "회색."
+        },
+        {
+          "letter": "B",
+          "text": "파란색."
+        },
+        {
+          "letter": "C",
+          "text": "노란색."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "노란색.",
+      "explanation": "잠금 방지 제동 시스템(ABS)이 장착된 차량에는 제동 시스템의 문제를 나타내는 노란색 오작동 표시등이 있습니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11321",
+      "question": "공기 브레이크 시스템의 안전 구제 밸브가 공기를 방출하면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "압축기가 더 많은 공기가 필요합니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크에 문제가 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "계속 운전할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "브레이크에 문제가 있습니다.",
+      "explanation": "공기 브레이크 시스템에는 압력이 너무 높아지면 탱크에서 공기를 방출하는 안전 구제 밸브가 있습니다. 밸브가 작동해야 하면 시스템에 문제가 있으며 정비사가 해결해야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10029",
+      "question": "ABS가 장착된 차량의 고장 표시등은 무슨 색입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "녹색"
+        },
+        {
+          "letter": "B",
+          "text": "노란색"
+        },
+        {
+          "letter": "C",
+          "text": "파란색"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "노란색",
+      "explanation": "Anti-Lock Braking System (ABS) 고장 표시등은 일반적으로 노란색입니다. ABS가 제대로 작동하지 않더라도 운전자는 여전히 차량의 일반적인 브레이킹 기능에 접근할 수 있습니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9892",
+      "question": "대부분의 최신 대형 트럭은 어떤 종류의 제동 장치를 사용합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "단일 공기 제동"
+        },
+        {
+          "letter": "B",
+          "text": "이중 공기 제동"
+        },
+        {
+          "letter": "C",
+          "text": "삼중 공기 제동"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "이중 공기 제동",
+      "explanation": "대부분의 최신 대형 차량은 이중 공기 제동 시스템을 사용합니다. 이중 공기 제동 시스템은 단일 세트의 제동 제어 장치를 사용하는 두 개의 별도 공기 제동 시스템을 가지고 있습니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8764",
+      "question": "스프링 브레이크가 켜져 있을 때 절대 다음을 해서는 안 됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "조명을 켭니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량을 끕니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크 페달을 밟으십시오."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "브레이크 페달을 밟으십시오.",
+      "explanation": "스프링 브레이크가 활성화된 동안 브레이크 페달을 누르지 마십시오. 스프링과 공기 압력의 결합된 힘이 브레이크를 손상시킬 수 있습니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9891",
+      "question": "에어 저장 탱크:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량에 허용되지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크용 압축 공기를 보유합니다."
+        },
+        {
+          "letter": "C",
+          "text": "매 여행 후에 과도한 공기를 빼야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "브레이크용 압축 공기를 보유합니다.",
+      "explanation": "에어 브레이크 시스템에서 에어 저장 탱크는 브레이크에 사용될 압축 공기를 보유합니다. 에어 탱크의 개수와 크기는 차량에 따라 다릅니다."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11906",
+      "question": "시속 55 mph로 이동 중 건조한 포장도로에서 브레이킹할 때, 브레이크 래그가 전체 정지 거리에 얼마나 많은 거리를 추가할까요?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "45 feet"
+        },
+        {
+          "letter": "C",
+          "text": "20 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "공기 브레이크가 장착된 차량의 총 정지 거리는 네 가지 요소로 구성됩니다: 지각 거리, 반응 거리, 브레이크 래그 거리, 및 제동 거리. 건조한 포장도로에서 시속 55 mph로 브레이킹할 때, 브레이크 래그는 차량의 총 정지 거리에 약 32 feet를 추가할 수 있습니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8629",
+      "question": "긴급 브레이크는 어떤 종류의 힘을 사용합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 압력"
+        },
+        {
+          "letter": "B",
+          "text": "기계적"
+        },
+        {
+          "letter": "C",
+          "text": "강력한"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "기계적",
+      "explanation": "에어 브레이크는 실제로 세 가지 다른 제동 시스템입니다: 주행 브레이크, 주차 브레이크, 긴급 브레이크. 긴급 브레이크와 주차 브레이크는 기계적 힘으로 작동합니다."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11878",
+      "question": "운전자는 전륜 제동이 작동하는 것에 의존할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "건조한 도로에서만."
+        },
+        {
+          "letter": "B",
+          "text": "모든 상황에서."
+        },
+        {
+          "letter": "C",
+          "text": "눈을 제외한 모든 상황에서."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "모든 상황에서.",
+      "explanation": "전륜 제동은 모든 도로 상태에서 효과적입니다. 얼음 위에서도 전륜 스키드를 경험할 가능성은 낮습니다."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9297",
+      "question": "차량의 ABS가 작동하지 않음을 나타내는 불빛은 무슨 색입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "녹색"
+        },
+        {
+          "letter": "B",
+          "text": "파란색"
+        },
+        {
+          "letter": "C",
+          "text": "노란색"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "노란색",
+      "explanation": "ABS(Anti-Lock Braking Systems)가 있는 차량에서는 노란색 고장 표시등이 ABS 고장을 운전자에게 알립니다."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8635",
+      "question": "이중 공기 브레이크 시스템이 있는 차량을 운전할 때 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "연료가 엔진에 도달하도록 하기 위해 운전 전에 차량을 데웁니다."
+        },
+        {
+          "letter": "B",
+          "text": "운전하기 전에 공기 압축기가 1차 및 2차 시스템 모두에서 최소 100 psi 압력을 구축하도록 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "차량이 시작된 직후 운전을 시작합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "운전하기 전에 공기 압축기가 1차 및 2차 시스템 모두에서 최소 100 psi 압력을 구축하도록 합니다.",
+      "explanation": "이중 공기 브레이크 시스템이 있는 차량을 운전하기 전에 공기 압축기가 1차 및 2차 시스템 모두에서 최소 100 psi 압력을 구축할 때까지 시간을 허용하십시오. 공기 압력 게이지를 관찰하여 압력 수준을 모니터링하십시오."
+    }
+  ]
+}

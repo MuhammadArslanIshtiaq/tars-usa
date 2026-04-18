@@ -1,0 +1,790 @@
+{
+  "state": "Kansas",
+  "category": "cdl",
+  "testName": "HazMat Test #2 30 Questions • Passing Score 24",
+  "testSlug": "hazmat-2",
+  "url": "/images/kansas/cdl/hazmat-2.html",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8948",
+      "question": "폭발물은 가장 가능성이 높은 ____ 위험으로 분류됩니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1급"
+        },
+        {
+          "letter": "B",
+          "text": "3급"
+        },
+        {
+          "letter": "C",
+          "text": "6급"
+        },
+        {
+          "letter": "D",
+          "text": "7급"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "1급",
+      "explanation": "클래스 1 위험물은 일반적으로 특정 폭발 또는 화재 위험을 초래하는 항목입니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8970",
+      "question": "운송업체가 제공하는 긴급 대응 정보는 다음을 포함해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "화재 또는 폭발의 위험."
+        },
+        {
+          "letter": "B",
+          "text": "물질의 가치."
+        },
+        {
+          "letter": "C",
+          "text": "운전자 정보."
+        },
+        {
+          "letter": "D",
+          "text": "사고 발생 시 대응해야 할 인원 수."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "화재 또는 폭발의 위험.",
+      "explanation": "최소한 긴급 대응 정보는 운송되는 물질의 기본 설명 및 기술적 명칭, 건강에 대한 즉각적인 위험, 화재 또는 폭발의 위험, 사고 또는 사건 발생 시 취해야 할 즉각적인 예방 조치, 화재 처리를 위한 즉각적인 방법, 화재가 없는 상황에서 유출 또는 누출 처리를 위한 초기 방법, 그리고 응급 처치의 예비 조치를 포함해야 합니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9023",
+      "question": "차량 점검 중에 다음을 확인하십시오:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "비상 탈출구를 열기가 어렵습니다."
+        },
+        {
+          "letter": "B",
+          "text": "비상 탈출 경고 장치가 제대로 작동합니다."
+        },
+        {
+          "letter": "C",
+          "text": "비상구에서 삐걱거리는 소리가 난다."
+        },
+        {
+          "letter": "D",
+          "text": "비상구는 운전석 내부에서 접근할 수 없다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "비상 탈출 경고 장치가 제대로 작동합니다.",
+      "explanation": "차량 점검 테스트 중에 비상 탈출 경고 장치가 작동하는지 확인해야 합니다. 모든 비상 탈출구는 부드럽게 작동하고, 손상되지 않으며, 내부에서 안전하게 닫혀야 합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11436",
+      "question": "Division 1.1 물질을 운송할 때 바닥 라이너는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "금속 물질로 만들어져야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "철 합금으로 만들어져야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "비철금속 재료로 만들어져야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "느슨해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "비철금속 재료로 만들어져야 합니다.",
+      "explanation": "Division 1.1, 1.2 또는 1.3 물질을 운송할 때 바닥 라이닝을 사용하세요. 바닥은 단단해야 하며 라이너는 비금속 물질 또는 비철금속으로 만들어야 합니다. 비철금속은 철이나 철 합금을 포함하지 않는 금속입니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9150",
+      "question": "누가 차량에 표지판을 설치할 책임이 있습니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "배송자"
+        },
+        {
+          "letter": "B",
+          "text": "운송업체"
+        },
+        {
+          "letter": "C",
+          "text": "운전자"
+        },
+        {
+          "letter": "D",
+          "text": "정비사"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "운전자",
+      "explanation": "위험물 배송자는 필요한 표지판 제공에 책임이 있지만, 차량에 실제로 설치하는 것은 운전자의 책임입니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9401",
+      "question": "일반적으로 인화성 액체로 탱크를 적재할 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "엔진이 작동 중이어야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "충전 구멍을 열기 전에 접지를 설정해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "충전 구멍을 열기 바로 전에 접지를 끊어야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "적재 중에 충전 구멍을 잠금."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "충전 구멍을 열기 전에 접지를 설정해야 합니다.",
+      "explanation": "인화성 액체로 탱크를 적재하거나 하역하기 전에, 펌프를 작동하기 위해 엔진을 구동해야 하는 경우를 제외하고는 엔진을 꺼야 합니다. 충전 구멍을 열기 전에 탱크를 접지하고 충전 구멍을 닫은 후까지 접지를 유지하세요."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9402",
+      "question": "Class 1 폭발물을 운송하는 차량이 충돌에 관여한 경우 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 사람들에게 위험을 경고하지 않는다."
+        },
+        {
+          "letter": "B",
+          "text": "차량 근처에서 흡연을 허용한다."
+        },
+        {
+          "letter": "C",
+          "text": "충돌에 관여한 차량을 분리한 후까지 폭발물을 차량 내부에 보관한다."
+        },
+        {
+          "letter": "D",
+          "text": "충돌에 관여한 차량을 분리하기 전에 차량에서 폭발물을 제거한다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "충돌에 관여한 차량을 분리하기 전에 차량에서 폭발물을 제거한다.",
+      "explanation": "Class 1 폭발물을 운송하는 차량을 운전 중 사고가 발생하면 다른 사람들에게 위험을 경고하고 주변 사람들을 멀리하며 차량 근처에서 흡연이나 불을 허용하지 않아야 한다. 충돌에 관여한 차량을 분리하기 전에 모든 폭발물을 제거하고 차량 및 점유된 건물에서 최소 200피트 떨어진 곳에 배치하십시오."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8925",
+      "question": "탱크 적재 또는 하역을 감시하는 사람은 다음을 모두 해야 합니다. 다음을 제외하고:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주의 깊게 있음."
+        },
+        {
+          "letter": "B",
+          "text": "탱크에서 25피트 이내에 있음."
+        },
+        {
+          "letter": "C",
+          "text": "화학 보호복을 입음."
+        },
+        {
+          "letter": "D",
+          "text": "관련 물질의 위험을 알고 있음."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "화학 보호복을 입음.",
+      "explanation": "위험 물질 화물 탱크의 적재 또는 하역을 담당하는 사람은 자격을 갖춘 사람이 항상 프로세스를 감독하도록 해야 합니다. 감독자는 주의 깊게; 탱크를 명확히 볼 수 있어야 하고; 탱크에서 25피트 이내에 있어야 하고; 관련 물질의 위험을 알고 있어야 하고; 긴급 상황에 대처하는 절차를 알고 있어야 하고; 탱크를 이동할 수 있는 권한이 있고 능력이 있어야 합니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11432",
+      "question": "출발 전 점검을 수행할 때 다음을 확인해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "페달 표면이 매끄럽게 처리되었습니다."
+        },
+        {
+          "letter": "B",
+          "text": "가속 페달이 고착됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "아무것도 페달을 방해하지 않습니다."
+        },
+        {
+          "letter": "D",
+          "text": "브레이크 페달 아래에 무언가가 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "아무것도 페달을 방해하지 않습니다.",
+      "explanation": "운행 전 점검 중 차량의 페달을 확인할 때, 페달의 사용을 방해할 페달 아래나 주위에 아무것도 없는지 확인해야 합니다. 페달이 올바른 작동 상태에 있고 해당하는 경우 페달의 표면이 홈이 있는지 확인하세요."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8915",
+      "question": "위험 물질 등급은 몇 가지입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4초"
+        },
+        {
+          "letter": "B",
+          "text": "6"
+        },
+        {
+          "letter": "C",
+          "text": "9"
+        },
+        {
+          "letter": "D",
+          "text": "두 잔"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "9",
+      "explanation": "위험 물질에는 9가지 다른 등급이 있습니다. 등급은 물질 유형과 관련된 위험을 반영합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10642",
+      "question": "염소를 운송할 경우 차량에 다음이 있어야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "방독면"
+        },
+        {
+          "letter": "B",
+          "text": "고글"
+        },
+        {
+          "letter": "C",
+          "text": "도끼"
+        },
+        {
+          "letter": "D",
+          "text": "휴대전화"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "방독면",
+      "explanation": "화물 탱크에서 염소를 운송하는 운전자는 차량에 승인된 가스 마스크와 화물 탱크의 돔 커버 플레이트 피팅의 누출을 제어하기 위한 긴급 키트가 있어야 합니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10974",
+      "question": "독성 물질로 분류된 많은 제품들은 또한:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "방사능입니다."
+        },
+        {
+          "letter": "B",
+          "text": "가연성입니다."
+        },
+        {
+          "letter": "C",
+          "text": "무겁습니다."
+        },
+        {
+          "letter": "D",
+          "text": "단맛이 납니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "가연성입니다.",
+      "explanation": "독성 물질로 분류된 많은 제품들은 또한 가연성입니다. 귀하의 화물이 가연성일 수 있다고 생각되면 적절한 예방 조치를 취하십시오."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8960",
+      "question": "화물 운송자가 위험 물질을 포장할 때, 그들은 패키지가 다음을 충족함을 인증합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "위험 물질을 포함하지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "규칙에 따라 준비되었습니다."
+        },
+        {
+          "letter": "C",
+          "text": "특정 위치에서 포장되었습니다."
+        },
+        {
+          "letter": "D",
+          "text": "트레일러에 먼저 배치됩니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "규칙에 따라 준비되었습니다.",
+      "explanation": "화물 운송자가 위험 물질을 포장할 때, 그들은 패키지가 해당 규칙에 따라 준비되었음을 인증하고 있습니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8953",
+      "question": "운전자가 차량에 탑승하지 않을 때, 위험물 배송 서류는 다음과 같이 보관되어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전자 소유물로 보관"
+        },
+        {
+          "letter": "B",
+          "text": "운전자 좌석에 보관"
+        },
+        {
+          "letter": "C",
+          "text": "승객 좌석 아래에 보관"
+        },
+        {
+          "letter": "D",
+          "text": "대시보드에 배치"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "운전자 좌석에 보관",
+      "explanation": "위험물에 대한 배송 서류는 항상 쉽게 접근할 수 있어야 합니다. 운전자가 차량에 탑승하지 않을 때, 위험물 배송 서류는 운전자 좌석에 보관되어야 합니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10123",
+      "question": "인화성 액체가 적재되거나 하역되기 전에 엔진은 다음과 같아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "꺼져 있어야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "고속 회전됨."
+        },
+        {
+          "letter": "C",
+          "text": "켜짐."
+        },
+        {
+          "letter": "D",
+          "text": "오일이 제거됨."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "꺼져 있어야 합니다.",
+      "explanation": "인화성 액체로 탱크를 적재하거나 하역하기 전에, 펌프를 작동하기 위해 엔진을 구동해야 하는 경우를 제외하고는 엔진을 꺼야 합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9400",
+      "question": "위험 물질로 탱크를 로딩하는 사람은 다음을 제외한 모든 조건을 충족해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주의 깊음."
+        },
+        {
+          "letter": "B",
+          "text": "탱크에서 10피트 이내."
+        },
+        {
+          "letter": "C",
+          "text": "물질과 관련된 위험을 인식함."
+        },
+        {
+          "letter": "D",
+          "text": "탱크를 이동할 수 있는 권한."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "탱크에서 10피트 이내.",
+      "explanation": "위험 물질 화물 탱크의 적재 또는 하역을 담당하는 사람은 자격을 갖춘 사람이 항상 프로세스를 감독하도록 해야 합니다. 감독자는 주의 깊게; 탱크를 명확히 볼 수 있어야 하고; 탱크에서 25피트 이내에 있어야 하고; 관련 물질의 위험을 알고 있어야 하고; 긴급 상황에 대처하는 절차를 알고 있어야 하고; 탱크를 이동할 수 있는 권한이 있고 능력이 있어야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11435",
+      "question": "위험 물질과 관련된 식별 번호는 다음에 나타나야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "물질의 포장에."
+        },
+        {
+          "letter": "B",
+          "text": "차량의 면허판에."
+        },
+        {
+          "letter": "C",
+          "text": "플래카드 바로 옆에."
+        },
+        {
+          "letter": "D",
+          "text": "차량의 범퍼 스티커에."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "물질의 포장에.",
+      "explanation": "물질의 ID 번호는 동봉된 운송 서류 및 포장재에 나타나야 합니다. 또한 화물 탱크 및 기타 대량 포장에도 나타나야 합니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11438",
+      "question": "엔진이 압축 가스 배송 중에 사용되는 펌프를 작동합니다. 배송 후 호스를 분리하기 ____ 엔진을 꺼야 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "전에"
+        },
+        {
+          "letter": "B",
+          "text": "후에"
+        },
+        {
+          "letter": "C",
+          "text": "동안"
+        },
+        {
+          "letter": "D",
+          "text": "전이나 후 중 하나"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "전에",
+      "explanation": "엔진이 제품 이송용 펌프를 작동하지 않으면 압축 가스 탱크를 로딩하거나 언로딩할 때 엔진을 끕니다. 엔진을 펌프 작동에 사용하는 경우 제품 이송 후 호스를 분리하기 전에 엔진을 끕니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9024",
+      "question": "차량 검사 중 럭넛이 다음의 모든 항목을 충족하는지 확인하되, 다음 항목은 제외합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "균열이 없습니다."
+        },
+        {
+          "letter": "B",
+          "text": "왜곡이 없습니다."
+        },
+        {
+          "letter": "C",
+          "text": "느슨해야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "녹이 없습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "느슨해야 합니다.",
+      "explanation": "차량 검사 테스트 중에 모든 럭넛이 있고, 균열이나 왜곡이 없으며, 녹 자국이나 반짝이는 나선처럼 느슨함의 징후를 보이지 않도록 해야 합니다. 모든 볼트 구멍이 균열이나 왜곡이 없는지 확인합니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10975",
+      "question": "귀하가 수락하는 화물에 위험 물질이 포함되어 있음을 나타낼 수 있는 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "화물이 실린더 탱크에 저장됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "화물이 슈퍼마켓에서 픽업됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "화물이 판지 상자로 포장되어 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "화물에 녹색 포장이 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "화물이 실린더 탱크에 저장됩니다.",
+      "explanation": "실린더 탱크와 드럼은 위험물을 담기 위해 자주 사용됩니다. 위험물 화물을 운송하는 경우 적절한 예방 조치를 취해야 합니다."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8976",
+      "question": "위험물 용기는 다음과 같아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "더 큰 갈색 용기에 포장됨."
+        },
+        {
+          "letter": "B",
+          "text": "운송 중 움직임을 방지하도록 고정."
+        },
+        {
+          "letter": "C",
+          "text": "판지로 제작."
+        },
+        {
+          "letter": "D",
+          "text": "최대 4 feet 높이."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "운송 중 움직임을 방지하도록 고정.",
+      "explanation": "위험 물질 용기는 운송 중에 떨어지거나, 미끄러지거나, 튀어오르지 않도록 고정되어야 합니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8916",
+      "question": "배송자는 위험 물질에 라벨을 부착해야 합니다. 항목이 라벨보다 작은 경우 항목에 라벨을 어떻게 부착해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "항목을 다른 위험 물질과 함께 묶고 번들 외부에 종이로 라벨을 부착할 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "라벨을 패키지에 안전하게 부착된 태그에 부착할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "항목을 큰 주황색 점으로 표시할 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "항목을 경고 라벨을 표시하는 상자에 넣을 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "라벨을 패키지에 안전하게 부착된 태그에 부착할 수 있습니다.",
+      "explanation": "배송자는 대부분의 위험 물질 패키지에 다이아몬드 모양의 위험 경고 라벨을 부착해야 합니다. 라벨이 패키지에 맞지 않는 경우 패키지에 안전하게 부착된 태그에 배치할 수 있습니다."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8967",
+      "question": "____ 동일한 표지판은 위험 물질을 운송하는 차량에 부착되어야 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "한 잔"
+        },
+        {
+          "letter": "B",
+          "text": "두 잔"
+        },
+        {
+          "letter": "C",
+          "text": "세 잔"
+        },
+        {
+          "letter": "D",
+          "text": "4초"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4초",
+      "explanation": "위험 물질 표지판이 필요한 경우, 운송 차량의 네 면 모두에 부착되어야 합니다."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9015",
+      "question": "차량 점검 중 스프링을 확인할 때 다음을 모두 수행하되 다음은 제외합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "누락된 리프 스프링을 찾으십시오."
+        },
+        {
+          "letter": "B",
+          "text": "부러진 코일 스프링을 찾으십시오."
+        },
+        {
+          "letter": "C",
+          "text": "토션 스프링이 손상되지 않았는지 확인하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "금이 간 리프 스프링에 접착제를 바릅니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "금이 간 리프 스프링에 접착제를 바릅니다.",
+      "explanation": "차량 점검 테스트의 일부로 스프링을 확인할 때 누락되거나 이동하거나 금이 가거나 부러진 리프 스프링뿐만 아니라 부러지거나 뒤틀린 코일 스프링을 찾아야 합니다. 차량이 토션 바, 토크 암 또는 기타 유형의 현가 부품이 장착되어 있는 경우 손상되지 않았고 안전하게 장착되었는지 확인하십시오."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11383",
+      "question": "기본 차량 제어 기술 테스트에서 침범(encroachment)으로 간주되는 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량이 연습 경계선을 넘어가는 것."
+        },
+        {
+          "letter": "B",
+          "text": "운전자가 한 번의 단일 풀업을 실행하는 것."
+        },
+        {
+          "letter": "C",
+          "text": "운전자가 차량을 중립에 놓고 주차 브레이크를 적용하는 것."
+        },
+        {
+          "letter": "D",
+          "text": "운전자가 기어를 변속할 때 차량이 정지하는 것."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "차량이 연습 경계선을 넘어가는 것.",
+      "explanation": "기본 차량 제어 기술 시험 중 침범은 신청자의 차량의 어떤 부분이든 연습 경계선을 건드리거나 넘을 때입니다. 모든 침범은 오류로 계산됩니다."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "9046",
+      "question": "도로 운전 스킬 시험을 볼 때, 기어 사용에 대해 평가받습니다. 다음을 하지 않아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "기어를 갈거나 충돌시키는 것을 피하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "엔진을 과도하게 회전시키지 않는 기어를 선택합니다."
+        },
+        {
+          "letter": "C",
+          "text": "교차로를 통과할 때 기어 변속을 빠뜨립니다."
+        },
+        {
+          "letter": "D",
+          "text": "회전 중에 기어를 변속합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "회전 중에 기어를 변속합니다.",
+      "explanation": "도로 운전 스킬 시험 중에 기어 사용에 대해 평가받습니다. 엔진을 과도하게 회전시키거나 엔진에 무리를 주지 않는 기어를 선택하십시오. 기어를 갈거나 충돌시키지 않으며, 회전이나 교차로를 통과할 때 기어를 변속하지 않으십시오."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "10973",
+      "question": "화학 위험에 대한 긴급 대응을 조정하는 데 도움을 주는 기관은 어디입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "국가 대응 센터"
+        },
+        {
+          "letter": "B",
+          "text": "연방 격리 기구"
+        },
+        {
+          "letter": "C",
+          "text": "화학 지원 연합 센터"
+        },
+        {
+          "letter": "D",
+          "text": "국가 운송 네트워크"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "국가 대응 센터",
+      "explanation": "경찰과 소방관을 위한 리소스로서, 국가 대응 센터(National Response Center)는 화학 위험에 대한 긴급 대응 조정을 돕습니다."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "11402",
+      "question": "기본 차량 제어 기술 시험 중에 다음을 수행하도록 요청받을 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "평행 주차."
+        },
+        {
+          "letter": "B",
+          "text": "타이어를 검사합니다."
+        },
+        {
+          "letter": "C",
+          "text": "게이지를 모니터링합니다."
+        },
+        {
+          "letter": "D",
+          "text": "주차 공간으로 앞으로 당깁니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "평행 주차.",
+      "explanation": "기본 차량 제어 기술 시험에 포함될 수 있는 조작에는 일직선 백업, 옵셋 백/우측 주차, 옵셋 백/좌측 주차, 운전석 측 평행 주차, 기존 평행 주차 및 골목 도킹이 포함됩니다."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "9025",
+      "question": "차량 점검 중 공기 및 전기 라인을 점검할 때 다음을 제외한 모든 항목이 참이어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 호스에서 쌕쌕거리는 소리가 나고 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "공기 호스와 전기 라인이 끊어지지 않았습니다."
+        },
+        {
+          "letter": "C",
+          "text": "공기 라인이 꼬이지 않았습니다."
+        },
+        {
+          "letter": "D",
+          "text": "공기 라인이 트랙터 부품과 긁히지 않고 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "공기 호스에서 쌕쌕거리는 소리가 나고 있습니다.",
+      "explanation": "차량 점검 테스트의 일부로 공기 및 전기 라인을 검사할 때 누수 소리를 들어야 합니다. 공기 호스와 전기 라인이 끊어지거나, 헐거워지거나, 이음새가 있거나, 마모되지 않았는지 확인하세요. 공기 및 전기 라인이 엉키지 않고, 꼬이지 않으며, 트랙터 부품과 긁히지 않는지 확인하세요."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "9013",
+      "question": "차량 검사 시험 중에 다음을 모두 수행해야 합니다(예외):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량 주변을 돌아다닙니다."
+        },
+        {
+          "letter": "B",
+          "text": "각 항목을 가리키거나 접촉합니다."
+        },
+        {
+          "letter": "C",
+          "text": "확인하고 있는 것과 그 이유를 설명합니다."
+        },
+        {
+          "letter": "D",
+          "text": "차량 아래로 기어 들어갑니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "차량 아래로 기어 들어갑니다.",
+      "explanation": "CDL을 취득하기 위해서는 검사 시험에 합격하고 차량이 안전하게 운영될 수 있음을 입증해야 합니다. 차량 검사 시험 중에 차량 주변을 돌아다니며 각 항목을 가리키거나 접촉하고 검사관에게 무엇을 확인하고 있는지, 그리고 그 이유를 설명해야 합니다. 후드 아래나 차량 아래로 기어 들어갈 필요는 없습니다."
+    }
+  ]
+}

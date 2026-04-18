@@ -1,0 +1,512 @@
+{
+  "state": "New York",
+  "category": "car",
+  "quizName": "Hard Practice Test #2",
+  "slug": "hard-practice-test-2",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1960",
+      "question": "A car is following you too closely on a two-lane road. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slowly reduce your speed to let the tailgater pass you."
+        },
+        {
+          "letter": "B",
+          "text": "Speed up to increase the distance between your cars."
+        },
+        {
+          "letter": "C",
+          "text": "Brake suddenly, then return to your original speed."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Slowly reduce your speed to let the tailgater pass you.",
+      "explanation": "If a car is tailgating you, try to change lanes first. If you cannot change lanes, slowly reduce your speed when the road ahead is clear. This lets the tailgater pass you safely."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "395",
+      "question": "When can you cross double solid yellow lines?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To pass a slow-moving truck."
+        },
+        {
+          "letter": "B",
+          "text": "To turn into a driveway."
+        },
+        {
+          "letter": "C",
+          "text": "To pass another car."
+        },
+        {
+          "letter": "D",
+          "text": "Never."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "To turn into a driveway.",
+      "explanation": "Double solid yellow lines mean no passing or lane changes. You can only cross them to turn left into a driveway or to enter or exit a highway."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "485",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No left turn."
+        },
+        {
+          "letter": "B",
+          "text": "No stopping."
+        },
+        {
+          "letter": "C",
+          "text": "No U-turn."
+        },
+        {
+          "letter": "D",
+          "text": "Detour ahead."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "No U-turn.",
+      "explanation": "This sign means U-turns are not allowed at this location."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "418",
+      "question": "You reach an intersection blocked by traffic. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drive slowly through the traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Get as close as possible to the car ahead of you."
+        },
+        {
+          "letter": "C",
+          "text": "Do not enter the intersection until traffic clears."
+        },
+        {
+          "letter": "D",
+          "text": "Use your horn to make cars move forward."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Do not enter the intersection until traffic clears.",
+      "explanation": "Never enter an intersection if you cannot drive all the way through it. Wait until the road ahead is clear. This keeps you from blocking the intersection."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "415",
+      "question": "You want to turn left at a green light, but traffic is coming toward you. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use the next intersection instead."
+        },
+        {
+          "letter": "B",
+          "text": "Wait at the edge of the intersection for traffic to clear."
+        },
+        {
+          "letter": "C",
+          "text": "Wait in the intersection for oncoming traffic to pass."
+        },
+        {
+          "letter": "D",
+          "text": "Turn left because you have a green light."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Wait in the intersection for oncoming traffic to pass.",
+      "explanation": "When you have a green light and want to turn left, you can enter the intersection to get ready to turn. Wait for oncoming traffic to pass. Then complete your left turn."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "103",
+      "question": "When dust or smoke blocks your view of other vehicles, you should slow down and turn on your:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emergency flashers."
+        },
+        {
+          "letter": "B",
+          "text": "Parking lights."
+        },
+        {
+          "letter": "C",
+          "text": "Headlights."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Headlights.",
+      "explanation": "Turn on your headlights when you cannot see other vehicles clearly. This helps other drivers see you as well."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "324",
+      "question": "When turning left from a multilane, one-way street or highway, which lane should you start from?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The middle of the intersection."
+        },
+        {
+          "letter": "B",
+          "text": "The right lane."
+        },
+        {
+          "letter": "C",
+          "text": "The left lane."
+        },
+        {
+          "letter": "D",
+          "text": "Any lane."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The left lane.",
+      "explanation": "Always start a left turn from the left lane on multilane streets and highways."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1174",
+      "question": "When you park uphill on a street with a curb, what should you do with your front wheels?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep the front wheel straight and set the parking brake."
+        },
+        {
+          "letter": "B",
+          "text": "Turn the front wheels away from the curb."
+        },
+        {
+          "letter": "C",
+          "text": "Turn the front wheels toward the curb."
+        },
+        {
+          "letter": "D",
+          "text": "Turn the back wheels into the curb."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Turn the front wheels away from the curb.",
+      "explanation": "Turn your wheels sharply to the left, away from the curb. If your brakes fail, your vehicle will roll toward the curb instead of into traffic."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "432",
+      "question": "What does a \"No parking\" sign mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You cannot stop your vehicle there at any time."
+        },
+        {
+          "letter": "B",
+          "text": "You may stop briefly to pick up or drop off passengers."
+        },
+        {
+          "letter": "C",
+          "text": "You may park there if the driver stays in the vehicle."
+        },
+        {
+          "letter": "D",
+          "text": "You may leave your vehicle unattended for less than five minutes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You may stop briefly to pick up or drop off passengers.",
+      "explanation": "A \"No parking\" sign allows you to stop only to quickly pick up or drop off passengers or cargo."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "2079",
+      "question": "Why should you be careful when passing a bicycle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You are moving faster than the bicycle."
+        },
+        {
+          "letter": "B",
+          "text": "The bicycle always has the right-of-way."
+        },
+        {
+          "letter": "C",
+          "text": "Oncoming traffic may not see you pull out to pass."
+        },
+        {
+          "letter": "D",
+          "text": "The cyclist may suddenly turn into traffic to avoid objects in the road."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "The cyclist may suddenly turn into traffic to avoid objects in the road.",
+      "explanation": "A cyclist may suddenly turn into traffic to avoid something in the road. Always drive carefully near bicyclists."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "117",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A railroad crossing is ahead. Be ready to stop."
+        },
+        {
+          "letter": "B",
+          "text": "You must always stop at this railroad crossing."
+        },
+        {
+          "letter": "C",
+          "text": "Stop and wait for a signal before crossing the railroad tracks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A railroad crossing is ahead. Be ready to stop.",
+      "explanation": "This sign shows a railroad crossing is coming. Look and listen for trains. Slow down and be ready to stop. Wait for any trains to pass before crossing."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "85",
+      "question": "You drive defensively when you:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep one car length between you and the car in front."
+        },
+        {
+          "letter": "B",
+          "text": "Look only at the car directly in front of you while driving."
+        },
+        {
+          "letter": "C",
+          "text": "Scan the road ahead to watch for dangers."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Scan the road ahead to watch for dangers.",
+      "explanation": "Defensive driving means scanning ahead for dangers. Do not stare only at the road in front of your car. Stay alert to all vehicles around you."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "593",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/arkansas-traffic_lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The road gets wider ahead."
+        },
+        {
+          "letter": "B",
+          "text": "The right lane is ending soon."
+        },
+        {
+          "letter": "C",
+          "text": "A highway entrance ramp is ahead."
+        },
+        {
+          "letter": "D",
+          "text": "The left lane is ending soon."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The right lane is ending soon.",
+      "explanation": "This sign warns you that the right lane will end ahead."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "562",
+      "question": "When you see a car with bright headlights coming toward you, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use your bright lights until the other car dims theirs."
+        },
+        {
+          "letter": "B",
+          "text": "Flash your lights on and off to warn the driver."
+        },
+        {
+          "letter": "C",
+          "text": "Dim your lights and then speed up to pass quickly."
+        },
+        {
+          "letter": "D",
+          "text": "Look toward the right side of the road."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Look toward the right side of the road.",
+      "explanation": "When a car comes toward you with bright headlights, look away from the lights. Look toward the right side of the road instead. This prevents you from being blinded."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "471",
+      "question": "Drivers should know that bicycles used at night must have:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflective handlebar grips."
+        },
+        {
+          "letter": "B",
+          "text": "A front headlight and a red taillight."
+        },
+        {
+          "letter": "C",
+          "text": "White reflectors on the front and back fenders."
+        },
+        {
+          "letter": "D",
+          "text": "Brake lights."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "A front headlight and a red taillight.",
+      "explanation": "Bicycles used at night must have a front headlight that is visible from 500 feet away and a red taillight that is visible from 300 feet behind."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "473",
+      "question": "You are backing out of your driveway and children are playing nearby. What should you do before you move your car?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rev your engine to warn the children."
+        },
+        {
+          "letter": "B",
+          "text": "Honk your horn so the children hear you."
+        },
+        {
+          "letter": "C",
+          "text": "Walk to the back of the car and check that the way is clear."
+        },
+        {
+          "letter": "D",
+          "text": "Tell the children to stay away from the driveway."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Walk to the back of the car and check that the way is clear.",
+      "explanation": "When backing up, look through your back window for people and obstacles. Do not rely only on mirrors, especially when children are nearby. Always get out and look behind your vehicle before backing out of a driveway."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1461",
+      "question": "A driver license is a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right, not a privilege."
+        },
+        {
+          "letter": "B",
+          "text": "Privilege, not a right."
+        },
+        {
+          "letter": "C",
+          "text": "Requirement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Privilege, not a right.",
+      "explanation": "A driver license is not a right. It is a privilege that you must earn and keep."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "421",
+      "question": "You are turning left from a two-way street onto a one-way street. When you finish the turn, your car should be in:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The right lane."
+        },
+        {
+          "letter": "B",
+          "text": "The center of the street."
+        },
+        {
+          "letter": "C",
+          "text": "The left lane."
+        },
+        {
+          "letter": "D",
+          "text": "The lane with the least traffic."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The left lane.",
+      "explanation": "When turning left from a two-way street onto a one-way street, finish your turn in the leftmost lane."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "406",
+      "question": "What should you do when approaching a railroad crossing with no signals?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always come to a complete stop."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down and be ready to stop."
+        },
+        {
+          "letter": "C",
+          "text": "All railroad crossings have signals, so this never happens."
+        },
+        {
+          "letter": "D",
+          "text": "Speed up to cross the tracks quickly."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Slow down and be ready to stop.",
+      "explanation": "At an unmarked railroad crossing, slow down and be ready to stop. Look and listen for trains from both directions. If you see or hear a train, stop at a safe distance and wait until it passes before crossing."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1423",
+      "question": "When you see or hear an emergency vehicle coming, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop right away and let the vehicle pass."
+        },
+        {
+          "letter": "B",
+          "text": "Move to the right side of the road as safely as you can and stop."
+        },
+        {
+          "letter": "C",
+          "text": "Drive slowly and let the vehicle pass."
+        },
+        {
+          "letter": "D",
+          "text": "Keep moving slowly on the right side of the road."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Move to the right side of the road as safely as you can and stop.",
+      "explanation": "When you see an emergency vehicle with lights or a siren, move to the right side of the road as close as you safely can and stop. Do not stop in an intersection. Do this no matter which direction the vehicle is coming from."
+    }
+  ]
+}

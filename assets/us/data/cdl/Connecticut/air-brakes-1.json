@@ -1,0 +1,624 @@
+{
+  "state": "Connecticut",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/connecticut/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8988",
+      "question": "If your vehicle has a front brake limiting valve, where should you set the control?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Set it to normal."
+        },
+        {
+          "letter": "B",
+          "text": "Set it to the off position."
+        },
+        {
+          "letter": "C",
+          "text": "Set it to neutral."
+        },
+        {
+          "letter": "D",
+          "text": "Keep it at the halfway mark."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Set it to normal.",
+      "explanation": "Some older vehicles have a front brake limiting valve with \"normal\" and \"slippery\" settings. This valve was designed to reduce the risk of front-wheel skids on slippery surfaces. However, studies show this is not necessary. Always keep the valve in the \"normal\" position."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11678",
+      "question": "What should you do before driving down a hill?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accelerate."
+        },
+        {
+          "letter": "B",
+          "text": "Switch into a high gear."
+        },
+        {
+          "letter": "C",
+          "text": "Sound your horn."
+        },
+        {
+          "letter": "D",
+          "text": "Switch into a low gear."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Switch into a low gear.",
+      "explanation": "Before driving down a hill, switch into a low gear. Gravity pulls your vehicle faster as you go downhill, so low gear helps you stay in control."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8877",
+      "question": "What color is the ABS malfunction lamp?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orange"
+        },
+        {
+          "letter": "B",
+          "text": "Yellow"
+        },
+        {
+          "letter": "C",
+          "text": "Green"
+        },
+        {
+          "letter": "D",
+          "text": "Blue"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Yellow",
+      "explanation": "Vehicles with Anti-Lock Braking Systems (ABS) have yellow malfunction lamps."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8993",
+      "question": "What is a dual air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A single air brake system that uses two sets of controls."
+        },
+        {
+          "letter": "B",
+          "text": "One air brake system for each side of the truck."
+        },
+        {
+          "letter": "C",
+          "text": "Two brakes for each wheel."
+        },
+        {
+          "letter": "D",
+          "text": "Two separate air brake systems that use one set of controls."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Two separate air brake systems that use one set of controls.",
+      "explanation": "A dual air brake system has two separate air brake systems controlled by a single set of brake controls. One system operates the rear axle brakes. The other system operates the front axle brakes."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11199",
+      "question": "What causes brake fade?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brakes being exposed to sunlight."
+        },
+        {
+          "letter": "B",
+          "text": "Brakes being exposed to moisture."
+        },
+        {
+          "letter": "C",
+          "text": "Excessive use of the brakes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Excessive use of the brakes.",
+      "explanation": "Overusing your brakes causes them to overheat. When brakes get too hot, they fade and become less effective at slowing your vehicle."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10228",
+      "question": "What should you do with water and compressor oil found in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are necessary and must stay in the system."
+        },
+        {
+          "letter": "B",
+          "text": "Add them if levels are low."
+        },
+        {
+          "letter": "C",
+          "text": "Remove them regularly."
+        },
+        {
+          "letter": "D",
+          "text": "They are not a concern."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Remove them regularly.",
+      "explanation": "Compressed air in air brake systems contains water and compressor oil. These can damage the brakes if they build up. Open the air tank drains manually each day to remove this buildup."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11464",
+      "question": "When should the spring brakes come on automatically in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When air pressure falls below 45 psi."
+        },
+        {
+          "letter": "B",
+          "text": "When air pressure falls below 20 psi."
+        },
+        {
+          "letter": "C",
+          "text": "When driving downhill."
+        },
+        {
+          "letter": "D",
+          "text": "When driving uphill."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When air pressure falls below 45 psi.",
+      "explanation": "Before driving, check that the spring brakes come on automatically when air pressure falls between 20 and 45 psi. Test this by blocking the wheels and releasing air from the system using the brake pedal. The parking brake valve should pop out and engage the spring brakes when pressure drops too low."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10152",
+      "question": "What must every air tank in an air-braked vehicle have?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A check valve"
+        },
+        {
+          "letter": "B",
+          "text": "A lock"
+        },
+        {
+          "letter": "C",
+          "text": "A trap door"
+        },
+        {
+          "letter": "D",
+          "text": "An oxidizer"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A check valve",
+      "explanation": "All air tanks on air-braked vehicles must have one-way check valves between the air compressor and the first reservoir. These valves prevent air from leaking backward if there is a leak in the system."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11720",
+      "question": "At 55 mph on dry pavement, how much does brake lag add to your stopping distance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "15 feet"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        },
+        {
+          "letter": "D",
+          "text": "10 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "Total stopping distance for air brake vehicles includes four parts: perception distance, reaction distance, brake lag distance, and braking distance. When braking at 55 mph on dry pavement, brake lag adds about 32 feet to your total stopping distance."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10028",
+      "question": "What does an Anti-Lock Braking System (ABS) do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It cannot be used on vehicles with air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "It is not helpful in most driving situations."
+        },
+        {
+          "letter": "C",
+          "text": "It helps you maintain control when braking."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "It helps you maintain control when braking.",
+      "explanation": "Anti-Lock Braking Systems (ABS) work with air brakes and help drivers stay in control by preventing wheels from locking up during braking."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11324",
+      "question": "When you leave your vehicle unattended, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always use the parking brake."
+        },
+        {
+          "letter": "B",
+          "text": "Never use the parking brake."
+        },
+        {
+          "letter": "C",
+          "text": "Lower the windows in the cab."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Always use the parking brake.",
+      "explanation": "Always apply the parking brake when you leave your vehicle."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11108",
+      "question": "What happens if the low air pressure warning light comes on while driving?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You can still brake only if there is enough air left in the tanks."
+        },
+        {
+          "letter": "B",
+          "text": "You can apply the brakes 14 times before the air runs out."
+        },
+        {
+          "letter": "C",
+          "text": "You can drive normally and check the brakes when convenient."
+        },
+        {
+          "letter": "D",
+          "text": "You should stay at least 100 feet away from other vehicles."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "You can still brake only if there is enough air left in the tanks.",
+      "explanation": "When the low air pressure warning light comes on, stop and park safely as soon as possible. There may be a leak. Your brakes will only work as long as there is enough air in the tanks."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8768",
+      "question": "What is brake lag?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The time it takes for brakes to start working after you press the pedal."
+        },
+        {
+          "letter": "B",
+          "text": "The distance between the brake pedal and the floor."
+        },
+        {
+          "letter": "C",
+          "text": "The amount of air pressure used to stop the vehicle."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The time it takes for brakes to start working after you press the pedal.",
+      "explanation": "Air takes time to move through the air lines to reach the brakes. There is usually at least a half-second delay between when you press the brake pedal and when the brakes begin to work."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8770",
+      "question": "If you use spring brakes when carrying a heavy load, how long will it take to stop?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It will be impossible to stop."
+        },
+        {
+          "letter": "B",
+          "text": "It will take a long time."
+        },
+        {
+          "letter": "C",
+          "text": "It will take a short time."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "It will take a long time.",
+      "explanation": "Spring brakes do not work on all axles. When spring brakes activate due to low air pressure, your vehicle needs more distance to stop, especially with a heavy load."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10226",
+      "question": "When should you test the low air pressure warning signal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Once a month."
+        },
+        {
+          "letter": "B",
+          "text": "Once a week."
+        },
+        {
+          "letter": "C",
+          "text": "Twice a week."
+        },
+        {
+          "letter": "D",
+          "text": "Before every trip."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Before every trip.",
+      "explanation": "Your low air pressure warning light must work properly. After the system charges, you can test it by quickly pressing and releasing the brake pedal to release air. The warning light should come on when pressure drops to a dangerous level."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11315",
+      "question": "Where must the ABS malfunction lamp be located on a dolly?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the rear."
+        },
+        {
+          "letter": "B",
+          "text": "On the left side."
+        },
+        {
+          "letter": "C",
+          "text": "On the front."
+        },
+        {
+          "letter": "D",
+          "text": "On the top."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "On the left side.",
+      "explanation": "A dolly with an Anti-Lock Braking System (ABS) must have a yellow warning lamp on its left side."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11891",
+      "question": "In a vehicle with two air brake systems, a leak in one system ____ the other system.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Will always affect."
+        },
+        {
+          "letter": "B",
+          "text": "May not affect."
+        },
+        {
+          "letter": "C",
+          "text": "Is caused by."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "May not affect.",
+      "explanation": "A dual air brake system has two separate air brake systems. A leak in one system may not affect the other."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11672",
+      "question": "What happens when the S-cam turns inside the brake drum?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It presses the brake shoes against the inside of the brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "It tightens the brake drum onto the axle."
+        },
+        {
+          "letter": "C",
+          "text": "It presses the brake lining against the wheel."
+        },
+        {
+          "letter": "D",
+          "text": "It releases air from the air tanks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "It presses the brake shoes against the inside of the brake drum.",
+      "explanation": "When the S-cam turns, it presses the brake shoes against the inside of the brake drum. This creates friction and slows the vehicle."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11882",
+      "question": "When the S-cam turns inside a brake drum, what does it do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It presses the brake shoes against the inside of the brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "It presses the brake shoes against the brake linings."
+        },
+        {
+          "letter": "C",
+          "text": "It presses the brake linings against the wheel axles."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "It presses the brake shoes against the inside of the brake drum.",
+      "explanation": "When the S-cam turns, it presses the brake shoes against the inside of the brake drum. This creates friction and slows the vehicle."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9002",
+      "question": "When should you use the parking brake?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Every time you park your vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "While driving."
+        },
+        {
+          "letter": "C",
+          "text": "When driving in bad weather."
+        },
+        {
+          "letter": "D",
+          "text": "Never."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Every time you park your vehicle.",
+      "explanation": "Always use the parking brake every time you park a vehicle with air brakes."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "10561",
+      "question": "What is the purpose of air tank drains?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They should not be used in cold weather."
+        },
+        {
+          "letter": "B",
+          "text": "They remove water and oil from the air tanks."
+        },
+        {
+          "letter": "C",
+          "text": "They move air to the brakes."
+        },
+        {
+          "letter": "D",
+          "text": "They clean the air in the passenger compartment."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "They remove water and oil from the air tanks.",
+      "explanation": "Air tank drains remove water and compressor oil that build up in the system. Water and oil can damage the brakes if left in the tanks. You should use the manual drains every day."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8861",
+      "question": "What does the air compressor governor do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Controls when the air compressor pumps air into the storage tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Controls how fast air leaves the storage tanks."
+        },
+        {
+          "letter": "C",
+          "text": "Controls the temperature of air entering the storage tanks."
+        },
+        {
+          "letter": "D",
+          "text": "Controls the temperature of air leaving the storage tanks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Controls when the air compressor pumps air into the storage tanks.",
+      "explanation": "The air compressor governor controls when the air compressor pumps air into the storage tanks."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8632",
+      "question": "What color are the malfunction lamps on vehicles with Anti-Lock Braking Systems (ABS)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green"
+        },
+        {
+          "letter": "B",
+          "text": "Blue"
+        },
+        {
+          "letter": "C",
+          "text": "Yellow"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Yellow",
+      "explanation": "ABS vehicles have yellow malfunction lamps. These lamps alert you when the ABS is not working. Check where your vehicle's malfunction lamp is located before you drive."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "10745",
+      "question": "If you use the spring brakes while hauling a heavy load, a complete stop will:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Be impossible."
+        },
+        {
+          "letter": "B",
+          "text": "Take a long time."
+        },
+        {
+          "letter": "C",
+          "text": "Take a short time."
+        },
+        {
+          "letter": "D",
+          "text": "Damage the brakes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Take a long time.",
+      "explanation": "Spring brakes engage when air pressure drops too low. With a heavy load, stopping takes a long time because spring brakes only work on some axles, not all of them."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "9606",
+      "question": "If the low air pressure warning signal comes on, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continue driving, but have the brakes repaired within a week."
+        },
+        {
+          "letter": "B",
+          "text": "Pull over and inspect the brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Call a mechanic while driving."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pull over and inspect the brakes.",
+      "explanation": "When the low air pressure warning comes on, stop your vehicle right away while you can still control the brakes. Inspect and repair the brakes as soon as possible."
+    }
+  ]
+}

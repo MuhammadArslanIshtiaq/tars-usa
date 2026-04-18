@@ -1,0 +1,660 @@
+{
+  "state": "New Jersey",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/new-jersey/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11107",
+      "question": "When you press the brake pedal, do air brakes work right away?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, immediately."
+        },
+        {
+          "letter": "B",
+          "text": "No, there is a short delay."
+        },
+        {
+          "letter": "C",
+          "text": "No, there is about a one-minute delay."
+        },
+        {
+          "letter": "D",
+          "text": "Only if you push down the green lever on the control panel."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "No, there is a short delay.",
+      "explanation": "Air brakes have a delay. After you press the brake pedal, it takes half a second or more for air to travel through the lines and activate the brakes. This is different from hydraulic brakes in cars and medium trucks, which start working right away."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8868",
+      "question": "What does the application pressure gauge show?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How much air pressure is being used on the brakes right now."
+        },
+        {
+          "letter": "B",
+          "text": "The temperature of the air in the brake system."
+        },
+        {
+          "letter": "C",
+          "text": "The pressure of air coming from the compressor."
+        },
+        {
+          "letter": "D",
+          "text": "How many times the brakes have been used."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "How much air pressure is being used on the brakes right now.",
+      "explanation": "The application pressure gauge shows how much air pressure is being applied to the brakes at that moment. Not all air brake systems have this gauge."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11127",
+      "question": "What type of air brake system do most heavy trucks use?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mono air brake systems."
+        },
+        {
+          "letter": "B",
+          "text": "Dual air brake systems."
+        },
+        {
+          "letter": "C",
+          "text": "Triple air brake systems."
+        },
+        {
+          "letter": "D",
+          "text": "Quadruple air brake systems."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dual air brake systems.",
+      "explanation": "Most heavy trucks use dual air brake systems. A dual system has two separate air brake systems that share one set of controls."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8859",
+      "question": "Which of these is NOT part of an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A service brake system"
+        },
+        {
+          "letter": "B",
+          "text": "A parking brake system"
+        },
+        {
+          "letter": "C",
+          "text": "An emergency brake system"
+        },
+        {
+          "letter": "D",
+          "text": "An axle brake system"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "An axle brake system",
+      "explanation": "Air brake systems have three separate parts: the service brake system, the parking brake system, and the emergency brake system. An axle brake system is not part of an air brake system."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11716",
+      "question": "When driving downhill, how far below your safe speed should you slow down before releasing the brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 mph"
+        },
+        {
+          "letter": "B",
+          "text": "10 mph"
+        },
+        {
+          "letter": "C",
+          "text": "15 mph"
+        },
+        {
+          "letter": "D",
+          "text": "20 mph"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "5 mph",
+      "explanation": "When going downhill, brake until your speed is 5 mph below your safe speed. Then release the brakes. Repeat this process as needed."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11722",
+      "question": "An air brake truck traveling at 55 mph in good conditions needs how many feet to stop completely?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 feet"
+        },
+        {
+          "letter": "B",
+          "text": "250 feet"
+        },
+        {
+          "letter": "C",
+          "text": "300 feet"
+        },
+        {
+          "letter": "D",
+          "text": "450 feet"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "450 feet",
+      "explanation": "Total stopping distance includes perception distance, reaction time, brake lag, and actual braking distance. An air brake truck going 55 mph in good conditions needs about 450 feet to stop completely."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8860",
+      "question": "What does the service brake system do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Applies and releases the brakes when you press the brake pedal while driving."
+        },
+        {
+          "letter": "B",
+          "text": "Applies and releases the parking brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Applies and releases the emergency brake."
+        },
+        {
+          "letter": "D",
+          "text": "Applies and releases the axle brake."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Applies and releases the brakes when you press the brake pedal while driving.",
+      "explanation": "Air brake systems have three parts: the service brake system, the parking brake system, and the emergency brake system. The service brake system is what you use when you press the brake pedal while driving normally."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11103",
+      "question": "What can happen if you press and release the brake pedal too many times?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air can be released faster than the compressor can replace it."
+        },
+        {
+          "letter": "B",
+          "text": "More air gets added to the brake system."
+        },
+        {
+          "letter": "C",
+          "text": "The brake pedal becomes harder to press."
+        },
+        {
+          "letter": "D",
+          "text": "A loud noise is created."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Air can be released faster than the compressor can replace it.",
+      "explanation": "Pressing and releasing the brake pedal too much can let air out of the system faster than the compressor can refill it. This can lower the air pressure too much and cause the brakes to fail."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11714",
+      "question": "At what air pressure level does the governor stop the air compressor?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125 psi"
+        },
+        {
+          "letter": "B",
+          "text": "100 psi"
+        },
+        {
+          "letter": "C",
+          "text": "150 psi"
+        },
+        {
+          "letter": "D",
+          "text": "80 psi"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "125 psi",
+      "explanation": "The air compressor governor stops the compressor from pumping air when the air tanks reach 125 psi. This pressure level is called the \"cut-out\" level."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8883",
+      "question": "If your tractor has ABS but your trailer does not, what happens?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The ABS will not work."
+        },
+        {
+          "letter": "B",
+          "text": "The ABS will still help you steer better."
+        },
+        {
+          "letter": "C",
+          "text": "The ABS will make jackknifing more likely."
+        },
+        {
+          "letter": "D",
+          "text": "Others will see your brake lights better."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The ABS will still help you steer better.",
+      "explanation": "If your tractor has ABS but your trailer does not, the ABS will still improve your steering control. Watch the trailer carefully and ease off the brakes if the trailer starts to swing out."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10744",
+      "question": "When driving down a steep hill:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use the air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Shift to a lower gear, then use brakes to help slow the vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "Shift down instead of using the brakes."
+        },
+        {
+          "letter": "D",
+          "text": "Drive on the shoulder."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Shift to a lower gear, then use brakes to help slow the vehicle.",
+      "explanation": "On a downgrade, use the engine's braking power to control your speed. Shift to a lower gear before going down the hill. Use the brakes only when you need to slow down or stop."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10234",
+      "question": "To stop a vehicle with air brakes, the driver should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Press down the brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Pull the brake pedal toward them."
+        },
+        {
+          "letter": "C",
+          "text": "Push in the brake knob."
+        },
+        {
+          "letter": "D",
+          "text": "Pull out the brake knob."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Press down the brake pedal.",
+      "explanation": "To stop an air-braked vehicle, push down on the brake pedal. Control the pressure so the vehicle stops smoothly and safely."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11700",
+      "question": "Air pressure in a dual air brake system should build from 85 to 100 psi in:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two minutes."
+        },
+        {
+          "letter": "B",
+          "text": "15 seconds."
+        },
+        {
+          "letter": "C",
+          "text": "10 minutes."
+        },
+        {
+          "letter": "D",
+          "text": "45 seconds."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "45 seconds.",
+      "explanation": "When checking a vehicle with a dual air brake system, air pressure should build from 85 to 100 psi in both systems. This takes about 45 seconds."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11708",
+      "question": "In a dual air brake system, both systems share:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Hoses."
+        },
+        {
+          "letter": "C",
+          "text": "Air lines."
+        },
+        {
+          "letter": "D",
+          "text": "An air compressor."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "An air compressor.",
+      "explanation": "Both systems in a dual air brake system use one air compressor. If the compressor fails, neither system will work."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8878",
+      "question": "On trucks and buses, where are ABS warning lights located?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the driver's door"
+        },
+        {
+          "letter": "B",
+          "text": "On the instrument panel"
+        },
+        {
+          "letter": "C",
+          "text": "On the outside of the vehicle by the passenger's door"
+        },
+        {
+          "letter": "D",
+          "text": "Under the hood"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "On the instrument panel",
+      "explanation": "Trucks and buses with Anti-Lock Braking Systems (ABS) have yellow warning lights on the instrument panel. Trailers have yellow ABS lights on the left side, on the front or rear corner."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10360",
+      "question": "Air brakes are:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An effective way to stop large vehicles."
+        },
+        {
+          "letter": "B",
+          "text": "Not allowed on large vehicles."
+        },
+        {
+          "letter": "C",
+          "text": "Only effective in poor weather."
+        },
+        {
+          "letter": "D",
+          "text": "A tool to save fuel."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "An effective way to stop large vehicles.",
+      "explanation": "When properly maintained, air brakes are a safe and effective way to stop large, heavy vehicles."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10988",
+      "question": "A tank endorsement is needed:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only when transporting gases."
+        },
+        {
+          "letter": "B",
+          "text": "Only when transporting liquids."
+        },
+        {
+          "letter": "C",
+          "text": "When transporting both liquids and gases."
+        },
+        {
+          "letter": "D",
+          "text": "As optional for hazardous materials."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "When transporting both liquids and gases.",
+      "explanation": "A tank endorsement is required to drive a tank vehicle that carries liquids or gases. This applies to both hazardous and non-hazardous materials."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8993",
+      "question": "A dual air brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has one air brake system with two sets of controls."
+        },
+        {
+          "letter": "B",
+          "text": "Has one air brake system for each side of the truck."
+        },
+        {
+          "letter": "C",
+          "text": "Has two brakes for each wheel."
+        },
+        {
+          "letter": "D",
+          "text": "Has two separate air brake systems with one set of controls."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Has two separate air brake systems with one set of controls.",
+      "explanation": "A dual air brake system has two separate systems that work together with one set of brake controls. One system usually operates the rear brakes. The other system operates the front brakes."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11465",
+      "question": "For a double combination vehicle, the maximum air leak rate during a brake test is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi in one minute."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi in one minute."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi in one minute."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi in one minute."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4 psi in one minute.",
+      "explanation": "Know the safe maximum air loss rate for your vehicle. A double combination vehicle should not lose more than 4 psi in one minute during a brake test."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10232",
+      "question": "An Anti-Lock Braking System (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduces stopping distance."
+        },
+        {
+          "letter": "B",
+          "text": "Reduces brake response time."
+        },
+        {
+          "letter": "C",
+          "text": "Reduces control."
+        },
+        {
+          "letter": "D",
+          "text": "Improves control."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Improves control.",
+      "explanation": "An Anti-Lock Braking System (ABS) prevents wheel lockup during hard braking. This gives you better control, but it does not always shorten stopping distance."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8872",
+      "question": "What was the purpose of front brake limiting valves?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop the front tires from skidding."
+        },
+        {
+          "letter": "B",
+          "text": "Stop the front tires from getting too hot."
+        },
+        {
+          "letter": "C",
+          "text": "Make the brakes work the same on all wheels."
+        },
+        {
+          "letter": "D",
+          "text": "Make braking more predictable."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stop the front tires from skidding.",
+      "explanation": "Some older vehicles with air brakes have front brake limiting valves. These valves were designed to prevent the front wheels from skidding. Research has shown these valves are not needed, so they should be left in the normal position."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "10917",
+      "question": "Which vehicles must have emergency brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emergency brakes are not required on trucks."
+        },
+        {
+          "letter": "B",
+          "text": "Emergency brakes are only required on trailers."
+        },
+        {
+          "letter": "C",
+          "text": "Emergency brakes are required on tractors."
+        },
+        {
+          "letter": "D",
+          "text": "Emergency brakes are only required when carrying hazardous materials."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Emergency brakes are required on tractors.",
+      "explanation": "All trucks, truck tractors, and buses must have both emergency brakes and parking brakes."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "10559",
+      "question": "What is the air compressor connected to in a truck?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The transmission"
+        },
+        {
+          "letter": "B",
+          "text": "The engine"
+        },
+        {
+          "letter": "C",
+          "text": "The radiator"
+        },
+        {
+          "letter": "D",
+          "text": "The door latch"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The engine",
+      "explanation": "In an air brake system, the air compressor connects to the engine through gears or a belt."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8877",
+      "question": "What color is the ABS malfunction lamp?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orange"
+        },
+        {
+          "letter": "B",
+          "text": "Yellow"
+        },
+        {
+          "letter": "C",
+          "text": "Green"
+        },
+        {
+          "letter": "D",
+          "text": "Blue"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Yellow",
+      "explanation": "Vehicles with anti-lock braking systems (ABS) have yellow malfunction lamps."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "10960",
+      "question": "What is removed when you drain an air tank?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water and oil"
+        },
+        {
+          "letter": "B",
+          "text": "Ammonia"
+        },
+        {
+          "letter": "C",
+          "text": "Wood"
+        },
+        {
+          "letter": "D",
+          "text": "Chlorine"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Water and oil",
+      "explanation": "Air storage tanks in air brake systems have drains to remove water and compressor oil. If left in the system, water and oil can damage the brakes."
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "state": "Pennsylvania",
+  "category": "cdl",
+  "testName": "Double Test #1 20 Questions • Passing Score 16",
+  "testSlug": "double-1",
+  "url": "/images/pennsylvania/cdl/double-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9540",
+      "question": "Quel est un autre nom pour la conduite de service?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduite de contrôle"
+        },
+        {
+          "letter": "B",
+          "text": "Conduite d'échange"
+        },
+        {
+          "letter": "C",
+          "text": "Conduite de surplus"
+        },
+        {
+          "letter": "D",
+          "text": "Conduite parallèle"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Conduite de contrôle",
+      "explanation": "La conduite de service, également appelée conduite de contrôle ou conduite de signal, fournit de l'air aux freins de la remorque et est contrôlée par la pédale de frein ou le frein à main de la remorque."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10947",
+      "question": "Manger en conduisant:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un bon moyen de maximiser le temps."
+        },
+        {
+          "letter": "B",
+          "text": "Est encouragé sur les longs trajets."
+        },
+        {
+          "letter": "C",
+          "text": "Crée une distraction pour le conducteur."
+        },
+        {
+          "letter": "D",
+          "text": "Est obligatoire pour que la cargaison ne soit pas laissée sans surveillance."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Crée une distraction pour le conducteur.",
+      "explanation": "Pour réduire les risques de conduite distraite, vous devez éviter de manger, de boire ou de fumer en conduisant. Tout ce qui détourne l'attention de la tâche de conduite est une distraction."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11650",
+      "question": "Une faible dégagement en dessous peut causer des difficultés lors de la conduite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Au-dessus des passages à niveau ferroviaires."
+        },
+        {
+          "letter": "B",
+          "text": "Sur les chemins de gravier."
+        },
+        {
+          "letter": "C",
+          "text": "Autour des virages."
+        },
+        {
+          "letter": "D",
+          "text": "À la limite de vitesse affichée."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Au-dessus des passages à niveau ferroviaires.",
+      "explanation": "Les passages à niveau peuvent être difficiles à franchir si vous tractez une remorque avec un faible dégagement en dessous. En particulier, les unités basses et les tracteurs simples tractant de longues remorques sont particulièrement difficiles à conduire sur les passages surélevés."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11566",
+      "question": "Appuyez sur la commande d'alimentation en air de la remorque pour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Activez les freins de secours."
+        },
+        {
+          "letter": "B",
+          "text": "Désactivez les freins pneumatiques."
+        },
+        {
+          "letter": "C",
+          "text": "Actionnez la corne."
+        },
+        {
+          "letter": "D",
+          "text": "Alimenter la remorque en air."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Alimenter la remorque en air.",
+      "explanation": "Appuyez sur la commande d'alimentation en air de la remorque pour alimenter la remorque en air. Tirez la commande d'alimentation en air de la remorque pour couper l'alimentation en air et activer les freins d'urgence."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11233",
+      "question": "La cargaison à l'intérieur d'une remorque:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "N'a pas besoin d'être fixée."
+        },
+        {
+          "letter": "B",
+          "text": "Doit être empilée à pas plus de trois feet de hauteur."
+        },
+        {
+          "letter": "C",
+          "text": "Doit être fixée pour prévenir le mouvement."
+        },
+        {
+          "letter": "D",
+          "text": "Doit être chargée avec les articles les plus lourds au-dessus des articles plus légers."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Doit être fixée pour prévenir le mouvement.",
+      "explanation": "La cargaison doit être fixée correctement pour éviter qu'elle ne se déplace pendant le transit. La cargaison doit être arrangée pour maintenir le centre de gravité du véhicule bas et bien réparti."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9387",
+      "question": "Que se passe-t-il lorsque les roues d'une remorque se bloquent?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La remorque va généralement continuer à se déplacer en ligne droite."
+        },
+        {
+          "letter": "B",
+          "text": "La remorque va se désengager."
+        },
+        {
+          "letter": "C",
+          "text": "La remorque va probablement pivoter."
+        },
+        {
+          "letter": "D",
+          "text": "La remorque va s'arrêter."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La remorque va probablement pivoter.",
+      "explanation": "Une remorque a tendance à pivoter, pouvant potentiellement entraîner un jackknife de remorque, si ses roues se bloquent."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11314",
+      "question": "Un véhicule équipé d'un système de freinage antiblocage (ABS) utilise un voyant ____ pour avertir que le système ne fonctionne pas correctement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vert"
+        },
+        {
+          "letter": "B",
+          "text": "Jaune"
+        },
+        {
+          "letter": "C",
+          "text": "Orange"
+        },
+        {
+          "letter": "D",
+          "text": "Blanc"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Jaune",
+      "explanation": "Les voyants de dysfonctionnement du système de freinage anti-blocage (ABS) sont généralement jaunes. Même si l'ABS ne fonctionne pas correctement, un conducteur aura toujours accès aux fonctions de freinage usuelles du véhicule."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11234",
+      "question": "Lorsqu'un moteur est démarré :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les freins doivent être verrouillés."
+        },
+        {
+          "letter": "B",
+          "text": "Les voyants d'avertissement doivent s'allumer puis s'éteindre rapidement."
+        },
+        {
+          "letter": "C",
+          "text": "La température du liquide de refroidissement diminuera."
+        },
+        {
+          "letter": "D",
+          "text": "Le capot doit être ouvert."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les voyants d'avertissement doivent s'allumer puis s'éteindre rapidement.",
+      "explanation": "Après le démarrage d'un véhicule, les voyants d'avertissement et les avertisseurs sonores doivent s'éteindre après quelques secondes. Si les signaux d'avertissement ne s'éteignent pas, il se peut qu'il y ait un problème avec le véhicule."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11466",
+      "question": "Lors d'un test de fuite appliqué, le taux de fuite maximal pour un véhicule à combinaison triple est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi par minute."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi par minute."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi par minute."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi par minute."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "6 psi par minute.",
+      "explanation": "Il est important de connaître le taux de perte d'air maximal qui est sûr pour votre véhicule spécifique. Une combinaison triple ne devrait pas avoir un taux de fuite supérieur à 6 psi par minute lors d'un test de fuite appliqué."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8845",
+      "question": "Les plaques signalétiques doivent être utilisées :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chaque fois qu'un véhicule transporte des matières dangereuses."
+        },
+        {
+          "letter": "B",
+          "text": "S'il y a de l'espace libre dans le camion."
+        },
+        {
+          "letter": "C",
+          "text": "Si la quantité de matières dangereuses dans le camion dépasse 200 livres."
+        },
+        {
+          "letter": "D",
+          "text": "Si les matières dangereuses créent un risque d'inhalation."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Chaque fois qu'un véhicule transporte des matières dangereuses.",
+      "explanation": "Des plaques doivent être placées à l'extérieur des véhicules transportant des matières dangereuses. Elles identifient la ou les classes spécifiques de matières transportées et avertissent les autres des risques pertinents."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11642",
+      "question": "Dans un ensemble de triples, les soupapes d'arrêt à l'arrière de la remorque du milieu devraient être:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retirées."
+        },
+        {
+          "letter": "B",
+          "text": "Fermées."
+        },
+        {
+          "letter": "C",
+          "text": "Poli."
+        },
+        {
+          "letter": "D",
+          "text": "Ouvert."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Ouvert.",
+      "explanation": "Lors de l'exploitation d'un double ou d'un triple, les soupapes d'arrêt à l'arrière de la dernière remorque doivent être fermées. Toutes les autres soupapes d'arrêt doivent être ouvertes."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9364",
+      "question": "Les médicaments en vente libre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne posent aucun risque de sécurité pour un conducteur."
+        },
+        {
+          "letter": "B",
+          "text": "Ne sont pas mentionnés par aucune loi concernant la conduite sous l'influence."
+        },
+        {
+          "letter": "C",
+          "text": "Ne peuvent pas compromettre la capacité d'un conducteur."
+        },
+        {
+          "letter": "D",
+          "text": "Peuvent affecter la capacité d'une personne à conduire en toute sécurité."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Peuvent affecter la capacité d'une personne à conduire en toute sécurité.",
+      "explanation": "Les médicaments sur ordonnance et en vente libre peuvent avoir des effets secondaires qui peuvent compromettre la capacité d'une personne à conduire en toute sécurité. Il est illégal de conduire un véhicule automobile sous l'influence de l'alcool ou de toute autre substance contrôlée, y compris certains médicaments en vente libre."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9385",
+      "question": "Les tonnelades se produisent lorsque:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conducteur de camion conduit trop vite."
+        },
+        {
+          "letter": "B",
+          "text": "Le conducteur d'un véhicule devant un camion se déplace trop lentement."
+        },
+        {
+          "letter": "C",
+          "text": "Un conducteur de camion conduit trop lentement."
+        },
+        {
+          "letter": "D",
+          "text": "L'ABS fonctionne efficacement."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un conducteur de camion conduit trop vite.",
+      "explanation": "Les renversements se produisent lorsqu'un véhicule est conduit trop vite. Pour réduire le risque de renversement, assurez-vous que le poids de la cargaison est chargé près du sol et que vous prenez les virages et les courbes lentement."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11444",
+      "question": "Lors du désamorçage d'une dolly, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Déverrouiller le crochet de palan avant de déplacer la dolly de dessous la remorque arrière."
+        },
+        {
+          "letter": "B",
+          "text": "Déplacer la dolly de dessous la remorque arrière avant de déverrouiller le crochet de palan."
+        },
+        {
+          "letter": "C",
+          "text": "Relever les jambes de support de la dolly."
+        },
+        {
+          "letter": "D",
+          "text": "Retirer la dolly aussi rapidement que possible."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Déplacer la dolly de dessous la remorque arrière avant de déverrouiller le crochet de palan.",
+      "explanation": "Ne déverrouillez jamais le crochet d'attelage avec la dolly toujours sous la remorque arrière. Cela pourrait causer la barre de traction de la dolly de voler vers le haut, pouvant causer une blessure grave."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8986",
+      "question": "Pourquoi devez-vous vidanger régulièrement les réservoirs d'air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parce que l'air vieillit et doit être remplacé"
+        },
+        {
+          "letter": "B",
+          "text": "Parce que l'air comprimé contient de l'eau qui doit être vidangée des réservoirs"
+        },
+        {
+          "letter": "C",
+          "text": "Pour permettre un changement de pression d'air"
+        },
+        {
+          "letter": "D",
+          "text": "Pour éliminer le mauvais air des réservoirs"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Parce que l'air comprimé contient de l'eau qui doit être vidangée des réservoirs",
+      "explanation": "L'air comprimé dans un système de freinage pneumatique contient généralement une certaine quantité d'eau et d'huile de compresseur. L'eau et l'huile peuvent endommager les freins s'ils s'accumulent dans le système. Les réservoirs doivent être vidés régulièrement pour éliminer cette accumulation."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9539",
+      "question": "Qu'est-ce qu'une soupape de protection du tracteur?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une soupape pour maintenir l'air dans le système de freinage en cas de fuite importante"
+        },
+        {
+          "letter": "B",
+          "text": "Une valve qui empêche le vol du camion"
+        },
+        {
+          "letter": "C",
+          "text": "Une valve qui empêche le conducteur d'aller trop vite"
+        },
+        {
+          "letter": "D",
+          "text": "Une valve qui empêche la remorque d'être libérée accidentellement"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une soupape pour maintenir l'air dans le système de freinage en cas de fuite importante",
+      "explanation": "Dans un véhicule combiné équipé de freins à air, la valve de protection du tracteur maintient l'air dans le système de freinage du tracteur ou du camion en cas de rupture de la remorque ou de fuite."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10104",
+      "question": "Faire marche arrière avec une remorque est dangereux parce que :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il est difficile de voir derrière le véhicule."
+        },
+        {
+          "letter": "B",
+          "text": "La plupart des camions n'ont pas la capacité de se déplacer en marche arrière."
+        },
+        {
+          "letter": "C",
+          "text": "La cargaison peut tomber de la remorque."
+        },
+        {
+          "letter": "D",
+          "text": "Il peut y avoir un poids supplémentaire à l'avant de la remorque."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Il est difficile de voir derrière le véhicule.",
+      "explanation": "La marche arrière est toujours dangereuse car il est impossible de voir tout ce qui se trouve derrière votre véhicule. Si vous devez conduire en marche arrière, utilisez un assistant, si possible."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10941",
+      "question": "Laquelle des surfaces suivantes offre le moins de traction?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glace sèche"
+        },
+        {
+          "letter": "B",
+          "text": "La glace qui est humide"
+        },
+        {
+          "letter": "C",
+          "text": "Chaussée mouillée"
+        },
+        {
+          "letter": "D",
+          "text": "Chaussée sèche"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La glace qui est humide",
+      "explanation": "Soyez particulièrement prudent en conduisant sur la glace qui a commencé à fondre. La glace mouillée est beaucoup plus glissante que la glace sèche."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9007",
+      "question": "Que peut-il se passer si un frein de stationnement est utilisé par temps très humide lorsque la température est inférieure à zéro ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les freins vont couiner."
+        },
+        {
+          "letter": "B",
+          "text": "Les freins peuvent geler de sorte que le véhicule ne peut pas se déplacer."
+        },
+        {
+          "letter": "C",
+          "text": "Les freins peuvent se relâcher soudainement d'eux-mêmes."
+        },
+        {
+          "letter": "D",
+          "text": "Les freins peuvent exploser."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les freins peuvent geler de sorte que le véhicule ne peut pas se déplacer.",
+      "explanation": "Si vous utilisez les freins de stationnement quand le temps est très humide et que la température est inférieure à zéro, les freins peuvent geler, empêchant le véhicule de se déplacer."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9343",
+      "question": "Une inspection avant le trajet comprend ____ étapes fondamentales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deux"
+        },
+        {
+          "letter": "B",
+          "text": "Quatre"
+        },
+        {
+          "letter": "C",
+          "text": "Sept"
+        },
+        {
+          "letter": "D",
+          "text": "Neuf"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sept",
+      "explanation": "Il y a sept étapes fondamentales pour une inspection avant le trajet. Ces étapes incluent la réalisation d'un aperçu du véhicule; la vérification du compartiment moteur; le démarrage du moteur et l'inspection à l'intérieur de la cabine; l'arrêt du moteur et la vérification des feux; une inspection de tour complet; la vérification des feux de signalisation; et le démarrage du moteur et la vérification des freins."
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "state": "Maine",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #3",
+  "slug": "intermediate-practice-test-3",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1234",
+      "question": "停止距离和碰撞严重程度：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "随着车速增加而减少。"
+        },
+        {
+          "letter": "B",
+          "text": "不受车速影响。"
+        },
+        {
+          "letter": "C",
+          "text": "随着车速增加而增加。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "随着车速增加而增加。",
+      "explanation": "当交通以更高速度行驶时，停止距离更长，碰撞更严重。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "256",
+      "question": "该标志表示：",
+      "image": "/images/signs/pennsylvania-workers_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一个社区服务组正在前方高速公路沿线捡拾垃圾。"
+        },
+        {
+          "letter": "B",
+          "text": "在前方工作区内，工人在路上或非常靠近路边。"
+        },
+        {
+          "letter": "C",
+          "text": "前方有儿童在活动。"
+        },
+        {
+          "letter": "D",
+          "text": "前方有行人过路。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在前方工作区内，工人在路上或非常靠近路边。",
+      "explanation": "该标志表示工人可能在前方路上或非常靠近路边，因此在通过该区域时应特别小心。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1313",
+      "question": "在雾中驾驶时，应使用远光灯。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "正确"
+        },
+        {
+          "letter": "B",
+          "text": "错误"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "错误",
+      "explanation": "在雾中驾驶时应使用近光灯。远光灯可能会导致光线从雾中反射到你的眼睛中。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "854",
+      "question": "看到这个标志时您应该做什么？",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "寻找前方火车站。"
+        },
+        {
+          "letter": "B",
+          "text": "继续前进前请先打信号。"
+        },
+        {
+          "letter": "C",
+          "text": "减速并让行给火车。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "减速并让行给火车。",
+      "explanation": "圆形标志表示您正在接近铁路道口。此标志在铁轨前方几百英尺处竖立，告知驾驶员减速、观察、聆听并准备停车。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "364",
+      "question": "水滑通常是由以下原因引起的：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "过度制动。"
+        },
+        {
+          "letter": "B",
+          "text": "突然制动。"
+        },
+        {
+          "letter": "C",
+          "text": "急速转向。"
+        },
+        {
+          "letter": "D",
+          "text": "过度超速。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "过度超速。",
+      "explanation": "当你增加速度时,你的轮胎在清除道路上的水方面变得不太有效。如果你行驶太快,它们可能会完全失去抓地力,导致车辆在水膜上滑行。这被称为\"水滑现象\"。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1623",
+      "question": "每次离开路缘时都需要发出信号。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "正确"
+        },
+        {
+          "letter": "B",
+          "text": "错误"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "正确",
+      "explanation": "每次离开路缘时，必须使用适当的转向信号。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1519",
+      "question": "为了避免与视觉死角中的车辆发生碰撞，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "改变车道前，快速转过头查看您的视觉死角是否清晰。"
+        },
+        {
+          "letter": "B",
+          "text": "每几分钟调整一次后视镜。"
+        },
+        {
+          "letter": "C",
+          "text": "在转弯或改变车道之前按汽车喇叭。"
+        },
+        {
+          "letter": "D",
+          "text": "以上都不是。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "改变车道前，快速转过头查看您的视觉死角是否清晰。",
+      "explanation": "转弯或改变车道前，转过头并沿着您运动的方向瞥过肩膀，查看您的视觉死角是否清晰。永远不要仅依赖镜子。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "343",
+      "question": "转弯时，您必须____您的速度。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "加速"
+        },
+        {
+          "letter": "B",
+          "text": "保持"
+        },
+        {
+          "letter": "C",
+          "text": "改变"
+        },
+        {
+          "letter": "D",
+          "text": "减速"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "减速",
+      "explanation": "转弯时，您应该减速到能够保持对车辆的控制、保持在车道内并对突发情况做出反应的速度。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1770",
+      "question": "如果天气或光线条件要求您在驾驶时打开灯光：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "使用您的停车灯。"
+        },
+        {
+          "letter": "B",
+          "text": "使用您的高光束。"
+        },
+        {
+          "letter": "C",
+          "text": "使用您的低光束。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "使用您的低光束。",
+      "explanation": "在雾、雪或雨的条件下行驶时，使用低光束前灯。高光束前灯的光线会反射回来，造成眩光，使前方的能见度更加困难。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "202",
+      "question": "如果您的车辆因路面积水而开始失去牵引力，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "以恒定速度行驶以获得更好的牵引力。"
+        },
+        {
+          "letter": "B",
+          "text": "用力踩刹车以防止您的车辆打滑。"
+        },
+        {
+          "letter": "C",
+          "text": "逐渐减速且不应踩刹车。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "逐渐减速且不应踩刹车。",
+      "explanation": "在以30 mph低至速度在大雨中行驶时，您的轮胎可能会完全失去与道路的接触，而是滑上路面上方的一层水上。这称为\"水漂\"。如果您的车辆开始水漂，逐渐减速且不应踩刹车。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1247",
+      "question": "在您通过了一辆同向行驶的车辆后，回到右车道的安全时机是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "大约三秒钟后。"
+        },
+        {
+          "letter": "B",
+          "text": "当您不再能从右肩看到被超越车辆时。"
+        },
+        {
+          "letter": "C",
+          "text": "当您能在后视镜中看到被超越车辆的整个前部时。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "当您能在后视镜中看到被超越车辆的整个前部时。",
+      "explanation": "超车时，在您能在后视镜中看到被超越车辆的两个前灯之前，不应该回到原车道。在回到原车道前，务必检查您的盲点。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "478",
+      "question": "这个标志表示：",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "以当前速度继续行驶。"
+        },
+        {
+          "letter": "B",
+          "text": "你必须在前方停止。"
+        },
+        {
+          "letter": "C",
+          "text": "不允许超速。"
+        },
+        {
+          "letter": "D",
+          "text": "前方有交通信号灯。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "前方有交通信号灯。",
+      "explanation": "此标志表示前方有交通信号灯。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "2235",
+      "question": "如果担心、紧张、愤怒或哭泣，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶方式与思路清晰时没有区别。"
+        },
+        {
+          "letter": "B",
+          "text": "可以驾驶得更快，因为他们对感官的感受更敏感。"
+        },
+        {
+          "letter": "C",
+          "text": "应该在启动引擎前花时间专注于驾驶。"
+        },
+        {
+          "letter": "D",
+          "text": "应该在驾驶时打电话给朋友倾诉。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "应该在启动引擎前花时间专注于驾驶。",
+      "explanation": "如果你感到担心、兴奋、哭泣、愤怒或沮丧，你可能无法很好地驾驶。情绪会让你分心，因为你的注意力集中在别的东西上。在驾驶前花时间冷静下来并集中注意力。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "295",
+      "question": "如果转向灯失效，您应该使用____来表示您正在转向。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您的喇叭"
+        },
+        {
+          "letter": "B",
+          "text": "您的前灯"
+        },
+        {
+          "letter": "C",
+          "text": "手势信号"
+        },
+        {
+          "letter": "D",
+          "text": "您的应急闪光灯"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "手势信号",
+      "explanation": "如果您的车辆转向灯不工作，您应该使用手势信号来表示您打算改变方向。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "461",
+      "question": "以下哪项在喝酒后不会发生？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "你的反射和反应时间变慢。"
+        },
+        {
+          "letter": "B",
+          "text": "你对速度和距离的判断被扭曲了。"
+        },
+        {
+          "letter": "C",
+          "text": "你的警惕性降低了。"
+        },
+        {
+          "letter": "D",
+          "text": "你冷静下来，可以更好地集中注意力。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "你冷静下来，可以更好地集中注意力。",
+      "explanation": "酒精会降低你的反应时间，降低你的视力，改变你对速度和距离的判断，降低你从车灯眩光中恢复的能力，并且通常会降低你的自制力，使你更容易冒险。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "208",
+      "question": "以下哪项陈述是关于驾驶和服用药物的真实说法？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "大多数感冒药可能会使人困倦。"
+        },
+        {
+          "letter": "B",
+          "text": "如果按建议剂量服用，非处方药不会影响驾驶能力。"
+        },
+        {
+          "letter": "C",
+          "text": "如果由医生处方，任何时间服用药物都是安全的。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "大多数感冒药可能会使人困倦。",
+      "explanation": "记住，所有药物（处方药或非处方药）都可能具有危险性并可能影响你的驾驶。你为感冒和过敏症服用的非处方药可能会使你困倦并影响你的驾驶能力。了解你的药物如何影响你的驾驶能力是你的责任。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1151",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/one_way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "禁止右转。"
+        },
+        {
+          "letter": "B",
+          "text": "仅按箭头方向行驶。"
+        },
+        {
+          "letter": "C",
+          "text": "前方弯道。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "仅按箭头方向行驶。",
+      "explanation": "监管标志向道路使用者通知必须遵守的交通法规。如果存在此标志，驾驶员必须按箭头指示的方向行驶。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "293",
+      "question": "倒车时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅依赖后视镜。"
+        },
+        {
+          "letter": "B",
+          "text": "闪烁你的灯。"
+        },
+        {
+          "letter": "C",
+          "text": "打开车门，看是否安全继续行驶。"
+        },
+        {
+          "letter": "D",
+          "text": "转过头看清后窗。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "转过头看清后窗。",
+      "explanation": "打算倒车时，上车前务必检查车辆后方。儿童和小物体从驾驶座很难看到。倒车时，转过头来看清后窗。不要仅依赖后视镜或传感器。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1256",
+      "question": "大型车辆有可以延伸到车辆正后方200英尺的盲点。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "正确"
+        },
+        {
+          "letter": "B",
+          "text": "错误"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "正确",
+      "explanation": "大型车辆有可以延伸到车辆正后方200英尺的盲点。不要跟随大型车辆，因为他们无法知道您在那里。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "2081",
+      "question": "夜间驾驶需要增加谨慎，因为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "夜间交通流速更快。"
+        },
+        {
+          "letter": "B",
+          "text": "夜间交通流量更大。"
+        },
+        {
+          "letter": "C",
+          "text": "驾驶员在夜间看不清楚。"
+        },
+        {
+          "letter": "D",
+          "text": "夜间事故发生频率更高。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "驾驶员在夜间看不清楚。",
+      "explanation": "因为天黑，驾驶员在夜间的视野不如白天。从日落后半小时至日出前半小时，或在任何其他500英尺以内看不到人员或车辆的时间，驾驶员必须使用车头灯。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "36",
+      "question": "大卡车前面需要额外空间用于：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "其他驾驶员合并上高速公路。"
+        },
+        {
+          "letter": "B",
+          "text": "卡车驾驶员停止车辆。"
+        },
+        {
+          "letter": "C",
+          "text": "其他驾驶员想要减速时。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "卡车驾驶员停止车辆。",
+      "explanation": "由于体积较大，卡车在以相同速度行驶时需要比汽车更长的停止距离。其他驾驶员不应该在卡车前面插队然后减速或停止。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1462",
+      "question": "如果您想超越沿路行走的行人，且有来往车辆接近，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "减速并让来往车辆先通过，然后再超越行人。"
+        },
+        {
+          "letter": "B",
+          "text": "保持稳定速度行驶。来往车辆必须为您停下。"
+        },
+        {
+          "letter": "C",
+          "text": "鸣喇叭让行人靠边。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "减速并让来往车辆先通过，然后再超越行人。",
+      "explanation": "如果可能，请尽量一次只处理一个道路危险。如果您想超越行人但有来往车辆接近，请减速并让该车辆通过。然后，如果安全，您可以超越行人。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "247",
+      "question": "如果符合以下条件，你可以小心地通过黄灯路口：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "有应急车辆穿过你的车道。"
+        },
+        {
+          "letter": "B",
+          "text": "有行人正在过马路。"
+        },
+        {
+          "letter": "C",
+          "text": "你正在向右转。"
+        },
+        {
+          "letter": "D",
+          "text": "当灯变成黄灯时，你已经在路口内。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "当灯变成黄灯时，你已经在路口内。",
+      "explanation": "如果当你已经在路口内时出现稳定的黄灯，你应小心地通过路口。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "232",
+      "question": "黄色和黑色菱形标志：",
+      "image": "/images/signs/washington-warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "警告您前方道路上或附近的条件。"
+        },
+        {
+          "letter": "B",
+          "text": "帮助您指向前方的城市和城镇。"
+        },
+        {
+          "letter": "C",
+          "text": "告诉您交通法规和规定。"
+        },
+        {
+          "letter": "D",
+          "text": "告诉您前方道路施工。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "警告您前方道路上或附近的条件。",
+      "explanation": "警告标志告诉您前方道路上或附近的条件，通常是菱形，黄色背景上有黑色符号或文字。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "160",
+      "question": "以下哪个陈述关于饮酒和驾驶是正确的？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "如果您在饮酒后能够直线行走，则可以安全驾驶。"
+        },
+        {
+          "letter": "B",
+          "text": "如果您的血液酒精浓度在法律限制以下，您的驾驶不会受损。"
+        },
+        {
+          "letter": "C",
+          "text": "酒精影响判断力，这是安全驾驶所必需的。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "酒精影响判断力，这是安全驾驶所必需的。",
+      "explanation": "酒精中毒会影响您的判断力。良好的判断力对于对道路上看到或听到的事物做出适当反应是必要的。即使您的血液酒精含量低于法律限制，饮用任何量的酒精也可能影响您安全驾驶的能力。"
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "1253",
+      "question": "在有让行标志的路口，你：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "必须向足够近足以引起冲突的对向交通车辆让行。"
+        },
+        {
+          "letter": "B",
+          "text": "只能向你右边的车辆让行。"
+        },
+        {
+          "letter": "C",
+          "text": "应该减速但永远不要停止。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "必须向足够近足以引起冲突的对向交通车辆让行。",
+      "explanation": "当驾驶员接近让行标志时，必须向已在他们打算进入或穿过的车道中行驶的交通让行权。驾驶员应准备在接近让行标志时停止，但如果没有冲突交通，可以继续行驶而不停止。"
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "1852",
+      "question": "如果驾驶员在即将到来的斑马线上看到行人，驾驶员应该怎样做？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "继续前进。驾驶员有优先权。"
+        },
+        {
+          "letter": "B",
+          "text": "等待行人穿过街道。"
+        },
+        {
+          "letter": "C",
+          "text": "向右拉，从行人周围绕过。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "等待行人穿过街道。",
+      "explanation": "驾驶员必须在斑马线内向行人让路。驾驶员应等待直到交叉口清空后才能继续行驶。"
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "1995",
+      "question": "您应该保留额外的缓冲空间：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "跟在旅行车后面时。"
+        },
+        {
+          "letter": "B",
+          "text": "跟在无法看到其车辆后部的驾驶员后面时。"
+        },
+        {
+          "letter": "C",
+          "text": "跟在小型乘用车后面时。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "跟在无法看到其车辆后部的驾驶员后面时。",
+      "explanation": "卡车、公共汽车、货车或任何拖挂露营车或拖车的车辆驾驶员可能无法看到您（如果您直接在他们后面行驶）。跟在这类车辆后面行驶时，应增加跟车距离。此外，大型车辆会阻挡您对道路的视线，因此应增加跟车距离以便绕过车辆两侧查看前面的道路。"
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "656",
+      "question": "更换车道时你不应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查你的侧视镜和后视镜。"
+        },
+        {
+          "letter": "B",
+          "text": "给出转向信号以表示你的意图。"
+        },
+        {
+          "letter": "C",
+          "text": "检查其他可能驶入同一车道的驾驶员。"
+        },
+        {
+          "letter": "D",
+          "text": "使用你的手机与警察联系，以确定前方道路是否畅通。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "使用你的手机与警察联系，以确定前方道路是否畅通。",
+      "explanation": "在改变车道之前，检查你的侧视镜和后视镜，以查看从后面接近你的交通状况。使用转向灯让其他驾驶员知道你计划改变车道。检查其他也可能驶入同一车道的驾驶员。"
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "857",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "路面潮湿时降低速度。"
+        },
+        {
+          "letter": "B",
+          "text": "前方道路蜿蜒曲折或有一系列转弯。"
+        },
+        {
+          "letter": "C",
+          "text": "前方交通增多。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "路面潮湿时降低速度。",
+      "explanation": "警告标志通常是黄色的黑色标记。该标志警告驾驶员路面潮湿时会很滑，应相应降速。"
+    }
+  ]
+}

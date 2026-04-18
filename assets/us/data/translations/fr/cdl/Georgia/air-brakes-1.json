@@ -1,0 +1,660 @@
+{
+  "state": "Georgia",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/georgia/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11676",
+      "question": "Comment devriez-vous tester le signal d'avertissement de basse pression ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Engagez et désactivez le frein de stationnement."
+        },
+        {
+          "letter": "B",
+          "text": "Appuyez et relâchez rapidement la pédale de frein."
+        },
+        {
+          "letter": "C",
+          "text": "Ouvrez les soupapes d'arrêt arrière."
+        },
+        {
+          "letter": "D",
+          "text": "Découplez et recoupplez tous les raccords d'accouplement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Appuyez et relâchez rapidement la pédale de frein.",
+      "explanation": "Il est essentiel que votre voyant d'avertissement de basse pression fonctionne correctement. Après avoir laissé le système se charger, vous pouvez tester le signal d'avertissement en appuyant et relâchant rapidement la pédale de frein. Cela libérera l'air du système de freinage et le signal d'avertissement devrait s'allumer lorsque la pression chute à un niveau dangereux."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8868",
+      "question": "Le manomètre de pression d'application:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indique la quantité de pression d'air appliquée aux freins."
+        },
+        {
+          "letter": "B",
+          "text": "Indique la température de l'air utilisé dans le système de freinage."
+        },
+        {
+          "letter": "C",
+          "text": "Indique la pression de l'air provenant du compresseur."
+        },
+        {
+          "letter": "D",
+          "text": "Indique le nombre de fois où les freins ont été utilisés."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Indique la quantité de pression d'air appliquée aux freins.",
+      "explanation": "Dans un système de freinage à air comprimé, le manomètre de pression d'application indique la quantité de pression d'air appliquée aux freins. Tous les véhicules dotés d'un système de freinage à air comprimé ne disposent pas de ce manomètre."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8873",
+      "question": "Dans un véhicule plus récent, vous appliquez le frein de stationnement :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En utilisant un bouton jaune en forme de diamant."
+        },
+        {
+          "letter": "B",
+          "text": "En utilisant un bouton rond rouge."
+        },
+        {
+          "letter": "C",
+          "text": "En utilisant un bouton carré vert."
+        },
+        {
+          "letter": "D",
+          "text": "En utilisant un bouton rond noir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "En utilisant un bouton jaune en forme de diamant.",
+      "explanation": "Dans un véhicule plus récent équipé de freins à air, le frein de stationnement est contrôlé par un bouton jaune en forme de diamant. Le bouton est tiré vers l'extérieur pour appliquer les freins de stationnement et enfoncé pour les libérer."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11462",
+      "question": "Le ____ indique au conducteur la pression dans les réservoirs d'air.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manomètre de pression d'application"
+        },
+        {
+          "letter": "B",
+          "text": "Régulateur du compresseur d'air"
+        },
+        {
+          "letter": "C",
+          "text": "Manomètre de pression d'alimentation"
+        },
+        {
+          "letter": "D",
+          "text": "Frein à tambour"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Manomètre de pression d'alimentation",
+      "explanation": "Un véhicule équipé de freins pneumatiques doit également être équipé d'un manomètre de pression d'alimentation. Ce manomètre indique au conducteur la pression d'air dans chacun des réservoirs d'air du véhicule."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10560",
+      "question": "Le régulateur du compresseur d'air contrôle :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "B",
+          "text": "À quelle vitesse l'air est pompé dans les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "C",
+          "text": "La température de l'air pompé dans les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "D",
+          "text": "La vitesse du véhicule."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air.",
+      "explanation": "Dans un système de freinage pneumatique, le régulateur de compresseur d'air contrôle quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11720",
+      "question": "Si vous freinez à une vitesse de 55 mph en conduisant sur du pavé sec, le délai de freinage peut ajouter ____ à la distance d'arrêt totale de votre véhicule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "15 feet"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        },
+        {
+          "letter": "D",
+          "text": "10 pieds"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "La distance d'arrêt totale pour les véhicules équipés de freins pneumatiques est composée de quatre facteurs : distance de perception, distance de réaction, distance de délai de freinage et distance de freinage. Si vous freinez à une vitesse de 55 mph en conduisant sur du pavé sec, le délai de freinage peut ajouter environ 32 feet à la distance d'arrêt totale d'un véhicule."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8989",
+      "question": "Quel type de force les freins de secours doivent-ils utiliser ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pression d'air"
+        },
+        {
+          "letter": "B",
+          "text": "Mécanique"
+        },
+        {
+          "letter": "C",
+          "text": "Lourde"
+        },
+        {
+          "letter": "D",
+          "text": "Électrique"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mécanique",
+      "explanation": "Parce que la pression d'air peut éventuellement s'échapper, les freins de secours dans un système de freinage à air comprimé doivent être maintenus par une force mécanique."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11722",
+      "question": "Un véhicule équipé de freins à air se déplaçant à une vitesse de 55 mph dans des conditions de conduite idéales aura besoin d'environ ____ pour s'arrêter complètement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 feet"
+        },
+        {
+          "letter": "B",
+          "text": "250 feet"
+        },
+        {
+          "letter": "C",
+          "text": "300 feet"
+        },
+        {
+          "letter": "D",
+          "text": "450 feet"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "450 feet",
+      "explanation": "La distance d'arrêt totale d'un véhicule est composée de la distance de perception, de la distance de réaction, de la distance de décalage du frein et de la distance de freinage. Avec tous ces facteurs inclus, un véhicule équipé de freins à air roulant à une vitesse de 55 mph dans des conditions de conduite idéales aura besoin d'environ 450 feet pour s'arrêter complètement."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11718",
+      "question": "Lorsque vous avez besoin de vous arrêter en cas d'urgence, vous devez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bloquez les roues et glissez jusqu'à l'arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous d'une manière qui garde votre véhicule en ligne droite."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous d'une manière qui tourne votre véhicule."
+        },
+        {
+          "letter": "D",
+          "text": "Attendez-vous à ce que votre véhicule ralentisse plus rapidement que d'habitude."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Arrêtez-vous d'une manière qui garde votre véhicule en ligne droite.",
+      "explanation": "Si vous avez besoin de faire un arrêt d'urgence, vous pouvez utiliser soit la méthode de freinage contrôlé, soit la méthode de freinage par à-coup. Il est important de freiner d'une manière qui garde votre véhicule se déplaçant en ligne droite tout en vous permettant de tourner, si nécessaire."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9559",
+      "question": "Avant de conduire un véhicule avec des freins à air doubles, une pression d'au moins ____ doit être accumulée dans les deux systèmes de freinage.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi"
+        },
+        {
+          "letter": "B",
+          "text": "25 psi"
+        },
+        {
+          "letter": "C",
+          "text": "50 psi"
+        },
+        {
+          "letter": "D",
+          "text": "100 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "100 psi",
+      "explanation": "Avant de conduire un véhicule équipé d'un système de freinage à air double, laissez le compresseur d'air accumuler une pression d'au moins 100 psi dans les systèmes primaire et secondaire."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10227",
+      "question": "La pédale de frein fait partie de quel système de freinage?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le système de freinage de service"
+        },
+        {
+          "letter": "B",
+          "text": "Le système de frein de stationnement"
+        },
+        {
+          "letter": "C",
+          "text": "Le système de frein de secours"
+        },
+        {
+          "letter": "D",
+          "text": "Le système de freinage auxiliaire"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le système de freinage de service",
+      "explanation": "Le système de freinage de service applique et libère les freins lorsqu'un conducteur appuie sur la pédale de frein pendant la conduite normale."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8881",
+      "question": "Avant de conduire un véhicule avec un système de freins à air double, vous devez attendre que le compresseur d'air construise un minimum de ____ dans les systèmes primaire et secondaire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 psi"
+        },
+        {
+          "letter": "B",
+          "text": "50 psi"
+        },
+        {
+          "letter": "C",
+          "text": "75 psi"
+        },
+        {
+          "letter": "D",
+          "text": "100 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "100 psi",
+      "explanation": "Avant de conduire un véhicule avec un système de freins à air double, vous devriez attendre que le compresseur d'air construise au moins 100 psi dans les systèmes primaire et secondaire."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8877",
+      "question": "Quelle est la couleur des voyants de dysfonctionnement ABS ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orange"
+        },
+        {
+          "letter": "B",
+          "text": "Jaune"
+        },
+        {
+          "letter": "C",
+          "text": "Vert"
+        },
+        {
+          "letter": "D",
+          "text": "Bleu"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Jaune",
+      "explanation": "Les véhicules équipés de systèmes de freinage anti-blocage (ABS) ont des voyants de dysfonctionnement jaunes."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8882",
+      "question": "Que fait l'ABS ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empêcher le blocage des roues"
+        },
+        {
+          "letter": "B",
+          "text": "Empêcher le compresseur d'air de surchauffer"
+        },
+        {
+          "letter": "C",
+          "text": "Empêcher l'utilisation des freins avant sur la glace"
+        },
+        {
+          "letter": "D",
+          "text": "Empêcher l'utilisation des freins si le rétrogradage serait plus efficace"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Empêcher le blocage des roues",
+      "explanation": "L'objectif d'un système de freinage antiblocage (ABS) est d'empêcher les roues de se bloquer lors d'applications difficiles des freins, en particulier sur les surfaces glissantes."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8991",
+      "question": "Les tracteurs routiers avec freins pneumatiques fabriqués à partir du 1er mars 1997 doivent avoir :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un système de freinage anti-blocage (ABS)."
+        },
+        {
+          "letter": "B",
+          "text": "Bluetooth."
+        },
+        {
+          "letter": "C",
+          "text": "GPS."
+        },
+        {
+          "letter": "D",
+          "text": "Une caméra de recul arrière."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un système de freinage anti-blocage (ABS).",
+      "explanation": "Les tracteurs de camion avec freins pneumatiques construits à partir du 1er mars 1997 doivent être équipés de systèmes de freinage antiblocage (ABS)."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8861",
+      "question": "Que fait le régulateur de compresseur d'air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contrôle quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "B",
+          "text": "Contrôle la vitesse à laquelle l'air quitte les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "C",
+          "text": "Contrôle la température de l'air entrant dans les réservoirs de stockage d'air."
+        },
+        {
+          "letter": "D",
+          "text": "Contrôle la température de l'air quittant les réservoirs de stockage d'air."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Contrôle quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air.",
+      "explanation": "Dans un système de freinage pneumatique, le régulateur de compresseur d'air contrôle quand le compresseur d'air pompe l'air dans les réservoirs de stockage d'air."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8996",
+      "question": "Qu'est-ce que les freins antiblocage font?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aider un conducteur à éviter le blocage des roues"
+        },
+        {
+          "letter": "B",
+          "text": "Bloquer les roues avant"
+        },
+        {
+          "letter": "C",
+          "text": "Empêcher un véhicule d'accélérer en montée"
+        },
+        {
+          "letter": "D",
+          "text": "Empêcher un véhicule d'accélérer en descente"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Aider un conducteur à éviter le blocage des roues",
+      "explanation": "La fonction d'un système de freinage antiblocage (ABS) est d'empêcher les roues du véhicule de se bloquer lors d'un freinage brutal."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9382",
+      "question": "Si le voyant d'avertissement de pression d'air s'allume, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuez à conduire normalement."
+        },
+        {
+          "letter": "B",
+          "text": "Activez vos feux de détresse et continuez à conduire."
+        },
+        {
+          "letter": "C",
+          "text": "Appelez l'agence d'application de la loi locale."
+        },
+        {
+          "letter": "D",
+          "text": "Quittez la chaussée en toute sécurité et arrêtez-vous."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Quittez la chaussée en toute sécurité et arrêtez-vous.",
+      "explanation": "Si le voyant d'avertissement de pression d'air ou la sonnerie d'avertissement s'allume pendant que vous conduisez, vous devriez immédiatement arrêter et garer le véhicule en toute sécurité. Ce signal d'avertissement indique qu'il y a un problème dans le système de freinage à air qui doit être réparé."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11680",
+      "question": "Pendant un test de fuite appliquée, le taux de fuite maximal pour un seul véhicule avec freins pneumatiques est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi en une minute."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi en une minute."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi en une minute."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi en une minute."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi en une minute.",
+      "explanation": "Il est important de connaître le taux de perte d'air maximal qui est sûr pour votre véhicule spécifique. Un véhicule unique avec freins pneumatiques ne doit pas avoir un taux de fuite supérieur à 3 psi par minute lors d'un test de fuite appliqué."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8878",
+      "question": "Sur les camions et les autobus, où sont situés les voyants de dysfonctionnement ABS ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur la portière du conducteur"
+        },
+        {
+          "letter": "B",
+          "text": "Sur le tableau de bord"
+        },
+        {
+          "letter": "C",
+          "text": "À l'extérieur du véhicule à côté de la portière du passager"
+        },
+        {
+          "letter": "D",
+          "text": "Sous le capot"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sur le tableau de bord",
+      "explanation": "Les tracteurs, camions et autobus équipés de systèmes de freinage antiblocage (ABS) ont des voyants de dysfonctionnement jaunes situés sur leurs tableaux de bord. Les remorques ont des voyants de dysfonctionnement ABS jaunes sur leur côté gauche, soit à l'avant soit à l'arrière."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9379",
+      "question": "Si les plaquettes de frein frottent contre les tambours de frein et créent trop de chaleur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les freins vont se bloquer."
+        },
+        {
+          "letter": "B",
+          "text": "Les freins deviendront extrêmement sensibles."
+        },
+        {
+          "letter": "C",
+          "text": "Les freins peuvent cesser de fonctionner."
+        },
+        {
+          "letter": "D",
+          "text": "Le compresseur d'air va se mettre en marche pour refroidir les freins."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les freins peuvent cesser de fonctionner.",
+      "explanation": "Les freins chauffent avec l'utilisation. S'ils sont utilisés excessivement et deviennent trop chauds, l'expansion et les changements chimiques les rendront moins efficaces et finalement les feront cesser de fonctionner complètement. C'est ce qu'on appelle « fading des freins »."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "9383",
+      "question": "Pour s'arrêter dans un véhicule qui utilise des freins à air, le conducteur devrait:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tirez sur le levier de frein à air."
+        },
+        {
+          "letter": "B",
+          "text": "Engagez le levier de frein."
+        },
+        {
+          "letter": "C",
+          "text": "Appuyez sur la pédale de frein."
+        },
+        {
+          "letter": "D",
+          "text": "Tirez la pédale de frein vers le haut."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Appuyez sur la pédale de frein.",
+      "explanation": "Pour faire un arrêt normal dans un véhicule avec freins à air, appuyez sur la pédale de frein. Plus la pédale est enfoncée, plus la pression d'air est libérée."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11692",
+      "question": "Le système de frein d'urgence utilise:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seulement des pièces du système de frein de stationnement."
+        },
+        {
+          "letter": "B",
+          "text": "Seulement des pièces du système de frein de service."
+        },
+        {
+          "letter": "C",
+          "text": "Des pièces des systèmes de freins de stationnement et de service."
+        },
+        {
+          "letter": "D",
+          "text": "Seulement des pièces uniques au système de frein d'urgence."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Des pièces des systèmes de freins de stationnement et de service.",
+      "explanation": "Dans un système de freinage pneumatique, il existe trois systèmes de freinage différents : un système de frein de service, un système de frein de stationnement et un système de frein de secours. Le système de frein de secours utilise des éléments des deux systèmes de frein de stationnement et de service."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9138",
+      "question": "Quand seul le tracteur est équipé d'un système de freinage antiblocage (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il y a un risque diminué de décaissement."
+        },
+        {
+          "letter": "B",
+          "text": "Il y a un risque accru de décaissement."
+        },
+        {
+          "letter": "C",
+          "text": "Les freins ne fonctionneront pas aussi efficacement qu'ils le feraient sans ABS."
+        },
+        {
+          "letter": "D",
+          "text": "Les freins deviendront plus sensibles."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Il y a un risque diminué de décaissement.",
+      "explanation": "Si un tracteur est équipé d'un système de freinage antiblocage (ABS) mais pas la remorque, le risque de décaissement sera réduit et le conducteur devrait toujours pouvoir maintenir le contrôle de la direction. Si seule la remorque est équipée d'ABS, il est moins probable que la remorque s'écarte d'un côté."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "9006",
+      "question": "Si le voyant d'avertissement de basse pression s'allume pendant que vous conduisez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le freinage ne se produira que s'il y a suffisamment d'air dans les réservoirs."
+        },
+        {
+          "letter": "B",
+          "text": "Vous pouvez freiner 14 fois avant que l'air du système ne s'épuise."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devriez continuer à conduire normalement et vérifier le système de freinage quand cela vous convient."
+        },
+        {
+          "letter": "D",
+          "text": "Vous devriez continuer à conduire, mais allumez les feux de détresse pour avertir les autres automobilistes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le freinage ne se produira que s'il y a suffisamment d'air dans les réservoirs.",
+      "explanation": "Si le voyant d'avertissement de basse pression d'air s'allume, vous devez arrêter et garer votre véhicule en toute sécurité dès que possible. Un freinage contrôlé ne sera possible que tant qu'il y a suffisamment d'air dans les réservoirs."
+    }
+  ]
+}

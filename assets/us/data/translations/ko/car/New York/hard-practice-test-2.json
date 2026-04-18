@@ -1,0 +1,512 @@
+{
+  "state": "New York",
+  "category": "car",
+  "quizName": "Hard Practice Test #2",
+  "slug": "hard-practice-test-2",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1960",
+      "question": "2차선 도로에서 너무 근접하게 뒤따라오는 경우:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "근접 추종 운전자가 당신을 지나가도록 권장하기 위해 천천히 속도를 줄이세요."
+        },
+        {
+          "letter": "B",
+          "text": "당신과 다른 자동차 사이의 거리를 늘리기 위해 속도를 높이세요."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크를 밟아 속도를 낮춘 다음 원래 속도를 재개하세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "근접 추종 운전자가 당신을 지나가도록 권장하기 위해 천천히 속도를 줄이세요.",
+      "explanation": "다른 운전자가 너무 근접하게 뒤따라오고 있다면, 다른 차선으로 변경하세요. 병합할 수 있는 차선이 없다면, 앞의 도로가 명확해질 때까지 기다렸다가 천천히 속도를 줄이세요. 이는 근접 추종 운전자가 당신을 지나가도록 권장할 것입니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "395",
+      "question": "이중 실선을 횡단할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "느린 트럭을 추월하기 위해."
+        },
+        {
+          "letter": "B",
+          "text": "진입로로 들어가기 위해."
+        },
+        {
+          "letter": "C",
+          "text": "다른 차를 추월하기 위해."
+        },
+        {
+          "letter": "D",
+          "text": "어떤 경우에도 불가능합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "진입로로 들어가기 위해.",
+      "explanation": "이중 실선은 추월하거나 차선을 바꿀 수 없음을 나타냅니다. 좌회전하여 고속도로로 진입하거나 나가거나, 진입로로 들어가거나 나가거나, U턴(허용되는 경우)하는 경우를 제외하고는 선을 횡단할 수 없습니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "485",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "좌회전 금지."
+        },
+        {
+          "letter": "B",
+          "text": "정지 금지"
+        },
+        {
+          "letter": "C",
+          "text": "유턴 금지."
+        },
+        {
+          "letter": "D",
+          "text": "우회도로 앞."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "유턴 금지.",
+      "explanation": "이 표지판은 유턴이 금지되어 있음을 나타냅니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "418",
+      "question": "다른 차량으로 막혀 있는 교차로에 접근합니다. 다음 중 어떻게 해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "앞의 교통이 움직일 때까지 천천히 가십시오."
+        },
+        {
+          "letter": "B",
+          "text": "당신 앞 자동차에 최대한 가깝게 접근하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "교차로를 통과할 수 있을 때까지 교차로 밖에 있으십시오."
+        },
+        {
+          "letter": "D",
+          "text": "자동차를 움직이게 하기 위해 경적을 울리십시오."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "교차로를 통과할 수 있을 때까지 교차로 밖에 있으십시오.",
+      "explanation": "다른 쪽의 교통이 백업되어 있고 교차로를 완전히 통과할 수 없는 경우 교차로에 진입할 수 없습니다. 교차로를 막지 않도록 앞쪽 교통이 정리될 때까지 기다리십시오."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "415",
+      "question": "교차로에서 좌회전을 하고 싶습니다. 신호등은 녹색이지만 맞은편 교통이 많습니다. 당신은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다음 교차로를 사용한다."
+        },
+        {
+          "letter": "B",
+          "text": "횡단보도에서 교통이 정리될 때까지 기다린다."
+        },
+        {
+          "letter": "C",
+          "text": "교차로 중앙에서 교통이 정리될 때까지 기다린다."
+        },
+        {
+          "letter": "D",
+          "text": "녹색 신호등이 있으므로 통행권을 점유한다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "교차로 중앙에서 교통이 정리될 때까지 기다린다.",
+      "explanation": "맞은편 교통이 있는 좌회전을 할 때는 맞은편 교통이 통과할 때까지 기다린 후 회전해야 합니다. 신호등이 녹색이고 앞의 다른 차량이 좌회전을 계획하지 않은 경우 교차로에 들어가 좌회전을 준비할 수 있습니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "103",
+      "question": "먼지나 연기가 도로를 가로질러 불어서 다른 차량을 보는 데 어려움이 있으면 더 천천히 운전하고 다음을 켜세요:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "비상 점멸등."
+        },
+        {
+          "letter": "B",
+          "text": "주차등."
+        },
+        {
+          "letter": "C",
+          "text": "헤드라이트."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "헤드라이트.",
+      "explanation": "다른 차량을 볼 수 없도록 하는 조건이 있을 때마다 헤드라이트를 켜야 합니다. 다른 운전자도 당신을 보는 데 어려움이 있을 수 있습니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "324",
+      "question": "다중 차선 편도 도로 및 고속도로에서 좌회전하려면 다음에서 시작해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교차로의 중앙."
+        },
+        {
+          "letter": "B",
+          "text": "우측 차선."
+        },
+        {
+          "letter": "C",
+          "text": "좌측 차선."
+        },
+        {
+          "letter": "D",
+          "text": "모든 차선."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "좌측 차선.",
+      "explanation": "다중 차선 도로 및 고속도로에서 좌회전하려면 좌측 차선에서 시작하십시오."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1174",
+      "question": "연석이 있는 도로의 오르막길에 주차할 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "앞 바퀴를 일직선으로 유지하고 주차 제동을 설정합니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞 바퀴를 연석에서 멀어지게 돌리세요."
+        },
+        {
+          "letter": "C",
+          "text": "앞 바퀴를 연석 쪽으로 돌리세요."
+        },
+        {
+          "letter": "D",
+          "text": "뒷바퀴를 연석 쪽으로 돌립니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "앞 바퀴를 연석에서 멀어지게 돌리세요.",
+      "explanation": "연석이 있는 경사진 곳에 주차할 때, 바퀴를 연석에서 멀어지도록 왼쪽으로 날카롭게 돌려야 합니다. 이렇게 하면, 제동이 실패해도, 차량이 교통으로 굴러가지 않을 것입니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "432",
+      "question": "특정 위치의 \"주차 금지\" 표지판은 다음을 의미합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "당신의 차량을 그곳에 절대 정차할 수 없습니다."
+        },
+        {
+          "letter": "B",
+          "text": "승객을 싣거나 내리기 위해서만 임시로 정차할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "운전자가 차량에 남아있으면 그곳에 주차할 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "차량을 5분 미만으로 무인으로 두고 갈 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "승객을 싣거나 내리기 위해서만 임시로 정차할 수 있습니다.",
+      "explanation": "\"주차 금지\" 표지판은 물품이나 승객을 싣거나 내리기 위해 임시로 정차할 수 있음을 의미합니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "2079",
+      "question": "자전거를 통과할 때 조심해야 하는 이유는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "당신은 자전거보다 더 빨리 움직이고 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "자전거가 항상 우선권을 가집니다."
+        },
+        {
+          "letter": "C",
+          "text": "맞은편 교통이 당신이 자전거를 추월하려고 하는 것을 보지 못할 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "자전거 운전자는 도로의 물체를 피하기 위해 교통으로 방향을 바꿔야 할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "자전거 운전자는 도로의 물체를 피하기 위해 교통으로 방향을 바꿔야 할 수 있습니다.",
+      "explanation": "자전거를 추월할 때는 자전거 운전자가 도로의 물체를 피하기 위해 교통으로 방향을 바꿔야 할 수 있으므로 항상 주의해야 합니다. 자전거 운전자 근처에서 운전할 때는 항상 특히 주의하십시오."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "117",
+      "question": "이 표지판을 보면 당신은:",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "철도 건널목에 접근하고 있으며 정지를 준비해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "다가오는 철도 건널목에서 항상 정지할 것입니다."
+        },
+        {
+          "letter": "C",
+          "text": "철도 건널목을 건너기 전에 정지하고 신호를 기다려야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "철도 건널목에 접근하고 있으며 정지를 준비해야 합니다.",
+      "explanation": "이 표지판은 철도 건널목에 접근하고 있음을 나타냅니다. 보고, 듣고, 속도를 낮추고, 정지를 준비해야 합니다. 진행하기 전에 열차가 지나갈 때까지 기다리세요."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "85",
+      "question": "당신이 다음을 할 때 방어적으로 운전합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "당신과 앞의 자동차 사이에 한 자동차 길이를 유지하세요."
+        },
+        {
+          "letter": "B",
+          "text": "운전 중 앞의 자동차만 봅시다."
+        },
+        {
+          "letter": "C",
+          "text": "가능한 위험을 찾기 위해 눈을 계속 움직이세요."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "가능한 위험을 찾기 위해 눈을 계속 움직이세요.",
+      "explanation": "당신은 도로 앞쪽에서 잠재적 위험을 찾고 있을 때 방어적으로 운전합니다. 차량 바로 앞의 도로만 계속 바라보는 것은 위험합니다. 앞쪽을 스캔하면서 주변 차량에 주의를 기울이세요."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "593",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/arkansas-traffic_lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로가 앞으로 확장됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "차선 감소; 우측 차선이 곧 끝납니다."
+        },
+        {
+          "letter": "C",
+          "text": "고속도로 진입로가 앞에 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "차선 감소; 좌측 차선이 곧 끝납니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "차선 감소; 우측 차선이 곧 끝납니다.",
+      "explanation": "이 표지는 우측 차선이 앞에서 끝남을 나타냅니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "562",
+      "question": "눈부신 헤드라이트를 가진 자동차를 만날 때 다음 중 무엇을 해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 차량이 헤드라이트를 어둡게 할 때까지 당신의 밝은 조명을 사용합니다."
+        },
+        {
+          "letter": "B",
+          "text": "빠르게 지나가도록 경고하기 위해 라이트를 켜고 끕니다."
+        },
+        {
+          "letter": "C",
+          "text": "라이트를 어둡게 한 다음 빠르게 지나가기 위해 속도를 올립니다."
+        },
+        {
+          "letter": "D",
+          "text": "도로의 오른쪽을 향해 보십시오."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "도로의 오른쪽을 향해 보십시오.",
+      "explanation": "차량이 상향 헤드라이트를 켜고 당신을 향해 올 때, 헤드라이트에서 시선을 돌리고 자동차가 지나갈 때까지 도로의 오른쪽을 바라봅니다. 이렇게 하면 눈부심으로부터 보호됩니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "471",
+      "question": "운전자는 해가 진 후 사용되는 모든 자전거가 다음을 가져야 한다는 것을 알아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "반사 핸들바 그립."
+        },
+        {
+          "letter": "B",
+          "text": "전면 전조등과 빨간색 후미등."
+        },
+        {
+          "letter": "C",
+          "text": "앞뒤 펜더에 있는 흰색 반사경."
+        },
+        {
+          "letter": "D",
+          "text": "제동등."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "전면 전조등과 빨간색 후미등.",
+      "explanation": "밤에 사용하는 자전거는 앞쪽에서 최소 500 feet 거리에서 볼 수 있는 전조등과 뒤쪽에서 최소 300 feet 거리에서 볼 수 있는 빨간색 후미등을 가져야 합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "473",
+      "question": "진입로에서 후진하고 싶습니다. 근처에서 아이들이 놀고 있는 것을 봅니다. 차량을 움직이기 전에 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "아이들이 움직이고 있음을 경고하기 위해 엔진을 빨리 돌리십시오."
+        },
+        {
+          "letter": "B",
+          "text": "아이들이 들을 수 있도록 경적을 울리십시오."
+        },
+        {
+          "letter": "C",
+          "text": "차량 뒤로 걸어가서 길이 뜬지 확인하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "아이들에게 진입로에서 멀리 떨어져 있으라고 말하십시오."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "차량 뒤로 걸어가서 길이 뜬지 확인하십시오.",
+      "explanation": "차량을 후진할 때 뒷 창을 통해 보행자와 기타 장애물을 확인하십시오. 특히 어린이가 근처에 있을 때 거울에만 의존하지 마십시오. 진입로로 들어가거나 나가기 전에 차량에서 내려 차량 뒤를 확인하십시오."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1461",
+      "question": "운전면허증을 소유하는 것은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "권리이지 특권이 아닙니다."
+        },
+        {
+          "letter": "B",
+          "text": "특권이지 권리가 아닙니다."
+        },
+        {
+          "letter": "C",
+          "text": "요구사항입니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "특권이지 권리가 아닙니다.",
+      "explanation": "운전면허증을 소유하는 것은 권리가 아닙니다. 이것은 획득하고 유지해야 하는 특권입니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "421",
+      "question": "왕복 도로에서 일방 통행 도로로 좌회전하고 있습니다. 회전을 완료했을 때 차량은 다음 위치에 있어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "거리의 오른쪽 차선에서."
+        },
+        {
+          "letter": "B",
+          "text": "거리의 중앙에서."
+        },
+        {
+          "letter": "C",
+          "text": "거리의 왼쪽 차선에서."
+        },
+        {
+          "letter": "D",
+          "text": "차량이 가장 적은 차선에서."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "거리의 왼쪽 차선에서.",
+      "explanation": "왕복 도로에서 일방 통행 도로로 좌회전할 때는 방금 떠난 차선에 가장 가까운 차선으로 회전을 완료해야 합니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "406",
+      "question": "신호가 없는 철도 건널목에 접근할 때 적절한 조치는 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "항상 자동차를 완전히 정지시키세요."
+        },
+        {
+          "letter": "B",
+          "text": "속도를 줄이고 정지할 준비를 하세요."
+        },
+        {
+          "letter": "C",
+          "text": "모든 철도 건널목에 신호가 있으므로 이 상황을 절대 만나지 않습니다."
+        },
+        {
+          "letter": "D",
+          "text": "빠르게 선로를 건너기 위해 속도를 높이세요."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "속도를 줄이고 정지할 준비를 하세요.",
+      "explanation": "신호가 없는 철도 건널목에 접근할 때, 속도를 줄이고 정지할 준비를 하세요. 건널목을 건너기 전에 어느 방향의 선로에서도 기차가 접근하고 있지 않은지 확인하세요. 기차가 오는 것을 보거나 들으면 가장 가까운 선로에서 안전한 거리에서 정지하고 기차가 지나간 후에 진행하세요."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1423",
+      "question": "응급 차량이 접근하는 것을 보거나 들을 때, 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "즉시 정지하고 차량을 지나가게 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로의 오른쪽으로 최대한 멀리 운전하고 정지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "천천히 진행하고 차량을 지나가게 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "천천히 계속 움직이며 도로의 오른쪽에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "도로의 오른쪽으로 최대한 멀리 운전하고 정지합니다.",
+      "explanation": "2차선 도로나 분할되지 않은 고속도로에서 운전할 때, 응급 차량의 불빛 및/또는 사이렌이 어느 방향에서 접근하든 상관없이 양보해야 합니다. 즉시 도로의 오른쪽으로 최대한 가까이 운전하여 정지하되, 교차로 내에서 정지하지 않도록 주의하세요."
+    }
+  ]
+}

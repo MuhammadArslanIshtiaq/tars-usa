@@ -1,0 +1,530 @@
+{
+  "state": "Georgia",
+  "category": "cdl",
+  "testName": "Bus Test #1 20 Questions • Passing Score 16",
+  "testSlug": "bus-1",
+  "url": "/images/georgia/cdl/bus-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11397",
+      "question": "운전자 측 평행 주차 기동을 완료하도록 요청받았을 때 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주차 공간을 지나 백업하면서 나간 후, 앞으로 나가 들어갑니다."
+        },
+        {
+          "letter": "B",
+          "text": "주차 공간을 지나 앞으로 나간 후, 백업하여 들어갑니다."
+        },
+        {
+          "letter": "C",
+          "text": "먼저 지나가지 않고 주차 공간으로 앞으로 나가 들어갑니다."
+        },
+        {
+          "letter": "D",
+          "text": "먼저 지나가지 않고 주차 공간으로 백업하여 들어갑니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "주차 공간을 지나 앞으로 나간 후, 백업하여 들어갑니다.",
+      "explanation": "차량의 왼쪽에 있는 주차 공간으로 평행 주차 조작을 완료하도록 요청받을 수 있습니다. 주차 공간을 지나 운전한 후 공간의 뒷부분에 차량의 뒷부분을 최대한 가깝게 유지하면서 후진해야 합니다. 차량이 공간의 경계선 내에 완전히 있어야 합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9027",
+      "question": "기본 제어 기술 테스트를 볼 때 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량을 정지하고 차량의 위치를 확인하기 위해 차량을 떠날 수 없습니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량의 위치를 확인하기 위해 차량을 떠나지 않도록 권장됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "차량이 후진 상태에만 놓여 있으면 차량을 떠날 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "차량이 중립 상태에 놓여 있고 주차 브레이크가 설정된 경우에만 차량을 떠날 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "차량이 중립 상태에 놓여 있고 주차 브레이크가 설정된 경우에만 차량을 떠날 수 있습니다.",
+      "explanation": "기본 차량 제어 기술 테스트 중에 차량을 검사하기 위해 차량을 떠나기 전에 차량을 중립 상태에 놓고 주차 브레이크를 설정해야 합니다. 직선 백업 운동 중을 제외하고 차량의 위치를 최대 2회까지 확인할 수 있으며, 직선 백업 운동 중에는 최대 1회까지만 확인할 수 있습니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9039",
+      "question": "기술 시험 중 곡선 구간을 운전할 때 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "곡선을 완성하기 위해 필요하면 차선을 벗어납니다."
+        },
+        {
+          "letter": "B",
+          "text": "곡선에 진입한 후 속도를 줄입니다."
+        },
+        {
+          "letter": "C",
+          "text": "회전 중 다른 차량을 찾는 것을 삼갑니다."
+        },
+        {
+          "letter": "D",
+          "text": "곡선에 진입하기 전에 속도를 줄입니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "곡선에 진입하기 전에 속도를 줄입니다.",
+      "explanation": "도로 운전 기술 시험 중 곡선에 접근할 때 곡선에 진입한 후 추가로 제동하거나 변속할 필요가 없도록 충분히 속도를 줄여야 합니다. 차량을 차선에 유지하고 모든 방향의 교통을 계속 확인하십시오."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9157",
+      "question": "적절히 조정된 외부 볼록 미러는 운전자가 다음을 볼 수 있게 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "거울 마운트까지 버스의 전체 측면."
+        },
+        {
+          "letter": "B",
+          "text": "버스의 앞부분."
+        },
+        {
+          "letter": "C",
+          "text": "버스의 후문."
+        },
+        {
+          "letter": "D",
+          "text": "버스의 맨 위."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "거울 마운트까지 버스의 전체 측면.",
+      "explanation": "학교 버스에서 외부 볼록 거울은 운전자가 버스의 양쪽에 최소 1개 차선, 거울 마운트까지 버스의 전체 측면, 그리고 각 후타이어의 앞부분이 지면에 닿는 곳을 볼 수 있도록 조정되어야 합니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9667",
+      "question": "버스 정류장 몇 초 전에 경고등을 활성화해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1~2초"
+        },
+        {
+          "letter": "B",
+          "text": "2~4초"
+        },
+        {
+          "letter": "C",
+          "text": "5~10초"
+        },
+        {
+          "letter": "D",
+          "text": "45초"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "5~10초",
+      "explanation": "학교 버스가 교대로 황색 경고등을 갖추고 있다면, 정류장 최소 200피트, 즉 약 5~10초 전에 활성화해야 합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9031",
+      "question": "도로 주행 시험 중에 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전 기술을 보여주기 위해 자신의 경로를 개발합니다."
+        },
+        {
+          "letter": "B",
+          "text": "시험관의 지시를 듣습니다."
+        },
+        {
+          "letter": "C",
+          "text": "함께 탈 승객을 데려옵니다."
+        },
+        {
+          "letter": "D",
+          "text": "안전하지 않은 방식으로 운전합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "시험관의 지시를 듣습니다.",
+      "explanation": "도로 주행 시험 중에 시험관의 지시를 듣고 따라야 합니다. 그들은 절대 당신에게 안전하지 않은 방식으로 운전하도록 요청하지 않습니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11404",
+      "question": "기본 차량 제어 기술 시험 중에 다음을 수행하도록 요청받을 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주차 공간으로 앞으로 당깁니다."
+        },
+        {
+          "letter": "B",
+          "text": "8자 모양으로 운전하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "골목 도킹."
+        },
+        {
+          "letter": "D",
+          "text": "경적을 울리세요."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "골목 도킹.",
+      "explanation": "기본 차량 제어 기술 시험에 포함될 수 있는 조작에는 일직선 백업, 옵셋 백/우측 주차, 옵셋 백/좌측 주차, 운전석 측 평행 주차, 기존 평행 주차 및 골목 도킹이 포함됩니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "9203",
+      "question": "다음 중 연간 가장 많은 학생 사망을 초래할 가능성이 있는 것은 어느 것입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "스쿨버스에 타고 내리는 학생"
+        },
+        {
+          "letter": "B",
+          "text": "음주 운전자가 관련된 사고"
+        },
+        {
+          "letter": "C",
+          "text": "부주의로 인한 사고"
+        },
+        {
+          "letter": "D",
+          "text": "운전자가 교통 신호 또는 표지판을 무시하는 사고"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "스쿨버스에 타고 내리는 학생",
+      "explanation": "스쿨버스에 탑승 중인 학생보다 스쿨버스에 타고 내릴 때 더 많은 학생이 매년 사망합니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11387",
+      "question": "직선 백업 운동이 아닌 운동 중에 차량을 빠져나가 위치를 확인할 수 있는 최대 횟수는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1회."
+        },
+        {
+          "letter": "B",
+          "text": "Two times."
+        },
+        {
+          "letter": "C",
+          "text": "Three times."
+        },
+        {
+          "letter": "D",
+          "text": "Four times."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Two times.",
+      "explanation": "운전자는 기본 조작 기술 시험 운동 중에 차량을 빠져나가 위치를 확인할 수 있습니다. 이 행동을 \"Look\"이라고 합니다. 직선 백업 운동 중에는 1회를 초과할 수 없습니다. 다른 모든 운동 중에는 2회를 초과할 수 없습니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9208",
+      "question": "운전자가 학생이 버스에서 내린 후 그 학생을 확인할 수 없는 경우, 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "버스를 보호하고 학생을 찾기 위해 내립니다."
+        },
+        {
+          "letter": "B",
+          "text": "학생이 안전하게 버스에서 내렸다고 가정합니다."
+        },
+        {
+          "letter": "C",
+          "text": "버스 뒤쪽으로 걸어가서 학생이 다시 탔는지 확인합니다."
+        },
+        {
+          "letter": "D",
+          "text": "다른 학생에게 그 학생을 봤는지 물어봅니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "버스를 보호하고 학생을 찾기 위해 내립니다.",
+      "explanation": "하차 중에 스쿨버스 운전자가 버스 외부에서 학생을 확인할 수 없으면 버스를 보호하고 버스 주변 및 아래에서 실종된 학생을 확인해야 합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9020",
+      "question": "밀폐된 트레일러의 앞부분은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "깨끗하게 청소되어야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "헝겊을 포함해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "화물을 운반하지 않아야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "균열이 없어야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "균열이 없어야 합니다.",
+      "explanation": "차량 검사 시험의 일부로 밀폐된 트레일러를 검사할 때 균열, 팽창 또는 구멍과 같은 손상 흔적이 있는지 트레일러의 앞 영역을 확인하십시오."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9407",
+      "question": "기본 차량 제어 기술 시험 중:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "풀-업은 항상 지원자에게 불리하게 작용합니다."
+        },
+        {
+          "letter": "B",
+          "text": "풀-업은 최소한 한 번은 완료되어야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "방향을 변경하지 않고 정지하는 것은 풀-업으로 간주되지 않습니다."
+        },
+        {
+          "letter": "D",
+          "text": "과도한 풀-업은 일부 시험 감독자의 의견에 따라 허용됩니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "방향을 변경하지 않고 정지하는 것은 풀-업으로 간주되지 않습니다.",
+      "explanation": "기본 차량 제어 기술 시험 중에, 풀-업(pull-up)은 지원자가 정지하고 더 나은 위치를 얻기 위해 앞으로 나아갈 때마다 점수를 매깁니다. 방향을 변경하지 않고 정지하는 것은 점수를 매기지 않습니다. 과도한 수의 풀-업은 오류로 계산됩니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10137",
+      "question": "학생을 태우기 위해 정지할 때 운전자는 다음 전에 모든 주변 교통이 정지했는지 확인해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "문을 열고 학생들에게 버스에 접근하도록 신호를 보냅니다."
+        },
+        {
+          "letter": "B",
+          "text": "교대로 깜박이는 빨간 불을 켭니다."
+        },
+        {
+          "letter": "C",
+          "text": "도로의 옆으로 차를 세웁니다."
+        },
+        {
+          "letter": "D",
+          "text": "브레이킹합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "문을 열고 학생들에게 버스에 접근하도록 신호를 보냅니다.",
+      "explanation": "학생을 태우기 위해 멈출 때, 스쿨버스 운전자는 문을 열고 대기 중인 학생들에게 버스에 접근하도록 신호를 보내기 전에 모든 근처 차량이 멈췄는지 확인해야 합니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9015",
+      "question": "차량 점검 중 스프링을 확인할 때 다음을 모두 수행하되 다음은 제외합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "누락된 리프 스프링을 찾으십시오."
+        },
+        {
+          "letter": "B",
+          "text": "부러진 코일 스프링을 찾으십시오."
+        },
+        {
+          "letter": "C",
+          "text": "토션 스프링이 손상되지 않았는지 확인하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "금이 간 리프 스프링에 접착제를 바릅니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "금이 간 리프 스프링에 접착제를 바릅니다.",
+      "explanation": "차량 점검 테스트의 일부로 스프링을 확인할 때 누락되거나 이동하거나 금이 가거나 부러진 리프 스프링뿐만 아니라 부러지거나 뒤틀린 코일 스프링을 찾아야 합니다. 차량이 토션 바, 토크 암 또는 기타 유형의 현가 부품이 장착되어 있는 경우 손상되지 않았고 안전하게 장착되었는지 확인하십시오."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11390",
+      "question": "차량의 최종 위치는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "검사관이 지시한 정확한 위치."
+        },
+        {
+          "letter": "B",
+          "text": "검사관이 설명한 최종 위치의 5피트 이내."
+        },
+        {
+          "letter": "C",
+          "text": "안전하게 주차할 수 있는 곳이면 어디든."
+        },
+        {
+          "letter": "D",
+          "text": "검사관이 설명한 최종 위치의 2피트 이내."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "검사관이 지시한 정확한 위치.",
+      "explanation": "각 연습을 검사관이 설명한 정확한 위치에서 차량을 완료해야 합니다. 검사관이 설명한 방식대로 정확하게 연습을 완료하지 않으면 처벌을 받을 수 있으며, 기본 제어 기술 시험에 떨어질 수 있습니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9012",
+      "question": "다음 중 허용되지 않는 긴급 장비는 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3개의 빨간색 반사 삼각형"
+        },
+        {
+          "letter": "B",
+          "text": "6개의 퓨즈"
+        },
+        {
+          "letter": "C",
+          "text": "3개의 액체 연소 플레어"
+        },
+        {
+          "letter": "D",
+          "text": "4개의 노란색 정사각형"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4개의 노란색 정사각형",
+      "explanation": "차량 검사 시험 중에 예비 전기 퓨즈, 세 개의 빨간색 반사 삼각형, 6개의 퓨즈 또는 3개의 액체 연소 플레어, 그리고 적절히 충전되고 정격된 소화기를 포함한 긴급 장비를 제시해야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9209",
+      "question": "버스 정거장에 접근할 때, 버스에 있는 학생들은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "앉아 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "일어나서 짐을 챙깁니다."
+        },
+        {
+          "letter": "C",
+          "text": "버스 앞으로 걸어가서 하차를 준비합니다."
+        },
+        {
+          "letter": "D",
+          "text": "운전자에게 질문을 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "앉아 있습니다.",
+      "explanation": "스쿨버스의 학생들은 지시를 받을 때까지 앉아 있어야 합니다. 버스가 움직이는 동안 학생들이 버스 내를 돌아다니는 것은 안전하지 않습니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9013",
+      "question": "차량 검사 시험 중에 다음을 모두 수행해야 합니다(예외):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량 주변을 돌아다닙니다."
+        },
+        {
+          "letter": "B",
+          "text": "각 항목을 가리키거나 접촉합니다."
+        },
+        {
+          "letter": "C",
+          "text": "확인하고 있는 것과 그 이유를 설명합니다."
+        },
+        {
+          "letter": "D",
+          "text": "차량 아래로 기어 들어갑니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "차량 아래로 기어 들어갑니다.",
+      "explanation": "CDL을 취득하기 위해서는 검사 시험에 합격하고 차량이 안전하게 운영될 수 있음을 입증해야 합니다. 차량 검사 시험 중에 차량 주변을 돌아다니며 각 항목을 가리키거나 접촉하고 검사관에게 무엇을 확인하고 있는지, 그리고 그 이유를 설명해야 합니다. 후드 아래나 차량 아래로 기어 들어갈 필요는 없습니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9154",
+      "question": "맹점은 스쿨버스 뒤로 최소 ____ 연장됩니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 feet"
+        },
+        {
+          "letter": "B",
+          "text": "50 feet"
+        },
+        {
+          "letter": "C",
+          "text": "100 feet"
+        },
+        {
+          "letter": "D",
+          "text": "1,000피트"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "50 feet",
+      "explanation": "스쿨버스는 측면 평면 미러 바로 아래, 측면 평면 미러 바로 앞, 후면 범퍼 바로 뒤에 맹점이 있습니다. 후면 맹점은 일반적으로 버스 뒤로 50~150피트 연장되지만 차량의 길이에 따라 때로는 400피트까지 연장될 수 있습니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9023",
+      "question": "차량 점검 중에 다음을 확인하십시오:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "비상 탈출구를 열기가 어렵습니다."
+        },
+        {
+          "letter": "B",
+          "text": "비상 탈출 경고 장치가 제대로 작동합니다."
+        },
+        {
+          "letter": "C",
+          "text": "비상구에서 삐걱거리는 소리가 난다."
+        },
+        {
+          "letter": "D",
+          "text": "비상구는 운전석 내부에서 접근할 수 없다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "비상 탈출 경고 장치가 제대로 작동합니다.",
+      "explanation": "차량 점검 테스트 중에 비상 탈출 경고 장치가 작동하는지 확인해야 합니다. 모든 비상 탈출구는 부드럽게 작동하고, 손상되지 않으며, 내부에서 안전하게 닫혀야 합니다."
+    }
+  ]
+}

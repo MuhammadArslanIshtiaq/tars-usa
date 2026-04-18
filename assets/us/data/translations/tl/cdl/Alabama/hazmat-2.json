@@ -1,0 +1,746 @@
+{
+  "state": "Alabama",
+  "category": "cdl",
+  "testName": "HazMat Test #2 30 Questions • Passing Score 24",
+  "testSlug": "hazmat-2",
+  "url": "/images/alabama/cdl/hazmat-2.html",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9664",
+      "question": "Ang improperly placarded na sasakyan:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hindi kailanman maaaring ilipat."
+        },
+        {
+          "letter": "B",
+          "text": "Maaari lamang ilipat sa emergency."
+        },
+        {
+          "letter": "C",
+          "text": "Maaaring maidyusan sa maikling distansya."
+        },
+        {
+          "letter": "D",
+          "text": "Maaaring maidyusan kung hindi ito naglalaman ng radioactive na materyales."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Maaari lamang ilipat sa emergency.",
+      "explanation": "Ang sasakyan na nagdadala ng hazardous materials ay dapat na tamang placarded upang mabigyan. Ang improperly placarded na sasakyan ay maaari lamang ibigyan kung kinakailangan upang protektahan ang buhay o ari-arian sa isang emergency."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11507",
+      "question": "Aling uri ng materyales ang maaaring kailangang magkaroon ng transport index?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Likido"
+        },
+        {
+          "letter": "B",
+          "text": "Madaling magalab"
+        },
+        {
+          "letter": "C",
+          "text": "Radioactive"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Radioactive",
+      "explanation": "Ang ilang radioactive na materyales ay kinakailangang kasama ng isang transport index. Ang transport index ay isang numero na nagpapakita kung magkano ang kontrol na kailangan ng materyales sa panahon ng transportasyon. Ang kabuuang transport index ng lahat ng kargo sa isang sasakyan ay hindi maaaring lumampas sa 50."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9484",
+      "question": "Kung ang mga corrosive na materyales ay dumulas sa isang trailer, ang trailer ay dapat na:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Linisang may asido."
+        },
+        {
+          "letter": "B",
+          "text": "Linisang may tubig."
+        },
+        {
+          "letter": "C",
+          "text": "Iwanan na mag-air dry nang walang paghuhugas."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Linisang may tubig.",
+      "explanation": "Ang mga bahagi ng isang sasakyan na nakaekspose sa corrosive na likido ay dapat na maingat na hugasan ng tubig."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8702",
+      "question": "Kung nagdadala ng package na naglalaman ng radioactive materials, mahalaga na malaman na:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang radiasyon ay nakapaligid sa pakete at dadaan sa ibang mga pakete."
+        },
+        {
+          "letter": "B",
+          "text": "Ang pakete ay dapat dalhin sa cab."
+        },
+        {
+          "letter": "C",
+          "text": "Ang pakete ay dapat ilagay sa kanilang pliegi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang radiasyon ay nakapaligid sa pakete at dadaan sa ibang mga pakete.",
+      "explanation": "Ang radiation ay magbubuklod sa bawat package ng radioactive materials at dadaan sa lahat ng malapit na packages. Ang bilang ng mga packages na maaaring i-load nang magkakasama ay kontrolado."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8697",
+      "question": "Kapag naglo-load ng mga container ng hazardous na materyales, hindi mo dapat gamitin:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mga dolly."
+        },
+        {
+          "letter": "B",
+          "text": "Mga hook."
+        },
+        {
+          "letter": "C",
+          "text": "Mga tali."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mga hook.",
+      "explanation": "Laging protektahan ang mga container ng hazardous na materyales. Kapag nag-load ng hazardous na materyales, hindi kailanman gamitin ang kagamitan na maaaring makasama sa mga container o packaging, tulad ng mga hook."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9485",
+      "question": "Aling ahensya ang tumutulong na mag-coordinate ng emergency response sa chemical hazards?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang National Response Center"
+        },
+        {
+          "letter": "B",
+          "text": "Ang Federal Containment Organization"
+        },
+        {
+          "letter": "C",
+          "text": "Ang United Center for Chemical Assistance"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang National Response Center",
+      "explanation": "Ang National Response Center ay tumutulong na mag-koordina ng emergency response sa chemical hazards. Ito ay dapat kontakin sa panahon ng hazardous materials spill."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8703",
+      "question": "Kapag nagdadala ng Division 1.1, 1.2, o 1.3 na explosives, ang iyong sasakyan ay hindi dapat na:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nakapark sa loob ng 300 feet ng isang tulay."
+        },
+        {
+          "letter": "B",
+          "text": "Nakapark sa loob ng 40 feet ng kalsada."
+        },
+        {
+          "letter": "C",
+          "text": "Maidyusan sa ulan o niyebe."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Nakapark sa loob ng 300 feet ng isang tulay.",
+      "explanation": "Maliban sa panahon ng maikling pagparada upang magsagawa ng kinakailangang mga gawain para sa pagpapatakbo ng sasakyan (tulad ng pag-refuel), hindi kailanman magpark ng isang sasakyan na nagdadala ng Division 1.1, 1.2, o 1.3 na explosives sa loob ng 300 feet mula sa isang tulay, tunnel, o gusali. Hindi kailanman magpark ng ganitong sasakyan sa loob ng limang feet mula sa traveled portion ng kalsada."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8925",
+      "question": "Ang isang taong nagbabantay sa pag-load o pag-unload ng isang tank ay dapat gawin ang lahat ng sumusunod, maliban sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manatiling bantay."
+        },
+        {
+          "letter": "B",
+          "text": "Manatili sa loob ng 25 feet ng tank."
+        },
+        {
+          "letter": "C",
+          "text": "Magsuot ng isang chemical suit."
+        },
+        {
+          "letter": "D",
+          "text": "Malaman ang mga hazard ng mga materyales na kasangkot."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Magsuot ng isang chemical suit.",
+      "explanation": "Ang taong responsable sa pag-load o pag-unload ng isang hazardous materials cargo tank ay dapat masiguro na isang qualified na taong laging sumusubaybay sa proseso. Ang supervisor ay dapat na bantay; may malinaw na paningin ng tank; nasa loob ng 25 feet ng tank; alam ang mga hazard ng mga materyales na kasangkot; alam ang mga pamamaraan na dapat sundin sa kaso ng emergency; at may pahintulot at kakayahang gumagalaw ang tank."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "10968",
+      "question": "Ang mga shipping papers ay dapat na:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nakatagong mula sa paningin."
+        },
+        {
+          "letter": "B",
+          "text": "Inilagay sa glove box."
+        },
+        {
+          "letter": "C",
+          "text": "Madaling makita ng sinumang pumasok sa cab."
+        },
+        {
+          "letter": "D",
+          "text": "Laminado."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Madaling makita ng sinumang pumasok sa cab.",
+      "explanation": "Kapag nagdadala ng hazardous na materyales, ang mga shipping papers ay dapat panatilihin sa isang pouch sa driver's side door, o sa ibang lokasyon kung saan ang driver ay madaling maaabot habang ang kanilang seat belt ay nakakabit. Ang mga papers ay dapat na madaling makita ng sinumang pumasok sa cab."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8695",
+      "question": "Upang malaman kung aling placard ang gagamitin, kailangan mong malaman:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang hazard class ng mga materyales."
+        },
+        {
+          "letter": "B",
+          "text": "Ang uri ng container na nagkakabit sa mga materyales."
+        },
+        {
+          "letter": "C",
+          "text": "Ang destinasyon ng mga materyales."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang hazard class ng mga materyales.",
+      "explanation": "Upang matukoy kung aling mga placard ang kailangan gamitin, dapat mong malaman ang hazard class ng mga materyales na ipinapadala, ang dami ng hazardous na materyales na ipinapadala, at ang kabuuang bigat ng lahat ng hazardous na materyales sa iyong sasakyan."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10970",
+      "question": "Kung ang kargo ay dumadalos, dapat mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hawakan ang leaking material upang matukoy ang cargo."
+        },
+        {
+          "letter": "B",
+          "text": "Gumamit ng shipping papers at labels upang matukoy ang leaking cargo."
+        },
+        {
+          "letter": "C",
+          "text": "Ipagpalagay na ang lahat ng cargo ay nag-leak."
+        },
+        {
+          "letter": "D",
+          "text": "Pagsugatan ang mga leaking na container ng tubig."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Gumamit ng shipping papers at labels upang matukoy ang leaking cargo.",
+      "explanation": "Kung matuklasan mo ang isang leak sa isang cargo ng hazardous materials, tukuyin ang mga materyales sa pamamagitan ng paggamit ng shipping papers, labels, o package location. Huwag hawakan ang leaking material."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10146",
+      "question": "Kung nagdadala ng package na naglalaman ng radioactive materials, mahalaga na malaman na:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang radiation ay dadaan sa ibang packages."
+        },
+        {
+          "letter": "B",
+          "text": "Ang mga pakete ay dapat dalhin sa cab."
+        },
+        {
+          "letter": "C",
+          "text": "Ang mga pakete ay dapat ilagay sa kanilang pliegi."
+        },
+        {
+          "letter": "D",
+          "text": "Hindi ka maaaring gumamit ng mga tulay."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang radiation ay dadaan sa ibang packages.",
+      "explanation": "Ang radiasyon ay nakapaligid sa mga pakete ng radioactive na materyales at dadaan sa ibang malapit na mga pakete. Upang tugunan ito, ang bilang ng radioactive na mga pakete na maaaring i-load nang magkasama ay limitado."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10642",
+      "question": "Kung nagdadala ng chlorine, ano ang dapat na nasa sasakyan?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang gas mask"
+        },
+        {
+          "letter": "B",
+          "text": "Goggles"
+        },
+        {
+          "letter": "C",
+          "text": "Isang palasyo"
+        },
+        {
+          "letter": "D",
+          "text": "Isang cell phone"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Isang gas mask",
+      "explanation": "Ang isang driver na nagdadala ng chlorine sa mga cargo tank ay dapat magkaroon ng approved gas mask sa sasakyan, pati na rin ang isang emergency kit para sa pagkontrol ng mga leak sa dome cover plate fittings sa cargo tank."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10972",
+      "question": "Kung ang mga corrosive materials ay nag-leak sa trailer, ang trailer ay dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Linisang may asido."
+        },
+        {
+          "letter": "B",
+          "text": "Linisang may tubig."
+        },
+        {
+          "letter": "C",
+          "text": "Iwanan upang mag-air-dry nang walang paghuhugas."
+        },
+        {
+          "letter": "D",
+          "text": "Nalinis gamit ang bleach."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Linisang may tubig.",
+      "explanation": "Ang mga bahagi ng isang sasakyan na nakalantad sa isang corrosive material ay dapat na lubos na malinis gamit ang tubig."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8983",
+      "question": "Ang tanging paraan upang maayos na suriin ang iyong tire pressure ay sa pamamagitan ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paggamit ng tire pressure gauge."
+        },
+        {
+          "letter": "B",
+          "text": "Pagtingin sa mga gulong."
+        },
+        {
+          "letter": "C",
+          "text": "Pagpipigil sa mga gulong upang maramdaman ang pressure."
+        },
+        {
+          "letter": "D",
+          "text": "Pagtitibaybay sa mga gulong."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Paggamit ng tire pressure gauge.",
+      "explanation": "Dapat mong suriin ang bawat gulong sa isang motor vehicle sa simula ng bawat trip. Ang tanging epektibong paraan upang suriin ang tire pressure ay sa pamamagitan ng paggamit ng tire pressure gauge."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8924",
+      "question": "Kapag naglo-load o nagbubukas ng explosive materials, dapat kang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panatilihing tumatakbo ang engine."
+        },
+        {
+          "letter": "B",
+          "text": "Itigil ang engine."
+        },
+        {
+          "letter": "C",
+          "text": "Gumamit ng sharp-pointed tools upang buksan ang mga pakete."
+        },
+        {
+          "letter": "D",
+          "text": "Ihugas ang mga pakete."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Itigil ang engine.",
+      "explanation": "Laging i-off ang engine ng iyong sasakyan bago mag-load o mag-unload ng explosive materials. Hindi kailanman dapat ihulog, ihagis, o i-roll ang mga pakete na naglalaman ng explosives."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8712",
+      "question": "Sa panahon ng cargo fire, ang pagbubukas ng mga pinto ng trailer ay maaaring magdulot ng expansion ng apoy dahil ang paggawa nito:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nagpapahintulot ng oxygen sa loob ng trailer."
+        },
+        {
+          "letter": "B",
+          "text": "Binabago ang temperatura ng trailer."
+        },
+        {
+          "letter": "C",
+          "text": "Nagbibigay ng mas maraming kahalumigmigan sa trailer."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Nagpapahintulot ng oxygen sa loob ng trailer.",
+      "explanation": "Kapag nakakaranas ng cargo fire, maaaring isang masamang ideya na buksan ang mga pinto ng trailer. Ang paggawa nito ay nagpapahintulot sa oxygen na pumasok sa lugar, na potensyal na nagsisimula ng apoy at lumalaki."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11439",
+      "question": "Ang mga placarded vehicles ay dapat magdulot ng fire extinguishers na may minimum rating na:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 B:C."
+        },
+        {
+          "letter": "B",
+          "text": "20 C."
+        },
+        {
+          "letter": "C",
+          "text": "10 A:B."
+        },
+        {
+          "letter": "D",
+          "text": "5 B:C."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "10 B:C.",
+      "explanation": "Ang power unit ng isang placarded vehicle ay dapat na equipped ng isang fire extinguisher na may Underwriters Laboratories (UL) rating na 10 B:C o higit pa."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9661",
+      "question": "Ang hazardous materials ay maaaring dalhin:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ng anumang driver na may CDL."
+        },
+        {
+          "letter": "B",
+          "text": "Ng anumang driver, hangga't ang kabuuang timbang ng hazardous materials ay mas mababa sa 50 pounds."
+        },
+        {
+          "letter": "C",
+          "text": "Ng anumang driver sa isang rural area."
+        },
+        {
+          "letter": "D",
+          "text": "Ng isang driver na may CDL at HazMat endorsement."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Ng isang driver na may CDL at HazMat endorsement.",
+      "explanation": "Dapat kang may CDL na may hazardous materials endorsement upang magmaneho ng sasakyan ng anumang laki na ginagamit upang magdala ng hazardous materials."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8965",
+      "question": "Kung maglalagay ka ng aplikasyon para sa HazMat endorsement, dapat ka bang dumaan sa isang tsek sa pamamagitan ng aling ahensya?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang Transportation Security Administration"
+        },
+        {
+          "letter": "B",
+          "text": "Ang Federal Bureau of Investigation"
+        },
+        {
+          "letter": "C",
+          "text": "Ang Department of Energy"
+        },
+        {
+          "letter": "D",
+          "text": "Ang Department of Defense"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang Transportation Security Administration",
+      "explanation": "Upang makakuha ng orihinal o binagong hazardous materials endorsement, dapat kang magsagawa ng Transportation Security Administration (TSA) background check."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9663",
+      "question": "Shipping papers:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ay hindi kailangan para sa karamihan ng shipments."
+        },
+        {
+          "letter": "B",
+          "text": "Ay kailangan para sa lahat ng shipments."
+        },
+        {
+          "letter": "C",
+          "text": "Dapat na itago sa isang espesyal na compartment sa cab."
+        },
+        {
+          "letter": "D",
+          "text": "Maaaring mapanatili bilang isang digital file."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ay kailangan para sa lahat ng shipments.",
+      "explanation": "Para sa lahat ng shipments ng hazardous materials, ang shipper ay dapat gumamit ng shipping papers upang ipaalam sa mga driver at dockworkers ang mga panganib na ipinakita ng cargo."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8966",
+      "question": "Alin sa mga sumusunod ay hindi isang katanggap-tanggap na lokasyon upang panatilihin ang hazardous materials' shipping papers?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sa isang pouch sa driver's side door"
+        },
+        {
+          "letter": "B",
+          "text": "Sa isang pouch sa passenger's side door"
+        },
+        {
+          "letter": "C",
+          "text": "Sa loob ng umaabot ng driver habang ang seat belt ay nakakabit"
+        },
+        {
+          "letter": "D",
+          "text": "Sa driver's seat habang ang driver ay nasa labas ng sasakyan"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sa isang pouch sa passenger's side door",
+      "explanation": "Kapag ang sasakyan ay ginagamit, ang hazardous materials' shipping papers ay dapat mapanatili sa isang pouch sa driver's door o saang lugar na malinaw na nakikita at sa loob ng umaabot ng driver. Kung ang driver ay nasa labas ng sasakyan, ang shipping papers ay dapat na mapanatili sa driver's seat."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8698",
+      "question": "Mag-load ng hazardous materials:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Malapit sa heat sources."
+        },
+        {
+          "letter": "B",
+          "text": "Palayo mula sa heat sources."
+        },
+        {
+          "letter": "C",
+          "text": "Palayo mula sa mga shadow."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Palayo mula sa heat sources.",
+      "explanation": "Laging mag-load ng hazardous materials palayo mula sa heat sources. Maging aware ng mga regulasyon sa explosive o flammable materials na nagpapahintulot sa kanila na hindi ma-load sa cargo spaces na may heaters."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9475",
+      "question": "Isang placard na nagpapahiwatig ng hazardous materials ay may hugis tulad ng isang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diamond."
+        },
+        {
+          "letter": "B",
+          "text": "Triangle."
+        },
+        {
+          "letter": "C",
+          "text": "Circle."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Diamond.",
+      "explanation": "Ang hazardous materials warning placards ay diamond-shaped."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8947",
+      "question": "Ang hazard class ng isang material ay sumasalamin sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang mga panganib na nauugnay sa material."
+        },
+        {
+          "letter": "B",
+          "text": "Ang dami ng packaging na kinakailangan para gawing ready ang shipment."
+        },
+        {
+          "letter": "C",
+          "text": "Ang lokasyon sa trailer kung saan maaaring ilagay ang mga item."
+        },
+        {
+          "letter": "D",
+          "text": "Paano dapat i-load at i-unload ang materyales."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang mga panganib na nauugnay sa material.",
+      "explanation": "May siyam na iba't ibang hazard classes. Ang hazard class ng isang material ay sumasalamin sa mga panganib na nauugnay dito."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "11332",
+      "question": "Ang mga placard na nagpapakita ng uri ng hazardous materials sa isang sasakyan ay karaniwang may anyo tulad ng ano?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang octagon"
+        },
+        {
+          "letter": "B",
+          "text": "Isang circle"
+        },
+        {
+          "letter": "C",
+          "text": "Isang diamond"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Isang diamond",
+      "explanation": "Ang hazardous materials warning placards ay diamond-shaped."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "8968",
+      "question": "Ang mga numero ng pagkakakilanlan na itinalot sa mga kimika ay maaaring mahanap:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sa DOT Emergency Response Guidebook."
+        },
+        {
+          "letter": "B",
+          "text": "Sa operation manual ng trak."
+        },
+        {
+          "letter": "C",
+          "text": "Sa website ng EPA."
+        },
+        {
+          "letter": "D",
+          "text": "Sa mga fuel station."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sa DOT Emergency Response Guidebook.",
+      "explanation": "Ang United States Department of Transportation (DOT)'s Emergency Response Guidebook (ERG) ay naglalista ng lahat ng mapanganibang kimika at ang kanilang mga itinalong numero ng pagkakakilanlan."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "8922",
+      "question": "Ang mga shipper ay dapat magsagip ng kopya ng shipping papers para sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anim na linggo."
+        },
+        {
+          "letter": "B",
+          "text": "Anim na buwan."
+        },
+        {
+          "letter": "C",
+          "text": "Isang taon."
+        },
+        {
+          "letter": "D",
+          "text": "Dalawang taon."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Dalawang taon.",
+      "explanation": "Ang mga shipper ay dapat magsagip ng physical copy o electronic image ng hazardous materials shipping papers para sa minimum na dalawang taon pagkatapos tanggapin ng initial carrier. Para sa hazardous waste, ito ay tumaas na sa tatlong taon."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "11437",
+      "question": "Aling uri ng materyales ang maaaring kailangang magkaroon ng transport index?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corrosive"
+        },
+        {
+          "letter": "B",
+          "text": "Radioactive"
+        },
+        {
+          "letter": "C",
+          "text": "Poisonous"
+        },
+        {
+          "letter": "D",
+          "text": "Explosive"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Radioactive",
+      "explanation": "Ang ilang radioactive na materyales ay kinakailangang kasama ng isang transport index. Ang transport index ay isang numero na nagpapakita kung magkano ang kontrol na kailangan ng materyales sa panahon ng transportasyon. Ang kabuuang transport index ng lahat ng kargo sa isang sasakyan ay hindi maaaring lumampas sa 50."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "8969",
+      "question": "Sa Hazardous Materials Table, Column 2 ay naglalista:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang mga pangalan ng materyales."
+        },
+        {
+          "letter": "B",
+          "text": "Kung saan nagmula ang mga materyales."
+        },
+        {
+          "letter": "C",
+          "text": "Mga special provisions para sa materyales."
+        },
+        {
+          "letter": "D",
+          "text": "Ang mga manufacturer ng materyales."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang mga pangalan ng materyales.",
+      "explanation": "Ang Column 2 ng Hazardous Materials Table ay naglalista ng tamang shipping names at descriptions ng regulated materials."
+    }
+  ]
+}

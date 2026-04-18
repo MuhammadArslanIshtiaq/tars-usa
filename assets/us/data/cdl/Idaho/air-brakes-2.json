@@ -1,0 +1,560 @@
+{
+  "state": "Idaho",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/idaho/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9947",
+      "question": "If the low air pressure warning signal comes on in a vehicle with air brakes, what should the driver do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Test the brakes while driving and continue if they seem okay."
+        },
+        {
+          "letter": "B",
+          "text": "Stop driving right away."
+        },
+        {
+          "letter": "C",
+          "text": "Turn on hazard lights and keep driving."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stop driving right away.",
+      "explanation": "If the low air pressure warning signal comes on, you must stop and park the vehicle as soon as possible. You need to stop while you still have some braking power left."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8624",
+      "question": "What does an air compressor do in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pumps air into the storage tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Fills the tires."
+        },
+        {
+          "letter": "C",
+          "text": "Moves air to the back of the truck."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pumps air into the storage tanks.",
+      "explanation": "The air compressor pumps air into the storage tanks. The air compressor governor controls it."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10080",
+      "question": "What are alcohol evaporators used for?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are illegal."
+        },
+        {
+          "letter": "B",
+          "text": "They add alcohol to brake systems to prevent freezing."
+        },
+        {
+          "letter": "C",
+          "text": "They are only allowed on vehicles carrying hazardous materials."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "They add alcohol to brake systems to prevent freezing.",
+      "explanation": "Some air brake systems have an alcohol evaporator. It adds alcohol to the braking system to stop ice from forming, which can damage the brakes."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11879",
+      "question": "In S-cam brakes, when does air pressure move the rods and slack adjusters?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When the driver presses the brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "When the emergency brake is used."
+        },
+        {
+          "letter": "C",
+          "text": "When the trailer hand valve is used."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When the driver presses the brake pedal.",
+      "explanation": "When you press the brake pedal, air enters the brake chambers. This air pressure pushes out the rods and moves the slack adjusters, which twist the brake camshafts."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11884",
+      "question": "How should you test the low pressure warning signal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn on the engine and apply the trailer hand brake."
+        },
+        {
+          "letter": "B",
+          "text": "Press and release the brake pedal quickly several times."
+        },
+        {
+          "letter": "C",
+          "text": "Remove wheel chocks and disengage the parking brake."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Press and release the brake pedal quickly several times.",
+      "explanation": "After the system charges, test the warning signal by pressing and releasing the brake pedal quickly. This releases air from the system. The warning signal should turn on when pressure drops to a dangerous level."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10308",
+      "question": "What do air brakes use to function?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compressed air"
+        },
+        {
+          "letter": "B",
+          "text": "Liquid air"
+        },
+        {
+          "letter": "C",
+          "text": "Nitrogen"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Compressed air",
+      "explanation": "Air brakes work using compressed air."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11919",
+      "question": "When should a low air pressure warning signal activate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When tank pressure falls below 120 psi."
+        },
+        {
+          "letter": "B",
+          "text": "When tank pressure falls below 60 psi."
+        },
+        {
+          "letter": "C",
+          "text": "When tank pressure falls below 10 psi."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When tank pressure falls below 60 psi.",
+      "explanation": "The low air pressure warning signal must come on when tank pressure drops below 60 psi. This warning can be a light, buzzer, or wig wag."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8757",
+      "question": "At what pressure does a safety valve open?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 psi"
+        },
+        {
+          "letter": "B",
+          "text": "150 psi"
+        },
+        {
+          "letter": "C",
+          "text": "200 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "150 psi",
+      "explanation": "The safety valve protects air tanks and the brake system from too much air pressure. It is usually set to open at 150 psi."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11888",
+      "question": "What is the maximum air leakage rate for a triple combination vehicle with air brakes during a static leakage test?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 psi in one minute"
+        },
+        {
+          "letter": "B",
+          "text": "5 psi in one minute"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi in one minute"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "5 psi in one minute",
+      "explanation": "During a static leakage test on a triple combination vehicle with air brakes, air should leak no more than 5 psi in one minute. If it leaks faster, the vehicle should not be driven because something needs to be repaired."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9605",
+      "question": "What helps prevent wheels from locking up when braking?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An Anti-Lock Braking System (ABS)"
+        },
+        {
+          "letter": "B",
+          "text": "Air brakes"
+        },
+        {
+          "letter": "C",
+          "text": "An alternator"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "An Anti-Lock Braking System (ABS)",
+      "explanation": "An Anti-Lock Braking System (ABS) prevents the wheels from locking up while the brakes are being applied."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11896",
+      "question": "In a dual air brake system, how many seconds does it take for air pressure to build from 85 to 100 psi?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25"
+        },
+        {
+          "letter": "B",
+          "text": "10"
+        },
+        {
+          "letter": "C",
+          "text": "45"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "45",
+      "explanation": "When checking a dual air brake system, wait for air pressure to build from 85 to 100 psi in both systems. This takes about 45 seconds."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9298",
+      "question": "When you leave your vehicle unattended, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use the parking brake."
+        },
+        {
+          "letter": "B",
+          "text": "Use the parking brake only if parked on a slope."
+        },
+        {
+          "letter": "C",
+          "text": "Do not use the parking brake because it can damage the tires."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Use the parking brake.",
+      "explanation": "Always use the parking brake when parking your vehicle. Do not use it if your brakes are very hot or if brakes are wet and temperatures are below freezing."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10079",
+      "question": "What should air tank drains be used for?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only mechanics should use them."
+        },
+        {
+          "letter": "B",
+          "text": "Use them only when it is wet outside."
+        },
+        {
+          "letter": "C",
+          "text": "Drain the tanks completely."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Drain the tanks completely.",
+      "explanation": "Air tank drains remove water and compressor oil from the air tanks. Always drain the tank completely when using the drain."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8635",
+      "question": "Before driving a vehicle with dual air brakes, what should the driver do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Let the vehicle warm up so fuel reaches the engine."
+        },
+        {
+          "letter": "B",
+          "text": "Let the air compressor build at least 100 psi in both systems before driving."
+        },
+        {
+          "letter": "C",
+          "text": "Start driving right after the vehicle starts."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Let the air compressor build at least 100 psi in both systems before driving.",
+      "explanation": "Wait for the air compressor to build at least 100 psi in both the primary and secondary systems before driving. Watch the air pressure gauges to check the pressure levels."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8637",
+      "question": "If an air compressor has a belt, what should you check regularly?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That it is thin."
+        },
+        {
+          "letter": "B",
+          "text": "That it is properly tightened."
+        },
+        {
+          "letter": "C",
+          "text": "That it is cracked."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "That it is properly tightened.",
+      "explanation": "Check the air compressor drive belt before each drive. Check that it is tight and in good condition."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9891",
+      "question": "What do air storage tanks do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are not allowed on vehicles."
+        },
+        {
+          "letter": "B",
+          "text": "They hold compressed air for the brakes."
+        },
+        {
+          "letter": "C",
+          "text": "They should be drained of excess air after every trip."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "They hold compressed air for the brakes.",
+      "explanation": "Air storage tanks hold compressed air for use by the brakes. Different vehicles have different numbers and sizes of tanks."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9893",
+      "question": "Brake linings should be:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loose."
+        },
+        {
+          "letter": "B",
+          "text": "Free of oil."
+        },
+        {
+          "letter": "C",
+          "text": "Soft."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Free of oil.",
+      "explanation": "Brake linings should not be loose or wet with oil or grease. They should not be dangerously thin."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11907",
+      "question": "An air brake-equipped vehicle traveling at 55 mph under ideal conditions needs how many feet to stop completely?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "300 feet"
+        },
+        {
+          "letter": "B",
+          "text": "100 feet"
+        },
+        {
+          "letter": "C",
+          "text": "450 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "450 feet",
+      "explanation": "Stopping distance includes perception time, reaction time, brake lag, and braking distance. An air brake-equipped vehicle at 55 mph under ideal conditions needs about 450 feet to stop completely."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8758",
+      "question": "If brakes create too much heat, what can happen?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The brakes may not work."
+        },
+        {
+          "letter": "B",
+          "text": "The brakes may squeak more than usual."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes will brake unevenly."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The brakes may not work.",
+      "explanation": "Brakes can handle a lot of heat, but do not rely only on brakes to slow your vehicle. Brakes can fade and lose stopping power if too hot. Also use engine braking."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9295",
+      "question": "What does an alcohol evaporator do in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Makes the brakes work without squeaking."
+        },
+        {
+          "letter": "B",
+          "text": "Prevents ice from forming in the braking system."
+        },
+        {
+          "letter": "C",
+          "text": "Lubricates parts of the braking system."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Prevents ice from forming in the braking system.",
+      "explanation": "Some air brake systems have an evaporator that adds alcohol to the system. The alcohol helps prevent ice from forming inside the system."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11889",
+      "question": "During a static leakage test, a single vehicle with air brakes should lose no more than ____ of pressure in one minute.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 psi"
+        },
+        {
+          "letter": "B",
+          "text": "2 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2 psi",
+      "explanation": "In a static leakage test, air brake pressure should not drop more than 2 psi in one minute. If air leaks faster than this, the vehicle needs repair and should not be driven."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11885",
+      "question": "Before driving down a hill, you should shift into a ____ gear.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Higher"
+        },
+        {
+          "letter": "B",
+          "text": "Faster"
+        },
+        {
+          "letter": "C",
+          "text": "Lower"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Lower",
+      "explanation": "Before going down a hill, shift into a low gear. Gravity will make your vehicle speed up as you go downhill."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8767",
+      "question": "In a single air brake system, air pressure should build up within:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 minutes."
+        },
+        {
+          "letter": "B",
+          "text": "12 minutes."
+        },
+        {
+          "letter": "C",
+          "text": "Three minutes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Three minutes.",
+      "explanation": "In a single air system, air pressure should build from about 50 to 90 psi within three minutes."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8640",
+      "question": "Having ABS (anti-lock brakes) on only one axle:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Can be dangerous."
+        },
+        {
+          "letter": "B",
+          "text": "Still gives you more control when braking."
+        },
+        {
+          "letter": "C",
+          "text": "Slows the vehicle, but cannot stop it."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Still gives you more control when braking.",
+      "explanation": "If your vehicle has ABS on only one axle, you still have better control when braking than without ABS. Brake normally."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11533",
+      "question": "Before driving a vehicle with air brakes, make sure the ____ turn on automatically when air pressure drops below 45 psi.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spring brakes"
+        },
+        {
+          "letter": "B",
+          "text": "Parking brakes"
+        },
+        {
+          "letter": "C",
+          "text": "Air brakes"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Spring brakes",
+      "explanation": "Before driving, check that spring brakes turn on automatically when air tank pressure drops between 20 and 45 psi. Block the wheels and release air by pressing the brake pedal on and off. When pressure gets too low, the parking brake valve pops out and spring brakes turn on."
+    }
+  ]
+}

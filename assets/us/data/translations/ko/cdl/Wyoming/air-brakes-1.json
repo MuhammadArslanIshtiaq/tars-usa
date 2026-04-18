@@ -1,0 +1,612 @@
+{
+  "state": "Wyoming",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/wyoming/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "10226",
+      "question": "저압 경고 신호를 테스트하십시오:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "한 달에 한 번."
+        },
+        {
+          "letter": "B",
+          "text": "일주일에 한 번."
+        },
+        {
+          "letter": "C",
+          "text": "주 2회."
+        },
+        {
+          "letter": "D",
+          "text": "매 여행 전에."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "매 여행 전에.",
+      "explanation": "저압 경고등이 제대로 작동하는 것이 필수적입니다. 시스템이 충전된 후 제동 페달을 빠르게 누르고 놓아서 경고 신호를 테스트할 수 있습니다. 이렇게 하면 제동 시스템에서 공기가 방출되고 압력이 위험 수준으로 떨어질 때 경고 신호가 켜져야 합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11696",
+      "question": "모듈레이팅 제어 밸브가 제어할 수 있는 것:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "스프링 브레이크."
+        },
+        {
+          "letter": "B",
+          "text": "랜딩 기어."
+        },
+        {
+          "letter": "C",
+          "text": "에어 브레이크."
+        },
+        {
+          "letter": "D",
+          "text": "Anti-lock braking system (ABS)."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "스프링 브레이크.",
+      "explanation": "모듈레이팅 제어 밸브는 운전자가 스프링 브레이크를 점진적으로 작동시킬 수 있게 합니다. 장착된 차량에서는 밸브가 대시보드에 위치한 레버로 제어됩니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11902",
+      "question": "공기 압축기와 저수조 탱크 사이의 ____는 공기 압축기에 누수가 있을 경우 공기가 빠지는 것을 방지합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "슬랙 조정기"
+        },
+        {
+          "letter": "B",
+          "text": "일방 체크 밸브"
+        },
+        {
+          "letter": "C",
+          "text": "트랙터 보호 밸브"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "일방 체크 밸브",
+      "explanation": "공기 압축기와 첫 번째 주요 저수조 사이에는 일방 체크 밸브가 필요합니다. 이 밸브는 공기 압축기에 누수가 발생할 경우 시스템에서 공기가 빠지는 것을 방지합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8984",
+      "question": "공기 제동 장치가 있는 트럭에서 제동 시스템의 공기 압축기는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 저장 탱크에 공기를 펌프질합니다."
+        },
+        {
+          "letter": "B",
+          "text": "타이어를 채웁니다."
+        },
+        {
+          "letter": "C",
+          "text": "트럭 뒤쪽으로 공기를 이동시킵니다."
+        },
+        {
+          "letter": "D",
+          "text": "제동을 청소합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "공기 저장 탱크에 공기를 펌프질합니다.",
+      "explanation": "에어 브레이크 시스템에서 공기 압축기는 공기 저장 탱크에 공기를 펌프합니다. 공기 압축기는 공기 압축기 조절기로 제어됩니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10738",
+      "question": "최신 차량에서 주차 제동을 적용하려면 어떻게 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "레버를 오른쪽으로 움직입니다."
+        },
+        {
+          "letter": "B",
+          "text": "노란색 다이아몬드 모양의 손잡이를 밀어넣습니다."
+        },
+        {
+          "letter": "C",
+          "text": "노란색 다이아몬드 모양의 손잡이를 당깁니다."
+        },
+        {
+          "letter": "D",
+          "text": "스티어링 컬럼을 위로 당깁니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "노란색 다이아몬드 모양의 손잡이를 당깁니다.",
+      "explanation": "공기 제동이 있는 최신 차량에서 주차 제동은 노란색 마름모 모양의 손잡이로 제어됩니다. 손잡이를 당겨서 제동을 설정하고, 밀어서 해제합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11198",
+      "question": "에어 브레이크가 장착된 차량을 정지시키려면 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크 페달을 아래로 누릅니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크 페달을 위로 올립니다."
+        },
+        {
+          "letter": "C",
+          "text": "에어 브레이크 노브를 당깁니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "브레이크 페달을 아래로 누릅니다.",
+      "explanation": "에어 브레이크가 장착된 차량을 정상 정지시키려면 브레이크 페달을 아래로 누르면 됩니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8763",
+      "question": "새로운 차량의 주차 브레이크는 다음에 의해 적용됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "레버를 오른쪽으로 이동합니다."
+        },
+        {
+          "letter": "B",
+          "text": "노란색 다이아몬드 모양의 손잡이를 밉니다."
+        },
+        {
+          "letter": "C",
+          "text": "노란색 다이아몬드 모양의 손잡이를 당깁니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "노란색 다이아몬드 모양의 손잡이를 당깁니다.",
+      "explanation": "새로운 에어 브레이크 차량에서 주차 브레이크는 노란색 다이아몬드 모양의 손잡이로 제어됩니다. 운전자는 주차 브레이크를 적용하려면 손잡이를 바깥쪽으로 당기고 해제하려면 손잡이를 안쪽으로 밀어야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8769",
+      "question": "가파른 하강을 할 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "에어 브레이크를 사용해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량을 저단으로 배치하고 운전자는 엔진 브레이킹을 사용해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "운전자는 브레이크를 사용하는 대신 계속 다운시프트해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "차량을 저단으로 배치하고 운전자는 엔진 브레이킹을 사용해야 합니다.",
+      "explanation": "길고/또는 가파른 하강에서는 주로 엔진 브레이킹을 사용하여 차량의 속도를 제어해야 합니다. 브레이크는 이 효과에 대한 보충으로만 사용하십시오."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11531",
+      "question": "차량의 공기 탱크에 얼마나 많은 압력이 있는지 알려주는 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공급 압력 게이지"
+        },
+        {
+          "letter": "B",
+          "text": "ABS 오작동 표시등"
+        },
+        {
+          "letter": "C",
+          "text": "트랙터 보호 밸브"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "공급 압력 게이지",
+      "explanation": "에어 브레이크로 장착된 차량은 공급 압력 게이지로도 장착되어야 합니다. 이 게이지는 운전자에게 차량의 각 공기 탱크에 얼마나 많은 공기 압력이 있는지 알려줍니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8874",
+      "question": "스프링 브레이크가 작동되면 다음을 절대 하지 말아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크 페달을 밟으십시오."
+        },
+        {
+          "letter": "B",
+          "text": "엔진 후드를 열기"
+        },
+        {
+          "letter": "C",
+          "text": "공기 저장 탱크에서 공기를 배출하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "캡의 문을 여십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "브레이크 페달을 밟으십시오.",
+      "explanation": "스프링 브레이크가 작동되면 브레이크 페달을 밟지 마십시오. 브레이크가 스프링과 공기 압력 모두에 노출되면 손상될 수 있습니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8988",
+      "question": "전면 브레이크 제한 밸브가 장착된 차량의 운전자는 정상적인 정지력을 보장하기 위해 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제어를 정상 위치로 설정합니다."
+        },
+        {
+          "letter": "B",
+          "text": "제어를 꺼짐 위치로 설정합니다."
+        },
+        {
+          "letter": "C",
+          "text": "컨트롤을 중립으로 설정하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "컨트롤을 중간 지점에 유지하십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "제어를 정상 위치로 설정합니다.",
+      "explanation": "1975년 이전의 일부 차량에는 \"정상\" 및 \"미끄러운\" 설정이 있는 전륜 제동 감압 밸브가 있습니다. 이 밸브의 목적은 미끄러운 노면에서 운전할 때 전륜 제동에 이용할 수 있는 공기압을 제한하여 전륜 스키드의 위험을 줄이기 위한 것이었습니다. 연구에 따르면 이것이 실제로는 문제가 아니므로 차량에 전륜 제동 감압 밸브가 있으면 \"정상\" 위치에 두십시오."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9003",
+      "question": "긴급 상황에서 제어된 제동 방법을 사용할 때는 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "바퀴가 잠기지 않도록 최대한 힘껏 브레이크를 적용합니다."
+        },
+        {
+          "letter": "B",
+          "text": "평소 힘의 약 절반 정도로 브레이크를 적용합니다."
+        },
+        {
+          "letter": "C",
+          "text": "바퀴가 잠기도록 브레이크를 적용합니다."
+        },
+        {
+          "letter": "D",
+          "text": "최소한의 압력으로 브레이크를 적용합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "바퀴가 잠기지 않도록 최대한 힘껏 브레이크를 적용합니다.",
+      "explanation": "긴급 정지를 위한 제어된 제동 방법은 바퀴가 잠기지 않도록 최대한 힘껏 브레이크를 적용하는 것입니다. 이러한 방식으로 제동할 때 핸들 움직임을 작게 유지하세요."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8772",
+      "question": "대형 차량이 공기 제동을 사용하는 이유는 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 제동 시스템은 너무 시끄럽습니다."
+        },
+        {
+          "letter": "B",
+          "text": "공기 제동은 매우 효과적인 시스템입니다."
+        },
+        {
+          "letter": "C",
+          "text": "다른 제동 시스템은 구하기 어렵습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "공기 제동은 매우 효과적인 시스템입니다.",
+      "explanation": "올바르게 사용하고 유지보수되면 공기 제동은 크고 무거운 차량을 정지시키는 안전하고 효과적인 방법입니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8759",
+      "question": "응용 압력 게이지는 다음을 나타냅니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크에 가해지는 공기 압력의 양."
+        },
+        {
+          "letter": "B",
+          "text": "이용 가능한 공기 압력의 양."
+        },
+        {
+          "letter": "C",
+          "text": "차량을 정지시키기 위해 필요한 공기 압력의 양."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "브레이크에 가해지는 공기 압력의 양.",
+      "explanation": "차량에 장착된 경우, 응용 압력 게이지는 브레이크에 가해지는 공기 압력의 양을 표시합니다. 이 게이지는 운전자가 브레이크가 페이드되기 시작하는지 확인하는 데 도움이 될 수 있습니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8868",
+      "question": "응용 압력 게이지:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제동 장치에 얼마나 많은 공기 압력이 적용되고 있는지를 보여줍니다."
+        },
+        {
+          "letter": "B",
+          "text": "제동 시스템에서 사용되는 공기의 온도를 보여줍니다."
+        },
+        {
+          "letter": "C",
+          "text": "압축기에서 나오는 공기의 압력을 보여줍니다."
+        },
+        {
+          "letter": "D",
+          "text": "제동이 사용된 횟수를 보여줍니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "제동 장치에 얼마나 많은 공기 압력이 적용되고 있는지를 보여줍니다.",
+      "explanation": "공기 제동 시스템에서 응용 압력 게이지는 제동 장치에 얼마나 많은 공기 압력이 적용되고 있는지를 보여줍니다. 공기 제동 시스템이 있는 모든 차량에 이 게이지가 있는 것은 아닙니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8860",
+      "question": "서비스 제동 시스템:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "정상적인 운전 중 제동 페달을 누를 때 제동을 적용하고 해제합니다."
+        },
+        {
+          "letter": "B",
+          "text": "주차 브레이크를 작동하고 해제합니다."
+        },
+        {
+          "letter": "C",
+          "text": "긴급 브레이크를 작동하고 해제합니다."
+        },
+        {
+          "letter": "D",
+          "text": "액슬 브레이크를 작동하고 해제합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "정상적인 운전 중 제동 페달을 누를 때 제동을 적용하고 해제합니다.",
+      "explanation": "공기 제동은 세 개의 별개 제동 시스템으로 구성됩니다: 서비스 제동 시스템, 주차 제동 시스템 및 긴급 제동 시스템. 서비스 제동 시스템은 정상적인 운전 중 제동 페달을 사용할 때 제동을 적용하고 해제합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11890",
+      "question": "운전 중 ____ 는 일반적으로 스프링 브레이크를 제자리에 유지합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 압력"
+        },
+        {
+          "letter": "B",
+          "text": "전기"
+        },
+        {
+          "letter": "C",
+          "text": "휘발유"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "공기 압력",
+      "explanation": "주행 중 스프링 제동은 일반적으로 공기 압력에 의해 제자리에 고정됩니다. 공기 압력이 충분히 낮아지면 스프링이 제동을 작동시킵니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8631",
+      "question": "1997년 3월 1일 이후에 제조된 에어 브레이크가 장착된 트럭 트랙터는 다음을 갖추어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anti-Lock Braking System (ABS)"
+        },
+        {
+          "letter": "B",
+          "text": "Bluetooth"
+        },
+        {
+          "letter": "C",
+          "text": "GPS"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Anti-Lock Braking System (ABS)",
+      "explanation": "1997년 3월 1일 이후에 제조된 에어 브레이크가 장착된 트럭 트랙터와 1998년 3월 1일 이후에 제조된 에어 브레이크가 장착된 기타 차량은 잠금 방지 브레이크(ABS)를 장착해야 합니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11102",
+      "question": "수동 조절식 드레인이 있는 에어 탱크를 사용하는 경우, 탱크를 얼마나 자주 배수해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "매일"
+        },
+        {
+          "letter": "B",
+          "text": "주 1회"
+        },
+        {
+          "letter": "C",
+          "text": "월 1회"
+        },
+        {
+          "letter": "D",
+          "text": "6개월마다 한 번"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "매일",
+      "explanation": "수동으로 조작되는 드레인이 있는 공기 브레이크 시스템에서는 매일 운전이 끝날 때 탱크를 배출해야 합니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11889",
+      "question": "에어 브레이크가 장착된 단일 차량의 누출률은 정적 누출 테스트 중 1분 동안 ____을(를) 초과하면 안 됩니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 psi"
+        },
+        {
+          "letter": "B",
+          "text": "2 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2 psi",
+      "explanation": "에어 브레이크가 장착된 단일 차량에서 정적 누출 테스트를 수행할 때, 누출률은 1분 동안 2 psi를 초과하면 안 됩니다. 에어 브레이크 시스템에서 더 빠른 속도로 공기가 누출되면 무언가 수리가 필요할 가능성이 높으므로 차량을 운전해서는 안 됩니다."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8871",
+      "question": "Wig wag이란 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "경고 시스템의 한 유형"
+        },
+        {
+          "letter": "B",
+          "text": "압축기에서 탱크로 공기를 이동하는 데 사용되는 튜브"
+        },
+        {
+          "letter": "C",
+          "text": "공기 제동을 사용할 때 발생하는 소음"
+        },
+        {
+          "letter": "D",
+          "text": "공기가 자유롭게 이동할 수 있도록 하는 제동 장치 내의 부품"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "경고 시스템의 한 유형",
+      "explanation": "Wig wag은 공기 제동 시스템의 저압 경고 장치 유형입니다. 탱크의 공기 압력이 60 psi 아래로 떨어지면 운전자의 시야에 기계식 팔을 떨어뜨립니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11324",
+      "question": "차량을 무인 상태로 두고 떠날 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주차 브레이크는 항상 사용해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "주차 브레이크는 절대 사용하면 안 됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "캐빈의 창문을 내려야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "주차 브레이크는 항상 사용해야 합니다.",
+      "explanation": "차량을 무인 상태로 두고 떠날 때 항상 주차 브레이크를 작동하십시오."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11105",
+      "question": "제어된 브레이킹 방법을 사용하려면 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "바퀴가 잠기지 않도록 최대한 힘껏 브레이크를 적용합니다."
+        },
+        {
+          "letter": "B",
+          "text": "약 절반의 힘으로 브레이크를 적용하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "바퀴가 잠길 때까지 브레이크를 적용하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "브레이크를 펌프질하십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "바퀴가 잠기지 않도록 최대한 힘껏 브레이크를 적용합니다.",
+      "explanation": "제어된 브레이킹 방법은 바퀴를 잠그지 않으면서 가능한 한 세게 브레이크를 적용하는 것입니다. 제어된 브레이킹을 사용하면서 큰 조향 조정이 필요한 경우, 브레이크 페달에서 발을 떼고 조향한 후 다시 브레이크를 적용해야 합니다."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "10027",
+      "question": "알코올 증발기는 특히 중요합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "추운 날씨에."
+        },
+        {
+          "letter": "B",
+          "text": "더운 날씨에."
+        },
+        {
+          "letter": "C",
+          "text": "건조한 날씨에."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "추운 날씨에.",
+      "explanation": "일부 에어 브레이크 시스템에는 알코올 증발기가 포함되어 있습니다. 이 증발기는 추운 날씨에 얼음이 형성되는 것을 방지하기 위해 시스템에 알코올을 도입합니다."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11694",
+      "question": "이중 주차 제어 밸브가 있는 차량에서 공기 압력이 손실되고 스프링 제동이 작동하면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량을 이동할 수 없게 됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "별도의 공기 탱크를 사용하여 스프링 제동을 짧은 시간 동안 해제할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "스프링 제동을 사용하여 정상적으로 계속 주행할 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "공기 탱크는 자동으로 안전한 공기 압력 수준으로 다시 채워집니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "별도의 공기 탱크를 사용하여 스프링 제동을 짧은 시간 동안 해제할 수 있습니다.",
+      "explanation": "이중 주차 제어 밸브가 있는 차량에는 저 공기 압력으로 인해 스프링 제동이 작동한 경우 이를 일시적으로 해제하는 데 사용할 수 있는 별도의 공기 탱크가 있습니다. 적절한 제어를 누르면 스프링 제동이 짧은 시간 동안 해제되어 운전자가 긴급 상황에서 차량을 이동할 수 있습니다."
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "state": "Ohio",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/ohio/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9891",
+      "question": "What do air storage tanks do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are not allowed on a vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "They store compressed air for the brakes."
+        },
+        {
+          "letter": "C",
+          "text": "They should be drained after every trip."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "They store compressed air for the brakes.",
+      "explanation": "Air storage tanks hold compressed air that the brakes use. Different vehicles have different numbers and sizes of air tanks."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11324",
+      "question": "What should you do when leaving your vehicle unattended?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always use the parking brake."
+        },
+        {
+          "letter": "B",
+          "text": "Never use the parking brake."
+        },
+        {
+          "letter": "C",
+          "text": "Lower the cab windows."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Always use the parking brake.",
+      "explanation": "Always apply the parking brake when you leave your vehicle unattended."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8769",
+      "question": "What should you do when driving down a steep hill?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use the air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Shift to a low gear and use engine braking."
+        },
+        {
+          "letter": "C",
+          "text": "Downshift instead of using the brakes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Shift to a low gear and use engine braking.",
+      "explanation": "On long or steep hills, use engine braking to control your speed. Use your brakes only when needed to help slow the vehicle."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11879",
+      "question": "When does air pressure enter the brake chambers in S-cam brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When the driver presses the brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "When the driver uses the emergency brake."
+        },
+        {
+          "letter": "C",
+          "text": "When the driver uses the trailer hand valve."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When the driver presses the brake pedal.",
+      "explanation": "When you press the brake pedal, air enters the brake chambers. This air pressure pushes the rods and moves the slack adjusters, which twist the brake camshafts."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11322",
+      "question": "What does it mean if the safety relief valve releases air from the brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The compressor needs more air."
+        },
+        {
+          "letter": "B",
+          "text": "The air pressure is too high."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes are working normally."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The air pressure is too high.",
+      "explanation": "The safety relief valve releases air if the pressure gets too high. If this happens, something is wrong in the system and a mechanic should check it."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11890",
+      "question": "What holds spring brakes in place while driving?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air pressure"
+        },
+        {
+          "letter": "B",
+          "text": "Electricity"
+        },
+        {
+          "letter": "C",
+          "text": "Gasoline"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Air pressure",
+      "explanation": "Air pressure holds spring brakes in place while you drive. If air pressure drops too low, the springs will activate the brakes."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8763",
+      "question": "How do you apply the parking brake in a newer vehicle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Move a lever to the right."
+        },
+        {
+          "letter": "B",
+          "text": "Push a yellow, diamond-shaped knob."
+        },
+        {
+          "letter": "C",
+          "text": "Pull a yellow, diamond-shaped knob."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pull a yellow, diamond-shaped knob.",
+      "explanation": "In newer vehicles with air brakes, pull the yellow, diamond-shaped knob outward to apply the parking brakes. Push it inward to release them."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8762",
+      "question": "What should control the emergency brake?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mechanical force"
+        },
+        {
+          "letter": "B",
+          "text": "Air pressure"
+        },
+        {
+          "letter": "C",
+          "text": "Gravity"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Mechanical force",
+      "explanation": "Emergency brakes and parking brakes must be held by mechanical force. Air pressure can leak away, so it cannot be the only way to hold these brakes."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11902",
+      "question": "What prevents air from escaping if the air compressor leaks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slack adjuster"
+        },
+        {
+          "letter": "B",
+          "text": "One-way check valve"
+        },
+        {
+          "letter": "C",
+          "text": "Tractor protection valve"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "One-way check valve",
+      "explanation": "A one-way check valve is placed between the air compressor and the first main reservoir. It prevents air from escaping if the compressor leaks."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11905",
+      "question": "How should you stop during an emergency?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Veer the trailer to the right and stop."
+        },
+        {
+          "letter": "B",
+          "text": "Stop in a straight line."
+        },
+        {
+          "letter": "C",
+          "text": "Veer the trailer to the left and stop."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stop in a straight line.",
+      "explanation": "During an emergency stop, brake in a way that keeps your vehicle in a straight line. This helps you maintain control and still allows you to turn if needed."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9606",
+      "question": "If the low air pressure warning light comes on, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep driving, but get the brakes fixed within a week."
+        },
+        {
+          "letter": "B",
+          "text": "Pull over and check the brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Call a mechanic while you drive."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pull over and check the brakes.",
+      "explanation": "If the low air pressure warning light comes on while driving a vehicle with air brakes, stop safely as soon as you can while you still have brake control. Check and repair the brakes right away."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8632",
+      "question": "What color is the malfunction lamp on vehicles with Anti-Lock Braking Systems (ABS)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green"
+        },
+        {
+          "letter": "B",
+          "text": "Blue"
+        },
+        {
+          "letter": "C",
+          "text": "Yellow"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Yellow",
+      "explanation": "Vehicles with ABS have yellow malfunction lamps. These lights alert drivers when the ABS is not working. Know where your vehicle's malfunction lamp is before you start driving."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9890",
+      "question": "What do air brakes use to work?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compressed air"
+        },
+        {
+          "letter": "B",
+          "text": "Outside air"
+        },
+        {
+          "letter": "C",
+          "text": "Non-compressed air"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Compressed air",
+      "explanation": "Many large commercial vehicles use air brakes. Air brake systems use compressed air to operate."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8629",
+      "question": "What kind of force do emergency brakes use?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air pressure"
+        },
+        {
+          "letter": "B",
+          "text": "Mechanical"
+        },
+        {
+          "letter": "C",
+          "text": "Heavy"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mechanical",
+      "explanation": "Air brake systems have three parts: service brakes, parking brakes, and emergency brakes. Emergency and parking brakes use mechanical force."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9297",
+      "question": "What color light shows that a vehicle's ABS is not working?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green"
+        },
+        {
+          "letter": "B",
+          "text": "Blue"
+        },
+        {
+          "letter": "C",
+          "text": "Yellow"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Yellow",
+      "explanation": "On vehicles with Anti-Lock Braking Systems (ABS), a yellow malfunction light alerts the driver that the ABS is not working."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9605",
+      "question": "What prevents wheels from locking up when you brake?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An Anti-Lock Braking System (ABS)"
+        },
+        {
+          "letter": "B",
+          "text": "Air brakes"
+        },
+        {
+          "letter": "C",
+          "text": "An alternator"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "An Anti-Lock Braking System (ABS)",
+      "explanation": "An Anti-Lock Braking System (ABS) stops wheels from locking up while you are braking."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11942",
+      "question": "When should the low air pressure warning signal turn on?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When tank pressure drops below 120 psi."
+        },
+        {
+          "letter": "B",
+          "text": "When tank pressure drops below 60 psi."
+        },
+        {
+          "letter": "C",
+          "text": "When tank pressure drops below 10 psi."
+        },
+        {
+          "letter": "D",
+          "text": "When tank pressure drops below 5 psi."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When tank pressure drops below 60 psi.",
+      "explanation": "In an air brake system, the low air pressure warning signal must come on when air pressure in the tanks drops below 60 psi. The warning can be a light, buzzer, or wig wag."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11891",
+      "question": "In a vehicle with dual air brakes, a leak in one system ____ the second system.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Will always affect"
+        },
+        {
+          "letter": "B",
+          "text": "May not affect"
+        },
+        {
+          "letter": "C",
+          "text": "Is caused by"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "May not affect",
+      "explanation": "A dual air brake system has two separate air brake systems. A leak in one system may not affect the other system."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11895",
+      "question": "Do not drive a vehicle if brake drums have cracks larger than ____ of the friction area width.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One half"
+        },
+        {
+          "letter": "B",
+          "text": "One third"
+        },
+        {
+          "letter": "C",
+          "text": "One fifth"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "One half",
+      "explanation": "Check the brake drums during your walk-around inspection before driving. It is unsafe to drive if any brake drum has a crack larger than one half of the friction area width."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11893",
+      "question": "In a vehicle with dual parking control valves, a separate air tank can be used to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Make the air brakes work more effectively."
+        },
+        {
+          "letter": "B",
+          "text": "Temporarily release the spring brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Charge the brakes on the rear trailer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Temporarily release the spring brakes.",
+      "explanation": "In a vehicle with dual parking control valves, a separate air tank can temporarily release the spring brakes if they have been activated due to low air pressure. Pushing the right control will release the spring brakes for a short time. This lets the driver move the vehicle in an emergency."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11884",
+      "question": "How do you test the low pressure warning signal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn on the engine and apply the trailer hand brake."
+        },
+        {
+          "letter": "B",
+          "text": "Press and release the brake pedal quickly several times."
+        },
+        {
+          "letter": "C",
+          "text": "Remove wheel chocks and release the parking brake."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Press and release the brake pedal quickly several times.",
+      "explanation": "Your low pressure warning light must work properly. After the air system fills, test the warning by pressing and releasing the brake pedal quickly. This removes air from the brakes. The warning signal should turn on when pressure drops to a dangerous level."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8760",
+      "question": "What is a wig wag?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A low pressure warning device."
+        },
+        {
+          "letter": "B",
+          "text": "A tube that carries air to the brakes."
+        },
+        {
+          "letter": "C",
+          "text": "A type of air brake system."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A low pressure warning device.",
+      "explanation": "All vehicles with air brakes must have a low pressure warning device. A wig wag is one type of warning device. It drops a mechanical arm into your view if air pressure drops between 55 and 75 psi."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11887",
+      "question": "For a double combination vehicle, what is the maximum safe leakage rate during a static leakage test?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi in one minute."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi in one minute."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi in one minute."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi in one minute.",
+      "explanation": "For a double combination vehicle with air brakes, leakage should not exceed 3 psi in one minute. If air leaks faster than this, the vehicle needs repair and should not be driven."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11878",
+      "question": "When can a driver depend on front wheel braking to work?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On dry roads only."
+        },
+        {
+          "letter": "B",
+          "text": "Under all conditions."
+        },
+        {
+          "letter": "C",
+          "text": "Under all conditions except snow."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Under all conditions.",
+      "explanation": "Front wheel braking works well in all road conditions. Front wheels rarely skid, even on ice."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8633",
+      "question": "What do Anti-Lock Braking Systems (ABS) do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce a vehicle's normal braking power."
+        },
+        {
+          "letter": "B",
+          "text": "Work with other braking systems and do not reduce braking power."
+        },
+        {
+          "letter": "C",
+          "text": "Do not work effectively on larger vehicles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Work with other braking systems and do not reduce braking power.",
+      "explanation": "ABS works together with a vehicle's normal braking system. It does not increase or decrease braking power. ABS only activates when the wheels are about to lock."
+    }
+  ]
+}

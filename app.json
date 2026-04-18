@@ -1,0 +1,73 @@
+{
+  "expo": {
+    "name": "EASY DMV TESTS ",
+    "slug": "tars-usa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a5f3a"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.digitalukapps.tars-usa",
+      "buildNumber": "1",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#1a5f3a"
+      },
+      "package": "com.tarsksa.app",
+      "versionCode": 1,
+      "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ]
+    },
+    "extra": {
+      "admob": {
+        "android": {
+          "appId": "ca-app-pub-5967256865674252~3930298885",
+          "interstitialUnitId": "ca-app-pub-5967256865674252/5107649185"
+        },
+        "ios": {
+          "appId": "ca-app-pub-5967256865674252~8991053879",
+          "interstitialUnitId": "ca-app-pub-5967256865674252/1213346642"
+        }
+      },
+      "eas": {
+        "projectId": "a65c707b-21c2-48c6-82f1-9af09894c026"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/2bd1e5a9-90f0-4200-8dda-5849294bfd97"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "owner": "remoterunuk",
+    "plugins": [
+      "expo-web-browser",
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-5967256865674252~3930298885",
+          "iosAppId": "ca-app-pub-5967256865674252~8991053879"
+        }
+      ],
+      "expo-font",
+      "expo-tracking-transparency"
+    ]
+  }
+}

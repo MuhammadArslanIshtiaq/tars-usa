@@ -1,0 +1,512 @@
+{
+  "state": "New York",
+  "category": "car",
+  "quizName": "Hard Practice Test #2",
+  "slug": "hard-practice-test-2",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1960",
+      "question": "Si vous êtes suivi de trop près sur une route à deux voies :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réduisez lentement votre vitesse pour encourager le conducteur qui vous suit à vous dépasser."
+        },
+        {
+          "letter": "B",
+          "text": "Augmentez votre vitesse pour augmenter la distance entre vous et l'autre voiture."
+        },
+        {
+          "letter": "C",
+          "text": "Appuyez sur vos freins pour ralentir, puis reprenez votre vitesse d'origine."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Réduisez lentement votre vitesse pour encourager le conducteur qui vous suit à vous dépasser.",
+      "explanation": "Si un autre conducteur vous suit de trop près, changez de voie. S'il n'y a pas de voie disponible pour changer, attendez que la route devant soit dégagée et réduisez lentement votre vitesse. Cela encouragera le conducteur qui vous suit à vous dépasser."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "395",
+      "question": "Vous pouvez traverser des lignes jaunes doubles continues:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pour dépasser un camion qui se déplace lentement."
+        },
+        {
+          "letter": "B",
+          "text": "Pour tourner dans une allée."
+        },
+        {
+          "letter": "C",
+          "text": "Pour dépasser une autre voiture."
+        },
+        {
+          "letter": "D",
+          "text": "En aucune circonstance."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pour tourner dans une allée.",
+      "explanation": "Les lignes jaunes doubles continues indiquent que vous ne pouvez pas dépasser ou changer de voie. Vous ne pouvez pas traverser les lignes à moins que ce soit pour tourner à gauche pour entrer ou sortir d'une autoroute, pour entrer ou sortir d'une allée, ou pour faire un demi-tour (où c'est autorisé)."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "485",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de virage à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Interdiction de s'arrêter."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de demi-tour."
+        },
+        {
+          "letter": "D",
+          "text": "Déviation à proximité."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pas de demi-tour.",
+      "explanation": "Ce panneau indique que les demi-tours sont interdits."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "418",
+      "question": "Vous arrivez à une intersection bloquée par d'autres véhicules. Vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avancez lentement jusqu'à ce que le trafic devant vous se déplace."
+        },
+        {
+          "letter": "B",
+          "text": "Rapprochez-vous autant que possible de la voiture devant vous."
+        },
+        {
+          "letter": "C",
+          "text": "Restez en dehors de l'intersection jusqu'à ce que vous puissiez la traverser."
+        },
+        {
+          "letter": "D",
+          "text": "Klaxonnez pour faire avancer les voitures."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Restez en dehors de l'intersection jusqu'à ce que vous puissiez la traverser.",
+      "explanation": "Vous ne pouvez pas entrer dans une intersection si le trafic est bloqué de l'autre côté et que vous ne pouvez pas traverser complètement l'intersection. Attendez que le trafic devant vous se libère pour ne pas bloquer l'intersection."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "415",
+      "question": "Vous voulez tourner à gauche à un carrefour. Le feu est vert mais la circulation venant en sens inverse est importante. Vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utilisez le carrefour suivant."
+        },
+        {
+          "letter": "B",
+          "text": "Attendez au passage pour piétons que la circulation se dégage."
+        },
+        {
+          "letter": "C",
+          "text": "Attendre au centre du carrefour que la circulation se dégage."
+        },
+        {
+          "letter": "D",
+          "text": "Prenez la priorité de passage puisque vous avez un feu vert."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Attendre au centre du carrefour que la circulation se dégage.",
+      "explanation": "Lorsque vous faites un virage à gauche où il y a du trafic qui approche, vous devez attendre que le trafic qui approche passe avant de tourner. Vous pouvez entrer dans le carrefour pour vous préparer à votre virage à gauche si le feu est vert et qu'aucun autre véhicule devant vous ne prévoit de faire un virage à gauche."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "103",
+      "question": "Si vous avez du mal à voir d'autres véhicules en raison de la poussière ou de la fumée qui traverse la chaussée, vous devriez conduire plus lentement et allumer vos:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feux de détresse."
+        },
+        {
+          "letter": "B",
+          "text": "Feux de stationnement."
+        },
+        {
+          "letter": "C",
+          "text": "Phares."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Phares.",
+      "explanation": "Vous devez allumer vos phares à tout moment où les conditions vous empêchent de voir d'autres véhicules. Les autres conducteurs peuvent aussi avoir du mal à vous voir."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "324",
+      "question": "Pour tourner à gauche depuis des rues et des autoroutes à plusieurs voies à sens unique, vous devriez commencer à partir de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le centre de l'intersection."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de droite."
+        },
+        {
+          "letter": "C",
+          "text": "La voie de gauche."
+        },
+        {
+          "letter": "D",
+          "text": "N'importe quelle voie."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La voie de gauche.",
+      "explanation": "Pour tourner à gauche depuis des rues et des autoroutes à plusieurs voies, commencez par la voie de gauche."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1174",
+      "question": "Lorsque vous vous garez en amont sur une rue avec un trottoir :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gardez la roue avant droite et activez le frein de stationnement."
+        },
+        {
+          "letter": "B",
+          "text": "Tournez les roues avant loin du trottoir."
+        },
+        {
+          "letter": "C",
+          "text": "Tournez les roues avant vers le trottoir."
+        },
+        {
+          "letter": "D",
+          "text": "Tournez les roues arrière vers le trottoir."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tournez les roues avant loin du trottoir.",
+      "explanation": "Lorsque vous vous garez sur une pente où il y a un trottoir, vous devriez tourner vos roues fortement vers la gauche, loin du trottoir. De cette façon, si vos freins échouent, votre véhicule ne roulera pas dans la circulation."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "432",
+      "question": "Un panneau \"Interdiction de stationner\" à un certain endroit signifie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous ne devez jamais arrêter votre véhicule là-bas."
+        },
+        {
+          "letter": "B",
+          "text": "Vous pouvez vous arrêter temporairement seulement pour déposer ou prendre des passagers."
+        },
+        {
+          "letter": "C",
+          "text": "Vous pouvez vous garer là si le conducteur reste dans le véhicule."
+        },
+        {
+          "letter": "D",
+          "text": "Vous pouvez laisser votre véhicule sans surveillance pendant moins de cinq minutes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vous pouvez vous arrêter temporairement seulement pour déposer ou prendre des passagers.",
+      "explanation": "Un panneau \"Interdiction de stationner\" signifie que vous pouvez faire un arrêt temporaire pour charger ou décharger des marchandises ou des passagers."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "2079",
+      "question": "Vous devez être prudent lorsque vous dépassez une bicyclette car :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous vous déplacez plus vite que le vélo."
+        },
+        {
+          "letter": "B",
+          "text": "Le vélo a toujours la priorité."
+        },
+        {
+          "letter": "C",
+          "text": "Le trafic venant en sens inverse peut ne pas vous voir vous rabattre pour dépasser le vélo."
+        },
+        {
+          "letter": "D",
+          "text": "Le cycliste peut devoir se rabattre dans la circulation pour éviter un objet sur la route."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Le cycliste peut devoir se rabattre dans la circulation pour éviter un objet sur la route.",
+      "explanation": "Vous devriez toujours être prudent lorsque vous dépassez un cycliste car le cycliste peut devoir se rabattre dans la circulation pour éviter un objet sur la route. Soyez toujours particulièrement prudent lorsque vous conduisez près de cyclistes."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "117",
+      "question": "Quand vous voyez ce panneau, vous:",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous approchez d'un passage à niveau et vous devez vous préparer à vous arrêter."
+        },
+        {
+          "letter": "B",
+          "text": "Vous vous arrêterez toujours au passage à niveau à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devez vous arrêter et attendre un signal avant de traverser les voies ferrées."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous approchez d'un passage à niveau et vous devez vous préparer à vous arrêter.",
+      "explanation": "Ce panneau indique que vous approchez d'un passage à niveau. Vous devez regarder, écouter, ralentir et vous préparer à vous arrêter. Attendez que les trains passent avant de continuer."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "85",
+      "question": "Vous conduisez défensivement lorsque vous :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maintenez une longueur de voiture entre vous et la voiture devant vous."
+        },
+        {
+          "letter": "B",
+          "text": "Regardez uniquement la voiture devant vous en conduisant."
+        },
+        {
+          "letter": "C",
+          "text": "Gardez vos yeux en mouvement pour rechercher les dangers possibles."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Gardez vos yeux en mouvement pour rechercher les dangers possibles.",
+      "explanation": "Vous conduisez défensivement lorsque vous regardez loin devant pour détecter les dangers potentiels. Fixer constamment la route directement devant votre véhicule est dangereux. En balayant devant vous, soyez conscient des véhicules autour de vous."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "593",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/arkansas-traffic_lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La route s'élargit à l'avant."
+        },
+        {
+          "letter": "B",
+          "text": "Réduction de voie; la voie de droite se termine bientôt."
+        },
+        {
+          "letter": "C",
+          "text": "Rampe d'entrée d'autoroute à l'avant."
+        },
+        {
+          "letter": "D",
+          "text": "Réduction de voie; la voie de gauche se termine bientôt."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Réduction de voie; la voie de droite se termine bientôt.",
+      "explanation": "Ce panneau indique que la voie de droite se termine à l'horizon."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "562",
+      "question": "Lorsque vous rencontrez une voiture avec des phares aveuglants, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utilisez vos feux de route jusqu'à ce que l'autre véhicule baisse les siens."
+        },
+        {
+          "letter": "B",
+          "text": "Clignotez vos feux pour avertir l'autre conducteur."
+        },
+        {
+          "letter": "C",
+          "text": "Baissez vos feux et accélérez pour dépasser rapidement."
+        },
+        {
+          "letter": "D",
+          "text": "Regardez vers le côté droit de la route."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Regardez vers le côté droit de la route.",
+      "explanation": "Si un véhicule vient vers vous avec ses feux de route allumés, regardez loin des phares et vers le côté droit de la route jusqu'à ce que la voiture soit passée. Cela vous empêchera d'être aveuglé."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "471",
+      "question": "Les automobilistes doivent être conscients que tous les vélos utilisés après la tombée de la nuit doivent avoir:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des poignées de guidon réfléchissantes."
+        },
+        {
+          "letter": "B",
+          "text": "Un phare avant et un feu arrière rouge."
+        },
+        {
+          "letter": "C",
+          "text": "Des réflecteurs blancs sur les garde-boue avant et arrière."
+        },
+        {
+          "letter": "D",
+          "text": "Des feux de freinage."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Un phare avant et un feu arrière rouge.",
+      "explanation": "Un vélo utilisé la nuit doit avoir un phare avant visible à au moins 500 feet à l'avant et un feu arrière rouge visible à au moins 300 feet à l'arrière."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "473",
+      "question": "Vous voulez sortir votre voiture de votre allée. Vous voyez des enfants qui jouent à proximité. Avant de commencer à bouger votre voiture, vous devriez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accélérez votre moteur pour avertir les enfants que vous vous déplacez."
+        },
+        {
+          "letter": "B",
+          "text": "Actionnez votre klaxon pour que les enfants vous entendent."
+        },
+        {
+          "letter": "C",
+          "text": "Marchez vers l'arrière de la voiture pour vérifier que la voie est libre."
+        },
+        {
+          "letter": "D",
+          "text": "Dites aux enfants de rester loin de l'allée."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Marchez vers l'arrière de la voiture pour vérifier que la voie est libre.",
+      "explanation": "Lorsque vous reculez un véhicule, regardez par votre lunette arrière pour rechercher les piétons et autres obstacles. Ne vous fiez pas uniquement à vos rétroviseurs, surtout lorsque des enfants sont à proximité. Avant de reculer dans une allée ou hors d'une allée, sortez du véhicule et vérifiez derrière votre véhicule."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1461",
+      "question": "Avoir un permis de conduire est un :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Droit, pas un privilège."
+        },
+        {
+          "letter": "B",
+          "text": "Privilège, pas un droit."
+        },
+        {
+          "letter": "C",
+          "text": "Exigence."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Privilège, pas un droit.",
+      "explanation": "Posséder un permis de conduire n'est pas un droit. C'est un privilège qui doit être gagné et maintenu."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "421",
+      "question": "Vous tournez à gauche depuis une rue bidirectionnelle vers une rue à sens unique. Lorsque vous avez terminé le virage, votre voiture devrait être:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dans la voie de droite de la rue."
+        },
+        {
+          "letter": "B",
+          "text": "Au centre de la rue."
+        },
+        {
+          "letter": "C",
+          "text": "Dans la voie de gauche de la rue."
+        },
+        {
+          "letter": "D",
+          "text": "Dans la voie ayant le moins de circulation."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Dans la voie de gauche de la rue.",
+      "explanation": "Si vous tournez à gauche depuis une rue bidirectionnelle vers une rue à sens unique, vous devriez terminer le virage dans la voie la plus proche de la voie que vous venez de quitter."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "406",
+      "question": "Quelle est l'action appropriée à prendre lorsqu'on s'approche d'un passage à niveau qui n'a pas de signaux pour diriger le trafic?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêtez toujours complètement la voiture."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentissez et soyez prêt à vous arrêter."
+        },
+        {
+          "letter": "C",
+          "text": "Tous les passages à niveau ont des signaux, donc vous ne rencontrerez jamais cette situation."
+        },
+        {
+          "letter": "D",
+          "text": "Augmentez votre vitesse pour traverser rapidement les voies."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ralentissez et soyez prêt à vous arrêter.",
+      "explanation": "Lorsqu'on s'approche d'un passage à niveau non marqué, ralentissez et soyez prêt à vous arrêter. Avant de traverser, assurez-vous qu'aucun train ne s'approche de l'une ou l'autre direction sur l'une quelconque des voies. Si vous voyez ou entendez un train arriver, arrêtez-vous à une distance sûre de la voie la plus proche et attendez pour continuer jusqu'après le passage du train."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1423",
+      "question": "Lorsque vous voyez ou entendez un véhicule d'urgence arriver, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêtez-vous immédiatement et laissez le véhicule passer."
+        },
+        {
+          "letter": "B",
+          "text": "Conduisez aussi loin que possible vers le côté droit de la route en toute sécurité et arrêtez-vous."
+        },
+        {
+          "letter": "C",
+          "text": "Procédez lentement et permettez au véhicule de passer."
+        },
+        {
+          "letter": "D",
+          "text": "Continuez lentement, en restant du côté droit de la route."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Conduisez aussi loin que possible vers le côté droit de la route en toute sécurité et arrêtez-vous.",
+      "explanation": "Lorsque vous conduisez sur une route à deux voies ou une autoroute non divisée, vous devez céder le passage à un véhicule d'urgence utilisant ses feux et/ou sa sirène, quelle que soit la direction d'où il s'en rapproche. Immédiatement, conduisez aussi près que possible vers le côté droit de la route et arrêtez-vous, en veillant à ne pas vous arrêter à une intersection."
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "state": "Wisconsin",
+  "category": "car",
+  "quizName": "Easy Practice Test #1",
+  "slug": "easy-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "5",
+      "question": "다른 운전자를 추적 운전하기(그들의 후미 범퍼에 너무 가깝게 운전하기):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 운전자들을 답답하게 하고 화나게 할 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "교통 위반 딱지를 초래할 수 없습니다."
+        },
+        {
+          "letter": "C",
+          "text": "\"끼어들기\"를 방지하여 충돌을 줄입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "다른 운전자들을 답답하게 하고 화나게 할 수 있습니다.",
+      "explanation": "추적 운전은 공격적인 운전으로 이어질 수 있는 일반적인 행동이므로 피해야 합니다. 운전자는 안전하지 않은 운전으로 인해 법적 결과에 직면할 수 있습니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "1605",
+      "question": "다음 경우 어깨 너머를 보아 사각지대를 확인합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "연석을 향해 또는 연석에서 멀어질 때."
+        },
+        {
+          "letter": "B",
+          "text": "좌회전 또는 우회전."
+        },
+        {
+          "letter": "C",
+          "text": "차선 변경."
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "위의 모든 것.",
+      "explanation": "차량의 위치를 변경하려고 할 때마다 어깨 너머를 보아 사각지대를 확인합니다. 회전하거나, 차선을 변경하거나, 연석을 향해 또는 연석에서 멀어질 때 사각지대를 확인해야 합니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1133",
+      "question": "과속:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "시간을 절약하므로 목적지에 더 빨리 도착할 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "장애물을 돌아다니는 데 도움이 됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "심각한 신체 손상과 사망의 가능성을 증가시킵니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "심각한 신체 손상과 사망의 가능성을 증가시킵니다.",
+      "explanation": "과속은 차량 충돌에 가장 일반적인 기여 요인 중 하나입니다. 과속은 시간을 절약하지 않으며 종종 고위험 의사 결정으로 이어집니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "452",
+      "question": "혈중 알코올 농도(BAC)를 줄이는 유일한 방법은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "커피를 마십니다."
+        },
+        {
+          "letter": "B",
+          "text": "운동."
+        },
+        {
+          "letter": "C",
+          "text": "신체가 알코올을 제거할 시간을 허용하세요."
+        },
+        {
+          "letter": "D",
+          "text": "찬 샤워를 하세요."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "신체가 알코올을 제거할 시간을 허용하세요.",
+      "explanation": "BAC를 효과적으로 줄이는 유일한 방법은 일정 기간 동안 알코올을 마시지 않는 것입니다. 커피, 운동 및 찬 샤워는 BAC를 줄이거나 알코올의 영향을 변경할 수 없습니다. 이들은 깨어 있도록 도울 수 있지만 BAC를 변경하거나 정신을 차리게 할 수 없습니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1151",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/one_way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우회전 금지."
+        },
+        {
+          "letter": "B",
+          "text": "화살표 방향으로만 운전하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "앞에 곡선이 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "화살표 방향으로만 운전하십시오.",
+      "explanation": "규제 표지판은 준수해야 하는 교통 법규에 대해 도로 사용자에게 알립니다. 이 표지판이 있는 곳에서 운전자는 화살표로 표시된 방향으로 운전해야 합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1196",
+      "question": "겨울 눈이 소복이 내린 후 운전하기 전에 자동차에서 눈을 치워야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "헤드라이트."
+        },
+        {
+          "letter": "B",
+          "text": "방향 지시등."
+        },
+        {
+          "letter": "C",
+          "text": "창문."
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "위의 모든 것.",
+      "explanation": "도로에서 명확하게 볼 수 있도록 운전하기 전에 모든 창문에서 눈, 얼음 및 서리를 제거하십시오. 항상 헤드라이트, 제동등 및 후미등을 깨끗하게 유지하십시오."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "654",
+      "question": "철도 건널목에 접근할 때 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "살펴보고, 귀 기울이고, 속도를 줄이고, 정지할 준비를 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "게이트가 내려가기 전에 선로를 건널 수 있도록 속도를 높입니다."
+        },
+        {
+          "letter": "C",
+          "text": "내려간 게이트 주위로 운전하려고 시도합니다."
+        },
+        {
+          "letter": "D",
+          "text": "건너야 할 선로가 몇 개인지 주의를 기울이지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "살펴보고, 귀 기울이고, 속도를 줄이고, 정지할 준비를 합니다.",
+      "explanation": "철도 건널목에 접근할 때 열차나 철로를 사용할 수 있는 다른 차량을 위해 살펴보고, 귀 기울이고, 속도를 줄이고, 정지할 준비를 해야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1430",
+      "question": "철도 건널목에 접근하고 있지만 기차를 보거나 듣지 못합니다. 반드시 정지해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "정지 표지판이 붙어 있으면"
+        },
+        {
+          "letter": "B",
+          "text": "건널목 게이트가 내려져 있으면"
+        },
+        {
+          "letter": "C",
+          "text": "건널목 신호등이 깜박이고 있으면"
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "위의 모든 것.",
+      "explanation": "깜박이는 빨간 불이 켜져 있거나, 건널목 게이트가 내려져 있거나, 정지 표지판이 붙어 있거나, 신호 담당자가 정지 신호를 하거나, 기차가 보이거나 계속 운전하는 것이 위험할 정도로 건널목에 가까우면 항상 철도 건널목을 건너기 전에 정지해야 합니다. 기차가 너무 가까워서 안전하게 선로를 건너갈 수 있을지 확실하지 않으면 정지하세요. 절대 기차와 경주하지 마세요."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "585",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/pedestrian_crossing(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "학교 횡단."
+        },
+        {
+          "letter": "B",
+          "text": "보행자 횡단."
+        },
+        {
+          "letter": "C",
+          "text": "조깅 트레일."
+        },
+        {
+          "letter": "D",
+          "text": "붐비는 보도."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "보행자 횡단.",
+      "explanation": "이 표지판은 보행자 횡단도의 존재를 나타냅니다. 횡단보도에 진입하거나 당신의 경로를 건너는 사람들을 주의깊게 살펴봐야 합니다. 속도를 줄이고 정지할 준비를 하세요."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "850",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/illinois-bicycles_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "자전거를 주의하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "자전거 금지."
+        },
+        {
+          "letter": "C",
+          "text": "자전거 수리점 앞."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "자전거를 주의하십시오.",
+      "explanation": "경고 표지판은 일반적으로 검은색 표시가 있는 노란색입니다. 경고 표지판은 동물, 사람, 차량이 교통을 건널 가능성이 있는 지역에 대해 운전자에게 경고할 수 있습니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1007",
+      "question": "여러 잔의 맥주를 마신 경우, 알코올의 영향은 다음에 의해서만 감소합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "찬 샤워를 하는 것입니다."
+        },
+        {
+          "letter": "B",
+          "text": "여러 시간을 기다리는 것입니다."
+        },
+        {
+          "letter": "C",
+          "text": "여러 잔의 커피를 마시는 것입니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "여러 시간을 기다리는 것입니다.",
+      "explanation": "알코올의 손상 효과를 제거하는 유일한 방법은 신체가 체내에서 제거할 수 있도록 시간을 주는 것입니다. 커피를 마시거나, 신체 활동을 하거나, 찬 샤워를 하는 것은 이 과정을 빠르게 하지 않습니다. 한 잔의 음료의 영향을 취소하는 데 약 1시간이 걸립니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1158",
+      "question": "다른 차량을 추월한 후 원래 차선으로 돌아가기 전에 당신은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "경적을 울리세요."
+        },
+        {
+          "letter": "B",
+          "text": "추월한 차량의 두 헤드라이트를 백미러에서 보세요."
+        },
+        {
+          "letter": "C",
+          "text": "전조등을 깜빡입니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "추월한 차량의 두 헤드라이트를 백미러에서 보세요.",
+      "explanation": "추월이 허용될 때 추월한 차량의 두 헤드라이트가 백미러에 보이는지 확인하세요. 그때만 안전하게 원래 차선으로 돌아갈 수 있습니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1391",
+      "question": "알코올 또는 다른 약물 조합을 시스템에서 제거하는 유일하게 의학적으로 입증된 방법은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "신선한 공기를 마십니다."
+        },
+        {
+          "letter": "B",
+          "text": "몸에 시간을 줍니다."
+        },
+        {
+          "letter": "C",
+          "text": "커피를 마십니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "몸에 시간을 줍니다.",
+      "explanation": "알코올은 빠르게 작용하며 시스템에서 천천히 빠져나갑니다. 찬 샤워, 검은색 커피, 운동은 사람의 혈중 알코올 농도(BAC)를 줄이는 데 아무것도 하지 않습니다. BAC를 낮추는 유일한 방법은 기다리는 것입니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "509",
+      "question": "다른 자동차를 너무 가깝게 따라가지 않아야 하는 이유:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차 사이의 도로를 보지 못할 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞 차량이 갑자기 감속하거나 정지하면 정지할 시간이 충분하지 않을 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "차량의 방향 신호를 보지 못할 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "다른 차량의 브레이크 불을 보지 못할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "앞 차량이 갑자기 감속하거나 정지하면 정지할 시간이 충분하지 않을 수 있습니다.",
+      "explanation": "너무 가깝게 따라가고 있는 앞 차량이 갑자기 감속하거나 정지하면 충돌을 피할 시간이 충분하지 않을 수 있습니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1531",
+      "question": "야간 운전이 낮 운전보다 더 어려울 수 있는 이유는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "자동차는 밤에 더 빨리 과열됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "어두워지면 가시성이 감소합니다."
+        },
+        {
+          "letter": "C",
+          "text": "밤에 비가 올 가능성이 더 높습니다."
+        },
+        {
+          "letter": "D",
+          "text": "밤에 오토바이를 만날 가능성이 더 높습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "어두워지면 가시성이 감소합니다.",
+      "explanation": "밤에는 시야각이 줄어듭니다. 도로의 위험에 대응할 수 있도록 항상 적절한 헤드라이트를 사용하세요. 앞이 보이는 거리 내에 멈출 수 있을 정도로 천천히 운전하세요."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "642",
+      "question": "교통 충돌 시 가장 효과적인 안전 장치는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "허리와 어깨 벨트만."
+        },
+        {
+          "letter": "B",
+          "text": "에어백만."
+        },
+        {
+          "letter": "C",
+          "text": "허리/어깨 벨트와 에어백 모두."
+        },
+        {
+          "letter": "D",
+          "text": "안전 장치 없음."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "허리/어깨 벨트와 에어백 모두.",
+      "explanation": "안전벨트는 충돌에서 생존할 확률을 두 배로 늘릴 수 있고 심각한 부상을 피할 확률을 두 배 이상으로 늘릴 수 있습니다. 에어백은 안전벨트와 함께 제대로 사용될 때 정면 충돌에서 추가 보호를 제공합니다. 어깨와 허리 벨트를 모두 착용해야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1053",
+      "question": "다음의 운전 기술 중 어느 것이 알코올 및/또는 약물 사용의 영향을 받습니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주의력입니다."
+        },
+        {
+          "letter": "B",
+          "text": "협응력입니다."
+        },
+        {
+          "letter": "C",
+          "text": "위의 둘 다입니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "위의 둘 다입니다.",
+      "explanation": "알코올 및 기타 약물은 반응 시간, 협응력, 주의력 및 집중력을 포함한 안전한 운전에 필요한 많은 기술에 부정적인 영향을 미칠 수 있습니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1131",
+      "question": "주간 고속도로에서 운전할 때 긴급 정지가 필요한 경우 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "지나가는 자동차에 경음기를 울려 주의를 끌어야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량에서 나와 지나가는 첫 번째 차량을 지그시 신호해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "도로를 벗어나 긴급 점멸등을 켜고 가능하면 차량 내에 머물러야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "도로를 벗어나 긴급 점멸등을 켜고 가능하면 차량 내에 머물러야 합니다.",
+      "explanation": "주간 고속도로 또는 고속도로의 갓길에 멈춰야 할 경우 긴급 점멸등을 켜서 다른 운전자에게 경고하고 가능하면 차량 내에 머물러야 합니다. 주간 고속도로의 극도로 빠른 교통 속도는 서 있거나 걷기를 매우 위험하게 만듭니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "496",
+      "question": "알코올:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "반사 신경과 반응 시간을 느리게 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "당신을 졸리게 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "당신을 깨웁니다."
+        },
+        {
+          "letter": "D",
+          "text": "판단력을 향상시킵니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "반사 신경과 반응 시간을 느리게 합니다.",
+      "explanation": "알코올은 뇌의 활동을 느리게 하고 안전한 운전에 필요한 기술을 감소시키는 억제제입니다. 알코올을 마시면 반응 시간이 느려지고 판단력이 저하됩니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1763",
+      "question": "자동차 운전자는 자전거를 탄 어린이에게 추가 공간을 제공해야 합니다. 왜냐하면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "성인과 같은 신체 반사 능력이 없습니다."
+        },
+        {
+          "letter": "B",
+          "text": "성인보다 작고 보기가 더 어렵습니다."
+        },
+        {
+          "letter": "C",
+          "text": "위의 둘 다입니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "위의 둘 다입니다.",
+      "explanation": "어린이는 종종 가장 예측 불가능한 보행자이며 보기 가장 어려운 보행자입니다. 특히 학교, 버스 정류장, 놀이터, 공원 및 아이스크림 자동판매기 근처에서 어린이를 주의 깊게 살펴보세요. 보도에서 자전거를 타는 어린이가 예상치 못하게 도로로 나올 수 있으므로 주의하세요."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1448",
+      "question": "운전 중 피로를 느낄 경우 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "목적지에 더 빨리 도달하기 위해 속도를 높이십시오."
+        },
+        {
+          "letter": "B",
+          "text": "라디오 볼륨을 높이십시오."
+        },
+        {
+          "letter": "C",
+          "text": "짧은 낮잠을 자기 위해 안전한 주차 구역을 찾으십시오."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "짧은 낮잠을 자기 위해 안전한 주차 구역을 찾으십시오.",
+      "explanation": "운전할 때 피로의 경고 신호를 주시하십시오. 눈을 뜨기 위해 애쓰고 있거나, 차선을 벗어나고 있거나, 깨어 있으려고 라디오 볼륨을 높이고 창문을 내리고 있다면 안전하게 운전할 수 없을 정도로 피곤합니다. 이러한 신호를 발견하면 짧은 낮잠으로 상태를 회복할 수 있도록 안전한 주차 구역을 찾는 것이 좋습니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1361",
+      "question": "다음의 경우에 철도 건널목에서 멈춰야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "신호수에 의해 지시될 때."
+        },
+        {
+          "letter": "B",
+          "text": "정지 표지판으로 제어될 때."
+        },
+        {
+          "letter": "C",
+          "text": "깜빡이는 빨간 신호와 차단기가 있고 작동 중일 때."
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "위의 모든 것.",
+      "explanation": "신호수 또는 정지 표지판에 의해 지시될 때, 그리고 깜빡이는 빨간 신호와 차단기가 있고 작동 중일 때 철도 건널목에서 멈춰야 합니다."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "1639",
+      "question": "신체 상태가 안전하지 않은 방식으로 운전하게 되지 않도록 하려면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "신체적으로 건강을 유지하고 정기적인 신체 검사를 받으세요."
+        },
+        {
+          "letter": "B",
+          "text": "운전 능력에 대한 모든 약물의 영향을 알아두세요."
+        },
+        {
+          "letter": "C",
+          "text": "신체적 한계 내에서 운전하세요."
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "위의 모든 것.",
+      "explanation": "신체 상태는 안전하게 운전할 수 있는 능력에 중요한 영향을 미칩니다. 운전자는 자신의 신체적 한계를 인식하고 안전할 때만 운전해야 합니다."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1516",
+      "question": "다음 중 어떤 방식으로 알코올 음료가 당신에게 영향을 미칠 수 있습니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "반응 시간을 느리게 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "거짓된 자신감의 느낌을 줍니다."
+        },
+        {
+          "letter": "C",
+          "text": "사고력을 손상시킵니다."
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "위의 모든 것.",
+      "explanation": "알코올은 억제, 판단, 자제력을 조절하는 뇌 부분을 무디게 합니다. 결과적으로 알코올을 마신 후 자극받은, 활기찬, 약간 즐거운 또는 어리석은 느낌을 받을 수 있습니다. 알코올은 또한 반응 시간, 조정력, 균형을 손상시킵니다. 알코올 섭취 후 시력과 거리를 판단하는 능력이 저하되어 주변 상황에 반응하기 어려워집니다."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "22",
+      "question": "횡단보도가 없고 보행자가 당신의 차선을 건너는 것을 보면 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "보행자가 당신을 볼 수 있는지 확인한 후 진행합니다."
+        },
+        {
+          "letter": "B",
+          "text": "주의 깊게 보행자 주위를 운전합니다."
+        },
+        {
+          "letter": "C",
+          "text": "정지하고 보행자가 건너기를 마칠 때까지 기다립니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "정지하고 보행자가 건너기를 마칠 때까지 기다립니다.",
+      "explanation": "운전자는 표시된 횡단보도가 없더라도 항상 도로의 보행자에게 우선권을 양보해야 합니다."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "309",
+      "question": "누군가 뒤에서 공격적으로 운전하고 있다면 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공격적인 운전자의 길을 터주려고 노력하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "운전자가 당신을 지나갈 때 운전자를 노려보십시오."
+        },
+        {
+          "letter": "C",
+          "text": "운전자가 당신을 지나갈 때 속도를 높이십시오."
+        },
+        {
+          "letter": "D",
+          "text": "추월 차선을 막으십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "공격적인 운전자의 길을 터주려고 노력하십시오.",
+      "explanation": "공격적인 운전자를 만나면 그들의 길을 터주기 위해 최대한 노력해야 합니다. 적대적인 운전자와 눈맞춤을 피해야 합니다. 속도를 높여서 적대적인 운전자에게 도전하면 그들을 더 화나게 하여 위험을 증가시킬 수 있습니다."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "1152",
+      "question": "횡단보도에서:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "보행자에게 양보해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "보행자가 당신에게 양보해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "건설 인부가 당신에게 양보해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "보행자에게 양보해야 합니다.",
+      "explanation": "보행자는 거리 횡단에서 우선권을 가지지만 교통 신호를 따라야 합니다. 교통 신호가 없는 곳에서는 표시되거나 표시되지 않은 횡단보도의 보행자를 위해 차량이 멈춰야 합니다."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "1779",
+      "question": "작업 구역 장벽, 드럼, 콘, 표지판은 다음을 위해 사용됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "느린 교통으로 인해 운전자를 화나게 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "운전자에게 불편을 주세요."
+        },
+        {
+          "letter": "C",
+          "text": "위험한 작업 구역에서 교통을 차단합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "위험한 작업 구역에서 교통을 차단합니다.",
+      "explanation": "고속도로의 작업 구역은 작업자와 운전자 모두에게 점점 더 위험한 장소가 되었습니다. 작업 구역에 접근할 때 콘, 배럴, 표지판, 대형 차량, 형광색 조끼를 입은 작업자 등의 자료를 주시하여 경고를 받고 안내를 받으세요."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "305",
+      "question": "운전 중에 피곤함을 느끼기 시작하면 가장 좋은 방법은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "커피를 마시십시오."
+        },
+        {
+          "letter": "B",
+          "text": "창을 열으십시오."
+        },
+        {
+          "letter": "C",
+          "text": "운전을 멈추십시오."
+        },
+        {
+          "letter": "D",
+          "text": "라디오를 켜십시오."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "운전을 멈추십시오.",
+      "explanation": "운전 중 피로는 음주 운전만큼 위험합니다. 운전 중에 피곤함을 느끼기 시작하면 가장 좋은 방법은 운전을 멈추는 것입니다."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "766",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/illinois-downgrade.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다가오는 내리막길 또는 언덕."
+        },
+        {
+          "letter": "B",
+          "text": "도로 공사 지역."
+        },
+        {
+          "letter": "C",
+          "text": "도로폭이 좁아지는 구간."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "다가오는 내리막길 또는 언덕.",
+      "explanation": "이 표지판은 앞쪽에 위험한 내리막길 또는 언덕이 있음을 경고합니다. 언덕이 매우 길거나 가파를 수 있으며, 급회전을 가질 수 있습니다."
+    }
+  ]
+}

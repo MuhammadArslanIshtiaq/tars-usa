@@ -1,0 +1,758 @@
+{
+  "state": "Wisconsin",
+  "category": "car",
+  "quizName": "Hard Practice Test #1",
+  "slug": "hard-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "575",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rotonda adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Zona de no pasar."
+        },
+        {
+          "letter": "C",
+          "text": "Ceda el paso al girar a la izquierda en luz verde."
+        },
+        {
+          "letter": "D",
+          "text": "Semáforo adelante."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Semáforo adelante.",
+      "explanation": "Esta señal significa que hay un semáforo adelante. Debe reducir la velocidad y estar preparado para detenerse."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "2246",
+      "question": "Una sola línea blanca discontinua en el centro de una carretera de dos carriles indica:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los carriles se mueven en direcciones opuestas y los conductores no pueden adelantar."
+        },
+        {
+          "letter": "B",
+          "text": "Los carriles se mueven en direcciones opuestas y los conductores pueden adelantar cuando sea seguro hacerlo."
+        },
+        {
+          "letter": "C",
+          "text": "Los carriles se mueven en la misma dirección y los conductores no pueden adelantar."
+        },
+        {
+          "letter": "D",
+          "text": "Los carriles se mueven en la misma dirección y los conductores pueden adelantar cuando sea seguro hacerlo."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Los carriles se mueven en la misma dirección y los conductores pueden adelantar cuando sea seguro hacerlo.",
+      "explanation": "Las líneas blancas se utilizan para separar el tráfico que se mueve en la misma dirección. Las líneas discontinuas indican que los conductores directamente junto a la línea pueden adelantar cuando sea seguro hacerlo."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1678",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los giros en U están prohibidos."
+        },
+        {
+          "letter": "B",
+          "text": "Se permiten los giros en U."
+        },
+        {
+          "letter": "C",
+          "text": "Carretera sinuosa adelante."
+        },
+        {
+          "letter": "D",
+          "text": "Giro cerrado a la izquierda adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Los giros en U están prohibidos.",
+      "explanation": "Una señal de regulación que muestra un círculo rojo con una línea roja a través del medio indica que una acción específica está prohibida. Los giros en U no están permitidos donde se coloca esta señal."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "483",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/two_way_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tráfico de cuatro carriles adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Carretera dividida adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Tráfico de doble sentido adelante."
+        },
+        {
+          "letter": "D",
+          "text": "Intersección adelante."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tráfico de doble sentido adelante.",
+      "explanation": "Esta señal advierte sobre tráfico bidireccional adelante."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "2247",
+      "question": "Una línea blanca sólida en el centro de una carretera de dos carriles indica:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los carriles se mueven en direcciones opuestas y los conductores no pueden adelantar."
+        },
+        {
+          "letter": "B",
+          "text": "Los carriles se mueven en direcciones opuestas y los conductores pueden adelantar cuando sea seguro hacerlo."
+        },
+        {
+          "letter": "C",
+          "text": "Los carriles se mueven en la misma dirección y los conductores no pueden adelantar."
+        },
+        {
+          "letter": "D",
+          "text": "Los carriles se mueven en la misma dirección y los conductores pueden adelantar cuando sea seguro hacerlo."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Los carriles se mueven en la misma dirección y los conductores no pueden adelantar.",
+      "explanation": "Las líneas blancas se utilizan para separar el tráfico que se mueve en la misma dirección. Las líneas sólidas indican que los conductores no están autorizados a adelantar."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1889",
+      "question": "Esta señal es una:",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señal de ceda el paso."
+        },
+        {
+          "letter": "B",
+          "text": "Señal de cruce escolar."
+        },
+        {
+          "letter": "C",
+          "text": "Señal de parada."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Señal de ceda el paso.",
+      "explanation": "Una señal triangular orientada hacia abajo es siempre una señal de ceda el paso. Los conductores deben estar preparados para reducir la velocidad o detenerse al aproximarse a una señal de ceda el paso."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "2255",
+      "question": "Las señales pentagonales indican:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zonas de no adelantar."
+        },
+        {
+          "letter": "B",
+          "text": "Zonas escolares."
+        },
+        {
+          "letter": "C",
+          "text": "Límites de velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "Cruces de ferrocarril."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Zonas escolares.",
+      "explanation": "Las señales pentagonales indican que estás en una zona escolar. Sé extra vigilante con los niños y peatones cuando conduces cerca de una escuela."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1987",
+      "question": "¿Cuál de los siguientes es más probable que sea resbaladizo en clima frío después de nieve o lluvia?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una carretera abierta y montañosa"
+        },
+        {
+          "letter": "B",
+          "text": "Una carretera residencial"
+        },
+        {
+          "letter": "C",
+          "text": "Una carretera en un área sombreada"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Una carretera en un área sombreada",
+      "explanation": "En días fríos y húmedos, los lugares sombreados en una carretera pueden congelarse. Las áreas sombreadas a menudo se congelan antes y se descongelan después que el resto de una carretera."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "822",
+      "question": "Su licencia puede ser suspendida si tiene menos de 21 años y conduce con un nivel de alcohol en sangre de:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.15 por ciento o más."
+        },
+        {
+          "letter": "B",
+          "text": "0.08 por ciento o más."
+        },
+        {
+          "letter": "C",
+          "text": "Cualquier cantidad."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Cualquier cantidad.",
+      "explanation": "Hay tolerancia cero para el consumo de alcohol por parte de conductores menores de 21 años. Si es menor de 21 años, la detección de cualquier rastro de alcohol en su sistema resultará en sanciones severas, incluyendo la suspensión de su licencia por dos años."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "2234",
+      "question": "Cuando un vehículo con un Sistema de Frenos Antibloqueo comienza a perder tracción en una carretera resbaladiza, los conductores deben:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bombee los frenos."
+        },
+        {
+          "letter": "B",
+          "text": "Presione y mantenga presionado el pedal de freno."
+        },
+        {
+          "letter": "C",
+          "text": "Presione y mantenga presionado el pedal del acelerador."
+        },
+        {
+          "letter": "D",
+          "text": "Toque ligeramente los frenos."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Presione y mantenga presionado el pedal de freno.",
+      "explanation": "Si su vehículo pierde tracción en una carretera resbaladiza, un conductor con un Sistema de Frenos Antibloqueo (ABS) necesita presionar con fuerza el pedal de freno, mantenerlo presionado y dirigirse hacia la seguridad. En una situación de emergencia, el ABS bombea automáticamente los frenos a una velocidad más rápida de la que podría hacerlo el conductor. Remover la presión constante del pedal de freno o bombear los frenos desactivará el ABS."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1532",
+      "question": "Al estacionar cuesta arriba en una colina o pendiente con una acera:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gira las ruedas delanteras bruscamente hacia la acera."
+        },
+        {
+          "letter": "B",
+          "text": "Gira las ruedas delanteras ligeramente hacia la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Gira las ruedas delanteras bruscamente alejándolas de la acera."
+        },
+        {
+          "letter": "D",
+          "text": "Mantén las ruedas delanteras rectas."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Gira las ruedas delanteras bruscamente alejándolas de la acera.",
+      "explanation": "Para evitar que tu vehículo ruede hacia el tráfico cuando está estacionado frente a una cuesta, gira las ruedas delanteras bruscamente alejándolas de la acera. Si estacionas cuesta arriba en una calle sin acera, gira las ruedas bruscamente hacia el borde de la carretera."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "449",
+      "question": "El contenido de alcohol en sangre (BAC) depende de cada uno de los siguientes, excepto:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su peso corporal."
+        },
+        {
+          "letter": "B",
+          "text": "Cuánto bebe."
+        },
+        {
+          "letter": "C",
+          "text": "Cuánto tiempo transcurre entre bebidas."
+        },
+        {
+          "letter": "D",
+          "text": "Qué tan en forma física está."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Qué tan en forma física está.",
+      "explanation": "Su contenido de alcohol en sangre (BAC) depende de cuánto alcohol beba, cuánto tiempo transcurra entre bebidas y su peso. No se ve afectado por el tipo de bebidas alcohólicas que beba, su nivel de aptitud física o qué tan bien pueda \"aguantar el alcohol\"."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1613",
+      "question": "Si dos vehículos llegan a una intersección no controlada al mismo tiempo:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vehículo más grande tiene derecho de paso."
+        },
+        {
+          "letter": "B",
+          "text": "El auto a la izquierda tiene derecho de paso."
+        },
+        {
+          "letter": "C",
+          "text": "El automóvil de la izquierda debe ceder al automóvil de la derecha."
+        },
+        {
+          "letter": "D",
+          "text": "El auto a la derecha debe ceder el paso al auto a la izquierda."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "El automóvil de la izquierda debe ceder al automóvil de la derecha.",
+      "explanation": "Si dos vehículos llegan al mismo tiempo a una intersección no controlada, el conductor de la izquierda debe ceder al conductor de la derecha. El conductor de la izquierda puede entonces continuar cuando sea seguro hacerlo."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "2261",
+      "question": "Al acercarse a una señal de tráfico que muestra una flecha amarilla parpadeante, los conductores:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deben incorporarse a un carril en la dirección de la flecha."
+        },
+        {
+          "letter": "B",
+          "text": "Deben detenerse completamente."
+        },
+        {
+          "letter": "C",
+          "text": "Pueden girar a la izquierda después de ceder el paso al tráfico que viene de frente y peatones."
+        },
+        {
+          "letter": "D",
+          "text": "Tienen el derecho de paso y pueden esperar que el tráfico que viene de frente se detenga para ellos."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pueden girar a la izquierda después de ceder el paso al tráfico que viene de frente y peatones.",
+      "explanation": "Una flecha amarilla parpadeante indica que los giros a la izquierda están permitidos en la dirección de la flecha. Sin embargo, el tráfico que viene en sentido contrario tiene una luz verde y debes ceder el paso al tráfico que viene en sentido contrario y a los peatones."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1174",
+      "question": "Cuando estacionas cuesta arriba en una calle con una acera:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantén la rueda delantera recta y activa el freno de estacionamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Gire las ruedas delanteras alejándose del bordillo."
+        },
+        {
+          "letter": "C",
+          "text": "Gire las ruedas delanteras hacia el bordillo."
+        },
+        {
+          "letter": "D",
+          "text": "Gira las ruedas traseras hacia la acera."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Gire las ruedas delanteras alejándose del bordillo.",
+      "explanation": "Cuando estaciones en una pendiente donde hay una acera, debes girar tus ruedas bruscamente hacia la izquierda, alejándote de la acera. De esta manera, si tus frenos fallan, tu vehículo no rodará hacia el tráfico."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "876",
+      "question": "Las calles y carreteras son más resbaladizas:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando ha estado lloviendo fuerte durante varias horas."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando están limpias y secas."
+        },
+        {
+          "letter": "C",
+          "text": "Justo después de que comienza a llover."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Justo después de que comienza a llover.",
+      "explanation": "Conducir durante la primera media hora de lluvia es peligroso porque las carreteras se vuelven extremadamente resbaladizas cuando el agua se mezcla con el aceite y otros químicos en las superficies de la carretera que aún no se han lavado. Usa precaución extra cuando conduces en carreteras resbaladizas."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "666",
+      "question": "Debe apartarse hacia el borde de la carretera y permitir que pase un vehículo de emergencia:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Independientemente de su dirección."
+        },
+        {
+          "letter": "B",
+          "text": "Solo si lo está siguiendo."
+        },
+        {
+          "letter": "C",
+          "text": "Solo si se acerca desde la dirección opuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los anteriores."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Independientemente de su dirección.",
+      "explanation": "Debe apartarse hacia el borde derecho de la carretera y detenerse para un vehículo de emergencia con luces intermitentes, independientemente de si se acerca desde atrás o desde la dirección opuesta."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1059",
+      "question": "Cuando se acerca a un cruce de ferrocarril sin señales de advertencia intermitentes o puertas de cruce, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cruce las vías inmediatamente y lo más rápido posible."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre deténgase antes de cruzar las vías."
+        },
+        {
+          "letter": "C",
+          "text": "Prepárese para ceder a cualquier tren en el cruce."
+        },
+        {
+          "letter": "D",
+          "text": "Acelere para vencer a cualquier tren que se acerque."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Prepárese para ceder a cualquier tren en el cruce.",
+      "explanation": "Siempre esté preparado para ceder ante cualquier tren que se aproxime antes de cruzar las vías del ferrocarril, particularmente si no hay luces ni puertas que controlen el cruce. Nunca comience a cruzar las vías hasta que haya espacio para todo su vehículo al otro lado de las vías. Debido al riesgo de que un vehículo se bloquee, no es prudente cambiar de velocidad al cruzar vías de ferrocarril."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1189",
+      "question": "Es ilegal estacionar dentro de ____ pies de una boca de incendio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10"
+        },
+        {
+          "letter": "B",
+          "text": "15"
+        },
+        {
+          "letter": "C",
+          "text": "20"
+        },
+        {
+          "letter": "D",
+          "text": "25"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "10",
+      "explanation": "Es ilegal estacionar dentro de 10 feet de una boca de incendio."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1970",
+      "question": "Hacer espacio para autos que entran a la autopista:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducir la velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar a un carril diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Mantener tu velocidad y posición."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Cambiar a un carril diferente.",
+      "explanation": "Hacer espacio para vehículos que entran a una autopista. Si es posible, cámbiate al siguiente carril para crear un espacio para los vehículos que llegan. Si no puedes cambiar de carril, ajusta tu velocidad para permitir que los vehículos entren al tráfico de la manera más suave y segura posible."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "342",
+      "question": "Permita un mayor espacio de amortiguamiento que lo usual al detener:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En una inclinación."
+        },
+        {
+          "letter": "B",
+          "text": "En una intersección."
+        },
+        {
+          "letter": "C",
+          "text": "En una señal de alto."
+        },
+        {
+          "letter": "D",
+          "text": "En una plaza de peaje."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "En una inclinación.",
+      "explanation": "Debe dejar más espacio frente a su vehículo que lo usual cuando está detenido en una pendiente hacia arriba. Si el vehículo frente a usted rueda hacia atrás hacia su vehículo cuando el tráfico comienza a moverse nuevamente, es menos probable que haya una colisión."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "847",
+      "question": "En una señal de cruce escolar, debes:",
+      "image": "/images/signs/georgia-school_crosswalk.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre detente, ya sea que haya una señal de alto o no."
+        },
+        {
+          "letter": "B",
+          "text": "Vigila a los niños y estate listo para detenerte."
+        },
+        {
+          "letter": "C",
+          "text": "Siempre toca el claxon cuando veas niños."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vigila a los niños y estate listo para detenerte.",
+      "explanation": "Las señales pentagonales significan que te aproximas a una zona escolar y/o cruce escolar. Cuando veas estas señales, mantente alerta y prepárate para detenerte."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "2114",
+      "question": "Al entrar a la autopista en una rampa de entrada corta donde no hay carril de aceleración, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ingrese inmediatamente al carril de tráfico más alejado a la derecha en la autopista y acelere para igualar la velocidad del tráfico."
+        },
+        {
+          "letter": "B",
+          "text": "Use el arcén de la carretera principal para alcanzar la velocidad del tráfico."
+        },
+        {
+          "letter": "C",
+          "text": "Acelere e ingrese a la autopista solo después de haber identificado un espacio en el tráfico."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Acelere e ingrese a la autopista solo después de haber identificado un espacio en el tráfico.",
+      "explanation": "Al entrar a la autopista en una rampa de entrada corta donde no hay carril de aceleración, acelere solo después de haber identificado un espacio en el tráfico. En general, debe estar detenido mientras espera a que aparezca un espacio."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "403",
+      "question": "Cuando la carretera está marcada con una línea amarilla sólida y una línea amarilla discontinua, con la línea discontinua al lado de su carril, puede pasar:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo en una emergencia."
+        },
+        {
+          "letter": "B",
+          "text": "Si está en una autopista."
+        },
+        {
+          "letter": "C",
+          "text": "Si el tráfico está despejado."
+        },
+        {
+          "letter": "D",
+          "text": "Solo en una intersección."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Si el tráfico está despejado.",
+      "explanation": "Cuando hay una línea amarilla sólida y una línea amarilla discontinua en el centro de la carretera y la línea discontinua está al lado de su carril, puede cruzar las líneas para pasar si no hay tráfico que viene en dirección contraria."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "2253",
+      "question": "Las señales que indican áreas de recreación pública son:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Naranja."
+        },
+        {
+          "letter": "B",
+          "text": "Rojo."
+        },
+        {
+          "letter": "C",
+          "text": "Verdes."
+        },
+        {
+          "letter": "D",
+          "text": "Marrón."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Marrón.",
+      "explanation": "Las señales que son marrones indican áreas de importancia cultural e histórica o de recreación pública. Pueden ser un recurso útil cuando se viaja en lugares desconocidos."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "1197",
+      "question": "En una intersección con señales de alto en todas las esquinas, ¿a quién debe ceder el derecho de paso?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los conductores que llegaron antes que usted."
+        },
+        {
+          "letter": "B",
+          "text": "El conductor a su derecha, independientemente de quién llegó primero."
+        },
+        {
+          "letter": "C",
+          "text": "El conductor a su izquierda, independientemente de quién llegó primero."
+        },
+        {
+          "letter": "D",
+          "text": "El conductor al otro lado de la intersección de usted, independientemente de quién haya llegado primero."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Todos los conductores que llegaron antes que usted.",
+      "explanation": "En una parada de cuatro vías, el vehículo que llega primero a la intersección se mueve primero. Si dos o más vehículos llegan al mismo tiempo, el vehículo a la derecha tiene derecho de paso."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "1376",
+      "question": "Si te pierdes tu salida en la autopista, no debes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continúa en la autopista y encuentra una ruta alternativa a tu destino."
+        },
+        {
+          "letter": "B",
+          "text": "Procede a la siguiente salida, sal de la autopista y regresa a tu salida adecuada."
+        },
+        {
+          "letter": "C",
+          "text": "Retroceder en la carretera o el arcén."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Retroceder en la carretera o el arcén.",
+      "explanation": "Si te pierdes tu giro o salida, no retrocedas en el carril de viaje o en el arcén. Continúa conduciendo hasta la siguiente salida o cruce. Los conductores no esperan que un vehículo retroceda hacia ellos en la carretera y hacerlo probablemente causará una colisión."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "84",
+      "question": "En intersecciones, pasos de peatones y cruces ferroviarios, siempre debes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detente, escucha y procede con cuidado."
+        },
+        {
+          "letter": "B",
+          "text": "Mira a los lados de tu vehículo para ver qué viene."
+        },
+        {
+          "letter": "C",
+          "text": "Adelanta lentamente vehículos que parecen estar detenidos sin razón."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mira a los lados de tu vehículo para ver qué viene.",
+      "explanation": "Cada vez que llegues a un lugar donde las personas pueden cruzar o entrar en tu camino, o donde una línea de tráfico se cruza con otra, debes mirar a los lados izquierdo y derecho de tu vehículo para asegurarte de que nadie viene."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "416",
+      "question": "Cuando dos vehículos entran en una intersección desde diferentes carreteras al mismo tiempo, ¿cuál vehículo debe ceder el paso?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cualquiera de los dos"
+        },
+        {
+          "letter": "B",
+          "text": "El vehículo a la izquierda"
+        },
+        {
+          "letter": "C",
+          "text": "El vehículo de la derecha"
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "El vehículo a la izquierda",
+      "explanation": "En intersecciones controladas por señales o letreros y en intersecciones no controladas, el conductor a la izquierda debe ceder el paso al conductor a la derecha cuando dos vehículos llegan a la intersección al mismo tiempo."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1731",
+      "question": "Está conduciendo en una calle concurrida y el acelerador de su vehículo se queda abierto. Debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toque la bocina."
+        },
+        {
+          "letter": "B",
+          "text": "Pise a fondo los frenos."
+        },
+        {
+          "letter": "C",
+          "text": "Encienda los intermitentes de cuatro vías."
+        },
+        {
+          "letter": "D",
+          "text": "Apague el encendido, teniendo cuidado de no activar el mecanismo de bloqueo del volante."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Apague el encendido, teniendo cuidado de no activar el mecanismo de bloqueo del volante.",
+      "explanation": "Si el acelerador de su vehículo se queda abierto, su vehículo continuará manteniendo su velocidad o acelerará, incluso si retira el pie del pedal del gas. Apague el motor, teniendo cuidado de mover el interruptor de encendido solo lo suficiente para detener el motor y no activar el mecanismo de bloqueo del volante. Aplique los frenos y salga de la carretera hacia un área segura."
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "state": "Louisiana",
+  "category": "cdl",
+  "testName": "Bus Test #1 20 Questions • Passing Score 16",
+  "testSlug": "bus-1",
+  "url": "/images/louisiana/cdl/bus-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9315",
+      "question": "操作校车时，应调整后视镜：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶过程中。"
+        },
+        {
+          "letter": "B",
+          "text": "开始驾驶前。"
+        },
+        {
+          "letter": "C",
+          "text": "驾驶完成后。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "开始驾驶前。",
+      "explanation": "校车的安全运行至关重要，后视镜必须正确调整。始终在操作校车前检查每个后视镜。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8768",
+      "question": "什么是制动滞后？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "按下制动踏板后制动器开始工作所需的时间"
+        },
+        {
+          "letter": "B",
+          "text": "制动踏板和地板之间的距离"
+        },
+        {
+          "letter": "C",
+          "text": "用于停止车辆的空气压力量"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "按下制动踏板后制动器开始工作所需的时间",
+      "explanation": "由于空气通过气管流向制动器需要时间，空气制动器无法立即开始工作。从按下制动踏板的时刻到制动器开始工作的时刻，通常至少有半秒的制动滞后。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10305",
+      "question": "乘客不得站在以下位置的前面：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "站立线。"
+        },
+        {
+          "letter": "B",
+          "text": "竖直线。"
+        },
+        {
+          "letter": "C",
+          "text": "乘客线。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "站立线。",
+      "explanation": "在设计用于运载站立乘客的公共汽车上，乘客不得站在驾驶员座位后部的前面。任何这样的公共汽车必须在地板上有一条线或其他标记，表示乘客不得站立的位置。这称为站立线。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11016",
+      "question": "在车辆检查测试中,除以下外,您必须能够完成所有以下项目:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "显示机油尺的位置。"
+        },
+        {
+          "letter": "B",
+          "text": "证明发动机机油在安全操作范围内。"
+        },
+        {
+          "letter": "C",
+          "text": "证明机油低于补充标记。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "证明机油低于补充标记。",
+      "explanation": "在车辆出发前检查测试中，您将被要求指出机油尺所在的位置。您需要证明机油液位在安全操作范围内且高于补充标记。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11889",
+      "question": "在静态泄漏测试中，单个装有空气制动器的车辆的泄漏率应不超过一分钟内____。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 psi"
+        },
+        {
+          "letter": "B",
+          "text": "2 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2 psi",
+      "explanation": "在对配备空气制动器的单个车辆进行静态泄漏测试时，泄漏率应不超过每分钟2 psi。如果空气制动系统的泄漏速度更快，则不应驾驶该车辆，因为可能需要进行维修。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8633",
+      "question": "防抱死制动系统(ABS)：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "降低车辆的正常制动能力。"
+        },
+        {
+          "letter": "B",
+          "text": "是对其他制动系统的补充，不会降低车辆的制动力。"
+        },
+        {
+          "letter": "C",
+          "text": "对较大的车辆无效。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "是对其他制动系统的补充，不会降低车辆的制动力。",
+      "explanation": "如果配备，ABS是对车辆正常制动系统的补充，不会增加或减少任何其他系统的制动力。ABS仅在车轮即将锁定时激活。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9890",
+      "question": "空气制动装置使用什么来使制动器工作？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "压缩空气"
+        },
+        {
+          "letter": "B",
+          "text": "室外空气"
+        },
+        {
+          "letter": "C",
+          "text": "未压缩的空气"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "压缩空气",
+      "explanation": "许多大型CMV配备了空气制动装置。空气制动系统使用压缩空气来运行。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11488",
+      "question": "除了直线倒车练习外，驾驶员可以在测试练习期间退出其车辆并检查其位置最多：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一次。"
+        },
+        {
+          "letter": "B",
+          "text": "2倍。"
+        },
+        {
+          "letter": "C",
+          "text": "3倍。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2倍。",
+      "explanation": "在任何基本车辆控制技能测试练习中，驾驶员被允许下车检查其车辆位置。此操作称为\"查看\"。在直线倒车练习中，驾驶员最多只能查看一次。在任何其他练习中，驾驶员最多只能查看两次。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8757",
+      "question": "安全阀设置为在____磅每平方英寸（psi）时开启。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100"
+        },
+        {
+          "letter": "B",
+          "text": "150"
+        },
+        {
+          "letter": "C",
+          "text": "200"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "150",
+      "explanation": "安全阀保护充气罐和空气制动系统的其余部分免受过多空气压力的积累。安全阀通常设定在150 psi时打开。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9292",
+      "question": "当在绿灯时驶近开启式大桥时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您必须停止。"
+        },
+        {
+          "letter": "B",
+          "text": "您可以不停止地继续行驶。"
+        },
+        {
+          "letter": "C",
+          "text": "您必须等待信号灯变为黄灯。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "您可以不停止地继续行驶。",
+      "explanation": "客车在绿色信号灯控制的开启式大桥前不需要停止。驾驶员在通过前应该仍然减速并确认安全。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10309",
+      "question": "空气箱排水口应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不应由驾驶员使用。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在外面潮湿时使用。"
+        },
+        {
+          "letter": "C",
+          "text": "用于完全排空储气罐。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "用于完全排空储气罐。",
+      "explanation": "空气制动系统中的压缩空气通常含有一定量的水分和压缩机油。如果在系统中积累，水分和油会损害制动器。手动操作的空气储罐排水阀必须每天打开以清除这些积累物。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11168",
+      "question": "驾驶客车时，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "与乘客进行交谈。"
+        },
+        {
+          "letter": "B",
+          "text": "不与乘客交谈。"
+        },
+        {
+          "letter": "C",
+          "text": "要求乘客注意窗外的危险。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "不与乘客交谈。",
+      "explanation": "为了避免分心，公交车司机不应与乘客进行交谈。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8631",
+      "question": "2024年3月1日或之后制造的配备空气制动的卡车牵引车必须配备：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "防抱死制动系统（ABS）。"
+        },
+        {
+          "letter": "B",
+          "text": "蓝牙。"
+        },
+        {
+          "letter": "C",
+          "text": "全球定位系统（GPS）。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "防抱死制动系统（ABS）。",
+      "explanation": "2024年3月1日或之后制造的配备空气制动的卡车牵引车，以及2024年3月1日或之后制造的其他配备空气制动的车辆必须配备防抱死制动装置。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11169",
+      "question": "在乘客在车上时给巴士加油是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "推荐，但仅限于乘客被告知加油的情况。"
+        },
+        {
+          "letter": "B",
+          "text": "推荐，但仅限于时间紧张时。"
+        },
+        {
+          "letter": "C",
+          "text": "不推荐。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "不推荐。",
+      "explanation": "除非绝对必要，否则不应在乘客在车上时为巴士加油。特别是，载有乘客的巴士绝不应在密闭建筑物内加油。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9893",
+      "question": "制动衬片应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "松动的。"
+        },
+        {
+          "letter": "B",
+          "text": "不含油。"
+        },
+        {
+          "letter": "C",
+          "text": "柔软的。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "不含油。",
+      "explanation": "制动衬片不应松动或浸满油脂。它们不应该危险地变薄。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9619",
+      "question": "防抱死制动系统（ABS）允许驾驶员：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "开得更快。"
+        },
+        {
+          "letter": "B",
+          "text": "在制动时保持对车辆的控制。"
+        },
+        {
+          "letter": "C",
+          "text": "看得比车辆前方更远。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在制动时保持对车辆的控制。",
+      "explanation": "防抱死制动系统（ABS）的目的是帮助防止车轮抱死，并帮助驾驶员在光滑路面制动时保持对车辆的控制。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10846",
+      "question": "随身行李：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "可以留在过道中。"
+        },
+        {
+          "letter": "B",
+          "text": "必须远离出口放置。"
+        },
+        {
+          "letter": "C",
+          "text": "应放在门附近。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "必须远离出口放置。",
+      "explanation": "公交车乘客不应被允许将行李留在任何门口或过道中。行李和货物必须以防止损坏、允许驾驶员自由轻松移动、允许乘客在紧急情况下通过任何窗户或门出口、以及保护乘客免受物品掉落或移动造成伤害的方式进行固定。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11502",
+      "question": "在出发前，你应该确保：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "制动踏板卡住。"
+        },
+        {
+          "letter": "B",
+          "text": "油门踏板松动。"
+        },
+        {
+          "letter": "C",
+          "text": "凹槽踏板表面没有被磨平。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "凹槽踏板表面没有被磨平。",
+      "explanation": "在行前检查中检查车辆踏板时，你应该确保踏板下方或周围没有任何东西会阻碍其使用。确保踏板处于正常工作状态，如果适用，踏板表面应有凹槽。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11486",
+      "question": "在基本控制技能测试期间，如果您满足以下条件，您将获得分数：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停靠一次。"
+        },
+        {
+          "letter": "B",
+          "text": "检查您的位置。"
+        },
+        {
+          "letter": "C",
+          "text": "越过练习边界。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "越过练习边界。",
+      "explanation": "考官将记录你的车辆接触或越过练习边界线的次数。每次侵犯都将被计为一个错误，导致你的技能测试成绩被扣分。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11549",
+      "question": "检查公交车内部时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "锁定每个紧急出口窗口。"
+        },
+        {
+          "letter": "B",
+          "text": "检查每条栏杆。"
+        },
+        {
+          "letter": "C",
+          "text": "移除松散的扶手。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "检查每条栏杆。",
+      "explanation": "检查公共汽车内部时，您必须确保一切都是安全的且工作状态良好。花时间确保每个扶手和栏杆都牢固地安装好且可以安全使用。"
+    }
+  ]
+}

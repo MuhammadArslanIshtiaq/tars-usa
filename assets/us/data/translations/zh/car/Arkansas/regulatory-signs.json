@@ -1,0 +1,339 @@
+{
+  "state": "Arkansas",
+  "category": "car",
+  "quizName": "Regulatory Signs",
+  "slug": "regulatory-signs",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/speed-limit.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "你不得以超过公示速度的速度行驶。"
+        },
+        {
+          "letter": "B",
+          "text": "你应该始终以公示速度行驶。"
+        },
+        {
+          "letter": "C",
+          "text": "公示速度仅为建议速度。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "你不得以超过公示速度的速度行驶。",
+      "explanation": "速度限制标志告诉你该道路上允许的最高速度。你不得超过公示速度行驶，在恶劣天气或交通拥挤时应降速行驶。"
+    },
+    {
+      "questionNumber": 2,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/do-not-enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不得进入此道路或匝道。"
+        },
+        {
+          "letter": "B",
+          "text": "前方道路施工。"
+        },
+        {
+          "letter": "C",
+          "text": "停止并等待信号。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "不得进入此道路或匝道。",
+      "explanation": "这个红白相间的标志表示你不得进入该道路或匝道。如果你通过此标志，你将逆向行驶。"
+    },
+    {
+      "questionNumber": 3,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/one-way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "此道路上的车辆仅朝一个方向行驶。"
+        },
+        {
+          "letter": "B",
+          "text": "你必须按所示方向转向。"
+        },
+        {
+          "letter": "C",
+          "text": "前方仅一条车道开放。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "此道路上的车辆仅朝一个方向行驶。",
+      "explanation": "单向标志表示该道路上的所有车辆都朝箭头指向的方向行驶。不得逆向行驶。"
+    },
+    {
+      "questionNumber": 4,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/no-u-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "此处不允许掉头。"
+        },
+        {
+          "letter": "B",
+          "text": "不允许右转。"
+        },
+        {
+          "letter": "C",
+          "text": "前方道路弯曲。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "此处不允许掉头。",
+      "explanation": "该标志表示你不能在此地点掉头。你必须找到另一种方式来改变方向。"
+    },
+    {
+      "questionNumber": 5,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/no-left-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "此处不允许左转。"
+        },
+        {
+          "letter": "B",
+          "text": "左侧车道前方结束。"
+        },
+        {
+          "letter": "C",
+          "text": "在分叉处靠左。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "此处不允许左转。",
+      "explanation": "该标志表示你不能在此交叉口或地点左转。你必须直行或右转。"
+    },
+    {
+      "questionNumber": 6,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/no-left-turn-or-uturn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "此处不允许左转和掉头。"
+        },
+        {
+          "letter": "B",
+          "text": "此处不允许右转。"
+        },
+        {
+          "letter": "C",
+          "text": "任何方向都不允许转向。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "此处不允许左转和掉头。",
+      "explanation": "该标志表示在此地点不允许左转和掉头。"
+    },
+    {
+      "questionNumber": 7,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/no-parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "此处不允许停车。"
+        },
+        {
+          "letter": "B",
+          "text": "任何时间都不允许停车。"
+        },
+        {
+          "letter": "C",
+          "text": "停车仅限持证者。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "此处不允许停车。",
+      "explanation": "该标志表示你不能在此区域停放车辆。你可以短暂停车以上下乘客，但不能将车辆停放在此。"
+    },
+    {
+      "questionNumber": 8,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "你必须从此车道左转。"
+        },
+        {
+          "letter": "B",
+          "text": "左侧车道已关闭。"
+        },
+        {
+          "letter": "C",
+          "text": "不允许左转。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "你必须从此车道左转。",
+      "explanation": "该标志表示你所在的车道仅用于左转。到达交叉口时你必须左转。"
+    },
+    {
+      "questionNumber": 9,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/straight-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "你必须直行。不允许转向。"
+        },
+        {
+          "letter": "B",
+          "text": "前方为单向通行。"
+        },
+        {
+          "letter": "C",
+          "text": "道路上坡。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "你必须直行。不允许转向。",
+      "explanation": "该标志表示你必须直行通过交叉口。此车道不允许左转或右转。"
+    },
+    {
+      "questionNumber": 10,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/straight-or-left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "你可以从此车道直行或左转。"
+        },
+        {
+          "letter": "B",
+          "text": "道路分为两条车道。"
+        },
+        {
+          "letter": "C",
+          "text": "左转车道前方开始。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "你可以从此车道直行或左转。",
+      "explanation": "该标志表示你可以从此车道直行或左转。不允许右转。"
+    },
+    {
+      "questionNumber": 11,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/red-yield-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "减速并将通行权让给其他车辆。"
+        },
+        {
+          "letter": "B",
+          "text": "完全停止。"
+        },
+        {
+          "letter": "C",
+          "text": "加速以融入交通流。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "减速并将通行权让给其他车辆。",
+      "explanation": "让行标志表示你必须减速并让其他车辆或行人先行。如果需要，停止以让他们安全通过。"
+    },
+    {
+      "questionNumber": 12,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/pedestrians-prohibited.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "此道路禁止行人通行。"
+        },
+        {
+          "letter": "B",
+          "text": "前方有行人过街。"
+        },
+        {
+          "letter": "C",
+          "text": "注意行人。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "此道路禁止行人通行。",
+      "explanation": "这个标志表示行人不能在这条道路上行走。它通常放在高速公路或行人行走危险的道路上。"
+    },
+    {
+      "questionNumber": 13,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "按照显示的方向跟随绕行路线。"
+        },
+        {
+          "letter": "B",
+          "text": "休息区在这个方向。"
+        },
+        {
+          "letter": "C",
+          "text": "有一条风景路线可用。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "按照显示的方向跟随绕行路线。",
+      "explanation": "绕行标志引导您走替代路线，因为原来的道路已关闭。按照箭头指示回到原来的路线。"
+    },
+    {
+      "questionNumber": 14,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/four-way-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "此交叉路口的所有交通都必须停止。"
+        },
+        {
+          "letter": "B",
+          "text": "四车道高速公路开始。"
+        },
+        {
+          "letter": "C",
+          "text": "前方有环形交叉路口。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "此交叉路口的所有交通都必须停止。",
+      "explanation": "4向标志与停止标志放在一起。它表示来自各个方向的所有车辆都必须在进入交叉路口前停止。"
+    },
+    {
+      "questionNumber": 15,
+      "question": "这个标志是什么意思？",
+      "image": "/images/regulatory-signs/intersection-lane-control.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "它显示每条车道允许哪些转向或动作。"
+        },
+        {
+          "letter": "B",
+          "text": "它显示每条车道的速度。"
+        },
+        {
+          "letter": "C",
+          "text": "它显示前方哪些车道已关闭。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "它显示每条车道允许哪些转向或动作。",
+      "explanation": "交叉路口车道控制标志在交叉路口前张贴，向驾驶员显示每条车道允许哪些转向或动作。"
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "state": "Georgia",
+  "category": "car",
+  "quizName": "Easy Practice Test #1",
+  "slug": "easy-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "883",
+      "question": "Il est plus dangereux de conduire la nuit que pendant la journée car :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous ne pouvez pas voir aussi loin ahead la nuit."
+        },
+        {
+          "letter": "B",
+          "text": "La route est toujours plus glissante la nuit."
+        },
+        {
+          "letter": "C",
+          "text": "Votre temps de réaction est plus lent la nuit."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous ne pouvez pas voir aussi loin ahead la nuit.",
+      "explanation": "Avec une visibilité réduite et l'éblouissement des phares des véhicules qui arrivent en sens inverse, vous ne pouvez pas voir aussi loin ahead la nuit que pendant la journée. Utilisez toujours les feux et soyez prudent lors de la conduite dans l'obscurité."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "1947",
+      "question": "Ajustez vos rétroviseurs intérieur et latéraux :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avant de commencer à conduire."
+        },
+        {
+          "letter": "B",
+          "text": "Chaque fois que vous avez besoin de les utiliser."
+        },
+        {
+          "letter": "C",
+          "text": "Avant de monter dans la voiture."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Avant de commencer à conduire.",
+      "explanation": "Votre sécurité et celle des autres conducteurs et piétons dépend beaucoup de ce que vous faites avant de conduire. Avant de déplacer votre véhicule, vous devez ajuster votre siège, ajuster vos rétroviseurs, attacher votre ceinture de sécurité et sécuriser les objets dans et sur votre véhicule. N'attendez pas que votre véhicule se déplace pour ajuster vos rétroviseurs."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1893",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/pedestrian_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traversée scolaire."
+        },
+        {
+          "letter": "B",
+          "text": "Zone scolaire."
+        },
+        {
+          "letter": "C",
+          "text": "Passage pour piétons."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Passage pour piétons.",
+      "explanation": "Ce panneau marque la présence d'un passage pour piétons. Soyez attentif à tout piéton qui pourrait traverser la chaussée."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1140",
+      "question": "Si un enfant fait du vélo près de votre véhicule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Klaxonner."
+        },
+        {
+          "letter": "B",
+          "text": "Attendez-vous à ce que l'enfant ait un contrôle total du vélo."
+        },
+        {
+          "letter": "C",
+          "text": "Attendez-vous à l'inattendu."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Attendez-vous à l'inattendu.",
+      "explanation": "Les enfants à vélo sont parfois imprévisibles. Les jeunes cyclistes sont particulièrement susceptibles de faire des changements de direction surprenants. Rappelez-vous que les enfants et les vélos sont tous deux de petite taille et peuvent devenir difficiles à voir."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1137",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/road_work_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Attention aux piétons qui traversent votre chemin."
+        },
+        {
+          "letter": "B",
+          "text": "Zone d'interdiction de dépassement."
+        },
+        {
+          "letter": "C",
+          "text": "Zone de travaux à venir."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Zone de travaux à venir.",
+      "explanation": "Ce panneau d'avertissement orange avertit les conducteurs qu'une zone de travaux routiers approche. Lors de la traversée d'une zone de travail, restez vigilant face aux dispositifs temporaires de contrôle du trafic."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1031",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ralentissez; route sinueuse à l'horizon."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentissez et n'utilisez pas vos freins."
+        },
+        {
+          "letter": "C",
+          "text": "Ralentissez; glissant quand mouillé."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ralentissez; glissant quand mouillé.",
+      "explanation": "Ce panneau avertit que la route devient glissante lorsqu'elle est mouillée."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "763",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/divided_highway_begins.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Route divisée."
+        },
+        {
+          "letter": "B",
+          "text": "Avertissement de passage à niveau."
+        },
+        {
+          "letter": "C",
+          "text": "Zone d'interdiction de dépassement."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Route divisée.",
+      "explanation": "Ce panneau indique qu'une route divisée commence à l'avance."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1892",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/divided_highway_begins.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous approchez de la fin d'une autoroute divisée."
+        },
+        {
+          "letter": "B",
+          "text": "Vous approchez du début d'une autoroute divisée."
+        },
+        {
+          "letter": "C",
+          "text": "La route sera glissante ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vous approchez du début d'une autoroute divisée.",
+      "explanation": "Ce panneau indique le début d'une autoroute divisée. Restez à droite du diviseur médian."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1792",
+      "question": "Ce panneau indique à un conducteur que :",
+      "image": "/images/signs/connecticut-flagger.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un signaleur de construction est à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Un policier est à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Un préposé au stationnement est à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un signaleur de construction est à venir.",
+      "explanation": "Ce panneau avertit qu'il y a un signaleur à venir. Suivez toujours les directions données par un signaleur. Les signaleurs portent généralement des gilets orange ou jaunes, des chemises jaune-vert ou des vestes brillantes. Ils utilisent des palettes et des drapeaux rouges pour diriger le trafic dans la zone de travail et pour laisser les travailleurs ou les véhicules de construction traverser la route."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1282",
+      "question": "Il est illégal de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dépasser un autre véhicule dans une zone de dépassement interdite marquée."
+        },
+        {
+          "letter": "B",
+          "text": "Dépasser un autre véhicule sur une traversée de chemin de fer."
+        },
+        {
+          "letter": "C",
+          "text": "Les deux précédentes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les deux précédentes.",
+      "explanation": "Il est illégal de franchir la ligne médiane pour dépasser lors de la conduite en montée, dans les virages et dans d'autres endroits où vous ne pouvez pas voir assez loin pour dépasser en toute sécurité. Vous ne pouvez pas dépasser aux traversées de rue, aux traversées de chemin de fer, où les panneaux indiquent les zones d'interdiction de dépasser, ou où une ligne jaune continue est à côté de votre voie. Vous ne pouvez pas dépasser lorsque le véhicule devant vous s'est arrêté pour un piéton ou lors de la conduite dans des zones de travaux où le dépassement serait dangereux."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "757",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cédez le droit de passage."
+        },
+        {
+          "letter": "B",
+          "text": "Zone d'interdiction de dépassement."
+        },
+        {
+          "letter": "C",
+          "text": "Réduction du nombre de voies."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cédez le droit de passage.",
+      "explanation": "Un panneau triangulaire rouge et blanc indique que vous devez céder la priorité."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1869",
+      "question": "Les \"zones dangereuses\" sont des zones autour des camions où les voitures :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disparaissent dans les angles morts ou sont si près qu'elles limitent la capacité du conducteur du camion à s'arrêter et à manœuvrer en toute sécurité."
+        },
+        {
+          "letter": "B",
+          "text": "Ont suffisamment d'espace pour voyager derrière le camion."
+        },
+        {
+          "letter": "C",
+          "text": "Ont plusieurs longueurs de voiture entre leur véhicule et le camion."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Disparaissent dans les angles morts ou sont si près qu'elles limitent la capacité du conducteur du camion à s'arrêter et à manœuvrer en toute sécurité.",
+      "explanation": "Les \"zones dangereuses\" sont des zones autour des camions ou des autobus dans lesquelles les voitures disparaissent dans les angles morts du véhicule plus grand. Les \"zones dangereuses\" peuvent également être définies comme des zones dans lesquelles les voitures sont si près du véhicule plus grand qu'elles limitent la capacité du conducteur du camion ou de l'autobus à s'arrêter et à manœuvrer en toute sécurité. Le fait qu'une voiture soit dans une \"zone dangereuse\" augmente considérablement le potentiel d'une collision."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1387",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les voitures de droite passent en premier."
+        },
+        {
+          "letter": "B",
+          "text": "Vous avez le droit de passage."
+        },
+        {
+          "letter": "C",
+          "text": "Laissez passer le trafic transversal avant de continuer."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Laissez passer le trafic transversal avant de continuer.",
+      "explanation": "En approchant ce panneau, vous devez céder le droit de passage. Ralentissez et laissez passer les véhicules et les piétons qui traversent votre chemin avant de procéder. Si nécessaire, arrêtez-vous avant de continuer."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "830",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de demi-tour."
+        },
+        {
+          "letter": "B",
+          "text": "Pas de virage à gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de virage à droite."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pas de virage à droite.",
+      "explanation": "Là où ce panneau est affiché, il est interdit de tourner à droite. Il serait dangereux et illégal de tourner à droite à une intersection avec ce panneau."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11",
+      "question": "Une ligne jaune pleine à côté d'une ligne jaune pointillée signifie que les véhicules :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La circulation dans les deux directions peut dépasser."
+        },
+        {
+          "letter": "B",
+          "text": "À côté de la ligne pointillée, vous pouvez dépasser."
+        },
+        {
+          "letter": "C",
+          "text": "À côté de la ligne continue, vous pouvez dépasser."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "À côté de la ligne pointillée, vous pouvez dépasser.",
+      "explanation": "Les lignes jaunes séparent les voies de circulation se déplaçant dans des directions opposées. Une ligne jaune pointillée à côté de votre voie de circulation signifie que vous pouvez dépasser."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1465",
+      "question": "Si vous conduisez et qu'un pneu crève soudainement, vous devez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Appuyez rapidement plusieurs fois sur la pédale de frein."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentissez progressivement et ne freinez pas."
+        },
+        {
+          "letter": "C",
+          "text": "Appuyez aussi fort que possible sur la pédale de frein."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ralentissez progressivement et ne freinez pas.",
+      "explanation": "Si un pneu éclate ou crève soudainement pendant que vous conduisez, tenez fermement le volant et maintenez le véhicule en ligne droite. Levez le pied de l'accélérateur et ne freinez pas. Laissez le véhicule ralentir de lui-même et utilisez les freins doucement, mais seulement si nécessaire. Quittez la route lorsqu'il est sûr de le faire."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1029",
+      "question": "Ce panneau indique:",
+      "image": "/images/signs/low_clearance.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La distance entre la surface de la route et un pont ou un viaduc."
+        },
+        {
+          "letter": "B",
+          "text": "La hauteur maximale légale d'un véhicule autorisée dans cet état."
+        },
+        {
+          "letter": "C",
+          "text": "La largeur maximale d'un véhicule autorisée sur l'autoroute."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La distance entre la surface de la route et un pont ou un viaduc.",
+      "explanation": "Ceci est un panneau d'avertissement de faible dégagement. Il indique la distance entre la surface de la route et le bas d'un pont ou d'un viaduc (dans ce cas, 12 feet, 6 inches)."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "209",
+      "question": "Dans lequel des scénarios suivants vos roues ne devraient pas être pointées droit devant?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quand vous attendez de tourner à gauche à un feu de circulation."
+        },
+        {
+          "letter": "B",
+          "text": "Quand vous êtes garé sur une colline ou une allée en pente."
+        },
+        {
+          "letter": "C",
+          "text": "Quand vous êtes garé sur le bord d'une route plane où il n'y a pas de trottoir."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Quand vous êtes garé sur une colline ou une allée en pente.",
+      "explanation": "En attendant de tourner à gauche, gardez vos roues pointées droit devant jusqu'à ce qu'il soit sûr de commencer votre virage. Si un véhicule vous heurte par l'arrière, cela vous empêchera de dévier vers la circulation venant en sens inverse. Quand vous êtes garé face à une pente ou une descente, tournez les roues pour que le véhicule ne roule pas dans la circulation si les freins défaillent."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "842",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne buvez pas et ne conduisez pas."
+        },
+        {
+          "letter": "B",
+          "text": "Glissant quand mouillé."
+        },
+        {
+          "letter": "C",
+          "text": "Courbes de route en avant."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Glissant quand mouillé.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marquages noirs. Ils vous alertent sur les conditions qui sont immédiatement devant vous. Ce panneau avertit que la route est glissante quand elle est mouillée."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "995",
+      "question": "Ce panneau d'avertissement jaune signifie :",
+      "image": "/images/signs/school.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous approchez d'une école ou d'un passage pour écoliers."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentissez, conduisez avec prudence et faites attention aux enfants."
+        },
+        {
+          "letter": "C",
+          "text": "Les deux précédentes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les deux précédentes.",
+      "explanation": "Ce panneau est placé sur les routes près des écoles pour avertir les conducteurs de ralentir, de conduire avec prudence et de faire attention aux enfants."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "827",
+      "question": "Un panneau avec cette forme signifie:",
+      "image": "/images/signs/washington-warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Passage à niveau."
+        },
+        {
+          "letter": "B",
+          "text": "Avertissement."
+        },
+        {
+          "letter": "C",
+          "text": "Signal à venir."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Avertissement.",
+      "explanation": "Un panneau jaune en forme de losange avertit des dangers possibles à venir. Les panneaux orange, qui sont principalement en forme de losange, sont utilisés pour avertir des dangers possibles dans ou près des zones de travail."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1211",
+      "question": "En entrant dans un carrefour giratoire, vous devriez ralentir et :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cédez le passage à tout piéton ou cycliste qui traverse."
+        },
+        {
+          "letter": "B",
+          "text": "Cédez le passage à toute voiture déjà dans le carrefour giratoire."
+        },
+        {
+          "letter": "C",
+          "text": "Les deux précédentes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les deux précédentes.",
+      "explanation": "En entrant dans un carrefour giratoire, vous devez céder le passage aux piétons, aux cyclistes et au trafic déjà dans le carrefour giratoire."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "851",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de virage à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez tourner à droite."
+        },
+        {
+          "letter": "C",
+          "text": "Attention au trafic sur votre droite."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pas de virage à droite.",
+      "explanation": "Ce panneau interdit les virages à droite. Vous ne pouvez pas tourner à droite à une intersection où ce panneau est affiché."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1132",
+      "question": "La meilleure chose à faire si vous vous fatiguez en conduisant est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêtez-vous pour vous reposer ou changez de conducteur."
+        },
+        {
+          "letter": "B",
+          "text": "Buvez du café."
+        },
+        {
+          "letter": "C",
+          "text": "Ouvrez une fenêtre."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Arrêtez-vous pour vous reposer ou changez de conducteur.",
+      "explanation": "Si vous vous fatiguez en conduisant, il est préférable de vous arrêter pour vous reposer ou de changer de conducteur. La fatigue émousse votre esprit et ralentit vos réactions, ce qui rend la conduite dangereuse."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1917",
+      "question": "Lorsque les lignes jaunes doubles séparent les voies de circulation :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le dépassement est autorisé à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Le dépassement est autorisé à droite."
+        },
+        {
+          "letter": "C",
+          "text": "Le dépassement n'est pas autorisé de chaque direction."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Le dépassement n'est pas autorisé de chaque direction.",
+      "explanation": "Les lignes jaunes séparant les voies de circulation indiquent que le trafic se déplace dans des directions opposées. Les lignes doubles indiquent que le dépassement n'est pas autorisé de chaque direction."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "769",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/illinois-construction.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zone de construction/entretien routier."
+        },
+        {
+          "letter": "B",
+          "text": "Route secondaire."
+        },
+        {
+          "letter": "C",
+          "text": "Chemin de fer à l'approche."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Zone de construction/entretien routier.",
+      "explanation": "Les panneaux en forme de losange sont utilisés pour avertir des dangers réels ou possibles. La couleur orange est utilisée pour les panneaux d'avertissement généralement trouvés dans les zones de construction ou d'entretien."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "760",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/illinois-railroad_warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chemin de fer à l'approche."
+        },
+        {
+          "letter": "B",
+          "text": "Zone d'interdiction de dépassement."
+        },
+        {
+          "letter": "C",
+          "text": "Zone scolaire."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Chemin de fer à l'approche.",
+      "explanation": "Un panneau rond jaune indique qu'il y a un passage à niveau à l'avance."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "1971",
+      "question": "Lorsque vous conduisez sur l'autoroute, regardez constamment loin devant votre véhicule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous aide à suivre le trafic."
+        },
+        {
+          "letter": "B",
+          "text": "Réduit le besoin de freinage ou de virage de dernière minute."
+        },
+        {
+          "letter": "C",
+          "text": "Vous permet de repérer les agents de police à venir."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Réduit le besoin de freinage ou de virage de dernière minute.",
+      "explanation": "Pour éviter le besoin de freinage ou de virage de dernière minute, regardez constamment la route loin devant votre véhicule. En regardant devant et en étant prêt à vous arrêter ou à changer de voie si nécessaire, vous pouvez conduire plus en sécurité, économiser du carburant et aider à maintenir le trafic à un rythme régulier."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "211",
+      "question": "Ce panneau blanc signifie :",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le passage à niveau est contrôlé. Continuez à votre vitesse régulière."
+        },
+        {
+          "letter": "B",
+          "text": "Regardez, écoutez et préparez-vous à arrêter au passage si nécessaire."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous aux rails du chemin de fer et attendez un signal avant de traverser."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Regardez, écoutez et préparez-vous à arrêter au passage si nécessaire.",
+      "explanation": "Lorsque vous approchez d'un passage à niveau, vous devez regarder, écouter, ralentir et vous préparer à arrêter. Laissez tous les trains passer avant de continuer."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "869",
+      "question": "L'eau sur la route peut causer un aquaplanage de votre véhicule. Votre voiture peut faire de l'aquaplanage à des vitesses aussi basses que:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 miles par heure."
+        },
+        {
+          "letter": "B",
+          "text": "35 miles par heure."
+        },
+        {
+          "letter": "C",
+          "text": "40 miles par heure."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "35 miles par heure.",
+      "explanation": "L'aquaplanage se produit lorsqu'il y a de l'eau stagnante sur une chaussée. À des vitesses jusqu'à 35 mph, la plupart des pneus évacueront l'eau loin du pneu. À mesure que votre vitesse dépasse 35 mph, les pneus ne peuvent pas évacuer l'eau aussi bien et vos pneus peuvent commencer à perdre le contact avec la route et glisser sur l'eau comme une paire de skis nautiques."
+    }
+  ]
+}

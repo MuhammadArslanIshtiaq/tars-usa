@@ -1,0 +1,819 @@
+{
+  "state": "New York",
+  "category": "motorcycle",
+  "quizName": "Signs Practice Test #3",
+  "slug": "signs-practice-test-3",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8253",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/arizona-four_way_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una pendiente pronunciada está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Debe girar a la izquierda adelante."
+        },
+        {
+          "letter": "C",
+          "text": "No entrar."
+        },
+        {
+          "letter": "D",
+          "text": "Una intersección de cuatro vías está adelante."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Una intersección de cuatro vías está adelante.",
+      "explanation": "Esta señal advierte que una intersección de cuatro direcciones está adelante."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8431",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/montana-right_and_left_curves.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La carretera adelante se curva solo hacia la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera adelante gira bruscamente hacia la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera adelante se curva hacia la derecha y luego hacia la izquierda."
+        },
+        {
+          "letter": "D",
+          "text": "La carretera adelante se curva hacia la izquierda y luego hacia la derecha."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La carretera adelante se curva hacia la derecha y luego hacia la izquierda.",
+      "explanation": "Las señales de advertencia se utilizan para advertir a los conductores sobre condiciones peligrosas próximas y generalmente son amarillas con marcas negras. Esta señal advierte a los conductores que la carretera adelante se curva hacia la derecha y luego hacia la izquierda."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "5082",
+      "question": "Cuando el brazo izquierdo de un operador está extendido hacia la izquierda, significa que el operador:",
+      "image": "/images/signs/vt-2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Planea girar a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "Está a punto de detenerse."
+        },
+        {
+          "letter": "C",
+          "text": "Planea girar a la derecha."
+        },
+        {
+          "letter": "D",
+          "text": "Está a punto de desacelerar."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Planea girar a la izquierda.",
+      "explanation": "En lugar de señales de giro mecánicas, los operadores pueden usar señales manuales para indicar giros o detenciones. Si el brazo izquierdo de un operador está extendido hacia la izquierda, significa que el operador planea girar a la izquierda o cambiar de carril hacia la izquierda."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8236",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esté atento a conductores ebrios."
+        },
+        {
+          "letter": "B",
+          "text": "Curvas adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Resbaladizo cuando está mojado."
+        },
+        {
+          "letter": "D",
+          "text": "Aplique los frenos rápidamente."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Resbaladizo cuando está mojado.",
+      "explanation": "Esta señal advierte que la carretera es resbaladiza cuando está mojada."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "4947",
+      "question": "¿Qué significa esta señal?",
+      "image": "/images/signs/ri-sign-2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los operadores pueden girar a la derecha o continuar recto."
+        },
+        {
+          "letter": "B",
+          "text": "Los operadores pueden girar a la izquierda o continuar recto."
+        },
+        {
+          "letter": "C",
+          "text": "Hay peligro adelante."
+        },
+        {
+          "letter": "D",
+          "text": "Camino de un solo sentido adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Los operadores pueden girar a la derecha o continuar recto.",
+      "explanation": "Desde el carril indicado, los operadores deben girar a la derecha o continuar recto."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8275",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/virginia-curve_ahead_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construcción de carretera adelante."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera se curva hacia la izquierda, luego hacia la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera se curva hacia la derecha, luego hacia la izquierda."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente pronunciada adelante."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La carretera se curva hacia la derecha, luego hacia la izquierda.",
+      "explanation": "Esta señal indica que la carretera se curva hacia la derecha y luego hacia la izquierda. Debe reducir la velocidad para poder negociar estas curvas con seguridad."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8352",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/indiana-curve_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Curva adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Trabajo de carretera adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Tráfico que se fusiona."
+        },
+        {
+          "letter": "D",
+          "text": "Sin giro a la izquierda."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Curva adelante.",
+      "explanation": "Las señales de advertencia preparan a los conductores para las condiciones y peligros viales próximos y suelen ser amarillas con marcas negras. Esta señal alerta a los conductores sobre una próxima curva en la carretera."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8276",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No entrar."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibido estacionar."
+        },
+        {
+          "letter": "C",
+          "text": "Sin vuelta en U."
+        },
+        {
+          "letter": "D",
+          "text": "Sin giro a la izquierda."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sin vuelta en U.",
+      "explanation": "Estas señales indican que los giros en U están prohibidos en el lugar donde están colocadas."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8248",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/virginia-bicycle_crossing_left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cruce de bicicletas."
+        },
+        {
+          "letter": "B",
+          "text": "Deténgase solo si se acercan otros autos."
+        },
+        {
+          "letter": "C",
+          "text": "Tienda de bicicletas."
+        },
+        {
+          "letter": "D",
+          "text": "Arcenes blandos."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cruce de bicicletas.",
+      "explanation": "Esta señal (con la flecha debajo) indica la ubicación de un cruce/ciclovía de bicicletas. Conduzca con precaución alrededor de esta señal porque las bicicletas probablemente cruzan regularmente o viajan junto al tráfico en el área."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "3581",
+      "question": "¿Qué significa esta señal de carretera?",
+      "image": "/images/signs/sign1.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducir la velocidad y prepararse para detenerse."
+        },
+        {
+          "letter": "B",
+          "text": "Deténgase completamente, luego proceda si es seguro hacerlo."
+        },
+        {
+          "letter": "C",
+          "text": "Proceda con cuidado a través de la intersección, pero es posible que no siempre necesite detenerse."
+        },
+        {
+          "letter": "D",
+          "text": "Detente solo para el tráfico en una carretera que se cruza."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Deténgase completamente, luego proceda si es seguro hacerlo.",
+      "explanation": "Al llegar a una señal de alto, debe deterse completamente y proceder solo cuando sea seguro hacerlo."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8240",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/pedestrian_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peatones caminando a lo largo del camino adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Cruce de peatones adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Los peatones no deben cruzar aquí."
+        },
+        {
+          "letter": "D",
+          "text": "Esté atento a los trabajadores de construcción en la carretera."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Cruce de peatones adelante.",
+      "explanation": "Esta señal indica la presencia de un cruce de peatones. Los conductores deben ser cautelosos al conducir donde puedan estar presentes peatones."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8231",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/new-york-hill_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se permiten camiones de menos de 18,000 lbs."
+        },
+        {
+          "letter": "B",
+          "text": "Colina adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Parada de camiones adelante."
+        },
+        {
+          "letter": "D",
+          "text": "No se permiten camiones."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Colina adelante.",
+      "explanation": "Esta señal advierte que hay una colina empinada adelante."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8357",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/merging_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tráfico que se fusiona."
+        },
+        {
+          "letter": "B",
+          "text": "Múltiples giros."
+        },
+        {
+          "letter": "C",
+          "text": "Cambio de carril."
+        },
+        {
+          "letter": "D",
+          "text": "No bloquee la intersección."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tráfico que se fusiona.",
+      "explanation": "Las señales de advertencia preparan a los conductores para las próximas condiciones de la carretera y peligros y generalmente son amarillas con marcas negras. Esta señal alerta a los conductores sobre el posible tráfico que se fusiona desde la derecha. Los conductores deben estar preparados para permitir que el tráfico se fusione de forma segura."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8188",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/pennsylvania-no_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin vuelta en U."
+        },
+        {
+          "letter": "B",
+          "text": "Sin giros."
+        },
+        {
+          "letter": "C",
+          "text": "Sin giro a la izquierda."
+        },
+        {
+          "letter": "D",
+          "text": "Sin giro a la derecha."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sin vuelta en U.",
+      "explanation": "Esta señal prohíbe los giros en U. No haga un giro en U donde esta señal esté colocada."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8350",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/bicycle_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cruce de bicicletas."
+        },
+        {
+          "letter": "B",
+          "text": "Alto."
+        },
+        {
+          "letter": "C",
+          "text": "Las multas se duplican en una zona de trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "Deténgase adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cruce de bicicletas.",
+      "explanation": "Los señales de advertencia preparan a los conductores para las próximas condiciones de la carretera y peligros, y generalmente son amarillas con marcas negras. Esta señal alerta a los conductores sobre posible tráfico cruzado de bicicletas."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8210",
+      "question": "El límite de velocidad publicado muestra:",
+      "image": "/images/signs/district-of-columbia-speed_limit_25.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo una velocidad de conducción recomendada."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad exacta a la que debe viajar para evitar una multa."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad de conducción segura máxima bajo condiciones ideales de carretera y clima."
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad de conducción segura máxima bajo todas las condiciones de carretera."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La velocidad de conducción segura máxima bajo condiciones ideales de carretera y clima.",
+      "explanation": "Una señal de límite de velocidad muestra la velocidad de conducción legal máxima para la sección de carretera donde se coloca. Conducir con seguridad puede requerir que viaje más lentamente que el límite publicado. Cuando las condiciones son menos que ideales, los conductores deben reducir la velocidad."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8194",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una curva a la izquierda está por delante."
+        },
+        {
+          "letter": "B",
+          "text": "Una serie de curvas está por delante."
+        },
+        {
+          "letter": "C",
+          "text": "Una curva en S está por delante."
+        },
+        {
+          "letter": "D",
+          "text": "La carretera será resbaladiza cuando esté mojada."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "La carretera será resbaladiza cuando esté mojada.",
+      "explanation": "Esta señal advierte que existen condiciones especialmente resbaladizas cuando la carretera está mojada."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8363",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cruce de ferrocarril."
+        },
+        {
+          "letter": "B",
+          "text": "Tráfico en una sola dirección."
+        },
+        {
+          "letter": "C",
+          "text": "Estacionamiento limitado."
+        },
+        {
+          "letter": "D",
+          "text": "Parque infantil adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cruce de ferrocarril.",
+      "explanation": "Las señales de tráfico circular indican cruces ferroviarios próximos. Esta señal les dice a los conductores que se acercan a un cruce ferroviario y deben estar atentos a signos de un tren que se aproxima."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8191",
+      "question": "Si ves esta señal sobre tu carril, tú:",
+      "image": "/images/signs/pennsylvania-progress_exit_only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No puedes salir de la autopista."
+        },
+        {
+          "letter": "B",
+          "text": "Puedes continuar a través del intercambiador o salir de la autopista desde tu carril actual."
+        },
+        {
+          "letter": "C",
+          "text": "Puedes permanecer en tu carril y continuar a través del intercambiador."
+        },
+        {
+          "letter": "D",
+          "text": "Debes salir de la autopista si permaneces en tu carril actual."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Debes salir de la autopista si permaneces en tu carril actual.",
+      "explanation": "Si un panel amarillo con el mensaje \"Salida solamente\" está en una señal de autopista, el carril debajo de la señal no continuará a través del intercambiador. En cambio, el carril saldrá de la carretera para formar una rampa. Si estás en un carril directamente debajo de una señal de \"Salida solamente\", puedes cambiar de carril para pasar por el intercambiador o debes salir de la autopista."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8190",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/divided_highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe girar hacia la izquierda o hacia la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "Se está acercando a una intersección en T."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera en la que se encuentra se cruza con una carretera dividida."
+        },
+        {
+          "letter": "D",
+          "text": "Se encuentra en un paso elevado sobre una carretera dividida."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La carretera en la que se encuentra se cruza con una carretera dividida.",
+      "explanation": "Esta señal indica que la carretera en la que se encuentra se cruza con una carretera dividida. Una carretera dividida es dos carreteras de un solo sentido separadas por una mediana o barrera de contención."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8370",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/t_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intersección T."
+        },
+        {
+          "letter": "B",
+          "text": "Cambio de carril."
+        },
+        {
+          "letter": "C",
+          "text": "Carretera secundaria."
+        },
+        {
+          "letter": "D",
+          "text": "No bloquee la intersección."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Intersección T.",
+      "explanation": "Las señales de advertencia preparan a los conductores para las condiciones de la carretera y peligros próximos y generalmente son amarillas con marcas negras. Esta señal advierte a los conductores que se están acercando a una intersección T y deben prepararse para girar a la derecha o a la izquierda."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8199",
+      "question": "Esta señal muestra un tipo de:",
+      "image": "/images/signs/maryland-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intersección."
+        },
+        {
+          "letter": "B",
+          "text": "Curva de carretera."
+        },
+        {
+          "letter": "C",
+          "text": "Giro a la derecha."
+        },
+        {
+          "letter": "D",
+          "text": "Cambio de carril."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Intersección.",
+      "explanation": "Esta señal indica que hay una intersección con una carretera de cruce adelante."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8255",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/divided_highway_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No rebasar."
+        },
+        {
+          "letter": "B",
+          "text": "No entrar."
+        },
+        {
+          "letter": "C",
+          "text": "No girar en rojo."
+        },
+        {
+          "letter": "D",
+          "text": "Manténgase a la derecha."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Manténgase a la derecha.",
+      "explanation": "Esta señal indica que una carretera dividida comienza adelante. La carretera se dividirá en dos carreteras de un solo sentido separadas por una mediana o divisor. Debe mantenerse a la derecha."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8228",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/two_way_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tráfico de cuatro carriles adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Carretera dividida adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Tráfico de doble sentido adelante."
+        },
+        {
+          "letter": "D",
+          "text": "Intersección adelante."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tráfico de doble sentido adelante.",
+      "explanation": "Esta señal advierte sobre tráfico bidireccional adelante."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8229",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuya la velocidad si se acerca un vehículo de emergencia."
+        },
+        {
+          "letter": "B",
+          "text": "Mire a ambos lados cuando cruce la intersección."
+        },
+        {
+          "letter": "C",
+          "text": "Siempre deténgase completamente en la intersección."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuya la velocidad y esté preparado para detenerse si es necesario."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Disminuya la velocidad y esté preparado para detenerse si es necesario.",
+      "explanation": "Disminuya su velocidad cuando se aproxime a una intersección con una señal de ceda el paso. Prepárese para detenerse y ceda el derecho de paso a los vehículos y peatones en la intersección o encrucijada. Debe detenerse completamente en una señal de ceda el paso si las condiciones del tráfico lo requieren."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "8197",
+      "question": "La señal con esta forma y color es una señal de _____________.",
+      "image": "/images/signs/pennsylvania-no_passing_zone2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zona de no adelantar"
+        },
+        {
+          "letter": "B",
+          "text": "Sentido contrario"
+        },
+        {
+          "letter": "C",
+          "text": "Cruce de ferrocarril"
+        },
+        {
+          "letter": "D",
+          "text": "Deténgase"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Zona de no adelantar",
+      "explanation": "Las señales de advertencia en forma de banderín como esta se usan solo para indicar una zona de no adelantar."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "8221",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/new-york-merging_traffic_entering_from_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tráfico en una sola dirección."
+        },
+        {
+          "letter": "B",
+          "text": "Intersección adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Tráfico fusionándose desde la derecha."
+        },
+        {
+          "letter": "D",
+          "text": "Curvas de carretera adelante."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tráfico fusionándose desde la derecha.",
+      "explanation": "Esta señal indica que hay tráfico que se fusiona ingresando desde la derecha."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "8201",
+      "question": "¿De qué debería estar más preocupado cuando ve esta señal?",
+      "image": "/images/signs/pennsylvania-shoulder_drop_off.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conducir con los faros desalineados porque un lado de su automóvil es más alto que el otro."
+        },
+        {
+          "letter": "B",
+          "text": "Dañar un neumático al desviarse hacia el arcén."
+        },
+        {
+          "letter": "C",
+          "text": "Hidroplaneo, si el arcén tiene agua."
+        },
+        {
+          "letter": "D",
+          "text": "Perder el control del vehículo si se desvía hacia el arcén."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Perder el control del vehículo si se desvía hacia el arcén.",
+      "explanation": "Esta señal indica que el arcén es más bajo que la carretera en el área adelante. Si se desvía de la carretera y una rueda cae en un arcén bajo, no frene bruscamente ni gire bruscamente para intentar volver a la carretera. Esto podría causar fácilmente que pierda el control de su vehículo."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "3765",
+      "question": "¿Qué significa esta señal de mano?",
+      "image": "/images/signs/handsignal3.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desacelerar o detener"
+        },
+        {
+          "letter": "B",
+          "text": "Giro a la izquierda"
+        },
+        {
+          "letter": "C",
+          "text": "Giro a la derecha"
+        },
+        {
+          "letter": "D",
+          "text": "Marcha atrás"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Giro a la izquierda",
+      "explanation": "En lugar de o además de los intermitentes mecánicos, los operadores pueden usar señales manuales para indicar giros o paradas. Si el brazo izquierdo de un operador se extiende recto hacia la izquierda, significa que el operador planea girar a la izquierda o cambiar de carril hacia la izquierda."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "8217",
+      "question": "Este letrero es una advertencia de que te estás acercando a:",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una intersección."
+        },
+        {
+          "letter": "B",
+          "text": "Un paso de peatones."
+        },
+        {
+          "letter": "C",
+          "text": "Un cruce de ferrocarril."
+        },
+        {
+          "letter": "D",
+          "text": "Una zona de voladura."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Un cruce de ferrocarril.",
+      "explanation": "Esta señal indica que se aproxima a un cruce ferroviario."
+    }
+  ]
+}

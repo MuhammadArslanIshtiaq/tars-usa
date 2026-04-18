@@ -1,0 +1,671 @@
+{
+  "state": "California",
+  "category": "car",
+  "quizName": "Hard Practice Test #1",
+  "slug": "hard-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1153",
+      "question": "A driver license is a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Requirement."
+        },
+        {
+          "letter": "B",
+          "text": "Privilege."
+        },
+        {
+          "letter": "C",
+          "text": "Right."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Privilege.",
+      "explanation": "Driving is a privilege, not a right. All drivers must help keep roads safe. If you misuse this privilege, it can be taken away."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "4",
+      "question": "You must always stop your vehicle at which traffic lights?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solid red lights, flashing red lights, and dark traffic signals."
+        },
+        {
+          "letter": "B",
+          "text": "Solid red lights, red arrows, and flashing yellow lights."
+        },
+        {
+          "letter": "C",
+          "text": "Solid red lights, flashing red lights, and yellow lights."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Solid red lights, flashing red lights, and dark traffic signals.",
+      "explanation": "Stop at solid red lights, flashing red lights, and lights that are not working. A solid yellow light means the light is about to turn red — stop if you can do so safely. A flashing yellow light means go slowly and watch for traffic."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "868",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow down or stop."
+        },
+        {
+          "letter": "B",
+          "text": "Stop if necessary."
+        },
+        {
+          "letter": "C",
+          "text": "You must come to a complete stop."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "You must come to a complete stop.",
+      "explanation": "An octagonal sign always means stop. Stop completely at the stop line. If there is no stop line, stop before the crosswalk. If there is no crosswalk, stop before the intersection where you can see oncoming traffic."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1268",
+      "question": "A police officer tells you to go through a red traffic light. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop until the light turns green."
+        },
+        {
+          "letter": "B",
+          "text": "Go through the intersection without stopping."
+        },
+        {
+          "letter": "C",
+          "text": "Come to a complete stop before proceeding."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Go through the intersection without stopping.",
+      "explanation": "A police officer's directions override traffic signals and signs. Follow the officer's instructions."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "2096",
+      "question": "A flashing red traffic light at an intersection means:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The same thing as a yield sign."
+        },
+        {
+          "letter": "B",
+          "text": "The light is about to turn green."
+        },
+        {
+          "letter": "C",
+          "text": "The same thing as a stop sign."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The same thing as a stop sign.",
+      "explanation": "A flashing red light means stop completely. Let traffic and pedestrians pass, then go when it is safe. This is the same as a stop sign."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "209",
+      "question": "When should your wheels NOT be pointed straight ahead?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When waiting to make a left turn at a traffic light."
+        },
+        {
+          "letter": "B",
+          "text": "When parked on a hill or sloping driveway."
+        },
+        {
+          "letter": "C",
+          "text": "When parked on the side of a level road with no curb."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When parked on a hill or sloping driveway.",
+      "explanation": "Turn your wheels when parked on a hill or slope. This prevents the car from rolling into traffic if the brakes fail. Keep wheels straight when waiting to turn left at a light — this keeps you from swerving into oncoming traffic if hit from behind."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1814",
+      "question": "When should you NOT use your horn?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When visibility ahead is limited."
+        },
+        {
+          "letter": "B",
+          "text": "If you might hit another vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "Near blind pedestrians."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Near blind pedestrians.",
+      "explanation": "Do not use your horn near a blind pedestrian. It may scare them. Yield to them and go when it is safe."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "205",
+      "question": "What is the speed limit in any alley?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 mph."
+        },
+        {
+          "letter": "B",
+          "text": "15 mph."
+        },
+        {
+          "letter": "C",
+          "text": "25 mph."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "15 mph.",
+      "explanation": "The speed limit in any alley is always 15 mph, whether or not it is posted."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "21",
+      "question": "You and the driver on your left arrive at a four-way stop at the same time. Who has the right-of-way?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The driver on your left has the right-of-way."
+        },
+        {
+          "letter": "B",
+          "text": "You have the right-of-way."
+        },
+        {
+          "letter": "C",
+          "text": "Whoever is signaling to make a turn has the right-of-way."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You have the right-of-way.",
+      "explanation": "When two vehicles arrive at a four-way stop at the same time, the vehicle on the right has the right-of-way."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1277",
+      "question": "You park facing uphill with no curb. After setting the parking brake, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn your wheels toward the edge of the road."
+        },
+        {
+          "letter": "B",
+          "text": "Turn your wheels away from the edge of the road."
+        },
+        {
+          "letter": "C",
+          "text": "Keep your wheels facing straight."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Turn your wheels toward the edge of the road.",
+      "explanation": "Turn your front wheels to the right (toward the road edge). This makes the car roll off the road instead of into traffic if the brakes fail."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1768",
+      "question": "Your tire blows out while driving. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apply the brake and hold it."
+        },
+        {
+          "letter": "B",
+          "text": "Hold the steering wheel tightly and use the brakes lightly."
+        },
+        {
+          "letter": "C",
+          "text": "Pull over quickly."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Hold the steering wheel tightly and use the brakes lightly.",
+      "explanation": "Hold the steering wheel firmly and keep the car straight. Slow down gradually by easing off the gas and braking gently. Do not stop on the road. Pull off the road in a safe place."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1970",
+      "question": "How should you make room for cars entering the freeway?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow down."
+        },
+        {
+          "letter": "B",
+          "text": "Merge into a different lane."
+        },
+        {
+          "letter": "C",
+          "text": "Keep your speed and position."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Merge into a different lane.",
+      "explanation": "Merge into another lane to create space for entering vehicles. If you cannot merge, adjust your speed to let them enter safely."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1262",
+      "question": "Driving slower than surrounding traffic is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Good if the weather is bad."
+        },
+        {
+          "letter": "B",
+          "text": "Okay if you don't know the speed limit."
+        },
+        {
+          "letter": "C",
+          "text": "Often dangerous because other drivers may take risks to pass you."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Often dangerous because other drivers may take risks to pass you.",
+      "explanation": "Driving much slower than other traffic is hazardous. Impatient drivers behind you may attempt risky passing moves."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1058",
+      "question": "When should you start slowing down to exit the interstate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Halfway through the deceleration lane."
+        },
+        {
+          "letter": "B",
+          "text": "As you approach the deceleration lane."
+        },
+        {
+          "letter": "C",
+          "text": "Right when you enter the deceleration lane."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Right when you enter the deceleration lane.",
+      "explanation": "Keep your speed on the interstate until you enter the deceleration lane. Then slow to the posted speed for the exit ramp."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "111",
+      "question": "You should allow extra space in front of your vehicle when following a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Station wagon."
+        },
+        {
+          "letter": "B",
+          "text": "Passenger vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "Motorcycle."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Motorcycle.",
+      "explanation": "Leave extra space behind motorcycles. They stop faster than other vehicles and can tip over. You need room to stop. Motorcycles are hard to see at night because they have only one tail light."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1151",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/one_way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No right turn."
+        },
+        {
+          "letter": "B",
+          "text": "Drive only in the direction of the arrow."
+        },
+        {
+          "letter": "C",
+          "text": "Curve ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Drive only in the direction of the arrow.",
+      "explanation": "This is a traffic law sign. You must drive in the direction the arrow shows."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "159",
+      "question": "Three important times to check traffic behind you are before:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Backing, making a sharp turn, or crossing an intersection."
+        },
+        {
+          "letter": "B",
+          "text": "Backing, changing lanes, or slowing down quickly."
+        },
+        {
+          "letter": "C",
+          "text": "Changing lanes, crossing intersections, or slowing down quickly."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Backing, changing lanes, or slowing down quickly.",
+      "explanation": "Check behind you before backing up, changing lanes, slowing down quickly, or driving down a long or steep hill."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "44",
+      "question": "You consent to take a chemical test for alcohol in your blood, breath, or urine:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only if you have been drinking alcohol."
+        },
+        {
+          "letter": "B",
+          "text": "Whenever you drive in California."
+        },
+        {
+          "letter": "C",
+          "text": "Only if you have a collision."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Whenever you drive in California.",
+      "explanation": "By driving in California, you agree to be tested for alcohol or drugs if arrested for driving under the influence."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "130",
+      "question": "You want to park downhill on a two-way road with no curb. Which way do you turn your front wheels?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Straight ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Right, toward the side of the road"
+        },
+        {
+          "letter": "C",
+          "text": "Left, toward the center of the road"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Right, toward the side of the road",
+      "explanation": "When parking downhill with or without a curb, turn your wheels toward the road edge. This helps your car roll away from traffic if the brakes fail. When parking uphill without a curb, also turn wheels toward the edge. When parking uphill with a curb, turn wheels toward the center."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "192",
+      "question": "U-turns in business districts are:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always illegal because they are dangerous."
+        },
+        {
+          "letter": "B",
+          "text": "Legal whenever oncoming vehicles are not a hazard."
+        },
+        {
+          "letter": "C",
+          "text": "Legal at intersections, unless a sign prohibits them."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Legal at intersections, unless a sign prohibits them.",
+      "explanation": "In a business district, you may make a U-turn only at an intersection unless a sign prohibits it, or where special turn openings are provided."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1960",
+      "question": "If you are being followed too closely on a two-lane road:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce your speed slowly to encourage the tailgater to drive around you."
+        },
+        {
+          "letter": "B",
+          "text": "Speed up to increase the distance between you and the other car."
+        },
+        {
+          "letter": "C",
+          "text": "Apply your brakes to slow down, then resume your original speed."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Reduce your speed slowly to encourage the tailgater to drive around you.",
+      "explanation": "If another driver is tailgating you, change lanes if possible. If you cannot change lanes, slow down gradually. This encourages the other driver to pass you safely."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1962",
+      "question": "If you have a green light but traffic is blocking the intersection ahead, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn left and find another route."
+        },
+        {
+          "letter": "B",
+          "text": "Stay out of the intersection until traffic clears."
+        },
+        {
+          "letter": "C",
+          "text": "Follow the other vehicles and enter the intersection."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stay out of the intersection until traffic clears.",
+      "explanation": "Do not enter the intersection if traffic is blocking your way, even if your light is green. If you enter and the light turns red, you will block other traffic. You can get a ticket for blocking an intersection."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "1986",
+      "question": "If you parallel park facing downhill:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn your wheels sharply toward the side of the road."
+        },
+        {
+          "letter": "B",
+          "text": "Turn your wheels away from the side of the road."
+        },
+        {
+          "letter": "C",
+          "text": "Keep your wheels straight."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Turn your wheels sharply toward the side of the road.",
+      "explanation": "When parking downhill, turn your wheels toward the curb or road edge. When parking uphill without a curb, turn wheels toward the edge. When parking uphill with a curb, turn wheels away from the curb."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "173",
+      "question": "You may make a left turn on a red light only from a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One-way street onto a two-way street."
+        },
+        {
+          "letter": "B",
+          "text": "One-way street onto a one-way street."
+        },
+        {
+          "letter": "C",
+          "text": "Two-way street onto a one-way street."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "One-way street onto a one-way street.",
+      "explanation": "You may turn left on red only from a one-way street onto another one-way street. Check for signs prohibiting the turn. Yield to other vehicles, pedestrians, and bicyclists with a green light. Make sure it is safe before turning."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "132",
+      "question": "You want to pass a bicyclist in a narrow lane when oncoming traffic is approaching. You should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Honk your horn then pass the bicyclist."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down and let the vehicle pass you before you pass the bicyclist."
+        },
+        {
+          "letter": "C",
+          "text": "Wait until the bicyclist rides off the roadway."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Slow down and let the vehicle pass you before you pass the bicyclist.",
+      "explanation": "Handle one situation at a time. Instead of squeezing between the bicyclist and the oncoming car, slow down to let the other vehicle pass. Then pass the bicyclist when it is safe."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "1918",
+      "question": "If oncoming headlights are blinding you at night, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Look toward the right edge of the road."
+        },
+        {
+          "letter": "B",
+          "text": "Switch your lights to high beams."
+        },
+        {
+          "letter": "C",
+          "text": "Turn your lights on and off."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Look toward the right edge of the road.",
+      "explanation": "If oncoming headlights blind you, look toward the right edge of the road instead of looking straight ahead. This keeps your vehicle on the road safely until you pass the other car."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "1808",
+      "question": "If you are being passed in a no passing zone, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pull off the road."
+        },
+        {
+          "letter": "B",
+          "text": "Maintain your speed and position."
+        },
+        {
+          "letter": "C",
+          "text": "Slow down and let the other driver safely return to the drive lane."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Slow down and let the other driver safely return to the drive lane.",
+      "explanation": "Slow down to help the passing vehicle return to your lane safely. This helps everyone avoid hazards ahead."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "15",
+      "question": "When driving on a multilane street with two-way traffic:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drive alongside other vehicles so the drivers can see you."
+        },
+        {
+          "letter": "B",
+          "text": "You should drive ahead of or behind the other vehicles."
+        },
+        {
+          "letter": "C",
+          "text": "It is safest to drive in the lane next to the centerline."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You should drive ahead of or behind the other vehicles.",
+      "explanation": "Do not drive directly alongside other vehicles. If the other driver swerves or changes lanes without looking, you could collide. Instead, drive ahead of or behind them."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "1989",
+      "question": "When entering a freeway, check traffic by:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Using your rearview and side mirrors."
+        },
+        {
+          "letter": "B",
+          "text": "Using your rearview mirror."
+        },
+        {
+          "letter": "C",
+          "text": "Using your side mirror and looking over your shoulder."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Using your side mirror and looking over your shoulder.",
+      "explanation": "Use your side mirror and look over your shoulder to see traffic clearly when entering a freeway."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1309",
+      "question": "When changing lanes, you should never:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cross the centerline in an intersection."
+        },
+        {
+          "letter": "B",
+          "text": "Check your blind spots by looking over your left or right shoulder."
+        },
+        {
+          "letter": "C",
+          "text": "Check for other drivers moving into the same lane."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cross the centerline in an intersection.",
+      "explanation": "Before changing lanes, look over your shoulder to check blind spots and watch for other drivers entering your lane. Never change lanes in an intersection."
+    }
+  ]
+}

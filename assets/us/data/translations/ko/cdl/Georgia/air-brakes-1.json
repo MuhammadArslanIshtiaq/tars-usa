@@ -1,0 +1,660 @@
+{
+  "state": "Georgia",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/georgia/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11676",
+      "question": "저압 경고 신호를 어떻게 테스트해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주차 브레이크를 걸고 해제하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크 페달을 빠르게 누르고 놓으십시오."
+        },
+        {
+          "letter": "C",
+          "text": "후면 차단 밸브를 여십시오."
+        },
+        {
+          "letter": "D",
+          "text": "모든 글래드 핸드를 분리했다가 다시 연결하십시오."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "브레이크 페달을 빠르게 누르고 놓으십시오.",
+      "explanation": "저압 경고 표시등이 제대로 작동하는 것이 필수적입니다. 시스템이 충전되도록 한 후 브레이크 페달을 빠르게 누르고 놓아 경고 신호를 테스트할 수 있습니다. 이렇게 하면 제동 시스템에서 공기가 배출되며 압력이 위험한 수준으로 떨어지면 경고 신호가 켜져야 합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8868",
+      "question": "응용 압력 게이지:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제동 장치에 얼마나 많은 공기 압력이 적용되고 있는지를 보여줍니다."
+        },
+        {
+          "letter": "B",
+          "text": "제동 시스템에서 사용되는 공기의 온도를 보여줍니다."
+        },
+        {
+          "letter": "C",
+          "text": "압축기에서 나오는 공기의 압력을 보여줍니다."
+        },
+        {
+          "letter": "D",
+          "text": "제동이 사용된 횟수를 보여줍니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "제동 장치에 얼마나 많은 공기 압력이 적용되고 있는지를 보여줍니다.",
+      "explanation": "공기 제동 시스템에서 응용 압력 게이지는 제동 장치에 얼마나 많은 공기 압력이 적용되고 있는지를 보여줍니다. 공기 제동 시스템이 있는 모든 차량에 이 게이지가 있는 것은 아닙니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8873",
+      "question": "더 새로운 차량에서 주차 브레이크를 작동시키는 방법:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다이아몬드 모양의 노란색 노브를 사용합니다."
+        },
+        {
+          "letter": "B",
+          "text": "둥근 빨간색 노브를 사용합니다."
+        },
+        {
+          "letter": "C",
+          "text": "정사각형 녹색 노브를 사용합니다."
+        },
+        {
+          "letter": "D",
+          "text": "검은색 둥근 노브를 사용합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "다이아몬드 모양의 노란색 노브를 사용합니다.",
+      "explanation": "에어 브레이크가 장착된 더 새로운 차량에서 주차 브레이크는 다이아몬드 모양의 노란색 노브로 제어됩니다. 노브를 당겨서 주차 브레이크를 작동시키고 밀어서 해제합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11462",
+      "question": "____ 는 운전자에게 공기 탱크의 압력이 얼마나 되는지 알려줍니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "작동 압력 게이지"
+        },
+        {
+          "letter": "B",
+          "text": "공기 압축기 조절기"
+        },
+        {
+          "letter": "C",
+          "text": "공급 압력 게이지"
+        },
+        {
+          "letter": "D",
+          "text": "드럼 브레이크"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "공급 압력 게이지",
+      "explanation": "에어 브레이크로 장착된 차량은 공급 압력 게이지로도 장착되어야 합니다. 이 게이지는 운전자에게 차량의 각 공기 탱크에 얼마나 많은 공기 압력이 있는지 알려줍니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10560",
+      "question": "공기 압축기 거버너는 다음을 제어합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점"
+        },
+        {
+          "letter": "B",
+          "text": "에어가 에어 저장 탱크에 펌프질되는 속도"
+        },
+        {
+          "letter": "C",
+          "text": "공기 저장 탱크에 펌프되는 공기의 온도입니다."
+        },
+        {
+          "letter": "D",
+          "text": "차량의 속도입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점",
+      "explanation": "에어 브레이크 시스템에서 에어 컴프레서 거버너는 에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점을 제어합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11720",
+      "question": "시속 55 mph의 속도로 건조한 포장 도로에서 제동할 때, 제동 지연은 차량의 총 정지 거리에 ____을(를) 추가할 수 있습니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "15 feet"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        },
+        {
+          "letter": "D",
+          "text": "10 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "공기 제동장치가 장착된 차량의 총 정지 거리는 네 가지 요소로 구성됩니다: 지각 거리, 반응 거리, 제동 지연 거리 및 제동 거리. 시속 55 mph의 속도로 건조한 포장 도로에서 제동할 때, 제동 지연은 차량의 총 정지 거리에 약 32 feet를 추가할 수 있습니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8989",
+      "question": "긴급 브레이크는 어떤 종류의 력을 사용해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 압력"
+        },
+        {
+          "letter": "B",
+          "text": "기계적"
+        },
+        {
+          "letter": "C",
+          "text": "강력한"
+        },
+        {
+          "letter": "D",
+          "text": "전기적"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "기계적",
+      "explanation": "공기 압력은 결국 새어나갈 수 있기 때문에 에어 브레이크 시스템의 긴급 브레이크는 기계적 력으로 유지되어야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11722",
+      "question": "공기 제동 장비가 있는 차량이 이상적인 주행 조건에서 55 mph의 속도로 주행할 때 완전히 정지하기까지 약 ____가 필요합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 feet"
+        },
+        {
+          "letter": "B",
+          "text": "250 feet"
+        },
+        {
+          "letter": "C",
+          "text": "300 feet"
+        },
+        {
+          "letter": "D",
+          "text": "450 feet"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "450 feet",
+      "explanation": "차량의 전체 정지 거리는 인지 거리, 반응 거리, 브레이크 지연 거리 및 브레이킹 거리로 구성됩니다. 이 모든 요소를 포함하여 이상적인 운전 조건에서 55 mph의 속도로 주행하는 에어 브레이크 장착 차량은 완전히 멈추기 위해 약 450 feet가 필요합니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11718",
+      "question": "긴급 정지가 필요한 경우, 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "바퀴를 잠그고 미끄러워 정지하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "차량을 직진으로 유지하는 방식으로 정지하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "차량을 회전시키는 방식으로 정지하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "차량이 평소보다 더 빠르게 감속할 것으로 예상하십시오."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "차량을 직진으로 유지하는 방식으로 정지하십시오.",
+      "explanation": "긴급 정지가 필요한 경우, 제어된 브레이킹 방법 또는 스탭 브레이킹 방법을 사용할 수 있습니다. 필요한 경우 차량을 직진으로 유지하면서 여전히 회전할 수 있는 방식으로 브레이크를 하는 것이 중요합니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9559",
+      "question": "이중 공기 제동 장치가 있는 차량을 운전하기 전에, 두 제동 시스템 모두에서 최소 ____ psi의 압력이 축적되어야 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi"
+        },
+        {
+          "letter": "B",
+          "text": "25 psi"
+        },
+        {
+          "letter": "C",
+          "text": "50 psi"
+        },
+        {
+          "letter": "D",
+          "text": "100 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "100 psi",
+      "explanation": "이중 공기 제동 시스템이 있는 차량을 운전하기 전에, 공기 압축기가 1차 및 2차 시스템 모두에서 최소 100 psi의 압력을 축적할 시간을 확보하세요."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10227",
+      "question": "브레이크 페달은 어느 제동 시스템의 일부입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "서비스 브레이크 시스템"
+        },
+        {
+          "letter": "B",
+          "text": "주차 브레이크 시스템"
+        },
+        {
+          "letter": "C",
+          "text": "긴급 브레이크 시스템"
+        },
+        {
+          "letter": "D",
+          "text": "보조 브레이크 시스템"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "서비스 브레이크 시스템",
+      "explanation": "서비스 브레이크 시스템은 운전자가 정상 주행 중에 브레이크 페달을 누를 때 브레이크를 적용하고 해제합니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8881",
+      "question": "이중 공기 브레이크 시스템이 있는 차량을 운전하기 전에 에어 컴프레서가 주 및 보조 시스템 모두에서 최소 ____ psi를 구축할 때까지 기다려야 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 psi"
+        },
+        {
+          "letter": "B",
+          "text": "50 psi"
+        },
+        {
+          "letter": "C",
+          "text": "75 psi"
+        },
+        {
+          "letter": "D",
+          "text": "100 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "100 psi",
+      "explanation": "이중 공기 브레이크 시스템이 있는 차량을 운전하기 전에 에어 컴프레서가 주 및 보조 시스템 모두에서 최소 100 psi를 구축할 때까지 기다려야 합니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8877",
+      "question": "ABS 오작동 표시등은 무슨 색인가요?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주황색"
+        },
+        {
+          "letter": "B",
+          "text": "노란색"
+        },
+        {
+          "letter": "C",
+          "text": "녹색"
+        },
+        {
+          "letter": "D",
+          "text": "파란색"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "노란색",
+      "explanation": "Anti-Lock Braking System(ABS)이 장착된 차량은 노란색 오작동 표시등을 가지고 있습니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8882",
+      "question": "ABS는 무엇을 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "바퀴 잠금 방지"
+        },
+        {
+          "letter": "B",
+          "text": "공기 압축기가 과열되는 것을 방지"
+        },
+        {
+          "letter": "C",
+          "text": "얼음 위에서 앞 브레이크가 사용되는 것을 방지"
+        },
+        {
+          "letter": "D",
+          "text": "다운시프팅이 더 효과적일 수 있는 경우 브레이크 사용 방지"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "바퀴 잠금 방지",
+      "explanation": "Anti-Lock Braking System(ABS)의 목적은 특히 미끄러운 표면에서 강한 브레이크 적용 중에 바퀴가 잠기는 것을 방지하는 것입니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8991",
+      "question": "1997년 3월 1일 이후에 제조된 에어 브레이크가 장착된 트럭 트랙터는 다음을 갖추어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anti-Lock Braking System (ABS)"
+        },
+        {
+          "letter": "B",
+          "text": "Bluetooth"
+        },
+        {
+          "letter": "C",
+          "text": "GPS."
+        },
+        {
+          "letter": "D",
+          "text": "후방 백업 카메라."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Anti-Lock Braking System (ABS)",
+      "explanation": "1997년 3월 1일 이후에 제조된 공기 제동 장치가 있는 트럭 견인차는 Anti-Lock Braking Systems (ABS)를 갖추어야 합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8861",
+      "question": "에어 컴프레서 거버너는 무엇을 하는가?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 압축기가 에어 저장 탱크에 공기를 펌프질하는 시기를 제어합니다."
+        },
+        {
+          "letter": "B",
+          "text": "에어 저장 탱크에서 공기가 빠져나가는 속도를 제어합니다."
+        },
+        {
+          "letter": "C",
+          "text": "에어 저장 탱크로 들어가는 공기의 온도를 제어합니다."
+        },
+        {
+          "letter": "D",
+          "text": "에어 저장 탱크에서 나가는 공기의 온도를 제어합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "공기 압축기가 에어 저장 탱크에 공기를 펌프질하는 시기를 제어합니다.",
+      "explanation": "에어 브레이크 시스템에서 에어 컴프레서 거버너는 에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점을 제어합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8996",
+      "question": "ABS 브레이크는 무엇을 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전자가 바퀴 잠김을 피하도록 도움"
+        },
+        {
+          "letter": "B",
+          "text": "앞 바퀴를 잠금"
+        },
+        {
+          "letter": "C",
+          "text": "언덕을 올라가며 주행 중 차량이 가속되는 것을 방지"
+        },
+        {
+          "letter": "D",
+          "text": "언덕을 내려가며 주행 중 차량이 가속되는 것을 방지"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "운전자가 바퀴 잠김을 피하도록 도움",
+      "explanation": "ABS(Anti-Lock Braking System)의 기능은 강한 브레이크 적용으로 인한 차량의 바퀴 잠김을 방지하는 것입니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9382",
+      "question": "공기 압력 경고등이 켜지면 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "평소대로 계속 운전합니다."
+        },
+        {
+          "letter": "B",
+          "text": "비상등을 활성화하고 계속 운전하세요."
+        },
+        {
+          "letter": "C",
+          "text": "지역 법 집행 기관에 전화하세요."
+        },
+        {
+          "letter": "D",
+          "text": "안전하게 도로에서 빠져나와 정지하세요."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "안전하게 도로에서 빠져나와 정지하세요.",
+      "explanation": "주행 중 공기 압력 경고등이나 부저가 켜지면, 즉시 정지하고 차량을 안전하게 주차해야 합니다. 이 경고 신호는 공기 제동 시스템에 수리해야 할 문제가 있음을 나타냅니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11680",
+      "question": "적용된 누수 시험 중에, 에어 브레이크가 있는 단일 차량의 최대 누수율은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1분에 3 psi입니다."
+        },
+        {
+          "letter": "B",
+          "text": "1분에 6 psi입니다."
+        },
+        {
+          "letter": "C",
+          "text": "1분에 8 psi입니다."
+        },
+        {
+          "letter": "D",
+          "text": "1분에 4 psi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "1분에 3 psi입니다.",
+      "explanation": "특정 차량에 안전한 최대 공기 손실률을 아는 것이 중요합니다. 에어 브레이크를 갖춘 단일 차량은 적용된 누수 테스트 중에 1분에 3 psi 이상의 누수율을 가지면 안 됩니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8878",
+      "question": "트럭 및 버스에서 ABS 고장 표시등이 위치한 곳은?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전자 도어에"
+        },
+        {
+          "letter": "B",
+          "text": "계기판 위"
+        },
+        {
+          "letter": "C",
+          "text": "탑승객 도어 옆 차량 외부에"
+        },
+        {
+          "letter": "D",
+          "text": "엔진룸 아래"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "계기판 위",
+      "explanation": "ABS(Anti-Lock Braking System)가 장착된 트랙터, 트럭, 버스에는 계기판에 노란색 고장 표시등이 있습니다. 트레일러에는 좌측의 앞쪽 또는 뒤쪽 모서리에 노란색 ABS 고장 표시등이 있습니다."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9379",
+      "question": "브레이크 패드가 브레이크 드럼에 마찰하여 과도한 열을 발생시키면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크가 달라붙을 것입니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크가 매우 민감해질 것입니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크가 작동하지 않을 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "에어 컴프레서가 켜져서 브레이크를 냉각시킵니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "브레이크가 작동하지 않을 수 있습니다.",
+      "explanation": "브레이크는 사용으로 인해 가열됩니다. 과도하게 사용되어 너무 뜨거워지면 팽창과 화학 변화로 인해 효율성이 떨어지고 결국 작동하지 않게 됩니다. 이를 \"브레이크 페이드\"라고 합니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "9383",
+      "question": "에어 브레이크를 사용하는 차량에서 정지하기 위해, 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "에어 브레이크 레버를 당깁니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크 레버를 작동시키세요."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크 페달을 아래로 누릅니다."
+        },
+        {
+          "letter": "D",
+          "text": "브레이크 페달을 위로 당기세요."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "브레이크 페달을 아래로 누릅니다.",
+      "explanation": "에어 브레이크가 있는 차량에서 정상 정지를 하려면, 브레이크 페달을 아래로 누르세요. 페달을 더 강하게 누를수록 더 많은 에어 압력이 해제됩니다."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11692",
+      "question": "응급 브레이크 시스템은 다음을 사용합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주차 브레이크 시스템의 부품만."
+        },
+        {
+          "letter": "B",
+          "text": "서비스 브레이크 시스템의 부품만."
+        },
+        {
+          "letter": "C",
+          "text": "주차 및 서비스 브레이크 시스템 모두의 부품."
+        },
+        {
+          "letter": "D",
+          "text": "응급 브레이크 시스템에만 해당하는 부품만."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "주차 및 서비스 브레이크 시스템 모두의 부품.",
+      "explanation": "공기 브레이크 시스템에는 세 가지 다른 브레이킹 시스템이 있습니다: 서비스 브레이크 시스템, 주차 브레이크 시스템, 및 긴급 브레이크 시스템. 긴급 브레이크 시스템은 주차 및 서비스 브레이크 시스템의 일부를 사용합니다."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9138",
+      "question": "트랙터만 Anti-Lock Braking System (ABS)으로 장착되어 있을 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "잭나이프 위험이 감소합니다."
+        },
+        {
+          "letter": "B",
+          "text": "잭나이프 위험이 증가합니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크는 ABS 없이 작동하는 것처럼 효과적으로 작동하지 않을 것입니다."
+        },
+        {
+          "letter": "D",
+          "text": "브레이크가 더 민감해질 것입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "잭나이프 위험이 감소합니다.",
+      "explanation": "트랙터에는 Anti-Lock Braking System (ABS)이 장착되어 있지만 트레일러에는 장착되어 있지 않으면, 잭나이프 위험이 감소하고 운전자는 여전히 조향 제어를 유지할 수 있어야 합니다. 트레일러에만 ABS가 장착되어 있으면, 트레일러가 한쪽으로 흔들릴 가능성이 낮습니다."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "9006",
+      "question": "운전 중 저압 경고등이 켜지면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "탱크에 충분한 공기가 있을 때에만 제동이 가능합니다."
+        },
+        {
+          "letter": "B",
+          "text": "시스템의 공기가 소진되기 전에 14회 제동할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "정상적으로 계속 운전하고 편할 때 제동 시스템을 점검해야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "계속 운전하되 다른 운전자에게 경고하기 위해 비상 깜박이를 켜야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "탱크에 충분한 공기가 있을 때에만 제동이 가능합니다.",
+      "explanation": "저기압 경고등이 켜지면 최대한 빨리 안전하게 차량을 주차해야 합니다. 제어된 제동은 탱크에 충분한 공기가 남아 있는 동안에만 가능합니다."
+    }
+  ]
+}

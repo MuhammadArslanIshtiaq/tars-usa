@@ -1,0 +1,561 @@
+{
+  "state": "Connecticut",
+  "category": "car",
+  "quizName": "Hard Practice Test #1",
+  "slug": "hard-practice-test-1",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1962",
+      "question": "You have a green light, but traffic is blocking the intersection ahead. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn left and find another route."
+        },
+        {
+          "letter": "B",
+          "text": "Wait outside the intersection until traffic clears."
+        },
+        {
+          "letter": "C",
+          "text": "Follow other vehicles and enter the intersection."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Wait outside the intersection until traffic clears.",
+      "explanation": "Do not enter the intersection if traffic blocks your way, even with a green light. If you enter and the light turns red, you will block other traffic. You can get a ticket for this."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "1996",
+      "question": "Why should you increase your following distance behind a large vehicle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To see around the sides of the vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "Because other drivers often pass large vehicles from behind."
+        },
+        {
+          "letter": "C",
+          "text": "Because following too closely gets you caught in the vehicle's slipstream."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "To see around the sides of the vehicle.",
+      "explanation": "Truck, bus, and van drivers may not see you directly behind them. Stay farther back so you can see around them and see the road ahead."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "154",
+      "question": "A vehicle suddenly cuts in front of you. What should you do first?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Honk and brake hard."
+        },
+        {
+          "letter": "B",
+          "text": "Release the gas pedal."
+        },
+        {
+          "letter": "C",
+          "text": "Swerve into another lane."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Release the gas pedal.",
+      "explanation": "If a vehicle cuts in front of you, release the gas pedal. This creates space without hard braking or swerving."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1963",
+      "question": "If you have a sudden tire blowout, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use light braking."
+        },
+        {
+          "letter": "B",
+          "text": "Pump the brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Brake hard."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Use light braking.",
+      "explanation": "If a tire goes flat, hold the steering wheel tight and keep the car straight. Slow down by releasing the gas and using light brakes."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1848",
+      "question": "You arrive at an uncontrolled intersection at the same time as vehicles on your right and left. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yield to the vehicle on your left."
+        },
+        {
+          "letter": "B",
+          "text": "Yield to the vehicle on your right."
+        },
+        {
+          "letter": "C",
+          "text": "Wait until the intersection is clear before going."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Yield to the vehicle on your right.",
+      "explanation": "At an uncontrolled intersection, the vehicle on your right has the right-of-way. Vehicles then proceed in the order they arrived."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1277",
+      "question": "When parking uphill where there is no curb, set the parking brake and:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn your wheels toward the edge of the road."
+        },
+        {
+          "letter": "B",
+          "text": "Turn your wheels away from the edge of the road."
+        },
+        {
+          "letter": "C",
+          "text": "Keep your wheels straight."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Turn your wheels toward the edge of the road.",
+      "explanation": "When parking uphill without a curb, turn your front wheels toward the road edge. If the brakes fail, the car will roll safely off the road."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1268",
+      "question": "A red light is showing, but a police officer signals you to go through the intersection. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop and wait for the light to turn green."
+        },
+        {
+          "letter": "B",
+          "text": "Go through the intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Come to a complete stop first."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Go through the intersection.",
+      "explanation": "A police officer's directions always override traffic signals and signs. Follow the officer's instructions."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "117",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A railroad crossing is coming. Be ready to stop."
+        },
+        {
+          "letter": "B",
+          "text": "You will always stop at the railroad crossing ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Stop and wait for a signal before crossing the tracks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A railroad crossing is coming. Be ready to stop.",
+      "explanation": "This sign warns you of a railroad crossing ahead. Look, listen, slow down, and be ready to stop. Wait for any trains to pass before crossing."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1355",
+      "question": "You see a steady yellow traffic light ahead, and you have not yet entered the intersection. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Speed up to cross before the red light."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down and carefully go through the intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Stop safely."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Stop safely.",
+      "explanation": "A yellow light means prepare to stop. Come to a safe stop if you have not entered the intersection yet."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "178",
+      "question": "When should you give up your right-of-way?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Often, even at controlled intersections."
+        },
+        {
+          "letter": "B",
+          "text": "Whenever it prevents a crash."
+        },
+        {
+          "letter": "C",
+          "text": "Never. It confuses other drivers."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Whenever it prevents a crash.",
+      "explanation": "Do not assume other drivers will give you the right-of-way. Yield whenever it helps prevent a crash."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1986",
+      "question": "When parallel parking while facing downhill, what should you do with your wheels?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn your wheels sharply toward the curb or road edge."
+        },
+        {
+          "letter": "B",
+          "text": "Turn your wheels away from the curb or road edge."
+        },
+        {
+          "letter": "C",
+          "text": "Keep your wheels straight."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Turn your wheels sharply toward the curb or road edge.",
+      "explanation": "When parking downhill, turn your wheels toward the curb or edge. When parking uphill without a curb, turn toward the edge. When parking uphill with a curb, turn away from the curb."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "823",
+      "question": "How can you avoid glare from an oncoming car's headlights?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Look briefly toward the right side of the road."
+        },
+        {
+          "letter": "B",
+          "text": "Keep your eyes on the centerline of the road."
+        },
+        {
+          "letter": "C",
+          "text": "Flash your high beams at the other driver."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Look briefly toward the right side of the road.",
+      "explanation": "Look toward the right side of the road to avoid the bright lights of an oncoming vehicle. Then look back ahead to see where the other vehicle is."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1815",
+      "question": "What does a broken yellow centerline mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Passing is not allowed."
+        },
+        {
+          "letter": "B",
+          "text": "You can pass on the right when the road ahead is clear."
+        },
+        {
+          "letter": "C",
+          "text": "You can pass on the left when the road ahead is clear."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "You can pass on the left when the road ahead is clear.",
+      "explanation": "A broken yellow centerline means you can cross it to pass another vehicle on the left if there is no oncoming traffic. Never cross a solid yellow centerline to pass."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "21",
+      "question": "At a four-way stop, you and the driver on your left arrive at the same time. Who has the right-of-way?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The driver on your left."
+        },
+        {
+          "letter": "B",
+          "text": "You have the right-of-way."
+        },
+        {
+          "letter": "C",
+          "text": "Whoever signals to turn."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You have the right-of-way.",
+      "explanation": "When two vehicles reach a four-way stop at the same time, the vehicle on the right has the right-of-way."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1975",
+      "question": "Where should your hands be on the steering wheel to turn quickly?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On opposite sides of the wheel."
+        },
+        {
+          "letter": "B",
+          "text": "Next to each other at the top of the wheel."
+        },
+        {
+          "letter": "C",
+          "text": "One on top and one on the bottom of the wheel."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "On opposite sides of the wheel.",
+      "explanation": "Place both hands on opposite sides of the steering wheel. This position is comfortable and safe for turning on highways."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1958",
+      "question": "If an oncoming driver doesn't dim their headlights, where should you look?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toward the center of the road."
+        },
+        {
+          "letter": "B",
+          "text": "Toward the right side of the road."
+        },
+        {
+          "letter": "C",
+          "text": "Straight ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Toward the right side of the road.",
+      "explanation": "Look toward the right side of the road to avoid being blinded. This helps you see enough of the road to stay on course. Do not respond by leaving your high beams on."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1853",
+      "question": "When parking uphill on a street with a curb, what should you do with your wheels?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn the wheels toward the curb."
+        },
+        {
+          "letter": "B",
+          "text": "Turn the wheels away from the curb."
+        },
+        {
+          "letter": "C",
+          "text": "Leave the wheels straight."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Turn the wheels away from the curb.",
+      "explanation": "Turn your wheels away from the curb when parking uphill on a street with a curb. Turn toward the curb or edge when parking uphill without a curb or when parking downhill."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "37",
+      "question": "What should you do when roads are slippery from rain?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avoid fast turns and stops."
+        },
+        {
+          "letter": "B",
+          "text": "Test your tires' grip while going uphill."
+        },
+        {
+          "letter": "C",
+          "text": "Look less far ahead of your vehicle."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Avoid fast turns and stops.",
+      "explanation": "Wet roads reduce tire grip. Drive slowly on wet roads to reduce the risk of skidding. Avoid making quick turns or sudden stops."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1858",
+      "question": "When can you legally turn left at a red light after stopping?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When turning from a two-way street onto a two-way street."
+        },
+        {
+          "letter": "B",
+          "text": "When turning from a one-way street onto another one-way street."
+        },
+        {
+          "letter": "C",
+          "text": "When you yield to all other traffic at the intersection."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When turning from a one-way street onto another one-way street.",
+      "explanation": "After a complete stop, you can turn left at a red light only when turning from a one-way street onto another one-way street. Make sure there are no signs prohibiting this turn."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1812",
+      "question": "How many feet away from a stop sign must you park?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At least 30 feet"
+        },
+        {
+          "letter": "B",
+          "text": "At least 25 feet"
+        },
+        {
+          "letter": "C",
+          "text": "At least 15 feet"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "At least 25 feet",
+      "explanation": "You cannot park within 25 feet of a stop sign."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1461",
+      "question": "Is a driver license a right or a privilege?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A right, not a privilege."
+        },
+        {
+          "letter": "B",
+          "text": "A privilege, not a right."
+        },
+        {
+          "letter": "C",
+          "text": "A requirement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "A privilege, not a right.",
+      "explanation": "A driver license is not a right. It is a privilege that you must earn and keep."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1949",
+      "question": "What should you do as you approach the top of a hill?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Speed up slightly."
+        },
+        {
+          "letter": "B",
+          "text": "Get ready to stop if needed."
+        },
+        {
+          "letter": "C",
+          "text": "Keep the same speed."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Get ready to stop if needed.",
+      "explanation": "You cannot see what is on the other side of the hill. A vehicle may be stopped ahead. Slow down so you can stop if necessary. Always adjust your speed when you see a hill or curve."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "1000",
+      "question": "You are in the center lane of an expressway and cars keep passing you on both sides. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stay in the center lane."
+        },
+        {
+          "letter": "B",
+          "text": "Move to the right lane."
+        },
+        {
+          "letter": "C",
+          "text": "Move to the left lane."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Move to the right lane.",
+      "explanation": "On roads with four or more lanes, drive in the right lanes unless you are passing or turning left. On interstate highways, use the right lane if you are driving slower than other traffic."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "885",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You must turn right."
+        },
+        {
+          "letter": "B",
+          "text": "No right turns allowed."
+        },
+        {
+          "letter": "C",
+          "text": "You can turn right at a red light."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "No right turns allowed.",
+      "explanation": "This sign means you cannot turn right. It is illegal to turn right at an intersection with this sign."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1127",
+      "question": "What should you do when driving at night?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always use your high beams."
+        },
+        {
+          "letter": "B",
+          "text": "Look directly at oncoming headlights."
+        },
+        {
+          "letter": "C",
+          "text": "Stay farther behind other vehicles."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Stay farther behind other vehicles.",
+      "explanation": "Night driving is harder because you cannot see as well. It is harder to judge speed and distance. Stay farther behind the car in front of you so you can stop if it stops suddenly. Use your headlights at night, following the rules for high beams and low beams."
+    }
+  ]
+}

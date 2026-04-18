@@ -1,0 +1,805 @@
+{
+  "state": "Ohio",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #2",
+  "slug": "intermediate-practice-test-2",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "542",
+      "question": "Ang sign na ito ay nangangahulugan:",
+      "image": "/images/signs/washington-divided_highway_road_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Curves ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Divided highway starts."
+        },
+        {
+          "letter": "C",
+          "text": "Divided highway ends."
+        },
+        {
+          "letter": "D",
+          "text": "Mga umbok sa kalsada."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Divided highway ends.",
+      "explanation": "Ang sign na ito ay nagbibigit-alam sa mga drayber na ang hinati na highway ay nagtatapos sa unahan."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "236",
+      "question": "Ang palatandaang ito ay nagpapakita ng isang uri ng:",
+      "image": "/images/signs/maryland-t_intersection_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right turn."
+        },
+        {
+          "letter": "B",
+          "text": "Intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Lane change."
+        },
+        {
+          "letter": "D",
+          "text": "Road curve."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Intersection.",
+      "explanation": "Ang sign na ito ay nagpapakita na may T intersection sa unahan."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "539",
+      "question": "Ang sign na ito ay nangangahulugan:",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bantayan ang mga drunk drivers."
+        },
+        {
+          "letter": "B",
+          "text": "Curves ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Madulas kapag basa."
+        },
+        {
+          "letter": "D",
+          "text": "Bigyan ng mabilis na piyansa ang iyong brakes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Madulas kapag basa.",
+      "explanation": "Ang sign na ito ay nagbibigil na ang daan ay slippery kapag basa."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "966",
+      "question": "Ang sign na ito ay nangangahulugan:",
+      "image": "/images/signs/indiana-slippery_when_wet(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Madulas kapag basa."
+        },
+        {
+          "letter": "B",
+          "text": "Tow-away zone."
+        },
+        {
+          "letter": "C",
+          "text": "Steep downgrade."
+        },
+        {
+          "letter": "D",
+          "text": "Roadwork ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Madulas kapag basa.",
+      "explanation": "Ang mga warning signs ay naghahanda sa mga driver para sa mga paparating na road conditions at hazards at karaniwang dilaw na may itim na markahan. Ang sign na ito ay nagsasabi sa mga driver na maging maingat kapag nagmamaneho sa mga kondisyon na maaaring gawing basang at slippery ang roadway."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "254",
+      "question": "Ang green arrow na ito sa isang lane use control signal ay nangangahulugan:",
+      "image": "/images/signs/pennsylvania-control_signal_green.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maaari kang gumamit ng lane na ito."
+        },
+        {
+          "letter": "B",
+          "text": "Walang trapiko na pinapayagan sa lane na ito."
+        },
+        {
+          "letter": "C",
+          "text": "Ikaw ang may karapatan sa daan."
+        },
+        {
+          "letter": "D",
+          "text": "Dapat kang mag-merge sa lane na ito."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Maaari kang gumamit ng lane na ito.",
+      "explanation": "Ang isang matatag na pababang green arrow sa isang traffic lane ay nangangahulugan na maaari kang gumamit ng ipinahiwatig na lane."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "232",
+      "question": "Isang dilaw at itim na diamond-shaped sign:",
+      "image": "/images/signs/washington-warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nagbibigil sa iyo tungkol sa mga kondisyon sa o malapit sa daan."
+        },
+        {
+          "letter": "B",
+          "text": "Tumutulong na idirekt ka sa mga lungsod at bayan sa unahan."
+        },
+        {
+          "letter": "C",
+          "text": "Nagsasabi sa iyo tungkol sa mga traffic laws at regulations."
+        },
+        {
+          "letter": "D",
+          "text": "Nagsasabi sa iyo tungkol sa road construction sa unahan."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Nagbibigil sa iyo tungkol sa mga kondisyon sa o malapit sa daan.",
+      "explanation": "Ang warning signs, na nagsasabi sa iyo tungkol sa mga kondisyon sa o malapit sa daan sa unahan, ay karaniwang diamond-shaped na may itim na mga simbolo o salita sa isang dilaw na background."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "247",
+      "question": "Maaari kang magpatuloy nang maingat sa pamamagitan ng isang intersection na may dilaw na ilaw kung:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May emergency vehicle na tumatawid sa iyong lane."
+        },
+        {
+          "letter": "B",
+          "text": "May mga pedestrian na tumatawid."
+        },
+        {
+          "letter": "C",
+          "text": "Ikaw ay lumiliko sa kanan."
+        },
+        {
+          "letter": "D",
+          "text": "Ikaw ay nasa loob na ng intersection kapag ang ilaw ay nagbabago sa dilaw."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Ikaw ay nasa loob na ng intersection kapag ang ilaw ay nagbabago sa dilaw.",
+      "explanation": "Kung lumilitaw ang isang matatag na dilaw na ilaw kapag nasa loob ka na ng isang intersection, dapat mong magpatuloy sa pamamagitan ng intersection nang maingat."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "541",
+      "question": "Ang sign na ito ay nangangahulugan:",
+      "image": "/images/signs/washington-no_turn_to_the_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Walang right turn."
+        },
+        {
+          "letter": "B",
+          "text": "Dapat kang lumiko sa kanan."
+        },
+        {
+          "letter": "C",
+          "text": "Bantayan ang traffic sa iyong kanan."
+        },
+        {
+          "letter": "D",
+          "text": "Huwag magparking sa kanang panig ng kalsada."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Walang right turn.",
+      "explanation": "Ang sign na may red circle at slash sa ibabaw ng simbolo ay nagpapahiwatig na ang aksyon na kumakatawan sa simbolo (sa halimbawang ito, isang right turn) ay hindi pinapayagan."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "588",
+      "question": "Ang sign sa kalsada na ito ay nangangahulugan:",
+      "image": "/images/signs/colorado-hov_lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang kaliwang lane ay nakalaan para sa mga sasakyan na may partikular na bilang ng mga sakay."
+        },
+        {
+          "letter": "B",
+          "text": "Ang mga partikular na paggalaw ng pagbabago ay pinapayagan mula sa mga partikular na lanes."
+        },
+        {
+          "letter": "C",
+          "text": "Huwag pumasok."
+        },
+        {
+          "letter": "D",
+          "text": "Ang mga driver sa parehong lanes ay responsable sa maayos na pagsasama."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang kaliwang lane ay nakalaan para sa mga sasakyan na may partikular na bilang ng mga sakay.",
+      "explanation": "Ang sign na ito ay naglalaman ng mataas na occupancy vehicle (HOV) lane. Ang mga HOV lanes ay nakalaan para sa paggamit ng mga bus at sasakyan na may driver at isa o higit pang pasahero, tulad ng ipinahiwatig sa sign."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "586",
+      "question": "Ang road sign na ito ay nagpapakita ng:",
+      "image": "/images/signs/florida-exit_speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang maximum safe speed para sa isang residential area."
+        },
+        {
+          "letter": "B",
+          "text": "Ang maximum safe speed para sa isang expressway exit."
+        },
+        {
+          "letter": "C",
+          "text": "Ang maximum safe speed para sa isang expressway entrance."
+        },
+        {
+          "letter": "D",
+          "text": "Ang maximum safe speed para sa isang work zone."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang maximum safe speed para sa isang expressway exit.",
+      "explanation": "Ang advisory speed sign na ito ay nagpapakita ng maximum safe speed para sa isang highway exit (sa halimbawang ito, 30 mph)."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "490",
+      "question": "Isang siklista na hindi sumusunod sa mga batas sa trapiko:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tama dahil ang mga siklista ay hindi kailangang sumunod sa mga batas sa trapiko."
+        },
+        {
+          "letter": "B",
+          "text": "Maaaring makatanggap ng tiket."
+        },
+        {
+          "letter": "C",
+          "text": "Laging makakatanggap ng babala mula sa law enforcement."
+        },
+        {
+          "letter": "D",
+          "text": "Magkakaroon ng kanilang bisikleta na naaksyon."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Maaaring makatanggap ng tiket.",
+      "explanation": "Lahat ng mga siklista ay may parehong mga karapatan, tungkulin, at responsibilidad tulad ng mga drayber ng mga motorsiklo. Ang mga motorista at siklista na hindi sumusunod sa mga batas sa trapiko ay maaaring makatanggap ng tiket."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "2861",
+      "question": "Dapat kang magbigay ng signal para lumiko ____ bago magsimula ang iyong pagliko.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 feet"
+        },
+        {
+          "letter": "B",
+          "text": "50 feet"
+        },
+        {
+          "letter": "C",
+          "text": "100 feet"
+        },
+        {
+          "letter": "D",
+          "text": "300 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "100 feet",
+      "explanation": "Kapag nais ninyong magbago ng lane o gumawa ng pagliko, mag-signal upang ipahayag sa ibang mga motorista ang inyong layunin. Ang mga signal ay dapat na i-activate nang hindi bababa sa 100 feet bago kayo magliko. Magpatuloy sa pag-signal hanggang sa kayo ay nakahon ang pagliko o pagbabago ng lane."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1677",
+      "question": "Kung nakikita mo ang palatandaang ito, ikaw ay:",
+      "image": "/images/signs/do_not_pass.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hindi dapat lumipas sa ibang sasakyan."
+        },
+        {
+          "letter": "B",
+          "text": "Maaari kang lumipas sa isang mabagal na gumagalaw na sasakyan kung maaari mong gawin ito nang mabilis."
+        },
+        {
+          "letter": "C",
+          "text": "Maaari kang lumipas kung alam mo ang kalsada sa harapan."
+        },
+        {
+          "letter": "D",
+          "text": "Maaari kang lumipas, ngunit lamang sa gabi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Hindi dapat lumipas sa ibang sasakyan.",
+      "explanation": "Ang mga regulatory sign ay puti, rectangular na mga palatanda na may itim na markahan. Ang mga drayber ay dapat sumunod sa mga tagubilin na nailagay sa lahat ng regulatory sign. Kung saan nakalagay ang palatandaang ito, ipinagbabawal para sa mga drayber na lumipas sa isa't isa."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "501",
+      "question": "Sa isang intersection na may yield sign, dapat mong:",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palaging tumigil bago pumasok sa intersection."
+        },
+        {
+          "letter": "B",
+          "text": "Magbigay lamang ng karapatan sa trapiko sa kanan."
+        },
+        {
+          "letter": "C",
+          "text": "Magbigay lamang ng karapatan sa trapiko sa kaliwa."
+        },
+        {
+          "letter": "D",
+          "text": "Bumagal at magbigay ng karapatan sa ibang trapiko."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Bumagal at magbigay ng karapatan sa ibang trapiko.",
+      "explanation": "Ang yield sign ay nangangahulugang dapat kang bumagal at magbigay ng karapatan sa trapiko sa intersection o roadway na papasukan mo."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "2862",
+      "question": "Sa panahon ng normal na panahon at kondisyon ng trapiko, panatilihin ang isang minimum following distance ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang segundo."
+        },
+        {
+          "letter": "B",
+          "text": "Dalawang segundo."
+        },
+        {
+          "letter": "C",
+          "text": "Tatlong segundo."
+        },
+        {
+          "letter": "D",
+          "text": "Apat na segundo."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tatlong segundo.",
+      "explanation": "Ang mas malaking distansya sa pagitan ng iyong sasakyan at iba, mas maraming oras ang mayroon ka para tumugon. Panatilihin ang pinakamababang sumusunod na distansya na tatlong segundo sa panahon ng normal na panahon at kondisyon ng trapiko. Dagdagan ang iyong sumusunod na distansya sa panahon ng hindi pangkaraniwang panahon o kondisyon ng trapiko."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "401",
+      "question": "Alin sa mga sumusunod ay ginagamit sa ilang mga highway upang gumabay sa mga drayber sa mga wastong lane para sa pagliko?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kumikislap na pula na mga ilaw"
+        },
+        {
+          "letter": "B",
+          "text": "Kumikislap na dilaw na mga ilaw"
+        },
+        {
+          "letter": "C",
+          "text": "Puting mga linya sa gilid ng kalsada"
+        },
+        {
+          "letter": "D",
+          "text": "Puting mga arrow sa gitna ng mga lane"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Puting mga arrow sa gitna ng mga lane",
+      "explanation": "Ang mga arrow ay maaaring gamitin upang ipahiwatig kung aling mga lane ang dapat gamitin para sa mga partikular na layunin, tulad ng pagmamaneho ng direkta o paggawa ng isang pagliko."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "473",
+      "question": "Gusto mong umurong sa iyong driveway. Nakikita mo ang mga bata na naglalaro sa malapit. Bago ka magsimulang gumalaw ng iyong sasakyan, dapat mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pabilisin ang iyong engine upang babayaran ang mga bata na ikaw ay gumagalaw."
+        },
+        {
+          "letter": "B",
+          "text": "Tumunog ng iyong horn upang marinig ng mga bata."
+        },
+        {
+          "letter": "C",
+          "text": "Lumakad sa likod ng sasakyan upang masiguro na ang daan ay malinaw."
+        },
+        {
+          "letter": "D",
+          "text": "Sabihin sa mga bata na manatiling malayo sa driveway."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Lumakad sa likod ng sasakyan upang masiguro na ang daan ay malinaw.",
+      "explanation": "Kapag gumagalaw ka ng isang sasakyan paatras, tingnan sa iyong back window para sa mga pedestrian at ibang mga hadlang. Huwag umasa lamang sa iyong mga mirrors, lalo na kapag malapit ang mga bata. Bago ka umusolong sa o lumabas mula sa isang driveway, lumabas mula sa sasakyan at suriin ang likod ng iyong sasakyan."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "230",
+      "question": "Ang sign na ito ay nangangahulugan:",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang kaliwang kurba ay nakaabang."
+        },
+        {
+          "letter": "B",
+          "text": "Isang serye ng mga kurba ay nakaabang."
+        },
+        {
+          "letter": "C",
+          "text": "Isang S-curve ay nakaabang."
+        },
+        {
+          "letter": "D",
+          "text": "Ang kalsada ay magiging madulas kapag basa."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Ang kalsada ay magiging madulas kapag basa.",
+      "explanation": "Ang sign na ito ay nagbabanta na partikular na madulas na mga kondisyon ay umiiral kapag ang kalsada ay basa."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1552",
+      "question": "Kailan illegal na magmaneho sa ibaba ng speed limit?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kapag ang mabagal na pagmamaneho ay naggambala sa normal na daloy ng traffic"
+        },
+        {
+          "letter": "B",
+          "text": "Kapag sa mabigat na traffic sa construction zone"
+        },
+        {
+          "letter": "C",
+          "text": "Lamang kapag nagmamaneho sa rural area."
+        },
+        {
+          "letter": "D",
+          "text": "Kapag nagmamaneho sa ilalim ng hindi pabor na kondisyon ng panahon"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Kapag ang mabagal na pagmamaneho ay naggambala sa normal na daloy ng traffic",
+      "explanation": "Illegal na magmaneho nang kaya mabilis na naggambala sa normal na daloy ng traffic. Maaari kang makatanggap ng citation para sa mabagal na pagmamaneho."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "483",
+      "question": "Ang sign na ito ay nangangahulugan:",
+      "image": "/images/signs/two_way_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apat na linya ng trapiko sa unahan."
+        },
+        {
+          "letter": "B",
+          "text": "Divided highway na malapit."
+        },
+        {
+          "letter": "C",
+          "text": "May two-way traffic na paparating."
+        },
+        {
+          "letter": "D",
+          "text": "Intersection sa unahan."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "May two-way traffic na paparating.",
+      "explanation": "Ang sign na ito ay nag-aalerto sa dalawang direksyon na trapiko sa harap."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "530",
+      "question": "Sa freeway, nakikita mo ang isang \"Merging traffic\" sign. Dapat mong:",
+      "image": "/images/signs/merging_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumabay sa papasok na trapiko."
+        },
+        {
+          "letter": "B",
+          "text": "Palaging manatiling sa iyong kasalukuyang bilis."
+        },
+        {
+          "letter": "C",
+          "text": "Pabilisin upang maiwasan ang siyam na trapiko."
+        },
+        {
+          "letter": "D",
+          "text": "Lumipat sa ibang lane, kung ligtas, upang hayaan ang trapiko na pumasok."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Lumipat sa ibang lane, kung ligtas, upang hayaan ang trapiko na pumasok.",
+      "explanation": "Kapag nasa roadway na may dalawa o higit pang lane, dapat kang maggawa ng lugar para sa mga papasok na sasakyan. Kung walang nagmamaneho sa tabi mo, lumipat ng isang lane."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "2079",
+      "question": "Dapat kang maingat kapag nagpapass ng isang bisikleta dahil:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ikaw ay gumagalaw nang mas mabilis kaysa sa bisikleta."
+        },
+        {
+          "letter": "B",
+          "text": "Ang bisikleta ay palaging may karapatan ng daan."
+        },
+        {
+          "letter": "C",
+          "text": "Ang oncoming traffic ay maaaring hindi makita ang iyong pagsisikap na pumasa ng bisikleta."
+        },
+        {
+          "letter": "D",
+          "text": "Ang siklistang maaaring kailangang magswebe papunta sa trapiko upang maiwasan ang isang bagay sa kalsada."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Ang siklistang maaaring kailangang magswebe papunta sa trapiko upang maiwasan ang isang bagay sa kalsada.",
+      "explanation": "Dapat mong laging maging maingat kapag pumapasa ng bisikleta dahil ang siklistang maaaring kailangang magswebe papunta sa trapiko upang maiwasan ang isang bagay sa kalsada. Laging maging partikular na maingat kapag nagmamaneho malapit sa mga siklistang."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "274",
+      "question": "Kung magmamaneho ka malapit sa isang motorcycle, dapat mo:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bigyan ng kumpletong lane ang motorcycle."
+        },
+        {
+          "letter": "B",
+          "text": "Magmaneho sa shoulder sa tabi ng motorcycle."
+        },
+        {
+          "letter": "C",
+          "text": "Bigyan ng kalahati lamang ng lane ang motorcycle."
+        },
+        {
+          "letter": "D",
+          "text": "Magdaan gamit ang parehong lane tulad ng motorcycle."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bigyan ng kumpletong lane ang motorcycle.",
+      "explanation": "Ang isang motorcycle ay isang full-size vehicle na may parehong privileges tulad ng anumang ibang sasakyan sa roadway. Dapat mong bigyan ng full lane width ang isang motorcyclist. Kahit na ito ay maaaring tila na may sapat na espasyo sa traffic lane para sa isang mas malaking sasakyan at isang motorcycle, tandaan na ang motorcycle ay kailangan ng espasyo upang lumipat nang ligtas."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "804",
+      "question": "Kapag dalawang sasakyan ay dumating sa intersection sa parehong oras, alin ang may right-of-way kapag walang mga sign o signal na nagpapakita ng mga patakaran?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang sasakyang paparating mula sa kanan ay may right-of-way."
+        },
+        {
+          "letter": "B",
+          "text": "Ang sasakyang paparating mula sa kaliwa ay may right-of-way."
+        },
+        {
+          "letter": "C",
+          "text": "Ang sasakyang driver ay sumunog ng klakson muna ay may right-of-way."
+        },
+        {
+          "letter": "D",
+          "text": "Ang sasakyang bumibiyahe nang pinakamatulin ay may right-of-way."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang sasakyang paparating mula sa kanan ay may right-of-way.",
+      "explanation": "Sa intersection ng dalawang katulad na kalsada nang walang traffic control device, ang isang driver ay dapat magbigay daan sa sasakyang paparating mula sa kanan."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "485",
+      "question": "Ang sign na ito ay nangangahulugan:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Walang left turn."
+        },
+        {
+          "letter": "B",
+          "text": "Walang tigil."
+        },
+        {
+          "letter": "C",
+          "text": "Walang U-turn."
+        },
+        {
+          "letter": "D",
+          "text": "Detour ahead."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Walang U-turn.",
+      "explanation": "Ang sign na ito ay nagpapahiwatig na ang mga U-turn ay ipinagbawal."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "1649",
+      "question": "Maaari mong lampasan ang ibang sasakyan:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sa isang kurba o sa isang burol dahil maliit ang pagkakataon na may iba pang sasakyan na paparating."
+        },
+        {
+          "letter": "B",
+          "text": "Sa pamamagitan ng paggamit ng balikat ng highway."
+        },
+        {
+          "letter": "C",
+          "text": "Kung ang iyong lane ay susunod sa isang solid na dilaw na linya at ang paglalampas na lane ay malinaw sa unahan."
+        },
+        {
+          "letter": "D",
+          "text": "Wala sa itaas."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Wala sa itaas.",
+      "explanation": "Hindi mo maaaring lampasan ang ibang sasakyan sa isang burol o sa isang kurba dahil hindi mo makikita ang paparating na trapiko at maaaring magdulot ng banggaan. Huwag na lampasan ang ibang sasakyan sa pamamagitan ng pagmaneho sa balikat ng isang highway. Ang paglalampas ng ibang sasakyan sa pamamagitan ng pagmamaneho sa isang solid na dilaw na linya ay ipinagbabawal."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "290",
+      "question": "Bago lumampas sa ibang sasakyan, dapat mong magbigay-signal:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lamang bago magbago ng lane."
+        },
+        {
+          "letter": "B",
+          "text": "Anumang oras."
+        },
+        {
+          "letter": "C",
+          "text": "Pagkatapos magbago ng lane."
+        },
+        {
+          "letter": "D",
+          "text": "Maaga upang malaman ng iba ang iyong mga plano."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Maaga upang malaman ng iba ang iyong mga plano.",
+      "explanation": "Bago lumampas, dapat mong magbigay-signal ng maaga upang malaman ng iba pang mga driver ang iyong mga plano nang maaga."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "2863",
+      "question": "Sa masamang panahon, dagdagan ang iyong sumusunod na distansya sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apat o limang segundo."
+        },
+        {
+          "letter": "B",
+          "text": "Tatlong segundo."
+        },
+        {
+          "letter": "C",
+          "text": "Dalawang segundo."
+        },
+        {
+          "letter": "D",
+          "text": "Isang segundo."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Apat o limang segundo.",
+      "explanation": "Ang mas malaking distansya sa pagitan ng iyong sasakyan at iba, mas maraming oras ang mayroon kang upang tumugon sa kanilang mga aksyon. Panatilihin ang pinakamababang sumusunod na distansya na apat o limang segundo sa panahon ng masamang panahon at kondisyon ng trapiko."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "1597",
+      "question": "Alin sa mga sumusunod tungkol sa pagmamaneho sa taglamig ang hindi totoo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang taglamig ay ang pinakamahirap na panahon sa pagmamaneho."
+        },
+        {
+          "letter": "B",
+          "text": "Ang pagsusuri ng antifreeze at windshield washer fluid levels ng iyong sasakyan ay partikular na mahalaga sa panahon ng taglamig."
+        },
+        {
+          "letter": "C",
+          "text": "Ang paggamit ng cruise control sa taglamig na panahon ay isang ligtas na bagay na gawin."
+        },
+        {
+          "letter": "D",
+          "text": "Pinakamahusay na gamitin ang snow tires sa iyong sasakyan."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ang paggamit ng cruise control sa taglamig na panahon ay isang ligtas na bagay na gawin.",
+      "explanation": "Hindi mo dapat gamitin ang cruise control sa niyebe, ulan, banayad, o sa ilalim ng katulad na mapanganibik na kondisyon. Ang taglamig ay ang pinakamahirap na panahon sa pagmamaneho at nangangailangan ng karagdagang pag-iingat mula sa mga driver. Mahalaga na patuloy na suriin ang iyong antas ng antifreeze at windshield washer fluid. Ang paggamit ng snow tires ay maaaring magpataas ng traksyon ng sasakyan sa ibabaw ng madulas na kalsada."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "920",
+      "question": "Ang sign na ito ay nangangahulugan:",
+      "image": "/images/signs/indiana-intersection_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crossroad sa unahan."
+        },
+        {
+          "letter": "B",
+          "text": "Flagger na nasa harap."
+        },
+        {
+          "letter": "C",
+          "text": "Lane na nagtatapos."
+        },
+        {
+          "letter": "D",
+          "text": "Lumiko sa kanan o magpatuloy nang tuwid."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Crossroad sa unahan.",
+      "explanation": "Ang mga warning signs ay naghahanda sa mga driver para sa paparating na mga kondisyon at hazards sa daan at karaniwang kulay ay dilaw na may itim na markasyon. Ang sign na ito ay nagbibigay-alerto sa mga driver sa isang paparating na intersection."
+    }
+  ]
+}

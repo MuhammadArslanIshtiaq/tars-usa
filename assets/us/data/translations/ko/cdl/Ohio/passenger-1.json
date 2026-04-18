@@ -1,0 +1,454 @@
+{
+  "state": "Ohio",
+  "category": "cdl",
+  "testName": "Passenger Test #1 20 Questions • Passing Score 16",
+  "testSlug": "passenger-1",
+  "url": "/images/ohio/cdl/passenger-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9458",
+      "question": "여행 중 기내 수하물:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "통로에 놓아둘 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "통로에서 떨어진 곳에 보관해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "탑승자의 무릎 위에 놓아야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "통로에서 떨어진 곳에 보관해야 합니다.",
+      "explanation": "버스의 통로와 계단은 항상 깔끔하게 유지되어야 합니다. 승객이 통로를 사용할 때 넘어지지 않도록 통로를 깔끔하게 유지하는 것이 중요합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8615",
+      "question": "버스가 중간 정류소 또는 최종 목적지에 정차한 경우 승객에게 알려야 할 사항:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "위치입니다."
+        },
+        {
+          "letter": "B",
+          "text": "버스 회사의 이름입니다."
+        },
+        {
+          "letter": "C",
+          "text": "운전사의 이름입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "위치입니다.",
+      "explanation": "중간 정류소 또는 최종 목적지에서 버스를 정차할 때 운전사는 정류소의 위치, 정차 이유, 다음 출발 시간 및 버스 번호를 안내해야 합니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9438",
+      "question": "다른 운전자가 당신을 테일게이팅하고 있다면 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "좌측 차선으로 이동하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "속도를 높입니다."
+        },
+        {
+          "letter": "C",
+          "text": "당신과 앞의 차량 사이의 거리를 늘립니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "당신과 앞의 차량 사이의 거리를 늘립니다.",
+      "explanation": "당신이 테일게이팅당하고 있다면 당신의 차량과 앞의 차량 사이의 거리를 늘려야 합니다. 이것은 갑작스러운 움직임의 필요성을 줄이고 테일게이터가 당신을 추월할 수 있는 더 많은 공간을 줄 것입니다. 테일게이팅당할 때 속도를 높이는 것은 권장되지 않습니다. 테일게이터가 더 높은 속도로 계속 당신을 밀접하게 따를 수 있기 때문입니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "10699",
+      "question": "버스 여행이 완료된 후, 차량은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "점검 없이 반납해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "점검해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "연료를 모두 빼야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "점검해야 합니다.",
+      "explanation": "버스는 모든 여행이 끝난 후에 점검해야 합니다. 주요 안전 항목이 승객에 의해 손상될 수 있으므로, 점검을 통해 다음 여행 전에 이러한 손상을 수리할 수 있습니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9312",
+      "question": "운전 시험 중에 차선 변경을 요청받을 때 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "시험관이 요청하자마자 주변을 살피지 않고 변경합니다."
+        },
+        {
+          "letter": "B",
+          "text": "방향 신호를 사용하고 안전할 때 차선을 변경합니다."
+        },
+        {
+          "letter": "C",
+          "text": "다른 운전자를 방해해도 가능한 한 빨리 차선 변경을 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "방향 신호를 사용하고 안전할 때 차선을 변경합니다.",
+      "explanation": "도로 운전 시험 중에 차선을 변경하도록 요청받을 것입니다. 시험관이 이를 요청할 때, 차선을 변경하기 전에 필요한 교통 확인을 하고 적절한 신호를 사용해야 합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11366",
+      "question": "녹불에서 정차하는 운전자는 다음과 같을 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "손상된 상태의 운전자입니다."
+        },
+        {
+          "letter": "B",
+          "text": "색맹 운전자입니다."
+        },
+        {
+          "letter": "C",
+          "text": "도로 규칙을 모르는 사람입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "손상된 상태의 운전자입니다.",
+      "explanation": "다른 운전자의 행동을 관찰하고 사람이 손상된 상태로 운전할 수 있다는 단서를 식별하는 것이 중요합니다. 음주운전자, 졸음운전자, 약물 복용자 또는 아픈 사람은 다른 운전자에게 위험을 초래할 수 있습니다. 운전자가 손상된 상태일 수 있다는 한 가지 징후는 녹불과 같은 부적절한 장소에서 정차한다는 것입니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11369",
+      "question": "주의산만한 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "보통 도로 규칙을 따릅니다."
+        },
+        {
+          "letter": "B",
+          "text": "보통 인식이 저하됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "추종하기 좋은 사람입니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "보통 인식이 저하됩니다.",
+      "explanation": "산만한 운전자는 집중된 운전자보다 도로 위의 위험을 더 천천히 인식하거나 전혀 인식하지 못합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8529",
+      "question": "기어 변속 결정을 기반으로 하지 마십시오:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "엔진의 속도(rpm)."
+        },
+        {
+          "letter": "B",
+          "text": "도로의 속도(mph)."
+        },
+        {
+          "letter": "C",
+          "text": "옆에 있는 차량의 행동."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "옆에 있는 차량의 행동.",
+      "explanation": "기어를 변속할 시간을 알 수 있는 한 가지 방법은 차량의 작동 rpm 범위를 배우는 것입니다. 엔진이 해당 범위의 상단에 도달하면 기어를 올려야 합니다. 각 기어에 적합한 속도를 배우고 속도계를 기준으로 기어를 올릴 수도 있습니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9457",
+      "question": "운전자는 다음 이상의 승객을 수송하도록 설계된 차량을 운영하는 경우 CDL이 필요합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3명의 승객."
+        },
+        {
+          "letter": "B",
+          "text": "15명의 승객."
+        },
+        {
+          "letter": "C",
+          "text": "44명의 승객."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "44명의 승객.",
+      "explanation": "운전자를 포함하여 16명 이상의 승객을 탈 수 있도록 설계된 차량을 운영하려면 상업용 운전면허증이 있어야 합니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8523",
+      "question": "운전자 측 백업을 사용하여 후진해야 하는 경우:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "항상 권장됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "권장되지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "비가 오는 경우에만 권장됩니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "항상 권장됩니다.",
+      "explanation": "후진해야 하는 경우, 차량의 운전자 측으로 후진하는 것이 가장 안전합니다. 이렇게 하면, 운전자로서 당신은 주행 경로를 가장 잘 볼 수 있을 것입니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9266",
+      "question": "공격적인 운전자에게 직면하게 되면, 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "더 잘 소통하기 위해 눈 접촉을 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "그들의 제스처를 무시하기."
+        },
+        {
+          "letter": "C",
+          "text": "그들의 진행 경로에서 벗어나지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "그들의 제스처를 무시하기.",
+      "explanation": "공격적인 운전자에게 직면하게 되면, 가장 중요한 것은 가능하다면 그들의 길에서 벗어나는 것입니다. 운전자와 눈을 마주치지 마십시오. 그렇게 하면 그들을 자극할 수 있습니다. 그들의 행동으로 인해 자극받지 마십시오."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8538",
+      "question": "도로 옆으로 끌려갈 때 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 운전자에게 당신의 존재를 알리기 위해 테일라이트에 의존하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "다른 운전자에 대해 걱정하지 마십시오."
+        },
+        {
+          "letter": "C",
+          "text": "4방향 비상 깜박이를 사용하여 다른 운전자에게 당신의 존재를 알리십시오."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "4방향 비상 깜박이를 사용하여 다른 운전자에게 당신의 존재를 알리십시오.",
+      "explanation": "도로 옆에 정차했을 때, 특히 시야가 좋지 않은 시간대에는 반드시 차량의 4방향 비상 깜박이를 켜십시오. 정차 후 10분 이내에 경고 장치를 설치하십시오."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9874",
+      "question": "도로에 모인 물로 인해 발생할 수 있는 것:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "수막 현상입니다."
+        },
+        {
+          "letter": "B",
+          "text": "가속입니다."
+        },
+        {
+          "letter": "C",
+          "text": "제동입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "수막 현상입니다.",
+      "explanation": "물이 도로 표면에 모이면 수막 현상의 위험이 시작됩니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9314",
+      "question": "운전 테스트를 치르고 있는데 경로에 철도 건널목이 포함되지 않은 경우, 당신은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "건널목과 관련된 어떤 것도 할 필요가 없습니다."
+        },
+        {
+          "letter": "B",
+          "text": "철도 건널목을 어떻게 건너가는지 설명해야 할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "철도 건널목을 포함하는 경로에서 다시 테스트를 치러야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "철도 건널목을 어떻게 건너가는지 설명해야 할 수 있습니다.",
+      "explanation": "도로 운전 테스트 경로에 철도 건널목이 포함되지 않은 경우, 시뮬레이션된 위치에서 시험관에게 적절한 철도 건널목 통과 절차를 설명하고 시연하도록 요청받을 수 있습니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8751",
+      "question": "운행 전 점검은 다음과 같이 수행되어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다양한 항목에 중점을 두기 위해 매번 다르게 수행합니다."
+        },
+        {
+          "letter": "B",
+          "text": "무언가를 잊지 않도록 하기 위해 매번 같은 방식으로 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "가끔씩."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "무언가를 잊지 않도록 하기 위해 매번 같은 방식으로 합니다.",
+      "explanation": "운행 전 점검은 매번 같은 방식으로 완료되어야 합니다. 일관성은 모든 적절한 단계를 배우는 데 도움이 되며 무언가를 확인하는 것을 잊을 가능성을 줄입니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8535",
+      "question": "방향 지시등을 사용할 때 좋지 않은 규칙은 다음 중 어느 것입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "미리 신호하십시오. 회전이나 차선 변경 전에 잘 신호하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "계속 신호하십시오. 회전이 완료될 때까지 신호를 취소하지 마십시오."
+        },
+        {
+          "letter": "C",
+          "text": "과다 신호를 하지 마십시오. 근처에 아무도 없으면 신호할 필요가 없습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "과다 신호를 하지 마십시오. 근처에 아무도 없으면 신호할 필요가 없습니다.",
+      "explanation": "방향 지시등을 사용할 때는 회전이나 차선 변경 전에 미리 신호를 보내고, 회전이나 차선 변경 내내 계속 신호를 보내며, 이동을 완료한 후 신호를 취소해야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9937",
+      "question": "완전히 정지한 상태에서 출발할 때 차량은 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "앞으로 갑자기 움직입니다."
+        },
+        {
+          "letter": "B",
+          "text": "뒤로 굴러갑니다."
+        },
+        {
+          "letter": "C",
+          "text": "뒤로 움직이지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "뒤로 움직이지 않습니다.",
+      "explanation": "뒤에 있는 차량과 충돌하는 것을 피하려면 정지된 위치에서 앞으로 이동할 때 차량이 뒤로 굴러가지 않도록 해야 합니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9974",
+      "question": "검은 얼음은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로 위의 두꺼운 얼음층."
+        },
+        {
+          "letter": "B",
+          "text": "도로 위의 얇은 얼음층."
+        },
+        {
+          "letter": "C",
+          "text": "도로의 부스러기로 인해 검은색인 얼음."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "도로 위의 얇은 얼음층.",
+      "explanation": "검은 얼음은 도로가 보일 정도로 얇고 투명한 얼음층입니다. 표면은 젖은 도로처럼 보입니다. 기온이 영하인데 도로가 젖어 보이면 항상 검은 얼음에 주의해야 합니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9935",
+      "question": "타이어의 공기압이 너무 높을 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "불가능합니다."
+        },
+        {
+          "letter": "B",
+          "text": "긴 운전에서 권장됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "위험할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "위험할 수 있습니다.",
+      "explanation": "타이어는 절대 공기압이 너무 높아서는 안 됩니다. 점검 중에 게이지를 사용하여 타이어의 공기압을 확인하세요."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11991",
+      "question": "성인이 경각심을 유지하기 위해 필요한 일일 수면 시간은 몇 시간입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6시간에서 7시간"
+        },
+        {
+          "letter": "B",
+          "text": "7시간에서 8시간"
+        },
+        {
+          "letter": "C",
+          "text": "8시간에서 9시간"
+        },
+        {
+          "letter": "D",
+          "text": "4시간에서 5시간"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "8시간에서 9시간",
+      "explanation": "적절한 휴식은 CMV의 안전한 운영에 필수적입니다. 경각심을 유지하기 위해 대부분의 사람들은 밤에 8시간에서 9시간의 수면이 필요합니다."
+    }
+  ]
+}

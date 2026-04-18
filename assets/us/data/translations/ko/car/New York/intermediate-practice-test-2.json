@@ -1,0 +1,512 @@
+{
+  "state": "New York",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #2",
+  "slug": "intermediate-practice-test-2",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "403",
+      "question": "도로에 노란색 실선과 노란색 점선이 표시되고 점선이 당신의 차선 옆에 있을 때 다음의 경우에 추월할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "긴급 상황에서만."
+        },
+        {
+          "letter": "B",
+          "text": "고속도로에 있는 경우."
+        },
+        {
+          "letter": "C",
+          "text": "교통이 맑을 때."
+        },
+        {
+          "letter": "D",
+          "text": "교차로에서만."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "교통이 맑을 때.",
+      "explanation": "도로 중앙에 노란색 실선과 노란색 점선이 있고 점선이 당신의 차선 옆에 있을 때 대향 교통이 없으면 선을 넘어 추월할 수 있습니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "389",
+      "question": "다가오는 위험을 나타내는 경고 표지판의 색상은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "흰색 배경에 검은색 글자 또는 기호"
+        },
+        {
+          "letter": "B",
+          "text": "노란색 배경에 검은색 글자 또는 기호"
+        },
+        {
+          "letter": "C",
+          "text": "파란색 배경에 흰색 글자 또는 기호"
+        },
+        {
+          "letter": "D",
+          "text": "녹색 배경에 흰색 글자 또는 기호"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "노란색 배경에 검은색 글자 또는 기호",
+      "explanation": "다가오는 위험을 나타내는 경고 표지판은 보통 검은색 글자 또는 기호가 있는 노란색입니다. 작업 구역의 경고 표지판은 검은색 글자 또는 기호가 있는 주황색입니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1037",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/tennessee-traffic_blending.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 교통을 위해 정지해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "교통이 다른 도로에서 진입하고 있으므로 운전자가 안전하게 교통 흐름으로 합류할 수 있도록 충분한 공간을 제공해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "교통이 다른 도로에서 진입하고 있으므로 우측으로 유지해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "교통이 다른 도로에서 진입하고 있으므로 운전자가 안전하게 교통 흐름으로 합류할 수 있도록 충분한 공간을 제공해야 합니다.",
+      "explanation": "이 표지판은 교통이 주요 통행 흐름으로 합류할 가능성을 경고합니다. 옆과 뒤를 확인한 후 가능하면 다른 차선으로 이동하여 합류하는 운전자에게 명확한 경로를 제공해야 합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "437",
+      "question": "연석과 평행한 주차 공간을 떠나기 전에 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "경적을 울리세요."
+        },
+        {
+          "letter": "B",
+          "text": "비상 깜박이를 켜십시오."
+        },
+        {
+          "letter": "C",
+          "text": "고개를 돌려 교통 상황을 살펴봅니다."
+        },
+        {
+          "letter": "D",
+          "text": "실내 백미러만 사용하여 교통 상황을 살펴봅니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "고개를 돌려 교통 상황을 살펴봅니다.",
+      "explanation": "주차 공간을 떠나 교통에 복귀하기 전에, 어깨 너머로 고개를 돌려 창문을 통해 보행자, 자전거 운전자, 오토바이 운전자, 기타 차량이 있는지 확인하여 위험 요소가 될 수 있는지 살펴봐야 합니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "2067",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/school.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "천천히 운전하고 경적을 울려야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "버스 정류장이 앞에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "학교의 주차장으로 진입하고 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "학교 지역이 앞에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "학교 지역이 앞에 있습니다.",
+      "explanation": "경고 표지판은 운전자에게 다가오는 위험한 상태에 대해 경고하기 위해 사용되며 일반적으로 검은 표시가 있는 노란색입니다. 이 표지판은 운전자에게 학교 지역에 접근하고 있으며 속도를 줄이고 어린이를 주의해야 함을 알립니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1288",
+      "question": "도로 중앙의 이중 노란 실선 표지는 추월이:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "양쪽 방향 모두에서 허용됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "당신의 이동 방향에서만 허용됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "양쪽 방향 모두에서 허용되지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "양쪽 방향 모두에서 허용되지 않습니다.",
+      "explanation": "이중 노란 중앙선은 양쪽 방향의 교통이 중앙선을 넘어 추월하는 것이 금지됨을 의미합니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "464",
+      "question": "음주 운전하는 사람들은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "뉴욕 주에서는 문제가 아닙니다."
+        },
+        {
+          "letter": "B",
+          "text": "모든 운전자의 문제입니다."
+        },
+        {
+          "letter": "C",
+          "text": "경찰 단속 문제일 뿐입니다."
+        },
+        {
+          "letter": "D",
+          "text": "술을 마시는 사람들에게만 문제입니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "모든 운전자의 문제입니다.",
+      "explanation": "모든 운전 능력 저하 또는 만취한 운전자는 자신과 도로 위의 다른 사람들 모두에게 위험합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1087",
+      "question": "당신이 추적당하고 있을 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "오른쪽에 열린 차선이 있으면 오른쪽으로 이동하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "오른쪽에 열린 차선이 없으면 앞의 길이 맑아질 때까지 기다렸다가 천천히 속도를 줄여 추적자가 당신을 지나가도록 유도하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "절대 갑자기 속도를 줄이지 마십시오."
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "위의 모든 것.",
+      "explanation": "다른 운전자가 추적하고 있고 오른쪽 차선이 있으면 오른쪽으로 이동하십시오. 오른쪽 차선이 없으면 앞의 도로가 맑아질 때까지 기다렸다가 천천히 속도를 줄이십시오. 이것은 추적자가 당신을 지나가도록 유도합니다. 갑자기 속도를 줄이지 마십시오. 이는 뒤에서 차량이 충돌할 위험만 증가시킵니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "354",
+      "question": "대향 운전자가 당신의 차선에서 당신을 향해 올 때, 당신은 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "혼을 울리고, 오른쪽으로 조향하고, 가속합니다."
+        },
+        {
+          "letter": "B",
+          "text": "혼을 울리고, 왼쪽으로 조향하고, 제동합니다."
+        },
+        {
+          "letter": "C",
+          "text": "혼을 울리고, 오른쪽으로 조향하고, 제동합니다."
+        },
+        {
+          "letter": "D",
+          "text": "차선 중앙에 머물고, 혼을 울리고, 제동합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "혼을 울리고, 오른쪽으로 조향하고, 제동합니다.",
+      "explanation": "다른 차량이 당신의 차선에서 정면으로 당신에게 접근하면, 먼저 혼(horn)을 울려 주의를 끌어야 합니다. 다른 운전자가 움직이지 않으면, 오른쪽으로 빠져나가도록 노력하십시오. 왼쪽으로 회피하고 다른 운전자가 마지막 순간에 수정하면, 여전히 충돌할 것입니다. 충돌이 피할 수 없으면, 확실하고 꾸준하게 제동하십시오. 속도를 낮추는 1 mph마다 충격을 줄일 것입니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "116",
+      "question": "주차된 차량과 충돌했고 소유자를 찾을 수 없습니다. 무엇을 해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "집에 도착했을 때 보험 회사에 전화합니다."
+        },
+        {
+          "letter": "B",
+          "text": "소유자가 돌아올 때까지 기다립니다."
+        },
+        {
+          "letter": "C",
+          "text": "당신의 이름과 주소가 적힌 메모를 주차된 차량에 남깁니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "당신의 이름과 주소가 적힌 메모를 주차된 차량에 남깁니다.",
+      "explanation": "주차된 차량이나 다른 재산과 충돌한 경우, 당신의 이름, 전화번호, 주소가 포함된 메모를 충돌한 차량이나 재산에 안전하게 붙여야 합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "326",
+      "question": "2차선 양방향 도로에서 느리게 움직이는 차량을 추월하려면 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "중앙선을 넘지 마십시오."
+        },
+        {
+          "letter": "B",
+          "text": "대면 교통에 라이트를 깜박이십시오."
+        },
+        {
+          "letter": "C",
+          "text": "갓길을 사용하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "대면 교통에 속하는 차선을 사용하십시오."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "대면 교통에 속하는 차선을 사용하십시오.",
+      "explanation": "2차선 양방향 도로에서 추월하려면 좋은 판단력이 필요합니다. 왜냐하면 당신의 추월을 완성하기 위해 대향 교통이 사용하는 차선을 사용해야 하기 때문입니다. 안전하고 합법적으로만 추월하세요."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1072",
+      "question": "신호등의 깜빡이는 빨간 불은 다음을 의미합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "정지 표지판과 같은 의미."
+        },
+        {
+          "letter": "B",
+          "text": "신호등이 고장났습니다."
+        },
+        {
+          "letter": "C",
+          "text": "완전히 정지할 필요가 없습니다."
+        },
+        {
+          "letter": "D",
+          "text": "운전 조건이 위험합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "정지 표지판과 같은 의미.",
+      "explanation": "깜빡이는 빨간 불은 정지 표지판과 동일한 의미입니다. 깜빡이는 빨간 불을 만나면 완전히 정지하고 적절한 교통과 보행자에게 양보한 후 안전할 때만 진행해야 합니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "2316",
+      "question": "점멸하는 빨간색 신호등에 접근할 때 운전자는 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교차로를 통과하는 차량이 없으면 교차로를 통과하세요."
+        },
+        {
+          "letter": "B",
+          "text": "계속 운전하세요. 당신이 통행권을 가지고 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "경찰관이 근처에 있으면 멈추세요."
+        },
+        {
+          "letter": "D",
+          "text": "신호등을 정지 신호처럼 취급하세요."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "신호등을 정지 신호처럼 취급하세요.",
+      "explanation": "점멸하는 빨간색 신호등은 위험한 교차로에서 사용됩니다. 정지 신호처럼 취급하세요."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "450",
+      "question": "화학 검사를 거부하면 어떻게 됩니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "음주 운전으로 유죄를 입증할 증거가 없습니다."
+        },
+        {
+          "letter": "B",
+          "text": "음주 운전으로 체포될 수 없습니다."
+        },
+        {
+          "letter": "C",
+          "text": "면허가 취소됩니다."
+        },
+        {
+          "letter": "D",
+          "text": "이 중 어느 것도 해당 없습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "면허가 취소됩니다.",
+      "explanation": "뉴욕 주는 암시적 동의 법(Implied Consent Law)을 시행하고 있으며, 이는 주에서 운전함으로써 음주 또는 약물 관련 위반으로 체포될 경우 화학 검사에 동의했다는 의미입니다. 검사를 거부하면 면허가 정지됩니다. 그 후 DMV 청문회에서 검사 거부가 확인되면, 원래 혐의로 무죄 판정을 받더라도 운전 면허가 취소됩니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9",
+      "question": "도시 도로에서 운전 중이고 뒤에서 깜박이는 불이 있는 응급 차량을 봅니다. 무엇을 해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로의 오른쪽 가장자리로 운전하여 속도를 줄입니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로의 오른쪽 가장자리로 운전하여 정지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "차선에 머물러 속도를 줄이고 통과하도록 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "도로의 오른쪽 가장자리로 운전하여 정지합니다.",
+      "explanation": "사이렌과 불이 켜진 모든 응급 차량에 우선 통행권을 양보해야 합니다. 도로의 오른쪽 가장자리로 운전하여 응급 차량이 지나갈 때까지 정지하십시오. 교차로 내에 있는 경우 먼저 교차로를 통과한 다음 정지하십시오."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "413",
+      "question": "당신이 다음의 경우에 통행권을 가집니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교통 원형 교차로에 진입할 때입니다."
+        },
+        {
+          "letter": "B",
+          "text": "진입로에서 후진할 때입니다."
+        },
+        {
+          "letter": "C",
+          "text": "주차 공간을 떠날 때입니다."
+        },
+        {
+          "letter": "D",
+          "text": "이미 교통 원형 교차로 안에 있을 때입니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "이미 교통 원형 교차로 안에 있을 때입니다.",
+      "explanation": "교통 원형 교차로 또는 회전 교차로에 진입하는 운전자는 이미 원형 교차로 안에 있는 운전자에게 통행권을 양보해야 합니다. 진입로에서 도로로 진입하는 차량은 보행자와 이미 도로에 있는 차량에 통행권을 양보해야 합니다. 주차 공간을 떠날 때는 맞은편 교통에 양보해야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "467",
+      "question": "자전거 운전자는 자동차 운전자와 달리 다음을 요구받지 않습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "동일한 교통 법규를 준수합니다."
+        },
+        {
+          "letter": "B",
+          "text": "모든 회전을 신호합니다."
+        },
+        {
+          "letter": "C",
+          "text": "중상으로 인한 사고를 보고합니다."
+        },
+        {
+          "letter": "D",
+          "text": "자전거를 보험에 가입합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "자전거를 보험에 가입합니다.",
+      "explanation": "자전거 운전자는 자동차 운전자와 동일한 도로 규칙을 따라야 합니다. 사망 또는 중상을 야기한 자전거 사고는 사건 발생 후 10일 이내에 DMV에 보고되어야 합니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1509",
+      "question": "수막현상을 피하는 가장 좋은 방법은 다음과 같습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "타이어를 적절히 유지보수하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "도로가 젖거나 진흙질일 때 속도를 줄이십시오."
+        },
+        {
+          "letter": "C",
+          "text": "고인 물이나 웅덩이를 조심하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "위의 모든 것.",
+      "explanation": "도로가 젖어 있을 때 자동차는 더 긴 거리에서 멈추고 빠른 회전에서 미끄러질 수 있습니다. 습하거나 얼음이 있는 조건에서 운전할 때 크루즈 컨트롤을 사용하지 마십시오. 속도를 줄이고 주의해서 운전하십시오."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "776",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/stop_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "정지 표지판 앞"
+        },
+        {
+          "letter": "B",
+          "text": "측도"
+        },
+        {
+          "letter": "C",
+          "text": "철도 경고"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "정지 표지판 앞",
+      "explanation": "이 표지판은 앞에 정지 표지판이 있음을 나타냅니다"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "440",
+      "question": "최소 속도 표지판은 다음을 위해 설계되었습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교통 흐름을 원활하게 유지합니다."
+        },
+        {
+          "letter": "B",
+          "text": "현재 지역 도로 상황을 표시합니다."
+        },
+        {
+          "letter": "C",
+          "text": "향후 신호등 필요성을 테스트합니다."
+        },
+        {
+          "letter": "D",
+          "text": "보행자 안전을 보장합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "교통 흐름을 원활하게 유지합니다.",
+      "explanation": "원활한 교통 흐름을 유지하기 위해 일부 고속도로에는 최소 속도 제한이 있습니다. 최소 속도 제한보다 더 느리게 운전하면 교통 흐름을 중단시키고 위험한 상황을 만들 수 있습니다. 최소 속도 제한이 표시되지 않은 경우에도 너무 천천히 운전하는 것은 위험할 수 있으며 적발될 수 있습니다."
+    }
+  ]
+}

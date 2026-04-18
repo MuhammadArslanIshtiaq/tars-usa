@@ -1,0 +1,317 @@
+{
+  "state": "Michigan",
+  "category": "car",
+  "quizName": "Railroad Crossing Signs",
+  "slug": "railroad-crossing-signs",
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/railroad-crossing-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "معبر سكة حديد قادم."
+        },
+        {
+          "letter": "B",
+          "text": "تقاطع طريق قادم."
+        },
+        {
+          "letter": "C",
+          "text": "مسار دراجات هوائية يعبر الطريق قدماً."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "معبر سكة حديد قادم.",
+      "explanation": "تحذرك هذه العلامة الدائرية الصفراء من أن معبر سكة حديد قادم. اخفض السرعة وكن مستعدًا للتوقف إذا كانت هناك قطار قادمة."
+    },
+    {
+      "questionNumber": 2,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/railroad-crossbuck.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "أنت في معبر سكة حديد."
+        },
+        {
+          "letter": "B",
+          "text": "أنت في تقاطع إيقاف رباعي الاتجاهات."
+        },
+        {
+          "letter": "C",
+          "text": "محطة تبديل على الطريق السريع قادمة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "أنت في معبر سكة حديد.",
+      "explanation": "تحدد علامة X البيضاء على شكل حرف X الموقع الدقيق لمعبر سكة حديد. يجب عليك الاستسلام لأي قطارات في هذه النقطة."
+    },
+    {
+      "questionNumber": 3,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/parallel-railroad-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "سكة حديد تسير بجانب الطريق قدماً."
+        },
+        {
+          "letter": "B",
+          "text": "الطريق تندمج مع الطريق السريع."
+        },
+        {
+          "letter": "C",
+          "text": "حارة دراجات هوائية تسير بجانب الطريق."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "سكة حديد تسير بجانب الطريق قدماً.",
+      "explanation": "تحذرك هذه العلامة من أن الطريق التي تسير عليها تسير بجانب مسار سكة حديد. راقب القطارات التي قد تتحرك بجانبك."
+    },
+    {
+      "questionNumber": 4,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/do-not-drive-on-tracks.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "لا تقود على مسارات السكة الحديد."
+        },
+        {
+          "letter": "B",
+          "text": "لا يُسمح بالوقوف في هذه المنطقة."
+        },
+        {
+          "letter": "C",
+          "text": "لا تعبر الخطوط المرسومة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "لا تقود على مسارات السكة الحديد.",
+      "explanation": "تخبر هذه العلامة السائقين بعدم القيادة على مسارات السكة الحديد أو بجانبها. القيادة على المسارات خطيرة وغير قانونية."
+    },
+    {
+      "questionNumber": 5,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/do-not-pass-stopped-trains.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "لا تتجاوز قطار متوقفة."
+        },
+        {
+          "letter": "B",
+          "text": "لا توقف سيارتك على المسارات."
+        },
+        {
+          "letter": "C",
+          "text": "لا يُسمح بالتجاوز في هذه المنطقة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "لا تتجاوز قطار متوقفة.",
+      "explanation": "تحذرك هذه العلامة من عدم محاولة تجاوز قطار متوقفة. قد تبدأ القطار في التحرك، أو قد تكون هناك قطار أخرى قادمة على مسار قريب."
+    },
+    {
+      "questionNumber": 6,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/highway-rail-crossing-on-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "معبر سكة حديد موجود على الطريق إلى اليمين."
+        },
+        {
+          "letter": "B",
+          "text": "انعطف يميناً في التقاطع التالي."
+        },
+        {
+          "letter": "C",
+          "text": "منطقة راحة إلى اليمين."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "معبر سكة حديد موجود على الطريق إلى اليمين.",
+      "explanation": "تحذرك هذه العلامة من أنك إذا انعطفت يميناً، ستصل إلى معبر سكة حديد. كن مستعداً للتوقف للقطارات بعد الانعطاف."
+    },
+    {
+      "questionNumber": 7,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/light-rail-only-lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "هذه الحارة مخصصة لمركبات النقل السريع الخفيفة فقط."
+        },
+        {
+          "letter": "B",
+          "text": "حارة حافلات فقط قادمة."
+        },
+        {
+          "letter": "C",
+          "text": "هذه الحارة مخصصة للدراجات الهوائية فقط."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "هذه الحارة مخصصة لمركبات النقل السريع الخفيفة فقط.",
+      "explanation": "تحدد هذه العلامة حارة محجوزة لمركبات النقل السريع الخفيفة فقط. يجب على المركبات العادية عدم استخدام هذه الحارة."
+    },
+    {
+      "questionNumber": 8,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/light-rail-transit-station-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "محطة نقل سريع خفيفة قادمة."
+        },
+        {
+          "letter": "B",
+          "text": "محطة حافلات قادمة."
+        },
+        {
+          "letter": "C",
+          "text": "موقف سيارات مغطى قادم."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "محطة نقل سريع خفيفة قادمة.",
+      "explanation": "تخبرك هذه العلامة أن محطة نقل سريع خفيفة قادمة قريباً. راقب المشاة ومركبات النقل في المنطقة."
+    },
+    {
+      "questionNumber": 9,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/light-rail-vehicle-approaching.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "قد تكون مركبة نقل سريع خفيفة قادمة."
+        },
+        {
+          "letter": "B",
+          "text": "قطار شحن قادمة."
+        },
+        {
+          "letter": "C",
+          "text": "حافلة على وشك التوقف."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "قد تكون مركبة نقل سريع خفيفة قادمة.",
+      "explanation": "تحذرك هذه العلامة لتنتبه لمركبات النقل السريع الخفيفة التي قد تكون قادمة. كن يقظاً ومستعداً للتوقف."
+    },
+    {
+      "questionNumber": 10,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/low-ground-clearance-on-track.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "خلوص أرضي منخفض في معبر السكة الحديد قدماً."
+        },
+        {
+          "letter": "B",
+          "text": "مطب سرعة قادم."
+        },
+        {
+          "letter": "C",
+          "text": "سطح الطريق غير متساوٍ."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "خلوص أرضي منخفض في معبر السكة الحديد قدماً.",
+      "explanation": "تحذرك هذه العلامة من أن معبر السكة الحديد قادماً له ارتفاع حاد. قد تعلق المركبات ذات الخلوص الأرضي المنخفض على المسارات."
+    },
+    {
+      "questionNumber": 11,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/no-left-turn-across-tracks.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "لا انعطاف يساراً عبر مسارات السكة الحديد."
+        },
+        {
+          "letter": "B",
+          "text": "لا انعطاف يساراً في التقاطع التالي."
+        },
+        {
+          "letter": "C",
+          "text": "حارة اليسار تنتهي قدماً."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "لا انعطاف يساراً عبر مسارات السكة الحديد.",
+      "explanation": "تخبر هذه العلامة السائقين بأنهم لا يستطيعون الانعطاف يساراً عبر مسارات السكة الحديد. يجب عليك إيجاد طريق آخر."
+    },
+    {
+      "questionNumber": 12,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/no-signal-at-tracks.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "لا توجد إشارة أو بوابة في معبر السكة الحديد هذا."
+        },
+        {
+          "letter": "B",
+          "text": "إشارة المرور قادمة لا تعمل."
+        },
+        {
+          "letter": "C",
+          "text": "لا يُسمح باستخدام الهاتف المحمول في هذه المنطقة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "لا توجد إشارة أو بوابة في معبر السكة الحديد هذا.",
+      "explanation": "تحذرك هذه العلامة من أن معبر السكة الحديد قادماً لا يوجد به إشارة أو أضواء أو بوابة. يجب عليك البحث والاستماع بعناية للقطارات قبل العبور."
+    },
+    {
+      "questionNumber": 13,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/no-train-horn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "القطارات لا تصدر صفيرها عند هذا المعبر."
+        },
+        {
+          "letter": "B",
+          "text": "لا يُسمح بالبوق في هذه المنطقة."
+        },
+        {
+          "letter": "C",
+          "text": "أصدر صفيرك قبل عبور المسارات."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "القطارات لا تصدر صفيرها عند هذا المعبر.",
+      "explanation": "تخبرك هذه العلامة بأن القطارات قد لا تصفر عند هذا المعبر. تحتاج إلى أن تكون حذراً جداً وتنظر للجانبين قبل العبور."
+    },
+    {
+      "questionNumber": 14,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/railroad-crossing-signs/xx-feet-between-tracks-and-highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "تُظهر المسافة بين مسارات السكة الحديدية وطريق سريع قريب."
+        },
+        {
+          "letter": "B",
+          "text": "تُظهر حد السرعة بالقرب من المسارات."
+        },
+        {
+          "letter": "C",
+          "text": "تُظهر كم عدد مسارات القطار التي يجب عليك عبورها."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "تُظهر المسافة بين مسارات السكة الحديدية وطريق سريع قريب.",
+      "explanation": "تخبرك هذه اللافتة السائقين بالمسافة بالأقدام بين مسارات السكة الحديدية وتقاطع طريق سريع قريب. وهذا يساعد السائقين على التخطيط للتوقف."
+    }
+  ]
+}

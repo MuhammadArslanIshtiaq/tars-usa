@@ -1,0 +1,560 @@
+{
+  "state": "Louisiana",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/louisiana/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9463",
+      "question": "What happens if you do not drain air tanks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water can freeze and cause brake failure."
+        },
+        {
+          "letter": "B",
+          "text": "Brakes become soft and squishy."
+        },
+        {
+          "letter": "C",
+          "text": "Too much air builds up in the tanks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Water can freeze and cause brake failure.",
+      "explanation": "Air brake tanks must be drained regularly to remove water and oil. If water stays in the tanks, it can freeze in cold weather and stop the brakes from working."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11906",
+      "question": "You are driving at 55 mph on dry pavement and brake hard. How much extra distance does brake lag add to your stopping distance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "45 feet"
+        },
+        {
+          "letter": "C",
+          "text": "20 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "Stopping distance has four parts: perception, reaction, brake lag, and braking. At 55 mph on dry pavement, brake lag adds about 32 feet to your total stopping distance."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11889",
+      "question": "During a static leakage test, air brake leakage should not exceed ____ in one minute.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 psi"
+        },
+        {
+          "letter": "B",
+          "text": "2 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2 psi",
+      "explanation": "In a static leakage test, air should leak no more than 2 psi per minute. If it leaks faster, the vehicle needs repair and should not be driven."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "10027",
+      "question": "When is an alcohol evaporator most important?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In cold weather."
+        },
+        {
+          "letter": "B",
+          "text": "In hot weather."
+        },
+        {
+          "letter": "C",
+          "text": "In dry weather."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "In cold weather.",
+      "explanation": "An alcohol evaporator adds alcohol to the brake system. This stops ice from forming in cold weather."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11882",
+      "question": "When an S-cam turns inside a brake drum, what does it do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It pushes the brake shoes against the inside of the brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "It pushes the brake shoes against the brake linings."
+        },
+        {
+          "letter": "C",
+          "text": "It pushes the brake linings against the wheel axles."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "It pushes the brake shoes against the inside of the brake drum.",
+      "explanation": "When you press the brake pedal, the S-cam turns and pushes the brake shoes against the inside of the brake drum. This friction slows the vehicle."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9298",
+      "question": "What should you do with the parking brake when leaving your vehicle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always use the parking brake."
+        },
+        {
+          "letter": "B",
+          "text": "Use it only if parked on a slope."
+        },
+        {
+          "letter": "C",
+          "text": "Do not use it because it damages the tires."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Always use the parking brake.",
+      "explanation": "Always use the parking brake when you park. Do not use it if your brakes are very hot or wet with freezing temperatures."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8627",
+      "question": "What happens if air pressure gets too low in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The brakes may squeak."
+        },
+        {
+          "letter": "B",
+          "text": "The brakes may stop working."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes may slow down."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The brakes may stop working.",
+      "explanation": "If you pump the brake pedal too much, air leaves the system faster than the compressor can replace it. The brakes may stop working if pressure drops too low."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8758",
+      "question": "What happens if brakes get too hot?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The brakes may stop working."
+        },
+        {
+          "letter": "B",
+          "text": "The brakes may squeak more."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes will brake unevenly."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The brakes may stop working.",
+      "explanation": "Brakes can handle a lot of heat, but too much heat causes brake fade. This means brakes lose power to slow the vehicle. Use engine braking to help slow down and protect your brakes."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11325",
+      "question": "What should a driver do when leaving a vehicle unattended?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always set the parking brake."
+        },
+        {
+          "letter": "B",
+          "text": "Set the parking brake only if parked on a slope."
+        },
+        {
+          "letter": "C",
+          "text": "Let air out of the tires by 10 percent."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Always set the parking brake.",
+      "explanation": "Always apply the parking brake when you leave your vehicle unattended."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9297",
+      "question": "What color light shows that ABS is not working?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green"
+        },
+        {
+          "letter": "B",
+          "text": "Blue"
+        },
+        {
+          "letter": "C",
+          "text": "Yellow"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Yellow",
+      "explanation": "A yellow light on the dashboard alerts you that the Anti-Lock Braking System (ABS) is not working."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10030",
+      "question": "How many axles must have ABS for it to work on a vehicle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All axles"
+        },
+        {
+          "letter": "B",
+          "text": "The rear axle only"
+        },
+        {
+          "letter": "C",
+          "text": "As few as one axle"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "As few as one axle",
+      "explanation": "ABS on even one axle gives you better braking control than having no ABS at all."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10079",
+      "question": "What should air tank drains be used for?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only mechanics should use them"
+        },
+        {
+          "letter": "B",
+          "text": "Only use them when it is wet outside"
+        },
+        {
+          "letter": "C",
+          "text": "Drain the tanks completely"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Drain the tanks completely",
+      "explanation": "Air tank drains remove water and oil from the tanks. Always drain the tanks completely when using the drain."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8770",
+      "question": "When using spring brakes with a heavy load, how long will it take to stop?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It will be impossible to stop"
+        },
+        {
+          "letter": "B",
+          "text": "It will take a long time"
+        },
+        {
+          "letter": "C",
+          "text": "It will take a short time"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "It will take a long time",
+      "explanation": "Spring brakes do not work on all axles. When they activate, your vehicle needs more distance to stop, especially with a heavy load."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8771",
+      "question": "When should you not use the parking brake?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When the brakes are very hot"
+        },
+        {
+          "letter": "B",
+          "text": "When the brakes are very cold"
+        },
+        {
+          "letter": "C",
+          "text": "When there is snow on the ground"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When the brakes are very hot",
+      "explanation": "Do not use the parking brake if your brakes are hot. Let them cool first to avoid damage."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8759",
+      "question": "What does an application pressure gauge show?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How much air pressure is being applied to the brakes"
+        },
+        {
+          "letter": "B",
+          "text": "How much air pressure is available"
+        },
+        {
+          "letter": "C",
+          "text": "How much air pressure is needed to stop the vehicle"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "How much air pressure is being applied to the brakes",
+      "explanation": "This gauge shows the air pressure being applied to the brakes. It helps you know if your brakes are fading."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8764",
+      "question": "What should you never do when spring brakes are on?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn on the lights"
+        },
+        {
+          "letter": "B",
+          "text": "Turn off the vehicle"
+        },
+        {
+          "letter": "C",
+          "text": "Push down the brake pedal"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Push down the brake pedal",
+      "explanation": "Never push the brake pedal when spring brakes are on. The combined force could damage the brakes."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11895",
+      "question": "What is the largest crack allowed in a brake drum?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One half the width of the friction area"
+        },
+        {
+          "letter": "B",
+          "text": "One third the width of the friction area"
+        },
+        {
+          "letter": "C",
+          "text": "One fifth the width of the friction area"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "One half the width of the friction area",
+      "explanation": "Check your brake drums before each trip. Do not drive if any drum has a crack larger than one half the width of the friction area."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11925",
+      "question": "When should the low air pressure warning activate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When pressure falls below 120 psi"
+        },
+        {
+          "letter": "B",
+          "text": "When pressure falls below 60 psi"
+        },
+        {
+          "letter": "C",
+          "text": "When pressure falls below 10 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When pressure falls below 60 psi",
+      "explanation": "The low air pressure warning must activate when tank pressure drops below 60 psi. The warning may be a light, buzzer, or wig wag."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11903",
+      "question": "What does the air compressor governor do at 125 psi?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop the compressor from pumping air"
+        },
+        {
+          "letter": "B",
+          "text": "Release air from the tanks"
+        },
+        {
+          "letter": "C",
+          "text": "Begin pumping air into the tanks"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stop the compressor from pumping air",
+      "explanation": "At around 125 psi, the governor stops the compressor. This pressure level is called the \"cut-out\" level."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11531",
+      "question": "What shows how much air pressure is in your air tanks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The supply pressure gauge"
+        },
+        {
+          "letter": "B",
+          "text": "The ABS malfunction lamp"
+        },
+        {
+          "letter": "C",
+          "text": "The tractor protection valve"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The supply pressure gauge",
+      "explanation": "The supply pressure gauge tells you how much air pressure is in each of your air tanks."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8635",
+      "question": "When operating a vehicle with a dual air brake system, the driver should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Let the vehicle warm up before driving to ensure fuel reaches the engine."
+        },
+        {
+          "letter": "B",
+          "text": "Let the air compressor build up at least 100 psi pressure in both the primary and secondary systems before driving."
+        },
+        {
+          "letter": "C",
+          "text": "Begin driving right after the vehicle starts."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Let the air compressor build up at least 100 psi pressure in both the primary and secondary systems before driving.",
+      "explanation": "Before driving a vehicle with a dual air brake system, wait for the air compressor to build at least 100 psi pressure in both the primary and secondary systems. Watch the air pressure gauges to check the pressure levels."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11879",
+      "question": "The rods in S-cam brakes move the slack adjusters when air pressure enters the brake chambers. The driver adds this air pressure by:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pressing the brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Using the emergency brake."
+        },
+        {
+          "letter": "C",
+          "text": "Using the trailer hand valve."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pressing the brake pedal.",
+      "explanation": "When you press the brake pedal in a vehicle with S-cam brakes, air enters the brake chambers. This air pressure pushes out the rods and moves the slack adjusters, which twist the brake camshafts."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8624",
+      "question": "What does an air compressor do in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It pumps air into the air storage tanks."
+        },
+        {
+          "letter": "B",
+          "text": "It fills the tires."
+        },
+        {
+          "letter": "C",
+          "text": "It moves air to the back of the truck."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "It pumps air into the air storage tanks.",
+      "explanation": "In an air brake system, the air compressor pumps air into the air storage tanks. The air compressor governor controls the air compressor."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11894",
+      "question": "A ____ allows a driver to gradually apply spring brakes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modulating control valve"
+        },
+        {
+          "letter": "B",
+          "text": "Trailer air supply control"
+        },
+        {
+          "letter": "C",
+          "text": "Relay valve"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Modulating control valve",
+      "explanation": "A modulating control valve allows a driver to gradually apply spring brakes. In equipped vehicles, a lever on the dashboard controls the valve."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11883",
+      "question": "During an inspection, slack adjusters on S-cam brakes should not move more than:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One foot."
+        },
+        {
+          "letter": "B",
+          "text": "One centimeter."
+        },
+        {
+          "letter": "C",
+          "text": "One inch."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "One inch.",
+      "explanation": "To check slack adjusters, park on level ground, set wheel chocks, and disengage the parking brake. Pull each slack adjuster to make sure it does not move more than about one inch from where the push rod attaches. If it moves more than one inch, it needs adjustment."
+    }
+  ]
+}

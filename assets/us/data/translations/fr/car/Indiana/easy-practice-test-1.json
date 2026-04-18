@@ -1,0 +1,800 @@
+{
+  "state": "Indiana",
+  "category": "car",
+  "quizName": "Easy Practice Test #1",
+  "slug": "easy-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "239",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/pennsylvania-divided_highway1.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une autoroute divisée se termine."
+        },
+        {
+          "letter": "B",
+          "text": "Une rue à sens unique commence."
+        },
+        {
+          "letter": "C",
+          "text": "Une rue à sens unique se termine."
+        },
+        {
+          "letter": "D",
+          "text": "Une autoroute divisée commence."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Une autoroute divisée commence.",
+      "explanation": "Ce panneau indique que la route à l'avant devient une autoroute divisée. Restez à droite du séparateur ou du terre-plein."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "398",
+      "question": "Que signifie un feu de circulation jaune clignotant?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trafic de fusion"
+        },
+        {
+          "letter": "B",
+          "text": "Continuez avec prudence."
+        },
+        {
+          "letter": "C",
+          "text": "Passage pour piétons"
+        },
+        {
+          "letter": "D",
+          "text": "Arrêtez-vous complètement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Continuez avec prudence.",
+      "explanation": "Un feu de circulation jaune clignotant indique que vous devriez conduire avec prudence."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1187",
+      "question": "Pneus usés ou lisses :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peuvent rendre les virages plus difficiles."
+        },
+        {
+          "letter": "B",
+          "text": "Sont susceptibles d'aquaplaner."
+        },
+        {
+          "letter": "C",
+          "text": "Peuvent augmenter votre distance d'arrêt."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Les pneus usés ou lisses peuvent augmenter votre distance d'arrêt et rendre les virages plus difficiles. Les pneus sans bande de roulement adéquate augmentent également le risque d'aquaplanage."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "2292",
+      "question": "Si vous conduisez sur l'autoroute et dépassez votre sortie, vous devriez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traversez rapidement le trafic pour faire votre virage."
+        },
+        {
+          "letter": "B",
+          "text": "Faites un demi-tour pour retourner à la sortie."
+        },
+        {
+          "letter": "C",
+          "text": "Continuez à conduire et utilisez la prochaine sortie."
+        },
+        {
+          "letter": "D",
+          "text": "Mettez votre véhicule en marche arrière pour retourner à la sortie."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Continuez à conduire et utilisez la prochaine sortie.",
+      "explanation": "Ne faites pas un dernier virage brusque vers une sortie. Si vous dépassez votre sortie, vous devez aller à la suivante."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "961",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/indiana-reserved_parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stationnement réservé."
+        },
+        {
+          "letter": "B",
+          "text": "Bas-côté faible."
+        },
+        {
+          "letter": "C",
+          "text": "Glissant quand mouillé."
+        },
+        {
+          "letter": "D",
+          "text": "Route sinueuse."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stationnement réservé.",
+      "explanation": "Les panneaux de signalisation réglementent la vitesse et les mouvements du trafic, affichant des règles que les conducteurs doivent respecter. Ce panneau de signalisation est affiché dans les parkings, désignant des places de stationnement réservées aux véhicules portant un autocollant, une étiquette ou une plaque d'immatriculation pour handicapés."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "245",
+      "question": "Un feu vert constant à une intersection signifie que vous:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devez ralentir et vous préparer à arrêter."
+        },
+        {
+          "letter": "B",
+          "text": "Devez arrêter et vérifier le trafic en approche avant de procéder."
+        },
+        {
+          "letter": "C",
+          "text": "Pouvez traverser l'intersection si la route est dégagée."
+        },
+        {
+          "letter": "D",
+          "text": "Ne pouvez pas tourner à droite."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pouvez traverser l'intersection si la route est dégagée.",
+      "explanation": "Un feu vert constant signifie que vous pouvez traverser l'intersection si la route est dégagée. Vous pouvez également tourner à droite ou à gauche à un feu vert constant, sauf si un panneau interdit le virage. Lorsque vous tournez, vous devez céder le passage aux autres véhicules et aux piétons dans l'intersection."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1736",
+      "question": "Vous conduisez en montée et approchez un camion lourd par l'arrière. Vous devez savoir que :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le camion peut circuler à une vitesse inférieure à la limite de vitesse affichée."
+        },
+        {
+          "letter": "B",
+          "text": "Vous ne pourrez peut-être pas dépasser le camion en toute sécurité."
+        },
+        {
+          "letter": "C",
+          "text": "Vous ne pourrez peut-être pas dépasser le camion légalement."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Les conducteurs doivent être conscients que les gros véhicules circulent souvent à une vitesse inférieure à la limite de vitesse affichée, en particulier lorsqu'ils roulent en pente, et doivent être prudents lorsqu'ils approchent un gros véhicule par l'arrière. Lorsque vous êtes dans une côte avec une visibilité limitée, il est illégal de dépasser un autre véhicule."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "244",
+      "question": "Vous devez vous arrêter à une intersection lorsque vous voyez un:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feu rouge clignotant."
+        },
+        {
+          "letter": "B",
+          "text": "Feu jaune fixe."
+        },
+        {
+          "letter": "C",
+          "text": "Flèche jaune."
+        },
+        {
+          "letter": "D",
+          "text": "Feu jaune clignotant."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Feu rouge clignotant.",
+      "explanation": "Un feu de circulation rouge clignotant a la même signification qu'un panneau d'arrêt. À une intersection avec un feu rouge clignotant, vous devez vous arrêter complètement, regarder des deux côtés et procéder uniquement après que l'intersection soit dégagée."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "932",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/indiana-flagger_ahead(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Signaleur à l'avant."
+        },
+        {
+          "letter": "B",
+          "text": "Ne bloquez pas l'intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Route secondaire."
+        },
+        {
+          "letter": "D",
+          "text": "Voie de droite fermée."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Signaleur à l'avant.",
+      "explanation": "Les zones de construction posent des dangers à la fois pour les conducteurs et les ouvriers de la construction. Les panneaux orange de construction routière avertissent les conducteurs d'être prudents lorsqu'ils rencontrent des zones de construction. Ce panneau indique aux conducteurs qu'un signaleur est à proximité et donnera des directions qui doivent être suivies."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "463",
+      "question": "Si vous buvez de l'alcool socialement, qu'est-ce qui aide à assurer une conduite sécuritaire?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buvez du café avant de conduire."
+        },
+        {
+          "letter": "B",
+          "text": "Rentrez à la maison avec un ami qui n'a pas bu."
+        },
+        {
+          "letter": "C",
+          "text": "Prenez une douche froide avant de conduire."
+        },
+        {
+          "letter": "D",
+          "text": "Arrêtez de boire une demi-heure avant de conduire."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Rentrez à la maison avec un ami qui n'a pas bu.",
+      "explanation": "Une stratégie pour éviter de conduire en état d'ébriété ou intoxiqué est d'organiser un trajet à la maison avec un ami qui ne boit pas. Boire du café ou prendre une douche froide ne peut pas réduire votre taux d'alcool sanguin ou réduire les effets de l'alcool. En moyenne, il faut environ une heure au corps pour éliminer l'alcool d'un seul verre."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "964",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/indiana-sharp_turn_slow_down.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Virage serré à proximité, ralentissez."
+        },
+        {
+          "letter": "B",
+          "text": "Équipe de travail à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Route secondaire."
+        },
+        {
+          "letter": "D",
+          "text": "Terrain de jeu à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Virage serré à proximité, ralentissez.",
+      "explanation": "Les panneaux d'avertissement préparent les conducteurs aux conditions routières et aux dangers imminents et sont généralement jaunes avec des marques noires. Ce panneau avertit les conducteurs qu'il y a un virage serré à proximité et qu'ils doivent réduire leur vitesse en conséquence."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1721",
+      "question": "Vous conduisez lorsqu'il commence à pleuvoir. Vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduire plus vite que le trafic environnant."
+        },
+        {
+          "letter": "B",
+          "text": "Conduisez à la limite de vitesse maximale affichée."
+        },
+        {
+          "letter": "C",
+          "text": "Ralentir."
+        },
+        {
+          "letter": "D",
+          "text": "Conduisez très près du véhicule devant vous."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ralentir.",
+      "explanation": "Lorsque la pluie abondante réduit la visibilité, réduisez votre vitesse. Allumez vos phares pour que les autres conducteurs puissent voir votre véhicule. Si la pluie est tellement abondante que vous ne pouvez pas voir clairement, conduisez sur l'accotement et arrêtez-vous jusqu'à ce que la pluie diminue."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "308",
+      "question": "Si un autre conducteur vous coupe la route dans le trafic, vous devez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Placez-vous à côté du conducteur et criez-lui dessus."
+        },
+        {
+          "letter": "B",
+          "text": "Laissez tomber."
+        },
+        {
+          "letter": "C",
+          "text": "Faites clignoter vos feux de route au conducteur."
+        },
+        {
+          "letter": "D",
+          "text": "Vengez-vous sur l'autre conducteur en le coupant à votre tour."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Laissez tomber.",
+      "explanation": "Pour éviter les dangers de la rage au volant, vous ne devez jamais le prendre personnellement si un autre conducteur vous coupe la route dans le trafic. Laissez simplement tomber et continuez à conduire en toute sécurité."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1591",
+      "question": "Les conducteurs qui ont consommé de l'alcool avant de se mettre au volant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont toujours conscients des risques qu'ils prennent."
+        },
+        {
+          "letter": "B",
+          "text": "N'ont pas un contrôle suffisant sur leurs corps et leurs esprits ou sur les véhicules qu'ils conduisent."
+        },
+        {
+          "letter": "C",
+          "text": "Sont de meilleurs conducteurs parce qu'ils sont plus prudents que les conducteurs sobres."
+        },
+        {
+          "letter": "D",
+          "text": "Ont des temps de réaction plus rapides."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "N'ont pas un contrôle suffisant sur leurs corps et leurs esprits ou sur les véhicules qu'ils conduisent.",
+      "explanation": "L'alcool est un dépresseur qui affecte négativement le jugement, la vision, la concentration, la compréhension de la réalité et le temps de réaction. Il n'est jamais sûr de consommer de l'alcool en aucune quantité avant de se mettre au volant d'une voiture."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "971",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/indiana-tow_away_zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zone d'enlèvement."
+        },
+        {
+          "letter": "B",
+          "text": "Travaux routiers à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Virages multiples."
+        },
+        {
+          "letter": "D",
+          "text": "Voie de droite fermée."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Zone d'enlèvement.",
+      "explanation": "Ce panneau avertit les conducteurs que s'ils se garent dans la zone indiquée, leur véhicule risque d'être remorqué."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "230",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une courbe à gauche est imminente."
+        },
+        {
+          "letter": "B",
+          "text": "Une série de courbes est imminente."
+        },
+        {
+          "letter": "C",
+          "text": "Une courbe en S est imminente."
+        },
+        {
+          "letter": "D",
+          "text": "La route sera glissante quand elle est mouillée."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "La route sera glissante quand elle est mouillée.",
+      "explanation": "Ce panneau avertit que des conditions particulièrement glissantes existent lorsque la route est mouillée."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "297",
+      "question": "Vous devez klaxonner lorsque vous:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traversez une intersection."
+        },
+        {
+          "letter": "B",
+          "text": "Vous dépassez un cycliste."
+        },
+        {
+          "letter": "C",
+          "text": "Voyez un enfant qui est sur le point de courir dans la rue."
+        },
+        {
+          "letter": "D",
+          "text": "Vous vous garez en parallèle."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Voyez un enfant qui est sur le point de courir dans la rue.",
+      "explanation": "Votre klaxon doit être utilisé comme avertissement dans les situations où vous pensez qu'un autre conducteur ou un piéton ne vous voit pas. Par exemple, si un enfant commence à courir dans la rue devant votre véhicule, vous devez actionner votre klaxon."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "973",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/indiana-turn_left_or_go_through.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tournez à gauche ou continuez tout droit."
+        },
+        {
+          "letter": "B",
+          "text": "Stationnement interdit à tout moment."
+        },
+        {
+          "letter": "C",
+          "text": "Détour dans 1 000 feet."
+        },
+        {
+          "letter": "D",
+          "text": "Arrêt."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tournez à gauche ou continuez tout droit.",
+      "explanation": "Les panneaux de réglementation régulent la vitesse et le mouvement du trafic, affichant les règles que les conducteurs doivent respecter. Ce panneau de réglementation indique aux conducteurs qu'ils peuvent soit tourner à gauche, soit continuer tout droit à une intersection à partir de la voie indiquée."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "933",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/flagger_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Signaleur à l'avant."
+        },
+        {
+          "letter": "B",
+          "text": "Déviation."
+        },
+        {
+          "letter": "C",
+          "text": "Sens unique."
+        },
+        {
+          "letter": "D",
+          "text": "Pas de stationnement."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Signaleur à l'avant.",
+      "explanation": "Les zones de construction posent des dangers à la fois pour les conducteurs et les ouvriers de la construction. Les panneaux orange de construction routière avertissent les conducteurs d'être prudents lorsqu'ils rencontrent des zones de construction. Ce panneau indique aux conducteurs qu'un signaleur est à proximité et donnera des directions qui doivent être suivies."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "968",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Route secondaire."
+        },
+        {
+          "letter": "C",
+          "text": "Voie à double sens de virage à gauche."
+        },
+        {
+          "letter": "D",
+          "text": "Machinerie agricole."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Arrêt.",
+      "explanation": "Les panneaux de circulation octogonaux avertissent les conducteurs qu'ils doivent s'arrêter et céder le passage approprié à une intersection. Les conducteurs peuvent procéder lorsqu'il est sûr de le faire."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "588",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/colorado-hov_lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La voie de gauche est réservée aux véhicules ayant un nombre spécifique d'occupants."
+        },
+        {
+          "letter": "B",
+          "text": "Des mouvements de virage spécifiques sont autorisés à partir de voies spécifiques."
+        },
+        {
+          "letter": "C",
+          "text": "Interdiction d'entrer."
+        },
+        {
+          "letter": "D",
+          "text": "Les conducteurs dans les deux voies sont responsables de fusionner en douceur."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La voie de gauche est réservée aux véhicules ayant un nombre spécifique d'occupants.",
+      "explanation": "Ce panneau marque une voie réservée aux véhicules occupés (HOV). Les voies HOV sont réservées à l'usage des autobus et des véhicules avec un conducteur et un ou plusieurs passagers, comme indiqué sur le panneau."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1699",
+      "question": "Signaler vos intentions avant de tourner, de changer de voie ou de vous éloigner d'un trottoir :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est nécessaire uniquement s'il y a d'autre trafic."
+        },
+        {
+          "letter": "B",
+          "text": "Est une bonne habitude de conduite et est requise par la loi."
+        },
+        {
+          "letter": "C",
+          "text": "Est nécessaire uniquement pendant la manœuvre, pas avant."
+        },
+        {
+          "letter": "D",
+          "text": "N'est pas nécessaire si la manœuvre est effectuée lentement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Est une bonne habitude de conduite et est requise par la loi.",
+      "explanation": "Lorsque vous changez de voie ou tournez, signalez vos intentions bien à l'avance. La loi exige que vous signaliez pendant au moins 100 feet avant de déplacer votre véhicule vers la droite ou vers la gauche. Avant de vous éloigner d'un trottoir, signalez toujours pour informer les conducteurs qui passent de vos intentions."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "312",
+      "question": "Prendre des drogues avec de l'alcool :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Augmente le risque de causer un accident."
+        },
+        {
+          "letter": "B",
+          "text": "N'est pas plus dangereux que la consommation d'alcool seul."
+        },
+        {
+          "letter": "C",
+          "text": "Diminue l'effet de l'alcool sur votre capacité à conduire."
+        },
+        {
+          "letter": "D",
+          "text": "N'a aucun effet sur votre capacité de conduite générale."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Augmente le risque de causer un accident.",
+      "explanation": "Les drogues (y compris les drogues illégales, les médicaments sur ordonnance et les médicaments en vente libre) peuvent affecter le fonctionnement de votre cerveau et altérer votre capacité à conduire en toute sécurité. La combinaison de l'alcool avec d'autres drogues augmentera le risque d'accident."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "600",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/t_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tout le trafic doit tourner à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Pas de virage à droite."
+        },
+        {
+          "letter": "C",
+          "text": "Tout le trafic doit aller tout droit."
+        },
+        {
+          "letter": "D",
+          "text": "Une route rejoint depuis la droite."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Une route rejoint depuis la droite.",
+      "explanation": "Ce panneau indique qu'il y a un carrefour à proximité. Une route se joint à partir de la droite."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "2266",
+      "question": "Lorsque vous vous approchez d'un panneau d'avertissement de passage à niveau :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soyez prêt à conduire plus vite que le train."
+        },
+        {
+          "letter": "B",
+          "text": "Soyez prêt à vous arrêter si un train se rapproche."
+        },
+        {
+          "letter": "C",
+          "text": "Cherchez un moyen de contourner les barrières abaissées."
+        },
+        {
+          "letter": "D",
+          "text": "Supposez qu'aucun train ne se trouve à proximité et continuez à conduire normalement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Soyez prêt à vous arrêter si un train se rapproche.",
+      "explanation": "Les panneaux d'avertissement de passage à niveau sont utilisés pour avertir les conducteurs de la possibilité d'un train. Les conducteurs doivent obéir à tous les panneaux d'avertissement de passage à niveau et ne jamais contourner les barrières ou ignorer le panneau d'avertissement."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "2095",
+      "question": "En cas d'accident, un conducteur devrait:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêter son véhicule à ou près du lieu de l'accident."
+        },
+        {
+          "letter": "B",
+          "text": "Ne pas se tenir ou marcher dans les voies de circulation."
+        },
+        {
+          "letter": "C",
+          "text": "Éteindre les moteurs des véhicules accidentés."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Si vous êtes impliqué dans un accident, vous devez vous arrêter à ou près du lieu de l'accident. Dégagez votre véhicule de la circulation, si possible. Ne vous tenez pas ou ne marchez pas dans les voies de circulation car vous pourriez être heurté par un autre véhicule. Éteignez les moteurs des véhicules accidentés."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "222",
+      "question": "Vous devez faire preuve de prudence supplémentaire lorsque vous conduisez près d'un piéton utilisant une canne blanche parce que:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il ou elle est sourd(e)."
+        },
+        {
+          "letter": "B",
+          "text": "Il ou elle est un agent de police."
+        },
+        {
+          "letter": "C",
+          "text": "Il ou elle est aveugle."
+        },
+        {
+          "letter": "D",
+          "text": "Il ou elle a un équilibre faible."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Il ou elle est aveugle.",
+      "explanation": "Lorsque vous conduisez près d'un piéton aveugle qui porte une canne blanche ou qui marche avec un chien-guide, vous devez ralentir, céder le droit de passage, puis procéder avec prudence. Soyez prêt à arrêter votre véhicule afin de prévenir les blessures ou les dangers pour le piéton."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "623",
+      "question": "Les doubles lignes jaunes pleines peintes au milieu de la route signifient :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Passage à niveau à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Traversée de piétons devant."
+        },
+        {
+          "letter": "C",
+          "text": "Le dépassement n'est pas autorisé de chaque direction."
+        },
+        {
+          "letter": "D",
+          "text": "Le dépassement est autorisé dans les deux directions."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Le dépassement n'est pas autorisé de chaque direction.",
+      "explanation": "Les doubles lignes jaunes pleines au centre de la route signifient que le dépassement n'est pas autorisé dans l'une ou l'autre direction. Vous ne pouvez pas franchir les lignes sauf si vous faites un virage à gauche ou si vous dépassez des piétons, des cyclistes et des conducteurs de scooters ou de planches à roulettes lorsque la voie opposée est libre et que vous pouvez passer en toute sécurité."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "1592",
+      "question": "Si un conducteur voit un animal sur la route:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aucune action spéciale n'est requise."
+        },
+        {
+          "letter": "B",
+          "text": "Le conducteur doit actionner son klaxon."
+        },
+        {
+          "letter": "C",
+          "text": "Le conducteur doit dépasser l'animal aussi près que possible."
+        },
+        {
+          "letter": "D",
+          "text": "Le conducteur doit être très prudent."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Le conducteur doit être très prudent.",
+      "explanation": "Soyez très prudent chaque fois que vous rencontrez un animal sur la route. Dépassez l'animal lentement pour éviter de le surprendre ou de le faire peur."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1249",
+      "question": "Signalez toujours quand :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Changer de voie."
+        },
+        {
+          "letter": "B",
+          "text": "Entrer ou sortir d'une place de stationnement."
+        },
+        {
+          "letter": "C",
+          "text": "S'insérer dans le trafic depuis une aire de stationnement ou une ruelle."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Vos clignotants doivent toujours être utilisés lorsque vous faites tout mouvement vers la gauche ou vers la droite. Vous devez utiliser votre signal en vous insérant dans le trafic depuis un stationnement au bord du trottoir, en vous déplaçant dans une nouvelle voie ou en dépassant un autre véhicule."
+    }
+  ]
+}

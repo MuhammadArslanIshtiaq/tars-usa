@@ -1,0 +1,819 @@
+{
+  "state": "Massachusetts",
+  "category": "motorcycle",
+  "quizName": "Signs Practice Test #1",
+  "slug": "signs-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8225",
+      "question": "该标志用于防止：",
+      "image": "/images/signs/new-york-one_way_traffic_do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驶入停满的停车场。"
+        },
+        {
+          "letter": "B",
+          "text": "驶入道路施工区。"
+        },
+        {
+          "letter": "C",
+          "text": "驶入死胡同街道。"
+        },
+        {
+          "letter": "D",
+          "text": "从单向街道和快速公路匝道的错误方向驶入。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "从单向街道和快速公路匝道的错误方向驶入。",
+      "explanation": "该标志警告道路为单向交通，您不得从您当前方向驶入。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8237",
+      "question": "这个标志表示：",
+      "image": "/images/signs/washington-advance_warning_bicycles.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "注意自行车。"
+        },
+        {
+          "letter": "B",
+          "text": "禁止自行车。"
+        },
+        {
+          "letter": "C",
+          "text": "自行车修理店就在前面。"
+        },
+        {
+          "letter": "D",
+          "text": "自行车有优先通行权。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "注意自行车。",
+      "explanation": "此标志提前警告可能有自行车出现。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8211",
+      "question": "从中间车道，您可以进行哪些操作？",
+      "image": "/images/signs/pennsylvania-center_turn_lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您可以左转。"
+        },
+        {
+          "letter": "B",
+          "text": "您可以进行掉头。"
+        },
+        {
+          "letter": "C",
+          "text": "您可以超过缓行车辆。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "您可以左转。",
+      "explanation": "此标志表示车道仅供来自任一方向的左转车辆独占使用。此类车道不得用于超车或直行交通。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8433",
+      "question": "这个标志表示：",
+      "image": "/images/signs/road_work_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前方有绕行。"
+        },
+        {
+          "letter": "B",
+          "text": "您必须为旗手停车。"
+        },
+        {
+          "letter": "C",
+          "text": "前方道路禁止通行。"
+        },
+        {
+          "letter": "D",
+          "text": "前方高速公路正在进行维护。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "前方高速公路正在进行维护。",
+      "explanation": "施工和维护标志为橙色，用于通知驾驶员施工区域内或附近的异常或潜在危险状况。这个标志警告驾驶员他们正在接近施工区，应该准备降速并谨慎驾驶。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8358",
+      "question": "这个标志表示：",
+      "image": "/images/signs/no_left_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "禁止左转。"
+        },
+        {
+          "letter": "B",
+          "text": "前方有旗手。"
+        },
+        {
+          "letter": "C",
+          "text": "双向左转。"
+        },
+        {
+          "letter": "D",
+          "text": "右转或通行。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "禁止左转。",
+      "explanation": "规制标志规制交通速度和方向，显示驾驶员必须遵守的规则。这个规制标志表示禁止左转。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8194",
+      "question": "这个标志表示：",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前方有左转弯。"
+        },
+        {
+          "letter": "B",
+          "text": "前方有一系列弯道。"
+        },
+        {
+          "letter": "C",
+          "text": "前方有S形弯道。"
+        },
+        {
+          "letter": "D",
+          "text": "道路在潮湿时会打滑。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "道路在潮湿时会打滑。",
+      "explanation": "这个标志警告当道路潮湿时存在特别打滑的条件。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8207",
+      "question": "该标志表示：",
+      "image": "/images/signs/pennsylvania-workers_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一个社区服务组正在前方高速公路沿线捡拾垃圾。"
+        },
+        {
+          "letter": "B",
+          "text": "在前方工作区内，工人在路上或非常靠近路边。"
+        },
+        {
+          "letter": "C",
+          "text": "前方有儿童在活动。"
+        },
+        {
+          "letter": "D",
+          "text": "前方有行人过路。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在前方工作区内，工人在路上或非常靠近路边。",
+      "explanation": "该标志表示工人可能在前方路上或非常靠近路边，因此在通过该区域时应特别小心。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8233",
+      "question": "在有让行标志的十字路口，你应该：",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "进入十字路口前始终停止。"
+        },
+        {
+          "letter": "B",
+          "text": "仅将通行权让给右侧的车辆。"
+        },
+        {
+          "letter": "C",
+          "text": "仅将通行权让给左侧的车辆。"
+        },
+        {
+          "letter": "D",
+          "text": "减速并将通行权让给其他车辆。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "减速并将通行权让给其他车辆。",
+      "explanation": "让行标志表示你必须减速并将通行权让给进入十字路口或道路的交通。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "3763",
+      "question": "这个手势表示什么？",
+      "image": "/images/signs/handsignal1.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "减速或停止"
+        },
+        {
+          "letter": "B",
+          "text": "左转"
+        },
+        {
+          "letter": "C",
+          "text": "右转"
+        },
+        {
+          "letter": "D",
+          "text": "倒车"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "减速或停止",
+      "explanation": "除了机械转向灯外，驾驶员可以使用手信号来指示转弯或停止。如果驾驶员的左臂在肘部弯曲并向下指，这意味着驾驶员计划减速或停止。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8254",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您即将从错误的方向进入单向街道。"
+        },
+        {
+          "letter": "B",
+          "text": "禁止掉头。"
+        },
+        {
+          "letter": "C",
+          "text": "如果道路畅通，您可以继续行驶。"
+        },
+        {
+          "letter": "D",
+          "text": "完全停止后再继续行驶。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "您即将从错误的方向进入单向街道。",
+      "explanation": "如果您经过这些标志，您行驶方向错误，面临迎面碰撞的危险。您应该谨慎地掉头。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8192",
+      "question": "此标志用于警告驾驶员以下情况：",
+      "image": "/images/signs/curve_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "即将到来的交叉路口。"
+        },
+        {
+          "letter": "B",
+          "text": "道路施工。"
+        },
+        {
+          "letter": "C",
+          "text": "前方道路即将弯曲。"
+        },
+        {
+          "letter": "D",
+          "text": "交通车道变化。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "前方道路即将弯曲。",
+      "explanation": "此标志表示前方道路向右弯曲。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8361",
+      "question": "这个标志表示：",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "禁止掉头。"
+        },
+        {
+          "letter": "B",
+          "text": "双向左转。"
+        },
+        {
+          "letter": "C",
+          "text": "最低速度限制。"
+        },
+        {
+          "letter": "D",
+          "text": "禁止停车。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "禁止掉头。",
+      "explanation": "管制标志规范交通速度和运动，显示驾驶员必须遵守的规则。在张贴这个管制标志的地方，禁止掉头。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8274",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/keep_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "小路。"
+        },
+        {
+          "letter": "B",
+          "text": "靠箭头指示的一侧行驶。"
+        },
+        {
+          "letter": "C",
+          "text": "您可以在左车道行驶。"
+        },
+        {
+          "letter": "D",
+          "text": "你有通行权。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "靠箭头指示的一侧行驶。",
+      "explanation": "这是一个\"靠右\"标志。它表示前方有交通岛、中位分隔线或障碍物,驾驶员必须保持在它的右边。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8403",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "完全停止后向右转。"
+        },
+        {
+          "letter": "B",
+          "text": "不允许右转。"
+        },
+        {
+          "letter": "C",
+          "text": "允许左转。"
+        },
+        {
+          "letter": "D",
+          "text": "以上都不是。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "不允许右转。",
+      "explanation": "法律标志显示驾驶员必须始终遵守的法律。该标志所在位置不允许右转。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8216",
+      "question": "这个道路标志是什么意思？",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "如果有汽车接近您，减速并准备停止。"
+        },
+        {
+          "letter": "B",
+          "text": "完全停止,当安全时再行进。"
+        },
+        {
+          "letter": "C",
+          "text": "谨慎通过路口，不一定总是停止。"
+        },
+        {
+          "letter": "D",
+          "text": "仅停止相邻道路上的交通。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "完全停止,当安全时再行进。",
+      "explanation": "停止标志意味着你必须完全停止并让路给在交叉口内或驶向交叉口的车辆和行人。当安全时再行进。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8185",
+      "question": "当您看到此标志时，您必须：",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "完全停止并检查行人和交叉车流。"
+        },
+        {
+          "letter": "B",
+          "text": "减速但不需完全停止。"
+        },
+        {
+          "letter": "C",
+          "text": "完全停止并等待绿灯。"
+        },
+        {
+          "letter": "D",
+          "text": "减速并检查车流。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "完全停止并检查行人和交叉车流。",
+      "explanation": "任何八边形标志都是停止标志。在有停止标志的十字路口，您必须完全停止并检查行人和路口交叉车流。等待路口清空后再继续前进。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8200",
+      "question": "这个标志显示一种类型的：",
+      "image": "/images/signs/maryland-t_intersection_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "右转。"
+        },
+        {
+          "letter": "B",
+          "text": "路口。"
+        },
+        {
+          "letter": "C",
+          "text": "变道。"
+        },
+        {
+          "letter": "D",
+          "text": "道路曲线。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "路口。",
+      "explanation": "此标志表示前方有T形十字路口。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8371",
+      "question": "这个标志表示：",
+      "image": "/images/signs/indiana-traffic_signal.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "交通信号灯。"
+        },
+        {
+          "letter": "B",
+          "text": "消防站。"
+        },
+        {
+          "letter": "C",
+          "text": "T形十字路口。"
+        },
+        {
+          "letter": "D",
+          "text": "左转信号。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "交通信号灯。",
+      "explanation": "警告标志为驾驶员准备即将到来的道路状况和危险，通常为黄色带黑色标记。此标志警告驾驶员前方有交通信号灯。他们应准备好应对黄灯、红灯和/或交叉车流。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8354",
+      "question": "这个标志表示：",
+      "image": "/images/signs/lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "车道结束。"
+        },
+        {
+          "letter": "B",
+          "text": "禁止右转。"
+        },
+        {
+          "letter": "C",
+          "text": "潮湿时滑行。"
+        },
+        {
+          "letter": "D",
+          "text": "双向交通。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "车道结束。",
+      "explanation": "警告标志为驾驶员准备即将出现的道路状况和危险，通常为黄色和黑色。这个标志告诉驾驶员一条车道即将结束，他们应该准备好让交通安全汇入。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "4819",
+      "question": "从下到上，交通信号灯颜色的顺序是：",
+      "image": "/images/signs/nm-traffic-light.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色、黄色和红色。"
+        },
+        {
+          "letter": "B",
+          "text": "红色、黄色和绿色。"
+        },
+        {
+          "letter": "C",
+          "text": "黄色、绿色和红色。"
+        },
+        {
+          "letter": "D",
+          "text": "黄色、红色和绿色。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "绿色、黄色和红色。",
+      "explanation": "从下到上，交通信号灯颜色的顺序是绿色、黄色和红色。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8407",
+      "question": "这个标志表示：",
+      "image": "/images/signs/hawaii-no_righit_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "禁止右转。"
+        },
+        {
+          "letter": "B",
+          "text": "允许右转。"
+        },
+        {
+          "letter": "C",
+          "text": "右转前停止。"
+        },
+        {
+          "letter": "D",
+          "text": "前方急转弯。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "禁止右转。",
+      "explanation": "显示红色圆圈和红色斜线穿过中间的监管标志表示禁止特定行为。在张贴此标志的地方不允许右转。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8272",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/winding_road_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "向右急转。"
+        },
+        {
+          "letter": "B",
+          "text": "双曲线。"
+        },
+        {
+          "letter": "C",
+          "text": "弯曲的道路。"
+        },
+        {
+          "letter": "D",
+          "text": "路面结束。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "弯曲的道路。",
+      "explanation": "这个标志表示前方道路蜿蜒曲折，有一系列转弯或曲线。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8368",
+      "question": "这个标志表示：",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停止。"
+        },
+        {
+          "letter": "B",
+          "text": "小路。"
+        },
+        {
+          "letter": "C",
+          "text": "双向左转。"
+        },
+        {
+          "letter": "D",
+          "text": "农场机械。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "停止。",
+      "explanation": "八边形交通标志警告驾驶员必须停下来并在十字路口让出适当的通行权。驾驶员可以在安全的情况下通行。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8350",
+      "question": "这个标志表示：",
+      "image": "/images/signs/bicycle_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "自行车穿过。"
+        },
+        {
+          "letter": "B",
+          "text": "停止。"
+        },
+        {
+          "letter": "C",
+          "text": "在施工区域内罚款翻倍。"
+        },
+        {
+          "letter": "D",
+          "text": "前方停止。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "自行车穿过。",
+      "explanation": "警告标志为驾驶员准备即将到来的道路状况和危险，通常是黄色底色配黑色标记。此标志提醒驾驶员注意潜在的自行车穿越交通。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "4946",
+      "question": "这个标志是什么意思？",
+      "image": "/images/signs/ri-sign-1.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "禁止U型转弯。"
+        },
+        {
+          "letter": "B",
+          "text": "禁止左转。"
+        },
+        {
+          "letter": "C",
+          "text": "交通必须直行。"
+        },
+        {
+          "letter": "D",
+          "text": "让行。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "禁止U型转弯。",
+      "explanation": "此标志张贴的地方禁止U型转弯。"
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "3581",
+      "question": "这个道路标志是什么意思？",
+      "image": "/images/signs/sign1.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "减速并准备停车。"
+        },
+        {
+          "letter": "B",
+          "text": "完全停止，然后在安全的情况下继续前进。"
+        },
+        {
+          "letter": "C",
+          "text": "小心通过十字路口，但你可能不总是需要停止。"
+        },
+        {
+          "letter": "D",
+          "text": "仅停止相邻道路上的交通。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "完全停止，然后在安全的情况下继续前进。",
+      "explanation": "到达停止标志时，你必须始终完全停止，并只有在安全的情况下才能继续前进。"
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "4947",
+      "question": "这个标志是什么意思？",
+      "image": "/images/signs/ri-sign-2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶员可以向右转或继续直行。"
+        },
+        {
+          "letter": "B",
+          "text": "驾驶员可以向左转或继续直行。"
+        },
+        {
+          "letter": "C",
+          "text": "前方有危险。"
+        },
+        {
+          "letter": "D",
+          "text": "前方单向道路。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "驾驶员可以向右转或继续直行。",
+      "explanation": "驾驶员必须从指定车道向右转或继续直行。"
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "8265",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/virginia-right_curve_35_mph.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前方道路向右弯曲。减速至指示的安全速度。"
+        },
+        {
+          "letter": "B",
+          "text": "分隔高速公路开始。减速至指示的安全速度。"
+        },
+        {
+          "letter": "C",
+          "text": "并线。减速至指示的安全速度。"
+        },
+        {
+          "letter": "D",
+          "text": "前方道路蜿蜒。减速至指示的安全速度。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "前方道路向右弯曲。减速至指示的安全速度。",
+      "explanation": "这些标志表示前方道路向右弯曲，驾驶员应减速至指示的安全速度（本例中为35 mph）。"
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "8234",
+      "question": "在高速公路上，您看到\"汇入交通\"标志。您应该：",
+      "image": "/images/signs/merging_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "对来往的交通鸣笛。"
+        },
+        {
+          "letter": "B",
+          "text": "始终保持您目前的速度。"
+        },
+        {
+          "letter": "C",
+          "text": "加速以避免交通拥堵。"
+        },
+        {
+          "letter": "D",
+          "text": "如果安全，请移至另一条车道，以便交通进入。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "如果安全，请移至另一条车道，以便交通进入。",
+      "explanation": "当在有两条或多条车道的道路上行驶时，您应该为进入的车辆让出空间。如果您旁边没有车，请移动到另一条车道。"
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "8244",
+      "question": "看到这个标志时您应该做什么？",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "寻找前方火车站。"
+        },
+        {
+          "letter": "B",
+          "text": "继续前进前请先打信号。"
+        },
+        {
+          "letter": "C",
+          "text": "为火车减速并让行。"
+        },
+        {
+          "letter": "D",
+          "text": "停止。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "为火车减速并让行。",
+      "explanation": "这个标志表示前方道路有铁路道口。接近铁路道口时，您应该始终减速。火车无法给汽车让行，所以您必须让火车通过后才能穿过铁轨。"
+    }
+  ]
+}

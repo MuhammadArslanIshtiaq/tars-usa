@@ -1,0 +1,501 @@
+{
+  "state": "New York",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #1",
+  "slug": "intermediate-practice-test-1",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1672",
+      "question": "Các tín hiệu giao thông đôi khi hiển thị các mũi tên để kiểm soát các lượt rẽ từ các làn cụ thể. Một mũi tên xanh:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chỉ được sử dụng trên các đường một chiều."
+        },
+        {
+          "letter": "B",
+          "text": "Có ý nghĩa giống như một đèn giao thông xanh tròn, nhưng giao thông phải rẽ theo hướng được chỉ bởi mũi tên."
+        },
+        {
+          "letter": "C",
+          "text": "Có nghĩa là bạn có thể tiếp tục, nhưng chỉ khi mũi tên xanh kèm theo đèn xanh tròn."
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ đường đến một sân bay."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Có ý nghĩa giống như một đèn giao thông xanh tròn, nhưng giao thông phải rẽ theo hướng được chỉ bởi mũi tên.",
+      "explanation": "Một mũi tên xanh có ý nghĩa giống như một đèn giao thông xanh tròn, nhưng giao thông ở làn được chỉ định phải rẽ theo hướng được chỉ bởi mũi tên."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "605",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/virginia-curve_ahead_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Xây dựng đường phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Con đường phía trước cong về bên trái, rồi sang phải."
+        },
+        {
+          "letter": "C",
+          "text": "Con đường phía trước cong về bên phải, rồi sang trái."
+        },
+        {
+          "letter": "D",
+          "text": "Độ dốc cao phía trước."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Con đường phía trước cong về bên phải, rồi sang trái.",
+      "explanation": "Biển báo này cho biết con đường phía trước cong về bên phải rồi sang trái. Bạn nên giảm tốc độ để có thể vượt qua những khúc cua này một cách an toàn."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1218",
+      "question": "Khi lái xe vào ban đêm, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Luôn sử dụng đèn chiếu xa của bạn."
+        },
+        {
+          "letter": "B",
+          "text": "Nhìn trực tiếp vào đèn pha của xe đang đi lại."
+        },
+        {
+          "letter": "C",
+          "text": "Tăng khoảng cách theo dõi."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tăng khoảng cách theo dõi.",
+      "explanation": "Tăng khoảng cách theo dõi khi khó nhìn do tối. Sử dụng đèn pha để tăng khả năng nhìn thấy, tuân theo các quy tắc sử dụng đúng cách của đèn chiếu xa và đèn chiếu gần. Tránh nhìn trực tiếp vào đèn pha của xe đang đi lại để tránh bị mù lòa bởi ánh sáng chói."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1810",
+      "question": "Bạn có thể vượt một phương tiện khi:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn đang trên một con đường dốc hoặc cong."
+        },
+        {
+          "letter": "B",
+          "text": "Bạn đang trên một con đường có vạch liền nét bên cạnh làn đường của bạn."
+        },
+        {
+          "letter": "C",
+          "text": "Bạn đang trên một con đường có vạch nứt bên cạnh làn đường của bạn."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Bạn đang trên một con đường có vạch nứt bên cạnh làn đường của bạn.",
+      "explanation": "Một đường gạch ngang đơn lẻ cho phép các tài xế vượt qua từ bất kỳ làn nào để thay đổi làn đường. Đường vàng gạch ngang bên cạnh đường vàng liền tục cho biết vượt được phép từ làn nằm bên cạnh đường gạch ngang, nhưng không phải từ làn nằm bên cạnh đường liền tục. Chỉ thay đổi làn đường khi an toàn để làm như vậy."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "478",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiếp tục với tốc độ hiện tại của bạn."
+        },
+        {
+          "letter": "B",
+          "text": "Bạn phải dừng lại phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Không được phép vượt quá tốc độ."
+        },
+        {
+          "letter": "D",
+          "text": "Có tín hiệu giao thông phía trước."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Có tín hiệu giao thông phía trước.",
+      "explanation": "Biển này chỉ ra rằng có một tín hiệu giao thông phía trước."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "3181",
+      "question": "Nếu bạn thấy một đường viền cạnh hướng vào trên một đường, nó có nghĩa là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giới hạn tốc độ đang giảm."
+        },
+        {
+          "letter": "B",
+          "text": "Đường đang hẹp lại."
+        },
+        {
+          "letter": "C",
+          "text": "Đường đang rộng ra."
+        },
+        {
+          "letter": "D",
+          "text": "Giới hạn tốc độ đang tăng."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Đường đang hẹp lại.",
+      "explanation": "Nếu bạn thấy một đường viền cạnh hướng vào trên một đường, nó có nghĩa là đường phía trước đang hẹp lại. Hãy chắc chắn hợp nhất an toàn."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "350",
+      "question": "Để chuẩn bị cho bất cứ điều gì xảy ra trên đường phía trước, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Liên tục quét toàn bộ đường và tất cả các bên đường."
+        },
+        {
+          "letter": "B",
+          "text": "Nhìn thẳng phía trước mọi lúc."
+        },
+        {
+          "letter": "C",
+          "text": "Lái xe với chân trái của bạn đặt nhẹ trên bàn đạp phanh."
+        },
+        {
+          "letter": "D",
+          "text": "Duy trì sự tập trung về phía giữa của đường."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Liên tục quét toàn bộ đường và tất cả các bên đường.",
+      "explanation": "Khả năng xử lý các tình huống giao thông nguy hiểm của bạn phụ thuộc phần lớn vào việc tìm kiếm và xác định các vấn đề trước khi gặp chúng. Nhìn xa phía trước phương tiện của bạn không có nghĩa là bạn nên chỉ nhìn vào trung tâm của đường. Bạn cần liên tục quét toàn bộ đường, bao gồm cả các bên của đường."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1873",
+      "question": "Đường với các ký hiệu đường kép màu vàng ở giữa cho biết rằng việc vượt là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Được phép từ cả hai hướng."
+        },
+        {
+          "letter": "B",
+          "text": "Chỉ được phép từ hướng di chuyển của bạn."
+        },
+        {
+          "letter": "C",
+          "text": "Không được phép từ cả hai hướng."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Không được phép từ cả hai hướng.",
+      "explanation": "Một đường kép màu vàng ở giữa của con đường cho biết rằng giao thông đang chuyển động theo các hướng ngược chiều và việc vượt không được phép từ bất kỳ hướng nào."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "434",
+      "question": "Bạn không bao giờ được phép đỗ xe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trên một đường một chiều."
+        },
+        {
+          "letter": "B",
+          "text": "Ở lối vào của một tòa nhà."
+        },
+        {
+          "letter": "C",
+          "text": "Trong một lối đi bộ."
+        },
+        {
+          "letter": "D",
+          "text": "Trong vòng 50 feet của một khiên chữa cháy."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Trong một lối đi bộ.",
+      "explanation": "Bạn không được phép đỗ, dừng hoặc đứng trong một lối đi bộ. Cấm đỗ xe trong vòng 15 feet của một khiên chữa cháy."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "869",
+      "question": "Nước trên đường có thể làm cho xe của bạn mất lực bám đường. Xe của bạn có thể mất lực bám đường ở tốc độ thấp như:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 dặm trên giờ."
+        },
+        {
+          "letter": "B",
+          "text": "35 dặm trên giờ."
+        },
+        {
+          "letter": "C",
+          "text": "40 dặm trên giờ."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "35 dặm trên giờ.",
+      "explanation": "Mất lực bám đường xảy ra khi có nước đọng trên đường. Ở tốc độ lên đến 35 mph, hầu hết các lốp xe sẽ dẫn nước ra khỏi lốp xe. Khi tốc độ của bạn tăng vượt quá 35 mph, lốp xe không thể dẫn nước cũng như vậy và lốp xe của bạn có thể bắt đầu mất tiếp xúc với đường và trượt trên nước giống như một chiếc ván trượt nước."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "78",
+      "question": "Nếu bạn có kế hoạch vượt qua một phương tiện khác, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không giả định rằng lái xe khác sẽ tạo ra không gian cho bạn để quay trở lại làn đường của bạn."
+        },
+        {
+          "letter": "B",
+          "text": "Giả định rằng lái xe khác sẽ cho phép bạn vượt qua nếu bạn sử dụng tín hiệu rẽ của bạn."
+        },
+        {
+          "letter": "C",
+          "text": "Giả định rằng lái xe khác sẽ duy trì tốc độ không đổi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Không giả định rằng lái xe khác sẽ tạo ra không gian cho bạn để quay trở lại làn đường của bạn.",
+      "explanation": "Ngay cả khi bạn phát tín hiệu, bạn không nên giả định rằng không gian bạn muốn chiếm là miễn phí hoặc rằng các lái xe khác sẽ nhường quyền ưu tiên cho bạn."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "867",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ngã tư phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Độ dốc cao phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Đường quanh co."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Độ dốc cao phía trước.",
+      "explanation": "Các biển cảnh báo thường có màu vàng với các ký hiệu màu đen. Biển này chỉ ra rằng có một ngọn đồi dốc phía trước. Giảm tốc độ và sẵn sàng chuyển sang bánh răng thấp hơn để kiểm soát tốc độ của bạn và bảo vệ phanh của bạn khỏi bị hư hỏng."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1537",
+      "question": "Bạn có thể lái xe qua một đường trắng đứt quãng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bất cứ lúc nào."
+        },
+        {
+          "letter": "B",
+          "text": "Chỉ trong giờ ban ngày."
+        },
+        {
+          "letter": "C",
+          "text": "Khi an toàn để thay đổi làn đường."
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ khi vượt một xe máy."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Khi an toàn để thay đổi làn đường.",
+      "explanation": "Các làn giao thông di chuyển cùng hướng được tách bởi các đường trắng đứt quãng. Bạn có thể vượt qua các đường đứt quãng để vượt, nếu an toàn."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1830",
+      "question": "Ở đèn giao thông đỏ với mũi tên xanh, bạn có thể tiến hành theo hướng của mũi tên nếu:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn dừng hoàn toàn trước tiên."
+        },
+        {
+          "letter": "B",
+          "text": "Bạn chờ cho đến khi đèn giao thông chuyển."
+        },
+        {
+          "letter": "C",
+          "text": "Bạn đang ở trong làn đường thích hợp và đường bộ rõ ràng."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Bạn đang ở trong làn đường thích hợp và đường bộ rõ ràng.",
+      "explanation": "Nếu bạn đang ở trong làn đường tương ứng với tín hiệu hiển thị mũi tên xanh, bạn có thể tiến hành theo hướng của mũi tên khi đường rõ ràng. Điều này đúng cho dù mũi tên được hiển thị riêng lẻ hay cùng với tín hiệu khác."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "589",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cấm rẽ trái."
+        },
+        {
+          "letter": "B",
+          "text": "Không được quay đầu xe."
+        },
+        {
+          "letter": "C",
+          "text": "Không có lối thoát."
+        },
+        {
+          "letter": "D",
+          "text": "Cấm rẽ phải."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Cấm rẽ phải.",
+      "explanation": "Biển báo này cho biết rằng rẽ phải bị cấm."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1480",
+      "question": "Biển dừng có hình dạng như một(n):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hình chữ nhật."
+        },
+        {
+          "letter": "B",
+          "text": "Hình vuông."
+        },
+        {
+          "letter": "C",
+          "text": "Hình tròn."
+        },
+        {
+          "letter": "D",
+          "text": "Bát giác."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Bát giác.",
+      "explanation": "Hình bát giác chỉ được sử dụng cho các biển dừng. Tất cả các biển tám mặt yêu cầu người lái xe dừng hoàn toàn trước khi tiếp tục."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "459",
+      "question": "Những yếu tố nào sau đây ảnh hưởng đến tác động của rượu?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lượng thức ăn trong dạ dày"
+        },
+        {
+          "letter": "B",
+          "text": "Cân nặng cơ thể của một cá nhân"
+        },
+        {
+          "letter": "C",
+          "text": "Khoảng thời gian giữa các lần uống"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả ba lựa chọn"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả ba lựa chọn",
+      "explanation": "Nồng độ cồn trong máu (BAC) của bạn phụ thuộc vào bạn uống bao nhiêu rượu, bao nhiêu thời gian trôi qua giữa các lần uống và cân nặng của bạn. Ăn trước hoặc trong khi uống giúp làm chậm việc hấp thụ rượu ở một mức độ nào đó, nhưng nó không thể ngăn chặn chứng say rượu hoặc suy giảm chức năng nếu bạn uống quá nhiều."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "2078",
+      "question": "Vào buổi chập tối hoặc những ngày u ám, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lái xe bằng đèn cảnh báo bốn chiều của bạn."
+        },
+        {
+          "letter": "B",
+          "text": "Lái xe bằng đèn dừng xe của bạn."
+        },
+        {
+          "letter": "C",
+          "text": "Không bật bất kỳ đèn xe nào."
+        },
+        {
+          "letter": "D",
+          "text": "Bật đèn pha của bạn."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Bật đèn pha của bạn.",
+      "explanation": "Vào buổi chập tối hoặc những ngày u ám, bạn phải bật đèn pha của mình. Giảm độ sáng đèn của bạn về cài đặt ánh sáng thấp khi ở cách 1.000 feet từ một phương tiện đang đến gần và khi ở cách 500 feet từ một phương tiện mà bạn đang theo dõi. Khi lái xe trong thời tiết xấu, luôn sử dụng ánh sáng thấp."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1917",
+      "question": "Khi các đường vàng liên tục kép tách các làn đường giao thông:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vượt được phép từ bên trái."
+        },
+        {
+          "letter": "B",
+          "text": "Vượt được phép từ bên phải."
+        },
+        {
+          "letter": "C",
+          "text": "Vượt không được phép từ cả hai hướng."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Vượt không được phép từ cả hai hướng.",
+      "explanation": "Các đường vàng tách các làn đường giao thông chỉ ra rằng giao thông đang di chuyển theo hướng ngược nhau. Các đường liên tục kép chỉ ra rằng vượt không được phép từ cả hai hướng."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "442",
+      "question": "Một trong những chiến lược lái xe phòng chống là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nhìn thẳng phía trước khi bạn lái xe."
+        },
+        {
+          "letter": "B",
+          "text": "Luôn cảnh báo và giữ cho mắt bạn chuyển động."
+        },
+        {
+          "letter": "C",
+          "text": "Mong đợi rằng những người lái xe khác sẽ bù đắp cho lỗi của bạn."
+        },
+        {
+          "letter": "D",
+          "text": "Tự tin rằng bạn có thể tránh được nguy hiểm trong phút cuối."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Luôn cảnh báo và giữ cho mắt bạn chuyển động.",
+      "explanation": "Bởi vì điều kiện giao thông luôn thay đổi, bạn nên liên tục quét đường phía trước. Giữ mắt của bạn chuyển động, nhận thấy những gì đang xảy ra ở hai bên đường, và kiểm tra phía sau bạn mỗi vài giây bằng cách sử dụng gương chiếu hậu của bạn."
+    }
+  ]
+}

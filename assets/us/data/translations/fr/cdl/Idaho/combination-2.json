@@ -1,0 +1,450 @@
+{
+  "state": "Idaho",
+  "category": "cdl",
+  "testName": "Combination Test #2 20 Questions • Passing Score 16",
+  "testSlug": "combination-2",
+  "url": "/images/idaho/cdl/combination-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11834",
+      "question": "La conduite d'air d'urgence fournit de l'air au:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soupapes de relais."
+        },
+        {
+          "letter": "B",
+          "text": "Réservoirs d'air de la remorque."
+        },
+        {
+          "letter": "C",
+          "text": "Conduite de signal."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Réservoirs d'air de la remorque.",
+      "explanation": "La conduite d'air d'urgence (également connue sous le nom de conduite d'alimentation) a deux fonctions. La première est de fournir de l'air aux réservoirs d'air de la remorque, et la deuxième est de contrôler les freins d'urgence sur les véhicules articulés."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11838",
+      "question": "Avant de commencer un voyage, vous devriez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laissez le robinet de la ligne de service ouvert."
+        },
+        {
+          "letter": "B",
+          "text": "Retirez les soupapes relais."
+        },
+        {
+          "letter": "C",
+          "text": "Fermez le robinet de la ligne d'urgence."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Fermez le robinet de la ligne d'urgence.",
+      "explanation": "Avant un voyage, vous devriez vous assurer que l'air atteint tous les freins pneumatiques sur toutes les remorques en ouvrant les robinets d'arrêt de la ligne d'urgence et de la ligne de service et en écoutant l'air s'échapper. Fermez les deux robinets d'arrêt avant de commencer à conduire."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11854",
+      "question": "Lors de l'attelage d'une remorque en marche arrière, le tracteur doit être positionné :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Directement devant la remorque."
+        },
+        {
+          "letter": "B",
+          "text": "Directement à côté de la remorque."
+        },
+        {
+          "letter": "C",
+          "text": "Parallèlement à la remorque."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Directement devant la remorque.",
+      "explanation": "Lors de l'attelage d'une remorque en marche arrière, vous devez positionner le tracteur directement devant la remorque. Essayer d'atteler en marche arrière selon un angle pourrait faire bouger la remorque et casser le train d'atterrissage."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11527",
+      "question": "Pendant un voyage, le train d'atterrissage devrait être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Complètement relevé."
+        },
+        {
+          "letter": "B",
+          "text": "Complètement abaissé."
+        },
+        {
+          "letter": "C",
+          "text": "Effleurant la chaussée."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Complètement relevé.",
+      "explanation": "Le train d'atterrissage, ou les supports de remorque, devrait toujours être complètement relevé avant qu'un véhicule ne circule. Le train d'atterrissage qui n'est pas entièrement relevé pourrait s'accrocher aux rails ferroviaires ou à d'autres dangers sur la route."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11529",
+      "question": "Un conducteur doit tester la soupape de protection du tracteur en :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tirez le bouton jaune en forme de diamant."
+        },
+        {
+          "letter": "B",
+          "text": "Libérer l'air avec la pédale de frein."
+        },
+        {
+          "letter": "C",
+          "text": "Déverrouiller les portes de la remorque."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Libérer l'air avec la pédale de frein.",
+      "explanation": "Vous devez tester la soupape de protection du tracteur en permettant à l'alimentation en air de se charger correctement, en éteignant le moteur, puis en libérant l'air du système en appuyant plusieurs fois sur la pédale de frein. La soupape de protection du tracteur doit passer en position d'urgence lorsque la pression en psi descend à un niveau dangereux."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9469",
+      "question": "Qu'est-ce qu'un système de freinage anti-blocage (ABS)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il permet aux roues d'un véhicule de se bloquer."
+        },
+        {
+          "letter": "B",
+          "text": "Il empêche les roues d'un véhicule de se bloquer."
+        },
+        {
+          "letter": "C",
+          "text": "Il facilite la direction d'un véhicule."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Il empêche les roues d'un véhicule de se bloquer.",
+      "explanation": "Un système de freinage antiblocage (ABS) aide à empêcher le blocage des roues lors d'un freinage brutal. Si l'ABS détecte un blocage imminent, il réduit la pression de freinage à un niveau sûr."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11025",
+      "question": "Si vous ne savez pas si une remorque est équipée d'un système de freinage antiblocage (ABS), vous pouvez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cherchez sous la remorque les capteurs de vitesse des roues provenant de l'arrière des freins."
+        },
+        {
+          "letter": "B",
+          "text": "Retirez un pneu et cherchez le capteur ABS sur l'essieu."
+        },
+        {
+          "letter": "C",
+          "text": "Supposez qu'elle est équipée d'un ABS."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cherchez sous la remorque les capteurs de vitesse des roues provenant de l'arrière des freins.",
+      "explanation": "Si vous ne savez pas si une remorque est équipée d'un ABS, cherchez sous le véhicule l'unité de commande électronique et les fils du capteur de vitesse des roues provenant de l'arrière des freins."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10911",
+      "question": "Les tonnelades se produisent lorsque:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les conducteurs tournent trop rapidement."
+        },
+        {
+          "letter": "B",
+          "text": "Les conducteurs tournent trop lentement."
+        },
+        {
+          "letter": "C",
+          "text": "Il pleut."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les conducteurs tournent trop rapidement.",
+      "explanation": "Les tonnelades se produisent lorsque les conducteurs tournent ou changent de voie trop rapidement."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11205",
+      "question": "Si vous reculez et que la remorque commence à dériver hors de sa trajectoire, le conducteur devrait:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ramenez le volant à la position 12 heures."
+        },
+        {
+          "letter": "B",
+          "text": "Tournez le haut du volant dans la direction de la dérive."
+        },
+        {
+          "letter": "C",
+          "text": "Tournez le haut du volant dans la direction opposée à la dérive."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tournez le haut du volant dans la direction de la dérive.",
+      "explanation": "Si votre remorque commence à dériver pendant que vous reculez, vous devez corriger la dérive immédiatement en tournant le haut du volant dans la direction de la dérive."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10910",
+      "question": "Les véhicules articulés sont généralement :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plus faciles à conduire que les véhicules commerciaux simples."
+        },
+        {
+          "letter": "B",
+          "text": "Plus légers que les véhicules commerciaux simples."
+        },
+        {
+          "letter": "C",
+          "text": "Plus difficiles à conduire que les véhicules commerciaux simples."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Plus difficiles à conduire que les véhicules commerciaux simples.",
+      "explanation": "La conduite de véhicules articulés nécessite plus de compétences que la conduite de véhicules commerciaux simples. Les véhicules articulés sont généralement plus longs, généralement plus lourds et sont plus vulnérables au renversement."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11845",
+      "question": "Dans un véhicule de combinaison vide, les ressorts de suspension rigides et les freins puissants auront :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une traction élevée."
+        },
+        {
+          "letter": "B",
+          "text": "Une faible traction."
+        },
+        {
+          "letter": "C",
+          "text": "Aucune traction."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Une faible traction.",
+      "explanation": "Un véhicule de combinaison vide s'arrêtera complètement plus lentement qu'un véhicule complètement chargé. Avec moins de poids dans une remorque, les ressorts de suspension rigides et les freins puissants auront une traction inférieure à celle qu'ils auraient si le véhicule transportait plus de poids."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11832",
+      "question": "Si une commande d'alimentation en air est en position \"urgence\" :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le véhicule augmentera sa vitesse."
+        },
+        {
+          "letter": "B",
+          "text": "Les freins d'urgence de la remorque seront appliqués."
+        },
+        {
+          "letter": "C",
+          "text": "L'alimentation en air à la remorque augmentera."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les freins d'urgence de la remorque seront appliqués.",
+      "explanation": "Les commandes de protection du tracteur dans les véhicules plus anciens peuvent être actionnées par des leviers plutôt que par des boutons. Si une commande d'alimentation en air est réglée en position \"urgence\", l'alimentation en air sera arrêtée et les freins d'urgence de la remorque seront appliqués."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11201",
+      "question": "Si une charge est placée d'un côté d'une remorque, la remorque :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peut pencher lors des virages."
+        },
+        {
+          "letter": "B",
+          "text": "Peut ajouter un soutien supplémentaire lors des virages."
+        },
+        {
+          "letter": "C",
+          "text": "Peut être plus facile à diriger lors des virages."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Peut pencher lors des virages.",
+      "explanation": "Positionner le poids d'une charge d'un côté d'une remorque peut faire pencher la remorque de ce côté, augmentant le risque de renversement lors des virages et changements de voie."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11045",
+      "question": "Les véhicules articulés :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont généralement plus courts que les véhicules commerciaux simples."
+        },
+        {
+          "letter": "B",
+          "text": "Nécessitent généralement moins de compétences pour conduire que les véhicules commerciaux simples."
+        },
+        {
+          "letter": "C",
+          "text": "Nécessitent généralement plus de compétences pour conduire que les véhicules commerciaux simples."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Nécessitent généralement plus de compétences pour conduire que les véhicules commerciaux simples.",
+      "explanation": "La conduite de véhicules articulés nécessite plus de compétences que la conduite de véhicules commerciaux simples. Les véhicules articulés sont généralement plus longs, généralement plus lourds et sont plus vulnérables au renversement."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9949",
+      "question": "Lors du freinage avec ABS, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Appuyez sur la pédale de frein plus fort que d'habitude."
+        },
+        {
+          "letter": "B",
+          "text": "Appuyez sur la pédale de frein comme vous le feriez normalement."
+        },
+        {
+          "letter": "C",
+          "text": "Appuyez sur la pédale de frein plus légèrement que d'habitude."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Appuyez sur la pédale de frein comme vous le feriez normalement.",
+      "explanation": "Lors de la conduite d'un véhicule équipé d'un système de freinage anti-blocage (ABS), vous devez appliquer vos freins de la même manière que vous le feriez si vous conduisiez un véhicule sans ABS."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9607",
+      "question": "Qu'est-ce qu'un tracteur bobtail ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tracteur sans remorque"
+        },
+        {
+          "letter": "B",
+          "text": "Un tracteur attaché à deux remorques"
+        },
+        {
+          "letter": "C",
+          "text": "Un tracteur avec un réservoir"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un tracteur sans remorque",
+      "explanation": "Les tracteurs sans semi-remorques sont appelés tracteurs bobtail. L'exploitation d'un tracteur bobtail exige que les conducteurs fassent preuve de prudence."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11525",
+      "question": "Une remorque trop haute :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peut ne pas s'accoupler correctement."
+        },
+        {
+          "letter": "B",
+          "text": "S'accouplera solidement."
+        },
+        {
+          "letter": "C",
+          "text": "N'est pas un problème."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Peut ne pas s'accoupler correctement.",
+      "explanation": "Avant d'accoupler un tracteur et une remorque, vous devez vous assurer que la remorque est à la bonne hauteur. Si la remorque est trop basse, le nez de la remorque peut être endommagé. Si la remorque est trop haute, elle ne pourra peut-être pas s'accoupler correctement."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9464",
+      "question": "La meilleure façon de reconnaître que votre remorque a commencé à déraper est par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voir les visages d'autres conducteurs."
+        },
+        {
+          "letter": "B",
+          "text": "Vérifier la remorque dans vos rétroviseurs."
+        },
+        {
+          "letter": "C",
+          "text": "Sentir la remorque se déplacer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vérifier la remorque dans vos rétroviseurs.",
+      "explanation": "Le moyen le plus facile de s'apercevoir que votre remorque a commencé à se mettre en portefeuille est de l'observer dans vos rétroviseurs. Vérifier votre remorque dans vos rétroviseurs vous permettra également de détecter tout dérapage au moment le plus tôt possible."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8642",
+      "question": "L'exploitation de véhicules combinés nécessite généralement ____ l'exploitation de véhicules simples.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Moins de compétence que"
+        },
+        {
+          "letter": "B",
+          "text": "À peu près le même niveau de compétence que"
+        },
+        {
+          "letter": "C",
+          "text": "Plus de compétence que"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Plus de compétence que",
+      "explanation": "Les véhicules combinés sont généralement plus lourds et plus longs que les véhicules combinés simples. L'exploitation d'un véhicule combiné nécessite un niveau de compétence de conduite plus élevé que l'exploitation d'un véhicule utilitaire simple."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10083",
+      "question": "L'amplification vers l'arrière fait référence à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La quantité de bruit projetée à l'arrière d'un véhicule."
+        },
+        {
+          "letter": "B",
+          "text": "La cause de l'effet « faire claquer le fouet »."
+        },
+        {
+          "letter": "C",
+          "text": "Le nombre de remorques qui peuvent être tirées par un tracteur."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La cause de l'effet « faire claquer le fouet ».",
+      "explanation": "Les véhicules avec remorques sont vulnérables au renversement en raison de l'effet « coup de fouet », qui est causé par l'amplification vers l'arrière."
+    }
+  ]
+}

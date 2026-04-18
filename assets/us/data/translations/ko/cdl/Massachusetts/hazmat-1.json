@@ -1,0 +1,790 @@
+{
+  "state": "Massachusetts",
+  "category": "cdl",
+  "testName": "HazMat Test #1 30 Questions • Passing Score 24",
+  "testSlug": "hazmat-1",
+  "url": "/images/massachusetts/cdl/hazmat-1.html",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9403",
+      "question": "Class 3 인화성 액체를 운송 중이고 화물을 다른 탱크로 옮겨야 하는 경우, 인화성 액체는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 사람이 근처에 없는 한 도로에서 이전될 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "긴급 상황이 아닌 한 공공 도로에서 이전되어서는 안 됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "다른 탱크로 옮겨질 때 비밀로 유지되어야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "밤에 이전되어야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "긴급 상황이 아닌 한 공공 도로에서 이전되어서는 안 됩니다.",
+      "explanation": "인화성 액체는 긴급 상황으로 인해 이동하는 경우를 제외하고 공공 도로에서 한 차량에서 다른 차량으로 이전되어서는 안 됩니다. 항상 물질이 제시하는 위험에 대해 다른 사람들에게 경고하십시오."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10120",
+      "question": "누가 위험 물질에 라벨을 붙여야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "배송자"
+        },
+        {
+          "letter": "B",
+          "text": "로더"
+        },
+        {
+          "letter": "C",
+          "text": "운전자"
+        },
+        {
+          "letter": "D",
+          "text": "정비사"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "배송자",
+      "explanation": "위험 물질의 배송자는 물질의 포장, 표시 및 라벨링을 담당합니다. 필요한 경고판을 공급해야 합니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8919",
+      "question": "패키지에 \"Inhalation Hazard\" 글자가 있으면 ____표지판을 사용해야 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "독성 가스"
+        },
+        {
+          "letter": "B",
+          "text": "폭발성"
+        },
+        {
+          "letter": "C",
+          "text": "방사성"
+        },
+        {
+          "letter": "D",
+          "text": "위험"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "독성 가스",
+      "explanation": "패키지나 배송 서류에 \"Inhalation Hazard\" 글자가 있으면 \"Poison Inhalation Hazard\" 또는 \"Poison Gas\" 표지판(해당하는 경우)을 표시해야 합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8982",
+      "question": "경미한 트럭 화재를 제어하려고 할 때 트레일러 문을 열기 전에 무엇을 해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "문이 뜨거운지 확인하세요."
+        },
+        {
+          "letter": "B",
+          "text": "문에 물을 던집니다."
+        },
+        {
+          "letter": "C",
+          "text": "장갑 한 켤레를 착용하세요."
+        },
+        {
+          "letter": "D",
+          "text": "30분 기다립니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "문이 뜨거운지 확인하세요.",
+      "explanation": "트럭 화재가 발생하면 먼저 문이 뜨거운지 확인하지 않고 트레일러 문을 열려고 시도하면 안 됩니다. 문이 뜨거우면 화물 화재가 있을 수 있습니다. 화물 화재가 있으면 문을 닫은 상태로 두십시오."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8938",
+      "question": "위험물 법률은 다음에 의해 통제됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "지방 규정"
+        },
+        {
+          "letter": "B",
+          "text": "주 규정"
+        },
+        {
+          "letter": "C",
+          "text": "연방 규정"
+        },
+        {
+          "letter": "D",
+          "text": "모든 정부 수준"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "모든 정부 수준",
+      "explanation": "재료의 특성으로 인한 위험성 때문에, 연방, 주, 지방 정부는 위험물 운송에 대한 규정을 부과할 수 있습니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8983",
+      "question": "타이어 압력을 올바르게 확인하는 유일한 방법은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "타이어 압력 게이지를 사용하여."
+        },
+        {
+          "letter": "B",
+          "text": "눈으로 타이어를 살펴보아."
+        },
+        {
+          "letter": "C",
+          "text": "타이어를 눌러 압력을 느껴보아."
+        },
+        {
+          "letter": "D",
+          "text": "타이어를 달아보아."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "타이어 압력 게이지를 사용하여.",
+      "explanation": "각 여행 시작 시 자동차의 각 타이어를 검사해야 합니다. 타이어 압력을 확인하는 유일한 효과적인 방법은 타이어 압력 게이지를 사용하는 것입니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11093",
+      "question": "탱크 로딩을 감독하는 사람:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CPR 인증을 받아야 한다."
+        },
+        {
+          "letter": "B",
+          "text": "면허가 있는 소방관이어야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "적재되는 물질을 알 필요가 없다."
+        },
+        {
+          "letter": "D",
+          "text": "탱크로부터 25피트 이내에 있어야 한다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "탱크로부터 25피트 이내에 있어야 한다.",
+      "explanation": "위험 물질로 탱크를 적재할 때는 항상 자격이 있는 사람이 감시해야 한다. 이 사람은 주의 깊어야 하고, 탱크가 명확히 보여야 하고, 탱크로부터 25피트 이내에 있어야 하고, 물질과 관련된 위험을 알아야 하고, 응급 상황에서 무엇을 해야 할지 알아야 하고, 필요할 경우 탱크를 이동할 수 있고 권한이 있어야 한다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10484",
+      "question": "원본 또는 갱신 HazMat 승인을 신청하는 경우 어느 기관을 통한 검사를 받아야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운송 보안청"
+        },
+        {
+          "letter": "B",
+          "text": "연방 수사국"
+        },
+        {
+          "letter": "C",
+          "text": "에너지부"
+        },
+        {
+          "letter": "D",
+          "text": "지역 법 집행 기관"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "운송 보안청",
+      "explanation": "위험 물질 승인을 받으려면 운송보안청(TSA)이 실시하는 보안 검사를 통과해야 한다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "10974",
+      "question": "독성 물질로 분류된 많은 제품들은 또한:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "방사능입니다."
+        },
+        {
+          "letter": "B",
+          "text": "가연성입니다."
+        },
+        {
+          "letter": "C",
+          "text": "무겁습니다."
+        },
+        {
+          "letter": "D",
+          "text": "단맛이 납니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "가연성입니다.",
+      "explanation": "독성 물질로 분류된 많은 제품들은 또한 가연성입니다. 귀하의 화물이 가연성일 수 있다고 생각되면 적절한 예방 조치를 취하십시오."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8921",
+      "question": "\"RQ\"는 무엇의 약자입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "상대 쿼리"
+        },
+        {
+          "letter": "B",
+          "text": "보고 가능한 양"
+        },
+        {
+          "letter": "C",
+          "text": "릴리스 쿼리"
+        },
+        {
+          "letter": "D",
+          "text": "응답 격리"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "보고 가능한 양",
+      "explanation": "운송 서류의 \"HM\" 열에서 위험 물질을 표시할 때, 물질의 보고 가능한 양을 식별해야 하는 경우 \"X\" 대신 \"RQ\" 문자를 사용할 수 있습니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9404",
+      "question": "방사성 물질 화물에서 누수가 의심되는 경우:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전자는 지역 소방서로 가야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "운전자는 방사성 물질의 느슨한 조각을 수집해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "운전자는 영향을 받은 지역에 접근하지 않는 한, 화물 운송을 계속해야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "운전자는 차량이 청소될 때까지 차량을 운영해서는 안 됩니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "운전자는 차량이 청소될 때까지 차량을 운영해서는 안 됩니다.",
+      "explanation": "방사성 물질을 운송 중이고 화물에 누수 또는 손상된 패키지가 있다고 생각되면, 가능한 한 빨리 발송자 또는 감독자에게 알려야 합니다. 물질을 만지거나 흡입하지 마십시오. 차량이 청소되거나 측량 측정기로 확인될 때까지 차량을 사용하지 마십시오."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10923",
+      "question": "매뉴얼을 읽는 것 외에 위험 물질 운송에 대해 배우는 가장 좋은 방법은 다음과 같습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 사람들과 대화합니다."
+        },
+        {
+          "letter": "B",
+          "text": "위험 물질 교육 과정에 참석합니다."
+        },
+        {
+          "letter": "C",
+          "text": "시행착오입니다."
+        },
+        {
+          "letter": "D",
+          "text": "라벨을 읽습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "위험 물질 교육 과정에 참석합니다.",
+      "explanation": "매뉴얼에는 위험물 승인 필기시험에 합격하기 위해 필요한 모든 정보가 포함되어 있지만, 안전하게 업무를 수행하기 위해 필요한 모든 정보를 포함하고 있지는 않습니다. 위험물 교육 과정에 참석하여 더 많은 정보를 배울 수 있습니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8966",
+      "question": "다음 중 위험물 운송 서류를 보관하기에 허용되지 않는 위치는 어느 것입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전자 측 도어의 파우치에"
+        },
+        {
+          "letter": "B",
+          "text": "승객 측 도어의 파우치에"
+        },
+        {
+          "letter": "C",
+          "text": "안전띠를 착용한 상태에서 운전자의 손이 닿는 범위 내에"
+        },
+        {
+          "letter": "D",
+          "text": "운전자가 차량 밖에 있을 때 운전자 좌석에"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "승객 측 도어의 파우치에",
+      "explanation": "차량이 주행 중일 때, 위험물 운송 서류는 운전자 도어의 파우치에 보관하거나 운전자가 명확히 볼 수 있고 손이 닿을 수 있는 다른 곳에 보관해야 합니다. 운전자가 차량 밖에 있을 때, 운송 서류는 운전자 좌석에 보관해야 합니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8915",
+      "question": "위험 물질 등급은 몇 가지입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4초"
+        },
+        {
+          "letter": "B",
+          "text": "6"
+        },
+        {
+          "letter": "C",
+          "text": "9"
+        },
+        {
+          "letter": "D",
+          "text": "두 잔"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "9",
+      "explanation": "위험 물질에는 9가지 다른 등급이 있습니다. 등급은 물질 유형과 관련된 위험을 반영합니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10156",
+      "question": "유해물질을 운반할 때 사용해야 하는 표지판을 결정하기 위해서는 다음을 알아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "물질의 위험 등급."
+        },
+        {
+          "letter": "B",
+          "text": "사용 중인 용기의 종류."
+        },
+        {
+          "letter": "C",
+          "text": "목적지."
+        },
+        {
+          "letter": "D",
+          "text": "선적인."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "물질의 위험 등급.",
+      "explanation": "유해물질 표지판은 운반 중인 물질의 위험 등급을 나타내기 위해 차량의 외부에 부착됩니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8958",
+      "question": "배송 서류에서 문자 \"G\"가 1열에 나타나면 다른 무엇이 나타나야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "위험 물질의 기술명"
+        },
+        {
+          "letter": "B",
+          "text": "위험 물질을 포함하는 포장의 유형"
+        },
+        {
+          "letter": "C",
+          "text": "화물 운송자의 전화번호"
+        },
+        {
+          "letter": "D",
+          "text": "제품이 포장된 날짜"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "위험 물질의 기술명",
+      "explanation": "\"일반\" 의미의 문자 \"G\"가 배송 서류의 1열에 기재된 경우 관련 위험 물질의 기술명도 나열되어야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10492",
+      "question": "유해물질을 운반하는 차량에 최소한 몇 개의 표지판을 부착해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "한 잔"
+        },
+        {
+          "letter": "B",
+          "text": "두 잔"
+        },
+        {
+          "letter": "C",
+          "text": "세 잔"
+        },
+        {
+          "letter": "D",
+          "text": "4초"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4초",
+      "explanation": "유해물질 표지판이 필요한 차량에는 최소 4개의 동일한 표지판을 부착해야 합니다. 이 표지판은 차량의 앞, 뒤, 양쪽에 부착되어야 합니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10481",
+      "question": "휴대용 탱크:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량에서 제거할 수 없습니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량에 영구적으로 부착되지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "차량에 영구적으로 부착됩니다."
+        },
+        {
+          "letter": "D",
+          "text": "사용하면 안 됩니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "차량에 영구적으로 부착되지 않습니다.",
+      "explanation": "화물 탱크는 화물을 운반하든 운반하지 않든 항상 차량에 남아 있습니다. 휴대용 탱크는 벌크 패키징이며 차량에 영구적으로 부착되지 않습니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8973",
+      "question": "패키지에 액체 용기가 포함된 경우 패키지는 다음을 표시해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "올바른 직립 방향을 가리키는 화살표."
+        },
+        {
+          "letter": "B",
+          "text": "반송 주소."
+        },
+        {
+          "letter": "C",
+          "text": "상자 내부의 용기 수."
+        },
+        {
+          "letter": "D",
+          "text": "\"깨지기 쉬움\"이라는 단어."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "올바른 직립 방향을 가리키는 화살표.",
+      "explanation": "액체 용기를 포함하는 패키지는 올바른 직립 방향을 나타내는 화살표를 표시해야 합니다. 이러한 패키지는 올바른 방향으로 배치되어야 합니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10628",
+      "question": "긴급 대응 정보에 포함되어야 할 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "화재 또는 폭발의 위험"
+        },
+        {
+          "letter": "B",
+          "text": "물질의 가치"
+        },
+        {
+          "letter": "C",
+          "text": "운전자 정보"
+        },
+        {
+          "letter": "D",
+          "text": "계획된 경로"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "화재 또는 폭발의 위험",
+      "explanation": "위험 물질 화물의 긴급 대응 정보는 물질과 관련된 화재 또는 폭발 위험에 대한 세부 정보를 포함해야 합니다."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "10973",
+      "question": "화학 위험에 대한 긴급 대응을 조정하는 데 도움을 주는 기관은 어디입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "국가 대응 센터"
+        },
+        {
+          "letter": "B",
+          "text": "연방 격리 기구"
+        },
+        {
+          "letter": "C",
+          "text": "화학 지원 연합 센터"
+        },
+        {
+          "letter": "D",
+          "text": "국가 운송 네트워크"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "국가 대응 센터",
+      "explanation": "경찰과 소방관을 위한 리소스로서, 국가 대응 센터(National Response Center)는 화학 위험에 대한 긴급 대응 조정을 돕습니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8955",
+      "question": "신고 대상 수량으로 물질이 운송되는 경우, 배송 서류 및 포장에 어떤 문자가 나타날 것입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "DQ"
+        },
+        {
+          "letter": "B",
+          "text": "LT"
+        },
+        {
+          "letter": "C",
+          "text": "RQ"
+        },
+        {
+          "letter": "D",
+          "text": "BR"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "RQ",
+      "explanation": "신고 대상 수량으로 물질이 운송되는 경우, 발송인은 배송 서류 및 포장에 \"RQ\" 문자를 표시해야 합니다."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "10123",
+      "question": "인화성 액체가 적재되거나 하역되기 전에 엔진은 다음과 같아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "꺼져 있어야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "고속 회전됨."
+        },
+        {
+          "letter": "C",
+          "text": "켜짐."
+        },
+        {
+          "letter": "D",
+          "text": "오일이 제거됨."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "꺼져 있어야 합니다.",
+      "explanation": "인화성 액체로 탱크를 적재하거나 하역하기 전에, 펌프를 작동하기 위해 엔진을 구동해야 하는 경우를 제외하고는 엔진을 꺼야 합니다."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "10158",
+      "question": "위험 물질 용기를 적재할 때 다음을 사용하지 않아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "돌리."
+        },
+        {
+          "letter": "B",
+          "text": "갈고리."
+        },
+        {
+          "letter": "C",
+          "text": "스트랩."
+        },
+        {
+          "letter": "D",
+          "text": "다른 도우미들."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "갈고리.",
+      "explanation": "위험물질 용기를 적재 또는 하역할 때 용기나 포장을 손상시킬 수 있는 갈고리나 기타 도구를 사용하면 안 됩니다."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11439",
+      "question": "표지가 있는 차량은 최소 정격의 소화기를 휴대해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 B:C."
+        },
+        {
+          "letter": "B",
+          "text": "20 C."
+        },
+        {
+          "letter": "C",
+          "text": "10 A:B."
+        },
+        {
+          "letter": "D",
+          "text": "5 B:C."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "10 B:C.",
+      "explanation": "표지가 있는 차량의 동력 장치는 10 B:C 이상의 Underwriters Laboratories (UL) 정격이 있는 소화기로 장비되어야 합니다."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "8918",
+      "question": "트럭의 어느 위치에 위험물 표지판을 붙여야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "뒤쪽에"
+        },
+        {
+          "letter": "B",
+          "text": "왼쪽과 오른쪽"
+        },
+        {
+          "letter": "C",
+          "text": "앞쪽에"
+        },
+        {
+          "letter": "D",
+          "text": "위의 모든 것"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "위의 모든 것",
+      "explanation": "위험물 표지판이 필요한 경우 차량의 4면 모두에 붙여야 합니다."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "10124",
+      "question": "압축 가스를 로딩할 때 액체 배출 밸브는 다음과 같아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "닫혀 있어야 함."
+        },
+        {
+          "letter": "B",
+          "text": "윤활유를 칠함."
+        },
+        {
+          "letter": "C",
+          "text": "열려 있음."
+        },
+        {
+          "letter": "D",
+          "text": "제거되어야 함."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "열려 있음.",
+      "explanation": "압축 가스 탱크의 액체 배출 밸브는 적재 및 하역할 때를 제외하고는 닫혀 있어야 합니다."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "10144",
+      "question": "Class 1, Class 2.1 및 Class 3 품목은 다음과 함께 트레일러에 배치되어서는 안 됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "히터."
+        },
+        {
+          "letter": "B",
+          "text": "에어컨."
+        },
+        {
+          "letter": "C",
+          "text": "기타 물품."
+        },
+        {
+          "letter": "D",
+          "text": "종이."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "히터.",
+      "explanation": "화물 난방기의 사용이 항상 허용되는 것은 아닙니다. Class 1(폭발물), Class 2.1(인화성 가스) 또는 Class 3(인화성 액체) 물질로 분류된 물질을 운송할 때, 난방기는 일반적으로 금지됩니다."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "9551",
+      "question": "배송되는 물질의 위험 등급을 식별할 책임이 있는 사람은 누구입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "배송자"
+        },
+        {
+          "letter": "B",
+          "text": "운송업체"
+        },
+        {
+          "letter": "C",
+          "text": "운전자"
+        },
+        {
+          "letter": "D",
+          "text": "정비사"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "배송자",
+      "explanation": "위험 물질의 송하인은 제품의 식별 번호, 적절한 운송 이름, 위험 등급, 포장 그룹, 올바른 포장, 레이블, 표시 및 위험 물질 표지를 식별할 책임이 있습니다."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "10925",
+      "question": "필요한 경우 ____ 동일한 플래카드가 차량에 부착되어야 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "두 잔"
+        },
+        {
+          "letter": "B",
+          "text": "4초"
+        },
+        {
+          "letter": "C",
+          "text": "6"
+        },
+        {
+          "letter": "D",
+          "text": "8"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "4초",
+      "explanation": "위험 물질 플래카드가 필요한 경우 차량은 4개의 동일한 플래카드를 표시해야 합니다. 플래카드는 전면, 후면 및 차량의 양쪽에 부착되어야 합니다."
+    }
+  ]
+}

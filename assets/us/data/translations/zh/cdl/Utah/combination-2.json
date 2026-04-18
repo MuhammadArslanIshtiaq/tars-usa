@@ -1,0 +1,734 @@
+{
+  "state": "Utah",
+  "category": "cdl",
+  "testName": "Combination Test #2 30 Questions • Passing Score 25",
+  "testSlug": "combination-2",
+  "url": "/images/utah/cdl/combination-2.html",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11834",
+      "question": "紧急空气管为以下部分供应空气：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "继电器阀。"
+        },
+        {
+          "letter": "B",
+          "text": "挂车空气油罐。"
+        },
+        {
+          "letter": "C",
+          "text": "信号管。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "挂车空气油罐。",
+      "explanation": "紧急空气管（也称为供应管）有两个功能。第一是为挂车空气油罐供应空气，第二是控制组合车辆上的紧急制动器。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9469",
+      "question": "防锁制动系统(ABS)有什么作用？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "它允许车辆的车轮抱死。"
+        },
+        {
+          "letter": "B",
+          "text": "它可以防止车辆的车轮抱死。"
+        },
+        {
+          "letter": "C",
+          "text": "它使车辆转向更容易。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "它可以防止车辆的车轮抱死。",
+      "explanation": "防抱死制动系统(ABS)有助于在紧急制动期间防止车轮抱死。如果ABS检测到即将抱死，它会将制动压力降低到安全水平。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11459",
+      "question": "在行驶前，通过以下方式确保空气流向所有拖车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "打开后关闭阀并听取逸出的空气。"
+        },
+        {
+          "letter": "B",
+          "text": "关闭后关闭阀并听取逸出的空气。"
+        },
+        {
+          "letter": "C",
+          "text": "断开空气供应管线并听取逸出的空气。"
+        },
+        {
+          "letter": "D",
+          "text": "将每辆拖车滚动下坡并测试制动器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "打开后关闭阀并听取逸出的空气。",
+      "explanation": "在行程前，确保空气制动系统中的空气到达所有拖车。通过等待空气压力建立，然后将空气发送到应急和服务线，并打开最后一个拖车后部的关闭阀来完成此操作。如果空气从联合车后部的关闭阀逸出，则空气被供应到整个车辆。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11072",
+      "question": "组合车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "挂车通常比单个商用车更高。"
+        },
+        {
+          "letter": "B",
+          "text": "通常比单个商用车轻。"
+        },
+        {
+          "letter": "C",
+          "text": "比驾驶单个商用车需要更多的技能。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "比驾驶单个商用车需要更多的技能。",
+      "explanation": "驾驶组合车比驾驶单个商用车需要更多的技能。组合车通常更长，通常更重，更容易翻转。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11554",
+      "question": "为了防止翻车，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "保持货物低位。"
+        },
+        {
+          "letter": "B",
+          "text": "将货物放在高位。"
+        },
+        {
+          "letter": "C",
+          "text": "保持货物松散。"
+        },
+        {
+          "letter": "D",
+          "text": "快速转向。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "保持货物低位。",
+      "explanation": "当组合车辆转向过快时，翻车会发生。为了帮助防止翻车风险，通过将货物尽可能靠近地面装载来保持车辆的重心低很重要。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11570",
+      "question": "处于\"紧急\"位置的空气供应控制将：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "打开空气供应。"
+        },
+        {
+          "letter": "B",
+          "text": "应用拖车紧急制动。"
+        },
+        {
+          "letter": "C",
+          "text": "防止打滑。"
+        },
+        {
+          "letter": "D",
+          "text": "加速车辆。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "应用拖车紧急制动。",
+      "explanation": "旧车辆中的牵引车保护控制装置可能由杆杆而不是旋钮操作。如果气源控制杆设置在其\"应急\"位置，气源供应将停止，挂车应急制动器将被施加。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10911",
+      "question": "翻车发生在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶员转向过快。"
+        },
+        {
+          "letter": "B",
+          "text": "驾驶员转向过慢。"
+        },
+        {
+          "letter": "C",
+          "text": "下雨。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "驾驶员转向过快。",
+      "explanation": "当驾驶员转向或变道过快时会发生翻车。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8889",
+      "question": "什么是偏移跟踪？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "当车辆的前轮跟随与后轮不同的路径时"
+        },
+        {
+          "letter": "B",
+          "text": "当车辆的所有轮子都跟随完全相同的路径时"
+        },
+        {
+          "letter": "C",
+          "text": "当负载在转弯时移动时"
+        },
+        {
+          "letter": "D",
+          "text": "当车辆的轮子在转弯时驶过路缘时"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "当车辆的前轮跟随与后轮不同的路径时",
+      "explanation": "当车辆绕过一个转角时，后轮跟随与前轮不同的路径。这被称为偏移跟踪或\"作弊\"。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "10240",
+      "question": "当负载较轻时，组合车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不应被驾驶。"
+        },
+        {
+          "letter": "B",
+          "text": "制动能力降低。"
+        },
+        {
+          "letter": "C",
+          "text": "不会翻覆。"
+        },
+        {
+          "letter": "D",
+          "text": "应将大部分重量装在拖车后部。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "制动能力降低。",
+      "explanation": "当组合车负载较轻时，它的牵引力可能较差。在停止时，轻载车辆的轮子很容易锁定。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10701",
+      "question": "当车辆转弯时，后轮：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "行驶的路径与前轮相同。"
+        },
+        {
+          "letter": "B",
+          "text": "行驶的路径与前轮不同。"
+        },
+        {
+          "letter": "C",
+          "text": "不应该是驾驶员的担忧。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "行驶的路径与前轮不同。",
+      "explanation": "当任何车辆转弯时，后轮行驶的路径与前轮不同。这被称为偏轨。长车辆的偏轨程度比短车辆更大。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11840",
+      "question": "在行程中，____应该打开。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "后服务线关闭阀"
+        },
+        {
+          "letter": "B",
+          "text": "后供应线关闭阀"
+        },
+        {
+          "letter": "C",
+          "text": "内部关闭阀"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "内部关闭阀",
+      "explanation": "开始行程时，确保除了最后一个拖车上的阀门外，所有关闭阀门都处于打开位置。重要的是空气到达所有拖车上的制动器，并且空气不能从车辆后部逸出。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11600",
+      "question": "与其他商业机动车相比，组合车辆需要更多的道路空间，因为它们更长，并且需要：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "需要更多的转向和停止空间。"
+        },
+        {
+          "letter": "B",
+          "text": "驾驶速度更慢。"
+        },
+        {
+          "letter": "C",
+          "text": "宽度是两倍。"
+        },
+        {
+          "letter": "D",
+          "text": "更经常摇摆。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "需要更多的转向和停止空间。",
+      "explanation": "组合车辆需要比其他商业车辆更多的道路空间，因为它们更长，需要更多空间来转向和停止。在操作组合车辆时，妥善管理空间特别重要。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8902",
+      "question": "未能保持第五轮盘板适当润滑可能会：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "导致拖车脱落。"
+        },
+        {
+          "letter": "B",
+          "text": "导致转向问题。"
+        },
+        {
+          "letter": "C",
+          "text": "导致制动问题。"
+        },
+        {
+          "letter": "D",
+          "text": "影响灯光。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "导致转向问题。",
+      "explanation": "未能保持第五轮盘板适当润滑可能会导致牵引车和拖车之间产生摩擦，从而导致转向问题。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11833",
+      "question": "服务气路通常由脚踏制动器控制，并连接到____阀。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "中继"
+        },
+        {
+          "letter": "B",
+          "text": "供应"
+        },
+        {
+          "letter": "C",
+          "text": "紧急"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "中继",
+      "explanation": "服务气路传输空气，由脚踏制动器或拖车手制动器控制。服务气路连接到中继阀，允许拖车制动器迅速应用。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11207",
+      "question": "何时应该使用拖车手制动阀？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅当拖车承载货物时"
+        },
+        {
+          "letter": "B",
+          "text": "仅用于测试拖车的制动器"
+        },
+        {
+          "letter": "C",
+          "text": "仅在拖车可能打滑的恶劣天气条件下"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "仅用于测试拖车的制动器",
+      "explanation": "拖车手动阀，也称为手推车阀或Johnson bar，用于操作拖车制动器。它应仅用于测试制动器。在车辆行驶中使用它可能会导致打滑。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11025",
+      "question": "如果不确定拖车是否配备防抱死制动系统(ABS)，你可以：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在拖车下方查看来自制动器后部的车轮速度传感器。"
+        },
+        {
+          "letter": "B",
+          "text": "拆下轮胎并查看车轴上的ABS传感器。"
+        },
+        {
+          "letter": "C",
+          "text": "假设它确实配备了ABS。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在拖车下方查看来自制动器后部的车轮速度传感器。",
+      "explanation": "如果你不知道拖车是否配备ABS，请在车辆下方查看电子控制单元和来自制动器后部的车轮速度传感器导线。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10250",
+      "question": "如果使用颜色来区分快速接头,应急线使用什么颜色?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "橙色"
+        },
+        {
+          "letter": "B",
+          "text": "黄色"
+        },
+        {
+          "letter": "C",
+          "text": "蓝色"
+        },
+        {
+          "letter": "D",
+          "text": "红色"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "红色",
+      "explanation": "当拖车空气管路采用颜色编码时，服务管路通常为蓝色，紧急管路通常为红色。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11212",
+      "question": "如果使用颜色编码，用哪种颜色来识别紧急或供应管路？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "白色"
+        },
+        {
+          "letter": "B",
+          "text": "黄色"
+        },
+        {
+          "letter": "C",
+          "text": "红色"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "红色",
+      "explanation": "气管线有时会使用颜色编码来帮助驾驶员在连接快速接头时避免出错。通常，蓝色用于服务管路，红色用于紧急管路。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11829",
+      "question": "驾驶时不应该使用拖车手动阀是因为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "它将与车辆断开连接。"
+        },
+        {
+          "letter": "B",
+          "text": "你将太快地停止车辆。"
+        },
+        {
+          "letter": "C",
+          "text": "它可能导致打滑。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "它可能导致打滑。",
+      "explanation": "操作车辆时不要使用拖车手动阀。驾驶时使用拖车手动阀会导致拖车打滑。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11204",
+      "question": "当组合车转过一个弯角时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "车辆必须至少使用两条车道。"
+        },
+        {
+          "letter": "B",
+          "text": "前轮和后轮将沿不同路径运动。"
+        },
+        {
+          "letter": "C",
+          "text": "最好让后轮压过路缘石。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "前轮和后轮将沿不同路径运动。",
+      "explanation": "车辆转过弯角时，后轮跟踪的路径与前轮不同。这称为越位跟踪。这种效应在带有拖车的车辆上特别明显。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8892",
+      "question": "牵引车保护阀是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一种装置，在拖车分离或发生严重泄漏时保持牵引车或卡车制动系统中的空气。"
+        },
+        {
+          "letter": "B",
+          "text": "一种防止盗窃的装置。"
+        },
+        {
+          "letter": "C",
+          "text": "一种控制燃油液位的装置。"
+        },
+        {
+          "letter": "D",
+          "text": "一种允许电池有效充电的装置。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "一种装置，在拖车分离或发生严重泄漏时保持牵引车或卡车制动系统中的空气。",
+      "explanation": "在配备空气制动的联合车辆上，牵引车保护阀在拖车发生严重泄漏或与牵引车分离时保持牵引车或卡车制动系统中的空气。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "10962",
+      "question": "识别拖车开始侧滑的最佳方法是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "看到其他司机的脸。"
+        },
+        {
+          "letter": "B",
+          "text": "在你的后视镜中看到。"
+        },
+        {
+          "letter": "C",
+          "text": "感受到。"
+        },
+        {
+          "letter": "D",
+          "text": "听收音机。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在你的后视镜中看到。",
+      "explanation": "识别拖车侧滑开始的最早和最佳方法是在你的后视镜中看到拖车偏离路线。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11568",
+      "question": "在配备自动拖车保护阀的车辆中，该阀将在以下情况下弹出：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "空气压力下降到20至45 psi之间的水平。"
+        },
+        {
+          "letter": "B",
+          "text": "你正在经历拖车折叠。"
+        },
+        {
+          "letter": "C",
+          "text": "车轮在打滑后恢复了牵引力。"
+        },
+        {
+          "letter": "D",
+          "text": "空气压力高于45 psi。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "空气压力下降到20至45 psi之间的水平。",
+      "explanation": "在配备自动拖车保护阀的车辆中，当空气压力下降到20至45 psi之间的水平时，该阀将弹出。当阀弹出时，保护阀将关闭，停止空气流动。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11523",
+      "question": "底部间隙较低的拖车在以下情况下行驶时可能会出现挑战：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "桥梁。"
+        },
+        {
+          "letter": "B",
+          "text": "铁轨。"
+        },
+        {
+          "letter": "C",
+          "text": "高架桥。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "铁轨。",
+      "explanation": "拉着底部间隙低的拖车时，铁路公路交叉口可能很难通过。特别是，低底盘车辆和拉长拖车的单轴牵引车在通过升高的交叉口时特别具有挑战性。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11618",
+      "question": "在用牵引车倒车进入挂车之前，确保您的挂车制动器处于：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "脱离。"
+        },
+        {
+          "letter": "B",
+          "text": "锁定。"
+        },
+        {
+          "letter": "C",
+          "text": "停用。"
+        },
+        {
+          "letter": "D",
+          "text": "干燥。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "锁定。",
+      "explanation": "正确遵循挂车的耦合和解耦步骤对于安全操作联合车辆至关重要。在用牵引车倒车进入挂车进行耦合之前，确保您的挂车制动器被锁定。"
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "11456",
+      "question": "如果拖车太高：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "耦合时不会有区别。"
+        },
+        {
+          "letter": "B",
+          "text": "它可能无法正确耦合。"
+        },
+        {
+          "letter": "C",
+          "text": "耦合将更加安全。"
+        },
+        {
+          "letter": "D",
+          "text": "耦合会更容易。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "它可能无法正确耦合。",
+      "explanation": "在将拖拉机和拖车连接在一起之前，你应该确保拖车处于正确的高度。如果拖车太低，拖车前端可能会损坏。如果拖车太高，它可能无法正确连接。"
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "8897",
+      "question": "应急空气管路通常用以下颜色编码：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色。"
+        },
+        {
+          "letter": "B",
+          "text": "橙色。"
+        },
+        {
+          "letter": "C",
+          "text": "黄色。"
+        },
+        {
+          "letter": "D",
+          "text": "红色。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "红色。",
+      "explanation": "一般来说，服务空气管路的部件用蓝色编码，应急空气管路的部件用红色编码。"
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "9468",
+      "question": "所有在____之后制造的拖车必须配备防抱死制动系统(ABS)。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1943"
+        },
+        {
+          "letter": "B",
+          "text": "1998"
+        },
+        {
+          "letter": "C",
+          "text": "2009"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "1998",
+      "explanation": "所有在1998年3月1日或之后制造的拖车和转换拖斗必须配备防抱死制动系统(ABS)。"
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "11562",
+      "question": "如果您需要倒车拖车但无法直线倒车，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "朝向乘客侧倒车。"
+        },
+        {
+          "letter": "B",
+          "text": "朝向驾驶员侧倒车。"
+        },
+        {
+          "letter": "C",
+          "text": "倒车时左右摇晃。"
+        },
+        {
+          "letter": "D",
+          "text": "总是向右转。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "朝向驾驶员侧倒车。",
+      "explanation": "如果您需要倒车拖车但无法直线倒车，您应该沿着朝向车辆驾驶员一侧的弯曲路径倒车。这将使您在倒车时获得最佳可见性。"
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "8888",
+      "question": "挂车最有可能甩出的情况是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "它是满的。"
+        },
+        {
+          "letter": "B",
+          "text": "直线行驶。"
+        },
+        {
+          "letter": "C",
+          "text": "它是空的。"
+        },
+        {
+          "letter": "D",
+          "text": "车轮在旋转。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "它是空的。",
+      "explanation": "空挂车所需的停止距离比满载挂车长。此外，当挂车装载不足或为空时，最有可能甩出并撞击其他车辆。"
+    }
+  ]
+}

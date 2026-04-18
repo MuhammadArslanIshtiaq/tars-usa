@@ -1,0 +1,474 @@
+{
+  "state": "Connecticut",
+  "category": "cdl",
+  "testName": "Double Test #1 20 Questions • Passing Score 16",
+  "testSlug": "double-1",
+  "url": "/images/connecticut/cdl/double-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "10695",
+      "question": "什么是总组合重量？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "动力装置、拖车和货物的总重量"
+        },
+        {
+          "letter": "B",
+          "text": "不含负载的单个车辆的总重量"
+        },
+        {
+          "letter": "C",
+          "text": "制造商允许的最大重量"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "动力装置、拖车和货物的总重量",
+      "explanation": "总组合重量（GCW）是动力装置、其拖车及所运载货物的总重量。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9248",
+      "question": "在你的车辆和前面的车辆之间保持安全距离是:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不受鼓励，因为它会减慢交通流量。"
+        },
+        {
+          "letter": "B",
+          "text": "受鼓励，因为它给你时间对意外危险做出反应。"
+        },
+        {
+          "letter": "C",
+          "text": "仅在与乘客一起行驶时受鼓励。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "受鼓励，因为它给你时间对意外危险做出反应。",
+      "explanation": "为了安全驾驶，必须在车辆的四周保持安全距离。这有助于确保如果出现问题，你有时间采取适当的行动。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10952",
+      "question": "如果驾驶时感到困倦，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "继续行驶并完成旅程。"
+        },
+        {
+          "letter": "B",
+          "text": "加快驾驶速度以更快地到达目的地。"
+        },
+        {
+          "letter": "C",
+          "text": "驶离路面并小睡一下。"
+        },
+        {
+          "letter": "D",
+          "text": "服用能量药丸。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "驶离路面并小睡一下。",
+      "explanation": "如果您在驾驶时开始感到困倦，唯一安全的做法是停止驾驶并睡觉。试图抵抗疲劳是危险的，也是致命事故的主要原因。刺激剂不是安全的解决方案，因为它们可能有助于保持清醒但不会使您更加警觉。一旦刺激剂消退，您会比原来更加疲劳。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8641",
+      "question": "制动器特别容易失调，尤其是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "如果它们很热。"
+        },
+        {
+          "letter": "B",
+          "text": "在冬季。"
+        },
+        {
+          "letter": "C",
+          "text": "如果经常使用它们。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "如果它们很热。",
+      "explanation": "如果制动器很热，它们特别容易失调。请务必定期检查制动器的调整。为了安全控制车辆，所有制动器必须正常工作和调整。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11466",
+      "question": "在应用泄漏测试期间，三组合车辆的最大泄漏率为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每分钟10 psi"
+        },
+        {
+          "letter": "B",
+          "text": "每分钟8 psi"
+        },
+        {
+          "letter": "C",
+          "text": "每分钟6 psi"
+        },
+        {
+          "letter": "D",
+          "text": "每分钟4 psi"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "每分钟6 psi",
+      "explanation": "了解您特定车辆的最大安全空气损失率很重要。三组合车辆在应用泄漏测试期间的泄漏率不应高于每分钟6 psi"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11194",
+      "question": "水和压缩机油通常存在于空气制动系统中的压缩空气中。水和压缩机油：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "对系统的正常运行是必需的。"
+        },
+        {
+          "letter": "B",
+          "text": "应占罐容量的约10%。"
+        },
+        {
+          "letter": "C",
+          "text": "应定期清除。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "应定期清除。",
+      "explanation": "如果水和压缩机油在空气制动系统中积累，系统可能会损坏。充气罐配备排水管，以便清除这些积累物。手动控制的排水管应在每天驾驶结束时操作。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10911",
+      "question": "翻车发生在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶员转向过快。"
+        },
+        {
+          "letter": "B",
+          "text": "驾驶员转向过慢。"
+        },
+        {
+          "letter": "C",
+          "text": "下雨。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "驾驶员转向过快。",
+      "explanation": "当驾驶员转向或变道过快时会发生翻车。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "9976",
+      "question": "水滑：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅在极高速度下发生。"
+        },
+        {
+          "letter": "B",
+          "text": "可以在低至30 mph的速度下发生。"
+        },
+        {
+          "letter": "C",
+          "text": "当轮胎气压过高时最经常发生。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "可以在低至30 mph的速度下发生。",
+      "explanation": "如果路面有足够的水，即使在30 mph的速度下也可能发生水滑现象。如果轮胎气压过低或轮胎胎面磨损，最容易发生。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9590",
+      "question": "镜子调整应该在什么时候进行?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在开始行程之前"
+        },
+        {
+          "letter": "B",
+          "text": "驾驶中"
+        },
+        {
+          "letter": "C",
+          "text": "当车辆在红绿灯处停止时"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在开始行程之前",
+      "explanation": "镜子调整应该在每次行程开始前进行检查。调整镜子时，任何拖挂的拖车应该保持直线。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10422",
+      "question": "警告后面驾驶员您将减速的方法是什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "打开右转向信号，然后打开左转向信号。"
+        },
+        {
+          "letter": "B",
+          "text": "点踩制动踏板几次以点亮制动灯。"
+        },
+        {
+          "letter": "C",
+          "text": "左右摇晃以吸引其他驾驶员的注意。"
+        },
+        {
+          "letter": "D",
+          "text": "多次打开和关闭所有灯光。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "点踩制动踏板几次以点亮制动灯。",
+      "explanation": "为了提醒后面的驾驶员您计划减速，请轻轻点踩制动踏板几次，使制动灯闪烁。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11876",
+      "question": "拉出挂车空气供应控制装置以测试：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "挂车应急制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "防抱死制动系统。"
+        },
+        {
+          "letter": "C",
+          "text": "轮挡。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "挂车应急制动器。",
+      "explanation": "在开始行驶前，一定要测试挂车应急制动器。确保挂车能自由滚动后，您可以通过拉出挂车气源控制杆或将其放在\"应急\"位置来测试应急制动器。用牵引车轻微向前拉，确保挂车不移动。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8515",
+      "question": "当启动带拖车的卡车引擎时，如果以下情况发生，你可以判断你的车辆ABS不工作：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "拖车左后方的黄灯保持亮起。"
+        },
+        {
+          "letter": "B",
+          "text": "拖车右侧的红灯闪烁三次。"
+        },
+        {
+          "letter": "C",
+          "text": "所有后灯闪烁然后熄灭。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "拖车左后方的黄灯保持亮起。",
+      "explanation": "打开车辆引擎时，仪表盘上的灯应该亮起，然后熄灭。如果ABS故障灯保持亮起，系统工作不正常。对于带拖车的卡车，如果拖车左后方的黄灯在引擎启动后保持亮起，系统工作不正常。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10374",
+      "question": "如果计划改变车道，你的后视镜应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不需要检查。"
+        },
+        {
+          "letter": "B",
+          "text": "像往常一样检查。"
+        },
+        {
+          "letter": "C",
+          "text": "比平时检查得更频繁。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "比平时检查得更频繁。",
+      "explanation": "虽然定期检查后视镜应该是你日常扫描程序的一部分，但在改变车道时要特别注意检查你的后视镜。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10195",
+      "question": "货物固定后：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您可以完成整个行程而无需检查。"
+        },
+        {
+          "letter": "B",
+          "text": "您可以驾驶至少八小时而无需检查。"
+        },
+        {
+          "letter": "C",
+          "text": "您应该每三小时或150英里检查一次。"
+        },
+        {
+          "letter": "D",
+          "text": "您不应该检查它。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "您应该每三小时或150英里检查一次。",
+      "explanation": "必须在开始旅程前、旅程开始后的前50英里内以及之后每3小时或150英里检查一次货物的固定。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9441",
+      "question": "夜间驾驶是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "比白天驾驶更安全。"
+        },
+        {
+          "letter": "B",
+          "text": "与白天驾驶一样安全。"
+        },
+        {
+          "letter": "C",
+          "text": "比白天驾驶更危险。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "比白天驾驶更危险。",
+      "explanation": "夜间驾驶比白天驾驶更危险，因为在黑暗中更难看到危险。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11720",
+      "question": "在干燥路面上以55 mph的速度制动时，制动滞后可以增加____到你的车辆总停止距离。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32英尺"
+        },
+        {
+          "letter": "B",
+          "text": "15英尺"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        },
+        {
+          "letter": "D",
+          "text": "10英尺"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32英尺",
+      "explanation": "配备空气制动的车辆的总停止距离由四个因素组成：感知距离、反应距离、制动滞后距离和制动距离。在干燥路面上以55 mph的速度制动时，制动滞后可以增加约32英尺到车辆的总停止距离。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11684",
+      "question": "在静态泄漏测试中，配备空气制动的三重组合车辆每分钟的最大泄漏率为____。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi"
+        },
+        {
+          "letter": "B",
+          "text": "5 psi"
+        },
+        {
+          "letter": "C",
+          "text": "7 psi"
+        },
+        {
+          "letter": "D",
+          "text": "9 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "5 psi",
+      "explanation": "在对配备空气制动的三重组合车辆进行静态泄漏测试时，泄漏率应不超过每分钟5 psi。如果空气从空气制动系统泄漏的速度更快，则不应驾驶该车辆，因为可能需要进行维修。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8632",
+      "question": "配备防抱死制动系统(ABS)的车辆有____故障灯，用于指示ABS何时不工作。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色"
+        },
+        {
+          "letter": "B",
+          "text": "蓝色"
+        },
+        {
+          "letter": "C",
+          "text": "黄色"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "黄色",
+      "explanation": "配备ABS的车辆有黄色故障灯，用于警告驾驶员制动系统何时不工作。在开始行驶前，请确保您知道车辆上故障灯的位置。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10081",
+      "question": "低气压警告信号：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在装有气制动系统的车辆上不是必需的。"
+        },
+        {
+          "letter": "B",
+          "text": "在装有气制动系统的车辆上是必需的。"
+        },
+        {
+          "letter": "C",
+          "text": "在装有气制动系统的车辆上是可选的。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在装有气制动系统的车辆上是必需的。",
+      "explanation": "装有气制动系统的车辆必须配备低气压警告信号。如果车辆行驶中警告信号发出，驾驶员应将车辆完全停止并修理系统。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10056",
+      "question": "什么时候应该调整后视镜？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶前"
+        },
+        {
+          "letter": "B",
+          "text": "驾驶中"
+        },
+        {
+          "letter": "C",
+          "text": "驾驶后"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "驾驶前",
+      "explanation": "在所有行程开始前应检查后视镜的调整。根据需要调整后视镜。"
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "road-marking": [
+    {
+      "id": 1,
+      "type": "guide",
+      "title_en": "Areas To Separate Traffic Movements",
+      "description_en": "This sign indicates areas to separate traffic movements.",
+      "image_path": "signs/road-marking/Areas-to-separate-traffic-movements.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ٹریفک کی نقل و حرکت کو الگ کرنے کے علاقے",
+          "description": "یہ نشان ٹریفک کی نقل و حرکت کو الگ کرنے والے علاقوں کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مناطق لفصل حركة المرور",
+          "description": "تشير هذه اللافتة إلى مناطق فصل حركة المرور."
+        },
+        "hi": {
+          "title": "यातायात की गतिविधियों को अलग करने वाले क्षेत्र",
+          "description": "यह संकेत यातायात की गतिविधियों को अलग करने वाले क्षेत्रों को दर्शाता है।"
+        },
+        "bn": {
+          "title": "ট্র্যাফিকের চলাচল আলাদা করার এলাকা",
+          "description": "এই সাইনটি ট্র্যাফিকের চলাচল আলাদা করার এলাকা নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": "guide",
+      "title_en": "Box Junctions",
+      "description_en": "This sign indicates box junctions on the road.",
+      "image_path": "signs/road-marking/Box-Junctions.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "باکس جنکشنز",
+          "description": "یہ نشان سڑک پر باکس جنکشنز کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "تقاطعات صندوقية",
+          "description": "تشير هذه اللافتة إلى التقاطعات الصندوقية على الطريق."
+        },
+        "hi": {
+          "title": "बॉक्स जंक्शन",
+          "description": "यह संकेत सड़क पर बॉक्स जंक्शनों को दर्शाता है।"
+        },
+        "bn": {
+          "title": "বক্স জংশন",
+          "description": "এই সাইনটি রাস্তার উপর বক্স জংশন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "guide",
+      "title_en": "Broken White Lines",
+      "description_en": "This sign indicates broken white lines on the road.",
+      "image_path": "signs/road-marking/Broken-White-Lines.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ٹوٹی ہوئی سفید لکیریں",
+          "description": "یہ نشان سڑک پر ٹوٹی ہوئی سفید لکیروں کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "خطوط بيضاء متقطعة",
+          "description": "تشير هذه اللافتة إلى خطوط بيضاء متقطعة على الطريق."
+        },
+        "hi": {
+          "title": "टूटी हुई सफेद लाइनें",
+          "description": "यह संकेत सड़क पर टूटी हुई सफेद लाइनों को दर्शाता है।"
+        },
+        "bn": {
+          "title": "ভাঙা সাদা লাইন",
+          "description": "এই সাইনটি রাস্তার উপর ভাঙা সাদা লাইন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "guide",
+      "title_en": "Broken Yellow Lines",
+      "description_en": "This sign indicates broken yellow lines on the road.",
+      "image_path": "signs/road-marking/Broken-Yellow-Lines.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ٹوٹی ہوئی پیلی لکیریں",
+          "description": "یہ نشان سڑک پر ٹوٹی ہوئی پیلی لکیروں کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "خطوط صفراء متقطعة",
+          "description": "تشير هذه اللافتة إلى خطوط صفراء متقطعة على الطريق."
+        },
+        "hi": {
+          "title": "टूटी हुई पीली लाइनें",
+          "description": "यह संकेत सड़क पर टूटी हुई पीली लाइनों को दर्शाता है।"
+        },
+        "bn": {
+          "title": "ভাঙা হলুদ লাইন",
+          "description": "এই সাইনটি রাস্তার উপর ভাঙা হলুদ লাইন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "guide",
+      "title_en": "Bus Stop Marking",
+      "description_en": "This sign indicates a designated bus stop area.",
+      "image_path": "signs/road-marking/Bus-Stop-Marking.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "بس سٹاپ کا نشان",
+          "description": "یہ نشان ایک مخصوص بس سٹاپ کی جگہ کو ظاہر کرتا ہے۔"
+        },
+        "ar": {
+          "title": "علامة موقف حافلات",
+          "description": "تشير هذه اللافتة إلى منطقة موقف حافلات مخصصة."
+        },
+        "hi": {
+          "title": "बस स्टॉप का चिह्न",
+          "description": "यह संकेत एक निर्दिष्ट बस स्टॉप क्षेत्र को दर्शाता है।"
+        },
+        "bn": {
+          "title": "বাস স্টপ চিহ্ন",
+          "description": "এই সাইনটি একটি মনোনীত বাস স্টপ এলাকা নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "type": "guide",
+      "title_en": "Give Way Line",
+      "description_en": "This sign indicates a give way line on the road.",
+      "image_path": "signs/road-marking/Give-Way-Line.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "راستہ دیں کی لکیر",
+          "description": "یہ نشان سڑک پر راستہ دیں کی لکیر کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "خط أفسح الطريق",
+          "description": "تشير هذه اللافتة إلى خط أفسح الطريق على الطريق."
+        },
+        "hi": {
+          "title": "रास्ता दें की लाइन",
+          "description": "यह संकेत सड़क पर रास्ता दें की लाइन को दर्शाता है।"
+        },
+        "bn": {
+          "title": "রাস্তা দিন লাইন",
+          "description": "এই সাইনটি রাস্তার উপর একটি 'রাস্তা দিন' লাইন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 27,
+      "type": "guide",
+      "title_en": "Keep Entrance Clear",
+      "description_en": "This sign indicates that the entrance should be kept clear.",
+      "image_path": "signs/road-marking/Keep-Entrance-Clear.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "داخلہ صاف رکھیں",
+          "description": "یہ نشان ظاہر کرتا ہے کہ داخلہ صاف رکھا جانا چاہیے۔"
+        },
+        "ar": {
+          "title": "حافظ على وضوح المدخل",
+          "description": "تشير هذه اللافتة إلى ضرورة إبقاء المدخل واضحًا."
+        },
+        "hi": {
+          "title": "प्रवेश द्वार को साफ रखें",
+          "description": "यह संकेत बताता है कि प्रवेश द्वार को साफ रखा जाना चाहिए।"
+        },
+        "bn": {
+          "title": "প্রবেশপথ পরিষ্কার রাখুন",
+          "description": "এই সাইনটি নির্দেশ করে যে প্রবেশপথ পরিষ্কার রাখতে হবে।"
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "guide",
+      "title_en": "No Passing Line",
+      "description_en": "This sign indicates a no-passing line on the road.",
+      "image_path": "signs/road-marking/No-Passing-Line.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "اوورٹیک کرنے کی اجازت نہیں ہے کی لکیر",
+          "description": "یہ نشان سڑک پر اوورٹیک کرنے کی اجازت نہیں ہے کی لکیر کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "خط ممنوع التجاوز",
+          "description": "تشير هذه اللافتة إلى خط ممنوع التجاوز على الطريق."
+        },
+        "hi": {
+          "title": "नो पासिंग लाइन",
+          "description": "यह संकेत सड़क पर एक नो-पासिंग लाइन को दर्शाता है।"
+        },
+        "bn": {
+          "title": "ওভারটেক নিষেধ লাইন",
+          "description": "এই সাইনটি রাস্তার উপর ওভারটেক নিষেধ লাইন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 37,
+      "type": "guide",
+      "title_en": "Pedestrian Crossing On A Dual Carriageway",
+      "description_en": "This sign indicates a pedestrian crossing on a dual carriageway.",
+      "image_path": "signs/road-marking/Pedestrian-crossing-on-a-dual-carriageway.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "دوہری سڑک پر پیدل چلنے والوں کی کراسنگ",
+          "description": "یہ نشان دوہری سڑک پر پیدل چلنے والوں کی کراسنگ کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "عبور المشاة على طريق مزدوج",
+          "description": "تشير هذه اللافتة إلى معبر مشاة على طريق مزدوج."
+        },
+        "hi": {
+          "title": "दोहरी सड़क पर पैदल यात्री क्रॉसिंग",
+          "description": "यह संकेत दोहरी सड़क पर एक पैदल यात्री क्रॉसिंग को दर्शाता है।"
+        },
+        "bn": {
+          "title": "দ্বৈত রাস্তায় পথচারী পারাপার",
+          "description": "এই সাইনটি একটি দ্বৈত রাস্তায় পথচারী পারাপার নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "type": "guide",
+      "title_en": "Pedestrian Crossing On A Single Carriageway",
+      "description_en": "This sign indicates a pedestrian crossing on a single carriageway.",
+      "image_path": "signs/road-marking/Pedestrian-crossing-on-a-single-carriageway.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ایک سڑک پر پیدل چلنے والوں کی کراسنگ",
+          "description": "یہ نشان ایک سڑک پر پیدل چلنے والوں کی کراسنگ کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "عبور المشاة على طريق مفرد",
+          "description": "تشير هذه اللافتة إلى معبر مشاة على طريق مفرد."
+        },
+        "hi": {
+          "title": "एकल सड़क पर पैदल यात्री क्रॉसिंग",
+          "description": "यह संकेत एकल सड़क पर एक पैदल यात्री क्रॉसिंग को दर्शाता है।"
+        },
+        "bn": {
+          "title": "একক রাস্তায় পথচারী পারাপার",
+          "description": "এই সাইনটি একটি একক রাস্তায় পথচারী পারাপার নির্দেশ করে।"
+        }
+      }
+    },
+   
+    {
+      "id": 58,
+      "type": "guide",
+      "title_en": "Zig Zag Zone Line",
+      "description_en": "This sign indicates zig-zag zone lines on the road.",
+      "image_path": "signs/road-marking/Zig-Zag-Zone-Line.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "زگ زیگ زون کی لکیر",
+          "description": "یہ نشان سڑک پر زگ زیگ زون کی لکیروں کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "خط منطقة متعرجة",
+          "description": "تشير هذه اللافتة إلى خطوط منطقة متعرجة على الطريق."
+        },
+        "hi": {
+          "title": "ज़िग-ज़ैग ज़ोन लाइन",
+          "description": "यह संकेत सड़क पर ज़िग-ज़ैग ज़ोन लाइनों को दर्शाता है।"
+        },
+        "bn": {
+          "title": "জিগজ্যাগ জোন লাইন",
+          "description": "এই সাইনটি রাস্তার উপর জিগজ্যাগ জোন লাইন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 50,
+      "type": "guide",
+      "title_en": "Stop Line",
+      "description_en": "This sign indicates a stop line on the road.",
+      "image_path": "signs/road-marking/Stop-Line.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "رکنے کی لکیر",
+          "description": "یہ نشان سڑک پر رکنے کی لکیر کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "خط التوقف",
+          "description": "تشير هذه اللافتة إلى خط التوقف على الطريق."
+        },
+        "hi": {
+          "title": "स्टॉप लाइन",
+          "description": "यह संकेत सड़क पर एक स्टॉप लाइन को दर्शाता है।"
+        },
+        "bn": {
+          "title": "থামার লাইন",
+          "description": "এই সাইনটি রাস্তার উপর একটি থামা লাইন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 46,
+      "type": "guide",
+      "title_en": "Solid Line On One Side And Broken On The Other",
+      "description_en": "This sign indicates a solid line on one side and broken line on the other.",
+      "image_path": "signs/road-marking/Solid-line-on-one-side-and-broken-on-the-other.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ایک طرف ٹھوس لکیر اور دوسری طرف ٹوٹی ہوئی",
+          "description": "یہ نشان ایک طرف ٹھوس لکیر اور دوسری طرف ٹوٹی ہوئی لکیر کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "خط متصل من جهة ومتقطع من الجهة الأخرى",
+          "description": "تشير هذه اللافتة إلى وجود خط متصل من جهة وخط متقطع من الجهة الأخرى."
+        },
+        "hi": {
+          "title": "एक तरफ ठोस लाइन और दूसरी तरफ टूटी हुई",
+          "description": "यह संकेत एक तरफ एक ठोस लाइन और दूसरी तरफ एक टूटी हुई लाइन को दर्शाता है।"
+        },
+        "bn": {
+          "title": "এক পাশে কঠিন লাইন এবং অন্য পাশে ভাঙা",
+          "description": "এই সাইনটি এক পাশে একটি কঠিন লাইন এবং অন্য পাশে একটি ভাঙা লাইন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 47,
+      "type": "guide",
+      "title_en": "Solid Lines Double",
+      "description_en": "This sign indicates double solid lines on the road.",
+      "image_path": "signs/road-marking/Solid-Lines-Double.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "دوہری ٹھوس لکیریں",
+          "description": "یہ نشان سڑک پر دوہری ٹھوس لکیروں کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "خطوط مزدوجة متصلة",
+          "description": "تشير هذه اللافتة إلى خطوط مزدوجة متصلة على الطريق."
+        },
+        "hi": {
+          "title": "दोहरी ठोस लाइनें",
+          "description": "यह संकेत सड़क पर दोहरी ठोस लाइनों को दर्शाता है।"
+        },
+        "bn": {
+          "title": "কঠিন লাইন ডাবল",
+          "description": "এই সাইনটি রাস্তার উপর ডাবল কঠিন লাইন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "type": "guide",
+      "title_en": "Rumble Strips",
+      "description_en": "This sign indicates the presence of rumble strips on the road.",
+      "image_path": "signs/road-marking/Rumble-strips.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "رمبل سٹرپس",
+          "description": "یہ نشان سڑک پر رمبل سٹرپس کی موجودگی کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "شرائط التحذير",
+          "description": "تشير هذه اللافتة إلى وجود شرائط التحذير على الطريق."
+        },
+        "hi": {
+          "title": "रंबल स्ट्रिप्स",
+          "description": "यह संकेत सड़क पर रंबल स्ट्रिप्स की उपस्थिति को दर्शाता है।"
+        },
+        "bn": {
+          "title": "রাম্বল স্ট্রিপ",
+          "description": "এই সাইনটি রাস্তার উপর রাম্বল স্ট্রিপের উপস্থিতি নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 48,
+      "type": "guide",
+      "title_en": "Speed Hump Marking",
+      "description_en": "This sign indicates a speed hump marking on the road.",
+      "image_path": "signs/road-marking/Speed-Hump-Marking.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "رفتار کی رکاوٹ کا نشان",
+          "description": "یہ نشان سڑک پر رفتار کی رکاوٹ کے نشان کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "علامة مطب سرعة",
+          "description": "تشير هذه اللافتة إلى علامة مطب سرعة على الطريق."
+        },
+        "hi": {
+          "title": "स्पीड हंप मार्किंग",
+          "description": "यह संकेत सड़क पर एक स्पीड हंप मार्किंग को दर्शाता है।"
+        },
+        "bn": {
+          "title": "স্পিড বাম্পের চিহ্ন",
+          "description": "এই সাইনটি রাস্তার উপর একটি স্পিড বাম্পের চিহ্ন নির্দেশ করে।"
+        }
+      }
+    }
+  ]
+}

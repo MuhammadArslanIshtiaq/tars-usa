@@ -1,0 +1,620 @@
+{
+  "state": "Montana",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/montana/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11901",
+      "question": "Ang ____ ay ina-activate ng isang electric switch na ini-trigger ng brake pedal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Headlights"
+        },
+        {
+          "letter": "B",
+          "text": "Turn signals"
+        },
+        {
+          "letter": "C",
+          "text": "Brake lights"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Brake lights",
+      "explanation": "Sa isang sasakyan na may air brakes, ang brake lights ay ina-activate kapag itinulak ang brake pedal at ang air pressure ay gumagalaw sa isang electric switch. Sa application ng air pressure, ang switch ay i-turn on ang brake lights."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9379",
+      "question": "Kung ang brake pads ay sumusugod sa brake drums at lumilikha ng masyadong mainit:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang brakes ay magsasagwan."
+        },
+        {
+          "letter": "B",
+          "text": "Ang brakes ay magiging dagdag na sensitibo."
+        },
+        {
+          "letter": "C",
+          "text": "Ang brakes ay maaaring huminto sa paggana."
+        },
+        {
+          "letter": "D",
+          "text": "Ang air compressor ay magta-trigger upang palamigan ang brakes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ang brakes ay maaaring huminto sa paggana.",
+      "explanation": "Ang brakes ay umiinit sa paggamit. Kung sila ay ginagamit ng labis at nagiging masyadong mainit, ang pagpapalaki at mga pagbabagong kemikal ay gagawing sila ay mas kaunti ang epektibo at sa wakas ay magdudulot sa kanila na huminto sa paggana nang buo. Ito ay kilala bilang \"brake fade.\""
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8754",
+      "question": "Ang air compressor ay konektado sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmission."
+        },
+        {
+          "letter": "B",
+          "text": "Engine."
+        },
+        {
+          "letter": "C",
+          "text": "Radiator."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Engine.",
+      "explanation": "Ang air compressor ng isang air brake system ay konektado sa engine sa pamamagitan ng gears o isang v-belt. Ang compressor ay maaaring air-cooled o na-cool ng engine cooling system."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "10226",
+      "question": "Subukan ang mababang pressure warning signal:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minsan sa isang buwan."
+        },
+        {
+          "letter": "B",
+          "text": "Minsan sa isang linggo."
+        },
+        {
+          "letter": "C",
+          "text": "Dalawang beses sa isang linggo."
+        },
+        {
+          "letter": "D",
+          "text": "Bago ang bawat biyahe."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Bago ang bawat biyahe.",
+      "explanation": "Mahalagang ang iyong low pressure warning light ay gumagana nang tama. Pagkatapos payagan ang sistema na magcharge, maaari mong subukan ang warning signal sa pamamagitan ng mabilis na pag-apply at pag-release ng brake pedal. Ito ay maglalabas ng hangin mula sa braking system at ang warning signal ay dapat bumukas kapag ang presyon ay bumaba sa isang mapanganibang antas."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8765",
+      "question": "Sa isang dual air brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang air tanks ay ibinahagi sa pagitan ng parehong systems."
+        },
+        {
+          "letter": "B",
+          "text": "Bawat system ay may sariling air tanks."
+        },
+        {
+          "letter": "C",
+          "text": "Dapat ninyong italagang kung aling system ang ginagamit ninyo."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Bawat system ay may sariling air tanks.",
+      "explanation": "May dalawang air brake systems sa isang dual air brake system. Ang mga systems ay nagbabahagi ng isang hanay ng brake controls, ngunit bawat system ay may sariling tanks, hoses, at lines."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11692",
+      "question": "Ang emergency brake system ay gumagamit ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mga bahagi lamang ng parking brake system."
+        },
+        {
+          "letter": "B",
+          "text": "Mga bahagi lamang ng service brake system."
+        },
+        {
+          "letter": "C",
+          "text": "Mga bahagi ng parking at service brake systems."
+        },
+        {
+          "letter": "D",
+          "text": "Mga bahagi lamang na natatangi sa emergency brake system."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Mga bahagi ng parking at service brake systems.",
+      "explanation": "Sa isang air brake system, mayroon tatlong magkakaibang braking systems: isang service brake system, isang parking brake system, at isang emergency brake system. Ang emergency brake system ay gumagamit ng mga bahagi ng pareho ang parking at service brake systems."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11712",
+      "question": "Ang one-way check valve:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nag-iwan ng tubig at compressor oil mula sa air tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Pinipigilan ang hangin mula umalis kung ang air compressor ay may pagkakaroon ng tubig."
+        },
+        {
+          "letter": "C",
+          "text": "Nag-activate ng emergency brakes kapag may pagkakaroon ng tubig."
+        },
+        {
+          "letter": "D",
+          "text": "Pinapanatili ang spring brakes sa posisyon hanggang sa gamitin na sila."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pinipigilan ang hangin mula umalis kung ang air compressor ay may pagkakaroon ng tubig.",
+      "explanation": "Ang one-way check valve ay kinakailangan na maging sa pagitan ng air compressor at unang pangunahing reservoir. Ang valve na ito ay pumipigil sa air mula sa paglabas ng system kung ang air compressor ay bumuo ng leak."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11899",
+      "question": "Dapat mo ____ kung ang mababang pressure warning signal ay nag-activate habang nagmamaneho ka.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huminto kung nasaan ka at magpark"
+        },
+        {
+          "letter": "B",
+          "text": "Lumabas sa daan sa lalong madaling panahon nang ligtas"
+        },
+        {
+          "letter": "C",
+          "text": "Magpatuloy sa pagmamaneho nang normal"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Lumabas sa daan sa lalong madaling panahon nang ligtas",
+      "explanation": "Kung ang mababang pressure warning signal ay nag-activate habang kayo ay nagmamaneho, mahalaga na kayo ay ligtas na lumabas sa roadway sa lalong madaling panahon at ipark ang inyong sasakyan. Kung ang air pressure ay nagiging masyadong mababa, ang brakes ay hindi na gumagana nang sapat para sa inyo na tumigil ng ligtas."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11880",
+      "question": "Ang friction sa isang S-cam brake ay dulot ng pagkakabit ng mga brake shoes at linings:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mag-press laban sa labas ng brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "Mag-press laban sa loob ng brake drum."
+        },
+        {
+          "letter": "C",
+          "text": "Nagtulak laban sa isa't isa."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mag-press laban sa loob ng brake drum.",
+      "explanation": "Ang friction sa loob ng brake drum ay sanhi kapag ang brake shoes at linings ay nagtulak laban sa loob ng drum. Ang friction sa mga drum ay magpapabagal at titigil sa sasakyan."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11315",
+      "question": "Ang mga dolly na may ABS ay kinakailangang may malfunction lamps na nakalagay saan?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sa likod"
+        },
+        {
+          "letter": "B",
+          "text": "Sa kaliwang bahagi"
+        },
+        {
+          "letter": "C",
+          "text": "Sa harapan"
+        },
+        {
+          "letter": "D",
+          "text": "Sa tuktok"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sa kaliwang bahagi",
+      "explanation": "Ang dolly na may Anti-Lock Braking System (ABS) ay kinakailangang may dilaw na malfunction lamp na nakalagay sa kaliwang bahagi nito."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11666",
+      "question": "Kapag pinindot mo ang brake pedal sa sasakyan na may S-cam brakes, ang air pressure ay nagtutulak ng labas ng rod at gumagalaw ang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slack adjuster."
+        },
+        {
+          "letter": "B",
+          "text": "Axle."
+        },
+        {
+          "letter": "C",
+          "text": "Brake drum."
+        },
+        {
+          "letter": "D",
+          "text": "Alcohol evaporator"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Slack adjuster.",
+      "explanation": "Kapag pinindot ang brake pedal sa sasakyan na may S-cam brakes, ang hangin ay papasok sa brake chambers. Ang dagdag na air pressure ay magtutulak ng labas ng rods at maglilipat ng slack adjusters, na iikot ang brake camshafts."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9299",
+      "question": "Kapag naka-park sa isang flat surface, dapat mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gamitin ang wheel chocks upang maiwasan ang iyong vehicle na gumagalaw."
+        },
+        {
+          "letter": "B",
+          "text": "Huwag gamitin ang wheel chocks."
+        },
+        {
+          "letter": "C",
+          "text": "Gamitin ang wheel chocks, pero lamang kung nag-apply ka ng parking brake."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Gamitin ang wheel chocks upang maiwasan ang iyong vehicle na gumagalaw.",
+      "explanation": "Kapag naka-park sa isang level surface, dapat mong gamitin ang wheel chocks. Kung ang vehicle ay hindi equipped ng spring brakes, ito ay essential upang maiwasan ang paggalaw ng trailer."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8876",
+      "question": "Ang mga trak na traktor na may air brakes na itinayo sa o pagkatapos ng Marso 1, 1997 ay equipped ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang dagdag na hanay ng mga preno."
+        },
+        {
+          "letter": "B",
+          "text": "Voice-activated na mga brake."
+        },
+        {
+          "letter": "C",
+          "text": "Cruise control."
+        },
+        {
+          "letter": "D",
+          "text": "Anti-Lock Braking Systems (ABS)"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Anti-Lock Braking Systems (ABS)",
+      "explanation": "Ang mga trak na traktor na may air brakes na ginawa sa o pagkatapos ng Marso 1, 1997 ay kailangan na equipped ng Anti-Lock Braking Systems (ABS). Ang ABS ay kailangan sa anumang iba pang uri ng sasakyan na may air brakes na ginawa sa o pagkatapos ng Marso 1, 1998."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8877",
+      "question": "Anong kulay ang ABS malfunction lamps?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orange"
+        },
+        {
+          "letter": "B",
+          "text": "Dilaw"
+        },
+        {
+          "letter": "C",
+          "text": "Berde"
+        },
+        {
+          "letter": "D",
+          "text": "Bughaw"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dilaw",
+      "explanation": "Ang mga vehicles na may Anti-Lock Braking Systems (ABS) ay may yellow malfunction lamps."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8985",
+      "question": "Ang air storage tanks:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Naglalaman lamang ng sapat na hangin para sa isang braking cycle."
+        },
+        {
+          "letter": "B",
+          "text": "Naglalaman ng sapat na hangin para sa mga preno na magamit ng ilang beses kung titigil ang compressor."
+        },
+        {
+          "letter": "C",
+          "text": "Hindi naglalaman ng hangin maliban kung may emergency."
+        },
+        {
+          "letter": "D",
+          "text": "Naglalaman ng sapat na hangin para sa mahigit 1,000 braking cycles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Naglalaman ng sapat na hangin para sa mga preno na magamit ng ilang beses kung titigil ang compressor.",
+      "explanation": "Ang mga air storage tanks ay naglalaman ng sapat na hangin para sa mga preno na magamit ng ilang beses kung titigil ang compressor."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11702",
+      "question": "Sa malamig na panahon, ang isang alcohol evaporator ay dapat tingnan at mapunan:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minsan sa isang linggo."
+        },
+        {
+          "letter": "B",
+          "text": "Araw-araw."
+        },
+        {
+          "letter": "C",
+          "text": "Bawat oras."
+        },
+        {
+          "letter": "D",
+          "text": "Minsan sa isang buwan."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Araw-araw.",
+      "explanation": "Ang isang alcohol evaporator ay makakatulong na maiwasan ang yelo mula sa pagbuo sa isang air brake system. Sa malamig na panahon, ang evaporator ay dapat tingnan at ilagyan ulit araw-araw."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11893",
+      "question": "Sa isang sasakyan na may dual parking control valves, isang hiwalay na air tank ay maaaring gamitin:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Upang gawing mas epektibo ang air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Upang pansamantalang ilabas ang spring brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Upang i-charge ang mga brakes sa rear trailer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Upang pansamantalang ilabas ang spring brakes.",
+      "explanation": "Sa vehicle na may dual parking control valves, may hiwalay na air tank na maaaring gamitin upang pansamantalang ilabas ang spring brakes kung naging active dahil sa mababang air pressure. Ang pagsisikap ng tamang control ay magpapahintulot sa spring brakes nang maikling panahon, na nagbibigay-daan sa driver na ilipat ang vehicle sa emergency."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9297",
+      "question": "Anong kulay ng ilaw ang nagpapahiwatig na ang ABS ng isang sasakyan ay hindi gumagana?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Berde"
+        },
+        {
+          "letter": "B",
+          "text": "Bughaw"
+        },
+        {
+          "letter": "C",
+          "text": "Dilaw"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Dilaw",
+      "explanation": "Sa mga sasakyang may Anti-Lock Braking Systems (ABS), ang yellow malfunction lamp ay nagbibigay alerto sa driver tungkol sa ABS malfunction."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9893",
+      "question": "Brake linings dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loose."
+        },
+        {
+          "letter": "B",
+          "text": "Free ng oil."
+        },
+        {
+          "letter": "C",
+          "text": "Malambot."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Free ng oil.",
+      "explanation": "Brake linings ay hindi dapat na loose o soaked sa oil o grease. Hindi sila dapat na dangerously thin."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9604",
+      "question": "Ano ang madalas na makikita sa compressed air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tubig"
+        },
+        {
+          "letter": "B",
+          "text": "Karton"
+        },
+        {
+          "letter": "C",
+          "text": "Brake fluid"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tubig",
+      "explanation": "Ang compressed air sa isang air brake system ay karaniwang naglalaman ng isang tiyak na halaga ng tubig at compressor oil. Ang tubig at langis ay maaaring makasama sa mga preno kung pinapayagan itong mag-ipon sa system. Ang mga tangke ay dapat regular na i-drain upang alisin ang pagbuo na ito."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8864",
+      "question": "Paano aalis ang tubig at compressor oil mula sa ilalim ng air storage tank?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang tubig at langis ay sinisiphon mula sa tangke."
+        },
+        {
+          "letter": "B",
+          "text": "Ang isang balbula ng paglalabas ay binuksan upang alisin ang tubig at langis mula sa tangke."
+        },
+        {
+          "letter": "C",
+          "text": "Ang tubig at langis ay awtomatikong inalis habang ginagamit ang mga preno."
+        },
+        {
+          "letter": "D",
+          "text": "Ang isang espongha ay ginagamit upang suguin ang tubig at langis."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang isang balbula ng paglalabas ay binuksan upang alisin ang tubig at langis mula sa tangke.",
+      "explanation": "Ang tubig at langis ng kompressor ay inalis mula sa mga tangke ng imbakan ng hangin sa pamamagitan ng isang balbula ng paglalabas. Ang tubig at langis ay maaaring masira ang mga preno kung iiwan itong mag-ipon sa sistema. Ang mga tangkeng pinapatakbo ng manu-mano ay dapat ikuha araw-araw upang alisin ang pagsasabing ito."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8990",
+      "question": "Kung ang spring brakes ay nakabukas, dapat kang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huwag gamitin ang brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Itulak ang accelerator."
+        },
+        {
+          "letter": "C",
+          "text": "Ilipat ang steering wheel."
+        },
+        {
+          "letter": "D",
+          "text": "Maging labis na maingat dahil ang mga preno ay maaaring mabigo."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Huwag gamitin ang brake pedal.",
+      "explanation": "Hindi mo dapat ipatupad ang brake pedal kung ang spring brakes ay naka-activate. Ang mga preno ay maaaring masira kung sila ay napapailalim sa puwersa ng air pressure at ang mga spring sa parehong oras."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8868",
+      "question": "Ang application pressure gauge:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nagpapakita kung gaano kalaki ang air pressure na inilalapat sa mga preno."
+        },
+        {
+          "letter": "B",
+          "text": "Nagpapakita ng temperatura ng air na ginagamit sa braking system."
+        },
+        {
+          "letter": "C",
+          "text": "Nagpapakita ng pressure ng air na nagmumula sa compressor."
+        },
+        {
+          "letter": "D",
+          "text": "Nagpapakita ng bilang ng beses na nagamit ang mga preno."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Nagpapakita kung gaano kalaki ang air pressure na inilalapat sa mga preno.",
+      "explanation": "Sa air brake system, ang application pressure gauge ay nagpapakita kung gaano kalaki ang air pressure na inilalapat sa mga preno. Hindi lahat ng vehicles na may air brake system ay may ganitong gauge."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8872",
+      "question": "Ang mga front brake limiting valves ay naglalayong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pigilan ang front tires mula sa pagslidahan."
+        },
+        {
+          "letter": "B",
+          "text": "Pigilan ang front tires mula sa pag-init nang labis."
+        },
+        {
+          "letter": "C",
+          "text": "Lumikha ng pantay na paggamit ng brake."
+        },
+        {
+          "letter": "D",
+          "text": "Tanggalin ang kawalang-katiyakan kapag gumagamit ng brakes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pigilan ang front tires mula sa pagslidahan.",
+      "explanation": "Ang ilang mas lumang sasakyan na may air brakes ay may front brake limiting valves. Ang mga valve na ito ay naglalayong mabawasan ang panganib ng front wheels na magslidahan. Gayunman, ipinakita ng pananaliksik na ang ganitong mga aparato ay hindi kinakailangan, kaya dapat iwanan sa \"normal\" na posisyon."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8883",
+      "question": "Kung ang iyong tractor ay may ABS ngunit ang iyong trailer ay wala, ang ABS:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hindi magiging epektibo."
+        },
+        {
+          "letter": "B",
+          "text": "Magpapabuti pa rin sa iyong kontrol sa pagkikotrol."
+        },
+        {
+          "letter": "C",
+          "text": "Mapadali ang jackknifing."
+        },
+        {
+          "letter": "D",
+          "text": "Magbibigay-daan sa iba na makita kung kailan ka nag-brake."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Magpapabuti pa rin sa iyong kontrol sa pagkikotrol.",
+      "explanation": "Sa isang tractor-trailer na kombinasyon, kung ang tractor ay may Anti-Lock Braking System (ABS) ngunit ang trailer ay wala, ang ABS ay magpapabuti pa rin ng kontrol sa pagsisid ng driver. Dapat bantayan ng driver ang trailer at magpagaan sa brakes kung ang trailer ay nagsisimulang lumiko palabas."
+    }
+  ]
+}

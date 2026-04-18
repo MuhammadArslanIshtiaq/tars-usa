@@ -1,0 +1,450 @@
+{
+  "state": "Ohio",
+  "category": "cdl",
+  "testName": "Double Test #2 20 Questions • Passing Score 16",
+  "testSlug": "double-2",
+  "url": "/images/ohio/cdl/double-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11267",
+      "question": "Kapag pumasok sa isang curve, dapat mo:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magshift sa neutral."
+        },
+        {
+          "letter": "B",
+          "text": "Gamitin ang shoulder."
+        },
+        {
+          "letter": "C",
+          "text": "Mag-downshift."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Mag-downshift.",
+      "explanation": "Dapat mong palaging bumabagal sa ligtas na bilis at lumipat sa mas mababang gear bago pumasok sa isang kurba."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9581",
+      "question": "Kapag nag-apply ng iyong mga preno, ang sasakyan ay dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Humaling sa isang panig."
+        },
+        {
+          "letter": "B",
+          "text": "Squeak."
+        },
+        {
+          "letter": "C",
+          "text": "Huwag humaling sa alinmang panig."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Huwag humaling sa alinmang panig.",
+      "explanation": "Ang iyong sasakyan na humahaling sa isang panig o sa iba pang bahagi habang kang nag-brake ay maaaring magpahiwatig ng problema sa mga preno."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9433",
+      "question": "Sa mga sumusunod, alin ang pinakalusog na ibabaw?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yelo na tuyot"
+        },
+        {
+          "letter": "B",
+          "text": "Yelo na basa"
+        },
+        {
+          "letter": "C",
+          "text": "Basang pavement"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Yelo na basa",
+      "explanation": "Ang yelo ay nagiging basa kapag ang panahon ay sapat na mainit upang bahagyang matunaw ang yelo. Ang basang yelo ay mas napakalisad kaysa sa yelo na hindi basa."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11887",
+      "question": "Sa panahon ng static leakage test, ano ang maximum leakage rate na ligtas para sa double combination vehicle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi sa loob ng isang minuto."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi sa loob ng isang minuto."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi sa loob ng isang minuto."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi sa loob ng isang minuto.",
+      "explanation": "Kapag nagsasagawa ng static leakage test sa double combination vehicle na may air brakes, ang leakage rate ay dapat na hindi hihigit sa 3 psi sa loob ng isang minuto. Kung ang hangin ay tumatagos mula sa air brake system sa mas mabilis na rate, ang sasakyan ay hindi dapat imanehon dahil malamang na kailangan ng pagayos."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11885",
+      "question": "Kapag kayo ay nagsisimula nang bumaba sa isang bundok, dapat kayong lumipat sa isang ____ gear.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mas Mataas"
+        },
+        {
+          "letter": "B",
+          "text": "Mas Mabilis"
+        },
+        {
+          "letter": "C",
+          "text": "Mas Mababa"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Mas Mababa",
+      "explanation": "Bago sumugal sa isang bundok, siguraduhin na lumipat sa isang mababang gear. Ang gravity ay magpapataas ng bilis ng iyong sasakyan habang bumababa ka sa bundok."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8754",
+      "question": "Ang air compressor ay konektado sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmission."
+        },
+        {
+          "letter": "B",
+          "text": "Engine."
+        },
+        {
+          "letter": "C",
+          "text": "Radiator."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Engine.",
+      "explanation": "Ang air compressor ng isang air brake system ay konektado sa engine sa pamamagitan ng gears o isang v-belt. Ang compressor ay maaaring air-cooled o na-cool ng engine cooling system."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11898",
+      "question": "Kung ang air pressure ay bumaba sa isang antas sa pagitan ng ____, ang isang biswal na mababang pressure warning signal ay dapat na naka-activate na.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55 at 75 psi."
+        },
+        {
+          "letter": "B",
+          "text": "80 at 95 psi."
+        },
+        {
+          "letter": "C",
+          "text": "65 at 100 psi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "55 at 75 psi.",
+      "explanation": "Ang isang biswal na mababang pressure warning signal ay dapat mag-activate bago ang air pressure ay bumaba sa isang antas sa pagitan ng 55 at 75 psi. Ang signal na ito ay maaaring maging isang liwanag, isang buzzer, o isang wig wag."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8767",
+      "question": "Air pressure dapat na tumaas sa isang single air system sa loob ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 minuto."
+        },
+        {
+          "letter": "B",
+          "text": "12 minuto."
+        },
+        {
+          "letter": "C",
+          "text": "Tatlong minuto."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tatlong minuto.",
+      "explanation": "Sa single air systems, ang air pressure ay dapat lumaki mula sa tinatapos 50 hanggang 90 psi sa loob ng tatlong minuto."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11320",
+      "question": "Ang ilang mga air brake system ay nagpapakilala ng alkohol sa system upang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gawing gumana ang mga brakes nang walang squeaking."
+        },
+        {
+          "letter": "B",
+          "text": "Pigilan ang pagbuo ng yelo sa brake system."
+        },
+        {
+          "letter": "C",
+          "text": "Pigilan ang mga tao mula huminga ng hangin mula sa system."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pigilan ang pagbuo ng yelo sa brake system.",
+      "explanation": "Ang ilang mga air brake system ay naglalaman ng isang alcohol evaporator. Ang isang evaporator ay nagpapakilala ng alkohol sa system upang makatulong na mapigilan ang pagbuo ng yelo sa malamig na panahon."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9588",
+      "question": "Kung bumabawi ng isang truck:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dapat kang umasa sa iyong mga salamin upang gabayan ka."
+        },
+        {
+          "letter": "B",
+          "text": "Dapat mo munang lakarin ang lugar upang mas maging pamilyar sa mga hadlang."
+        },
+        {
+          "letter": "C",
+          "text": "Dapat kang tumingin direkta sa harapan."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dapat mo munang lakarin ang lugar upang mas maging pamilyar sa mga hadlang.",
+      "explanation": "Kung dapat kang magmaneho ng paatras, dapat mo munang lakarin ang paligid ng iyong sasakyan upang tingnan ang daanan at suriin ang mga hadlang. Dahil ang mga salamin ay may mga blind spots, hindi ka maaasahan lamang sa mga ito. Inirerekomenda na gumamit ng tumutulong kapag posible."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11355",
+      "question": "Ang mga sirang suspension parts:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dapat ayusin kaagad."
+        },
+        {
+          "letter": "B",
+          "text": "Dapat ayusin, ngunit hindi kaagad."
+        },
+        {
+          "letter": "C",
+          "text": "Hindi maaaring matukoy."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Dapat ayusin kaagad.",
+      "explanation": "Ang suspension system ay nagsasagawa ng mga vital na function ng pagsuporta sa sasakyan at sa load nito habang pinapanatili ang mga axles sa lugar. Ang mga defects sa suspension ay samakatuwid ay lubhang mapanganib."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11375",
+      "question": "Kung ikaw ay pakiramdam na pagod at kumukumalas ng maraming beses habang ikaw ay nagmamaneho, dapat kang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huminto at matulog nang maikling panahon."
+        },
+        {
+          "letter": "B",
+          "text": "Kumuha ng kape."
+        },
+        {
+          "letter": "C",
+          "text": "Magmaneho nang mas mabilis."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Huminto at matulog nang maikling panahon.",
+      "explanation": "Kung magsimula kang maramdaman na pagod habang nagmamaneho, dapat kang huminto upang makakuha ng ilang tulog. Ang pagsisikap na ituloy upang maabot ang iyong destinasyon habang pagod ay mapanganib. Hindi ka dapat umaasa sa caffeine upang manatili kang gising."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9599",
+      "question": "Ang mga driver na nagsasalita sa mga pasahero sa kanilang sasakyan ay dapat tingnan bilang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mga responsableng driver."
+        },
+        {
+          "letter": "B",
+          "text": "Mga distracted na driver."
+        },
+        {
+          "letter": "C",
+          "text": "Mga driver na may kaalaman."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mga distracted na driver.",
+      "explanation": "Ang mga driver na nakikipag-ugnayan sa mga pasahero ay maaaring ma-distract mula sa gawain ng pagmamaneho. Gumamit ng dagdag na pag-iingat kapag nagmamaneho malapit sa mga distracted na driver."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9278",
+      "question": "Kapag nagmamaneho ng sasakyan na may Anti-Lock Braking System (ABS), dapat mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palaging i-pump ang brakes ng maraming beses bago i-hold down ang brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Mag-brake nang normal."
+        },
+        {
+          "letter": "C",
+          "text": "I-press down ang brake pedal nang kasing lakas ng kayang-kaya mo bawat oras na bumabagal o humihinto."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mag-brake nang normal.",
+      "explanation": "Ang mga driver ng vehicles na may ABS at ang mga driver ng vehicles na walang ABS ay dapat mag-brake sa medyo pareho na paraan. Kapag ang ABS ay gumagana nang maayos, ito ay automatic na nag-aapply kapag na-apply ang brakes sa mga sitwasyon na maaaring lumikha ng lockup."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9594",
+      "question": "Kapag mahirap makita, tulad ng sa umaga o gabi, ang driver ay maaaring dagdagan ang visibility ng kanilang sasakyan sa pamamagitan ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pagmamaneho habang gumagamit ng kanilang mga ilaw."
+        },
+        {
+          "letter": "B",
+          "text": "Nagmamaneho na may bukas na mga bintana."
+        },
+        {
+          "letter": "C",
+          "text": "Kumikislap ng kanilang mga ilaw nang peryodiko."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pagmamaneho habang gumagamit ng kanilang mga ilaw.",
+      "explanation": "Kapag nagmamaneho sa umaga, sa gabi, o sa masamang panahon, dapat mong gamitin ang iyong headlights sa kanilang low beam setting upang dagdagan ang iyong visibility."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9296",
+      "question": "Kung ang safety relief valve sa isang air brake system ay naglalabas ng hangin:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hindi ka dapat maging alalahanin dahil ito ay isang normal na proseso."
+        },
+        {
+          "letter": "B",
+          "text": "May isang bagay na hindi tama sa brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Ang valve ay gumagana nang maayos."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "May isang bagay na hindi tama sa brakes.",
+      "explanation": "Ang safety relief valve sa isang air brake system ay naglalabas ng hangin kung kinakailangan upang maiwasan ang presyon sa system na maging masyadong mataas. Kung ang valve ay nagsisimulang maglabas ng hangin, may isang problema. Hayaan ang isang mechanic na ayusin ang problema."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9248",
+      "question": "Ang pagpapanatili ng isang cushion ng espasyo sa pagitan ng iyong sasakyan at ng sasakyan sa unahan ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hindi hinihikayat, dahil nagpapabagal ito ng daloy ng trapiko."
+        },
+        {
+          "letter": "B",
+          "text": "Hinihikayat, dahil nagbibigay ito sa iyo ng oras na tumugon sa mga hindi inaasahang panganib."
+        },
+        {
+          "letter": "C",
+          "text": "Hinihikayat lamang kung naglalakbay ka kasama ang isang pasahero."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Hinihikayat, dahil nagbibigay ito sa iyo ng oras na tumugon sa mga hindi inaasahang panganib.",
+      "explanation": "Para sa ligtas na pagmamaneho, mahalagang panatilihin ang mga cushion ng espasyo sa lahat ng panig ng iyong sasakyan. Ito ay tumutulong upang masiguro na mayroon kang oras na magsagawa ng naaasahang aksyon kung may problema ang lumitaw."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9878",
+      "question": "Ang mga driver na nakakulong sa likod ng isang slow-moving vehicle ay madalas:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sundin ang sasakyan nang masyadong malapit."
+        },
+        {
+          "letter": "B",
+          "text": "Payagan ang sasakyan ng maraming puwang."
+        },
+        {
+          "letter": "C",
+          "text": "Masaya sa bilis ng paglalakbay."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sundin ang sasakyan nang masyadong malapit.",
+      "explanation": "Karaniwan para sa mga driver na mag-tailgate ng slow-moving vehicles na hindi makakasabay sa bilis ng nakapaligid na trapiko. Kung ikaw ay sinusubaybayan, hayaang lumipas ang ibang driver sa iyong sasakyan."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10681",
+      "question": "Ano ang road rage?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pagpapatakbo ng isang motor vehicle na may layunin na gumawa ng kapinsalaan sa iba"
+        },
+        {
+          "letter": "B",
+          "text": "Pagpapatakbo ng isang motor vehicle na itinuturing na hindi ligtas"
+        },
+        {
+          "letter": "C",
+          "text": "Pagpapatakbo ng isang motor vehicle na hindi na-inspeksyon"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pagpapatakbo ng isang motor vehicle na may layunin na gumawa ng kapinsalaan sa iba",
+      "explanation": "Ang aggressive driving ay tinukoy bilang pagpapatakbo ng isang motor vehicle sa isang selfish, matatag, o nagsusumikap na paraan. Ang road rage ay tinukoy bilang pagpapatakbo ng isang motor vehicle na may layunin na gumawa ng kapinsalaan sa iba, o ang layunin ng pisikal na pag-atake sa ibang driver o sa kanilang sasakyan."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8597",
+      "question": "Ang tanging paraan upang maging sobra pagkatapos kumain ng alkohol ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magsipag-mainit na paliguan."
+        },
+        {
+          "letter": "B",
+          "text": "Ehersisyo."
+        },
+        {
+          "letter": "C",
+          "text": "Maghintay."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Maghintay.",
+      "explanation": "Karamihan ng alkohol ay inalis mula sa katawan ng pamamagitan ng atay, na nag-proseso ng alkohol sa isang nakalatag na rate. Sa kabila ng popular na paniniwala, ang mga pamamaraan tulad ng pag-inom ng itim na kape o pag-init ng malamig na huguan ay hindi magpapabilis ng prosesong ito. Ang tanging bagay na maaari mong gawin upang maging matiyaga pagkatapos uminom ay payagan ang iyong katawan ang oras na kailangan nito upang alisin ang alkohol mula sa iyong sistema."
+    }
+  ]
+}

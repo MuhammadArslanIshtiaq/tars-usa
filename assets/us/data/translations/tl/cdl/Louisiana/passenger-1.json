@@ -1,0 +1,450 @@
+{
+  "state": "Louisiana",
+  "category": "cdl",
+  "testName": "Passenger Test #1 20 Questions • Passing Score 16",
+  "testSlug": "passenger-1",
+  "url": "/images/louisiana/cdl/passenger-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8606",
+      "question": "Ang pagkakaroon ng bigat na naka-load sa paraang lumilikha ng mataas na center of gravity:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nagpapataas ng posibilidad ng rollover."
+        },
+        {
+          "letter": "B",
+          "text": "Nagpapataas ng posibilidad na ang mga item ay mahuhulog."
+        },
+        {
+          "letter": "C",
+          "text": "Nagpapataas ng kahirapan ng pag-unload ng kargo."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Nagpapataas ng posibilidad ng rollover.",
+      "explanation": "Ang pagdadala ng kargo na naka-load na may mataas na center of gravity ay nagpapataas ng panganib na ang sasakyan na nagdadala ay makakabagay. Ang kargo ay dapat i-load na may ligtas na weight distribution."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9883",
+      "question": "Ang center of gravity sa isang trailer ay dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kasing-taas hangga't posible."
+        },
+        {
+          "letter": "B",
+          "text": "Kasing-baba hangga't posible."
+        },
+        {
+          "letter": "C",
+          "text": "Sa likod ng trailer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Kasing-baba hangga't posible.",
+      "explanation": "Ang timbang ng cargo sa isang sasakyan ay dapat na ipamahagi nang kasing-baba hangga't maaari. Ang pagkakaroon ng center of gravity na masyadong mataas ay magpapataas ng panganib ng rollover."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8751",
+      "question": "Dapat gawin ang pre-trip inspection:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Naiiba sa bawat pagkakataon upang bigyan ng kahalagahan ang iba't ibang mga item."
+        },
+        {
+          "letter": "B",
+          "text": "Sa parehong paraan sa bawat pagkakataon upang mapigilan ka sa pagkalimot ng kahit ano."
+        },
+        {
+          "letter": "C",
+          "text": "Minsan minsan."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sa parehong paraan sa bawat pagkakataon upang mapigilan ka sa pagkalimot ng kahit ano.",
+      "explanation": "Dapat kumpleto ang pre-trip inspection sa parehong paraan bago ang bawat biyahe. Ang consistency ay makakatulong sa iyo na matutunan ang lahat ng tamang hakbang at mababawasan ang posibilidad na kalimutan mo ang suriin ang isang bagay."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11326",
+      "question": "Sa mga patag na ibabaw, ang wheel chocks:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maaaring gamitin upang mapigilan ang isang naka-park na sasakyan mula gumalaw."
+        },
+        {
+          "letter": "B",
+          "text": "Ginagawang mas madali para sa isang naka-park na sasakyan na gumalaw."
+        },
+        {
+          "letter": "C",
+          "text": "Dapat lamang gamitin sa front driver's side tire."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Maaaring gamitin upang mapigilan ang isang naka-park na sasakyan mula gumalaw.",
+      "explanation": "Sa mga sitwasyon kung saan ang isang driver ay hindi makakagamit ng parking brake, maaaring gamitin ang wheel chocks upang panatilihing nasa lugar ang isang naka-park na sasakyan sa isang level surface."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8617",
+      "question": "Isang posted speed limit para sa mga sasakyan:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Karaniwang ligtas para sa mga bus."
+        },
+        {
+          "letter": "B",
+          "text": "Maaaring masyadong mabilis para sa mga bus."
+        },
+        {
+          "letter": "C",
+          "text": "Maaaring masyadong mabagal para sa mga bus."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Maaaring masyadong mabilis para sa mga bus.",
+      "explanation": "Lalo na sa mga kurba, ang maximum posted speed limit ay maaaring ligtas na magmaneho sa isang sasakyan ngunit masyadong mabilis upang magmaneho sa isang bus. Maging maingat lalo na kapag ang kalsada ay naging mapurol dahil sa ulan o niyebe."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11907",
+      "question": "Gaano kalayo ang kailangan ng air brake-equipped vehicle upang tumigil nang buo kung ito ay naglalakbay sa 55 mph sa ilalim ng ideal driving conditions?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "300 feet"
+        },
+        {
+          "letter": "B",
+          "text": "100 feet"
+        },
+        {
+          "letter": "C",
+          "text": "450 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "450 feet",
+      "explanation": "Ang total stopping distance ng vehicle ay binubuo ng perception distance, reaction distance, brake lag distance, at braking distance. Sa lahat ng mga factor na ito, ang air brake-equipped vehicle na naglalakbay sa bilis na 55 mph sa ilalim ng ideal driving conditions ay kailangan ng humigit-kumulang 450 feet upang tumigil nang buo."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9892",
+      "question": "Anong uri ng preno ang ginagamit ng karamihan sa mas bagong heavy-duty trucks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Single air brakes"
+        },
+        {
+          "letter": "B",
+          "text": "Dual air brakes"
+        },
+        {
+          "letter": "C",
+          "text": "Triple air brakes"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dual air brakes",
+      "explanation": "Ang karamihan sa mas bagong heavy-duty vehicles ay gumagamit ng dual air brake systems. Ang dual air brake system ay may dalawang magkahiwalay na air brake systems na gumagamit ng isang set ng brake controls."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11902",
+      "question": "Ang ____ sa pagitan ng air compressor at reservoir tank ay pumipigil sa air mula sa paglabas kung ang air compressor ay may leak.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slack adjuster"
+        },
+        {
+          "letter": "B",
+          "text": "One-way check valve"
+        },
+        {
+          "letter": "C",
+          "text": "Tractor protection valve"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "One-way check valve",
+      "explanation": "Ang one-way check valve ay kinakailangan na maging sa pagitan ng air compressor at unang pangunahing reservoir. Ang valve na ito ay pumipigil sa air mula sa paglabas ng system kung ang air compressor ay bumuo ng leak."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9604",
+      "question": "Ano ang madalas na makikita sa compressed air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tubig"
+        },
+        {
+          "letter": "B",
+          "text": "Karton"
+        },
+        {
+          "letter": "C",
+          "text": "Brake fluid"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tubig",
+      "explanation": "Ang compressed air sa isang air brake system ay karaniwang naglalaman ng isang tiyak na halaga ng tubig at compressor oil. Ang tubig at langis ay maaaring makasama sa mga preno kung pinapayagan itong mag-ipon sa system. Ang mga tangke ay dapat regular na i-drain upang alisin ang pagbuo na ito."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9294",
+      "question": "Ang paglagay ng gasolina sa isang bus habang may pasahero sa loob ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Katanggap-tanggap lamang sa gabi."
+        },
+        {
+          "letter": "B",
+          "text": "Acceptable lamang sa mga biyahe na higit sa 100 miles."
+        },
+        {
+          "letter": "C",
+          "text": "Katanggap-tanggap lamang kung ito ay hindi maiiwasan."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Katanggap-tanggap lamang kung ito ay hindi maiiwasan.",
+      "explanation": "Ang isang bus ay hindi dapat na mag-refuel habang may mga pasahero sa kuryente maliban kung ito ay ganap na kinakailangan. Sa partikular, ang isang bus na may mga biyahe sa iyong kuryente ay hindi dapat na mag-refuel sa loob ng isang nakabalot na gusali."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11160",
+      "question": "Kapag nagdadala ng karga, ang cargo ay dapat suriin:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ng ibang drayber."
+        },
+        {
+          "letter": "B",
+          "text": "Lamang pagkatapos ng isang paglalakbay na tapos na."
+        },
+        {
+          "letter": "C",
+          "text": "Sa bawat oras na kumukuha ka ng pahinga."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sa bawat oras na kumukuha ka ng pahinga.",
+      "explanation": "Ang kargo at ang kanyang securement ay dapat suriin sa bawat oras na kumukuha ka ng pahinga sa panahon ng isang biyahe. Siguraduhin na suriin ang kargo nang hindi bababa sa bawat 150 miles."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9890",
+      "question": "Ano ang ginagamit ng air brakes upang gumana ang mga brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compressed air"
+        },
+        {
+          "letter": "B",
+          "text": "Hangin mula sa labas"
+        },
+        {
+          "letter": "C",
+          "text": "Non-compressed air"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Compressed air",
+      "explanation": "Maraming malalaking CMVs ang equipped ng air brakes. Ang air braking system ay gumagamit ng compressed air upang magtrabaho."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11887",
+      "question": "Sa panahon ng static leakage test, ano ang maximum leakage rate na ligtas para sa double combination vehicle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi sa loob ng isang minuto."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi sa loob ng isang minuto."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi sa loob ng isang minuto."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi sa loob ng isang minuto.",
+      "explanation": "Kapag nagsasagawa ng static leakage test sa double combination vehicle na may air brakes, ang leakage rate ay dapat na hindi hihigit sa 3 psi sa loob ng isang minuto. Kung ang hangin ay tumatagos mula sa air brake system sa mas mabilis na rate, ang sasakyan ay hindi dapat imanehon dahil malamang na kailangan ng pagayos."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8766",
+      "question": "Sa isang dual air brake system, kung ang isang air system ay napakababa sa pressure:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wala sa brakes ang gagana sa lahat."
+        },
+        {
+          "letter": "B",
+          "text": "Alinman ang front o rear brakes ay hindi ganap na operable."
+        },
+        {
+          "letter": "C",
+          "text": "Karaniwan ay walang napapansin na epekto."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Alinman ang front o rear brakes ay hindi ganap na operable.",
+      "explanation": "Sa isang dual air brake system, alinman ang front o rear brakes ay hindi ganap na operable kung ang isa sa air systems ay nagiging napakababa sa pressure. Kung ang air pressure sa alinman sa tank ay nagiging napakababa habang ka ay nagmamaneho, dapat kang lumabas sa kalsada at mag-park kaagad."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10906",
+      "question": "Pagbabagal ng load:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ginagawa lamang ito sa liquid cargo."
+        },
+        {
+          "letter": "B",
+          "text": "Tumutulong na panatilihin ang karga"
+        },
+        {
+          "letter": "C",
+          "text": "Ay mapanganib at hindi dapat gawin."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tumutulong na panatilihin ang karga",
+      "explanation": "Ang blocking at bracing ay ginagamit upang maiwasan ang karga mula sa pag-shift sa transit."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11143",
+      "question": "Pagdating sa isang destinasyon, ang isang drayber ay dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magpahinga."
+        },
+        {
+          "letter": "B",
+          "text": "Ipaalala sa mga pasahero na dalhin ang kanilang mga gamit kapag lumabas sila."
+        },
+        {
+          "letter": "C",
+          "text": "Magbigay lamang ng mga abiso pagkatapos na ang mga pasahero ay nagsimulang lumabas sa bus."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ipaalala sa mga pasahero na dalhin ang kanilang mga gamit kapag lumabas sila.",
+      "explanation": "Kapag dumating sa isang panghuling destinasyon o intermediate stop, ang isang bus driver ay dapat ipaalala sa mga pasahero na dalhin ang kanilang mga gamit kapag lumalabas sa bus. Mas maganda para sa drayber na gumawa ng abiso na ito bago ang bus ay darating sa kumpletong patigil."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9291",
+      "question": "Kapag papalapit sa isang railroad crossing, dapat mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tingnan ang parehong direksyon, ngunit hindi na kailangang huminto."
+        },
+        {
+          "letter": "B",
+          "text": "Huminto at lumabas ng bus upang maghanap ng tren."
+        },
+        {
+          "letter": "C",
+          "text": "Huminto bago ang railroad tracks at tingnan ang parehong direksyon bago magpatuloy."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Huminto bago ang railroad tracks at tingnan ang parehong direksyon bago magpatuloy.",
+      "explanation": "Kapag lumalapit sa isang railroad crossing habang nagmamaneho ng bus, dapat kang huminto sa pagitan ng 15 at 50 feet mula sa pinakamalapit na track upang tumingin at makinig para sa anumang papalapit na mga tren. Magpatuloy lamang kapag sigurado ka na walang papalapit na mga tren. Hindi mo kailangang huminto sa streetcar crossings; kung may police officer o flagger na nagtuturo ng traffic; kung may berdeng traffic signal sa crossing; o sa mga crossings na may markang \"exempt\" o \"abandoned.\""
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11878",
+      "question": "Ang isang driver ay maaaring umasa sa front wheel braking na gumagana:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sa mga dry roadway lamang."
+        },
+        {
+          "letter": "B",
+          "text": "Sa lahat ng kondisyon."
+        },
+        {
+          "letter": "C",
+          "text": "Sa lahat ng kondisyon, maliban sa niyebe."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sa lahat ng kondisyon.",
+      "explanation": "Ang front wheel braking ay epektibo sa lahat ng kondisyon ng kalsada. Hindi malamang na kakaranasan mo ang front wheel skid, kahit sa yelo."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8638",
+      "question": "Ano ang dapat mangyari bago ang air pressure sa isang air brake system tank ay bumaba sa ibaba ng 55 psi?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang warning light ay dapat mag-activate."
+        },
+        {
+          "letter": "B",
+          "text": "Ang sasakyan ay hindi makakagalaw out of gear."
+        },
+        {
+          "letter": "C",
+          "text": "Ang front lights ay dapat kumislap."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang warning light ay dapat mag-activate.",
+      "explanation": "Ang low air pressure warning signal ay dapat mag-activate bago ang air supply pressure ay bumaba sa ibaba ng 55 psi sa air tank. Kung ang warning signal ay hindi bumubukas kapag sinusubukan sa panahon ng inspection, ang sasakyan ay hindi ligtas na magmaneho."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11881",
+      "question": "Ang mga braking mechanisms ay nakalagay sa loob ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang fifth wheel."
+        },
+        {
+          "letter": "B",
+          "text": "Isang brake drum."
+        },
+        {
+          "letter": "C",
+          "text": "Ang landing gear."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Isang brake drum.",
+      "explanation": "Ang drum brakes ay naka-attach sa mga gulong at nakalagay sa mga axles ng isang sasakyan. Ang mga braking mechanisms na nagsasagawa ng pagtigil ng sasakyan ay mahahanap sa loob ng isang drum brake."
+    }
+  ]
+}

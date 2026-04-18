@@ -1,0 +1,699 @@
+{
+  "state": "Alabama",
+  "category": "car",
+  "quizName": "Mixed Signs Practice Test #1",
+  "slug": "signs-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "27",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The road ahead has many curves."
+        },
+        {
+          "letter": "B",
+          "text": "There is a sharp curve in the road ahead."
+        },
+        {
+          "letter": "C",
+          "text": "The road ahead may be slippery."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The road ahead may be slippery.",
+      "explanation": "This sign warns you that the road may be slippery when wet."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "766",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/illinois-downgrade.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Upcoming downgrade or hill."
+        },
+        {
+          "letter": "B",
+          "text": "Road construction area."
+        },
+        {
+          "letter": "C",
+          "text": "Upcoming narrowing of roadway."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Upcoming downgrade or hill.",
+      "explanation": "This sign warns of a steep or long downgrade or hill ahead. It may have sharp curves."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1932",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/nebraska-traffic_signal_red_arrow_left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn, as long as you yield to others drivers."
+        },
+        {
+          "letter": "B",
+          "text": "Come to a full stop and proceed when it is safe."
+        },
+        {
+          "letter": "C",
+          "text": "Come to a full stop and remain stopped while the red arrow is activated."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Come to a full stop and remain stopped while the red arrow is activated.",
+      "explanation": "A red left turn arrow means you must stop completely before the intersection or crosswalk. Stay stopped until the red arrow turns off."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "827",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/washington-warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Railroad crossing."
+        },
+        {
+          "letter": "B",
+          "text": "Warning."
+        },
+        {
+          "letter": "C",
+          "text": "Signal ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Warning.",
+      "explanation": "Yellow diamond-shaped signs warn of possible danger ahead. Orange diamonds are used in work areas to warn of dangers."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "117",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Are approaching a railroad crossing and should prepare to stop."
+        },
+        {
+          "letter": "B",
+          "text": "Will always stop at the upcoming railroad crossing."
+        },
+        {
+          "letter": "C",
+          "text": "Should stop and wait for a signal before crossing the railroad tracks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Are approaching a railroad crossing and should prepare to stop.",
+      "explanation": "This sign tells you a railroad crossing is coming. Look, listen, slow down, and be ready to stop. Wait for trains to pass before you cross."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1934",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/tennessee-stop_empty.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow."
+        },
+        {
+          "letter": "B",
+          "text": "Stop."
+        },
+        {
+          "letter": "C",
+          "text": "Turn."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stop.",
+      "explanation": "An eight-sided sign always means stop. Come to a complete stop, yield to other traffic and pedestrians, then go when it is safe."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1029",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/low_clearance.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The distance from road surface to a bridge or overpass."
+        },
+        {
+          "letter": "B",
+          "text": "The maximum legal height of a vehicle allowed in this state."
+        },
+        {
+          "letter": "C",
+          "text": "The maximum width of a vehicle allowed on the highway."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The distance from road surface to a bridge or overpass.",
+      "explanation": "This sign shows the height distance from the road to the bottom of a bridge or overpass. In this case, it is 12 feet, 6 inches."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "851",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No right turn."
+        },
+        {
+          "letter": "B",
+          "text": "You must turn right."
+        },
+        {
+          "letter": "C",
+          "text": "Watch for traffic on your right."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No right turn.",
+      "explanation": "This sign means you cannot turn right at this intersection."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1137",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/road_work_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Watch for people crossing your path."
+        },
+        {
+          "letter": "B",
+          "text": "No passing zone."
+        },
+        {
+          "letter": "C",
+          "text": "Work zone ahead."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Work zone ahead.",
+      "explanation": "This orange sign warns of roadwork ahead. Stay alert for temporary traffic control devices in the work zone."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "862",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/y_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The roadway ends ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Drivers must bear either right or left."
+        },
+        {
+          "letter": "C",
+          "text": "A four-way intersection is ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Drivers must bear either right or left.",
+      "explanation": "This yellow warning sign shows a road fork ahead. You must go either right or left."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1047",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/tennessee-only_left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Travel in the direction of the arrow."
+        },
+        {
+          "letter": "B",
+          "text": "Always make a lane change."
+        },
+        {
+          "letter": "C",
+          "text": "Look for a destination sign to follow."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Travel in the direction of the arrow.",
+      "explanation": "This lane control sign tells you to move in the direction shown by the arrow. In this case, move to the left."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1018",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/illinois-construction.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "General warning signs."
+        },
+        {
+          "letter": "B",
+          "text": "Construction and maintenance warning signs."
+        },
+        {
+          "letter": "C",
+          "text": "Regulatory signs."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Construction and maintenance warning signs.",
+      "explanation": "Orange signs are only used for construction and maintenance warnings."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "770",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do not enter."
+        },
+        {
+          "letter": "B",
+          "text": "Yield the right-of-way."
+        },
+        {
+          "letter": "C",
+          "text": "Reserved parking for persons with disabilities."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Do not enter.",
+      "explanation": "This sign is posted on roads where you cannot enter. You may see it on one-way streets or expressway ramps if you are going the wrong direction."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "2109",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/workers.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A detour."
+        },
+        {
+          "letter": "B",
+          "text": "An upcoming construction or maintenance area."
+        },
+        {
+          "letter": "C",
+          "text": "A passing zone."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "An upcoming construction or maintenance area.",
+      "explanation": "Diamond-shaped signs warn of upcoming hazards. Orange diamond signs warn of construction or maintenance areas."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "857",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When pavement is wet, reduce your speed."
+        },
+        {
+          "letter": "B",
+          "text": "The road ahead winds in a series of turns or curves."
+        },
+        {
+          "letter": "C",
+          "text": "Traffic increases ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When pavement is wet, reduce your speed.",
+      "explanation": "This yellow warning sign tells you the road becomes slippery when wet. Reduce your speed when it rains."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "995",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/school.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You are approaching a school or school crosswalk."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down, drive with caution, and watch for children."
+        },
+        {
+          "letter": "C",
+          "text": "Both of the above."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Both of the above.",
+      "explanation": "This sign warns drivers to slow down and watch for children near schools."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1101",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/maryland-bycicle_turn_left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A left turn."
+        },
+        {
+          "letter": "B",
+          "text": "An upcoming stop."
+        },
+        {
+          "letter": "C",
+          "text": "A right turn."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A left turn.",
+      "explanation": "Bicyclists use hand signals because bikes don't have turn signals. A left arm held straight out means the bicyclist is turning left."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "868",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow down or stop."
+        },
+        {
+          "letter": "B",
+          "text": "Stop if necessary."
+        },
+        {
+          "letter": "C",
+          "text": "You must come to a complete stop."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "You must come to a complete stop.",
+      "explanation": "An octagonal sign always means stop. Come to a complete stop at the marked stop line. Stop before the crosswalk if there is no stop line. If there is no crosswalk, stop before the intersection where you can see oncoming traffic."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1889",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yield sign."
+        },
+        {
+          "letter": "B",
+          "text": "School crossing sign."
+        },
+        {
+          "letter": "C",
+          "text": "Stop sign."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Yield sign.",
+      "explanation": "A downward-facing triangle is a yield sign. Be ready to slow down or stop."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1792",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/connecticut-flagger.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A construction flagger is ahead."
+        },
+        {
+          "letter": "B",
+          "text": "A police officer is ahead."
+        },
+        {
+          "letter": "C",
+          "text": "A parking attendant is ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A construction flagger is ahead.",
+      "explanation": "This sign warns you that a flagger is ahead. Always follow the flagger's directions. Flaggers wear orange or yellow vests and use paddles and red flags to direct traffic around construction work zones."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "772",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/illinois-signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traffic signal ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Stop."
+        },
+        {
+          "letter": "C",
+          "text": "Yield the right-of-way."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Traffic signal ahead.",
+      "explanation": "This sign warns you that a traffic signal is coming up."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "773",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/slow_moving_vehicle.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow-moving vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "Road construction/maintenance area."
+        },
+        {
+          "letter": "C",
+          "text": "Traffic signal ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Slow-moving vehicle.",
+      "explanation": "This sign is placed on vehicles that travel slowly."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "831",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/curve_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Upcoming intersections."
+        },
+        {
+          "letter": "B",
+          "text": "Road construction."
+        },
+        {
+          "letter": "C",
+          "text": "Road curves ahead."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Road curves ahead.",
+      "explanation": "Warning signs are yellow with black markings. They alert you to hazards ahead. This sign warns you about an upcoming curve to the right."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "775",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/illinois-two_way_roadway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two-way traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Change in direction ahead."
+        },
+        {
+          "letter": "C",
+          "text": "School zone and crossing."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Two-way traffic.",
+      "explanation": "This sign tells you that you're leaving a divided highway and entering a two-way road."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1891",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trucks entering."
+        },
+        {
+          "letter": "B",
+          "text": "Truck exit only."
+        },
+        {
+          "letter": "C",
+          "text": "Steep downgrade ahead."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Steep downgrade ahead.",
+      "explanation": "This sign warns you about a steep downgrade ahead. Check your brakes."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "1107",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/maryland-wrong_way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Park your vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "You are not allowed to travel in this direction."
+        },
+        {
+          "letter": "C",
+          "text": "Exit at the intersection."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You are not allowed to travel in this direction.",
+      "explanation": "Red signs mean something is prohibited. This sign means you're going the wrong way. Turn around immediately."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "840",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An intersection."
+        },
+        {
+          "letter": "B",
+          "text": "A crosswalk."
+        },
+        {
+          "letter": "C",
+          "text": "A railroad crossing."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "A railroad crossing.",
+      "explanation": "A round sign warns of a railroad crossing ahead. Slow down, look, listen, and be ready to stop."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "771",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No U-turn."
+        },
+        {
+          "letter": "B",
+          "text": "Traffic signal ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Railroad ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No U-turn.",
+      "explanation": "This sign means U-turns are not allowed."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "1037",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/tennessee-traffic_blending.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You should stop for other traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Traffic is entering from another road and you should allow additional space for drivers to merge safely into the flow of traffic."
+        },
+        {
+          "letter": "C",
+          "text": "Traffic is entering from another road and you should keep right."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Traffic is entering from another road and you should allow additional space for drivers to merge safely into the flow of traffic.",
+      "explanation": "This sign warns you that traffic is merging from another road. Check your mirrors and sides. Move to another lane if possible to give merging drivers space to enter safely."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1112",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/flagger_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flagger ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Turn left at the intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Last turn before a toll road."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Flagger ahead.",
+      "explanation": "Orange signs mean work zone activity ahead. Stay alert for unexpected conditions. This sign warns you a flagger is coming. Always obey the flagger's directions."
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "state": "Wisconsin",
+  "category": "cdl",
+  "testName": "Double Test #1 20 Questions • Passing Score 16",
+  "testSlug": "double-1",
+  "url": "/images/wisconsin/cdl/double-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9001",
+      "question": "Ang pag-press at pag-release ng brake pedal nang hindi kinakailangan ay maaaring:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magpalabas ng hangin na mas mabilis kaysa ito ay maaaring palitan."
+        },
+        {
+          "letter": "B",
+          "text": "Magdagdag ng higit pang hangin sa braking system."
+        },
+        {
+          "letter": "C",
+          "text": "Gawing mas sensitibo ang brake pedal."
+        },
+        {
+          "letter": "D",
+          "text": "Lumikha ng malakas na tunog."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Magpalabas ng hangin na mas mabilis kaysa ito ay maaaring palitan.",
+      "explanation": "Sa isang air brake system, ang pag-press at pag-release ng brake pedal nang hindi kinakailangan ay maaaring magpalabas ng hangin mula sa braking system na mas mabilis kaysa sa compressor ay maaaring palitan."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8754",
+      "question": "Ang air compressor ay konektado sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmission."
+        },
+        {
+          "letter": "B",
+          "text": "Engine."
+        },
+        {
+          "letter": "C",
+          "text": "Radiator."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Engine.",
+      "explanation": "Ang air compressor ng isang air brake system ay konektado sa engine sa pamamagitan ng gears o isang v-belt. Ang compressor ay maaaring air-cooled o na-cool ng engine cooling system."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11906",
+      "question": "Kung braking ka sa dry pavement habang naglalakbay sa 55 mph, gaano kalayo ang idadagdag ng brake lag sa iyong kabuuang stopping distance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "45 feet"
+        },
+        {
+          "letter": "C",
+          "text": "20 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "Ang kabuuang stopping distance para sa mga sasakyang gumagamit ng air brakes ay binubuo ng apat na factor: perception distance, reaction distance, brake lag distance, at braking distance. Kapag nakabrake sa bilis na 55 mph habang nagmamaneho sa dry pavement, ang brake lag ay maaaring magdagdag ng tungkol sa 32 feet sa kabuuang stopping distance ng sasakyan."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11636",
+      "question": "Ang air lines ay dapat securely na konektado sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang fifth wheel."
+        },
+        {
+          "letter": "B",
+          "text": "Ang proper glad hands."
+        },
+        {
+          "letter": "C",
+          "text": "Ang kingpin."
+        },
+        {
+          "letter": "D",
+          "text": "Ang pintle hook."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang proper glad hands.",
+      "explanation": "Kapag sinusuri ang convertor dolly, siguraduhin na lahat ng bahagi ay present at nasa tamang working condition. Ang air lines ay dapat securely na nakakabit sa proper glad hands at hindi dapat maglaman ng anumang leaks. Ang mga ito ay dapat na nakakabit na may sapat na slack upang magbigay-daan ng madaling pagliko."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9076",
+      "question": "Ang mga salamin ay dapat ayusin:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Habang gumagalaw."
+        },
+        {
+          "letter": "B",
+          "text": "Kapag ang mga trailer ay tuwid."
+        },
+        {
+          "letter": "C",
+          "text": "Kapag ikaw ay nakatayo sa tabi ng sasakyan."
+        },
+        {
+          "letter": "D",
+          "text": "Sa pamamagitan ng isang assistant."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Kapag ang mga trailer ay tuwid.",
+      "explanation": "Ang mga salamin ay dapat suriin bago magsimula ang isang biyahe. Sa sasakyang may trailer, ang pag-adjust ng salamin ay maaari lamang masuri nang tumpak kung ang konektadong trailer ay tuwid."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8879",
+      "question": "Karamihan ng heavy-duty na mga sasakyan ay gumagamit ng ____ air brake systems.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Single"
+        },
+        {
+          "letter": "B",
+          "text": "Dual"
+        },
+        {
+          "letter": "C",
+          "text": "Triple"
+        },
+        {
+          "letter": "D",
+          "text": "Quad"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dual",
+      "explanation": "Karamihan ng mga heavy-duty na sasakyan ay nilagyan ng dual air brake systems."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8998",
+      "question": "Ano ang nangyayari kung ang air pressure sa air tanks ng system ay bumaba sa ibaba ng 60 psi?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang warning light ang magmimiwis."
+        },
+        {
+          "letter": "B",
+          "text": "Ang vehicle ay hindi magbabago ng gear."
+        },
+        {
+          "letter": "C",
+          "text": "Ang front lights ay magmimiwis."
+        },
+        {
+          "letter": "D",
+          "text": "Ang vehicle ay dapat huminto."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Isang warning light ang magmimiwis.",
+      "explanation": "Sa isang air brake system, ang isang low pressure warning signal ay dapat mag-activate kung ang pressure sa air tanks ay bumaba sa isang level sa ibaba ng 60 psi. Ang signal na ito ay maaaring nasa anyong warning light o isang wig wag."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11863",
+      "question": "Bago ang isang biyahe, siguraduhin na ang glide plate ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Na-detach mula sa sasakyan."
+        },
+        {
+          "letter": "B",
+          "text": "Malayo mula sa upper fifth wheel."
+        },
+        {
+          "letter": "C",
+          "text": "Ligtas na naka-mount sa trailer frame."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ligtas na naka-mount sa trailer frame.",
+      "explanation": "Mahalagang palaging magsagawa ng pag-inspect na mabuti bago magsimula ng pagmamaneho. Kapag sinusuri ang upper fifth wheel, ang glide plate ay dapat na ligtas na naka-mount sa trailer frame."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8824",
+      "question": "Kung ang ibang drayber ay sumusunod sa iyo nang masyadong malapit, dapat mong gawin ang lahat ng sumusunod, maliban:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Iwasan ang mabilis na pagbabago."
+        },
+        {
+          "letter": "B",
+          "text": "Pagtaas ng distansya sa pagitan mo at ng sasakyang nasa harapan mo."
+        },
+        {
+          "letter": "C",
+          "text": "Pabilisin."
+        },
+        {
+          "letter": "D",
+          "text": "Iwasan ang umaasa sa mga trick upang tulungan ang iba na magsagwan."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pabilisin.",
+      "explanation": "Kung ikaw ay sinusundan ng masyadong malapit, dapat mong pagtaas ang iyong following distance, iwasan ang mabilis na galaw, at iwasan ang umasa sa mga trick (tulad ng pag-flash ng iyong mga ilaw) upang tulungan ang ibang mga drayber na magsagwan. Ang pagbibilis ay maaaring lamang palakasin ang peligro sa pamamagitan ng pagdudulot ng tailgater na patuloy na sumusunod sa iyo sa mas mataas na bilis."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10032",
+      "question": "Kapag nakaparada, dapat mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magbahagi ng parking lot sa mga sasakyan."
+        },
+        {
+          "letter": "B",
+          "text": "Magparada sa paraang pipigilan ka mula sa pag-back up."
+        },
+        {
+          "letter": "C",
+          "text": "Tanungin ang mga drayber ng mas maliliit na sasakyan na lumipat."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Magparada sa paraang pipigilan ka mula sa pag-back up.",
+      "explanation": "Ang pag-back up ay palaging mapanganib at dapat iwasan kung maaari. Kapag nakaparada, dapat maghanap ng espasyo na nagpapahintulot sa iyo na magsumakay pataas kapag umaalis. Subukan na hindi magparada malapit sa mga mas maliit na sasakyan upang makatulong sa iyo na maiwasan ang mga problema sa pag-maneuver."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9607",
+      "question": "Ano ang isang bobtail tractor?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isang tractor na walang trailer"
+        },
+        {
+          "letter": "B",
+          "text": "Isang tractor na nakakabit sa dalawang trailers"
+        },
+        {
+          "letter": "C",
+          "text": "Isang tractor na may tank"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Isang tractor na walang trailer",
+      "explanation": "Ang mga tractor na walang semi-trailers ay tinatawag na bobtail tractors. Ang pag-operate ng isang bobtail tractor ay nangangailangan sa mga driver na mag-exercise ng pag-iingat."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11236",
+      "question": "Kung ang isang truck ay equipped, ang isang trailer brake hand valve ay maaaring gamitin upang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magdagdag ng gasolina sa sasakyan."
+        },
+        {
+          "letter": "B",
+          "text": "Pigilan ang sasakyan na umuusad pabalik kapag nagsisimula mula sa isang tigil."
+        },
+        {
+          "letter": "C",
+          "text": "Suriin ang antas ng langis."
+        },
+        {
+          "letter": "D",
+          "text": "Mag-load ng kargo."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pigilan ang sasakyan na umuusad pabalik kapag nagsisimula mula sa isang tigil.",
+      "explanation": "Kung ang isang tractor-trailer ay ganito ang equipped, ang trailer brake hand valve ay maaaring gamitin upang pigilan ang sasakyan mula sa pag-roll pabalik kapag nagsisimula mula sa isang hinto."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9280",
+      "question": "Kung may cargo fire sa box trailer:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang mga pintuan ng trailer ay dapat buksan."
+        },
+        {
+          "letter": "B",
+          "text": "Ang mga pintuan ng trailer ay hindi dapat buksan."
+        },
+        {
+          "letter": "C",
+          "text": "Ang malaking, mabigat na blanket ay dapat ilagay sa trailer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang mga pintuan ng trailer ay hindi dapat buksan.",
+      "explanation": "Ang mga pintuan ng trailer ay hindi dapat buksan sa panahon ng cargo fire, lalo na kung ang cargo ay may kasamang hazardous materials. Ang pagbubukas ng trailer doors ay magpapataas ng oxygen supply ng apoy, na maaaring magdulot ng pagtaas ng laki ng apoy."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11316",
+      "question": "Anong uri ng mga preno ang mayroon ang karamihan ng heavy-duty vehicles?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air brakes"
+        },
+        {
+          "letter": "B",
+          "text": "Solid brakes"
+        },
+        {
+          "letter": "C",
+          "text": "Liquid brakes"
+        },
+        {
+          "letter": "D",
+          "text": "Gravity brakes"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Air brakes",
+      "explanation": "Para sa kaligtasan, ang karamihan ng heavy-duty vehicles ay nilagyan ng dual air brake systems."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10945",
+      "question": "Kapag naglalakbay pababa sa isang downgrade, ang bilis ng isang sasakyan ay malamang na:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bababa."
+        },
+        {
+          "letter": "B",
+          "text": "Huwag magbago."
+        },
+        {
+          "letter": "C",
+          "text": "Tataas."
+        },
+        {
+          "letter": "D",
+          "text": "Tumugma ang bilis ng lalu-lalu."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tataas.",
+      "explanation": "Sa isang downgrade, ang lakas ng gravity ay magpapabilis ng bilis ng isang sasakyan. Kapag papalapit sa isang downgrade, pumili upang maglakbay sa isang bilis na magiging ligtas para sa laki at bigat ng iyong sasakyan."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11260",
+      "question": "Ang isang CMV ay dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huwag magkaroon ng isang fire extinguisher, maliban kung ito ay dadalhin upang magdulot ng hazardous materials."
+        },
+        {
+          "letter": "B",
+          "text": "Huwag magkaroon ng isang fire extinguisher, maliban kung ito ay maglalakbay sa pamamagitan ng remote areas."
+        },
+        {
+          "letter": "C",
+          "text": "Magkaroon ng isang fire extinguisher at iba pang emergency equipment."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Magkaroon ng isang fire extinguisher at iba pang emergency equipment.",
+      "explanation": "Lahat ng commercial motor vehicles ay kailangang nilagyan ng proper emergency equipment. Ito ay maaaring kasama ang spare electrical fuses; tatlong red reflective triangles, anim na fuses, o tatlong liquid burning flares; at hindi bababa sa isang properly charged at rated fire extinguisher."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11686",
+      "question": "Sa panahon ng static leakage test, ang maximum leakage rate para sa isang sasakyan na may air brakes ay ____ sa loob ng isang minuto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 psi"
+        },
+        {
+          "letter": "B",
+          "text": "2 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        },
+        {
+          "letter": "D",
+          "text": "4 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2 psi",
+      "explanation": "Kapag nagsasagawa ng static leakage test sa isang sasakyan na may air brakes, ang leakage rate ay dapat na hindi higit sa 2 psi sa isang minuto. Kung ang hangin ay umaakyat mula sa air brake system sa mas mabilis na rate, ang sasakyan ay hindi dapat biglain dahil malamang na may kailangang ayusin."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8788",
+      "question": "Kapag sinusuri ang isang sasakyan na may power steering, dapat mong masiguro na:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang likido ay nasa tamang antas."
+        },
+        {
+          "letter": "B",
+          "text": "Ang mga hose ay konektado sa baterya."
+        },
+        {
+          "letter": "C",
+          "text": "Ang mga hose ay hindi naglalaman ng anumang likido."
+        },
+        {
+          "letter": "D",
+          "text": "Mayroon lamang maliliit na pagsasalin."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang likido ay nasa tamang antas.",
+      "explanation": "Kapag sinusuri ang isang sasakyan na may power steering, suriin ang mga hose, bomba, at antas ng likido. Siguraduhin na suriin para sa at ayusin ang mga pagsasalin bago gamitin ang sasakyan."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8826",
+      "question": "Kung lumiliko ka sa kaliwa at mayroong dalawang available na left turn lanes, aling lane ang dapat mong piliin?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang left lane"
+        },
+        {
+          "letter": "B",
+          "text": "Ang right lane"
+        },
+        {
+          "letter": "C",
+          "text": "Alinman sa lane"
+        },
+        {
+          "letter": "D",
+          "text": "Ang mga trak ay hindi dapat lumiko kung saan mayroong dalawang left turn lanes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang right lane",
+      "explanation": "Ang isang malaking sasakyan ay maaaring kailangang lumipat sa kanan upang gumawa ng isang kaliwang pagtitipak. Kung ang isang intersection ay may dalawang left turn lanes, ang driver ay dapat pumili ng righthand lane upang magsimula ng kanilang pagtitipak."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10944",
+      "question": "Ang hydroplaning ay karaniwang nangyayari:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kapag ang mga gulong ay maayos na naipump."
+        },
+        {
+          "letter": "B",
+          "text": "Sa mga bilis na mas mababa sa 15 mph."
+        },
+        {
+          "letter": "C",
+          "text": "Sa mga lugar kung saan nag-ipon ang tubig sa kalsada."
+        },
+        {
+          "letter": "D",
+          "text": "Sa gabi."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sa mga lugar kung saan nag-ipon ang tubig sa kalsada.",
+      "explanation": "Sa mga lugar kung saan ang tubig ay kumukuha sa kalsada, posible para sa isang sasakyan na hydroplane. Ang mababang presyon ng gulong o lumang gulong na treads ay ginagawang mas malamang na ito ay mangyari. Kung may sapat na tubig sa ibabaw ng kalsada, ang hydroplaning ay maaaring mangyari sa mga bilis na kasing baba lamang ng 30 mph."
+    }
+  ]
+}

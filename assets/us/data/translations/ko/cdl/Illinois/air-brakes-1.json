@@ -1,0 +1,660 @@
+{
+  "state": "Illinois",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/illinois/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11101",
+      "question": "이중 제동 시스템이 있는 차량을 운전하려고 할 때 운전자는 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량을 따뜻하게 하여 연료가 엔진에 도달하도록 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "1차 및 2차 시스템 모두에서 공기 압력이 구축될 때까지 기다립니다."
+        },
+        {
+          "letter": "C",
+          "text": "엔진이 시작된 직후 운전을 시작합니다."
+        },
+        {
+          "letter": "D",
+          "text": "페달을 약 20번 펌프질하여 압력을 형성한 후 운전을 시작하세요."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "1차 및 2차 시스템 모두에서 공기 압력이 구축될 때까지 기다립니다.",
+      "explanation": "이중 공기 제동 시스템이 있는 차량을 운전하기 전에 압축기가 두 시스템 모두에서 최소 100 psi의 압력을 구축할 때까지 시간을 허용합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10232",
+      "question": "잠금 방지 제동 시스템(ABS) 사용:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제동 거리를 단축합니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크 반응 시간을 단축합니다."
+        },
+        {
+          "letter": "C",
+          "text": "더 적은 제어를 제공합니다."
+        },
+        {
+          "letter": "D",
+          "text": "더 많은 제어를 제공합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "더 많은 제어를 제공합니다.",
+      "explanation": "Anti-Lock Braking System (ABS)는 강한 제동 중 휠 록업을 방지하는 데 도움이 됩니다. 더 나은 제어를 제공하지만, 반드시 차량의 제동 거리를 단축하지는 않습니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9006",
+      "question": "운전 중 저압 경고등이 켜지면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "탱크에 충분한 공기가 있을 때에만 제동이 가능합니다."
+        },
+        {
+          "letter": "B",
+          "text": "시스템의 공기가 소진되기 전에 14회 제동할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "정상적으로 계속 운전하고 편할 때 제동 시스템을 점검해야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "계속 운전하되 다른 운전자에게 경고하기 위해 비상 깜박이를 켜야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "탱크에 충분한 공기가 있을 때에만 제동이 가능합니다.",
+      "explanation": "저기압 경고등이 켜지면 최대한 빨리 안전하게 차량을 주차해야 합니다. 제어된 제동은 탱크에 충분한 공기가 남아 있는 동안에만 가능합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8994",
+      "question": "모든 에어 탱크는 다음을 포함해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "드레인 밸브."
+        },
+        {
+          "letter": "B",
+          "text": "잠금장치."
+        },
+        {
+          "letter": "C",
+          "text": "뚜껑."
+        },
+        {
+          "letter": "D",
+          "text": "경고 스티커."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "드레인 밸브.",
+      "explanation": "에어 브레이크 시스템 탱크는 드레인 밸브를 포함해야 합니다. 이 밸브는 탱크에 축적된 오일과 물을 배출하는 데 사용되며 수동 또는 자동으로 작동할 수 있습니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11289",
+      "question": "에어 탱크 드레인:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "빗물이 탱크로 들어가도록 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "탱크에서 물과 오일을 배출하는 데 사용됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "절대로 열어서는 안 됩니다."
+        },
+        {
+          "letter": "D",
+          "text": "운전 중에는 항상 열려 있어야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "탱크에서 물과 오일을 배출하는 데 사용됩니다.",
+      "explanation": "공기 브레이크 시스템에서 공기 저장 탱크에는 물과 압축기 오일을 제거할 수 있도록 드레인이 장착되어 있습니다. 물과 오일이 시스템에 축적되면 브레이크를 손상시킬 수 있습니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11676",
+      "question": "저압 경고 신호를 어떻게 테스트해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주차 브레이크를 걸고 해제하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크 페달을 빠르게 누르고 놓으십시오."
+        },
+        {
+          "letter": "C",
+          "text": "후면 차단 밸브를 여십시오."
+        },
+        {
+          "letter": "D",
+          "text": "모든 글래드 핸드를 분리했다가 다시 연결하십시오."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "브레이크 페달을 빠르게 누르고 놓으십시오.",
+      "explanation": "저압 경고 표시등이 제대로 작동하는 것이 필수적입니다. 시스템이 충전되도록 한 후 브레이크 페달을 빠르게 누르고 놓아 경고 신호를 테스트할 수 있습니다. 이렇게 하면 제동 시스템에서 공기가 배출되며 압력이 위험한 수준으로 떨어지면 경고 신호가 켜져야 합니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10742",
+      "question": "공기 압력은 단일 공기 시스템에서 다음 시간 내에 축적되어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15분."
+        },
+        {
+          "letter": "B",
+          "text": "12분."
+        },
+        {
+          "letter": "C",
+          "text": "3분."
+        },
+        {
+          "letter": "D",
+          "text": "1분."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "3분.",
+      "explanation": "단일 공기 제동 시스템이 있는 차량에서 엔진이 작동 rpm에 도달한 후, 공기 시스템의 압력은 일반적으로 3분 내에 50에서 90 psi로 상승해야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11465",
+      "question": "적용된 누출 테스트 중 이중 연결 차량의 최대 누출율은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "분당 10 psi"
+        },
+        {
+          "letter": "B",
+          "text": "분당 8 psi"
+        },
+        {
+          "letter": "C",
+          "text": "분당 6 psi"
+        },
+        {
+          "letter": "D",
+          "text": "분당 4 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "분당 4 psi",
+      "explanation": "특정 차량에 안전한 최대 공기 손실 속도를 아는 것이 중요합니다. 이중 연결 차량은 적용된 누출 테스트 중에 분당 4 psi 이상의 누출 속도를 가져서는 안 됩니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11104",
+      "question": "주차 브레이크는 다음과 같아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량을 주차할 때마다 사용합니다."
+        },
+        {
+          "letter": "B",
+          "text": "운전 중에 사용합니다."
+        },
+        {
+          "letter": "C",
+          "text": "악천후 운전 시 설정합니다."
+        },
+        {
+          "letter": "D",
+          "text": "정상 운전 중 차량을 정지시키는 데 사용합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "차량을 주차할 때마다 사용합니다.",
+      "explanation": "차량을 주차할 때마다 주차 브레이크를 작동해야 합니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10228",
+      "question": "물과 압축기 오일은 일반적으로 에어 브레이크 시스템 내의 압축 공기에서 발견됩니다. 물과 압축기 오일:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "에어 브레이크 시스템의 적절한 작동에 필요합니다."
+        },
+        {
+          "letter": "B",
+          "text": "부족할 경우 추가해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "정기적으로 제거해야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "문제가 되지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "정기적으로 제거해야 합니다.",
+      "explanation": "에어 브레이크 시스템의 압축 공기에는 보통 일정량의 물과 압축기 오일이 포함되어 있습니다. 물과 오일이 시스템에 축적되면 브레이크가 손상될 수 있습니다. 수동 조작식 에어 탱크 드레인은 이러한 축적물을 제거하기 위해 매일 열어야 합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10363",
+      "question": "ABS(안티락 브레이킹 시스템):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 제동과 함께 사용할 수 없습니다."
+        },
+        {
+          "letter": "B",
+          "text": "건조한 포장도로에서만 사용해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "제동 시 제어를 유지하는 데 도움이 될 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "모든 축에 ABS가 있는 경우에만 사용해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "제동 시 제어를 유지하는 데 도움이 될 수 있습니다.",
+      "explanation": "ABS(Anti-Lock Braking Systems)는 공기 제동 시스템과 호환됩니다. ABS는 차량의 제어를 유지하는 데 도움이 되며 미끄러운 표면에서 급제동 중 바퀴가 잠기는 것을 방지합니다. ABS는 한 축에만 있어도 이점을 제공할 수 있습니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11712",
+      "question": "일방향 체크 밸브:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 탱크에서 물과 압축기 오일을 배출합니다."
+        },
+        {
+          "letter": "B",
+          "text": "공기 압축기에 누출이 있을 경우 공기가 빠져나가는 것을 방지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "누출이 있을 때 비상 브레이크를 활성화합니다."
+        },
+        {
+          "letter": "D",
+          "text": "스프링 브레이크가 사용될 때까지 제 위치에 유지합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "공기 압축기에 누출이 있을 경우 공기가 빠져나가는 것을 방지합니다.",
+      "explanation": "공기 압축기와 첫 번째 주요 저수조 사이에는 일방 체크 밸브가 필요합니다. 이 밸브는 공기 압축기에 누수가 발생할 경우 시스템에서 공기가 빠지는 것을 방지합니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8874",
+      "question": "스프링 브레이크가 작동되면 다음을 절대 하지 말아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크 페달을 밟으십시오."
+        },
+        {
+          "letter": "B",
+          "text": "엔진 후드를 열기"
+        },
+        {
+          "letter": "C",
+          "text": "공기 저장 탱크에서 공기를 배출하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "캡의 문을 여십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "브레이크 페달을 밟으십시오.",
+      "explanation": "스프링 브레이크가 작동되면 브레이크 페달을 밟지 마십시오. 브레이크가 스프링과 공기 압력 모두에 노출되면 손상될 수 있습니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10231",
+      "question": "운전 중 ABS 경고등이 켜지면 다음을 의미합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ABS가 제대로 작동합니다."
+        },
+        {
+          "letter": "B",
+          "text": "ABS가 방금 활성화되었습니다."
+        },
+        {
+          "letter": "C",
+          "text": "ABS가 제대로 작동하지 않습니다."
+        },
+        {
+          "letter": "D",
+          "text": "ABS를 활성화해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "ABS가 제대로 작동하지 않습니다.",
+      "explanation": "Anti-Lock Braking Systems (ABS)이 있는 차량은 제동 시스템에 문제가 있을 때 드라이버에게 경고하기 위해 노란색 고장 표시등을 가지고 있습니다. 이 표시등이 활성화되면 드라이버는 하나 이상의 휠에서 ABS를 잃었을 수 있습니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9007",
+      "question": "매우 습한 날씨에 기온이 영하일 때 주차 브레이크를 사용하면 어떤 일이 발생할 수 있습니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크가 삐걱거릴 것입니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크가 얼어서 차량이 움직이지 않을 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크가 갑자기 저절로 풀릴 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "브레이크가 폭발할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "브레이크가 얼어서 차량이 움직이지 않을 수 있습니다.",
+      "explanation": "날씨가 매우 습하고 기온이 영하일 때 주차 브레이크를 사용하면 브레이크가 얼어서 차량이 움직이지 않을 수 있습니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9003",
+      "question": "긴급 상황에서 제어된 제동 방법을 사용할 때는 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "바퀴가 잠기지 않도록 최대한 힘껏 브레이크를 적용합니다."
+        },
+        {
+          "letter": "B",
+          "text": "평소 힘의 약 절반 정도로 브레이크를 적용합니다."
+        },
+        {
+          "letter": "C",
+          "text": "바퀴가 잠기도록 브레이크를 적용합니다."
+        },
+        {
+          "letter": "D",
+          "text": "최소한의 압력으로 브레이크를 적용합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "바퀴가 잠기지 않도록 최대한 힘껏 브레이크를 적용합니다.",
+      "explanation": "긴급 정지를 위한 제어된 제동 방법은 바퀴가 잠기지 않도록 최대한 힘껏 브레이크를 적용하는 것입니다. 이러한 방식으로 제동할 때 핸들 움직임을 작게 유지하세요."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8876",
+      "question": "1997년 3월 1일 이후에 제조된 에어 브레이크가 있는 트럭 트랙터는 다음과 같이 장착되어 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "추가 브레이크 세트."
+        },
+        {
+          "letter": "B",
+          "text": "음성 제어 브레이크"
+        },
+        {
+          "letter": "C",
+          "text": "크루즈 컨트롤"
+        },
+        {
+          "letter": "D",
+          "text": "Anti-Lock Braking Systems (ABS)"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Anti-Lock Braking Systems (ABS)",
+      "explanation": "1997년 3월 1일 이후에 제조된 에어 브레이크가 있는 트럭 트랙터는 ABS(Anti-Lock Braking Systems)로 장착해야 합니다. ABS는 1998년 3월 1일 이후에 제조된 에어 브레이크가 있는 다른 모든 유형의 차량에 필수입니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8987",
+      "question": "에어 브레이크 시스템에서 공기 압력이 너무 낮아지면 어떤 일이 발생할 수 있습니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크가 삑삑거릴 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크가 작동하지 않을 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크가 느릴 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "브레이크가 매우 민감해집니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "브레이크가 작동하지 않을 수 있습니다.",
+      "explanation": "불필요하게 브레이크 페달을 밟았다 놨다를 반복하면 압축기가 교체할 수 있는 것보다 더 빠르게 공기가 배출되어 사용 가능한 공기 압력이 감소합니다. 에어 브레이크 시스템의 공기 압력이 너무 낮아지면 브레이크가 더 이상 작동하지 않습니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10230",
+      "question": "기초 브레이크는 다음과 같이 사용됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "앞 휠에서만."
+        },
+        {
+          "letter": "B",
+          "text": "뒷 휠에서만."
+        },
+        {
+          "letter": "C",
+          "text": "운전자 쪽 휠에서만."
+        },
+        {
+          "letter": "D",
+          "text": "각 휠에서."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "각 휠에서.",
+      "explanation": "기초 브레이크는 각 휠에서 사용됩니다. 가장 일반적인 유형은 S-캠 드럼 브레이크입니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8985",
+      "question": "공기 저장 탱크:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "한 번의 제동 사이클에만 충분한 공기를 보유합니다."
+        },
+        {
+          "letter": "B",
+          "text": "압축기가 작동을 멈춘 경우에도 브레이크를 여러 번 사용할 수 있을 만큼 충분한 공기를 보유합니다."
+        },
+        {
+          "letter": "C",
+          "text": "응급 상황이 아닌 한 공기를 보유하지 않습니다."
+        },
+        {
+          "letter": "D",
+          "text": "1,000회 이상의 제동 사이클에 충분한 공기를 보유합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "압축기가 작동을 멈춘 경우에도 브레이크를 여러 번 사용할 수 있을 만큼 충분한 공기를 보유합니다.",
+      "explanation": "에어 브레이크 시스템에서 에어 저장 탱크는 압축기가 작동을 멈춘 경우에도 브레이크를 여러 번 사용할 수 있을 만큼 충분한 공기를 보유합니다."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8993",
+      "question": "이중 에어 브레이크 시스템:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "단일 공기 브레이크 시스템을 가지고 있지만 두 개의 제어 장치를 사용합니다."
+        },
+        {
+          "letter": "B",
+          "text": "트럭의 각 측면마다 하나의 공기 브레이크 시스템을 가지고 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "각 휠마다 두 개의 브레이크를 가지고 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "두 개의 별도 공기 브레이크 시스템을 가지고 있지만 단일 세트의 제어 장치를 사용합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "두 개의 별도 공기 브레이크 시스템을 가지고 있지만 단일 세트의 제어 장치를 사용합니다.",
+      "explanation": "이중 공기 브레이크 시스템은 단일 세트의 브레이크 제어 장치를 사용하는 두 개의 별도 공기 브레이크 시스템을 가지고 있습니다. 한 시스템은 일반적으로 후미 액슬 또는 액슬들의 일반 브레이크를 작동시킵니다. 다른 시스템은 전미 액슬의 일반 브레이크를 작동시킵니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11720",
+      "question": "시속 55 mph의 속도로 건조한 포장 도로에서 제동할 때, 제동 지연은 차량의 총 정지 거리에 ____을(를) 추가할 수 있습니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "15 feet"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        },
+        {
+          "letter": "D",
+          "text": "10 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "공기 제동장치가 장착된 차량의 총 정지 거리는 네 가지 요소로 구성됩니다: 지각 거리, 반응 거리, 제동 지연 거리 및 제동 거리. 시속 55 mph의 속도로 건조한 포장 도로에서 제동할 때, 제동 지연은 차량의 총 정지 거리에 약 32 feet를 추가할 수 있습니다."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11106",
+      "question": "스탭 제동 방법을 사용하려면 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "휠이 록업될 때까지 제동을 완전히 적용하고, 휠이 굴러가기 시작할 때까지 제동을 해제한 후 이 과정을 반복하세요."
+        },
+        {
+          "letter": "B",
+          "text": "제동을 약 절반 정도 적용하되, 휠이 계속 굴러가도록 하세요."
+        },
+        {
+          "letter": "C",
+          "text": "휠이 록업되고 차량이 정지될 때까지 제동을 완전히 적용하세요."
+        },
+        {
+          "letter": "D",
+          "text": "차량이 감속하기 시작할 때까지 비상 제동을 적용하세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "휠이 록업될 때까지 제동을 완전히 적용하고, 휠이 굴러가기 시작할 때까지 제동을 해제한 후 이 과정을 반복하세요.",
+      "explanation": "응급 정지를 위한 스탭 제동 방법은 휠이 록업될 때까지 제동을 완전히 적용하는 것입니다. 그 후 휠이 굴러가기 시작할 때까지 제동을 해제한 후 이 과정을 반복합니다."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8884",
+      "question": "제동 페이드는 다음에 의해 발생합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제동을 자주 사용하지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "제동이 과열됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "제동이 너무 차갑습니다."
+        },
+        {
+          "letter": "D",
+          "text": "제동이 젖어있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "제동이 과열됩니다.",
+      "explanation": "제동을 과도하게 사용하면 과열되어 효율성이 떨어집니다. 이를 \"페이드\"라고 합니다."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "9000",
+      "question": "수동 조절식 드레인이 있는 에어 탱크를 사용하는 경우, 탱크를 얼마나 자주 배수해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "매일"
+        },
+        {
+          "letter": "B",
+          "text": "주 1회"
+        },
+        {
+          "letter": "C",
+          "text": "월 1회"
+        },
+        {
+          "letter": "D",
+          "text": "3,000마일마다 1회"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "매일",
+      "explanation": "차량의 에어 탱크에 오일과 물이 축적되는 것을 방지하려면 수동 조절식 에어 탱크 드레인을 매일 운전이 끝날 때 사용해야 합니다."
+    }
+  ]
+}

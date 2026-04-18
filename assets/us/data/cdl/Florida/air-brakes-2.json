@@ -1,0 +1,660 @@
+{
+  "state": "Florida",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/florida/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9382",
+      "question": "If the air pressure warning light comes on, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep driving normally."
+        },
+        {
+          "letter": "B",
+          "text": "Turn on your hazard lights and keep driving."
+        },
+        {
+          "letter": "C",
+          "text": "Call local law enforcement."
+        },
+        {
+          "letter": "D",
+          "text": "Leave the road safely and stop."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Leave the road safely and stop.",
+      "explanation": "When the air pressure warning light or buzzer comes on, stop immediately and park safely. This warning means there is a problem with the air brake system that needs to be fixed."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8874",
+      "question": "When spring brakes are activated, you should never:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Step on the brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Open the hood."
+        },
+        {
+          "letter": "C",
+          "text": "Release air from the storage tanks."
+        },
+        {
+          "letter": "D",
+          "text": "Open the cab door."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Step on the brake pedal.",
+      "explanation": "Do not use the brake pedal if spring brakes are activated. Using both spring force and air pressure together can damage the brakes."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9380",
+      "question": "Most heavy-duty vehicles use:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Single air brake systems."
+        },
+        {
+          "letter": "B",
+          "text": "Dual air brake systems."
+        },
+        {
+          "letter": "C",
+          "text": "Triple air brake systems."
+        },
+        {
+          "letter": "D",
+          "text": "Quadruple air brake systems."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dual air brake systems.",
+      "explanation": "Most heavy-duty vehicles have dual air brake systems. These have two separate braking systems that work with one set of controls. Each system operates the brakes on different axles."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11916",
+      "question": "A low air pressure warning signal should activate when:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tank pressure falls below 120 psi."
+        },
+        {
+          "letter": "B",
+          "text": "Tank pressure falls below 60 psi."
+        },
+        {
+          "letter": "C",
+          "text": "Tank pressure falls below 10 psi."
+        },
+        {
+          "letter": "D",
+          "text": "Tank pressure falls below 5 psi."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tank pressure falls below 60 psi.",
+      "explanation": "The low air pressure warning signal must come on when air pressure in the tanks drops below 60 psi. The warning can be a light, buzzer, or wig wag."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9558",
+      "question": "Emergency brakes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Are not required on trucks."
+        },
+        {
+          "letter": "B",
+          "text": "Are only required on trailers."
+        },
+        {
+          "letter": "C",
+          "text": "Are required on tractors."
+        },
+        {
+          "letter": "D",
+          "text": "Are optional."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Are required on tractors.",
+      "explanation": "All trucks, truck tractors, and buses must have emergency brakes and parking brakes. These brakes must be held by mechanical force."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9000",
+      "question": "If air tanks have manual drains, how often should you drain them?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Every day"
+        },
+        {
+          "letter": "B",
+          "text": "Once a week"
+        },
+        {
+          "letter": "C",
+          "text": "Once a month"
+        },
+        {
+          "letter": "D",
+          "text": "Once every 3,000 miles"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Every day",
+      "explanation": "Drain manual air tank drains at the end of each day. This prevents water and oil from building up in the tanks."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11465",
+      "question": "For a double combination vehicle, the maximum air leakage rate during a test is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi in a minute."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi in a minute."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi in a minute."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi in a minute."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4 psi in a minute.",
+      "explanation": "For a double combination vehicle, the maximum safe air loss rate is 4 psi in a minute during a leakage test."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11700",
+      "question": "In a dual air brake system, air pressure should build from 85 to 100 psi within:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two minutes."
+        },
+        {
+          "letter": "B",
+          "text": "15 seconds."
+        },
+        {
+          "letter": "C",
+          "text": "10 minutes."
+        },
+        {
+          "letter": "D",
+          "text": "45 seconds."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "45 seconds.",
+      "explanation": "When checking a dual air brake system, air pressure should build from 85 to 100 psi in both the primary and secondary systems in about 45 seconds."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8860",
+      "question": "The service brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Applies and releases the brakes when you press the brake pedal while driving."
+        },
+        {
+          "letter": "B",
+          "text": "Applies and releases the parking brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Applies and releases the emergency brake."
+        },
+        {
+          "letter": "D",
+          "text": "Applies and releases the axle brake."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Applies and releases the brakes when you press the brake pedal while driving.",
+      "explanation": "Air brakes have three separate systems: the service brake system, the parking brake system, and the emergency brake system. The service brake system controls normal braking when you press the brake pedal while driving."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10987",
+      "question": "Air tank drains are used to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Allow rain water to enter the tank."
+        },
+        {
+          "letter": "B",
+          "text": "Remove water and compressor oil from the tank."
+        },
+        {
+          "letter": "C",
+          "text": "Should never be opened."
+        },
+        {
+          "letter": "D",
+          "text": "Must stay open while driving."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Remove water and compressor oil from the tank.",
+      "explanation": "Air storage tanks must be drained to remove water and compressor oil. If not drained, these can cause damage. Use manual drains at the end of each day of driving."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9138",
+      "question": "When only the tractor has an Anti-Lock Braking System (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The risk of jackknifing is reduced."
+        },
+        {
+          "letter": "B",
+          "text": "The risk of jackknifing is increased."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes will not work as well without ABS."
+        },
+        {
+          "letter": "D",
+          "text": "The brakes will become more sensitive."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The risk of jackknifing is reduced.",
+      "explanation": "When a tractor has ABS but the trailer does not, jackknifing risk decreases and the driver can still steer. If only the trailer has ABS, the trailer is less likely to swing to one side."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8869",
+      "question": "What color is the low air pressure warning light?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green"
+        },
+        {
+          "letter": "B",
+          "text": "Orange"
+        },
+        {
+          "letter": "C",
+          "text": "Red"
+        },
+        {
+          "letter": "D",
+          "text": "Purple"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Red",
+      "explanation": "Air brake vehicles must have a low air pressure warning signal. The warning light is usually red and may have a buzzer sound."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8867",
+      "question": "The most common type of foundation brake is the:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S-cam drum brake"
+        },
+        {
+          "letter": "B",
+          "text": "C-cam drum brake"
+        },
+        {
+          "letter": "C",
+          "text": "G-cam disc brake"
+        },
+        {
+          "letter": "D",
+          "text": "P-cam disc brake"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "S-cam drum brake",
+      "explanation": "The S-cam drum brake is the most common type of foundation brake."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8880",
+      "question": "In a dual air brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Each system has separate air tanks, hoses, and lines."
+        },
+        {
+          "letter": "B",
+          "text": "The systems share air tanks, but each has separate hoses and lines."
+        },
+        {
+          "letter": "C",
+          "text": "Each system uses the same lines and hoses."
+        },
+        {
+          "letter": "D",
+          "text": "One system is the main system and a second system is backup if the first fails."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Each system has separate air tanks, hoses, and lines.",
+      "explanation": "A dual air brake system has two separate systems. They share one brake control, but each has its own air tanks, hoses, and lines."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8999",
+      "question": "When operating a vehicle with a dual brake system, a driver should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Warm up the vehicle before driving to get fuel to the engine."
+        },
+        {
+          "letter": "B",
+          "text": "Wait until the air compressor builds 100 psi in both the primary and secondary systems before driving."
+        },
+        {
+          "letter": "C",
+          "text": "Start driving as soon as the vehicle starts."
+        },
+        {
+          "letter": "D",
+          "text": "Pump the pedal about 20 times to build pressure, then drive."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Wait until the air compressor builds 100 psi in both the primary and secondary systems before driving.",
+      "explanation": "Before driving a vehicle with a dual air system, let the air compressor build a minimum of 100 psi in both the primary and secondary systems."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11702",
+      "question": "In cold weather, an alcohol evaporator should be checked and filled:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Once a week"
+        },
+        {
+          "letter": "B",
+          "text": "Every day"
+        },
+        {
+          "letter": "C",
+          "text": "Every hour"
+        },
+        {
+          "letter": "D",
+          "text": "Once a month"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Every day",
+      "explanation": "An alcohol evaporator prevents ice from building up in an air brake system. In cold weather, check and refill it every day."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8987",
+      "question": "What can happen if air pressure gets too low in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The brakes may squeak."
+        },
+        {
+          "letter": "B",
+          "text": "The brakes may not work."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes may be sluggish."
+        },
+        {
+          "letter": "D",
+          "text": "The brakes will be very sensitive."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The brakes may not work.",
+      "explanation": "Pressing and releasing the brake pedal too often lets air out faster than the compressor can replace it. If air pressure gets too low, the brakes will stop working."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8871",
+      "question": "What is a wig wag?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A type of warning system"
+        },
+        {
+          "letter": "B",
+          "text": "A tube that moves air from the compressor to the tanks"
+        },
+        {
+          "letter": "C",
+          "text": "A noise made by air brakes when used"
+        },
+        {
+          "letter": "D",
+          "text": "A part in the braking unit that lets air move freely"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A type of warning system",
+      "explanation": "A wig wag is a low air pressure warning device. It drops a mechanical arm into the driver's view when air pressure drops below 60 psi."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8985",
+      "question": "The air storage tanks:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hold only enough air for one braking cycle."
+        },
+        {
+          "letter": "B",
+          "text": "Hold enough air for the brakes to work several times if the compressor stops."
+        },
+        {
+          "letter": "C",
+          "text": "Do not hold air unless there is an emergency."
+        },
+        {
+          "letter": "D",
+          "text": "Hold enough air for more than 1,000 braking cycles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Hold enough air for the brakes to work several times if the compressor stops.",
+      "explanation": "Air storage tanks hold enough air for the brakes to work several times if the compressor stops working."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9379",
+      "question": "If brake pads rub against brake drums and create too much heat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The brakes will stick."
+        },
+        {
+          "letter": "B",
+          "text": "The brakes will become extra sensitive."
+        },
+        {
+          "letter": "C",
+          "text": "The brakes may stop working."
+        },
+        {
+          "letter": "D",
+          "text": "The air compressor will turn on to cool the brakes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The brakes may stop working.",
+      "explanation": "Brakes heat up when used. If they get too hot from overuse, expansion and chemical changes make them less effective and eventually stop working. This is called \"brake fade.\""
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9383",
+      "question": "How do you stop a vehicle with air brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pull the air brake lever."
+        },
+        {
+          "letter": "B",
+          "text": "Engage the brake lever."
+        },
+        {
+          "letter": "C",
+          "text": "Push the brake pedal down."
+        },
+        {
+          "letter": "D",
+          "text": "Pull the brake pedal up."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Push the brake pedal down.",
+      "explanation": "Push the brake pedal down to stop. The harder you push, the more air pressure is released to the brakes."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8993",
+      "question": "What is a dual air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One air brake system with two sets of controls."
+        },
+        {
+          "letter": "B",
+          "text": "One air brake system for each side of the truck."
+        },
+        {
+          "letter": "C",
+          "text": "Two brakes for each wheel."
+        },
+        {
+          "letter": "D",
+          "text": "Two separate air brake systems with one set of controls."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Two separate air brake systems with one set of controls.",
+      "explanation": "A dual air brake system has two separate systems. One operates the front brakes. The other operates the rear brakes. Both use a single brake pedal."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8881",
+      "question": "Before driving a vehicle with a dual air brake system, the air compressor must build up at least ____ psi in both systems.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 psi"
+        },
+        {
+          "letter": "B",
+          "text": "50 psi"
+        },
+        {
+          "letter": "C",
+          "text": "75 psi"
+        },
+        {
+          "letter": "D",
+          "text": "100 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "100 psi",
+      "explanation": "Wait for the air compressor to reach at least 100 psi in both the primary and secondary systems before driving."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9001",
+      "question": "What happens when you press and release the brake pedal unnecessarily in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air is released faster than the compressor can replace it."
+        },
+        {
+          "letter": "B",
+          "text": "More air is added to the braking system."
+        },
+        {
+          "letter": "C",
+          "text": "The brake pedal becomes more sensitive."
+        },
+        {
+          "letter": "D",
+          "text": "A loud noise is created."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Air is released faster than the compressor can replace it.",
+      "explanation": "Unnecessary brake pedal use releases air from the system faster than the compressor can refill it. This can weaken your brakes."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8859",
+      "question": "Which item is NOT part of an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A service brake system"
+        },
+        {
+          "letter": "B",
+          "text": "A parking brake system"
+        },
+        {
+          "letter": "C",
+          "text": "An emergency brake system"
+        },
+        {
+          "letter": "D",
+          "text": "An axle brake system"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "An axle brake system",
+      "explanation": "Air brake systems have three parts: the service brake system, the parking brake system, and the emergency brake system."
+    }
+  ]
+}

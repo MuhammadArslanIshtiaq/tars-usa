@@ -1,0 +1,662 @@
+{
+  "state": "Colorado",
+  "category": "car",
+  "quizName": "Easy Practice Test #2",
+  "slug": "easy-practice-test-2",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1828",
+      "question": "始终在以下情况发出信号：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "变更车道。"
+        },
+        {
+          "letter": "B",
+          "text": "驶入或驶出停车位。"
+        },
+        {
+          "letter": "C",
+          "text": "从小巷或停车场驶入交通。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "变更车道、驶入或驶出停车位或从小巷或停车场驶入交通时，始终使用正确的转向灯。与路上的其他驾驶员沟通，帮助防止事故。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "578",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/sharp_turn_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "向右急转。"
+        },
+        {
+          "letter": "B",
+          "text": "一条道路从右侧汇入。"
+        },
+        {
+          "letter": "C",
+          "text": "前方道路向右急转，然后向左急转。"
+        },
+        {
+          "letter": "D",
+          "text": "前方蜿蜒道路。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "前方道路向右急转，然后向左急转。",
+      "explanation": "这个标志表示前方道路先向右急转，然后向左急转。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "979",
+      "question": "这个标志表示：",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "让行。"
+        },
+        {
+          "letter": "B",
+          "text": "十字路口即将到来。"
+        },
+        {
+          "letter": "C",
+          "text": "靠右行驶。"
+        },
+        {
+          "letter": "D",
+          "text": "前方让行。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "让行。",
+      "explanation": "三边等长的交通标志警告驾驶员在接近十字路口时减速，并准备完全停止以礼让其他驾驶员或行人。当安全时，驾驶员可以继续行驶。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "2266",
+      "question": "当接近铁路道口警告标志时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "准备好以比火车更快的速度行驶。"
+        },
+        {
+          "letter": "B",
+          "text": "如果火车附近，准备停车。"
+        },
+        {
+          "letter": "C",
+          "text": "寻找绕过任何放下的栏杆的方法。"
+        },
+        {
+          "letter": "D",
+          "text": "假设附近没有列车，继续正常驾驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "如果火车附近，准备停车。",
+      "explanation": "铁路道口警告标志用于警告驾驶员可能有列车。驾驶员应遵守所有铁路道口警告标志，永远不要绕过障碍物或无视警告标志。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "334",
+      "question": "如果您想下高速公路但错过了出口，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前往下一个出口。"
+        },
+        {
+          "letter": "B",
+          "text": "通过中央分隔线调头。"
+        },
+        {
+          "letter": "C",
+          "text": "停在路肩上并倒车到出口。"
+        },
+        {
+          "letter": "D",
+          "text": "拦下警察护送您回到出口。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "前往下一个出口。",
+      "explanation": "如果您错过了出口，应该下一个出口驶出。不要在高速公路上停车或倒车，不要为了在最后一刻驶出出口而在多条车道间转向，也不要越过中央分隔线调头。所有这些操作都是违法的且极其危险的。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "501",
+      "question": "在有让行标志的十字路口，你应该：",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "进入十字路口前始终停止。"
+        },
+        {
+          "letter": "B",
+          "text": "仅将通行权让给右侧的车辆。"
+        },
+        {
+          "letter": "C",
+          "text": "仅将通行权让给左侧的车辆。"
+        },
+        {
+          "letter": "D",
+          "text": "减速并将通行权让给其他车辆。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "减速并将通行权让给其他车辆。",
+      "explanation": "让行标志表示你必须减速并将通行权让给进入十字路口或道路的交通。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1625",
+      "question": "不要超车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在山丘或弯道上。"
+        },
+        {
+          "letter": "B",
+          "text": "校车灯闪烁时。"
+        },
+        {
+          "letter": "C",
+          "text": "接近十字路口时。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "如果对向车道有来车、您的视线被弯道或山丘阻挡、在十字路口、铁路道口或桥梁前或上面、或任何其他禁止超车区域，您不应该超车。除非您在对向车道（带中央分隔线或共享中心转向车道），您不得超过开启闪烁红灯的停止校车。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1639",
+      "question": "为了确保你的身体状况不会导致你以不安全的方式驾驶，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "保持身体健康并进行定期体检。"
+        },
+        {
+          "letter": "B",
+          "text": "了解任何药物对你驾驶能力的影响。"
+        },
+        {
+          "letter": "C",
+          "text": "在你的身体限制范围内驾驶。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "你的身体状况对你安全驾驶的能力有重要影响。驾驶员应该了解自己的身体限制，只有在安全的情况下才能驾驶。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "2263",
+      "question": "如果交通警察在工作的交通信号灯处指挥交通，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "遵循交通信号灯指示的方向。"
+        },
+        {
+          "letter": "B",
+          "text": "遵循交通警察给出的方向。"
+        },
+        {
+          "letter": "C",
+          "text": "对交通警察按喇叭。"
+        },
+        {
+          "letter": "D",
+          "text": "查看旁边的车在做什么。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "遵循交通警察给出的方向。",
+      "explanation": "交通信号灯放置在交叉路口，以保持交通流畅并帮助防止事故。驾驶员、行人和骑自行车者必须遵守这些信号，除非交通警察在指挥交通的情况下。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1657",
+      "question": "您在分隔式多车道高速公路上行驶，看到或听到迫近的紧急车辆的信号。您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "如果有其他车道供紧急车辆使用，则忽视该信号。"
+        },
+        {
+          "letter": "B",
+          "text": "尽快停止。"
+        },
+        {
+          "letter": "C",
+          "text": "减速，将您的车辆移动以为紧急车辆提供明确路径，并停止。"
+        },
+        {
+          "letter": "D",
+          "text": "增加速度以躲避紧急车辆。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "减速，将您的车辆移动以为紧急车辆提供明确路径，并停止。",
+      "explanation": "如果您听到紧急车辆的警笛声或看到闪烁灯光，您必须减速，为该车辆提供明确路径，并停止。不要试图超过紧急车辆。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "280",
+      "question": "与卡车共享道路时，重要的是要记住卡车通常：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "所需的停止距离比小型车辆长。"
+        },
+        {
+          "letter": "B",
+          "text": "在下坡时超车所需的时间比小型车辆少。"
+        },
+        {
+          "letter": "C",
+          "text": "所需的转向半径比小型车辆小。"
+        },
+        {
+          "letter": "D",
+          "text": "在上坡时超车所需的时间比小型车辆少。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "所需的停止距离比小型车辆长。",
+      "explanation": "由于体积大，卡车停止所需的距离比小型车辆长。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1191",
+      "question": "进入环形交叉路口前，您必须减速并礼让：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "环形交叉路口内的车辆。"
+        },
+        {
+          "letter": "B",
+          "text": "环形交叉路口内的自行车骑手。"
+        },
+        {
+          "letter": "C",
+          "text": "环形交叉路口内的行人。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "进入环形交叉路口时，您必须礼让已经在环形交叉路口内的行人、自行车骑手和车辆。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "453",
+      "question": "饮酒驾驶是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一个轻微的交通安全问题。"
+        },
+        {
+          "letter": "B",
+          "text": "一个严重的交通安全问题。"
+        },
+        {
+          "letter": "C",
+          "text": "如果您只喝了几杯，是安全的。"
+        },
+        {
+          "letter": "D",
+          "text": "仅对饮酒的驾驶员危险。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "一个严重的交通安全问题。",
+      "explanation": "酒后驾驶或醉酒驾驶是一个严重的交通安全问题。当您饮酒或服用其他药物时，安全驾驶是不可能的。酒后驾驶对您和道路上的其他人都很危险。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "2202",
+      "question": "当您变得过于困倦而无法专注于驾驶时，您最安全的选择是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驶离道路并休息。"
+        },
+        {
+          "letter": "B",
+          "text": "喝一大杯能量饮料。"
+        },
+        {
+          "letter": "C",
+          "text": "打开所有车窗并打开空调。"
+        },
+        {
+          "letter": "D",
+          "text": "在电话上和朋友交谈。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "驶离道路并休息。",
+      "explanation": "当您疲劳时，您不能像休息时那样安全地驾驶。您的反应和决策能力大大降低。将长时间驾驶分成两小时的段落。如果您变得困倦，请驶离道路并休息。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "452",
+      "question": "降低血液酒精浓度(BAC)的唯一方法是什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "喝咖啡。"
+        },
+        {
+          "letter": "B",
+          "text": "运动。"
+        },
+        {
+          "letter": "C",
+          "text": "给您的身体时间排出酒精。"
+        },
+        {
+          "letter": "D",
+          "text": "洗冷水澡。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "给您的身体时间排出酒精。",
+      "explanation": "有效降低BAC的唯一方法是在一段时间内不饮酒。咖啡、运动和冷水澡无法降低您的BAC或改变酒精的影响。它们可以帮助您保持清醒，但它们无法改变您的BAC或使您保持清醒。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "317",
+      "question": "如果你的车在高速公路上抛锚，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "坐在你的车里等待帮助。"
+        },
+        {
+          "letter": "B",
+          "text": "使用你的四向闪光灯向其他驾驶员发出警告。"
+        },
+        {
+          "letter": "C",
+          "text": "对过往的驾驶者鸣喇叭。"
+        },
+        {
+          "letter": "D",
+          "text": "对迎面来的车辆闪前灯。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "使用你的四向闪光灯向其他驾驶员发出警告。",
+      "explanation": "如果你的车在高速公路上抛锚，你应该在小心驶出路面前打信号并打开你的危险警示灯。尽可能远离道路停放，停放在其他驾驶员能够容易看到你的位置。抬起你的引擎盖让其他驾驶员知道你的车已禁用。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1652",
+      "question": "你来到一个十字路口，红绿灯显示绿灯。行人正在违反红灯过马路。你应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "鸣喇叭。"
+        },
+        {
+          "letter": "B",
+          "text": "加速并在行人前通过。"
+        },
+        {
+          "letter": "C",
+          "text": "停下来让行人安全过马路。"
+        },
+        {
+          "letter": "D",
+          "text": "靠近行人行驶并吓唬他们，使他们在违反红灯时三思而后行。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "停下来让行人安全过马路。",
+      "explanation": "当你有绿灯时，要让行行人和可能被困在十字路口的汽车。在任何情况下都要小心行人。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "302",
+      "question": "你的制动灯告诉其他驾驶员你:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "正在转向。"
+        },
+        {
+          "letter": "B",
+          "text": "已经启动了紧急刹车。"
+        },
+        {
+          "letter": "C",
+          "text": "正在变道。"
+        },
+        {
+          "letter": "D",
+          "text": "正在减速或停止。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "正在减速或停止。",
+      "explanation": "你的车辆制动灯向其他驾驶员表明你正在减速或停止。当你在任何道路上行驶时，你的制动灯应始终处于良好工作状态。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "2213",
+      "question": "如果你在十字路口拥有先行权，你应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "假设其他驾驶员会遵守先行权法律。"
+        },
+        {
+          "letter": "B",
+          "text": "向其他驾驶员挥手示意他们先行，然后再继续。"
+        },
+        {
+          "letter": "C",
+          "text": "立即通过十字路口。"
+        },
+        {
+          "letter": "D",
+          "text": "在前进前检查交通状况、行人和骑自行车的人。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "在前进前检查交通状况、行人和骑自行车的人。",
+      "explanation": "在十字路口停止后，花额外的时间检查来往车辆和骑自行车的人，然后再开始移动。建议你在进入十字路口前向左看、向右看，然后再向左看一遍。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1699",
+      "question": "在转向、变道或驶离路缘前表示你的意图：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅在有其他交通时才需要。"
+        },
+        {
+          "letter": "B",
+          "text": "是一个好的驾驶习惯，法律要求。"
+        },
+        {
+          "letter": "C",
+          "text": "仅在操作过程中需要，不是之前。"
+        },
+        {
+          "letter": "D",
+          "text": "如果操作缓慢，则不必要。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "是一个好的驾驶习惯，法律要求。",
+      "explanation": "当变道或转向时，提前表示你的意图。法律要求你在将车辆向右或向左移动前至少100英尺时发出信号。在驶离路缘前，始终发出信号以通知经过的驾驶员你的意图。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "2199",
+      "question": "根据法律，谁在行驶中的车辆中需要使用固定的安全带？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶员"
+        },
+        {
+          "letter": "B",
+          "text": "前座乘客"
+        },
+        {
+          "letter": "C",
+          "text": "8至18岁的儿童"
+        },
+        {
+          "letter": "D",
+          "text": "以上所有"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上所有",
+      "explanation": "科罗拉多州的安全带法律要求驾驶员和前座乘客在公路上的所有机动车中都要系上固定的安全带。所有8至18岁的儿童也需要系安全带，无论他们在车内的哪个位置。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1502",
+      "question": "要在夜间安全驾驶，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "增加跟车距离。"
+        },
+        {
+          "letter": "B",
+          "text": "如果你感到疲倦，不要驾驶。"
+        },
+        {
+          "letter": "C",
+          "text": "确保你的前灯工作正常。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "在夜间，能见度降低。采取措施为你和路上的其他驾驶员增加黑暗中的驾驶安全。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "444",
+      "question": "安全带最有效的穿戴方式是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶汽车的人。"
+        },
+        {
+          "letter": "B",
+          "text": "乘客在长途驾驶时。"
+        },
+        {
+          "letter": "C",
+          "text": "在高速公路上驾驶的车内所有乘员。"
+        },
+        {
+          "letter": "D",
+          "text": "车内的所有乘员在每次驾驶车辆时。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "车内的所有乘员在每次驾驶车辆时。",
+      "explanation": "当你驾驶时，确保车内每个人都系上安全带。在发生碰撞时，没有系安全带的人会成为飞行物体，对车内每个人都是危险。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1641",
+      "question": "交通标志和路面标记：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "必须始终遵守。"
+        },
+        {
+          "letter": "B",
+          "text": "仅仅是建议。"
+        },
+        {
+          "letter": "C",
+          "text": "只有在有其他交通时才必须遵守。"
+        },
+        {
+          "letter": "D",
+          "text": "只有在警察在场时才必须遵守。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "必须始终遵守。",
+      "explanation": "交通流量由路面标记、交通岛、信号灯和标志控制。这些设备向驾驶员提供道路状况信息，帮助驾驶员安全到达目的地。你必须始终遵守交通标志、信号灯和路面标记。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1701",
+      "question": "你注意到你前面的车辆驾驶员用一只手驾驶并正在与乘客交谈。你应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "给这辆车额外的空间。"
+        },
+        {
+          "letter": "B",
+          "text": "知道前面车辆的驾驶员作为一个不专心的驾驶员正在减少他们的安全距离。"
+        },
+        {
+          "letter": "C",
+          "text": "避免效仿这位驾驶员的做法。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "驾驶时不要因为看乘客、试图在你的车内找东西、查看阅读材料、观光或做白日梦而分心。如果你附近的驾驶员似乎分心了，要给他们额外的空间，因为他们的不专心会增加发生事故的风险。"
+    }
+  ]
+}

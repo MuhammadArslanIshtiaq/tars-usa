@@ -1,0 +1,530 @@
+{
+  "state": "West Virginia",
+  "category": "cdl",
+  "testName": "Combination Test #2 20 Questions • Passing Score 16",
+  "testSlug": "combination-2",
+  "url": "/images/west-virginia/cdl/combination-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11586",
+      "question": "在行程期间，哪些关闭阀门应该打开？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "所有关闭阀门都应打开。"
+        },
+        {
+          "letter": "B",
+          "text": "后关闭阀门应打开。"
+        },
+        {
+          "letter": "C",
+          "text": "所有关闭阀门应处于打开位置，除了后关闭阀门。"
+        },
+        {
+          "letter": "D",
+          "text": "没有关闭阀门应打开。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "所有关闭阀门应处于打开位置，除了后关闭阀门。",
+      "explanation": "在开始行程时，确保所有关闭阀门都处于打开位置，除了后拖车上的最后一个阀门。重要的是空气能够到达所有拖车上的制动器，并且空气无法从车辆后部逃逸。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8902",
+      "question": "未能保持第五轮盘板适当润滑可能会：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "导致拖车脱落。"
+        },
+        {
+          "letter": "B",
+          "text": "导致转向问题。"
+        },
+        {
+          "letter": "C",
+          "text": "导致制动问题。"
+        },
+        {
+          "letter": "D",
+          "text": "影响灯光。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "导致转向问题。",
+      "explanation": "未能保持第五轮盘板适当润滑可能会导致牵引车和拖车之间产生摩擦，从而导致转向问题。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11578",
+      "question": "在检查联结器时，你应该走到拖车下方并且：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "从kingpin周围分离夹爪。"
+        },
+        {
+          "letter": "B",
+          "text": "确保锁定杆处于\"应急\"位置。"
+        },
+        {
+          "letter": "C",
+          "text": "移除安全锁存器。"
+        },
+        {
+          "letter": "D",
+          "text": "查看第五轮的后部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "查看第五轮的后部。",
+      "explanation": "在检查联结器时，你应该走到拖车下方并查看第五轮的后部。确保第五轮的夹爪已固定在kingpin的柄部周围。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11461",
+      "question": "拉出挂车空气供应控制装置以测试：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驻车制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "挂车应急制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "挂车服务制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "着陆装置。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "挂车应急制动器。",
+      "explanation": "在开始行驶前，一定要测试挂车应急制动器。确保挂车能自由滚动后，您可以通过拉出挂车气源控制杆或将其放在\"应急\"位置来测试应急制动器。用牵引车轻微向前拉，确保挂车不移动。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8898",
+      "question": "联接快速接头时查看匹配的颜色。服务管路通常：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色。"
+        },
+        {
+          "letter": "B",
+          "text": "橙色。"
+        },
+        {
+          "letter": "C",
+          "text": "红色。"
+        },
+        {
+          "letter": "D",
+          "text": "蓝色。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "蓝色。",
+      "explanation": "联接快速接头时，确保将匹配的快速接头连接在一起。为了帮助驾驶员避免错误，有时会使用色彩编码。服务管路通常用蓝色编码，应急管路通常用红色编码。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10966",
+      "question": "在____之后制造的拖车必须配备防抱死制动系统(ABS)。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1943"
+        },
+        {
+          "letter": "B",
+          "text": "1998"
+        },
+        {
+          "letter": "C",
+          "text": "2009"
+        },
+        {
+          "letter": "D",
+          "text": "2015"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "1998",
+      "explanation": "在1998年3月1日或之后制造的拖车和转换拖车需要配备防抱死制动系统(ABS)。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11574",
+      "question": "紧急气路：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "由脚制动器控制。"
+        },
+        {
+          "letter": "B",
+          "text": "连接到继电器阀。"
+        },
+        {
+          "letter": "C",
+          "text": "为拖车气罐供气。"
+        },
+        {
+          "letter": "D",
+          "text": "防止侧滑。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "为拖车气罐供气。",
+      "explanation": "紧急气路（也称为供气管路）有两个功能。第一个是为组合车辆上的拖车气罐供气，第二个是控制紧急制动器。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10962",
+      "question": "识别拖车开始侧滑的最佳方法是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "看到其他司机的脸。"
+        },
+        {
+          "letter": "B",
+          "text": "在你的后视镜中看到。"
+        },
+        {
+          "letter": "C",
+          "text": "感受到。"
+        },
+        {
+          "letter": "D",
+          "text": "听收音机。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在你的后视镜中看到。",
+      "explanation": "识别拖车侧滑开始的最早和最佳方法是在你的后视镜中看到拖车偏离路线。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11590",
+      "question": "____是造成超过一半的所有事故相关卡车驾驶员死亡的原因。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "卡车翻覆"
+        },
+        {
+          "letter": "B",
+          "text": "摩托车"
+        },
+        {
+          "letter": "C",
+          "text": "路面打滑"
+        },
+        {
+          "letter": "D",
+          "text": "行人"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "卡车翻覆",
+      "explanation": "超过一半的所有事故相关卡车驾驶员死亡是由卡车翻覆造成的。为了帮助防止翻覆，请确保将货物装载到离地面较低且在您的车辆上居中的位置。缓慢谨慎地转弯。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11580",
+      "question": "如果您正在操作1998年之前制造的车辆，并且不确定拖车是否配备了防抱死制动系统(ABS)，您可以：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查从制动器后部出来的车轮速度传感器。"
+        },
+        {
+          "letter": "B",
+          "text": "寻找转换器牵引车前右角的红灯。"
+        },
+        {
+          "letter": "C",
+          "text": "泵动空气制动以激活ABS。"
+        },
+        {
+          "letter": "D",
+          "text": "假设车辆配有ABS。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "检查从制动器后部出来的车轮速度传感器。",
+      "explanation": "如果您正在驾驶1998年之前制造的车辆，并且不确定拖车是否配备防抱死制动系统(ABS)，您可以检查拖车下方是否有从制动器后部出来的车轮速度传感器。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11570",
+      "question": "处于\"紧急\"位置的空气供应控制将：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "打开空气供应。"
+        },
+        {
+          "letter": "B",
+          "text": "应用拖车紧急制动。"
+        },
+        {
+          "letter": "C",
+          "text": "防止打滑。"
+        },
+        {
+          "letter": "D",
+          "text": "加速车辆。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "应用拖车紧急制动。",
+      "explanation": "旧车辆中的牵引车保护控制装置可能由杆杆而不是旋钮操作。如果气源控制杆设置在其\"应急\"位置，气源供应将停止，挂车应急制动器将被施加。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9543",
+      "question": "当驾驶装有ABS的牵引车-挂车时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "比平常更用力地停止。"
+        },
+        {
+          "letter": "B",
+          "text": "使用额外的制动力来确保ABS启动。"
+        },
+        {
+          "letter": "C",
+          "text": "像平常一样制动。"
+        },
+        {
+          "letter": "D",
+          "text": "使用比平常更少的压力制动。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "像平常一样制动。",
+      "explanation": "当驾驶装有防抱死制动系统(ABS)的牵引车-挂车组合时，你应该以与没有ABS的车辆相同的方式制动。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11620",
+      "question": "在双组或三组联合体中：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "货物重量必须在所有拖车之间均匀分布。"
+        },
+        {
+          "letter": "B",
+          "text": "最重的拖车应位于驾驶室的正后方。"
+        },
+        {
+          "letter": "C",
+          "text": "最重的拖车应位于后部。"
+        },
+        {
+          "letter": "D",
+          "text": "拖车的重量无关紧要。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "最重的拖车应位于驾驶室的正后方。",
+      "explanation": "在组合中定位拖车时，装载最重的拖车应该最靠近拖拉机。最轻的拖车应该放在后面。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10469",
+      "question": "什么是短车组合？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "没有半挂车的拖拉机"
+        },
+        {
+          "letter": "B",
+          "text": "带有两个半挂车的拖拉机"
+        },
+        {
+          "letter": "C",
+          "text": "速度超过限速的拖拉机。"
+        },
+        {
+          "letter": "D",
+          "text": "速度低于限速的拖拉机。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "没有半挂车的拖拉机",
+      "explanation": "没有半挂车的拖拉机被称为平头拖拉机。操作平头拖拉机需要驾驶员谨慎行驶。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11598",
+      "question": "驾驶牵引车时，您应该注意：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "牵引车停车非常容易。"
+        },
+        {
+          "letter": "B",
+          "text": "牵引车的行驶速度不如连接半挂车的牵引车快。"
+        },
+        {
+          "letter": "C",
+          "text": "牵引车比连接半挂车的牵引车更难停止。"
+        },
+        {
+          "letter": "D",
+          "text": "在大多数州，牵引车是违法的。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "牵引车比连接半挂车的牵引车更难停止。",
+      "explanation": "牵引车是未连接到任何半挂车的牵引车。驾驶牵引车时，您应该注意停车可能很困难，并且将牵引车完全停下来所需的距离会比连接到满载半挂车的牵引车更长。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9542",
+      "question": "如果不确定拖车是否配备ABS，你可以:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查拖车下方是否有来自制动器后部的车轮速度传感器。"
+        },
+        {
+          "letter": "B",
+          "text": "尝试在光滑路面上行驶，看ABS是否启动。"
+        },
+        {
+          "letter": "C",
+          "text": "假设它确实配备了ABS。"
+        },
+        {
+          "letter": "D",
+          "text": "拆下轮胎并查看车轴上的ABS传感器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "检查拖车下方是否有来自制动器后部的车轮速度传感器。",
+      "explanation": "在1998年3月1日或之后制造的拖车和转换拖斗需要配备防抱死制动系统(ABS)。这将由黄色故障指示灯的存在表明。你可以通过检查拖车下方是否有来自制动器后部的ECU和车轮速度传感器电线来确定较旧的拖车是否配备ABS。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11086",
+      "question": "为了防止拖车翻车，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在接近转弯时加速。"
+        },
+        {
+          "letter": "B",
+          "text": "做出突然的转向操作。"
+        },
+        {
+          "letter": "C",
+          "text": "以超过路标限速的速度驶上匝道。"
+        },
+        {
+          "letter": "D",
+          "text": "在转弯时缓速行驶。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "在转弯时缓速行驶。",
+      "explanation": "为了降低驾驶组合车辆翻车的风险，你应该将货物的重量尽可能保持在离地面较近的位置，并在转弯时缓速行驶。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10249",
+      "question": "如果使用颜色来区分快接头，服务管路使用哪种颜色？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "橙色"
+        },
+        {
+          "letter": "B",
+          "text": "黄色"
+        },
+        {
+          "letter": "C",
+          "text": "绿色"
+        },
+        {
+          "letter": "D",
+          "text": "蓝色"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "蓝色",
+      "explanation": "当拖车空气管路采用颜色编码时，服务管路通常为蓝色，紧急管路通常为红色。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11083",
+      "question": "服务管路的另一个名称是什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "信号管线"
+        },
+        {
+          "letter": "B",
+          "text": "电缆管线"
+        },
+        {
+          "letter": "C",
+          "text": "剩余管线"
+        },
+        {
+          "letter": "D",
+          "text": "电源管线"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "信号管线",
+      "explanation": "拖车供气管线也被称为控制管线或信号管线。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10468",
+      "question": "\"鞭挞效应\"会造成什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "导致拖车翻覆。"
+        },
+        {
+          "letter": "B",
+          "text": "发出很大的噪音。"
+        },
+        {
+          "letter": "C",
+          "text": "使卡车加速。"
+        },
+        {
+          "letter": "D",
+          "text": "使卡车减速。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "导致拖车翻覆。",
+      "explanation": "\"鞭挞效应\"可能导致挂车在变道时翻滚。为避免这种现象，驾驶员应以缓慢、安全的速度进行变道。"
+    }
+  ]
+}

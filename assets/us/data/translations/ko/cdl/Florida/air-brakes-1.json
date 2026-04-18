@@ -1,0 +1,652 @@
+{
+  "state": "Florida",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/florida/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9006",
+      "question": "운전 중 저압 경고등이 켜지면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "탱크에 충분한 공기가 있을 때에만 제동이 가능합니다."
+        },
+        {
+          "letter": "B",
+          "text": "시스템의 공기가 소진되기 전에 14회 제동할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "정상적으로 계속 운전하고 편할 때 제동 시스템을 점검해야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "계속 운전하되 다른 운전자에게 경고하기 위해 비상 깜박이를 켜야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "탱크에 충분한 공기가 있을 때에만 제동이 가능합니다.",
+      "explanation": "저기압 경고등이 켜지면 최대한 빨리 안전하게 차량을 주차해야 합니다. 제어된 제동은 탱크에 충분한 공기가 남아 있는 동안에만 가능합니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8880",
+      "question": "이중 공기 브레이크 시스템에서:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "각 시스템은 별도의 에어 탱크, 호스 및 라인이 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "시스템은 에어 탱크를 공유하지만 각각 별도의 호스와 라인이 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "각 시스템은 동일한 라인과 호스를 사용합니다."
+        },
+        {
+          "letter": "D",
+          "text": "한 시스템은 주 브레이킹 시스템이고 두 번째 시스템은 첫 번째 시스템이 고장날 경우 사용할 준비가 되어 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "각 시스템은 별도의 에어 탱크, 호스 및 라인이 있습니다.",
+      "explanation": "이중 공기 브레이크 시스템은 두 개의 별도 공기 브레이크 시스템으로 구성됩니다. 시스템은 단일 브레이크 제어 세트를 공유하지만 각각 자체 에어 탱크, 호스 및 라인이 있습니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11706",
+      "question": "저압 경고 신호가 주행 중에 활성화되면 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "평소대로 계속 운전합니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로를 빠져나가 안전한 범위 내에서 가능한 한 빨리 주차합니다."
+        },
+        {
+          "letter": "C",
+          "text": "현재 위치에서 멈추고 주차합니다."
+        },
+        {
+          "letter": "D",
+          "text": "긴급 점멸등을 켜고 계속 운전합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "도로를 빠져나가 안전한 범위 내에서 가능한 한 빨리 주차합니다.",
+      "explanation": "저압 경고 신호가 주행 중에 활성화되면 안전하게 도로를 빠져나와 가능한 한 빨리 차량을 주차하는 것이 중요합니다. 공기 압력이 너무 낮아지면 안전하게 멈출 수 있을 정도로 브레이크가 더 이상 잘 작동하지 않습니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8990",
+      "question": "스프링 브레이크가 켜져 있을 때 당신은 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크 페달을 사용하지 마세요."
+        },
+        {
+          "letter": "B",
+          "text": "액셀러레이터를 누르세요."
+        },
+        {
+          "letter": "C",
+          "text": "스티어링 휠을 움직이세요."
+        },
+        {
+          "letter": "D",
+          "text": "브레이크가 작동하지 않을 수 있으므로 특히 주의하세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "브레이크 페달을 사용하지 마세요.",
+      "explanation": "스프링 브레이크가 작동되었으면 브레이크 페달을 적용하면 안 됩니다. 브레이크가 에어 압력과 스프링의 힘을 동시에 받으면 손상될 수 있습니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11670",
+      "question": "제동 메커니즘은 브레이크 드럼의 ____ 위치에 있습니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "외부"
+        },
+        {
+          "letter": "B",
+          "text": "내부"
+        },
+        {
+          "letter": "C",
+          "text": "옆"
+        },
+        {
+          "letter": "D",
+          "text": "위"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "내부",
+      "explanation": "드럼 브레이크는 바퀴에 부착되어 있고 차량의 액슬에 위치합니다. 차량을 멈추게 하는 제동 메커니즘은 드럼 브레이크 내부에서 찾을 수 있습니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8861",
+      "question": "에어 컴프레서 거버너는 무엇을 하는가?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 압축기가 에어 저장 탱크에 공기를 펌프질하는 시기를 제어합니다."
+        },
+        {
+          "letter": "B",
+          "text": "에어 저장 탱크에서 공기가 빠져나가는 속도를 제어합니다."
+        },
+        {
+          "letter": "C",
+          "text": "에어 저장 탱크로 들어가는 공기의 온도를 제어합니다."
+        },
+        {
+          "letter": "D",
+          "text": "에어 저장 탱크에서 나가는 공기의 온도를 제어합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "공기 압축기가 에어 저장 탱크에 공기를 펌프질하는 시기를 제어합니다.",
+      "explanation": "에어 브레이크 시스템에서 에어 컴프레서 거버너는 에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점을 제어합니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8884",
+      "question": "제동 페이드는 다음에 의해 발생합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제동을 자주 사용하지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "제동이 과열됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "제동이 너무 차갑습니다."
+        },
+        {
+          "letter": "D",
+          "text": "제동이 젖어있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "제동이 과열됩니다.",
+      "explanation": "제동을 과도하게 사용하면 과열되어 효율성이 떨어집니다. 이를 \"페이드\"라고 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8996",
+      "question": "ABS 브레이크는 무엇을 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전자가 바퀴 잠김을 피하도록 도움"
+        },
+        {
+          "letter": "B",
+          "text": "앞 바퀴를 잠금"
+        },
+        {
+          "letter": "C",
+          "text": "언덕을 올라가며 주행 중 차량이 가속되는 것을 방지"
+        },
+        {
+          "letter": "D",
+          "text": "언덕을 내려가며 주행 중 차량이 가속되는 것을 방지"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "운전자가 바퀴 잠김을 피하도록 도움",
+      "explanation": "ABS(Anti-Lock Braking System)의 기능은 강한 브레이크 적용으로 인한 차량의 바퀴 잠김을 방지하는 것입니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11672",
+      "question": "브레이크 페달이 눌리고 S-캠이 회전할 때, S-캠은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크 슈를 브레이크 드럼의 내부에 눌러줍니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크 드럼을 액슬에 조여줍니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크 라이닝을 바퀴에 눌러줍니다."
+        },
+        {
+          "letter": "D",
+          "text": "에어 탱크에서 공기를 배출합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "브레이크 슈를 브레이크 드럼의 내부에 눌러줍니다.",
+      "explanation": "브레이크 페달이 눌리고 S-캠이 회전할 때, S-캠은 브레이크 슈를 브레이크 드럼의 내부에 눌러줍니다. 이는 마찰을 일으키고 차량을 감속시킵니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8874",
+      "question": "스프링 브레이크가 작동되면 다음을 절대 하지 말아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크 페달을 밟으십시오."
+        },
+        {
+          "letter": "B",
+          "text": "엔진 후드를 열기"
+        },
+        {
+          "letter": "C",
+          "text": "공기 저장 탱크에서 공기를 배출하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "캡의 문을 여십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "브레이크 페달을 밟으십시오.",
+      "explanation": "스프링 브레이크가 작동되면 브레이크 페달을 밟지 마십시오. 브레이크가 스프링과 공기 압력 모두에 노출되면 손상될 수 있습니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11708",
+      "question": "이중 에어 브레이크 시스템의 두 시스템은 다음을 공유합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 탱크."
+        },
+        {
+          "letter": "B",
+          "text": "호스."
+        },
+        {
+          "letter": "C",
+          "text": "공기 배관."
+        },
+        {
+          "letter": "D",
+          "text": "에어 컴프레서"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "에어 컴프레서",
+      "explanation": "이중 에어 브레이크 시스템의 두 시스템은 단일 에어 컴프레서를 공유합니다. 에어 컴프레서가 손상되면 어느 시스템도 제대로 작동할 수 없습니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9001",
+      "question": "브레이크 페달을 불필요하게 누르고 놓으면 다음을 수행할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교체될 수 있는 것보다 빠르게 공기를 방출합니다."
+        },
+        {
+          "letter": "B",
+          "text": "제동 시스템에 더 많은 공기를 추가합니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크 페달을 더 민감하게 만듭니다."
+        },
+        {
+          "letter": "D",
+          "text": "큰 소음을 발생시킵니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "교체될 수 있는 것보다 빠르게 공기를 방출합니다.",
+      "explanation": "에어 브레이크 시스템에서 브레이크 페달을 불필요하게 누르고 놓으면 압축기가 교체할 수 있는 것보다 빠르게 제동 시스템에서 공기가 방출될 수 있습니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9379",
+      "question": "브레이크 패드가 브레이크 드럼에 마찰하여 과도한 열을 발생시키면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크가 달라붙을 것입니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크가 매우 민감해질 것입니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크가 작동하지 않을 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "에어 컴프레서가 켜져서 브레이크를 냉각시킵니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "브레이크가 작동하지 않을 수 있습니다.",
+      "explanation": "브레이크는 사용으로 인해 가열됩니다. 과도하게 사용되어 너무 뜨거워지면 팽창과 화학 변화로 인해 효율성이 떨어지고 결국 작동하지 않게 됩니다. 이를 \"브레이크 페이드\"라고 합니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10744",
+      "question": "가파른 하강을 할 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "에어 브레이크를 사용해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "더 낮은 기어로 변속한 후 브레이크를 사용하여 엔진의 브레이킹 효과를 보완합니다."
+        },
+        {
+          "letter": "C",
+          "text": "차량은 브레이크 사용 대신 계속해서 감속 변속해야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "차량은 어깨 부분에서 운전해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "더 낮은 기어로 변속한 후 브레이크를 사용하여 엔진의 브레이킹 효과를 보완합니다.",
+      "explanation": "내리막길에서는 엔진의 브레이킹 효과가 속도를 제어하는 주요 방법이어야 합니다. 언덕을 내려가기 전에 더 낮은 기어로 변속하고 도로 또는 교통 상황에서 필요할 수 있는 추가 감속 또는 정지를 위해 브레이크를 남겨두십시오."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11678",
+      "question": "언덕을 내려가기 전에 반드시 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "가속하세요."
+        },
+        {
+          "letter": "B",
+          "text": "고급 기어로 전환합니다."
+        },
+        {
+          "letter": "C",
+          "text": "경적을 울리세요."
+        },
+        {
+          "letter": "D",
+          "text": "저단 기어로 전환합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "저단 기어로 전환합니다.",
+      "explanation": "언덕을 내려가기 전에 저단 기어로 전환해야 합니다. 중력은 당신이 언덕을 내려가면서 차량의 속도를 증가시킬 것입니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11702",
+      "question": "추운 날씨에 알코올 기화기를 확인하고 채워야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일주일에 한 번."
+        },
+        {
+          "letter": "B",
+          "text": "매일."
+        },
+        {
+          "letter": "C",
+          "text": "매시간."
+        },
+        {
+          "letter": "D",
+          "text": "한 달에 한 번."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "매일.",
+      "explanation": "알코올 기화기는 공기 제동 시스템에 얼음이 쌓이는 것을 방지하는 데 도움이 될 수 있습니다. 추운 날씨에 기화기를 매일 확인하고 다시 채워야 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11720",
+      "question": "시속 55 mph의 속도로 건조한 포장 도로에서 제동할 때, 제동 지연은 차량의 총 정지 거리에 ____을(를) 추가할 수 있습니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "15 feet"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        },
+        {
+          "letter": "D",
+          "text": "10 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "공기 제동장치가 장착된 차량의 총 정지 거리는 네 가지 요소로 구성됩니다: 지각 거리, 반응 거리, 제동 지연 거리 및 제동 거리. 시속 55 mph의 속도로 건조한 포장 도로에서 제동할 때, 제동 지연은 차량의 총 정지 거리에 약 32 feet를 추가할 수 있습니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11712",
+      "question": "일방향 체크 밸브:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 탱크에서 물과 압축기 오일을 배출합니다."
+        },
+        {
+          "letter": "B",
+          "text": "공기 압축기에 누출이 있을 경우 공기가 빠져나가는 것을 방지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "누출이 있을 때 비상 브레이크를 활성화합니다."
+        },
+        {
+          "letter": "D",
+          "text": "스프링 브레이크가 사용될 때까지 제 위치에 유지합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "공기 압축기에 누출이 있을 경우 공기가 빠져나가는 것을 방지합니다.",
+      "explanation": "공기 압축기와 첫 번째 주요 저수조 사이에는 일방 체크 밸브가 필요합니다. 이 밸브는 공기 압축기에 누수가 발생할 경우 시스템에서 공기가 빠지는 것을 방지합니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11464",
+      "question": "에어 브레이크가 있는 차량을 운전하기 전에 다음 경우에 스프링 브레이크가 자동으로 작동하는지 확인해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 압력이 45 psi 이하로 떨어질 때."
+        },
+        {
+          "letter": "B",
+          "text": "공기 압력이 20 psi 이하로 떨어질 때."
+        },
+        {
+          "letter": "C",
+          "text": "내리막길을 운전할 때."
+        },
+        {
+          "letter": "D",
+          "text": "오르막길을 운전할 때."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "공기 압력이 45 psi 이하로 떨어질 때.",
+      "explanation": "에어 브레이크가 있는 차량을 운전하기 전에 에어 탱크 압력이 20~45 psi 사이 수준으로 떨어질 때 스프링 브레이크가 자동으로 작동하는지 확인해야 합니다. 바퀴를 고정하고 브레이크 페달을 밟았다 놓으면서 브레이킹 시스템에서 공기를 배출하여 이를 확인할 수 있습니다. 압력이 안전하지 않은 수준으로 떨어지면 주차 브레이크 밸브가 튀어나와 스프링 브레이크가 작동해야 합니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8985",
+      "question": "공기 저장 탱크:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "한 번의 제동 사이클에만 충분한 공기를 보유합니다."
+        },
+        {
+          "letter": "B",
+          "text": "압축기가 작동을 멈춘 경우에도 브레이크를 여러 번 사용할 수 있을 만큼 충분한 공기를 보유합니다."
+        },
+        {
+          "letter": "C",
+          "text": "응급 상황이 아닌 한 공기를 보유하지 않습니다."
+        },
+        {
+          "letter": "D",
+          "text": "1,000회 이상의 제동 사이클에 충분한 공기를 보유합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "압축기가 작동을 멈춘 경우에도 브레이크를 여러 번 사용할 수 있을 만큼 충분한 공기를 보유합니다.",
+      "explanation": "에어 브레이크 시스템에서 에어 저장 탱크는 압축기가 작동을 멈춘 경우에도 브레이크를 여러 번 사용할 수 있을 만큼 충분한 공기를 보유합니다."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9137",
+      "question": "서비스 브레이크는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "한 달에 한 번 테스트해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "훈련된 정비사에 의해서만 테스트해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "모든 여행 전에 테스트해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "모든 여행 전에 테스트해야 합니다.",
+      "explanation": "운전하기 전에 항상 서비스 브레이크가 제대로 작동하는지 확인해야 합니다. 여행 전에 브레이크를 테스트하면 도로에서 브레이크를 사용해야 할 때 문제를 미리 찾을 수 있습니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "10914",
+      "question": "트레일러에 ABS가 있는지 확인하려면 다음을 수행할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "트레일러 아래에서 제동장치 뒤쪽에서 나오는 휠 속도 센서를 찾아보십시오."
+        },
+        {
+          "letter": "B",
+          "text": "엔진 후드 아래에서 ABS 스티커를 찾으세요."
+        },
+        {
+          "letter": "C",
+          "text": "타이어를 살펴보세요."
+        },
+        {
+          "letter": "D",
+          "text": "타이어를 제거하고 액슬에서 ABS 센서를 찾아보십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "트레일러 아래에서 제동장치 뒤쪽에서 나오는 휠 속도 센서를 찾아보십시오.",
+      "explanation": "트레일러에 Anti-Lock Braking System (ABS)가 장착되어 있는지 확실하지 않은 경우, 차량 하단을 살펴보고 제동 장치 뒤쪽에서 나오는 전자 제어 장치와 휠 속도 센서 와이어를 찾으십시오."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8992",
+      "question": "Anti-Lock Braking System(ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "정상 브레이킹 용량을 감소시킵니다."
+        },
+        {
+          "letter": "B",
+          "text": "다른 브레이킹 시스템에 추가로 장착되며 정상 브레이킹 파워를 감소시키지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "더 큰 차량에서는 효과적이지 않습니다."
+        },
+        {
+          "letter": "D",
+          "text": "일부 주에서는 불법입니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "다른 브레이킹 시스템에 추가로 장착되며 정상 브레이킹 파워를 감소시키지 않습니다.",
+      "explanation": "ABS는 차량의 정상 브레이킹 시스템에 추가로 장착되며 차량의 브레이킹 성능을 증가시키지도 감소시키지도 않습니다. ABS는 브레이크 페달이 강하게 작동할 때 활성화되어 바퀴가 고착되는 것을 방지합니다."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9298",
+      "question": "차량을 무인 상태로 두고 떠날 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "주차 브레이크를 사용해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "주차 브레이크는 차량이 경사진 곳에 주차되어 있을 때만 사용하면 됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "주차 브레이크는 타이어를 손상시킬 수 있으므로 사용하지 않아야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "주차 브레이크를 사용해야 합니다.",
+      "explanation": "일반적으로 차량을 주차할 때 항상 주차 브레이크를 사용해야 합니다. 그러나 브레이크가 매우 뜨거운 경우 또는 브레이크가 젖어 있고 온도가 영하 이하인 경우 주차 브레이크를 작동하지 않아야 합니다."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "10560",
+      "question": "공기 압축기 거버너는 다음을 제어합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점"
+        },
+        {
+          "letter": "B",
+          "text": "에어가 에어 저장 탱크에 펌프질되는 속도"
+        },
+        {
+          "letter": "C",
+          "text": "공기 저장 탱크에 펌프되는 공기의 온도입니다."
+        },
+        {
+          "letter": "D",
+          "text": "차량의 속도입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점",
+      "explanation": "에어 브레이크 시스템에서 에어 컴프레서 거버너는 에어 컴프레서가 에어 저장 탱크에 에어를 펌프질하는 시점을 제어합니다."
+    }
+  ]
+}

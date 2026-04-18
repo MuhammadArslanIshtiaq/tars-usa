@@ -1,0 +1,273 @@
+{
+  "state": "Iowa",
+  "category": "car",
+  "quizName": "Temporary Traffic Control Signs",
+  "slug": "temporary-traffic-control-signs",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/flagger-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "신호수가 앞에서 교통을 지시하고 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "학교 횡단 보호원이 앞에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "경찰관이 앞에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "신호수가 앞에서 교통을 지시하고 있습니다.",
+      "explanation": "이 주황색 표지판은 앞의 공사 지역에서 깃발이나 표지판을 들고 있는 신호수(flaggers)가 교통을 통제하고 있음을 경고합니다. 속도를 줄이고 그들의 지시를 따르세요."
+    },
+    {
+      "questionNumber": 2,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/workers-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "작업자가 앞의 도로 위 또는 근처에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "보행자 횡단보도가 앞에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "등산로가 도로를 횡단합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "작업자가 앞의 도로 위 또는 근처에 있습니다.",
+      "explanation": "이 주황색 표지판은 앞에 도로 작업자가 있음을 경고합니다. 속도를 줄이고 도로 위 또는 근처의 작업자와 장비를 주의하세요."
+    },
+    {
+      "questionNumber": 3,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/road-works-next-5-miles.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로 공사가 다음 5마일 동안 진행 중입니다."
+        },
+        {
+          "letter": "B",
+          "text": "이 지역의 속도 제한은 5 mph입니다."
+        },
+        {
+          "letter": "C",
+          "text": "5마일 후에 우회가 시작됩니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "도로 공사가 다음 5마일 동안 진행 중입니다.",
+      "explanation": "이 표지판은 다음 5마일 동안 도로 건설 또는 유지보수 작업이 계속됨을 알려줍니다. 공사 지역을 통과할 때 주의를 기울이고 게시된 속도 제한을 따르세요."
+    },
+    {
+      "questionNumber": 4,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/right-shoulder-closed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로의 우측 갓길이 폐쇄되었습니다."
+        },
+        {
+          "letter": "B",
+          "text": "우측 차선이 끝나고 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "앞에서 우회전이 불가능합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "도로의 우측 갓길이 폐쇄되었습니다.",
+      "explanation": "이 표지판은 도로 공사로 인해 우측 갓길이 폐쇄되었음을 경고합니다. 이 지역에서 우측 갓길에 정차하지 마세요."
+    },
+    {
+      "questionNumber": 5,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/right-two-lanes-closed-1mile.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우측 두 차선이 1마일 앞에서 폐쇄됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "1마일 후에 새로운 두 개의 차선이 개방됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "1마일 후에 속도 제한이 낮아집니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "우측 두 차선이 1마일 앞에서 폐쇄됩니다.",
+      "explanation": "이 표지판은 도로 공사로 인해 우측 두 차선이 1마일 후에 폐쇄될 것임을 경고합니다. 폐쇄 지점에 도달하기 전에 안전하게 좌측으로 차선 변경하세요."
+    },
+    {
+      "questionNumber": 6,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/shoulder-work.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로 갓길에서 작업이 진행 중입니다."
+        },
+        {
+          "letter": "B",
+          "text": "갓길이 주행을 위해 개방되어 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "휴게소가 갓길에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "도로 갓길에서 작업이 진행 중입니다.",
+      "explanation": "이 표지판은 도로 갓길에서 건설 작업이 진행 중임을 경고합니다. 차선을 유지하고 갓길을 사용하지 마세요."
+    },
+    {
+      "questionNumber": 7,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/shoulder-work-2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "갓길 작업이 앞에 있습니다. 갓길을 사용하지 마세요."
+        },
+        {
+          "letter": "B",
+          "text": "도로가 확장되고 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "새로운 차선이 추가되고 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "갓길 작업이 앞에 있습니다. 갓길을 사용하지 마세요.",
+      "explanation": "이 표지판은 앞의 도로 갓길에서의 작업을 경고합니다. 갓길 사용을 피하고 차선을 유지하세요."
+    },
+    {
+      "questionNumber": 8,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/slow-traffic-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공사 지역에서 느리게 움직이는 교통이 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞의 속도 제한이 더 낮습니다."
+        },
+        {
+          "letter": "C",
+          "text": "학교 지역이 앞에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "공사 지역에서 느리게 움직이는 교통이 앞에 있습니다.",
+      "explanation": "이 표지판은 도로 공사로 인해 앞의 교통이 천천히 움직이고 있음을 경고합니다. 속도를 줄이고 정지할 준비를 하세요."
+    },
+    {
+      "questionNumber": 9,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/utility work ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "유틸리티 작업이 앞에서 진행 중입니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞에 주유소가 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "전력선이 도로를 횡단합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "유틸리티 작업이 앞에서 진행 중입니다.",
+      "explanation": "이 표지판은 유틸리티 작업자(전기, 수도, 가스 또는 통신)가 앞의 도로 근처에서 작업 중임을 경고합니다. 속도를 줄이고 작업자와 장비를 주의하세요."
+    },
+    {
+      "questionNumber": 10,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우회도로를 따르십시오. 정상 도로는 공사로 폐쇄되었습니다."
+        },
+        {
+          "letter": "B",
+          "text": "경치 좋은 우회도로를 이용할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "트럭 경로가 이 방향입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "우회도로를 따르십시오. 정상 도로는 공사로 폐쇄되었습니다.",
+      "explanation": "이 주황색 우회 표지판은 정상 도로가 공사로 폐쇄되었기 때문에 교통을 우회 경로를 따르도록 지시합니다. 정상 경로로 돌아올 때까지 모든 우회 표지판을 따르십시오."
+    },
+    {
+      "questionNumber": 11,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/exit-closed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "앞의 출구는 도로 공사로 인해 폐쇄되었습니다."
+        },
+        {
+          "letter": "B",
+          "text": "진입 램프가 폐쇄되었습니다."
+        },
+        {
+          "letter": "C",
+          "text": "이 방향으로 출구가 없습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "앞의 출구는 도로 공사로 인해 폐쇄되었습니다.",
+      "explanation": "이 표지판은 공사로 인해 다음 출구가 임시로 폐쇄되었음을 알려줍니다. 대신 다음 가능한 출구를 이용하십시오."
+    },
+    {
+      "questionNumber": 12,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/temporary-traffic-control-signs/end-road-works.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로 공사 구간이 끝났습니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로는 영구적으로 폐쇄되었습니다."
+        },
+        {
+          "letter": "C",
+          "text": "새로운 공사 구간이 시작됩니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "도로 공사 구간이 끝났습니다.",
+      "explanation": "이 표지판은 도로 공사 구간의 끝을 표시합니다. 정상 주행 속도로 돌아갈 수 있지만 항상 게시된 속도 제한을 따르십시오."
+    }
+  ]
+}

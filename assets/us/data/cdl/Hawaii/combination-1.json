@@ -1,0 +1,450 @@
+{
+  "state": "Hawaii",
+  "category": "cdl",
+  "testName": "Combination Test #1 20 Questions • Passing Score 16",
+  "testSlug": "combination-1",
+  "url": "/images/hawaii/cdl/combination-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11524",
+      "question": "What do shut-off valves do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop air from leaving the air brake system."
+        },
+        {
+          "letter": "B",
+          "text": "Stop air from entering the air brake system."
+        },
+        {
+          "letter": "C",
+          "text": "Control vehicles that are out of control."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stop air from leaving the air brake system.",
+      "explanation": "Shut-off valves control air flow between trailers. The rear shut-off valve must stay closed to prevent air from leaving the brake system."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11826",
+      "question": "Which trailer is most likely to roll over during a quick turn?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Front"
+        },
+        {
+          "letter": "B",
+          "text": "Last"
+        },
+        {
+          "letter": "C",
+          "text": "Middle"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Last",
+      "explanation": "Quick turns are dangerous when pulling trailers. The last trailer is most likely to roll over if you turn too fast."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11858",
+      "question": "When hooking a converter dolly to a second trailer, the trailer height should be ____ the fifth wheel center.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Level with"
+        },
+        {
+          "letter": "B",
+          "text": "Slightly higher than"
+        },
+        {
+          "letter": "C",
+          "text": "Slightly lower than"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Slightly lower than",
+      "explanation": "When connecting a converter dolly to a second or third trailer, the trailer should be slightly lower than the fifth wheel center."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11850",
+      "question": "What happens if the emergency air line loses pressure?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Anti-Lock Braking System will turn on."
+        },
+        {
+          "letter": "B",
+          "text": "The service air line will turn on."
+        },
+        {
+          "letter": "C",
+          "text": "The emergency brakes will turn on."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The emergency brakes will turn on.",
+      "explanation": "The emergency air line controls the emergency brakes. If air pressure is lost in this line, the emergency brakes will activate."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11522",
+      "question": "If a trailer starts to jackknife, what should the driver do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Should not use the trailer hand brake."
+        },
+        {
+          "letter": "B",
+          "text": "Should brake hard."
+        },
+        {
+          "letter": "C",
+          "text": "Can straighten the trailer with the parking brake."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Should not use the trailer hand brake.",
+      "explanation": "If a trailer jackknifes, release the brakes to let the wheels grip the road again. Do not use the trailer hand brake because braking is what caused the wheels to lock."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9609",
+      "question": "When should you use a trailer hand valve?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "While driving."
+        },
+        {
+          "letter": "B",
+          "text": "Only to test the trailer brakes."
+        },
+        {
+          "letter": "C",
+          "text": "When parking uphill."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Only to test the trailer brakes.",
+      "explanation": "The trailer hand valve should only be used to test the brakes. Using it while driving can cause a skid. Do not use it while parking because it may release the brakes holding the vehicle."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9949",
+      "question": "How should you brake when your vehicle has ABS?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Push the brake pedal harder than normal."
+        },
+        {
+          "letter": "B",
+          "text": "Push the brake pedal as you normally would."
+        },
+        {
+          "letter": "C",
+          "text": "Push the brake pedal lighter than normal."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Push the brake pedal as you normally would.",
+      "explanation": "With ABS, apply the brakes the same way you would without it."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "9469",
+      "question": "What does an Anti-Lock Braking System (ABS) do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It lets the wheels lock up."
+        },
+        {
+          "letter": "B",
+          "text": "It stops the wheels from locking up."
+        },
+        {
+          "letter": "C",
+          "text": "It makes turning easier."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "It stops the wheels from locking up.",
+      "explanation": "ABS prevents the wheels from locking during hard braking. It reduces braking pressure if lockup is detected."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11829",
+      "question": "Why should you not use the trailer hand valve while driving?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It will disconnect from the vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "You will stop too quickly."
+        },
+        {
+          "letter": "C",
+          "text": "It can cause a skid."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "It can cause a skid.",
+      "explanation": "Never use the trailer hand valve while driving. It can cause your trailer to skid."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11824",
+      "question": "What is one benefit of keeping cargo low?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It helps prevent a rollover."
+        },
+        {
+          "letter": "B",
+          "text": "It lets you drive faster."
+        },
+        {
+          "letter": "C",
+          "text": "It makes turns safer."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "It helps prevent a rollover.",
+      "explanation": "Keep cargo low to lower the vehicle's center of gravity. This helps prevent rollovers during quick turns."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11525",
+      "question": "A trailer that is too high:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May not connect properly."
+        },
+        {
+          "letter": "B",
+          "text": "Will connect securely."
+        },
+        {
+          "letter": "C",
+          "text": "Is not a problem."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "May not connect properly.",
+      "explanation": "Before connecting a tractor to a trailer, check that the trailer is at the right height. A trailer that is too low can damage the trailer nose. A trailer that is too high may not connect properly."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9950",
+      "question": "Having anti-lock brakes on only one axle:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Will not change braking ability."
+        },
+        {
+          "letter": "B",
+          "text": "Will give you better control when braking."
+        },
+        {
+          "letter": "C",
+          "text": "Will likely break the air brakes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Will give you better control when braking.",
+      "explanation": "Anti-lock brakes on one axle still help. You will have more control when braking than if you had no anti-lock brakes at all."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9948",
+      "question": "Older trailers do not have spring brakes. If the air supply leaks away:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The trailer will stop normally."
+        },
+        {
+          "letter": "B",
+          "text": "The trailer will have no brakes."
+        },
+        {
+          "letter": "C",
+          "text": "The trailer will speed up."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The trailer will have no brakes.",
+      "explanation": "Older trailers do not have spring brakes. If the air leaks out, there will be no working brakes. The wheels will spin freely."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8645",
+      "question": "What is a bobtail tractor?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A tractor with no trailer attached"
+        },
+        {
+          "letter": "B",
+          "text": "A tractor with two trailers attached"
+        },
+        {
+          "letter": "C",
+          "text": "A tractor that goes faster than the speed limit"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A tractor with no trailer attached",
+      "explanation": "A bobtail tractor is a tractor with no trailer. Bobtail tractors are hard to operate and require extra caution."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11842",
+      "question": "More than half of all truck driver deaths from accidents are caused by:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rollovers."
+        },
+        {
+          "letter": "B",
+          "text": "Slippery roads."
+        },
+        {
+          "letter": "C",
+          "text": "Other drivers."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Rollovers.",
+      "explanation": "Truck rollovers cause more than half of all accident-related truck driver deaths. To prevent rollovers, keep cargo low and centered. Take corners slowly and carefully."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11846",
+      "question": "Bobtail tractors are ____ to stop than tractors with full trailers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quicker"
+        },
+        {
+          "letter": "B",
+          "text": "Easier"
+        },
+        {
+          "letter": "C",
+          "text": "More difficult"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "More difficult",
+      "explanation": "A bobtail tractor is harder to stop than a tractor with a loaded trailer. It takes longer to come to a complete stop."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11827",
+      "question": "If you use the trailer hand brake while your trailer is skidding, it will:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop the skid."
+        },
+        {
+          "letter": "B",
+          "text": "Straighten the trailer."
+        },
+        {
+          "letter": "C",
+          "text": "Make the skid worse."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Make the skid worse.",
+      "explanation": "During a skid, release the brakes to help your tires regain grip. Using the trailer hand brake while skidding will only make the skid worse."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11851",
+      "question": "If the emergency air line loses pressure:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The service brakes will activate."
+        },
+        {
+          "letter": "B",
+          "text": "The tractor protection valve will close."
+        },
+        {
+          "letter": "C",
+          "text": "The trailer will detach."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The tractor protection valve will close.",
+      "explanation": "The tractor protection valve protects the trailer brakes if the trailer breaks away or develops a leak. When air pressure is lost in the emergency line, the valve closes and the emergency trailer brakes activate."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11856",
+      "question": "When backing your tractor under a trailer to connect it, the trailer brakes should be:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Off."
+        },
+        {
+          "letter": "B",
+          "text": "Locked."
+        },
+        {
+          "letter": "C",
+          "text": "Unlocked."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Locked.",
+      "explanation": "Always lock the trailer brakes before backing your tractor under the trailer during coupling. This is an important safety step."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9466",
+      "question": "The trailer hand valve should be used:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To test the trailer brakes."
+        },
+        {
+          "letter": "B",
+          "text": "To check the connection between trailer and tractor."
+        },
+        {
+          "letter": "C",
+          "text": "To speed up."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "To test the trailer brakes.",
+      "explanation": "The trailer hand valve operates the trailer brakes and should only be used for testing them. Using it while driving can cause a skid."
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "state": "California",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/california/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11673",
+      "question": "Kapag ang brake pedal ay pinindot at ang S-cam ay ginilid, ang S-cam:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pumipiga sa brake shoes laban sa loob ng brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "Pinapalakas ang brake drum sa axle."
+        },
+        {
+          "letter": "C",
+          "text": "Pumipiga sa brake lining laban sa wheel."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pumipiga sa brake shoes laban sa loob ng brake drum.",
+      "explanation": "Kapag ang brake pedal ay pinindot at ang S-cam ay ginilid, ang S-cam ay pumipiga sa brake shoes laban sa loob ng brake drum. Ito ay nagsasandig ng friction at magdudulot sa vehicle na bumagal."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11887",
+      "question": "Sa panahon ng static leakage test, ano ang maximum leakage rate na ligtas para sa double combination vehicle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi sa loob ng isang minuto."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi sa loob ng isang minuto."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi sa loob ng isang minuto."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi sa loob ng isang minuto.",
+      "explanation": "Kapag nagsasagawa ng static leakage test sa double combination vehicle na may air brakes, ang leakage rate ay dapat na hindi hihigit sa 3 psi sa loob ng isang minuto. Kung ang hangin ay tumatagos mula sa air brake system sa mas mabilis na rate, ang sasakyan ay hindi dapat imanehon dahil malamang na kailangan ng pagayos."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11705",
+      "question": "Ang isang visual low pressure warning signal ay dapat mag-activate bago ang air pressure ay bumaba sa isang level sa pagitan ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55 at 75 psi."
+        },
+        {
+          "letter": "B",
+          "text": "35 at 50 psi."
+        },
+        {
+          "letter": "C",
+          "text": "75 at 100 psi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "55 at 75 psi.",
+      "explanation": "Ang isang biswal na mababang pressure warning signal ay dapat mag-activate bago ang air pressure ay bumaba sa isang antas sa pagitan ng 55 at 75 psi. Ang signal na ito ay maaaring maging isang liwanag, isang buzzer, o isang wig wag."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11466",
+      "question": "Sa panahon ng isang applied leakage test, ang maximum leakage rate para sa isang triple combination vehicle ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi sa isang minuto."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi sa isang minuto."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi sa isang minuto."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi sa isang minuto."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "6 psi sa isang minuto.",
+      "explanation": "Mahalagang malaman ang maximum air loss rate na ligtas para sa iyong partikular na sasakyan. Ang isang triple combination ay dapat magkaroon ng leakage rate na hindi higit sa 6 psi sa isang minuto sa panahon ng isang applied leakage test."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11902",
+      "question": "Ang ____ sa pagitan ng air compressor at reservoir tank ay pumipigil sa air mula sa paglabas kung ang air compressor ay may leak.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slack adjuster"
+        },
+        {
+          "letter": "B",
+          "text": "One-way check valve"
+        },
+        {
+          "letter": "C",
+          "text": "Tractor protection valve"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "One-way check valve",
+      "explanation": "Ang one-way check valve ay kinakailangan na maging sa pagitan ng air compressor at unang pangunahing reservoir. Ang valve na ito ay pumipigil sa air mula sa paglabas ng system kung ang air compressor ay bumuo ng leak."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11707",
+      "question": "Kung ang mababang pressure warning signal ay nag-activate habang kayo ay nagmamaneho, dapat kayong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patuloy na magmaneho nang normal."
+        },
+        {
+          "letter": "B",
+          "text": "Lumabas sa kalsada at magpark sa lalong madaling panahon na ligtas."
+        },
+        {
+          "letter": "C",
+          "text": "Tumigil kung nasaan kayo at magpark."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Lumabas sa kalsada at magpark sa lalong madaling panahon na ligtas.",
+      "explanation": "Kung ang mababang pressure warning signal ay nag-activate habang kayo ay nagmamaneho, mahalaga na kayo ay ligtas na lumabas sa roadway sa lalong madaling panahon at ipark ang inyong sasakyan. Kung ang air pressure ay nagiging masyadong mababa, ang brakes ay hindi na gumagana nang sapat para sa inyo na tumigil ng ligtas."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11903",
+      "question": "Kapag ang air tanks ay nasa air pressure level na 125 psi, ang air compressor governor ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Titigilan ang compressor mula sa pagpump ng hangin."
+        },
+        {
+          "letter": "B",
+          "text": "Ilalabas ang hangin mula sa mga tanke."
+        },
+        {
+          "letter": "C",
+          "text": "Magsisimula ng pagpump ng hangin sa mga tanke."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Titigilan ang compressor mula sa pagpump ng hangin.",
+      "explanation": "Ang air compressor governor ay titigil sa compressor mula sa pagpump ng hangin kapag ang air tanks ay nasa air pressure level na mga 125 psi. Ang air pressure level na ito ay tinutukoy bilang ang \"cut-out\" level."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8771",
+      "question": "Kapag nag-park, hindi mo dapat gamitin ang parking brake kung:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang brakes ay napaka-init."
+        },
+        {
+          "letter": "B",
+          "text": "Ang brakes ay napakainit."
+        },
+        {
+          "letter": "C",
+          "text": "Mayroong niyebe sa lupa."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ang brakes ay napaka-init.",
+      "explanation": "Kung ang iyong brakes ay mainit pagkatapos bumaba ng mataas na grade, hindi mo dapat gamitin ang iyong parking brake kapag nag-park. Hayaang lumamig ang iyong brakes bago i-apply ang parking brake o maaaring masira ang brakes."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8632",
+      "question": "Ang mga vehicles na may Anti-Lock Braking Systems (ABS) ay may ____ malfunction lamps upang ipakita kung ang ABS ay hindi gumagana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Berde"
+        },
+        {
+          "letter": "B",
+          "text": "Bughaw"
+        },
+        {
+          "letter": "C",
+          "text": "Dilaw"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Dilaw",
+      "explanation": "Ang mga vehicles na may ABS ay may yellow malfunction lamps upang alertahin ang mga driver kapag ang braking systems ay hindi gumagana. Siguraduhing alam mo kung nasaan ang malfunction lamp sa iyong vehicle bago magsimula ng trip."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9893",
+      "question": "Brake linings dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loose."
+        },
+        {
+          "letter": "B",
+          "text": "Free ng oil."
+        },
+        {
+          "letter": "C",
+          "text": "Malambot."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Free ng oil.",
+      "explanation": "Brake linings ay hindi dapat na loose o soaked sa oil o grease. Hindi sila dapat na dangerously thin."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11709",
+      "question": "Ang parehong systems sa isang dual air brake systems ay nagbabahagi:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Hoses."
+        },
+        {
+          "letter": "C",
+          "text": "Isang air compressor."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Isang air compressor.",
+      "explanation": "Ang parehong systems sa isang dual air brake system ay nagbabahagi ng isang air compressor. Kung ang air compressor ay nasira, walang system ang makakapag-operate nang maayos."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11899",
+      "question": "Dapat mo ____ kung ang mababang pressure warning signal ay nag-activate habang nagmamaneho ka.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huminto kung nasaan ka at magpark"
+        },
+        {
+          "letter": "B",
+          "text": "Lumabas sa daan sa lalong madaling panahon nang ligtas"
+        },
+        {
+          "letter": "C",
+          "text": "Magpatuloy sa pagmamaneho nang normal"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Lumabas sa daan sa lalong madaling panahon nang ligtas",
+      "explanation": "Kung ang mababang pressure warning signal ay nag-activate habang kayo ay nagmamaneho, mahalaga na kayo ay ligtas na lumabas sa roadway sa lalong madaling panahon at ipark ang inyong sasakyan. Kung ang air pressure ay nagiging masyadong mababa, ang brakes ay hindi na gumagana nang sapat para sa inyo na tumigil ng ligtas."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11465",
+      "question": "Sa panahon ng isang applied leakage test, ang maximum leakage rate para sa isang double combination vehicle ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi sa isang minuto."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi sa isang minuto."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi sa isang minuto."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi sa isang minuto."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4 psi sa isang minuto.",
+      "explanation": "Mahalaga na malaman ang maximum air loss rate na ligtas para sa iyong specific vehicle. Ang isang double combination vehicle ay dapat magkaroon ng leakage rate na hindi higit sa 4 psi sa isang minuto sa panahon ng applied leakage test."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8633",
+      "question": "Anti-Lock Braking Systems (ABS)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nagbabawas ng normal na braking capacity ng sasakyan"
+        },
+        {
+          "letter": "B",
+          "text": "Ay karagdagan sa ibang braking systems at hindi nagbabawas ng braking power ng sasakyan"
+        },
+        {
+          "letter": "C",
+          "text": "Ay hindi epektibo sa mas malalaking vehicles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ay karagdagan sa ibang braking systems at hindi nagbabawas ng braking power ng sasakyan",
+      "explanation": "Kung nilagyan, ABS ay karagdagan sa normal na braking system ng sasakyan at hindi nagpapataas o nagbabawas ng braking power ng anumang ibang sistema. ABS ay nag-activate lamang kapag ang mga gulong ng sasakyan ay malapit nang mag-lock."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9297",
+      "question": "Anong kulay ng ilaw ang nagpapahiwatig na ang ABS ng isang sasakyan ay hindi gumagana?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Berde"
+        },
+        {
+          "letter": "B",
+          "text": "Bughaw"
+        },
+        {
+          "letter": "C",
+          "text": "Dilaw"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Dilaw",
+      "explanation": "Sa mga sasakyang may Anti-Lock Braking Systems (ABS), ang yellow malfunction lamp ay nagbibigay alerto sa driver tungkol sa ABS malfunction."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11721",
+      "question": "Kung ang pagpapabigil sa bilis na 55 mph habang nagmamaneho sa tuyo na pavement, ang brake lag ay maaaring magdagdag ng ____ sa kabuuang distansya ng pagtigil ng iyong sasakyan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "15 feet"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "Ang kabuuang distansya ng pagtigil para sa mga sasakyang nilagyan ng air brake ay binubuo ng apat na mga salik: perception distance, reaction distance, brake lag distance, at braking distance. Kapag nagpapabigil sa bilis na 55 mph habang nagmamaneho sa tuyo na pavement, ang brake lag ay maaaring magdagdag ng humigit-kumulang 32 feet sa kabuuang distansya ng pagtigil ng sasakyan."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11904",
+      "question": "Habang gumagana sa isang downgrade, dapat kang magpreno hanggang sa maabot mo ang isang bilis na:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 mph sa ibaba ng iyong safe speed."
+        },
+        {
+          "letter": "B",
+          "text": "10 mph sa ibaba ng iyong safe speed."
+        },
+        {
+          "letter": "C",
+          "text": "15 mph sa ibaba ng iyong safe speed."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "5 mph sa ibaba ng iyong safe speed.",
+      "explanation": "Habang bumababa sa bundok, dapat itulak ang iyong brake pedal hanggang sa ang iyong sasakyan ay umabot sa bilis na 5 mph sa ibaba ng iyong safe speed, pagkatapos iangat ang brake pedal. Ulitin ang prosesong ito."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11533",
+      "question": "Bago magmaneho ng sasakyan na may air brakes, dapat mong masiguro na ang ____ ay awtomatikong nag-activate kapag ang air pressure ay bumaba sa ibaba ng 45 psi.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spring brakes"
+        },
+        {
+          "letter": "B",
+          "text": "Parking brakes"
+        },
+        {
+          "letter": "C",
+          "text": "Air brakes"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Spring brakes",
+      "explanation": "Bago magmaneho ng sasakyan na may air brakes, dapat mong masiguro na ang spring brakes ay awtomatikong nag-activate kapag ang air tank pressure ay bumaba sa antas sa pagitan ng 20 at 45 psi. Maaari mong gawin ito sa pamamagitan ng pag-chock sa mga gulong at paglabas ng hangin mula sa braking system sa pamamagitan ng pag-step on at off sa brake pedal. Kapag ang pressure levels ay bumaba sa hindi ligtas na antas, ang parking brake valve ay dapat lumabas at ang spring brakes ay dapat mag-activate."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11675",
+      "question": "Upang inspektahan ang slack adjusters sa S-cam brakes, kailangan mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magparada sa isang burol at subukan ang mga preno."
+        },
+        {
+          "letter": "B",
+          "text": "Magsuot ng gloves at itulak ang mga slack adjusters."
+        },
+        {
+          "letter": "C",
+          "text": "I-chock ang mga gulong at i-disengage ang parking brake."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "I-chock ang mga gulong at i-disengage ang parking brake.",
+      "explanation": "Suriin ang bawat slack adjuster pagkatapos ng pagpapahinto sa level ground, pag-set ng wheel chocks, at pag-disengage ng parking brake. Iguhit ang slack adjusters upang siguraduhin na hindi sila gumagalaw ng higit pa sa humigit-kumulang isang pulgada mula sa kung saan nakakabit ang push rod. Kung sila ay gumagalaw ng higit sa isang pulgada, maaaring maging out of adjustment sila at kailangang ayusin."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11882",
+      "question": "Kapag umiikot ang isang S-cam sa loob ng isang brake drum, ang S-cam ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pumipiga sa brake shoes laban sa loob ng brake drum."
+        },
+        {
+          "letter": "B",
+          "text": "Pinipindot ang mga brake shoes laban sa mga brake linings."
+        },
+        {
+          "letter": "C",
+          "text": "Pinipindot ang mga brake linings laban sa mga wheel axles."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pumipiga sa brake shoes laban sa loob ng brake drum.",
+      "explanation": "Kapag ang brake pedal ay pinindot at ang S-cam ay ginilid, ang S-cam ay pumipiga sa brake shoes laban sa loob ng brake drum. Ito ay nagsasandig ng friction at magdudulot sa vehicle na bumagal."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11893",
+      "question": "Sa isang sasakyan na may dual parking control valves, isang hiwalay na air tank ay maaaring gamitin:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Upang gawing mas epektibo ang air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Upang pansamantalang ilabas ang spring brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Upang i-charge ang mga brakes sa rear trailer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Upang pansamantalang ilabas ang spring brakes.",
+      "explanation": "Sa vehicle na may dual parking control valves, may hiwalay na air tank na maaaring gamitin upang pansamantalang ilabas ang spring brakes kung naging active dahil sa mababang air pressure. Ang pagsisikap ng tamang control ay magpapahintulot sa spring brakes nang maikling panahon, na nagbibigay-daan sa driver na ilipat ang vehicle sa emergency."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8626",
+      "question": "Bakit dapat mong regular na ibuhos ang air tanks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dahil ang hangin ay nagiging luma at kailangan itong mapalitan"
+        },
+        {
+          "letter": "B",
+          "text": "Dahil ang naka-compress na hangin ay naglalaman ng ilang tubig at ang tubig ay nagsasaipan sa mga tangke"
+        },
+        {
+          "letter": "C",
+          "text": "Upang magpahintulot ng pagbabago sa presyon"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dahil ang naka-compress na hangin ay naglalaman ng ilang tubig at ang tubig ay nagsasaipan sa mga tangke",
+      "explanation": "Ang naka-compress na hangin ay karaniwang naglalaman ng ilang halaga ng kahalumigmigan at compressor oil, na maaaring magtipon sa air storage tanks at masira ang brake system. Ang mga tangke ay dapat ibuhos upang linisin ang mga ito. Sa isang tangke na may manual drain valve, ang pag-draining ay dapat gawin sa dulo ng bawat araw ng pagmamaneho."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11326",
+      "question": "Sa mga patag na ibabaw, ang wheel chocks:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maaaring gamitin upang mapigilan ang isang naka-park na sasakyan mula gumalaw."
+        },
+        {
+          "letter": "B",
+          "text": "Ginagawang mas madali para sa isang naka-park na sasakyan na gumalaw."
+        },
+        {
+          "letter": "C",
+          "text": "Dapat lamang gamitin sa front driver's side tire."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Maaaring gamitin upang mapigilan ang isang naka-park na sasakyan mula gumalaw.",
+      "explanation": "Sa mga sitwasyon kung saan ang isang driver ay hindi makakagamit ng parking brake, maaaring gamitin ang wheel chocks upang panatilihing nasa lugar ang isang naka-park na sasakyan sa isang level surface."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11701",
+      "question": "Ang air pressure sa isang dual air brake system ay dapat tumaas mula 85 hanggang 100 psi sa loob ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dalawang minuto."
+        },
+        {
+          "letter": "B",
+          "text": "15 segundo."
+        },
+        {
+          "letter": "C",
+          "text": "45 segundo."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "45 segundo.",
+      "explanation": "Kapag sinusuri ang isang sasakyan na may dual air brake system, dapat mong hintayin ang air pressure na lumaki mula 85 hanggang 100 psi sa parehong primary at secondary systems. Dapat itong tumagal ng halos 45 segundo."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8754",
+      "question": "Ang air compressor ay konektado sa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmission."
+        },
+        {
+          "letter": "B",
+          "text": "Engine."
+        },
+        {
+          "letter": "C",
+          "text": "Radiator."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Engine.",
+      "explanation": "Ang air compressor ng isang air brake system ay konektado sa engine sa pamamagitan ng gears o isang v-belt. Ang compressor ay maaaring air-cooled o na-cool ng engine cooling system."
+    }
+  ]
+}

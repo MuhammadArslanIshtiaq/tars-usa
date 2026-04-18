@@ -1,0 +1,795 @@
+{
+  "state": "Texas",
+  "category": "car",
+  "quizName": "Hard Practice Test #1",
+  "slug": "hard-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "411",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/new-york-hand_signal_down.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn left."
+        },
+        {
+          "letter": "B",
+          "text": "Turn right."
+        },
+        {
+          "letter": "C",
+          "text": "Stop."
+        },
+        {
+          "letter": "D",
+          "text": "Start up."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Stop.",
+      "explanation": "A driver's left arm extended downward means they will stop. If you are following this driver, be ready to stop too."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "3016",
+      "question": "When parking, your vehicle must be visible for at least ____ in each direction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 feet"
+        },
+        {
+          "letter": "B",
+          "text": "50 feet"
+        },
+        {
+          "letter": "C",
+          "text": "200 feet"
+        },
+        {
+          "letter": "D",
+          "text": "20 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "200 feet",
+      "explanation": "Your parked vehicle must be visible for at least 200 feet in all directions. Park only in places where your vehicle will not block traffic."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "2234",
+      "question": "When a vehicle with Anti-Lock Brakes loses traction on a slippery road, drivers should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pump the brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Press and hold the brake pedal."
+        },
+        {
+          "letter": "C",
+          "text": "Press and hold the gas pedal."
+        },
+        {
+          "letter": "D",
+          "text": "Lightly tap the brakes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Press and hold the brake pedal.",
+      "explanation": "If you lose traction on a slippery road, press hard on the brake pedal and hold it while steering to safety. Do not pump the brakes or release pressure. Anti-Lock Brakes pump automatically faster than you can."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "2049",
+      "question": "Which recommendation does NOT help with safe night driving?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep your windshield clean."
+        },
+        {
+          "letter": "B",
+          "text": "Know that tinted windows make it harder to see at night."
+        },
+        {
+          "letter": "C",
+          "text": "Carry a flashlight in your vehicle."
+        },
+        {
+          "letter": "D",
+          "text": "Look directly at oncoming headlights."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Look directly at oncoming headlights.",
+      "explanation": "Looking at oncoming headlights makes your eyes adjust and contract. After the car passes, your eyes need time to readjust. During this time, you cannot see well."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1670",
+      "question": "Traffic arrows control turns from specific lanes. A solid red arrow means:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is never used as a traffic signal."
+        },
+        {
+          "letter": "B",
+          "text": "It means the same as a red traffic light."
+        },
+        {
+          "letter": "C",
+          "text": "Drivers may turn in the direction shown."
+        },
+        {
+          "letter": "D",
+          "text": "Traffic in that direction must stop."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "It means the same as a red traffic light.",
+      "explanation": "A red arrow means the same as a red circular light. You must stop and cannot turn in the direction the arrow points."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "221",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/divided_highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You must turn left or right."
+        },
+        {
+          "letter": "B",
+          "text": "You are approaching a T intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Your road crosses a divided highway."
+        },
+        {
+          "letter": "D",
+          "text": "You are on a bridge over a divided highway."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Your road crosses a divided highway.",
+      "explanation": "This sign shows that your road crosses a divided highway. A divided highway has two one-way roads separated by a median or guide rail."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "470",
+      "question": "A slow-moving vehicle sign is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A rectangular red sign."
+        },
+        {
+          "letter": "B",
+          "text": "A circular green sign."
+        },
+        {
+          "letter": "C",
+          "text": "A diamond-shaped yellow sign."
+        },
+        {
+          "letter": "D",
+          "text": "A triangular orange sign."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "A triangular orange sign.",
+      "explanation": "The slow-moving vehicle sign is a reflective orange triangle. Vehicles with this sign travel at 25 mph or slower."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1074",
+      "question": "An advisory speed sign:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Can be ignored in rain, snow, or ice."
+        },
+        {
+          "letter": "B",
+          "text": "Has a triangular shape."
+        },
+        {
+          "letter": "C",
+          "text": "Is blue with black lettering."
+        },
+        {
+          "letter": "D",
+          "text": "Shows a recommended speed for curves and turns."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Shows a recommended speed for curves and turns.",
+      "explanation": "Advisory speed signs show a suggested speed for curves and turns. You should follow this speed in fair weather. In rain, snow, or ice, you should drive even slower."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "586",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/florida-exit_speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The safe speed for a residential area."
+        },
+        {
+          "letter": "B",
+          "text": "The safe speed for an expressway exit."
+        },
+        {
+          "letter": "C",
+          "text": "The safe speed for an expressway entrance."
+        },
+        {
+          "letter": "D",
+          "text": "The safe speed for a work zone."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The safe speed for an expressway exit.",
+      "explanation": "This sign shows the recommended safe speed for leaving an expressway (in this example, 30 mph)."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "3011",
+      "question": "You cannot park within ____ of a fire hydrant.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 feet"
+        },
+        {
+          "letter": "B",
+          "text": "25 feet"
+        },
+        {
+          "letter": "C",
+          "text": "15 feet"
+        },
+        {
+          "letter": "D",
+          "text": "20 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "15 feet",
+      "explanation": "Do not park within 15 feet of a fire hydrant. Parking too close can block emergency access."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "2977",
+      "question": "On a road with three or more lanes, when a vehicle enters a lane from the right, what must it do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It always has the right-of-way."
+        },
+        {
+          "letter": "B",
+          "text": "It must yield to a vehicle entering from the left."
+        },
+        {
+          "letter": "C",
+          "text": "A vehicle from the left should let it enter."
+        },
+        {
+          "letter": "D",
+          "text": "It does not need to use a blinker."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "It must yield to a vehicle entering from the left.",
+      "explanation": "On a road with three or more lanes going the same direction, a vehicle entering from the right must let a vehicle entering from the left go first."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "3026",
+      "question": "What is the speed limit on county roads next to public beaches?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55 mph"
+        },
+        {
+          "letter": "B",
+          "text": "45 mph"
+        },
+        {
+          "letter": "C",
+          "text": "15 mph"
+        },
+        {
+          "letter": "D",
+          "text": "25 mph"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "15 mph",
+      "explanation": "The speed limit on county roads next to public beaches is 15 mph unless a different speed limit sign is posted."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "2247",
+      "question": "What does a solid white line in the center of a two-lane road mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lanes go in opposite directions and passing is not allowed."
+        },
+        {
+          "letter": "B",
+          "text": "Lanes go in opposite directions and passing is allowed when safe."
+        },
+        {
+          "letter": "C",
+          "text": "Lanes go in the same direction and passing is not allowed."
+        },
+        {
+          "letter": "D",
+          "text": "Lanes go in the same direction and passing is allowed when safe."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Lanes go in the same direction and passing is not allowed.",
+      "explanation": "White lines separate traffic going the same direction. A solid white line means you cannot pass."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "2254",
+      "question": "What do pennant-shaped signs indicate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "School zones"
+        },
+        {
+          "letter": "B",
+          "text": "No passing zones"
+        },
+        {
+          "letter": "C",
+          "text": "Speed limits"
+        },
+        {
+          "letter": "D",
+          "text": "Railroad crossings"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "No passing zones",
+      "explanation": "Pennant-shaped signs show no passing zones. The sign will have text confirming it is a no passing zone."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "264",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/alabama-warns_of_sharp_turn_or_curve_in_direction_of_arrow.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There is an object on the road."
+        },
+        {
+          "letter": "B",
+          "text": "Traffic is coming from the right."
+        },
+        {
+          "letter": "C",
+          "text": "The road curves sharply to the left."
+        },
+        {
+          "letter": "D",
+          "text": "There is a merge point ahead."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The road curves sharply to the left.",
+      "explanation": "This chevron sign shows the road curves sharply in the direction the arrow points. In this case, it points left. Multiple signs may mark the curve."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1507",
+      "question": "How should you always think of railroad crossings?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are safe because trains rarely come."
+        },
+        {
+          "letter": "B",
+          "text": "They are dangerous."
+        },
+        {
+          "letter": "C",
+          "text": "They are safe places to park."
+        },
+        {
+          "letter": "D",
+          "text": "You must always stop there."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "They are dangerous.",
+      "explanation": "Always treat railroad crossings as dangerous. Look and listen for trains from both directions. Follow all signs, signals, and flagger directions. Only cross when you are sure it is safe."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1084",
+      "question": "How far can a fully loaded tractor-trailer take to stop at 55 mph?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 feet"
+        },
+        {
+          "letter": "B",
+          "text": "125 feet"
+        },
+        {
+          "letter": "C",
+          "text": "400 feet"
+        },
+        {
+          "letter": "D",
+          "text": "750 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "400 feet",
+      "explanation": "Tractor-trailers need more distance to stop than cars at the same speed. A fully loaded tractor-trailer may need almost 400 feet to stop from 55 mph."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "342",
+      "question": "When should you leave extra space in front of your vehicle when stopped?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On an uphill slope"
+        },
+        {
+          "letter": "B",
+          "text": "At an intersection"
+        },
+        {
+          "letter": "C",
+          "text": "At a stop sign"
+        },
+        {
+          "letter": "D",
+          "text": "At a toll plaza"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "On an uphill slope",
+      "explanation": "Leave more space than usual when stopped on an uphill slope. If the vehicle in front rolls backward when traffic starts moving, extra space reduces the chance of a collision."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "332",
+      "question": "When leaving a highway, when should you start to slow down?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the main road just before the exit lane"
+        },
+        {
+          "letter": "B",
+          "text": "When you see a toll booth"
+        },
+        {
+          "letter": "C",
+          "text": "After you move into the exit lane"
+        },
+        {
+          "letter": "D",
+          "text": "When you first see the exit sign"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "After you move into the exit lane",
+      "explanation": "Move into the exit lane well in advance. Slow down only after you have moved into the exit lane."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "326",
+      "question": "To pass another vehicle on a two-lane, two-way road, what must you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do not cross the centerline."
+        },
+        {
+          "letter": "B",
+          "text": "Flash your lights at oncoming traffic."
+        },
+        {
+          "letter": "C",
+          "text": "Use the shoulder."
+        },
+        {
+          "letter": "D",
+          "text": "Use the lane for oncoming traffic."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Use the lane for oncoming traffic.",
+      "explanation": "Passing on a two-lane, two-way road requires you to use the lane for oncoming traffic to pass safely. Only pass if it is safe and legal to do so."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "2261",
+      "question": "What should you do when you see a flashing yellow arrow?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Merge into the lane in the direction of the arrow."
+        },
+        {
+          "letter": "B",
+          "text": "Stop completely."
+        },
+        {
+          "letter": "C",
+          "text": "Turn left after letting oncoming traffic and pedestrians pass."
+        },
+        {
+          "letter": "D",
+          "text": "Turn left immediately because you have the right-of-way."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Turn left after letting oncoming traffic and pedestrians pass.",
+      "explanation": "A flashing yellow arrow means you can turn left in the direction of the arrow. But oncoming traffic has a green light, so you must let them pass first. Also yield to pedestrians."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "2086",
+      "question": "How much alcohol does your body process in one hour?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Three drinks an hour."
+        },
+        {
+          "letter": "B",
+          "text": "One drink an hour."
+        },
+        {
+          "letter": "C",
+          "text": "Two drinks an hour."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "One drink an hour.",
+      "explanation": "Your body processes about one drink per hour on average. How impaired you become depends on many things. These include how much you drink, how fast you drink, your weight, whether you have eaten, and your overall health."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "610",
+      "question": "What does a broken yellow line next to a solid yellow line mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You can pass from either direction."
+        },
+        {
+          "letter": "B",
+          "text": "You can pass from the side with the broken line."
+        },
+        {
+          "letter": "C",
+          "text": "You can pass from the side with the solid line."
+        },
+        {
+          "letter": "D",
+          "text": "You cannot pass from either direction."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You can pass from the side with the broken line.",
+      "explanation": "A broken yellow line next to a solid yellow line means you can pass only from the side with the broken line."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1059",
+      "question": "What should you do at a railroad crossing with no lights or gates?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cross quickly as soon as possible."
+        },
+        {
+          "letter": "B",
+          "text": "Always stop before crossing."
+        },
+        {
+          "letter": "C",
+          "text": "Be ready to yield to any train."
+        },
+        {
+          "letter": "D",
+          "text": "Speed up to cross before a train arrives."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Be ready to yield to any train.",
+      "explanation": "Always be ready to yield to trains at railroad crossings, especially when there are no lights or gates. Do not cross until your entire vehicle can fit on the other side. Do not shift gears while crossing because your vehicle might stall."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1613",
+      "question": "Two vehicles arrive at an uncontrolled intersection at the same time. Who has the right-of-way?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The larger vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "The vehicle on the left."
+        },
+        {
+          "letter": "C",
+          "text": "The vehicle on the left must yield to the one on the right."
+        },
+        {
+          "letter": "D",
+          "text": "The vehicle on the right must yield to the one on the left."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The vehicle on the left must yield to the one on the right.",
+      "explanation": "When two vehicles arrive at the same time at an uncontrolled intersection, the driver on the left must yield to the driver on the right. The left driver can proceed when it is safe."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "1585",
+      "question": "When does your vehicle need a longer distance to stop?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On wet or icy roads."
+        },
+        {
+          "letter": "B",
+          "text": "On paved highways."
+        },
+        {
+          "letter": "C",
+          "text": "When driving at night."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "On wet or icy roads.",
+      "explanation": "Stopping distance increases on wet or icy roads. It also increases on roads with loose gravel or stones."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "581",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow down when the road is wet."
+        },
+        {
+          "letter": "B",
+          "text": "The road ahead has sharp turns or curves."
+        },
+        {
+          "letter": "C",
+          "text": "More traffic ahead."
+        },
+        {
+          "letter": "D",
+          "text": "A steep hill ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Slow down when the road is wet.",
+      "explanation": "This sign warns that the road is slippery when wet. In wet conditions, reduce your speed. Avoid braking or turning suddenly. Keep more distance between your vehicle and the one ahead."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "1429",
+      "question": "What is a safe way to drive through a curve?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow down as you enter, speed up as you exit."
+        },
+        {
+          "letter": "B",
+          "text": "Keep the same speed throughout the curve."
+        },
+        {
+          "letter": "C",
+          "text": "Speed up as you enter, slow down as you exit."
+        },
+        {
+          "letter": "D",
+          "text": "Stay near the right edge of your lane."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Slow down as you enter, speed up as you exit.",
+      "explanation": "Slow down before entering a curve. Then gradually speed up as you exit the curve. Speeding up as you enter a curve makes it harder to control your vehicle."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "468",
+      "question": "Where should a pedestrian walk on a road with no sidewalk?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the side with the lightest traffic."
+        },
+        {
+          "letter": "B",
+          "text": "On the same side as traffic is moving."
+        },
+        {
+          "letter": "C",
+          "text": "On the side facing oncoming traffic."
+        },
+        {
+          "letter": "D",
+          "text": "On the side with the heaviest traffic."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "On the side facing oncoming traffic.",
+      "explanation": "Pedestrians should walk on the side of the road facing oncoming traffic so they can see approaching vehicles."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "412",
+      "question": "What does this hand signal mean?",
+      "image": "/images/signs/new-york-hand_signal_up.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn left."
+        },
+        {
+          "letter": "B",
+          "text": "Turn right."
+        },
+        {
+          "letter": "C",
+          "text": "Stop."
+        },
+        {
+          "letter": "D",
+          "text": "Go straight."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Turn right.",
+      "explanation": "When a driver's left arm points up, they are signaling a right turn. If you are following this driver, adjust your driving accordingly."
+    }
+  ]
+}

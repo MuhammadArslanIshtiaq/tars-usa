@@ -1,0 +1,766 @@
+{
+  "state": "Virginia",
+  "category": "car",
+  "quizName": "Easy Practice Test #1",
+  "slug": "easy-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1539",
+      "question": "Một người đi bộ với gậy trắng hoặc chó dẫn đường có khả năng là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một người điếc."
+        },
+        {
+          "letter": "B",
+          "text": "Một người tham gia nghiên cứu giao thông."
+        },
+        {
+          "letter": "C",
+          "text": "Một người mù."
+        },
+        {
+          "letter": "D",
+          "text": "Không có cái nào ở trên."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Một người mù.",
+      "explanation": "Người lái xe phải luôn nhường quyền ưu tiên cho người đi bộ khi người đi bộ là một người mù đang sử dụng gậy trắng hoặc chó dẫn đường."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "218",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dừng lại."
+        },
+        {
+          "letter": "B",
+          "text": "Không được quay đầu."
+        },
+        {
+          "letter": "C",
+          "text": "Nhường đường."
+        },
+        {
+          "letter": "D",
+          "text": "Không được vào."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Không được vào.",
+      "explanation": "Biển báo này được đặt ở đầu đường một chiều và các làn đường để chỉ ra rằng bạn không được tiếp tục lái xe theo hướng hiện tại của bạn."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "591",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/sharp_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con đường một chiều."
+        },
+        {
+          "letter": "B",
+          "text": "Cấm rẽ phải."
+        },
+        {
+          "letter": "C",
+          "text": "Lối ra."
+        },
+        {
+          "letter": "D",
+          "text": "Khúc cua sắc bên phải trên con đường phía trước."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Khúc cua sắc bên phải trên con đường phía trước.",
+      "explanation": "Biển này chỉ ra rằng có một khúc cua sắc bên phải phía trước."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "280",
+      "question": "Khi chia sẻ đường với một chiếc xe tải, điều quan trọng là phải nhớ rằng những chiếc xe tải nói chung:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yêu cầu khoảng cách dừng dài hơn so với những chiếc xe nhỏ hơn."
+        },
+        {
+          "letter": "B",
+          "text": "Yêu cầu ít thời gian hơn để vượt trên một đoạn dốc xuống so với những chiếc xe nhỏ hơn."
+        },
+        {
+          "letter": "C",
+          "text": "Yêu cầu bán kính quay nhỏ hơn so với những chiếc xe nhỏ hơn."
+        },
+        {
+          "letter": "D",
+          "text": "Yêu cầu ít thời gian hơn để vượt trên một đoạn dốc lên so với những chiếc xe nhỏ hơn."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Yêu cầu khoảng cách dừng dài hơn so với những chiếc xe nhỏ hơn.",
+      "explanation": "Vì kích thước của chúng, những chiếc xe tải cần khoảng cách dừng lâu hơn so với những chiếc xe nhỏ hơn."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "743",
+      "question": "Khi tiếp cận biển dừng lại không được đánh dấu bằng lối đi dành cho người đi bộ, người lái xe nên dừng phương tiện của họ trước khi vào giao lộ.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đúng"
+        },
+        {
+          "letter": "B",
+          "text": "Sai"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đúng",
+      "explanation": "Tại biển báo dừng, bạn phải dừng hoàn toàn tại vạch dừng, nếu có. Nếu không có vạch dừng, bạn phải dừng hoàn toàn trước khi vào lối đi bộ. Nếu không có lối đi bộ, bạn phải dừng trước khi vào giao lộ."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "654",
+      "question": "Khi tiếp cận các đường ray tàu hỏa, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quan sát, lắng nghe, giảm tốc độ và chuẩn bị dừng lại."
+        },
+        {
+          "letter": "B",
+          "text": "Tăng tốc độ để vượt qua các đường ray trước khi cổng hạ xuống."
+        },
+        {
+          "letter": "C",
+          "text": "Cố gắng lái xe xung quanh một cổng đã hạ xuống."
+        },
+        {
+          "letter": "D",
+          "text": "Không chú ý đến có bao nhiêu đường ray để vượt qua."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Quan sát, lắng nghe, giảm tốc độ và chuẩn bị dừng lại.",
+      "explanation": "Khi tiếp cận các đường ray tàu hỏa, bạn nên quan sát, lắng nghe, giảm tốc độ và chuẩn bị dừng lại cho các tàu hỏa hoặc các phương tiện khác có thể đang sử dụng các đường ray."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "742",
+      "question": "Khi tiếp cận một đường băng qua đường sắt không có tín hiệu cảnh báo (chẳng hạn như đèn flash điện hoặc cổng), người lái xe nên giảm tốc độ, quan sát và lắng nghe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đúng"
+        },
+        {
+          "letter": "B",
+          "text": "Sai"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đúng",
+      "explanation": "Nếu một đường băng qua đường sắt không có thiết bị cảnh báo hoặc chỉ có biển crossbuck, bạn nên giảm tốc độ, nhìn cả hai hướng của đường sắt và lắng nghe để phát hiện tàu hoặc thiết bị đường sắt. Chỉ tiếp tục cẩn thận qua các đường ray khi an toàn để làm như vậy."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "546",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/crossroad.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tất cả giao thông phải rẽ."
+        },
+        {
+          "letter": "B",
+          "text": "Rẽ phải tại giao lộ."
+        },
+        {
+          "letter": "C",
+          "text": "Khu vực đỗ xe phía trước."
+        },
+        {
+          "letter": "D",
+          "text": "Giao lộ phía trước. Hãy cẩn thận với giao thông."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Giao lộ phía trước. Hãy cẩn thận với giao thông.",
+      "explanation": "Biển báo này cảnh báo về sự hiện diện của một giao lộ phía trước."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "525",
+      "question": "Trên đường cao tốc, bạn nhận ra rằng bạn đã bỏ lỡ lượt rẽ hoặc lối thoát của mình. Bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thực hiện lượt rẽ nhanh chóng từ làn đường của bạn."
+        },
+        {
+          "letter": "B",
+          "text": "Dừng lại và lùi lại."
+        },
+        {
+          "letter": "C",
+          "text": "Tiếp tục lái xe cho đến khi bạn đến được lượt rẽ, lối thoát tiếp theo hoặc địa điểm khác nơi bạn có thể an toàn quay đầu."
+        },
+        {
+          "letter": "D",
+          "text": "Báo hiệu cho các tài xế khác dừng lại để bạn có thể rẽ."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tiếp tục lái xe cho đến khi bạn đến được lượt rẽ, lối thoát tiếp theo hoặc địa điểm khác nơi bạn có thể an toàn quay đầu.",
+      "explanation": "Nếu bạn bỏ lỡ lượt rẽ hoặc lối thoát của mình, đừng lùi lại, hãy đi tiếp đến lượt rẽ hoặc lối thoát tiếp theo nơi bạn có thể an toàn quay đầu. Việc lùi lại trên vai đường hoặc đường cao tốc là bất hợp pháp."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "2282",
+      "question": "Một tài xế vào giao thông công cộng từ một đường lái hoặc con đường riêng tư:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Có quyền ưu tiên."
+        },
+        {
+          "letter": "B",
+          "text": "Nên nhường quyền cho những tài xế đã ở trên đường công cộng."
+        },
+        {
+          "letter": "C",
+          "text": "Có thể bắt buộc cách của họ vào giao thông."
+        },
+        {
+          "letter": "D",
+          "text": "Có thể giả định rằng các tài xế khác sẽ thay đổi làn đường để tạo chỗ."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Nên nhường quyền cho những tài xế đã ở trên đường công cộng.",
+      "explanation": "Nếu bạn vào giao thông từ một đường lái hoặc con đường riêng tư, bạn nên nhường quyền cho những tài xế đã ở trên đường công cộng. Hợp nhất an toàn vào giao thông khi bạn có thể."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "612",
+      "question": "Một tài xế xe tải chuyên nghiệp phải:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sở hữu một chiếc xe 18 bánh."
+        },
+        {
+          "letter": "B",
+          "text": "Có bằng lái xe thương mại hợp lệ."
+        },
+        {
+          "letter": "C",
+          "text": "Có giấy phép câu cá."
+        },
+        {
+          "letter": "D",
+          "text": "Có giấy phép săn bắn."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Có bằng lái xe thương mại hợp lệ.",
+      "explanation": "Bằng lái xe thương mại (CDL) cho phép bạn vận hành xe kéo, xe buýt chở khách, xe bồn, xe buýt trường học cho 16 hoặc nhiều người ngồi, hoặc xe chở các vật liệu nguy hiểm. Bằng lái xe thông thường chỉ cho phép bạn vận hành bất kỳ phương tiện nào hoặc xe tải nhỏ có trọng lượng dưới 26,001 pounds mà được miễn các yêu cầu CDL."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "574",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/low_clearance.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Độ dốc cao phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Đường giao cắt dành cho người đi bộ phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Đường ray giao cắt có mặt đất thấp."
+        },
+        {
+          "letter": "D",
+          "text": "Khoảng sáng thấp."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Khoảng sáng thấp.",
+      "explanation": "Biển báo này cho biết cầu vượt phía trước có khoảng trống thấp. Bạn không nên tiếp tục nếu chiếc xe của bạn cao hơn chiều cao được hiển thị trên biển (trong trường hợp này là 13 feet 6 inches)."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "671",
+      "question": "Bằng lái xe của bạn sẽ bị thu hồi hoặc đình chỉ nếu bạn:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Khai báo sai với DMV."
+        },
+        {
+          "letter": "B",
+          "text": "Trốn chạy cảnh sát."
+        },
+        {
+          "letter": "C",
+          "text": "Làm bài kiểm tra giấy phép lái xe cho một người khác."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các trên.",
+      "explanation": "DMV hoặc tòa án có thể thu hồi hoặc đình chỉ bằng lái xe của bạn nếu bạn bị kết tội một trong số các tội phạm. Những điều này bao gồm khai báo sai với DMV, trốn chạy cảnh sát, và thi bằng lái xe cho người khác."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "266",
+      "question": "Giới hạn tốc độ được đăng cho thấy:",
+      "image": "/images/signs/district-of-columbia-speed_limit_25.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chỉ là một tốc độ lái xe được đề xuất."
+        },
+        {
+          "letter": "B",
+          "text": "Tốc độ chính xác mà bạn phải lái xe để tránh một vé phạt."
+        },
+        {
+          "letter": "C",
+          "text": "Tốc độ lái xe an toàn tối đa trong điều kiện đường và thời tiết lý tưởng."
+        },
+        {
+          "letter": "D",
+          "text": "Tốc độ lái xe an toàn tối đa trong tất cả các điều kiện đường."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tốc độ lái xe an toàn tối đa trong điều kiện đường và thời tiết lý tưởng.",
+      "explanation": "Biển giới hạn tốc độ hiển thị tốc độ lái xe hợp pháp tối đa cho đoạn đường cao tốc nơi nó được đặt. Lái xe an toàn có thể yêu cầu bạn di chuyển chậm hơn mức giới hạn được đăng. Khi điều kiện không lý tưởng, người lái xe nên giảm tốc độ."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1430",
+      "question": "Bạn đang tiến tới một đường giao cắt đường sắt và bạn không thấy hoặc nghe thấy một chuyến tàu. Bạn phải dừng lại:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nếu biển dừng được đăng."
+        },
+        {
+          "letter": "B",
+          "text": "Nếu cổng giao cắt được hạ xuống."
+        },
+        {
+          "letter": "C",
+          "text": "Nếu các đèn giao cắt nhấp nháy."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các trên.",
+      "explanation": "Bạn phải luôn dừng lại trước khi vượt qua đường sắt nếu các đèn đỏ nhấp nháy được kích hoạt, cổng giao cắt được hạ xuống, biển dừng được đăng, người hiệu lệnh tín hiệu cho bạn dừng lại, hoặc một chuyến tàu nhìn thấy được hoặc gần với điểm giao cắt sao cho sẽ là nguy hiểm để tiếp tục lái xe. Nếu bạn không chắc chắn một chuyến tàu quá gần để bạn có thể an toàn vượt qua đường sắt, hãy dừng lại. Không bao giờ cạnh tranh với một chuyến tàu."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1381",
+      "question": "Màu cam là màu của các biển báo được sử dụng để giao tiếp với các tài xế trong khu vực công trường xây dựng.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đúng"
+        },
+        {
+          "letter": "B",
+          "text": "Sai"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đúng",
+      "explanation": "Hầu hết các biển báo trong khu vực công việc có màu cam và hình kim cương, mặc dù một số biển báo là hình chữ nhật. Các biển báo và thiết bị kiểm soát giao thông này thường phản xạ để thu hút sự chú ý của bạn tốt hơn vào ban đêm."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1516",
+      "question": "Đồ uống có chứa cồn có thể ảnh hưởng đến bạn theo những cách nào sau đây?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nó làm chậm thời gian phản ứng của bạn."
+        },
+        {
+          "letter": "B",
+          "text": "Nó mang lại cho bạn cảm giác tự tin sai lầm."
+        },
+        {
+          "letter": "C",
+          "text": "Nó làm suy yếu khả năng suy nghĩ của bạn."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các trên.",
+      "explanation": "Rượu làm mờ các phần não của bạn kiểm soát sự ức chế, phán đoán và tự kiểm soát. Kết quả là, bạn có thể cảm thấy bị kích thích, sôi nổi và hơi ngốc hoặc ngu ngốc sau khi uống rượu. Rượu cũng làm suy yếu thời gian phản ứng, phối hợp và cân bằng của bạn. Tầm nhìn của bạn và khả năng phán đoán khoảng cách của bạn bị suy yếu sau khi uống rượu, khiến bạn khó phản ứng với xung quanh."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "485",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cấm rẽ trái."
+        },
+        {
+          "letter": "B",
+          "text": "Cấm dừng."
+        },
+        {
+          "letter": "C",
+          "text": "Không được quay đầu."
+        },
+        {
+          "letter": "D",
+          "text": "Đường vòng phía trước."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Không được quay đầu.",
+      "explanation": "Biển báo này chỉ rằng quay đầu xe bị cấm."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "920",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/indiana-intersection_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường giao nhau phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Người cầm cờ phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Làn đường kết thúc."
+        },
+        {
+          "letter": "D",
+          "text": "Rẽ phải hoặc đi thẳng."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đường giao nhau phía trước.",
+      "explanation": "Biển báo cảnh báo chuẩn bị cho tài xế các điều kiện và mối nguy hiểm đường bộ sắp tới và thường có màu vàng với các dấu hiệu màu đen. Biển báo này cảnh báo tài xế về một giao lộ sắp tới."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1828",
+      "question": "Luôn báo hiệu khi:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thay đổi làn đường."
+        },
+        {
+          "letter": "B",
+          "text": "Vào hoặc ra khỏi chỗ đỗ xe."
+        },
+        {
+          "letter": "C",
+          "text": "Vào giao thông từ một con hẻm hoặc khu vực đỗ xe."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các trên.",
+      "explanation": "Luôn sử dụng tín hiệu rẽ thích hợp khi thay đổi làn đường, vào hoặc ra khỏi chỗ đỗ xe, hoặc vào giao thông từ một con hẻm hoặc khu vực đỗ xe. Giao tiếp với những người lái xe khác trên đường để giúp ngăn ngừa tai nạn."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "669",
+      "question": "Giấy phép lái xe của bạn sẽ bị thu hồi hoặc tạm ngừng nếu bạn bị kết tội về:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Điều hành phương tiện giao thông trong tình trạng chịu ảnh hưởng của rượu hoặc ma túy."
+        },
+        {
+          "letter": "B",
+          "text": "Đưa ra tuyên bố sai trái cho DMV."
+        },
+        {
+          "letter": "C",
+          "text": "Phạm tội trọng liên quan đến sử dụng phương tiện giao thông."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các trên.",
+      "explanation": "DMV hoặc tòa án có thể tạm ngừng hoặc thu hồi quyền lái xe của bạn nếu bạn bị kết tội về một trong nhiều vi phạm. Những điều này bao gồm điều hành phương tiện giao thông trong tình trạng chịu ảnh hưởng của rượu hoặc các chất gây nghiện khác, đưa ra tuyên bố sai trái cho DMV, và phạm tội trọng trong khi sử dụng phương tiện giao thông."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "788",
+      "question": "Khi lái xe trên các đường cao tốc chính:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giữ cảnh báo."
+        },
+        {
+          "letter": "B",
+          "text": "Giữ mắt của bạn chuyển động."
+        },
+        {
+          "letter": "C",
+          "text": "Sẵn sàng phản ứng với các mối nguy hiểm trên đường."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các trên.",
+      "explanation": "Điều quan trọng là phải cảnh báo trên đường cao tốc và sẵn sàng phản ứng với các mối nguy hiểm bất ngờ. Để tránh \"mê hipnôs trên đường cao tốc\", bạn nên tránh nhìn vào một thứ gì đó quá lâu hơn một vài giây."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "749",
+      "question": "Khi vượt qua một phương tiện khác, người lái xe nên chờ cho đến khi toàn bộ chiếc xe mà họ vừa vượt qua có thể nhìn thấy trong gương chiếu hậu trước khi quay trở lại làn đường bên phải.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đúng"
+        },
+        {
+          "letter": "B",
+          "text": "Sai"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đúng",
+      "explanation": "Khi vượt qua, bạn không nên quay trở lại làn đường ban đầu của mình cho đến khi toàn bộ phương tiện mà bạn vừa vượt qua có thể nhìn thấy trong gương chiếu hậu của bạn."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1696",
+      "question": "Việc tiêu thụ rượu trong khi uống thuốc có thể:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giảm tác dụng của thuốc và rượu."
+        },
+        {
+          "letter": "B",
+          "text": "Tăng tác dụng của cả thuốc và rượu."
+        },
+        {
+          "letter": "C",
+          "text": "Giúp chữa bệnh của bạn."
+        },
+        {
+          "letter": "D",
+          "text": "Cải thiện khả năng lái xe của bạn."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tăng tác dụng của cả thuốc và rượu.",
+      "explanation": "Sự kết hợp của rượu và thuốc, trong một số trường hợp, có thể tăng tác dụng của cả thuốc và rượu. Sẽ không an toàn khi lái xe sau khi tiêu thụ rượu hoặc thuốc và thậm chí còn nguy hiểm hơn sau khi kết hợp chúng."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "576",
+      "question": "Biển báo đường bộ này có nghĩa là:",
+      "image": "/images/signs/arizona-shap_turn_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con đường phía trước rẽ sắc sang phải, sau đó sang trái."
+        },
+        {
+          "letter": "B",
+          "text": "Con đường phía trước rẽ sắc sang trái, sau đó sang phải."
+        },
+        {
+          "letter": "C",
+          "text": "Con đường phía trước cong sang trái."
+        },
+        {
+          "letter": "D",
+          "text": "Công trường xây dựng phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Con đường phía trước rẽ sắc sang phải, sau đó sang trái.",
+      "explanation": "Biển này chỉ ra rằng con đường phía trước sẽ rẽ sắc sang phải rồi sang trái."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "2236",
+      "question": "Khi gặp phải tài xế hung hăng, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tránh tiếp xúc bằng mắt, giảm tốc độ, và cho họ vượt qua."
+        },
+        {
+          "letter": "B",
+          "text": "Cắt ngang họ để làm chậm họ."
+        },
+        {
+          "letter": "C",
+          "text": "Trả thù bằng cách bám sát phía sau họ."
+        },
+        {
+          "letter": "D",
+          "text": "Đảm bảo họ biết bạn không tán thành hành vi của họ."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tránh tiếp xúc bằng mắt, giảm tốc độ, và cho họ vượt qua.",
+      "explanation": "Nếu một tài xế khác đe dọa bạn hoặc cố ý lái xe nguy hiểm xung quanh bạn, hãy giữ bình tĩnh và cố gắng tạo khoảng cách càng lớn càng tốt giữa hai bạn. Giảm tốc độ và cho họ vượt qua. Không tiếp xúc bằng mắt và không có những cử chỉ tục tĩu."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "638",
+      "question": "Vượt ô tô bị cấm:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trên những dốc và khúc cua."
+        },
+        {
+          "letter": "B",
+          "text": "Tại các giao lộ."
+        },
+        {
+          "letter": "C",
+          "text": "Tại các đường sắt."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các trên.",
+      "explanation": "Những nơi mà việc vượt ô tô khác là bất hợp pháp và không an toàn bao gồm những dốc, khúc cua, giao lộ và đường sắt."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "547",
+      "question": "Biển hiệu này có nghĩa là:",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phương tiện khẩn cấp phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Giao lộ không được kiểm soát phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Bốn chiều dừng lại phía trước."
+        },
+        {
+          "letter": "D",
+          "text": "Tín hiệu giao thông phía trước."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tín hiệu giao thông phía trước.",
+      "explanation": "Biển này cảnh báo rằng có tín hiệu giao thông phía trước."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "794",
+      "question": "Dấu hiệu phát lộ của một tài xế say rượu là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Họ đang lái zig-zag giữa các làn đường."
+        },
+        {
+          "letter": "B",
+          "text": "Họ đang lái xe chậm hơn luồng giao thông bình thường."
+        },
+        {
+          "letter": "C",
+          "text": "Họ đang thực hiện các dừng nhanh chóng và đột ngột."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các trên.",
+      "explanation": "Những dấu hiệu phát lộ của lái xe say rượu bao gồm tăng tốc độ, lái zig-zag, lái chậm hơn luồng giao thông bình thường, thực hiện chuyển động giật, và thực hiện dừng nhanh chóng và đột ngột."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "673",
+      "question": "Khi xin cấp giấy phép lái xe, DMV có thể kiểm tra:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thị lực."
+        },
+        {
+          "letter": "B",
+          "text": "Kiến thức."
+        },
+        {
+          "letter": "C",
+          "text": "Kỹ năng lái xe."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các trên."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các trên.",
+      "explanation": "Bài kiểm tra cấp giấy phép lái xe sẽ bao gồm kiểm tra thị lực và có thể bao gồm bài kiểm tra kiến thức hai phần và bài kiểm tra kỹ năng lái xe. Một đại diện DMV sẽ cho bạn biết bạn cần phải làm những bài kiểm tra nào."
+    }
+  ]
+}

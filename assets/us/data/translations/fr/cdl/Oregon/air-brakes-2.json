@@ -1,0 +1,612 @@
+{
+  "state": "Oregon",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/oregon/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8862",
+      "question": "Combien de réservoirs de stockage d'air sont utilisés dans un système de freinage à air comprimé ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deux réservoirs"
+        },
+        {
+          "letter": "B",
+          "text": "Quatre réservoirs"
+        },
+        {
+          "letter": "C",
+          "text": "Six réservoirs"
+        },
+        {
+          "letter": "D",
+          "text": "Le nombre varie."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Le nombre varie.",
+      "explanation": "Les réservoirs de stockage d'air sont utilisés pour stocker l'air comprimé. Le nombre et la taille des réservoirs d'air dans un système de freinage à air comprimé varient selon les véhicules."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8879",
+      "question": "La plupart des véhicules lourds utilisent des systèmes de freins pneumatiques ____.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Single"
+        },
+        {
+          "letter": "B",
+          "text": "Dual"
+        },
+        {
+          "letter": "C",
+          "text": "Triple"
+        },
+        {
+          "letter": "D",
+          "text": "Quad"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dual",
+      "explanation": "La majorité des véhicules lourds sont équipés de systèmes de freins pneumatiques doubles."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8994",
+      "question": "Tous les réservoirs d'air doivent inclure:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une soupape de vidange."
+        },
+        {
+          "letter": "B",
+          "text": "Un verrou."
+        },
+        {
+          "letter": "C",
+          "text": "Une trappe."
+        },
+        {
+          "letter": "D",
+          "text": "Un autocollant d'avertissement."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une soupape de vidange.",
+      "explanation": "Les réservoirs du système de freins pneumatiques doivent contenir des soupapes de vidange. Ces soupapes sont utilisées pour vidanger l'huile et l'eau accumulées dans les réservoirs et peuvent être actionnées manuellement ou automatiquement."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "10743",
+      "question": "Qu'est-ce que le délai de freinage ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le temps nécessaire pour que les freins fonctionnent après que la pédale de frein soit enfoncée"
+        },
+        {
+          "letter": "B",
+          "text": "La distance entre la position de repos de la pédale de frein et le sol"
+        },
+        {
+          "letter": "C",
+          "text": "La quantité de pression d'air utilisée pour arrêter un véhicule"
+        },
+        {
+          "letter": "D",
+          "text": "Le niveau d'usure des freins"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le temps nécessaire pour que les freins fonctionnent après que la pédale de frein soit enfoncée",
+      "explanation": "Parce que l'air prend du temps pour s'écouler à travers les tuyauteries d'air jusqu'aux freins, les freins pneumatiques ne peuvent pas commencer à fonctionner instantanément. Il y a souvent un délai de freinage d'au moins une demi-seconde entre le moment où la pédale de frein est enfoncée et le moment où les freins commencent à fonctionner. Sur les véhicules avec freins hydrauliques, les freins fonctionnent instantanément lorsque la pédale est enfoncée."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9380",
+      "question": "La plupart des véhicules lourds utilisent:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Systèmes de freins pneumatiques simples."
+        },
+        {
+          "letter": "B",
+          "text": "Systèmes de freins pneumatiques doubles."
+        },
+        {
+          "letter": "C",
+          "text": "Systèmes de freins pneumatiques triples."
+        },
+        {
+          "letter": "D",
+          "text": "Systèmes de freins pneumatiques quadruples."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Systèmes de freins pneumatiques doubles.",
+      "explanation": "La plupart des véhicules lourds utilisent des systèmes de freins pneumatiques doubles, dans lesquels il existe deux systèmes de freinage séparés actionnés par un seul ensemble de commandes. Chaque système actionne les freins sur des essieux différents."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10362",
+      "question": "Pour arrêter un véhicule avec freins pneumatiques:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pédale de frein doit être appuyée."
+        },
+        {
+          "letter": "B",
+          "text": "La pédale de frein doit être relevée."
+        },
+        {
+          "letter": "C",
+          "text": "Le bouton de frein doit être tiré vers l'extérieur."
+        },
+        {
+          "letter": "D",
+          "text": "Le bouton de frein doit être enfoncé."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La pédale de frein doit être appuyée.",
+      "explanation": "Pour arrêter normalement un véhicule avec freins pneumatiques, appuyez sur la pédale de frein."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8638",
+      "question": "Que devrait-il se passer avant que la pression d'air dans un réservoir de système de freinage pneumatique ne tombe en dessous de 55 psi ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le voyant d'avertissement devrait s'activer."
+        },
+        {
+          "letter": "B",
+          "text": "Le véhicule sera incapable de passer à une autre vitesse."
+        },
+        {
+          "letter": "C",
+          "text": "Les feux avant devraient clignoter."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le voyant d'avertissement devrait s'activer.",
+      "explanation": "Le signal d'avertissement de faible pression d'air doit s'activer avant que la pression d'alimentation en air ne tombe en dessous de 55 psi dans le réservoir d'air. Si le signal d'avertissement ne s'active pas lors du test pendant une inspection, le véhicule n'est pas sûr de circuler."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10747",
+      "question": "Pourquoi les gros véhicules utilisent-ils des freins pneumatiques ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les autres systèmes de freinage crissent trop fort."
+        },
+        {
+          "letter": "B",
+          "text": "Les systèmes de freinage pneumatique sont très efficaces."
+        },
+        {
+          "letter": "C",
+          "text": "Les freins pneumatiques sont compliqués."
+        },
+        {
+          "letter": "D",
+          "text": "L'air est gratuit."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les systèmes de freinage pneumatique sont très efficaces.",
+      "explanation": "Les freins pneumatiques sont un moyen efficace et sûr d'arrêter les gros et lourds véhicules, à condition qu'ils soient entretenus et utilisés correctement."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9463",
+      "question": "Ne pas vidanger les réservoirs d'air pourrait entraîner:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'eau s'accumule, gèle et cause une défaillance des freins."
+        },
+        {
+          "letter": "B",
+          "text": "Des freins trop mous."
+        },
+        {
+          "letter": "C",
+          "text": "Trop d'air s'accumule dans les réservoirs."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "L'eau s'accumule, gèle et cause une défaillance des freins.",
+      "explanation": "Dans un système de freinage à air comprimé, les réservoirs d'air doivent être vidangés périodiquement pour éliminer les accumulations d'eau et d'huile de compresseur. Si l'eau n'est pas enlevée, elle pourrait geler par temps froid et causer une défaillance des freins."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11892",
+      "question": "____ composent le système de frein de secours.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniquement les pièces du système de frein de stationnement"
+        },
+        {
+          "letter": "B",
+          "text": "Uniquement les pièces du système de freinage de service"
+        },
+        {
+          "letter": "C",
+          "text": "Des éléments des systèmes de frein de stationnement et de service"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Des éléments des systèmes de frein de stationnement et de service",
+      "explanation": "Dans un système de freinage pneumatique, il existe trois systèmes de freinage différents : un système de frein de service, un système de frein de stationnement et un système de frein de secours. Le système de frein de secours utilise des éléments des deux systèmes de frein de stationnement et de service."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10230",
+      "question": "Les freins de base sont utilisés :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniquement aux roues avant."
+        },
+        {
+          "letter": "B",
+          "text": "Uniquement aux roues arrière."
+        },
+        {
+          "letter": "C",
+          "text": "Uniquement aux roues du côté du conducteur."
+        },
+        {
+          "letter": "D",
+          "text": "À chaque roue."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "À chaque roue.",
+      "explanation": "Les freins de service sont utilisés à chaque roue. Le type le plus courant est le frein à tambour à came en S."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10232",
+      "question": "Utiliser un système de freinage antiblocage (ABS) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réduit la distance d'arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Raccourcit le temps de réaction du freinage."
+        },
+        {
+          "letter": "C",
+          "text": "Offre moins de contrôle."
+        },
+        {
+          "letter": "D",
+          "text": "Offre plus de contrôle."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Offre plus de contrôle.",
+      "explanation": "Un système de freinage antiblocage (ABS) aide à prévenir le blocage des roues lors d'un freinage brutal. Bien qu'il offre un meilleur contrôle, il ne réduit pas nécessairement la distance d'arrêt d'un véhicule."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10155",
+      "question": "Les freins peuvent se désajuster :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S'ils sont chauds."
+        },
+        {
+          "letter": "B",
+          "text": "Pendant l'hiver."
+        },
+        {
+          "letter": "C",
+          "text": "S'ils sont utilisés à tout moment."
+        },
+        {
+          "letter": "D",
+          "text": "Si les freins d'un côté sont utilisés plus souvent que les freins de l'autre côté."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "S'ils sont chauds.",
+      "explanation": "Les freins sont particulièrement sujets au désajustement s'ils sont chauds. Utilisez des techniques de freinage appropriées pour éviter que vos freins ne surchauffent."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10960",
+      "question": "Qu'est-ce qui est éliminé lorsqu'un réservoir d'air est vidangé ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eau et huile"
+        },
+        {
+          "letter": "B",
+          "text": "Ammoniac"
+        },
+        {
+          "letter": "C",
+          "text": "Bois"
+        },
+        {
+          "letter": "D",
+          "text": "Chlore"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Eau et huile",
+      "explanation": "Dans un système de freins pneumatiques, les réservoirs de stockage d'air sont équipés de drains pour permettre l'évacuation de l'eau et de l'huile du compresseur. L'eau et l'huile peuvent endommager les freins si elles s'accumulent dans le système."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8626",
+      "question": "Pourquoi devriez-vous régulièrement purger les réservoirs d'air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parce que l'air vieillit et doit être remplacé"
+        },
+        {
+          "letter": "B",
+          "text": "Parce que l'air comprimé contient de l'eau et l'eau s'accumule dans les réservoirs"
+        },
+        {
+          "letter": "C",
+          "text": "Pour permettre un changement de pression"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Parce que l'air comprimé contient de l'eau et l'eau s'accumule dans les réservoirs",
+      "explanation": "L'air comprimé contient généralement une certaine quantité d'humidité et d'huile de compresseur, qui peuvent s'accumuler dans les réservoirs de stockage d'air et endommager le système de freinage. Les réservoirs doivent être purgés pour éliminer ces accumulations. Sur un réservoir avec une vanne de purge manuelle, la purge doit être effectuée à la fin de chaque journée de conduite."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9606",
+      "question": "Si le signal d'avertissement de basse pression d'air s'allume, vous devriez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuez à conduire, mais faites réparer les freins dans une semaine."
+        },
+        {
+          "letter": "B",
+          "text": "Rangez-vous et inspectez les freins."
+        },
+        {
+          "letter": "C",
+          "text": "Appelez un mécanicien pendant la conduite."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Rangez-vous et inspectez les freins.",
+      "explanation": "Si le signal d'avertissement de basse pression d'air s'allume pendant que vous conduisez un véhicule avec des freins à air, vous devriez immédiatement arrêter le véhicule de manière sécuritaire pendant que vous êtes encore capable de contrôler les freins. Inspectez et réparez les freins dès que possible."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10309",
+      "question": "Les drains des réservoirs d'air doivent :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne doit pas être utilisé par le conducteur."
+        },
+        {
+          "letter": "B",
+          "text": "Être utilisés uniquement quand il pleut dehors."
+        },
+        {
+          "letter": "C",
+          "text": "Être utilisés pour drainer complètement les réservoirs."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Être utilisés pour drainer complètement les réservoirs.",
+      "explanation": "L'air comprimé dans un système de freins à air contient généralement une certaine quantité d'eau et d'huile de compresseur. L'eau et l'huile peuvent endommager les freins si elles s'accumulent dans le système. Les purgeurs de réservoir d'air commandés manuellement doivent être ouverts quotidiennement pour éliminer cette accumulation."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11894",
+      "question": "Un ____ permet à un conducteur d'appliquer progressivement les freins à ressort.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soupape de commande modulante"
+        },
+        {
+          "letter": "B",
+          "text": "Commande d'alimentation en air de la remorque"
+        },
+        {
+          "letter": "C",
+          "text": "Soupape relais"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Soupape de commande modulante",
+      "explanation": "Une soupape de commande modulante permet à un conducteur d'appliquer progressivement les freins à ressort. Dans les véhicules équipés, la soupape est contrôlée par un levier situé sur le tableau de bord."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8629",
+      "question": "Quel type de force les freins de secours utilisent-ils?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pression d'air"
+        },
+        {
+          "letter": "B",
+          "text": "Mécanique"
+        },
+        {
+          "letter": "C",
+          "text": "Lourde"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mécanique",
+      "explanation": "Les freins à air sont en réalité trois systèmes de freinage différents : le frein de service, le frein de stationnement et le frein de secours. Les freins de secours et de stationnement sont appliqués avec une force mécanique."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11714",
+      "question": "Un régulateur de compresseur d'air arrêtera le compresseur de pomper de l'air une fois que les réservoirs d'air auront un niveau de pression d'air de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125 psi."
+        },
+        {
+          "letter": "B",
+          "text": "100 psi."
+        },
+        {
+          "letter": "C",
+          "text": "150 psi."
+        },
+        {
+          "letter": "D",
+          "text": "80 psi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "125 psi.",
+      "explanation": "Un régulateur de compresseur d'air arrêtera le compresseur de pomper de l'air une fois que les réservoirs d'air sont à un niveau de pression d'air de 125 psi. Ce niveau de pression d'air est appelé le niveau « cut-out »."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8757",
+      "question": "Une soupape de sécurité est réglée pour s'ouvrir à ____ livres par pouce carré (psi).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100"
+        },
+        {
+          "letter": "B",
+          "text": "150"
+        },
+        {
+          "letter": "C",
+          "text": "200"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "150",
+      "explanation": "La soupape de sécurité protège les réservoirs d'air et le reste du système de freinage pneumatique contre l'accumulation d'une pression d'air excessive. La soupape de sécurité est généralement réglée pour s'ouvrir à 150 psi."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11906",
+      "question": "Si vous freinez sur une chaussée sèche en roulant à 55 mph, combien de distance le délai de freinage ajoutera-t-il à votre distance d'arrêt totale ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "45 feet"
+        },
+        {
+          "letter": "C",
+          "text": "20 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "La distance d'arrêt totale pour les véhicules équipés de freins pneumatiques est constituée de quatre facteurs : la distance de perception, la distance de réaction, la distance de délai de freinage et la distance de freinage. Lors du freinage à une vitesse de 55 mph sur chaussée sèche, le délai de freinage peut ajouter environ 32 feet à la distance d'arrêt totale du véhicule."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8997",
+      "question": "Les freins peuvent se désajuster :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S'ils sont trop chauds."
+        },
+        {
+          "letter": "B",
+          "text": "Par temps plus froid."
+        },
+        {
+          "letter": "C",
+          "text": "S'ils sont utilisés."
+        },
+        {
+          "letter": "D",
+          "text": "S'ils deviennent mouillés."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "S'ils sont trop chauds.",
+      "explanation": "Les freins peuvent se désajuster rapidement, surtout s'ils sont utilisés au point de surchauffer. L'ajustement des freins doit être vérifié fréquemment."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9890",
+      "question": "Qu'utilisent les freins à air pour faire fonctionner les freins ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'air comprimé"
+        },
+        {
+          "letter": "B",
+          "text": "Air extérieur"
+        },
+        {
+          "letter": "C",
+          "text": "Air non comprimé"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "L'air comprimé",
+      "explanation": "De nombreux grands CMV sont équipés de freins à air. Un système de freinage à air utilise l'air comprimé pour fonctionner."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8762",
+      "question": "Un frein de secours doit être contrôlé par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Force mécanique."
+        },
+        {
+          "letter": "B",
+          "text": "La pression d'air."
+        },
+        {
+          "letter": "C",
+          "text": "Gravité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Force mécanique.",
+      "explanation": "Tous les camions, tracteurs-remorques et autobus doivent être équipés de freins de secours et de freins de stationnement. Parce que la pression d'air peut éventuellement fuir, les freins de secours et de stationnement doivent être maintenus par une force mécanique."
+    }
+  ]
+}

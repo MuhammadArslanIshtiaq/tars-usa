@@ -1,0 +1,660 @@
+{
+  "state": "New Jersey",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/new-jersey/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11107",
+      "question": "当踩下制动踏板时，气制动工作：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "立即。"
+        },
+        {
+          "letter": "B",
+          "text": "短暂延迟后。"
+        },
+        {
+          "letter": "C",
+          "text": "大约一分钟后。"
+        },
+        {
+          "letter": "D",
+          "text": "仅当控制面板上的绿色杆被向下推动时。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "短暂延迟后。",
+      "explanation": "在具有气制动的车辆中，踩下制动踏板后，空气通过管线流动并使制动工作需要半秒钟或更长时间。这与汽车和轻型和中型卡车中使用的液压制动形成对比，液压制动在踩下踏板时立即开始工作。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8868",
+      "question": "制动应用压力表：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "显示多少气压被应用到制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "显示制动系统中所用空气的温度。"
+        },
+        {
+          "letter": "C",
+          "text": "显示来自压缩机的空气压力。"
+        },
+        {
+          "letter": "D",
+          "text": "显示制动器被使用的次数。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "显示多少气压被应用到制动器。",
+      "explanation": "在气制动系统中，制动应用压力表显示有多少气压被应用到制动器。并非所有具有气制动系统的车辆都配有此表。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11127",
+      "question": "大多数重型车辆使用:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "单一制动系统。"
+        },
+        {
+          "letter": "B",
+          "text": "双气制动系统。"
+        },
+        {
+          "letter": "C",
+          "text": "三气制动系统。"
+        },
+        {
+          "letter": "D",
+          "text": "四气制动系统。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "双气制动系统。",
+      "explanation": "大多数重型车辆使用双重制动系统。双重系统有两个独立的制动系统，配有单套控制装置。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8859",
+      "question": "以下哪个不是气制动系统的一部分？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "行车制动系统"
+        },
+        {
+          "letter": "B",
+          "text": "驻车制动系统"
+        },
+        {
+          "letter": "C",
+          "text": "应急制动系统"
+        },
+        {
+          "letter": "D",
+          "text": "轴制动系统"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "轴制动系统",
+      "explanation": "气制动系统由三个独立的制动系统组成：行车制动系统、驻车制动系统和应急制动系统。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11716",
+      "question": "在下坡时，你应该制动直到你的速度比安全速度低____，然后释放制动踏板。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 mph"
+        },
+        {
+          "letter": "B",
+          "text": "10 mph"
+        },
+        {
+          "letter": "C",
+          "text": "15 mph"
+        },
+        {
+          "letter": "D",
+          "text": "20 mph"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "5 mph",
+      "explanation": "下坡行驶时，你应该按住制动踏板直到车速降至你的安全速度以下5 mph，然后释放制动踏板。重复此过程。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11722",
+      "question": "在理想驾驶条件下，以55 mph速度行驶的配备空气制动的车辆需要大约____才能完全停止",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 feet"
+        },
+        {
+          "letter": "B",
+          "text": "250英尺"
+        },
+        {
+          "letter": "C",
+          "text": "300 feet"
+        },
+        {
+          "letter": "D",
+          "text": "450 feet"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "450 feet",
+      "explanation": "车辆的总停止距离由感知距离、反应距离、制动滞后距离和制动距离组成。在包括所有这些因素的情况下，在理想驾驶条件下以55 mph速度行驶的空气制动装备车辆需要大约450 feet才能完全停止。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8860",
+      "question": "行驶制动系统：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "当您在正常驾驶时踩下制动踏板时应用并释放制动。"
+        },
+        {
+          "letter": "B",
+          "text": "应用和释放驻车制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "应用和释放应急制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "应用和释放车轴制动器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "当您在正常驾驶时踩下制动踏板时应用并释放制动。",
+      "explanation": "气制动包括三个独立的制动系统：行驶制动系统、驻车制动系统和应急制动系统。行驶制动系统在您正常驾驶时踩下制动踏板时应用并释放制动。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11103",
+      "question": "不必要地按压和释放制动踏板可能会:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "以比能被替换更快的速度释放空气。"
+        },
+        {
+          "letter": "B",
+          "text": "向制动系统添加更多空气。"
+        },
+        {
+          "letter": "C",
+          "text": "使制动踏板更难按压。"
+        },
+        {
+          "letter": "D",
+          "text": "产生大噪音。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "以比能被替换更快的速度释放空气。",
+      "explanation": "在配备空气制动的车辆上,不必要地按压和释放制动踏板可能会导致空气从制动系统中逸出的速度比压缩机能够更换的速度快。这可能会导致系统的空气压力过低,制动停止工作。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11714",
+      "question": "空气压缩机调节器将在空气罐的空气压力达到以下水平时停止压缩机泵气：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125 psi。"
+        },
+        {
+          "letter": "B",
+          "text": "100 psi。"
+        },
+        {
+          "letter": "C",
+          "text": "150 psi。"
+        },
+        {
+          "letter": "D",
+          "text": "80 psi。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "125 psi。",
+      "explanation": "当气罐的气压达到 125 psi 时，气压缩机调节器会停止压缩机泵气。这个气压水平被称为\"切断\"水平。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8883",
+      "question": "如果你的牵引车配备了ABS，但挂车没有配备，ABS:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "将不会有效。"
+        },
+        {
+          "letter": "B",
+          "text": "仍然会改善你的转向控制。"
+        },
+        {
+          "letter": "C",
+          "text": "会使折叠更容易发生。"
+        },
+        {
+          "letter": "D",
+          "text": "会让其他人看到你在制动。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "仍然会改善你的转向控制。",
+      "explanation": "在牵引车-挂车组合中，如果牵引车配备了防抱死制动系统(ABS)但挂车没有，ABS仍然会改善驾驶员的转向控制。驾驶员应该留意挂车，如果挂车开始摇摆，应该放松制动踏板。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10744",
+      "question": "在陡峭的下坡时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "应该使用空气制动。"
+        },
+        {
+          "letter": "B",
+          "text": "降低档位，然后使用制动器来补充发动机的制动效应。"
+        },
+        {
+          "letter": "C",
+          "text": "应该不断降低档位来代替使用制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "应该在路肩上行驶车辆。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "降低档位，然后使用制动器来补充发动机的制动效应。",
+      "explanation": "在下坡路段，发动机的制动效应应该是您控制速度的主要方法。在开始下坡前降低档位，并将制动器保留用于可能因路况或交通条件而需要的额外减速或停止。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10234",
+      "question": "使用空气制动系统的车辆驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "按下制动踏板。"
+        },
+        {
+          "letter": "B",
+          "text": "向自己提起制动踏板。"
+        },
+        {
+          "letter": "C",
+          "text": "推入制动旋钮。"
+        },
+        {
+          "letter": "D",
+          "text": "拉出制动旋钮。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "按下制动踏板。",
+      "explanation": "要在配备空气制动系统的车辆中进行正常停止，请向下推动制动踏板并控制压力，使车辆平稳、安全地停止。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11700",
+      "question": "双空气制动系统中的空气压力应在以下时间内从85至100 psi增加：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "两分钟"
+        },
+        {
+          "letter": "B",
+          "text": "15秒。"
+        },
+        {
+          "letter": "C",
+          "text": "10分钟。"
+        },
+        {
+          "letter": "D",
+          "text": "45秒"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "45秒",
+      "explanation": "检查配有双气制动系统的车辆时，您应该等待气压在主系统和副系统中从85到100 psi增加。这应该需要约45秒。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11708",
+      "question": "双空气制动系统中的两个系统共享：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "空气储罐"
+        },
+        {
+          "letter": "B",
+          "text": "软管"
+        },
+        {
+          "letter": "C",
+          "text": "气管"
+        },
+        {
+          "letter": "D",
+          "text": "空气压缩机。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "空气压缩机。",
+      "explanation": "双空气制动系统中的两个系统共享单个空气压缩机。如果空气压缩机损坏，两个系统都将无法正常运行。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8878",
+      "question": "在卡车和公共汽车上，ABS故障灯位于何处？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在驾驶员车门上"
+        },
+        {
+          "letter": "B",
+          "text": "在仪表板上"
+        },
+        {
+          "letter": "C",
+          "text": "在乘客车门外侧"
+        },
+        {
+          "letter": "D",
+          "text": "在引擎盖下"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在仪表板上",
+      "explanation": "配备防抱死制动系统（ABS）的拖拉机、卡车和公共汽车在其仪表板上有黄色故障灯。拖车在其左侧（前角或后角）有黄色ABS故障灯。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10360",
+      "question": "气制动是:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停止大型车辆的有效工具。"
+        },
+        {
+          "letter": "B",
+          "text": "在大型车辆上被禁止。"
+        },
+        {
+          "letter": "C",
+          "text": "仅在恶劣天气下有效。"
+        },
+        {
+          "letter": "D",
+          "text": "改善燃油效率的工具。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "停止大型车辆的有效工具。",
+      "explanation": "只要制动器得到妥善维护,使用气制动是停止大型重型车辆的安全有效方法。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10988",
+      "question": "罐体背书是:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅在运输气体时需要。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在运输液体时需要。"
+        },
+        {
+          "letter": "C",
+          "text": "用于运输液体和气体时使用。"
+        },
+        {
+          "letter": "D",
+          "text": "运输危险品时可选。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "用于运输液体和气体时使用。",
+      "explanation": "一般来说，驾驶用于运输液体或气体的油罐车需要持有油罐背书。这适用于有害物质和无害物质。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8993",
+      "question": "双空气制动系统：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "有一个气动制动系统，但使用两组控制装置。"
+        },
+        {
+          "letter": "B",
+          "text": "卡车每一侧有一个气动制动系统。"
+        },
+        {
+          "letter": "C",
+          "text": "每个轮子有两个制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "有两个独立的气动制动系统，但使用一组控制装置。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "有两个独立的气动制动系统，但使用一组控制装置。",
+      "explanation": "双回路制动系统有两个独立的气动制动系统，使用一组制动控制装置。一个系统通常操作后轴或多个后轴上的常规制动。另一个系统操作前轴上的常规制动。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11465",
+      "question": "在应用泄漏测试期间，双组合车辆的最大泄漏率为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每分钟10 psi"
+        },
+        {
+          "letter": "B",
+          "text": "每分钟8 psi"
+        },
+        {
+          "letter": "C",
+          "text": "每分钟6 psi"
+        },
+        {
+          "letter": "D",
+          "text": "每分钟4 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "每分钟4 psi",
+      "explanation": "了解您的特定车辆安全的最大空气损失率很重要。双组合车辆在应用泄漏测试中的泄漏率不应超过每分钟4 psi。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10232",
+      "question": "使用防抱死制动系统(ABS)：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "缩短停止距离。"
+        },
+        {
+          "letter": "B",
+          "text": "缩短制动响应时间。"
+        },
+        {
+          "letter": "C",
+          "text": "提供更少的控制。"
+        },
+        {
+          "letter": "D",
+          "text": "提供更多控制。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "提供更多控制。",
+      "explanation": "防抱死制动系统(ABS)有助于在紧急制动时防止车轮抱死。虽然它提供更好的控制，但不一定会缩短车辆的停止距离。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8872",
+      "question": "前制动限制阀的目的是:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "防止前轮打滑。"
+        },
+        {
+          "letter": "B",
+          "text": "防止前轮过热。"
+        },
+        {
+          "letter": "C",
+          "text": "造成相等的制动使用。"
+        },
+        {
+          "letter": "D",
+          "text": "在施加制动时消除不确定性。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "防止前轮打滑。",
+      "explanation": "某些装有气制动系统的旧车辆配有前轮制动限制阀。这些阀门的目的是降低前轮抱死的风险。但是，研究表明这些装置是不必要的，因此应将其保持在\"正常\"位置。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "10917",
+      "question": "应急制动是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "卡车上不需要。"
+        },
+        {
+          "letter": "B",
+          "text": "仅挂车上需要。"
+        },
+        {
+          "letter": "C",
+          "text": "牵引车上必需。"
+        },
+        {
+          "letter": "D",
+          "text": "仅在运输危险物品时需要。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "牵引车上必需。",
+      "explanation": "所有卡车、牵引车和公交车必须配备应急制动和驻车制动。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "10559",
+      "question": "卡车的哪个部分连接到空气压缩机？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "变速器"
+        },
+        {
+          "letter": "B",
+          "text": "发动机"
+        },
+        {
+          "letter": "C",
+          "text": "散热器"
+        },
+        {
+          "letter": "D",
+          "text": "车门闩"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "发动机",
+      "explanation": "在气制动系统中，空气压缩机通过齿轮或 V 形皮带连接到发动机。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8877",
+      "question": "ABS故障灯是什么颜色？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "橙色"
+        },
+        {
+          "letter": "B",
+          "text": "黄色"
+        },
+        {
+          "letter": "C",
+          "text": "绿色"
+        },
+        {
+          "letter": "D",
+          "text": "蓝色"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "黄色",
+      "explanation": "配备防抱死制动系统(ABS)的车辆有黄色故障灯。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "10960",
+      "question": "排放空气罐时会清除什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "水和油"
+        },
+        {
+          "letter": "B",
+          "text": "氨"
+        },
+        {
+          "letter": "C",
+          "text": "木头"
+        },
+        {
+          "letter": "D",
+          "text": "氯气"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "水和油",
+      "explanation": "在气制动系统中,空气储存罐配备有排水装置,以允许水和压缩机油被排出。如果水和油在系统中积累,会损坏制动器。"
+    }
+  ]
+}

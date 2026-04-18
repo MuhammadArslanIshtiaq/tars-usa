@@ -1,0 +1,512 @@
+{
+  "state": "New York",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #2",
+  "slug": "intermediate-practice-test-2",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "403",
+      "question": "Lorsque la route est marquée d'une ligne jaune continue et d'une ligne jaune discontinue, avec la ligne discontinue à côté de votre voie, vous pouvez dépasser :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniquement en cas d'urgence."
+        },
+        {
+          "letter": "B",
+          "text": "Si vous êtes sur une autoroute."
+        },
+        {
+          "letter": "C",
+          "text": "Si la circulation est dégagée."
+        },
+        {
+          "letter": "D",
+          "text": "Uniquement à une intersection."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Si la circulation est dégagée.",
+      "explanation": "Lorsqu'il y a une ligne jaune continue et une ligne jaune discontinue au centre de la route et que la ligne discontinue est à côté de votre voie, vous pouvez franchir les lignes pour dépasser s'il n'y a pas de circulation en sens inverse."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "389",
+      "question": "Quelles sont les couleurs des panneaux d'avertissement indiquant les dangers à venir?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lettres ou symboles noirs sur fond blanc"
+        },
+        {
+          "letter": "B",
+          "text": "Lettres ou symboles noirs sur fond jaune"
+        },
+        {
+          "letter": "C",
+          "text": "Lettres ou symboles blancs sur fond bleu"
+        },
+        {
+          "letter": "D",
+          "text": "Lettres ou symboles blancs sur fond vert"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Lettres ou symboles noirs sur fond jaune",
+      "explanation": "Les panneaux d'avertissement qui indiquent les dangers approchants sont généralement jaunes avec des lettres ou des symboles noirs. Les panneaux d'avertissement dans les zones de travaux sont orange avec des lettres ou des symboles noirs."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1037",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/tennessee-traffic_blending.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devriez vous arrêter pour autre trafic."
+        },
+        {
+          "letter": "B",
+          "text": "Le trafic entre d'une autre route et vous devriez laisser un espace supplémentaire pour que les conducteurs se fondent en toute sécurité dans le flux de trafic."
+        },
+        {
+          "letter": "C",
+          "text": "Le trafic entre d'une autre route et vous devriez rester à droite."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Le trafic entre d'une autre route et vous devriez laisser un espace supplémentaire pour que les conducteurs se fondent en toute sécurité dans le flux de trafic.",
+      "explanation": "Ce panneau vous alerte sur la possibilité du trafic qui se fond dans le courant principal de circulation. Après avoir vérifié votre côté et votre arrière, vous devriez vous déplacer dans une autre voie, si possible, pour permettre aux conducteurs qui se fusionnent un chemin dégagé."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "437",
+      "question": "Avant de quitter une place de stationnement parallèle au trottoir, vous devez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sonnez votre klaxon."
+        },
+        {
+          "letter": "B",
+          "text": "Activez vos feux de détresse."
+        },
+        {
+          "letter": "C",
+          "text": "Recherchez la circulation en tournant la tête."
+        },
+        {
+          "letter": "D",
+          "text": "Recherchez la circulation en utilisant uniquement votre rétroviseur intérieur."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Recherchez la circulation en tournant la tête.",
+      "explanation": "Avant de quitter une place de stationnement pour vous réinsérer dans la circulation, vous devez tourner la tête pour regarder par-dessus votre épaule et vérifier par la fenêtre la présence de piétons, cyclistes, motocyclistes et autres véhicules qui pourraient devenir un danger."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "2067",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/school.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devez conduire lentement et klaxonner."
+        },
+        {
+          "letter": "B",
+          "text": "Un arrêt d'autobus est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Vous entrez dans le parking d'une école."
+        },
+        {
+          "letter": "D",
+          "text": "Une zone scolaire est à proximité."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Une zone scolaire est à proximité.",
+      "explanation": "Les panneaux d'avertissement sont utilisés pour avertir les conducteurs des conditions dangereuses à venir et sont généralement jaunes avec des marquages noirs. Ce panneau indique aux conducteurs qu'ils s'approchent d'une zone scolaire et qu'ils doivent ralentir et surveiller les enfants."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1288",
+      "question": "Les marquages à double ligne jaune continue au centre d'une route indiquent que le dépassement est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Autorisé des deux directions."
+        },
+        {
+          "letter": "B",
+          "text": "Autorisé uniquement dans votre direction de déplacement."
+        },
+        {
+          "letter": "C",
+          "text": "Non autorisé de chaque direction."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Non autorisé de chaque direction.",
+      "explanation": "Une ligne jaune double au centre signifie qu'il est interdit à la circulation de chaque direction de traverser la ligne centrale pour dépasser."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "464",
+      "question": "Les personnes conduisant sous l'influence de l'alcool sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas un problème dans l'État de New York."
+        },
+        {
+          "letter": "B",
+          "text": "Un problème pour tout conducteur."
+        },
+        {
+          "letter": "C",
+          "text": "Un problème d'application de la loi policière uniquement."
+        },
+        {
+          "letter": "D",
+          "text": "Un problème seulement pour ceux qui boivent."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Un problème pour tout conducteur.",
+      "explanation": "Tout conducteur altéré ou intoxiqué est dangereux, à la fois pour lui-même et pour les autres usagers de la route."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1087",
+      "question": "Quand vous êtes talonnné :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Changez de voie vers la droite, s'il y a une voie libre à votre droite."
+        },
+        {
+          "letter": "B",
+          "text": "S'il n'y a pas de voie libre à votre droite, attendez que la route soit dégagée devant vous et ralentissez lentement pour encourager le conducteur qui vous talonne à vous dépasser."
+        },
+        {
+          "letter": "C",
+          "text": "Ne ralentissez jamais brusquement."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Si un autre conducteur vous talonne et qu'il y a une voie de droite, changez de voie vers la droite. S'il n'y a pas de voie de droite, attendez que la route devant vous soit dégagée, puis ralentissez lentement. Cela encouragera le conducteur qui vous talonne à vous dépasser. Ne ralentissez jamais brusquement car cela ne ferait qu'augmenter le risque que votre véhicule soit heurté par l'arrière."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "354",
+      "question": "Si un conducteur venant en sens inverse se dirige vers vous dans votre voie, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sonnez votre klaxon, dirigez-vous à droite, et accélérez."
+        },
+        {
+          "letter": "B",
+          "text": "Sonnez votre klaxon, dirigez-vous à gauche, et freinez."
+        },
+        {
+          "letter": "C",
+          "text": "Sonnez votre klaxon, dirigez-vous à droite, et freinez."
+        },
+        {
+          "letter": "D",
+          "text": "Restez au centre de votre voie, sonnez votre klaxon, et freinez."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sonnez votre klaxon, dirigez-vous à droite, et freinez.",
+      "explanation": "Si un autre véhicule s'approche de vous en collision frontale dans votre voie, vous devriez d'abord sonner votre klaxon pour attirer l'attention. Si l'autre conducteur ne se décale pas, essayez de vous échapper vers la droite. Si vous vous écartez vers la gauche et l'autre conducteur se corrige à la dernière seconde, vous allez quand même vous crasher. Si une collision est inévitable, freinez fermement et régulièrement. Chaque mile par heure que vous ralentissez réduira l'impact."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "116",
+      "question": "Vous avez heurté un véhicule garé et ne trouvez pas le propriétaire. Que devez-vous faire ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Appelez votre assurance lorsque vous rentrez à la maison."
+        },
+        {
+          "letter": "B",
+          "text": "Attendre le retour du propriétaire."
+        },
+        {
+          "letter": "C",
+          "text": "Laisser une note avec votre nom et votre adresse sur le véhicule garé."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Laisser une note avec votre nom et votre adresse sur le véhicule garé.",
+      "explanation": "Si vous heurtez un véhicule garé ou une autre propriété, vous devez laisser une note avec votre nom, votre numéro de téléphone et votre adresse solidement attachée au véhicule ou à la propriété que vous avez heurtés."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "326",
+      "question": "Pour dépasser un véhicule plus lent sur une route à deux voies bidirectionnelle, vous devez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne pas franchir la ligne médiane."
+        },
+        {
+          "letter": "B",
+          "text": "Faites clignoter vos phares au trafic en sens inverse."
+        },
+        {
+          "letter": "C",
+          "text": "Utilisez l'accotement."
+        },
+        {
+          "letter": "D",
+          "text": "Utilisez la voie réservée au trafic en sens inverse."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Utilisez la voie réservée au trafic en sens inverse.",
+      "explanation": "Le dépassement sur une route à deux voies bidirectionnelle nécessite un bon jugement car vous devez utiliser la voie appartenant au trafic en sens inverse pour terminer votre dépassement. Ne dépassez que si vous pouvez le faire en toute sécurité et légalement."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1072",
+      "question": "Un feu de circulation rouge clignotant signifie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La même chose qu'un panneau d'arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Le feu de circulation est défaillant."
+        },
+        {
+          "letter": "C",
+          "text": "Vous n'êtes pas obligé de vous arrêter complètement."
+        },
+        {
+          "letter": "D",
+          "text": "Les conditions de circulation sont dangereuses."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La même chose qu'un panneau d'arrêt.",
+      "explanation": "Un feu rouge clignotant signifie la même chose qu'un panneau d'arrêt. Si vous rencontrez un feu rouge clignotant, vous devez vous arrêter complètement, céder le passage à la circulation et aux piétons appropriés, et ne procéder que lorsqu'il est sûr de le faire."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "2316",
+      "question": "Quand vous vous approchez d'un feu de circulation rouge clignotant, les conducteurs devraient:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traversez l'intersection s'il n'y a pas de trafic transversal."
+        },
+        {
+          "letter": "B",
+          "text": "Continuer à conduire, car vous avez le droit de passage."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous si un agent de police est à proximité."
+        },
+        {
+          "letter": "D",
+          "text": "Traitez le feu comme un panneau d'arrêt."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Traitez le feu comme un panneau d'arrêt.",
+      "explanation": "Les feux rouges clignotants sont utilisés aux intersections dangereuses. Traitez-les comme des panneaux d'arrêt."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "450",
+      "question": "Que se passe-t-il si vous refusez de passer un test chimique ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il n'y a aucune preuve pour vous reconnaître coupable de conduite en état d'ivresse."
+        },
+        {
+          "letter": "B",
+          "text": "Vous ne pouvez pas être arrêté pour conduite en état d'ivresse."
+        },
+        {
+          "letter": "C",
+          "text": "Votre permis vous sera retiré."
+        },
+        {
+          "letter": "D",
+          "text": "Aucun de ces choix."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Votre permis vous sera retiré.",
+      "explanation": "New York a une loi du consentement implicite, ce qui signifie qu'en conduisant dans l'État, vous avez consenti à un test chimique si vous êtes arrêté pour une violation liée à l'alcool ou aux drogues. Si vous refusez de passer le test, votre permis de conduire sera suspendu. Si une audience du DMV confirme ultérieurement que vous avez refusé le test, votre permis de conduire sera révoqué, même si vous êtes reconnu non coupable de l'accusation originale."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9",
+      "question": "Vous conduisez dans une rue de la ville et voyez un véhicule d'urgence avec des feux clignotants derrière vous. Que devriez-vous faire?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dirigez-vous vers le bord droit de la route et ralentissez."
+        },
+        {
+          "letter": "B",
+          "text": "Dirigez-vous vers le bord droit de la route et arrêtez-vous."
+        },
+        {
+          "letter": "C",
+          "text": "Restez dans votre voie, ralentissez et laissez-le passer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dirigez-vous vers le bord droit de la route et arrêtez-vous.",
+      "explanation": "Vous devez céder le droit de passage à tout véhicule d'urgence utilisant sa sirène et ses feux. Dirigez-vous vers le bord droit de la route et arrêtez-vous jusqu'à ce que le véhicule d'urgence soit passé. Si vous êtes dans une intersection, traversez d'abord l'intersection, puis arrêtez-vous."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "413",
+      "question": "Vous avez la priorité lorsque vous êtes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entrant dans un carrefour giratoire."
+        },
+        {
+          "letter": "B",
+          "text": "Reculant hors d'une allée."
+        },
+        {
+          "letter": "C",
+          "text": "Quittant une place de stationnement."
+        },
+        {
+          "letter": "D",
+          "text": "Déjà dans un carrefour giratoire."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Déjà dans un carrefour giratoire.",
+      "explanation": "Un conducteur qui entre dans un carrefour giratoire doit céder la priorité aux conducteurs déjà dans le carrefour. Les véhicules entrant sur une route depuis une allée doivent céder la priorité aux piétons et aux véhicules déjà sur la route. En quittant une place de stationnement, vous devez céder la priorité à la circulation venant en sens inverse."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "467",
+      "question": "Les cyclistes diffèrent des automobilistes en ce qu'ils ne sont pas tenus de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obéir aux mêmes lois de la circulation."
+        },
+        {
+          "letter": "B",
+          "text": "Signaler tous les virages."
+        },
+        {
+          "letter": "C",
+          "text": "Signaler les accidents entraînant des blessures graves."
+        },
+        {
+          "letter": "D",
+          "text": "Assurer le vélo."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Assurer le vélo.",
+      "explanation": "Les cyclistes doivent obéir aux mêmes règles de la route que les conducteurs de véhicules à moteur. Tout accident de vélo causant une mort ou une blessure grave doit être signalé au DMV dans les 10 jours suivant l'incident."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1509",
+      "question": "La meilleure façon d'éviter l'aquaplanage est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entretenez correctement vos pneus."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentissez quand les routes sont mouillées ou enneigées."
+        },
+        {
+          "letter": "C",
+          "text": "Attention à l'eau stagnante ou aux flaques d'eau."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Quand les routes sont mouillées, les voitures ont besoin d'une plus longue distance pour s'arrêter et peuvent déraper dans les virages rapides. N'utilisez pas le régulateur de vitesse en cas de conditions mouillées ou glaciales. Ralentissez et conduisez avec prudence."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "776",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/stop_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panneau d'arrêt à l'avance."
+        },
+        {
+          "letter": "B",
+          "text": "Route secondaire."
+        },
+        {
+          "letter": "C",
+          "text": "Avertissement de passage à niveau."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Panneau d'arrêt à l'avance.",
+      "explanation": "Ce panneau indique qu'un panneau d'arrêt est à l'avance."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "440",
+      "question": "Les panneaux de vitesse minimale sont conçus pour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maintenir une circulation fluide."
+        },
+        {
+          "letter": "B",
+          "text": "Montrer les conditions routières locales actuelles."
+        },
+        {
+          "letter": "C",
+          "text": "Tester les futurs besoins des feux de circulation."
+        },
+        {
+          "letter": "D",
+          "text": "Assurer la sécurité des piétons."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Maintenir une circulation fluide.",
+      "explanation": "Pour maintenir une circulation fluide, certaines autoroutes ont des limites de vitesse minimale. Si vous conduisez plus lentement que la limite de vitesse minimale, vous pouvez arrêter la circulation et créer des conditions dangereuses. Même s'il n'y a pas de limite de vitesse minimale affichée, ceux qui conduisent trop lentement peuvent être dangereux et peuvent recevoir une contravention."
+    }
+  ]
+}

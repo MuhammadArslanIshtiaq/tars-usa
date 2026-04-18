@@ -1,0 +1,795 @@
+{
+  "state": "Florida",
+  "category": "car",
+  "quizName": "Easy Practice Test #3",
+  "slug": "easy-practice-test-3",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "2301",
+      "question": "A funeral procession has the right-of-way. Who must yield to it?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The funeral procession"
+        },
+        {
+          "letter": "B",
+          "text": "A pedestrian"
+        },
+        {
+          "letter": "C",
+          "text": "Another driver"
+        },
+        {
+          "letter": "D",
+          "text": "A bicyclist"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The funeral procession",
+      "explanation": "All drivers, pedestrians, and bicyclists must let funeral processions pass. When the first vehicle in the procession enters an intersection, all other vehicles in the procession can follow through, even if traffic lights say to stop."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "357",
+      "question": "When driving on slick roads, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Take turns more slowly than usual."
+        },
+        {
+          "letter": "B",
+          "text": "Change lanes quickly."
+        },
+        {
+          "letter": "C",
+          "text": "Speed up."
+        },
+        {
+          "letter": "D",
+          "text": "Brake hard."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Take turns more slowly than usual.",
+      "explanation": "Slippery roads are dangerous at any speed, but especially in turns and curves. Slow down more than normal when taking turns on wet or icy roads."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "305",
+      "question": "If you feel tired while driving, what is the best thing to do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drink coffee."
+        },
+        {
+          "letter": "B",
+          "text": "Open your window."
+        },
+        {
+          "letter": "C",
+          "text": "Stop driving."
+        },
+        {
+          "letter": "D",
+          "text": "Turn on the radio."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Stop driving.",
+      "explanation": "Driving while tired is as dangerous as driving drunk. If you start to feel tired, stop driving right away."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1605",
+      "question": "When should you look over your shoulder to check your blind spot?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When pulling toward or away from a curb."
+        },
+        {
+          "letter": "B",
+          "text": "When turning left or right."
+        },
+        {
+          "letter": "C",
+          "text": "When changing lanes."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "Check your blind spot every time you move your vehicle. This includes turning, changing lanes, and pulling toward or away from a curb."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1625",
+      "question": "When should you NOT pass another vehicle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On a hill or curve."
+        },
+        {
+          "letter": "B",
+          "text": "When school bus lights are flashing."
+        },
+        {
+          "letter": "C",
+          "text": "When approaching an intersection."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "Never pass on hills, curves, or at intersections where you cannot see clearly. Do not pass a school bus with flashing red lights unless you are on the opposite side of a divided road. Also avoid passing near railroad crossings, bridges, and in no-passing zones."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1544",
+      "question": "What should you do when driving in fog?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn on your low beam headlights."
+        },
+        {
+          "letter": "B",
+          "text": "Turn on your hazard lights."
+        },
+        {
+          "letter": "C",
+          "text": "Drive at the maximum speed limit."
+        },
+        {
+          "letter": "D",
+          "text": "Do not drive faster than 10 miles per hour."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Turn on your low beam headlights.",
+      "explanation": "Use your low beam headlights in fog. High beams reflect off the fog and make it harder to see. You must use headlights when you cannot see 500 feet ahead."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "576",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/arizona-shap_turn_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The road ahead turns sharply right, then left."
+        },
+        {
+          "letter": "B",
+          "text": "The road ahead turns sharply left, then right."
+        },
+        {
+          "letter": "C",
+          "text": "The road ahead curves to the left."
+        },
+        {
+          "letter": "D",
+          "text": "Construction ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The road ahead turns sharply right, then left.",
+      "explanation": "This sign warns that the road will make a sharp right turn followed by a sharp left turn."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "539",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Watch for drunk drivers."
+        },
+        {
+          "letter": "B",
+          "text": "Curves ahead."
+        },
+        {
+          "letter": "C",
+          "text": "The road is slippery when wet."
+        },
+        {
+          "letter": "D",
+          "text": "Apply your brakes quickly."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The road is slippery when wet.",
+      "explanation": "This sign warns that the road surface becomes slippery when it is wet."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1351",
+      "question": "Which statement about passing is true?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Signal at least 100 feet before changing lanes to pass. Make sure no traffic is coming toward you."
+        },
+        {
+          "letter": "B",
+          "text": "Use your mirrors and look over your left shoulder to check your blind spot when passing on the left."
+        },
+        {
+          "letter": "C",
+          "text": "When passing, wait until you see both headlights of the other car in your rearview mirror before moving back to your lane."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "Always signal at least 100 feet before you pass. Check your mirrors and look over your shoulder for blind spots. Wait until you can see both headlights of the passed car in your rearview mirror before returning to your lane."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1726",
+      "question": "How can you prevent hydroplaning?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep your tires in good condition with good tread."
+        },
+        {
+          "letter": "B",
+          "text": "Keep your tires filled to the correct pressure."
+        },
+        {
+          "letter": "C",
+          "text": "Slow down when it is raining."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "To prevent hydroplaning, make sure your tires have good tread depth and are filled to the correct pressure. Slow down in the rain. Hydroplaning happens most often at high speeds."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1682",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/divided_highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One-way traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Divided highway ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Two-way traffic."
+        },
+        {
+          "letter": "D",
+          "text": "Keep left."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Divided highway ahead.",
+      "explanation": "Warning signs are diamond-shaped with black markings on a yellow background. They alert you to upcoming hazards. This sign warns that a divided highway is ahead."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "259",
+      "question": "Drivers may not pass from either side of a ____ centerline.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Combination solid and broken yellow"
+        },
+        {
+          "letter": "B",
+          "text": "Single broken yellow"
+        },
+        {
+          "letter": "C",
+          "text": "Double solid yellow"
+        },
+        {
+          "letter": "D",
+          "text": "Single broken white"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Double solid yellow",
+      "explanation": "A double solid yellow line means no driver may cross it to pass, no matter which direction they are traveling."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1509",
+      "question": "The best way to avoid hydroplaning is to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep your tires properly maintained."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down when roads are wet or slushy."
+        },
+        {
+          "letter": "C",
+          "text": "Watch out for standing water or puddles."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "To avoid hydroplaning, keep your tires in good condition, slow down on wet roads, and avoid standing water. Do not use cruise control on wet or icy roads."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "2235",
+      "question": "If worried, nervous, angry, or crying, a driver:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Will drive no differently than they would if they were thinking more clearly."
+        },
+        {
+          "letter": "B",
+          "text": "Can drive faster because they are more in touch with their senses."
+        },
+        {
+          "letter": "C",
+          "text": "Should take the time to focus on driving before starting the engine."
+        },
+        {
+          "letter": "D",
+          "text": "Should call a friend to vent while driving."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Should take the time to focus on driving before starting the engine.",
+      "explanation": "Strong emotions can distract you from driving because your mind is on something else. Calm down and focus before you start driving."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "2282",
+      "question": "A driver entering public traffic from a driveway or private road:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has the right-of-way."
+        },
+        {
+          "letter": "B",
+          "text": "Should yield to drivers already on the public road."
+        },
+        {
+          "letter": "C",
+          "text": "May force their way into traffic."
+        },
+        {
+          "letter": "D",
+          "text": "Can assume that other drivers will change lanes to make room."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Should yield to drivers already on the public road.",
+      "explanation": "When entering traffic from a driveway or private road, yield to drivers already on the public road. Merge safely when it is clear."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "592",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/low_clearance.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Divided highway begins."
+        },
+        {
+          "letter": "B",
+          "text": "A steep grade is ahead."
+        },
+        {
+          "letter": "C",
+          "text": "The overpass ahead has a low clearance."
+        },
+        {
+          "letter": "D",
+          "text": "Two lanes of traffic moving in opposite directions are about to merge."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The overpass ahead has a low clearance.",
+      "explanation": "This sign warns that the overpass ahead has low clearance. Do not proceed if your vehicle is taller than the height shown on the sign."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "615",
+      "question": "Alcohol causes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loss of concentration."
+        },
+        {
+          "letter": "B",
+          "text": "Poor coordination."
+        },
+        {
+          "letter": "C",
+          "text": "Slower judgment."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "Even small amounts of alcohol harm your vision, judgment, concentration, and coordination."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "454",
+      "question": "A driver who is taking a non-prescription drug should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Read the labels on the drug before driving."
+        },
+        {
+          "letter": "B",
+          "text": "Drink alcohol instead."
+        },
+        {
+          "letter": "C",
+          "text": "Continue to drive regardless of any warning labels."
+        },
+        {
+          "letter": "D",
+          "text": "Drive only during daylight hours."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Read the labels on the drug before driving.",
+      "explanation": "Over-the-counter medications, including cold and allergy remedies, can affect your ability to drive safely. Check the label for warnings before driving. Ask your doctor or pharmacist if you are unsure."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "642",
+      "question": "The most effective safety restraints in a traffic crash are:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only a lap and shoulder belt."
+        },
+        {
+          "letter": "B",
+          "text": "Only an airbag."
+        },
+        {
+          "letter": "C",
+          "text": "Both a lap/shoulder belt and an airbag."
+        },
+        {
+          "letter": "D",
+          "text": "No safety restraints."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Both a lap/shoulder belt and an airbag.",
+      "explanation": "Safety belts double your chance of surviving a crash and greatly reduce serious injury risk. Airbags used with safety belts provide extra protection in front-end crashes. Wear both lap and shoulder belts."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "444",
+      "question": "Seat belts are most effective when they are worn by:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The person driving the car."
+        },
+        {
+          "letter": "B",
+          "text": "Passengers when they are on a long drive."
+        },
+        {
+          "letter": "C",
+          "text": "All occupants of a car being driven on an expressway."
+        },
+        {
+          "letter": "D",
+          "text": "All occupants of a car every time the car is driven."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All occupants of a car every time the car is driven.",
+      "explanation": "Everyone in your vehicle should wear a seat belt every time you drive. Without a seat belt, a person becomes a flying object in a crash and can injure others in the vehicle."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1354",
+      "question": "You are approaching a railroad crossing with a crossbuck sign but no gates or flashing lights. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Approach with extreme caution and cross only when you are sure no train is coming."
+        },
+        {
+          "letter": "B",
+          "text": "Turn down your radio to listen for an approaching train."
+        },
+        {
+          "letter": "C",
+          "text": "Only proceed if a flagger tells you it is safe."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "Approach all railroad crossings with extreme caution. Cross only when you are sure no train is coming from either direction. If a flagger is present, follow their instructions."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "970",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/t_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T intersection ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Lane is shifting."
+        },
+        {
+          "letter": "C",
+          "text": "Side road ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Do not block the intersection."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "T intersection ahead.",
+      "explanation": "Warning signs are usually yellow with black markings. This sign warns you that a T intersection is coming. Be ready to turn left or right."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "388",
+      "question": "A diamond-shaped sign is a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Road hazard warning sign."
+        },
+        {
+          "letter": "B",
+          "text": "Interstate route sign."
+        },
+        {
+          "letter": "C",
+          "text": "School crossing sign."
+        },
+        {
+          "letter": "D",
+          "text": "Speed limit sign."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Road hazard warning sign.",
+      "explanation": "Warning signs are diamond-shaped and yellow. In work areas, they may be orange. These signs warn you about hazards ahead or special rules in the area."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "280",
+      "question": "When sharing the road with a truck, remember that trucks generally:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Need longer distances to stop than smaller vehicles."
+        },
+        {
+          "letter": "B",
+          "text": "Need less time to pass on a downhill slope than smaller vehicles."
+        },
+        {
+          "letter": "C",
+          "text": "Have a tighter turning radius than smaller vehicles."
+        },
+        {
+          "letter": "D",
+          "text": "Need less time to pass on an uphill slope than smaller vehicles."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Need longer distances to stop than smaller vehicles.",
+      "explanation": "Because of their size and weight, trucks need longer distances to stop than smaller vehicles do."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "317",
+      "question": "If your car breaks down on a highway, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stay in your car and wait for help."
+        },
+        {
+          "letter": "B",
+          "text": "Turn on your four-way flashers to warn other drivers."
+        },
+        {
+          "letter": "C",
+          "text": "Honk your horn at passing cars."
+        },
+        {
+          "letter": "D",
+          "text": "Flash your headlights at oncoming traffic."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Turn on your four-way flashers to warn other drivers.",
+      "explanation": "If your vehicle breaks down on the highway, turn on your hazard flashers. Exit the road carefully and park where other drivers can easily see you. Open your hood to show your vehicle is disabled."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "2298",
+      "question": "When a school bus stops with its stop arm extended, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Come to a complete stop and wait."
+        },
+        {
+          "letter": "B",
+          "text": "Honk your horn before passing on the left."
+        },
+        {
+          "letter": "C",
+          "text": "Keep going when you think the children are done exiting."
+        },
+        {
+          "letter": "D",
+          "text": "Pass the bus before the door opens."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Come to a complete stop and wait.",
+      "explanation": "When a school bus displays its stop signal, you must come to a complete stop. Do not move until the stop arm is lowered."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "297",
+      "question": "You should honk your horn when:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You are driving through an intersection."
+        },
+        {
+          "letter": "B",
+          "text": "You are passing a bicyclist."
+        },
+        {
+          "letter": "C",
+          "text": "You see a child about to run into the street."
+        },
+        {
+          "letter": "D",
+          "text": "You are parallel parking."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "You see a child about to run into the street.",
+      "explanation": "Use your horn as a warning when another driver or pedestrian may not see you. For example, honk if a child starts to run into the street in front of you."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "482",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/new-york-hospital_emergency_services_to_the_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Highway changes to the right ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Hiking trails to the right ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Hotel to the right ahead."
+        },
+        {
+          "letter": "D",
+          "text": "Hospital to the right ahead."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Hospital to the right ahead.",
+      "explanation": "This sign tells you that a hospital with emergency services is located to the right."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "2268",
+      "question": "When a drawbridge signal shows red, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Come to a complete stop."
+        },
+        {
+          "letter": "B",
+          "text": "Speed up quickly."
+        },
+        {
+          "letter": "C",
+          "text": "Continue slowly and carefully."
+        },
+        {
+          "letter": "D",
+          "text": "Stop only if you see a boat."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Come to a complete stop.",
+      "explanation": "A red drawbridge signal means you must come to a complete stop at the marked stop line. The bridge is operating and the road is closed to all traffic."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1361",
+      "question": "You must stop at a railroad crossing when:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A flagger directs you to stop."
+        },
+        {
+          "letter": "B",
+          "text": "A stop sign controls the crossing."
+        },
+        {
+          "letter": "C",
+          "text": "Flashing red signals and gates are present and working."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "You must stop at a railroad crossing when a flagger tells you to, when a stop sign is posted, or when flashing red signals and gates are operating."
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "state": "California",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/california/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11673",
+      "question": "当踩下制动踏板并转动S凸轮时，S凸轮：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "将制动蹄压向制动鼓的内侧。"
+        },
+        {
+          "letter": "B",
+          "text": "将制动鼓紧固在车轴上。"
+        },
+        {
+          "letter": "C",
+          "text": "将制动衬片压向轮胎。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "将制动蹄压向制动鼓的内侧。",
+      "explanation": "当踩下制动踏板并转动S凸轮时，S凸轮将制动蹄压向制动鼓的内侧。这会产生摩擦力，并会使车辆减速。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11887",
+      "question": "在静态泄漏测试中，双组合车辆的最大安全泄漏率是多少？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一分钟内3 psi。"
+        },
+        {
+          "letter": "B",
+          "text": "一分钟内6 psi。"
+        },
+        {
+          "letter": "C",
+          "text": "一分钟内8 psi。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "一分钟内3 psi。",
+      "explanation": "在对装有空气制动装置的双组合车辆进行静态泄漏测试时，泄漏率在一分钟内不应超过3 psi。如果空气从空气制动系统泄漏的速度更快，则不应驾驶该车辆，因为可能需要进行维修。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11705",
+      "question": "视觉低压警告信号应在空气压力降至以下水平之前激活：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55至75 psi。"
+        },
+        {
+          "letter": "B",
+          "text": "35至50 psi"
+        },
+        {
+          "letter": "C",
+          "text": "75至100 psi"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "55至75 psi。",
+      "explanation": "当气压下降到55至75 psi之间的水平时，视觉低压警告信号应该启动。此信号可以是灯光、蜂鸣器或摇臂。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11466",
+      "question": "在应用泄漏测试期间，三组合车辆的最大泄漏率为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每分钟10 psi"
+        },
+        {
+          "letter": "B",
+          "text": "每分钟8 psi"
+        },
+        {
+          "letter": "C",
+          "text": "每分钟6 psi"
+        },
+        {
+          "letter": "D",
+          "text": "每分钟4 psi"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "每分钟6 psi",
+      "explanation": "了解您特定车辆的最大安全空气损失率很重要。三组合车辆在应用泄漏测试期间的泄漏率不应高于每分钟6 psi"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11902",
+      "question": "空气压缩机和储罐之间的____可防止如果空气压缩机泄漏时空气逸出。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "松懈调整器"
+        },
+        {
+          "letter": "B",
+          "text": "单向止回阀"
+        },
+        {
+          "letter": "C",
+          "text": "牵引车保护阀"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "单向止回阀",
+      "explanation": "在空气压缩机和第一个主储罐之间需要安装单向止回阀。该阀防止空气压缩机发生泄漏时空气从系统逸出。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11707",
+      "question": "如果低气压警告信号在驾驶时激活，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "继续正常驾驶。"
+        },
+        {
+          "letter": "B",
+          "text": "尽快安全地驶离路面并停泊车辆。"
+        },
+        {
+          "letter": "C",
+          "text": "在原地停车并停泊。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "尽快安全地驶离路面并停泊车辆。",
+      "explanation": "如果低气压警告信号在驾驶时激活，重要的是您应尽快安全地驶离路面并停泊车辆。如果空气压力太低，制动器将无法正常工作，您无法安全停车。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11903",
+      "question": "一旦空气罐的气压达到125 psi，空气压缩机调节器将：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停止压缩机泵气。"
+        },
+        {
+          "letter": "B",
+          "text": "从罐中释放空气。"
+        },
+        {
+          "letter": "C",
+          "text": "开始向罐中泵气。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "停止压缩机泵气。",
+      "explanation": "当气罐的气压达到约 125 psi 时，气压缩机调节器会停止压缩机泵气。这个气压水平被称为\"切断\"水平。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8771",
+      "question": "停车时，如果以下情况存在，您不应使用驻车制动器：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "制动器非常热。"
+        },
+        {
+          "letter": "B",
+          "text": "制动器非常冷。"
+        },
+        {
+          "letter": "C",
+          "text": "地面上有积雪。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "制动器非常热。",
+      "explanation": "如果您的制动器在下陡坡后很热，停车时不应使用驻车制动器。在使用驻车制动器或冒损坏制动器风险之前，让制动器冷却。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8632",
+      "question": "配备防抱死制动系统(ABS)的车辆有____故障灯，用于指示ABS何时不工作。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色"
+        },
+        {
+          "letter": "B",
+          "text": "蓝色"
+        },
+        {
+          "letter": "C",
+          "text": "黄色"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "黄色",
+      "explanation": "配备ABS的车辆有黄色故障灯，用于警告驾驶员制动系统何时不工作。在开始行驶前，请确保您知道车辆上故障灯的位置。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9893",
+      "question": "制动衬片应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "松动的。"
+        },
+        {
+          "letter": "B",
+          "text": "不含油。"
+        },
+        {
+          "letter": "C",
+          "text": "柔软的。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "不含油。",
+      "explanation": "制动衬片不应松动或浸满油脂。它们不应该危险地变薄。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11709",
+      "question": "双空气制动系统中的两个系统共享：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "空气储罐"
+        },
+        {
+          "letter": "B",
+          "text": "软管"
+        },
+        {
+          "letter": "C",
+          "text": "空气压缩机。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "空气压缩机。",
+      "explanation": "双空气制动系统中的两个系统共享单个空气压缩机。如果空气压缩机损坏，两个系统都将无法正常运行。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11899",
+      "question": "如果在驾驶时低压警告信号激活，你应该____。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停在你所在的地方并停车"
+        },
+        {
+          "letter": "B",
+          "text": "尽可能安全地驶离道路"
+        },
+        {
+          "letter": "C",
+          "text": "继续正常驾驶"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "尽可能安全地驶离道路",
+      "explanation": "如果低气压警告信号在驾驶时激活，重要的是您应尽快安全地驶离路面并停泊车辆。如果空气压力太低，制动器将无法正常工作，您无法安全停车。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11465",
+      "question": "在应用泄漏测试期间，双组合车辆的最大泄漏率为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每分钟10 psi"
+        },
+        {
+          "letter": "B",
+          "text": "每分钟8 psi"
+        },
+        {
+          "letter": "C",
+          "text": "每分钟6 psi"
+        },
+        {
+          "letter": "D",
+          "text": "每分钟4 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "每分钟4 psi",
+      "explanation": "了解您的特定车辆安全的最大空气损失率很重要。双组合车辆在应用泄漏测试中的泄漏率不应超过每分钟4 psi。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8633",
+      "question": "防抱死制动系统(ABS)：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "降低车辆的正常制动能力。"
+        },
+        {
+          "letter": "B",
+          "text": "是对其他制动系统的补充，不会降低车辆的制动力。"
+        },
+        {
+          "letter": "C",
+          "text": "对较大的车辆无效。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "是对其他制动系统的补充，不会降低车辆的制动力。",
+      "explanation": "如果配备，ABS是对车辆正常制动系统的补充，不会增加或减少任何其他系统的制动力。ABS仅在车轮即将锁定时激活。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9297",
+      "question": "什么颜色的灯光表示车辆的ABS不工作？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色"
+        },
+        {
+          "letter": "B",
+          "text": "蓝色"
+        },
+        {
+          "letter": "C",
+          "text": "黄色"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "黄色",
+      "explanation": "在配有防锁制动系统(ABS)的车辆上，黄色故障灯警告驾驶员ABS故障。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11721",
+      "question": "在干燥路面上以55 mph的速度制动时，制动滞后可以增加____到你的车辆总停止距离。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32英尺"
+        },
+        {
+          "letter": "B",
+          "text": "15英尺"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32英尺",
+      "explanation": "配备空气制动的车辆的总停止距离由四个因素组成：感知距离、反应距离、制动滞后距离和制动距离。在干燥路面上以55 mph的速度制动时，制动滞后可以增加约32英尺到车辆的总停止距离。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11904",
+      "question": "在下坡行驶时，你应该制动直到达到的速度为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "低于你的安全速度5 mph。"
+        },
+        {
+          "letter": "B",
+          "text": "低于你的安全速度10 mph。"
+        },
+        {
+          "letter": "C",
+          "text": "低于你的安全速度15 mph。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "低于你的安全速度5 mph。",
+      "explanation": "下坡行驶时，你应该按住制动踏板直到车速降至你的安全速度以下5 mph，然后释放制动踏板。重复此过程。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11533",
+      "question": "驾驶配备空气制动器的车辆前，应确保当空气压力降至45 psi以下时，____会自动启动。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "弹簧制动器"
+        },
+        {
+          "letter": "B",
+          "text": "停车制动器"
+        },
+        {
+          "letter": "C",
+          "text": "空气制动器"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "弹簧制动器",
+      "explanation": "驾驶配备空气制动器的车辆前，应确保当空气罐压力降至20至45 psi之间时，弹簧制动器会自动启动。可以通过垫轮和踩踏制动踏板数次来释放制动系统中的空气来完成此操作。一旦压力降至不安全水平，停车制动阀应弹出，弹簧制动器应启动。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11675",
+      "question": "要检查S凸轮制动的松弛调节器，您需要：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停放在山坡上并测试制动"
+        },
+        {
+          "letter": "B",
+          "text": "戴上手套并按下松弛调节器"
+        },
+        {
+          "letter": "C",
+          "text": "用轮楔卡住车轮并断开驻车制动"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "用轮楔卡住车轮并断开驻车制动",
+      "explanation": "在停放在平地上、放置轮楔并断开驻车制动后，检查每个松弛调节器。拉动松弛调节器以确保它们从推杆附着处的位置移动不超过约一英寸。如果它们移动超过一英寸，它们可能需要调整，需要进行修理"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11882",
+      "question": "当S凸轮在制动鼓内转动时，S凸轮：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "将制动蹄压向制动鼓的内侧。"
+        },
+        {
+          "letter": "B",
+          "text": "将制动鞋压靠在制动衬片上"
+        },
+        {
+          "letter": "C",
+          "text": "将制动衬片压靠在车轮轴上"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "将制动蹄压向制动鼓的内侧。",
+      "explanation": "当踩下制动踏板并转动S凸轮时，S凸轮将制动蹄压向制动鼓的内侧。这会产生摩擦力，并会使车辆减速。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11893",
+      "question": "在配备双驻车控制阀的车辆中，可以使用单独的空气罐：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "使气动制动器工作更有效。"
+        },
+        {
+          "letter": "B",
+          "text": "临时释放弹簧制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "为后拖车上的制动器充气。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "临时释放弹簧制动器。",
+      "explanation": "在具有双停车控制阀的车辆中，有一个独立的气罐可用于临时释放由于气压低而被激活的弹簧制动。按下适当的控制装置将暂时释放弹簧制动，使驾驶员能够在紧急情况下移动车辆。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8626",
+      "question": "为什么应该定期排空空气储罐？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "因为空气变旧了需要更换"
+        },
+        {
+          "letter": "B",
+          "text": "因为压缩空气含有一些水分，水分在储罐中积累"
+        },
+        {
+          "letter": "C",
+          "text": "允许压力变化。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "因为压缩空气含有一些水分，水分在储罐中积累",
+      "explanation": "压缩空气通常含有一定量的水分和压缩机油，它们会在空气储存储罐中积累并损害制动系统。应排空储罐以清除这些积累物。对于带有手动排水阀的储罐，应在每天驾驶结束时进行排水。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11326",
+      "question": "在平坦的表面上，轮胎楔子：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "可用于防止停放的车辆移动。"
+        },
+        {
+          "letter": "B",
+          "text": "使停放的车辆更容易滚动。"
+        },
+        {
+          "letter": "C",
+          "text": "应仅在前驾驶员一侧轮胎上使用。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "可用于防止停放的车辆移动。",
+      "explanation": "在驾驶员无法使用停车制动器的情况下，可以使用轮挡来防止停放的车辆在平坦路面上移动。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11701",
+      "question": "双空气制动系统中的空气压力应在以下时间内从85至100 psi增加：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "两分钟"
+        },
+        {
+          "letter": "B",
+          "text": "15秒。"
+        },
+        {
+          "letter": "C",
+          "text": "45秒"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "45秒",
+      "explanation": "检查配有双气制动系统的车辆时，您应该等待气压在主系统和副系统中从85到100 psi增加。这应该需要约45秒。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8754",
+      "question": "空气压缩机连接到：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "变速器。"
+        },
+        {
+          "letter": "B",
+          "text": "发动机。"
+        },
+        {
+          "letter": "C",
+          "text": "散热器。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "发动机。",
+      "explanation": "空气制动系统的空气压缩机通过齿轮或V形皮带连接到发动机。压缩机可能是风冷的或由发动机冷却系统冷却的。"
+    }
+  ]
+}

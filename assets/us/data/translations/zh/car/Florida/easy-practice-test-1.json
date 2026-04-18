@@ -1,0 +1,793 @@
+{
+  "state": "Florida",
+  "category": "car",
+  "quizName": "Easy Practice Test #1",
+  "slug": "easy-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "485",
+      "question": "这个标志表示：",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "禁止左转。"
+        },
+        {
+          "letter": "B",
+          "text": "禁止停车。"
+        },
+        {
+          "letter": "C",
+          "text": "禁止掉头。"
+        },
+        {
+          "letter": "D",
+          "text": "前方绕行。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "禁止掉头。",
+      "explanation": "此标志表示禁止掉头。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "1652",
+      "question": "你来到一个十字路口，红绿灯显示绿灯。行人正在违反红灯过马路。你应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "鸣喇叭。"
+        },
+        {
+          "letter": "B",
+          "text": "加速并在行人前通过。"
+        },
+        {
+          "letter": "C",
+          "text": "停下来让行人安全过马路。"
+        },
+        {
+          "letter": "D",
+          "text": "靠近行人行驶并吓唬他们，使他们在违反红灯时三思而后行。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "停下来让行人安全过马路。",
+      "explanation": "当你有绿灯时，要让行行人和可能被困在十字路口的汽车。在任何情况下都要小心行人。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "309",
+      "question": "如果有人在你身后驾驶时表现得很激进，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "尽力让开激进驾驶员的路。"
+        },
+        {
+          "letter": "B",
+          "text": "当他或她从你身边经过时盯着驾驶员看。"
+        },
+        {
+          "letter": "C",
+          "text": "当他或她从你身边经过时加速。"
+        },
+        {
+          "letter": "D",
+          "text": "阻挡超车道。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "尽力让开激进驾驶员的路。",
+      "explanation": "如果你遇到一个激进的驾驶员，你应该尽一切努力让开他们的路。你应该避免与敌意驾驶员有眼神接触。通过加速来挑战敌意驾驶员可能只会让他们更生气，从而增加危险。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "2266",
+      "question": "当接近铁路道口警告标志时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "准备好以比火车更快的速度行驶。"
+        },
+        {
+          "letter": "B",
+          "text": "如果火车附近，准备停车。"
+        },
+        {
+          "letter": "C",
+          "text": "寻找绕过任何放下的栏杆的方法。"
+        },
+        {
+          "letter": "D",
+          "text": "假设附近没有列车，继续正常驾驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "如果火车附近，准备停车。",
+      "explanation": "铁路道口警告标志用于警告驾驶员可能有列车。驾驶员应遵守所有铁路道口警告标志，永远不要绕过障碍物或无视警告标志。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "476",
+      "question": "这个标志表示：",
+      "image": "/images/signs/new-york-merging_traffic_entering_from_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "单向交通。"
+        },
+        {
+          "letter": "B",
+          "text": "前方十字路口。"
+        },
+        {
+          "letter": "C",
+          "text": "来自右侧的并入交通。"
+        },
+        {
+          "letter": "D",
+          "text": "前方公路弯曲。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "来自右侧的并入交通。",
+      "explanation": "此标志表示有合并交通从右侧进入。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "2303",
+      "question": "佛罗里达州法律要求您使用车头灯：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "引起周围车辆的注意。"
+        },
+        {
+          "letter": "B",
+          "text": "在晴朗的日子。"
+        },
+        {
+          "letter": "C",
+          "text": "日落和日出之间。"
+        },
+        {
+          "letter": "D",
+          "text": "如果您疲劳驾驶。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "日落和日出之间。",
+      "explanation": "佛罗里达州法律规定，您必须在日落和日出之间驾驶时使用车头灯。夜间驾驶时要格外小心。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "308",
+      "question": "如果另一名驾驶员在交通中切入你的前面，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "靠近驾驶员并对他们大喊。"
+        },
+        {
+          "letter": "B",
+          "text": "放下去。"
+        },
+        {
+          "letter": "C",
+          "text": "向驾驶员闪烁远光灯。"
+        },
+        {
+          "letter": "D",
+          "text": "通过切入他们来报复另一名驾驶员。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "放下去。",
+      "explanation": "为了避免路怒症的危险，如果另一名驾驶员在交通中切入你的前面，你不应该个人生气。放下去继续安全驾驶。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "366",
+      "question": "在雾中驾驶时，您应该使用您的：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "低光束车灯。"
+        },
+        {
+          "letter": "B",
+          "text": "高光束车灯。"
+        },
+        {
+          "letter": "C",
+          "text": "停车灯。"
+        },
+        {
+          "letter": "D",
+          "text": "危险闪烁灯。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "低光束车灯。",
+      "explanation": "如果你必须在雾霾条件下驾驶,你应该使用低位近光灯,以及前雾灯(如果你的车辆配备)。远光灯将光线向上照射,光线可能会从雾中反射回你的眼睛,进一步降低能见度。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1577",
+      "question": "公路标记：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "通常不重要。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在施工区域找到。"
+        },
+        {
+          "letter": "C",
+          "text": "为驾驶员提供信息。"
+        },
+        {
+          "letter": "D",
+          "text": "通常为红色和蓝色。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "为驾驶员提供信息。",
+      "explanation": "公路标记为驾驶员提供信息。标记帮助驾驶员正确定位车辆，告知驾驶员安全超车区域，并警告驾驶员即将出现的路况。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1266",
+      "question": "如果闪烁灯光的应急车辆在您驾驶的区域内行驶，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "加速以避开应急车辆。"
+        },
+        {
+          "letter": "B",
+          "text": "立即停止您的车辆并阻止其通过。"
+        },
+        {
+          "letter": "C",
+          "text": "尽一切努力为应急车辆提供畅通的行驶路径。"
+        },
+        {
+          "letter": "D",
+          "text": "当应急车辆可以安全通过您时向其示意。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "尽一切努力为应急车辆提供畅通的行驶路径。",
+      "explanation": "如果闪烁灯光的应急车辆在您驾驶的区域内行驶，您必须尽一切努力为其提供畅通的行驶路径。如果安全的话，将您的车辆拉到路边，为应急车辆提供开放的通道。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "552",
+      "question": "要在变道前检查您的盲点：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "向左侧镜看。"
+        },
+        {
+          "letter": "B",
+          "text": "向右侧镜看。"
+        },
+        {
+          "letter": "C",
+          "text": "向后视镜看。"
+        },
+        {
+          "letter": "D",
+          "text": "向你计划移动的方向看向肩膀。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "向你计划移动的方向看向肩膀。",
+      "explanation": "要在变道前检查您的盲点，您应该向您计划移动的方向查看肩膀上方。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "295",
+      "question": "如果转向灯失效，您应该使用____来表示您正在转向。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您的喇叭"
+        },
+        {
+          "letter": "B",
+          "text": "您的前灯"
+        },
+        {
+          "letter": "C",
+          "text": "手势信号"
+        },
+        {
+          "letter": "D",
+          "text": "您的应急闪光灯"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "手势信号",
+      "explanation": "如果您的车辆转向灯不工作，您应该使用手势信号来表示您打算改变方向。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "608",
+      "question": "这个道路标志意味着：",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前方十字路口。"
+        },
+        {
+          "letter": "B",
+          "text": "前方陡坡。"
+        },
+        {
+          "letter": "C",
+          "text": "弯曲的道路。"
+        },
+        {
+          "letter": "D",
+          "text": "合并交通。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "前方陡坡。",
+      "explanation": "此标志表示前方有陡峭的下坡。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "2250",
+      "question": "颜色为橙色的标志是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "施工区标志。"
+        },
+        {
+          "letter": "B",
+          "text": "管制标志。"
+        },
+        {
+          "letter": "C",
+          "text": "学校区标志。"
+        },
+        {
+          "letter": "D",
+          "text": "指路标志。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "施工区标志。",
+      "explanation": "高速公路施工区根据沿着道路进行的施工类型设立。施工区域中的标志通常是钻石形的、橙色的、带有黑色字母或符号的，并警告人们正在高速公路上或附近施工。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "561",
+      "question": "当在路上的行驶道时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "你可以停下来接送乘客。"
+        },
+        {
+          "letter": "B",
+          "text": "你可以停下来查找地址。"
+        },
+        {
+          "letter": "C",
+          "text": "如果你走错了高速公路的入口坡道，你可以掉头或倒车。"
+        },
+        {
+          "letter": "D",
+          "text": "不要因任何原因停止。继续行驶，直到你可以安全地靠到路边。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "不要因任何原因停止。继续行驶，直到你可以安全地靠到路边。",
+      "explanation": "你不应该因任何原因在行驶道上停止。相反，继续行驶，直到你可以安全地靠到路边。如果你错过了转向或出口，不要倒车。前往下一个转向、出口或你可以安全掉头的地方。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1603",
+      "question": "您不能停车在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "山坡上。"
+        },
+        {
+          "letter": "B",
+          "text": "停车场。"
+        },
+        {
+          "letter": "C",
+          "text": "斑马线上或标记的自行车道上。"
+        },
+        {
+          "letter": "D",
+          "text": "距离道路右侧超过12英寸的地方。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "斑马线上或标记的自行车道上。",
+      "explanation": "有许多地方停车是违法的，包括在斑马线上或标记的自行车道上。在街道上停车时，您必须在距离道路右侧12英寸以内。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "270",
+      "question": "开车时吸烟和准备吸烟：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不影响驾驶能力。"
+        },
+        {
+          "letter": "B",
+          "text": "有助于保持驾驶员的警觉。"
+        },
+        {
+          "letter": "C",
+          "text": "是分散注意力的活动。"
+        },
+        {
+          "letter": "D",
+          "text": "不是分散注意力的活动。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "是分散注意力的活动。",
+      "explanation": "开车时吸烟会分散注意力，使你无法集中在方向盘和/或道路上，从而造成危险。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1553",
+      "question": "如果你在驾驶时轮胎爆裂，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "立即用力踩刹车。"
+        },
+        {
+          "letter": "B",
+          "text": "尝试保持直线，同时通过松开油门踏板逐渐减速。"
+        },
+        {
+          "letter": "C",
+          "text": "保持您目前的速度并直行。"
+        },
+        {
+          "letter": "D",
+          "text": "左右摇晃以提醒后面的车辆。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "尝试保持直线，同时通过松开油门踏板逐渐减速。",
+      "explanation": "如果轮胎在驾驶时爆裂，紧紧握住方向盘并保持车直线行驶。轻轻抬起油门踏板，在获得完全控制之前不要踩刹车。当车受控后，轻轻踩刹车并在最近的安全地点靠边停止。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1180",
+      "question": "您在多车道高速公路的右车道上行驶，想进入左车道。您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "变道前查看后视镜以了解身后的交通情况。"
+        },
+        {
+          "letter": "B",
+          "text": "变道前向左肩膀上方查看您的盲点中的交通情况。"
+        },
+        {
+          "letter": "C",
+          "text": "查看侧镜中的交通情况并打开方向灯。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "变道前，您应该始终通过检查镜子和向您计划移动的方向查看肩膀上方来验证您要进入的车道中没有其他车辆。您应该在每次变道时发出信号。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "409",
+      "question": "您可以在铁路道口绕过或穿过正在升起或下降的栏杆：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "只要接近的火车不会太近。"
+        },
+        {
+          "letter": "B",
+          "text": "如果您的车辆可以在不损坏栏杆的情况下这样做。"
+        },
+        {
+          "letter": "C",
+          "text": "如果您首先仔细查看两个方向。"
+        },
+        {
+          "letter": "D",
+          "text": "绝对不行。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "绝对不行。",
+      "explanation": "铁路道口的闪红灯、下降的道口栏杆和/或铃声意味着您必须完全停止。在灯和铃声停止且道口栏杆完全打开之前，您不得越过铁路。不要绕过或穿过正在升起或下降的栏杆。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1529",
+      "question": "当您需要变道时，重要的是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在变道前提前发出意图信号。"
+        },
+        {
+          "letter": "B",
+          "text": "检查您的盲点。"
+        },
+        {
+          "letter": "C",
+          "text": "在进入前确保车道畅通。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "在变道或驶离高速公路前，应始终提前发出适当时长的信号。在您向右或向左移动之前，快速转动您的头部并向肩膀上方看，以查看您的盲点是否清晰。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "2087",
+      "question": "为了在长途旅行中缓解疲劳，一个好主意是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每两小时停车休息一次。"
+        },
+        {
+          "letter": "B",
+          "text": "每小时做一次臂部运动。"
+        },
+        {
+          "letter": "C",
+          "text": "一次只睁一只眼睛驾驶。"
+        },
+        {
+          "letter": "D",
+          "text": "在油门踏板上换脚。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "每两小时停车休息一次。",
+      "explanation": "为了避免长途旅行中疲劳，每两小时停车休息一次。如果您感到困倦，请驶离道路并在安全的地方停车小睡，或找一间房间过夜。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "1557",
+      "question": "驾驶员可以合法地在另一车辆的右侧超车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "如果车辆准备左转且有可用的超车道。"
+        },
+        {
+          "letter": "B",
+          "text": "即使这意味着驶离路面。"
+        },
+        {
+          "letter": "C",
+          "text": "在狭窄的桥上。"
+        },
+        {
+          "letter": "D",
+          "text": "随时。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "如果车辆准备左转且有可用的超车道。",
+      "explanation": "如果有可用的超车道，你可以在车辆或自行车准备左转或等待左转时从右侧超车。在多车道道路上行驶时，如果有两条或以上同方向的车道，也可以从右侧超车。你不得驶离路面或道路的主要行驶部分来超越另一车辆。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1657",
+      "question": "您在分隔式多车道高速公路上行驶，看到或听到迫近的紧急车辆的信号。您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "如果有其他车道供紧急车辆使用，则忽视该信号。"
+        },
+        {
+          "letter": "B",
+          "text": "尽快停止。"
+        },
+        {
+          "letter": "C",
+          "text": "减速，将您的车辆移动以为紧急车辆提供明确路径，并停止。"
+        },
+        {
+          "letter": "D",
+          "text": "增加速度以躲避紧急车辆。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "减速，将您的车辆移动以为紧急车辆提供明确路径，并停止。",
+      "explanation": "如果您听到紧急车辆的警笛声或看到闪烁灯光，您必须减速，为该车辆提供明确路径，并停止。不要试图超过紧急车辆。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "385",
+      "question": "如果你被警官拦下，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "解开安全带并降下车窗。"
+        },
+        {
+          "letter": "B",
+          "text": "在警官到达你的车之前准备好相关文件。"
+        },
+        {
+          "letter": "C",
+          "text": "留在车内，双手放在方向盘上，等待警官走近你。"
+        },
+        {
+          "letter": "D",
+          "text": "下车并朝警车走去。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "留在车内，双手放在方向盘上，等待警官走近你。",
+      "explanation": "如果被警察拦下，保持双手放在方向盘上，并要求任何乘客也保持双手可见。除非警官要求你下车，否则你应该留在车内。等到警官要求你检索驾驶证、车辆登记和保险卡时再取出。"
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "313",
+      "question": "当血液中的酒精积累时，它会：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "减慢你的反应速度。"
+        },
+        {
+          "letter": "B",
+          "text": "让你感到不那么自信。"
+        },
+        {
+          "letter": "C",
+          "text": "开始更快地代谢自身。"
+        },
+        {
+          "letter": "D",
+          "text": "减少驾驶错误的数量。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "减慢你的反应速度。",
+      "explanation": "当酒精在你的系统中积累时，它会减慢你的反应速度，让你感到更加自信，并导致你犯更多错误。"
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "2236",
+      "question": "当遇到激进的驾驶者时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "避免眼神接触，减速，让他们通过。"
+        },
+        {
+          "letter": "B",
+          "text": "超过他们以减慢他们的速度。"
+        },
+        {
+          "letter": "C",
+          "text": "通过尾随他们来报复。"
+        },
+        {
+          "letter": "D",
+          "text": "确保他们知道你不赞成他们的行为。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "避免眼神接触，减速，让他们通过。",
+      "explanation": "如果另一名驾驶者威胁你或故意在你周围危险驾驶，保持冷静并尽力在你们之间拉开距离。减速并让他们通过。不要有眼神接触，也不要做粗鲁的手势。"
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "551",
+      "question": "要变更车道，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查后视镜并打信号，然后变更车道。"
+        },
+        {
+          "letter": "B",
+          "text": "打信号，检查后视镜，检查你计划移动方向的盲点，然后变更车道。"
+        },
+        {
+          "letter": "C",
+          "text": "打信号，检查后视镜，然后变更车道。"
+        },
+        {
+          "letter": "D",
+          "text": "打信号并变更车道。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "打信号，检查后视镜，检查你计划移动方向的盲点，然后变更车道。",
+      "explanation": "变更车道前，你应该在相应方向激活转向信号并检查后视镜和侧视镜。向你计划移动的方向看过肩膀，以检查你的盲点，并检查远处的车道，确保没有其他人试图进入你的车道。当你确信安全时再变更车道。"
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "486",
+      "question": "这个标志表示：",
+      "image": "/images/signs/new-york-hill_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "允许18,000磅以下的卡车通行。"
+        },
+        {
+          "letter": "B",
+          "text": "前方有坡道。"
+        },
+        {
+          "letter": "C",
+          "text": "前方有卡车停靠站。"
+        },
+        {
+          "letter": "D",
+          "text": "禁止卡车通行。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "前方有坡道。",
+      "explanation": "这个标志警告前方有陡坡。"
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "910",
+      "question": "雾气会大大降低对其他车辆、行人和交通信号的可见性。在雾中驾驶时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "谨慎驾驶并降低速度。"
+        },
+        {
+          "letter": "B",
+          "text": "不要使用远光灯。"
+        },
+        {
+          "letter": "C",
+          "text": "使用近光灯更好地照亮道路和物体。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "雾气会大大降低你看到其他车辆、行人和交通信号的能力。在雾中驾驶时，要谨慎驾驶并以降低的速度行驶。不要使用远光灯。在雾的条件下，近光灯能更好地照亮道路和前方的物体。"
+    }
+  ]
+}

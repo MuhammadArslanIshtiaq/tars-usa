@@ -1,0 +1,530 @@
+{
+  "state": "New York",
+  "category": "cdl",
+  "testName": "Tank Test #1 20 Questions • Passing Score 16",
+  "testSlug": "tank-1",
+  "url": "/images/new-york/cdl/tank-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11032",
+      "question": "운전할 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 사람들로부터 당신의 의도를 숨기는 것이 가장 좋습니다."
+        },
+        {
+          "letter": "B",
+          "text": "근처에 차량이 있을 때만 방향 신호를 사용해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "공사 구간에서는 방향 신호를 사용하지 않아야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "당신은 항상 방향 신호를 사용하여 다른 사람들에게 당신의 의도를 경고해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "당신은 항상 방향 신호를 사용하여 다른 사람들에게 당신의 의도를 경고해야 합니다.",
+      "explanation": "도로의 다른 사람들에게 당신의 의도를 전달하는 것이 중요합니다. 근처에 다른 차량이 없더라도 회전이나 차선 변경 전에 신호를 보내십시오."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8813",
+      "question": "방향 신호를 사용할 때 다음을 해서는 안 됩니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일찍 신호하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "지속적으로 신호를 보내세요."
+        },
+        {
+          "letter": "C",
+          "text": "회전을 완료한 후 방향 신호를 끄기."
+        },
+        {
+          "letter": "D",
+          "text": "회전을 완료한 후 오래 방향 신호를 켜진 채로 두기."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "회전을 완료한 후 오래 방향 신호를 켜진 채로 두기.",
+      "explanation": "회전이나 차선 변경 전에 충분히 미리 신호를 보내세요. 회전이나 차선 변경을 완료할 때까지 계속 신호를 보낸 다음 다른 운전자들을 혼동시키지 않도록 신호를 끄세요."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10965",
+      "question": "트레일러 핸드 밸브:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "항상 주차에 사용해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "하향 경사지에서만 주차할 때 사용해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "주차에 절대 사용하면 안 됩니다."
+        },
+        {
+          "letter": "D",
+          "text": "화물을 운송할 때만 사용해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "주차에 절대 사용하면 안 됩니다.",
+      "explanation": "트레일러 핸드 밸브는 주차에 사용해서는 안 됩니다. 이로 인해 제동 시스템의 모든 공기가 새어 나가 브레이크가 해제될 수 있습니다. 대신 주차 브레이크를 사용하세요."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11602",
+      "question": "복합 차량을 운전하면서 교통에 진입하거나 교통을 횡단할 때, 특히 중요한 것은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "경적을 울리세요."
+        },
+        {
+          "letter": "B",
+          "text": "차량을 위한 충분히 큰 간격이 있는지 확인합니다."
+        },
+        {
+          "letter": "C",
+          "text": "다른 운전자들이 차량을 위해 자리를 만들어 줄 것으로 예상합니다."
+        },
+        {
+          "letter": "D",
+          "text": "다른 운전자들이 당신을 차선으로 유도하도록 하십시오."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "차량을 위한 충분히 큰 간격이 있는지 확인합니다.",
+      "explanation": "복합 차량은 다른 차량보다 도로에서 더 많은 공간이 필요합니다. 복합 차량을 운전하면서 교통에 진입하거나 교통을 횡단할 때, 안전하게 수행할 수 있을 만큼 충분한 교통 간격이 있는 것이 특히 중요합니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8991",
+      "question": "1997년 3월 1일 이후에 제조된 에어 브레이크가 장착된 트럭 트랙터는 다음을 갖추어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anti-Lock Braking System (ABS)"
+        },
+        {
+          "letter": "B",
+          "text": "Bluetooth"
+        },
+        {
+          "letter": "C",
+          "text": "GPS."
+        },
+        {
+          "letter": "D",
+          "text": "후방 백업 카메라."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Anti-Lock Braking System (ABS)",
+      "explanation": "1997년 3월 1일 이후에 제조된 공기 제동 장치가 있는 트럭 견인차는 Anti-Lock Braking Systems (ABS)를 갖추어야 합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9540",
+      "question": "서비스 라인의 다른 이름은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제어 라인"
+        },
+        {
+          "letter": "B",
+          "text": "교환 라인"
+        },
+        {
+          "letter": "C",
+          "text": "잉여 라인"
+        },
+        {
+          "letter": "D",
+          "text": "평행 라인"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "제어 라인",
+      "explanation": "서비스 라인은 제어 라인 또는 신호 라인이라고도 하며 트레일러 브레이크에 에어를 공급하며 풋 브레이크 또는 트레일러 핸드 브레이크로 제어됩니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8879",
+      "question": "대부분의 대형 차량은 ____ 공기 브레이크 시스템을 사용합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "단일"
+        },
+        {
+          "letter": "B",
+          "text": "이중"
+        },
+        {
+          "letter": "C",
+          "text": "삼중"
+        },
+        {
+          "letter": "D",
+          "text": "사중"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "이중",
+      "explanation": "대부분의 대형 차량은 이중 공기 브레이크 시스템으로 장착되어 있습니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8902",
+      "question": "Fifth wheel plate를 제대로 윤활하지 못하면 다음이 발생할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "트레일러가 분리되도록 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "조향 문제를 일으킵니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이킹 문제를 일으킵니다."
+        },
+        {
+          "letter": "D",
+          "text": "라이트에 영향을 미칩니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "조향 문제를 일으킵니다.",
+      "explanation": "Fifth wheel plate를 제대로 윤활하지 못하면 트랙터와 트레일러 사이에 마찰이 발생하여 조향 문제를 일으킬 수 있습니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "10094",
+      "question": "소화기와 같은 긴급 장비는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "위험물을 운송하는 차량에만 필요합니다."
+        },
+        {
+          "letter": "B",
+          "text": "주간 이동에만 필요합니다."
+        },
+        {
+          "letter": "C",
+          "text": "필수."
+        },
+        {
+          "letter": "D",
+          "text": "승객을 운송할 때만 필요합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "필수.",
+      "explanation": "모든 상용차는 적절한 비상 장비로 장착되어야 합니다. 여기에는 예비 전기 퓨즈, 빨간색 반사 삼각형 3개, 퓨즈 6개 또는 액체 연소 플레어 3개, 및 1개 이상의 충전되고 정격된 소화기가 포함될 수 있습니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9143",
+      "question": "트레일러가 스키드하기 시작하면 운전사는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제동을 잠급니다."
+        },
+        {
+          "letter": "B",
+          "text": "제동을 풉니다."
+        },
+        {
+          "letter": "C",
+          "text": "반대 방향으로 조향하세요."
+        },
+        {
+          "letter": "D",
+          "text": "가속하세요."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "제동을 풉니다.",
+      "explanation": "제동 중에 트레일러가 스키드하기 시작하면 제동을 풀고 바퀴가 노면에 대한 접지력을 되찾을 때까지 기다려야 합니다. 바퀴가 포장도로의 그립을 되찾으면 트레일러는 곧게 펴지기 시작하고 트랙터를 따를 것입니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11236",
+      "question": "트럭이 장착된 경우, 트레일러 브레이크 핸드 밸브는 다음을 위해 사용할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량에 연료를 추가합니다."
+        },
+        {
+          "letter": "B",
+          "text": "정지 상태에서 출발할 때 차량이 뒤로 굴러가는 것을 방지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "오일 수준을 확인합니다."
+        },
+        {
+          "letter": "D",
+          "text": "화물을 싣습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "정지 상태에서 출발할 때 차량이 뒤로 굴러가는 것을 방지합니다.",
+      "explanation": "트랙터-트레일러가 이렇게 장착된 경우, 트레일러 브레이크 핸드 밸브는 정지 상태에서 시작할 때 차량이 뒤로 굴러가는 것을 방지하는 데 사용할 수 있습니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11568",
+      "question": "자동 트랙터 보호 밸브가 장착된 차량에서 밸브는 다음의 경우 튀어나옵니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기 압력이 20~45 psi 범위로 떨어질 때"
+        },
+        {
+          "letter": "B",
+          "text": "트레일러 조키나이프(Jackknife)를 경험할 때"
+        },
+        {
+          "letter": "C",
+          "text": "미끄러짐 후 바퀴가 견인력을 회복했을 때"
+        },
+        {
+          "letter": "D",
+          "text": "공기 압력이 45 psi 이상일 때"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "공기 압력이 20~45 psi 범위로 떨어질 때",
+      "explanation": "자동 트랙터 보호 밸브가 장착된 차량에서는 공기 압력이 20~45 psi 범위로 떨어지면 밸브가 튀어나옵니다. 밸브가 튀어나올 때 보호 밸브가 닫혀 공기 흐름이 차단됩니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11586",
+      "question": "여행 중에 어떤 차단 밸브를 열어야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "모든 차단 밸브는 열려 있어야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "뒤쪽 차단 밸브는 열려 있어야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "모든 차단 밸브는 열린 위치에 있어야 하며, 뒤쪽 차단 밸브는 제외합니다."
+        },
+        {
+          "letter": "D",
+          "text": "차단 밸브는 열려 있으면 안 됩니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "모든 차단 밸브는 열린 위치에 있어야 하며, 뒤쪽 차단 밸브는 제외합니다.",
+      "explanation": "여행을 시작할 때 뒤쪽 트레일러의 마지막 밸브를 제외한 모든 차단 밸브가 열린 위치에 있는지 확인하십시오. 공기가 모든 트레일러의 브레이크에 도달하고 차량의 뒤에서 공기가 빠져나가지 않도록 하는 것이 중요합니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8964",
+      "question": "매뉴얼을 읽는 것 외에 위험물 운송에 대해 배우는 가장 좋은 방법은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 사람들과 대화하세요"
+        },
+        {
+          "letter": "B",
+          "text": "위험물 교육 과정에 참석합니다."
+        },
+        {
+          "letter": "C",
+          "text": "추측하세요"
+        },
+        {
+          "letter": "D",
+          "text": "경찰관에게 물어보세요"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "위험물 교육 과정에 참석합니다.",
+      "explanation": "매뉴얼에는 위험물 승인 필기시험에 합격하기 위해 필요한 모든 정보가 포함되어 있지만, 안전하게 업무를 수행하기 위해 필요한 모든 정보를 포함하고 있지는 않습니다. 위험물 교육 과정에 참석하여 더 많은 정보를 배울 수 있습니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8939",
+      "question": "운전자는 다음에서 위험물을 운송하기 위해 위험물 인증이 포함된 CDL이 필요합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Class A 면허가 필요한 차량."
+        },
+        {
+          "letter": "B",
+          "text": "Class B 면허가 필요한 차량."
+        },
+        {
+          "letter": "C",
+          "text": "Class C 면허가 필요한 차량."
+        },
+        {
+          "letter": "D",
+          "text": "모든 크기의 차량."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "모든 크기의 차량.",
+      "explanation": "위험물을 운송하기 위해 모든 크기의 차량을 운영하려면 위험물 인증이 포함된 CDL이 필요합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8947",
+      "question": "물질의 위험 등급은 다음을 반영합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "물질과 관련된 위험."
+        },
+        {
+          "letter": "B",
+          "text": "배송을 위해 필요한 포장재의 양."
+        },
+        {
+          "letter": "C",
+          "text": "트레일러에 물품을 놓을 수 있는 위치."
+        },
+        {
+          "letter": "D",
+          "text": "재료를 어떻게 적재 및 하역해야 하는지."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "물질과 관련된 위험.",
+      "explanation": "9가지 서로 다른 위험 등급이 있습니다. 물질의 위험 등급은 관련된 위험을 반영합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8823",
+      "question": "당신을 지연시키는 무거운 하중을 운반하는 경우, 당신은 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "왼쪽 차선에서 운전합니다."
+        },
+        {
+          "letter": "B",
+          "text": "우측 차선에서 운전하세요."
+        },
+        {
+          "letter": "C",
+          "text": "어깨로 운전합니다."
+        },
+        {
+          "letter": "D",
+          "text": "차량을 2단 기어로 유지하세요."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "우측 차선에서 운전하세요.",
+      "explanation": "도로의 우측 차선은 일반적으로 주변 교통보다 더 천천히 이동하는 차량을 위해 의도됩니다. 무거운 하중으로 지연되고 있는 경우, 우측 차선에 머물러야 합니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9061",
+      "question": "타이어 림이 손상된 경우, 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량에 남겨두세요."
+        },
+        {
+          "letter": "B",
+          "text": "손상을 수리하기 위해 용접하세요."
+        },
+        {
+          "letter": "C",
+          "text": "교체되어야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "운전자로부터 가장 먼 액슬에 놓으세요."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "교체되어야 합니다.",
+      "explanation": "용접 수리가 된 휠 또는 림은 안전하지 않습니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9082",
+      "question": "새벽이나 황혼 시간에 다른 차량이 당신을 보기 어려울 때 다음을 통해 가시성을 높일 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4방향 점멸등을 켜기."
+        },
+        {
+          "letter": "B",
+          "text": "경적을 울리기."
+        },
+        {
+          "letter": "C",
+          "text": "전조등을 켜는 것."
+        },
+        {
+          "letter": "D",
+          "text": "앞유리 와이퍼를 켜는 것."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "전조등을 켜는 것.",
+      "explanation": "새벽이나 황혼 시간, 눈이나 비 오는 조건에서는 다른 도로 이용자가 당신의 차량을 더 쉽게 볼 수 있도록 헤드라이트를 켜야 합니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8926",
+      "question": "염소를 운송할 때 차량에 보관해야 하는 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "응급 번호가 프로그래밍된 휴대전화"
+        },
+        {
+          "letter": "B",
+          "text": "승인된 방독면"
+        },
+        {
+          "letter": "C",
+          "text": "화학 보호복"
+        },
+        {
+          "letter": "D",
+          "text": "응급 대원을 위한 지시"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "승인된 방독면",
+      "explanation": "염소를 화물 탱크에 운반하는 운전자는 승인된 방독면과 응급 키트를 차량에 보관해야 합니다."
+    }
+  ]
+}

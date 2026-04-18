@@ -1,0 +1,742 @@
+{
+  "state": "Montana",
+  "category": "cdl",
+  "testName": "HazMat Test #2 30 Questions • Passing Score 24",
+  "testSlug": "hazmat-2",
+  "url": "/images/montana/cdl/hazmat-2.html",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8686",
+      "question": "Si un document d'expédition décrit à la fois des matières dangereuses et non dangereuses, les matières dangereuses peuvent avoir besoin d'être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surlignées en couleur contrastante."
+        },
+        {
+          "letter": "B",
+          "text": "Encerclées au stylo ou au marqueur."
+        },
+        {
+          "letter": "C",
+          "text": "Non marquées."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Surlignées en couleur contrastante.",
+      "explanation": "Si un document d'expédition décrit à la fois des matières dangereuses et non dangereuses, les matières dangereuses doivent être distinguées de l'une des trois façons suivantes. Elles doivent être inscrites en premier sur le document d'expédition, surlignées en couleur contrastante ou correctement marquées d'un « X » dans une colonne intitulée « HM »."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8921",
+      "question": "Que signifie « RQ » ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Requête relative"
+        },
+        {
+          "letter": "B",
+          "text": "Quantité déclarée"
+        },
+        {
+          "letter": "C",
+          "text": "Requête de libération"
+        },
+        {
+          "letter": "D",
+          "text": "Quarantaine de réaction"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Quantité déclarée",
+      "explanation": "Lors du marquage des matières dangereuses dans une colonne « HM » sur un document d'expédition, les lettres « RQ » peuvent être utilisées à la place d'un « X » si une quantité déclarée du matériau doit être identifiée."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8922",
+      "question": "Les expéditeurs doivent conserver une copie des documents d'expédition pendant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Six semaines."
+        },
+        {
+          "letter": "B",
+          "text": "Six mois."
+        },
+        {
+          "letter": "C",
+          "text": "Un an."
+        },
+        {
+          "letter": "D",
+          "text": "Deux ans."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Deux ans.",
+      "explanation": "Les expéditeurs doivent conserver une copie physique ou une image électronique des documents d'expédition de matières dangereuses pendant un minimum de deux ans après l'acceptation des matières par le transporteur initial. Pour les déchets dangereux, ce délai est porté à trois ans."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8969",
+      "question": "Dans le tableau des matières dangereuses, la colonne 2 énumère :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les noms des matières."
+        },
+        {
+          "letter": "B",
+          "text": "L'origine des matières."
+        },
+        {
+          "letter": "C",
+          "text": "Les dispositions spéciales pour les matières."
+        },
+        {
+          "letter": "D",
+          "text": "Les fabricants des matières."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les noms des matières.",
+      "explanation": "La colonne 2 du tableau des matières dangereuses énumère les noms d'expédition appropriés et les descriptions des matières réglementées."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8950",
+      "question": "Les gaz inflammables sont classés comme des dangers de ____.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Classe 1"
+        },
+        {
+          "letter": "B",
+          "text": "Classe 2"
+        },
+        {
+          "letter": "C",
+          "text": "Classe 4"
+        },
+        {
+          "letter": "D",
+          "text": "Classe 7"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Classe 2",
+      "explanation": "Les gaz inflammables sont assignés à la classe 2 des matières dangereuses."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8979",
+      "question": "Lors du transport d'explosifs de division 1.1, 1.2 ou 1.3, le véhicule ne devrait pas être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Garé à moins de 300 pieds d'un pont."
+        },
+        {
+          "letter": "B",
+          "text": "Garé à moins de 40 pieds de la route."
+        },
+        {
+          "letter": "C",
+          "text": "Stationnés pendant de courtes périodes uniquement."
+        },
+        {
+          "letter": "D",
+          "text": "Stationnés sur l'herbe."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Garé à moins de 300 pieds d'un pont.",
+      "explanation": "Sauf lors d'un stationnement bref pour effectuer les fonctions nécessaires au fonctionnement du véhicule (comme le ravitaillement en carburant), ne stationnez jamais un véhicule transportant des explosifs de Division 1.1, 1.2 ou 1.3 à moins de 300 pieds d'un pont, d'un tunnel ou d'un bâtiment. Ne stationnez jamais un tel véhicule à moins de 5 pieds de la portion parcourue d'une route. De tels véhicules doivent être stationnés uniquement brièvement."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8980",
+      "question": "Une personne ne doit pas fumer à moins de ____ d'un véhicule portant une plaque pour les matières de classe 3 ou division 2.1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 pieds"
+        },
+        {
+          "letter": "B",
+          "text": "25 feet"
+        },
+        {
+          "letter": "C",
+          "text": "100 feet"
+        },
+        {
+          "letter": "D",
+          "text": "1 000 feet"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "25 feet",
+      "explanation": "Une personne ne doit pas fumer à moins de 25 pieds d'un réservoir étiqueté utilisé pour transporter les matières de classe 3 (liquides inflammables) ou de division 2.1 (gaz). De plus, aucune personne ne doit fumer ou porter un cigare, une cigarette ou une pipe allumée à moins de 25 pieds de tout véhicule contenant de la classe 1 (explosifs), de la classe 4 (solides inflammables) ou de la classe 4.2 (combustion spontanée)."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8695",
+      "question": "Pour savoir quel placard utiliser, vous devez connaître :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La classe de danger des matières."
+        },
+        {
+          "letter": "B",
+          "text": "Le type de conteneur qui contient les matières."
+        },
+        {
+          "letter": "C",
+          "text": "La destination des matières."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La classe de danger des matières.",
+      "explanation": "Pour déterminer quels placards doivent être utilisés, vous devez connaître la classe de danger des matières expédiées, la quantité de matières dangereuses expédiées, et le poids total de toutes les matières dangereuses dans votre véhicule."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11436",
+      "question": "Lors du transport de matières de la Division 1.1, le revêtement du plancher devrait être:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fabriqué à partir de matériaux métalliques."
+        },
+        {
+          "letter": "B",
+          "text": "Fabriqué à partir d'un alliage de fer."
+        },
+        {
+          "letter": "C",
+          "text": "Fabriqué à partir de matériaux non ferreux."
+        },
+        {
+          "letter": "D",
+          "text": "Lâche."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Fabriqué à partir de matériaux non ferreux.",
+      "explanation": "Utilisez un revêtement de plancher lors du transport de matières de la Division 1.1, 1.2 ou 1.3. Les planchers doivent être étanches et le revêtement doit être fabriqué à partir d'un matériau non métallique ou d'un métal non ferreux. Les métaux non ferreux sont des métaux qui ne contiennent pas de fer ou d'alliages ferreux."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8963",
+      "question": "Pour opérer un véhicule utilisé pour transporter des matières dangereuses, un conducteur doit avoir :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniquement un CDL."
+        },
+        {
+          "letter": "B",
+          "text": "Un CDL avec un permis de transport de matières dangereuses."
+        },
+        {
+          "letter": "C",
+          "text": "Un CDL avec un permis de passagers."
+        },
+        {
+          "letter": "D",
+          "text": "Un CDL avec un permis de freins à air."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Un CDL avec un permis de transport de matières dangereuses.",
+      "explanation": "Vous devez avoir un permis de conduire commercial avec un permis de transport de matières dangereuses avant de conduire un véhicule de toute taille utilisé pour transporter des matières dangereuses, même si le véhicule ne transporte pas de matières dangereuses au moment de l'exploitation."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8916",
+      "question": "Les expéditeurs doivent étiqueter les matériaux dangereux. Si un article est plus petit que son étiquette, comment l'article doit-il être étiqueté ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'article peut être lié avec d'autres matériaux dangereux et étiqueté avec une feuille de papier sur l'extérieur du paquet."
+        },
+        {
+          "letter": "B",
+          "text": "L'étiquette peut être attachée à une étiquette qui est solidement attachée au colis."
+        },
+        {
+          "letter": "C",
+          "text": "L'article peut être marqué avec un grand point orange."
+        },
+        {
+          "letter": "D",
+          "text": "L'article peut être placé dans une boîte affichant une étiquette d'avertissement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "L'étiquette peut être attachée à une étiquette qui est solidement attachée au colis.",
+      "explanation": "Les expéditeurs doivent placer des étiquettes d'avertissement de danger en forme de losange sur la plupart des colis de matériaux dangereux. Si l'étiquette ne rentre pas sur le colis, elle peut être placée sur une étiquette qui est solidement attachée au colis."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10125",
+      "question": "Lorsque vous êtes assis derrière le volant, les documents d'expédition doivent être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "À portée de main."
+        },
+        {
+          "letter": "B",
+          "text": "Dans le compartiment de couchage."
+        },
+        {
+          "letter": "C",
+          "text": "Cachés sous le siège."
+        },
+        {
+          "letter": "D",
+          "text": "Collés à la fenêtre du côté passager."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "À portée de main.",
+      "explanation": "Lors du transport de matières dangereuses, les documents d'expédition doivent être conservés dans une pochette sur la portière du côté du conducteur, ou dans un autre endroit où le conducteur peut facilement les atteindre alors que sa ceinture de sécurité est attachée. Les documents doivent être facilement visibles pour toute personne entrant dans la cabine."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9477",
+      "question": "En général, avant de charger ou de décharger des liquides inflammables, un moteur devrait être:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Éteint."
+        },
+        {
+          "letter": "B",
+          "text": "Emballé."
+        },
+        {
+          "letter": "C",
+          "text": "Allumé."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Éteint.",
+      "explanation": "Avant le chargement ou le déchargement d'un réservoir contenant des liquides inflammables, vous devez arrêter le moteur, sauf si le moteur doit fonctionner pour actionner une pompe. Mettez le réservoir à la terre avant d'ouvrir le trou de remplissage et maintenez la terre jusqu'après la fermeture du trou de remplissage."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9552",
+      "question": "Lors du chargement de matières dangereuses, vous devez faire tous les éléments suivants, sauf :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Engagez le frein de stationnement."
+        },
+        {
+          "letter": "B",
+          "text": "Chargez les matériaux loin de la chaleur."
+        },
+        {
+          "letter": "C",
+          "text": "Surveillez les signes de fuite."
+        },
+        {
+          "letter": "D",
+          "text": "Utiliser un crochet."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Utiliser un crochet.",
+      "explanation": "Lors du chargement de matières dangereuses, n'utilisez pas de crochets ou d'outils qui pourraient endommager les conteneurs ou autres emballages."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8699",
+      "question": "Les conteneurs de matières dangereuses doivent être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De couleurs vives."
+        },
+        {
+          "letter": "B",
+          "text": "Calés pour empêcher tout mouvement pendant le transport."
+        },
+        {
+          "letter": "C",
+          "text": "Faits de carton."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Calés pour empêcher tout mouvement pendant le transport.",
+      "explanation": "Les conteneurs de matières dangereuses doivent être calés pour qu'ils ne tombent pas, ne glissent pas ou ne rebondissent pas pendant le transport."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8953",
+      "question": "Lorsqu'un conducteur n'est pas dans son véhicule, les documents d'expédition des matières dangereuses doivent être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gardés sur la personne du conducteur."
+        },
+        {
+          "letter": "B",
+          "text": "Gardés sur le siège du conducteur."
+        },
+        {
+          "letter": "C",
+          "text": "Gardés sous le siège du passager."
+        },
+        {
+          "letter": "D",
+          "text": "Placés sur le tableau de bord."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Gardés sur le siège du conducteur.",
+      "explanation": "Les documents d'expédition pour les matières dangereuses doivent toujours être facilement accessibles. Lorsqu'un conducteur n'est pas dans son véhicule, les documents d'expédition des matières dangereuses doivent être laissés sur le siège du conducteur."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8713",
+      "question": "Si vous remarquez une fuite de cargaison, vous devriez identifier les matières dangereuses qui fuient en:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En sentant les matériaux."
+        },
+        {
+          "letter": "B",
+          "text": "En touchant les matériaux."
+        },
+        {
+          "letter": "C",
+          "text": "Utilisant les documents d'expédition."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Utilisant les documents d'expédition.",
+      "explanation": "Si vous découvrez une fuite de cargaison lors du transport de matières dangereuses, utilisez les documents d'expédition, l'étiquette ou l'emplacement du colis pour identifier les matériaux impliqués. Ne tentez pas de toucher ou de sentir les matériaux qui fuient pour déterminer ce qu'ils sont, car cela pourrait entraîner des blessures ou la mort."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11437",
+      "question": "Quel type de matériau peut être tenu d'avoir un indice de transport ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corrosif"
+        },
+        {
+          "letter": "B",
+          "text": "Radioactive"
+        },
+        {
+          "letter": "C",
+          "text": "Toxique"
+        },
+        {
+          "letter": "D",
+          "text": "Explosive"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Radioactive",
+      "explanation": "Certaines matières radioactives doivent être accompagnées d'un indice de transport. Un indice de transport est un numéro qui indique le contrôle dont la matière aura besoin pendant le transport. L'indice de transport total de toutes les marchandises dans un seul véhicule ne peut pas dépasser 50."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8977",
+      "question": "Les articles de classe 1, classe 2.1 et classe 3 ne doivent pas être placés dans une remorque avec :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un radiateur."
+        },
+        {
+          "letter": "B",
+          "text": "Un climatiseur."
+        },
+        {
+          "letter": "C",
+          "text": "D'autres articles."
+        },
+        {
+          "letter": "D",
+          "text": "Batteries."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un radiateur.",
+      "explanation": "L'utilisation de chauffages de chargement n'est pas toujours autorisée. Lors du transport de matériaux classés comme classe 1 (Explosifs), classe 2.1 (Gaz inflammable) ou classe 3 (Liquides inflammables), les chauffages sont généralement interdits."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8675",
+      "question": "La classe de danger d'une matière reflète :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les risques associés à la matière."
+        },
+        {
+          "letter": "B",
+          "text": "La rapidité avec laquelle la matière doit atteindre sa destination."
+        },
+        {
+          "letter": "C",
+          "text": "Le poids de la matière."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les risques associés à la matière.",
+      "explanation": "Une matière dangereuse sera classée dans l'une des neuf catégories pour expliquer le type de risques associés à la matière."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8685",
+      "question": "Si \"Inhalation Hazard\" apparaît sur un document d'expédition, l'expéditeur devrait fournir quel panneau?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Liquide"
+        },
+        {
+          "letter": "B",
+          "text": "Poison Gas ou Poison Inhalation Hazard"
+        },
+        {
+          "letter": "C",
+          "text": "Quantité Déclarable"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Poison Gas ou Poison Inhalation Hazard",
+      "explanation": "Si les mots \"Inhalation Hazard\" apparaissent sur le document d'expédition ou l'emballage, vous devez afficher les panneaux \"Poison Inhalation Hazard\" ou \"Poison Gas\", selon le cas."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11505",
+      "question": "Le numéro d'identification d'une matière dangereuse devrait apparaître :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur le pare-chocs du véhicule de transport."
+        },
+        {
+          "letter": "B",
+          "text": "Sur l'emballage de la matière."
+        },
+        {
+          "letter": "C",
+          "text": "Sur un autocollant près du conteneur d'expédition de la matière."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sur l'emballage de la matière.",
+      "explanation": "Le numéro d'identification d'une matière doit apparaître sur son document d'expédition accompagnateur ainsi que sur son emballage. Il doit également apparaître sur les citernes de fret et autres emballages en vrac."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11335",
+      "question": "Une personne surveillant un véhicule porteur d'étiquettes de danger doit être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "À l'intérieur d'une station-service en regardant par une fenêtre."
+        },
+        {
+          "letter": "B",
+          "text": "Dans le véhicule, éveillé ou endormi."
+        },
+        {
+          "letter": "C",
+          "text": "À moins de 100 pieds du véhicule."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "À moins de 100 pieds du véhicule.",
+      "explanation": "Une personne surveillant un véhicule porteur d'étiquettes de danger doit être éveillée à l'intérieur du véhicule ou autrement à moins de 100 pieds du véhicule ; connaître les risques associés aux matériaux ; savoir quoi faire en cas d'urgence ; et être capable et autorisée à déplacer le réservoir si nécessaire."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "9484",
+      "question": "Si des matières corrosives fuient dans une remorque, la remorque devrait être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nettoyées avec de l'acide."
+        },
+        {
+          "letter": "B",
+          "text": "Nettoyées à l'eau."
+        },
+        {
+          "letter": "C",
+          "text": "Laissées à sécher à l'air sans lavage."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Nettoyées à l'eau.",
+      "explanation": "Les parties d'un véhicule qui ont été exposées à des liquides corrosifs doivent être soigneusement lavées à l'eau."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8706",
+      "question": "Une personne ne doit pas fumer à moins de ____ d'un véhicule portant une plaque pour les matières de classe 3 ou division 2.1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 feet"
+        },
+        {
+          "letter": "B",
+          "text": "25 feet"
+        },
+        {
+          "letter": "C",
+          "text": "100 feet"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "25 feet",
+      "explanation": "Vous ne devez pas fumer à moins de 25 feet d'un wagon-citerne portant une plaque utilisé pour transporter des matières classées en classe 3 (liquides inflammables) ou division 2.1 (gaz). Ne fumez pas et ne transportez pas de cigare, pipe ou cigarette allumés près d'un véhicule contenant des matières inflammables ou explosives."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "8925",
+      "question": "Une personne qui surveille le chargement ou le déchargement d'un réservoir doit faire tout ce qui suit, sauf :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rester vigilant."
+        },
+        {
+          "letter": "B",
+          "text": "Rester à moins de 25 pieds du réservoir."
+        },
+        {
+          "letter": "C",
+          "text": "Porter une combinaison chimique."
+        },
+        {
+          "letter": "D",
+          "text": "Connaître les risques des matières impliquées."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Porter une combinaison chimique.",
+      "explanation": "La personne responsable du chargement ou du déchargement d'un camion-citerne de matières dangereuses doit s'assurer qu'une personne qualifiée supervise toujours le processus. Le superviseur doit être attentif ; avoir une vue claire du réservoir ; être à moins de 25 pieds du réservoir ; connaître les risques des matières impliquées ; connaître les procédures à suivre en cas d'urgence ; et être autorisé et capable de déplacer le réservoir."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "8672",
+      "question": "Lors de la demande d'un permis HazMat original ou renouvelé, vous devez subir une vérification des antécédents par quelle agence ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'Administration de la sécurité des transports"
+        },
+        {
+          "letter": "B",
+          "text": "Le Federal Bureau of Investigation"
+        },
+        {
+          "letter": "C",
+          "text": "Le Département de l'énergie"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "L'Administration de la sécurité des transports",
+      "explanation": "Lors de la demande d'un permis HazMat original ou renouvelé, vous devez subir une évaluation fédérale de la menace de sécurité effectuée par la Transportation Security Administration (TSA)."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "10148",
+      "question": "Si vous transportez des explosifs et que votre véhicule tombe en panne, vous pouvez notifier les autres conducteurs:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avec des fusées éclairantes."
+        },
+        {
+          "letter": "B",
+          "text": "Avec des feux électriques."
+        },
+        {
+          "letter": "C",
+          "text": "En vous tenant sur la route et en agitant les bras."
+        },
+        {
+          "letter": "D",
+          "text": "En gardant la portière du côté du conducteur ouverte."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Avec des feux électriques.",
+      "explanation": "Si votre véhicule tombe en panne sur la route pendant que vous transportez des matières explosives, vous devez avertir les autres conducteurs. Mettez en place des signaux d'avertissement tels que des triangles réfléchissants ou des feux électriques si vous transportez des explosifs de division 1.1, 1.2 ou 1.3. Faites de même si vous conduisez un wagon-citerne utilisé pour transporter des liquides inflammables de classe 3 ou des gaz inflammables de division 2.1, même si le wagon-citerne est vide. Si vous transportez des matières inflammables, n'utilisez pas de signaux d'avertissement qui pourraient enflammer votre cargaison."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "8949",
+      "question": "Un matériau dangereux de classe 7 est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explosif."
+        },
+        {
+          "letter": "B",
+          "text": "Inflammables."
+        },
+        {
+          "letter": "C",
+          "text": "Radioactifs."
+        },
+        {
+          "letter": "D",
+          "text": "Corrosif."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Radioactifs.",
+      "explanation": "Les matériaux radioactifs sont classés comme matériaux dangereux de classe 7."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "8946",
+      "question": "Que doit faire un transporteur si les matières dangereuses ne sont pas correctement préparées ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accepter l'envoi"
+        },
+        {
+          "letter": "B",
+          "text": "Accepter l'envoi sous réserve"
+        },
+        {
+          "letter": "C",
+          "text": "Accepter l'envoi, mais faire une notation sur les documents"
+        },
+        {
+          "letter": "D",
+          "text": "Refuser l'envoi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Refuser l'envoi",
+      "explanation": "Il est de la responsabilité du transporteur de refuser les envois impropres de matières dangereuses."
+    }
+  ]
+}

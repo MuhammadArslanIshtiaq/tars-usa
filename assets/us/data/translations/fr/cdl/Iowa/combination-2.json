@@ -1,0 +1,450 @@
+{
+  "state": "Iowa",
+  "category": "cdl",
+  "testName": "Combination Test #2 20 Questions • Passing Score 16",
+  "testSlug": "combination-2",
+  "url": "/images/iowa/cdl/combination-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11528",
+      "question": "Avant un trajet, vous pouvez vous assurer que l'air s'écoule vers toutes les remorques en :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vérifier le mouvement de l'air à l'intérieur de chaque remorque."
+        },
+        {
+          "letter": "B",
+          "text": "Écouter l'air au robinet d'arrêt arrière."
+        },
+        {
+          "letter": "C",
+          "text": "Sentir l'air au robinet d'arrêt avant."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Écouter l'air au robinet d'arrêt arrière.",
+      "explanation": "Avant un trajet, assurez-vous que l'air du système de freinage pneumatique atteint toutes les remorques. Faites cela en attendant que la pression d'air s'accumule, puis en envoyant de l'air aux conduites d'urgence et de service et en ouvrant les robinets d'arrêt à l'arrière de la dernière remorque. Si l'air s'échappe des robinets d'arrêt à l'arrière du combiné, l'air est fourni au véhicule entier."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11831",
+      "question": "Dans un véhicule équipé d'une soupape automatique de protection du tracteur, la soupape se déploiera lorsque la pression d'air chute à un niveau entre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 et 45 psi."
+        },
+        {
+          "letter": "B",
+          "text": "75 et 105 psi."
+        },
+        {
+          "letter": "C",
+          "text": "50 et 65 psi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "20 et 45 psi.",
+      "explanation": "Dans les véhicules équipés d'une soupape automatique de protection du tracteur, la soupape se déploiera si la pression d'air chute à un niveau entre 20 et 45 psi. Lorsque la soupape se déploie, la soupape de protection se ferme, arrêtant le flux d'air."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11856",
+      "question": "Lorsque vous reculez votre tracteur tout en l'accouplant à une remorque, les freins de la remorque devraient être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Désactivés."
+        },
+        {
+          "letter": "B",
+          "text": "Verrouillés."
+        },
+        {
+          "letter": "C",
+          "text": "Déverrouillés."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Verrouillés.",
+      "explanation": "Suivre correctement les étapes de couplage et de découplage des remorques est vital pour faire fonctionner en toute sécurité un véhicule combiné. Avant de reculer votre tracteur sous la remorque lors du couplage, assurez-vous que les freins de votre remorque sont verrouillés."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11522",
+      "question": "Si une remorque commence à se mettre en portefeuille, le conducteur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne devrait pas appliquer le frein à main de la remorque."
+        },
+        {
+          "letter": "B",
+          "text": "Devrait appliquer fermement les freins."
+        },
+        {
+          "letter": "C",
+          "text": "Peut redresser la remorque avec le frein de stationnement."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ne devrait pas appliquer le frein à main de la remorque.",
+      "explanation": "Si une remorque commence à se mettre en portefeuille, vous devez relâcher les freins et permettre aux roues de la remorque de retrouver leur adhérence avec la route. N'appliquez pas le frein à main de la remorque pour tenter de redresser l'ensemble car l'application des freins est ce qui a causé le blocage des roues en premier lieu."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10913",
+      "question": "Lors de l'attelage d'une remorque :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Assurez-vous d'accoupler les bonnes têtes de raccord."
+        },
+        {
+          "letter": "B",
+          "text": "Les raccords de tuyauterie peuvent être connectés à n'importe quels autres raccords de tuyauterie."
+        },
+        {
+          "letter": "C",
+          "text": "Un seul ensemble de raccords de tuyauterie doit être connecté."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Assurez-vous d'accoupler les bonnes têtes de raccord.",
+      "explanation": "Lors de l'attelage, assurez-vous d'accoupler les raccords de tuyauterie assortis. Ils sont souvent codés par couleur pour aider les conducteurs à éviter les erreurs. Généralement, le bleu est utilisé pour les conduites de service et le rouge pour les conduites d'urgence."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10912",
+      "question": "Qu'est-ce que la soupape de protection du tracteur ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une soupape qui maintient l'air dans le système de freinage en cas de fuite importante"
+        },
+        {
+          "letter": "B",
+          "text": "Une soupape qui empêche le dégagement accidentel de la remorque"
+        },
+        {
+          "letter": "C",
+          "text": "Une soupape qui empêche le véhicule d'aller trop vite"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une soupape qui maintient l'air dans le système de freinage en cas de fuite importante",
+      "explanation": "Une soupape de protection du tracteur maintient l'air dans un système de freinage à air d'un tracteur ou d'un camion si la remorque se détache ou développe une fuite importante. La soupape se fermera automatiquement si la pression chute à un niveau dangereux."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11200",
+      "question": "Pour prévenir un renversement, la cargaison devrait être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chargée avec la majorité du poids du côté du conducteur de la remorque."
+        },
+        {
+          "letter": "B",
+          "text": "Placée près de l'arrière de la remorque."
+        },
+        {
+          "letter": "C",
+          "text": "Répartie dans la remorque."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Répartie dans la remorque.",
+      "explanation": "Le poids de la cargaison devrait être distribué uniformément dans la remorque pour réduire le risque de renversement. Ne placez pas trop de poids d'un côté de la remorque."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11076",
+      "question": "Lors du freinage tout en tractant une remorque équipée de freins antiblocage, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pompez les freins."
+        },
+        {
+          "letter": "B",
+          "text": "Utiliser une force de freinage supplémentaire pour assurer l'activation des freins."
+        },
+        {
+          "letter": "C",
+          "text": "Freiner comme vous le feriez sans freins antiblocage."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Freiner comme vous le feriez sans freins antiblocage.",
+      "explanation": "Lors de la conduite d'une combinaison tracteur-remorque équipée d'un système de freinage antiblocage (ABS), vous devez freiner de la même manière que vous le feriez si le véhicule n'était pas équipé d'ABS."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11145",
+      "question": "Lors de l'accouplement :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous pouvez supposer que tous les véhicules sont identiques."
+        },
+        {
+          "letter": "B",
+          "text": "Assurez-vous que vous accoupplez correctement."
+        },
+        {
+          "letter": "C",
+          "text": "Les fissures dans le montage sont acceptables."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Assurez-vous que vous accoupplez correctement.",
+      "explanation": "L'accouplement et le désaccouplement incorrects des véhicules combinés peuvent avoir des conséquences extrêmement dangereuses."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11210",
+      "question": "Un véhicule articulé a ____ conduite(s) d'air.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un"
+        },
+        {
+          "letter": "B",
+          "text": "Deux"
+        },
+        {
+          "letter": "C",
+          "text": "Trois"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Deux",
+      "explanation": "Chaque véhicule articulé a deux conduites d'air : la conduite de service et la conduite d'urgence."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11045",
+      "question": "Les véhicules articulés :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont généralement plus courts que les véhicules commerciaux simples."
+        },
+        {
+          "letter": "B",
+          "text": "Nécessitent généralement moins de compétences pour conduire que les véhicules commerciaux simples."
+        },
+        {
+          "letter": "C",
+          "text": "Nécessitent généralement plus de compétences pour conduire que les véhicules commerciaux simples."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Nécessitent généralement plus de compétences pour conduire que les véhicules commerciaux simples.",
+      "explanation": "La conduite de véhicules articulés nécessite plus de compétences que la conduite de véhicules commerciaux simples. Les véhicules articulés sont généralement plus longs, généralement plus lourds et sont plus vulnérables au renversement."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9608",
+      "question": "Si votre véhicule se bloque sur une voie ferrée, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rester dans la cabine et appeler à l'aide."
+        },
+        {
+          "letter": "B",
+          "text": "Sortir de la cabine et vous éloigner des voies."
+        },
+        {
+          "letter": "C",
+          "text": "Faire signe à un autre conducteur de pousser votre véhicule."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sortir de la cabine et vous éloigner des voies.",
+      "explanation": "Si votre véhicule se bloque sur une voie ferrée pour une raison quelconque, vous devriez immédiatement sortir du véhicule et vous éloigner des voies. Contactez les autorités d'urgence appropriées."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10702",
+      "question": "Pour contrôler le surge lors de l'arrêt, vous ne devriez pas :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maintenir une pression constante sur les freins."
+        },
+        {
+          "letter": "B",
+          "text": "Freiner bien avant un arrêt."
+        },
+        {
+          "letter": "C",
+          "text": "Relâcher les freins trop rapidement."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Relâcher les freins trop rapidement.",
+      "explanation": "Pour réduire le risque d'une montée en pression dans un véhicule-citerne, ralentissez ou arrêtez-vous tout en maintenant une pression constante sur les freins et ne relâchez pas les freins trop tôt. Freinez bien avant un arrêt et augmentez votre distance de suivi."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11846",
+      "question": "Les tracteurs bobtail sont ____ à arrêter que les tracteurs attachés à des semi-remorques complètes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plus rapide"
+        },
+        {
+          "letter": "B",
+          "text": "Plus facile"
+        },
+        {
+          "letter": "C",
+          "text": "Plus difficile"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Plus difficile",
+      "explanation": "Les tracteurs bobtail sont des tracteurs qui ne sont attachés à aucune semi-remorque. Lors de l'utilisation d'un bobtail, vous devez être conscient que l'arrêt peut être difficile et qu'il faudra une plus longue distance pour s'arrêter complètement qu'un tracteur attaché à une semi-remorque chargée."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10314",
+      "question": "Lors du recul d'une remorque, vous devez tourner le volant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dans la direction où vous voulez que la remorque se déplace."
+        },
+        {
+          "letter": "B",
+          "text": "Dans la direction opposée à celle où vous voulez que la remorque se déplace."
+        },
+        {
+          "letter": "C",
+          "text": "Vers la gauche jusqu'à la fin du recul."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dans la direction opposée à celle où vous voulez que la remorque se déplace.",
+      "explanation": "Lors du recul d'un véhicule avec une remorque, vous devez tourner le volant dans la direction opposée à celle où vous voulez aller. Une fois que votre remorque commence à tourner, vous devez tourner le volant dans l'autre sens pour suivre la remorque."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11851",
+      "question": "Si la ligne de freinage d'urgence perd de la pression :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les freins de service s'activeront."
+        },
+        {
+          "letter": "B",
+          "text": "Le clapet de protection du tracteur se fermera."
+        },
+        {
+          "letter": "C",
+          "text": "La remorque arrière se détachera de la combinaison."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Le clapet de protection du tracteur se fermera.",
+      "explanation": "Le clapet de protection du tracteur maintient l'air dans le système de freinage de la remorque en cas de détachement de la remorque ou de fuite. Une perte de pression d'air dans la conduite d'urgence provoquera l'ouverture du clapet de protection du tracteur et l'activation des freins d'urgence de la remorque."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11208",
+      "question": "Si une remorque stationnée n'a pas de freins de ressort, vous devriez empêcher la remorque de se déplacer en :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En ayant le véhicule garé contre un mur ou un autre véhicule."
+        },
+        {
+          "letter": "B",
+          "text": "Utilisant des cales de roue."
+        },
+        {
+          "letter": "C",
+          "text": "En stationnant sur une légère pente."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Utilisant des cales de roue.",
+      "explanation": "Si une remorque stationnée n'a pas de freins de ressort, des cales de roue doivent être utilisées pour l'empêcher de se déplacer."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11857",
+      "question": "Dans une combinaison double ou triple, la remorque ____ devrait être directement derrière la cabine.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La plus légère"
+        },
+        {
+          "letter": "B",
+          "text": "La plus lourdement chargée"
+        },
+        {
+          "letter": "C",
+          "text": "La plus petite"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La plus lourdement chargée",
+      "explanation": "Lors du positionnement des remorques dans une combinaison, la remorque la plus lourdement chargée devrait être la plus proche du tracteur. La remorque la plus légère doit être positionnée à l'arrière."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11524",
+      "question": "Les clapets d'arrêt :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empêchent l'air de s'échapper des systèmes de freins à air."
+        },
+        {
+          "letter": "B",
+          "text": "Empêchent l'air d'entrer dans les systèmes de freins à air."
+        },
+        {
+          "letter": "C",
+          "text": "Anulent les véhicules qui sont hors de contrôle."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Empêchent l'air de s'échapper des systèmes de freins à air.",
+      "explanation": "Les soupapes d'arrêt sont utilisées dans les conduites d'alimentation en air pour contrôler le passage de l'air d'une remorque à l'autre. La soupape d'arrêt arrière devrait toujours être fermée pour éviter que l'air ne s'échappe du système de freinage."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8645",
+      "question": "Qu'est-ce qu'un tracteur bobtail ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tracteur sans semi-remorque"
+        },
+        {
+          "letter": "B",
+          "text": "Un tracteur avec deux semi-remorques"
+        },
+        {
+          "letter": "C",
+          "text": "Un tracteur qui roule plus vite que la limite de vitesse"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un tracteur sans semi-remorque",
+      "explanation": "Les tracteurs sans semi-remorques sont appelés « tracteurs bobtail ». Les tracteurs bobtail sont difficiles à conduire et les conducteurs doivent faire preuve de prudence."
+    }
+  ]
+}

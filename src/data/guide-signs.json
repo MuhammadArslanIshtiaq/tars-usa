@@ -1,0 +1,1329 @@
+{
+  "guide": [
+    {
+      "id": 1,
+      "type": "guide",
+      "title_en": "A Deadend Road",
+      "description_en": "This sign indicates a dead-end road ahead.",
+      "image_path": "signs/guide-signs/a-Deadend-Road.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "بند سڑک",
+          "description": "یہ نشان آگے ایک بند سڑک کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "طريق مسدود",
+          "description": "تشير هذه اللافتة إلى طريق مسدود أمامك."
+        },
+        "hi": {
+          "title": "बंद सड़क",
+          "description": "यह संकेत आगे एक बंद सड़क को दर्शाता है।"
+        },
+        "bn": {
+          "title": "বন্ধ রাস্তা",
+          "description": "এই সাইনটি সামনে একটি বন্ধ রাস্তা নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": "guide",
+      "title_en": "Aid Center",
+      "description_en": "This sign indicates the location of an aid or medical center.",
+      "image_path": "signs/guide-signs/aid-Center.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "امدادی مرکز",
+          "description": "یہ نشان امدادی یا طبی مرکز کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مركز المساعدة",
+          "description": "تشير هذه اللافتة إلى موقع مركز المساعدة أو المركز الطبي."
+        },
+        "hi": {
+          "title": "सहायता केंद्र",
+          "description": "यह संकेत सहायता या चिकित्सा केंद्र के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "সাহায্য কেন্দ্র",
+          "description": "এই সাইনটি সাহায্য বা চিকিৎসা কেন্দ্রের অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "guide",
+      "title_en": "Airport",
+      "description_en": "This sign indicates the direction to the airport.",
+      "image_path": "signs/guide-signs/airport.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ہوائی اڈہ",
+          "description": "یہ نشان ہوائی اڈے کی سمت کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مطار",
+          "description": "تشير هذه اللافتة إلى الاتجاه نحو المطار."
+        },
+        "hi": {
+          "title": "हवाई अड्डा",
+          "description": "यह संकेत हवाई अड्डे की दिशा को दर्शाता है।"
+        },
+        "bn": {
+          "title": "বিমানবন্দর",
+          "description": "এই সাইনটি বিমানবন্দরের দিকনির্দেশ নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "guide",
+      "title_en": "Branch Road",
+      "description_en": "This sign indicates a branch road or intersection ahead.",
+      "image_path": "signs/guide-signs/branch-road.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "شاخ سڑک",
+          "description": "یہ نشان آگے ایک شاخ سڑک یا چوراہے کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "طريق متفرع",
+          "description": "تشير هذه اللافتة إلى طريق متفرع أو تقاطع أمامك."
+        },
+        "hi": {
+          "title": "शाखा सड़क",
+          "description": "यह संकेत आगे एक शाखा सड़क या चौराहे को दर्शाता है।"
+        },
+        "bn": {
+          "title": "শাখা রাস্তা",
+          "description": "এই সাইনটি সামনে একটি শাখা রাস্তা বা সংযোগস্থল নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "guide",
+      "title_en": "Bus Station",
+      "description_en": "This sign indicates the location of a bus station.",
+      "image_path": "signs/guide-signs/bus-Station.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "بس اسٹیشن",
+          "description": "یہ نشان بس اسٹیشن کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "محطة الحافلات",
+          "description": "تشير هذه اللافتة إلى موقع محطة الحافلات."
+        },
+        "hi": {
+          "title": "बस स्टेशन",
+          "description": "यह संकेत बस स्टेशन के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "বাস স্টেশন",
+          "description": "এই সাইনটি বাস স্টেশনের অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "guide",
+      "title_en": "Cafe",
+      "description_en": "This sign indicates the location of a cafe or coffee shop.",
+      "image_path": "signs/guide-signs/cafe.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "کیفے",
+          "description": "یہ نشان کیفے یا کافی شاپ کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مقهى",
+          "description": "تشير هذه اللافتة إلى موقع مقهى أو محل قهوة."
+        },
+        "hi": {
+          "title": "कैफे",
+          "description": "यह संकेत कैफे या कॉफी शॉप के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "ক্যাফে",
+          "description": "এই সাইনটি ক্যাফে বা কফি শপের অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "type": "guide",
+      "title_en": "Camp",
+      "description_en": "This sign indicates the location of a camping area or campsite.",
+      "image_path": "signs/guide-signs/camp.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "کیمپ",
+          "description": "یہ نشان کیمپنگ ایریا یا کیمپ سائٹ کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مخيم",
+          "description": "تشير هذه اللافتة إلى موقع منطقة تخييم أو موقع مخيم."
+        },
+        "hi": {
+          "title": "कैंप",
+          "description": "यह संकेत कैंपिंग क्षेत्र या कैंपसाइट के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "ক্যাম্প",
+          "description": "এই সাইনটি ক্যাম্পিং এলাকা বা ক্যাম্পসাইটের অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "type": "guide",
+      "title_en": "Count Down Markers",
+      "description_en": "This sign indicates countdown markers on the road.",
+      "image_path": "signs/guide-signs/Count-down-markers.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "الٹی گنتی کے نشانات",
+          "description": "یہ نشان سڑک پر الٹی گنتی کے نشانات کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "علامات العد التنازلي",
+          "description": "تشير هذه اللافتة إلى علامات العد التنازلي على الطريق."
+        },
+        "hi": {
+          "title": "काउंट डाउन मार्कर",
+          "description": "यह संकेत सड़क पर काउंट डाउन मार्कर को दर्शाता है।"
+        },
+        "bn": {
+          "title": "গণনা ডাউন মার্কার",
+          "description": "এই সাইনটি রাস্তার উপর গণনা ডাউন মার্কার নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "type": "guide",
+      "title_en": "Deadend On Left",
+      "description_en": "This sign indicates a dead end on the left.",
+      "image_path": "signs/guide-signs/Deadend-on-Left.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "بائیں طرف بند راستہ",
+          "description": "یہ نشان بائیں طرف ایک بند راستے کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "طريق مسدود على اليسار",
+          "description": "تشير هذه اللافتة إلى طريق مسدود على اليسار."
+        },
+        "hi": {
+          "title": "बाईं ओर बंद रास्ता",
+          "description": "यह संकेत बाईं ओर एक बंद रास्ते को दर्शाता है।"
+        },
+        "bn": {
+          "title": "বাম দিকে বন্ধ রাস্তা",
+          "description": "এই সাইনটি বাম দিকে একটি বন্ধ রাস্তা নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "type": "guide",
+      "title_en": "Directional Signs",
+      "description_en": "This sign provides directional information to help drivers navigate.",
+      "image_path": "signs/guide-signs/Directional-Signs.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "سمتی نشانات",
+          "description": "یہ نشان ڈرائیوروں کو راستہ تلاش کرنے میں مدد کرنے کے لیے سمت کی معلومات فراہم کرتا ہے۔"
+        },
+        "ar": {
+          "title": "لافتات اتجاهية",
+          "description": "توفر هذه اللافتة معلومات اتجاهية لمساعدة السائقين في التنقل."
+        },
+        "hi": {
+          "title": "दिशात्मक संकेत",
+          "description": "यह संकेत चालकों को नेविगेट करने में मदद करने के लिए दिशात्मक जानकारी प्रदान करता है।"
+        },
+        "bn": {
+          "title": "দিকনির্দেশক সাইন",
+          "description": "এই সাইনটি চালকদের নেভিগেট করতে সাহায্য করার জন্য দিকনির্দেশক তথ্য প্রদান করে।"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "type": "guide",
+      "title_en": "Directions To Dubai International Airport",
+      "description_en": "This sign indicates the direction to Dubai International Airport.",
+      "image_path": "signs/guide-signs/Directions-to-Dubai-International-Airport.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "دبئی بین الاقوامی ہوائی اڈے کی سمت",
+          "description": "یہ نشان دبئی بین الاقوامی ہوائی اڈے کی سمت کو ظاہر کرتا ہے۔"
+        },
+        "ar": {
+          "title": "اتجاه مطار دبي الدولي",
+          "description": "تشير هذه اللافتة إلى الاتجاه نحو مطار دبي الدولي."
+        },
+        "hi": {
+          "title": "दुबई अंतर्राष्ट्रीय हवाई अड्डे की दिशा",
+          "description": "यह संकेत दुबई अंतर्राष्ट्रीय हवाई अड्डे की दिशा को दर्शाता है।"
+        },
+        "bn": {
+          "title": "দুবাই আন্তর্জাতিক বিমানবন্দরের দিকনির্দেশ",
+          "description": "এই সাইনটি দুবাই আন্তর্জাতিক বিমানবন্দরের দিকনির্দেশ নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "type": "guide",
+      "title_en": "Directions To Freeways",
+      "description_en": "This sign indicates the direction to freeways or highways.",
+      "image_path": "signs/guide-signs/Directions-to-Freeways.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "فری ویز کی سمت",
+          "description": "یہ نشان فری ویز یا شاہراہوں کی سمت کو ظاہر کرتا ہے۔"
+        },
+        "ar": {
+          "title": "اتجاه الطرق السريعة",
+          "description": "تشير هذه اللافتة إلى الاتجاه نحو الطرق السريعة."
+        },
+        "hi": {
+          "title": "फ्रीवे की दिशा",
+          "description": "यह संकेत फ्रीवे या राजमार्गों की दिशा को दर्शाता है।"
+        },
+        "bn": {
+          "title": "ফ্রিওয়ের দিকনির্দেশ",
+          "description": "এই সাইনটি ফ্রিওয়ে বা হাইওয়ের দিকনির্দেশ নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "type": "guide",
+      "title_en": "Diversion Of Traffic Route",
+      "description_en": "This sign indicates a diversion or detour route for traffic.",
+      "image_path": "signs/guide-signs/Diversion-of-traffic-route.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ٹریفک کے راستے میں تبدیلی",
+          "description": "یہ نشان ٹریفک کے لیے ایک تبدیلی یا متبادل راستے کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "تحويل مسار حركة المرور",
+          "description": "تشير هذه اللافتة إلى مسار تحويل أو طريق بديل لحركة المرور."
+        },
+        "hi": {
+          "title": "यातायात मार्ग का मोड़",
+          "description": "यह संकेत यातायात के लिए एक मोड़ या वैकल्पिक मार्ग को दर्शाता है।"
+        },
+        "bn": {
+          "title": "ট্র্যাফিক রুটের পরিবর্তন",
+          "description": "এই সাইনটি ট্র্যাফিকের জন্য একটি পরিবর্তন বা বিকল্প রুট নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "type": "guide",
+      "title_en": "Do Not Enter Junction Until Exit Is Clear",
+      "description_en": "This sign indicates that drivers should not enter the junction until the exit is clear.",
+      "image_path": "signs/guide-signs/Do-not-enter-junction-until-exit-is-clear.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "جنکشن میں داخل نہ ہوں جب تک کہ باہر نکلنے کا راستہ صاف نہ ہو",
+          "description": "یہ نشان ظاہر کرتا ہے کہ ڈرائیوروں کو جنکشن میں داخل نہیں ہونا چاہیے جب تک کہ باہر نکلنے کا راستہ صاف نہ ہو۔"
+        },
+        "ar": {
+          "title": "لا تدخل التقاطع حتى يصبح المخرج واضحًا",
+          "description": "تشير هذه اللافتة إلى أنه يجب على السائقين عدم دخول التقاطع حتى يصبح المخرج واضحًا."
+        },
+        "hi": {
+          "title": "जब तक बाहर निकलने का रास्ता साफ न हो, तब तक जंक्शन में प्रवेश न करें",
+          "description": "यह संकेत बताता है कि चालकों को जंक्शन में तब तक प्रवेश नहीं करना चाहिए जब तक बाहर निकलने का रास्ता साफ न हो।"
+        },
+        "bn": {
+          "title": "নির্গমন পথ পরিষ্কার না হওয়া পর্যন্ত জংশনে প্রবেশ করবেন না",
+          "description": "এই সাইনটি নির্দেশ করে যে নির্গমন পথ পরিষ্কার না হওয়া পর্যন্ত চালকদের জংশনে প্রবেশ করা উচিত নয়।"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "type": "guide",
+      "title_en": "East",
+      "description_en": "This sign indicates the east direction.",
+      "image_path": "signs/guide-signs/east.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "مشرق",
+          "description": "یہ نشان مشرق کی سمت کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "شرق",
+          "description": "تشير هذه اللافتة إلى الاتجاه الشرقي."
+        },
+        "hi": {
+          "title": "पूर्व",
+          "description": "यह संकेत पूर्व दिशा को दर्शाता है।"
+        },
+        "bn": {
+          "title": "পূর্ব",
+          "description": "এই সাইনটি পূর্ব দিক নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "type": "guide",
+      "title_en": "End Of Highway",
+      "description_en": "This sign indicates the end of a highway.",
+      "image_path": "signs/guide-signs/end-Of-highway.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "شاہراہ کا اختتام",
+          "description": "یہ نشان شاہراہ کے اختتام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "نهاية الطريق السريع",
+          "description": "تشير هذه اللافتة إلى نهاية الطريق السريع."
+        },
+        "hi": {
+          "title": "राजमार्ग का अंत",
+          "description": "यह संकेत राजमार्ग के अंत को दर्शाता है।"
+        },
+        "bn": {
+          "title": "হাইওয়ের শেষ",
+          "description": "এই সাইনটি হাইওয়ের শেষ নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "type": "guide",
+      "title_en": "Entrance To The City",
+      "description_en": "This sign indicates the entrance to a city.",
+      "image_path": "signs/guide-signs/entrance-to-the-city.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "شہر کا داخلی راستہ",
+          "description": "یہ نشان شہر کے داخلی راستے کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مدخل المدينة",
+          "description": "تشير هذه اللافتة إلى مدخل المدينة."
+        },
+        "hi": {
+          "title": "शहर का प्रवेश द्वार",
+          "description": "यह संकेत शहर के प्रवेश द्वार को दर्शाता है।"
+        },
+        "bn": {
+          "title": "শহরের প্রবেশদ্বার",
+          "description": "এই সাইনটি শহরের প্রবেশদ্বার নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "type": "guide",
+      "title_en": "Exit",
+      "description_en": "This sign indicates an exit from a highway or road.",
+      "image_path": "signs/guide-signs/exit.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "باہر نکلنے کا راستہ",
+          "description": "یہ نشان شاہراہ یا سڑک سے باہر نکلنے کے راستے کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مخرج",
+          "description": "تشير هذه اللافتة إلى مخرج من طريق سريع أو طريق."
+        },
+        "hi": {
+          "title": "निकास",
+          "description": "यह संकेत राजमार्ग या सड़क से निकास को दर्शाता है।"
+        },
+        "bn": {
+          "title": "নির্গমন",
+          "description": "এই সাইনটি হাইওয়ে বা রাস্তা থেকে নির্গমন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "type": "guide",
+      "title_en": "Go Signal",
+      "description_en": "This sign indicates a go signal or green light.",
+      "image_path": "signs/guide-signs/Go-Signal.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "چلنے کا اشارہ",
+          "description": "یہ نشان چلنے کا اشارہ یا سبز بتی کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "إشارة الانطلاق",
+          "description": "تشير هذه اللافتة إلى إشارة الانطلاق أو الضوء الأخضر."
+        },
+        "hi": {
+          "title": "चलने का संकेत",
+          "description": "यह संकेत चलने का संकेत या हरी बत्ती को दर्शाता है।"
+        },
+        "bn": {
+          "title": "যাওয়ার সংকেত",
+          "description": "এই সাইনটি যাওয়ার সংকেত বা সবুজ আলো নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "type": "guide",
+      "title_en": "Hospital",
+      "description_en": "This sign indicates the direction to the nearest hospital or medical facility.",
+      "image_path": "signs/guide-signs/Hospital.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ہسپتال",
+          "description": "یہ نشان قریب ترین ہسپتال یا طبی سہولت کی سمت کو ظاہر کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مستشفى",
+          "description": "تشير هذه اللافتة إلى الاتجاه نحو أقرب مستشفى أو مرفق طبي."
+        },
+        "hi": {
+          "title": "अस्पताल",
+          "description": "यह संकेत निकटतम अस्पताल या चिकित्सा सुविधा की दिशा को दर्शाता है।"
+        },
+        "bn": {
+          "title": "হাসপাতাল",
+          "description": "এই সাইনটি নিকটবর্তী হাসপাতাল বা চিকিৎসা সুবিধার দিকনির্দেশ নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "type": "guide",
+      "title_en": "Hotel",
+      "description_en": "This sign indicates the location of a hotel.",
+      "image_path": "signs/guide-signs/hotel.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ہوٹل",
+          "description": "یہ نشان ہوٹل کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "فندق",
+          "description": "تشير هذه اللافتة إلى موقع فندق."
+        },
+        "hi": {
+          "title": "होटल",
+          "description": "यह संकेत होटल के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "হোটেল",
+          "description": "এই সাইনটি হোটেলের অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "type": "guide",
+      "title_en": "Industrial Area",
+      "description_en": "This sign indicates an industrial area.",
+      "image_path": "signs/guide-signs/industrial-area.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "صنعتی علاقہ",
+          "description": "یہ نشان صنعتی علاقے کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "منطقة صناعية",
+          "description": "تشير هذه اللافتة إلى منطقة صناعية."
+        },
+        "hi": {
+          "title": "औद्योगिक क्षेत्र",
+          "description": "यह संकेत औद्योगिक क्षेत्र को दर्शाता है।"
+        },
+        "bn": {
+          "title": "শিল্প এলাকা",
+          "description": "এই সাইনটি শিল্প এলাকা নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "type": "guide",
+      "title_en": "Lane Ahead Closed",
+      "description_en": "This sign indicates that a lane ahead is closed.",
+      "image_path": "signs/guide-signs/Lane-ahead-closed.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "آگے لین بند ہے",
+          "description": "یہ نشان ظاہر کرتا ہے کہ آگے ایک لین بند ہے۔"
+        },
+        "ar": {
+          "title": "حارة مغلقة أمامك",
+          "description": "تشير هذه اللافتة إلى أن هناك حارة مغلقة أمامك."
+        },
+        "hi": {
+          "title": "आगे लेन बंद है",
+          "description": "यह संकेत बताता है कि आगे एक लेन बंद है।"
+        },
+        "bn": {
+          "title": "সামনে লেন বন্ধ",
+          "description": "এই সাইনটি নির্দেশ করে যে সামনে একটি লেন বন্ধ।"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "type": "guide",
+      "title_en": "Lane Ahead Open",
+      "description_en": "This sign indicates that a lane ahead is open.",
+      "image_path": "signs/guide-signs/Lane-ahead-open.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "آگے لین کھلی ہے",
+          "description": "یہ نشان ظاہر کرتا ہے کہ آگے ایک لین کھلی ہے۔"
+        },
+        "ar": {
+          "title": "حارة مفتوحة أمامك",
+          "description": "تشير هذه اللافتة إلى أن هناك حارة مفتوحة أمامك."
+        },
+        "hi": {
+          "title": "आगे लेन खुली है",
+          "description": "यह संकेत बताता है कि आगे एक लेन खुली है।"
+        },
+        "bn": {
+          "title": "সামনে লেন খোলা",
+          "description": "এই সাইনটি নির্দেশ করে যে সামনে একটি লেন খোলা।"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "type": "guide",
+      "title_en": "Main Road",
+      "description_en": "This sign indicates a main road or primary route.",
+      "image_path": "signs/guide-signs/main-road.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "مرکزی سڑک",
+          "description": "یہ نشان مرکزی سڑک یا بنیادی راستے کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "طريق رئيسي",
+          "description": "تشير هذه اللافتة إلى طريق رئيسي أو مسار أساسي."
+        },
+        "hi": {
+          "title": "मुख्य सड़क",
+          "description": "यह संकेत मुख्य सड़क या प्राथमिक मार्ग को दर्शाता है।"
+        },
+        "bn": {
+          "title": "প্রধান রাস্তা",
+          "description": "এই সাইনটি প্রধান রাস্তা বা প্রাথমিক রুট নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "type": "guide",
+      "title_en": "Mark Of Mosque",
+      "description_en": "This sign indicates the location of a mosque.",
+      "image_path": "signs/guide-signs/mark-of-mosque.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "مسجد کا نشان",
+          "description": "یہ نشان مسجد کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "علامة المسجد",
+          "description": "تشير هذه اللافتة إلى موقع مسجد."
+        },
+        "hi": {
+          "title": "मस्जिद का निशान",
+          "description": "यह संकेत मस्जिद के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "মসজিদের চিহ্ন",
+          "description": "এই সাইনটি মসজিদের অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 27,
+      "type": "guide",
+      "title_en": "Marker Of Mecca",
+      "description_en": "This sign indicates the direction to Mecca.",
+      "image_path": "signs/guide-signs/marker-of-mecca.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "مکہ کا نشان",
+          "description": "یہ نشان مکہ کی سمت کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "علامة مكة",
+          "description": "تشير هذه اللافتة إلى الاتجاه نحو مكة."
+        },
+        "hi": {
+          "title": "मक्का का निशान",
+          "description": "यह संकेत मक्का की दिशा को दर्शाता है।"
+        },
+        "bn": {
+          "title": "মক্কার চিহ্ন",
+          "description": "এই সাইনটি মক্কার দিকনির্দেশ নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "type": "guide",
+      "title_en": "Motor Vehicles Only",
+      "description_en": "This sign indicates that only motor vehicles are allowed.",
+      "image_path": "signs/guide-signs/motor-vehicles-only.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "صرف موٹر گاڑیاں",
+          "description": "یہ نشان ظاہر کرتا ہے کہ صرف موٹر گاڑیوں کی اجازت ہے۔"
+        },
+        "ar": {
+          "title": "المركبات الآلية فقط",
+          "description": "تشير هذه اللافتة إلى أن المركبات الآلية فقط مسموح بها."
+        },
+        "hi": {
+          "title": "केवल मोटर वाहन",
+          "description": "यह संकेत बताता है कि केवल मोटर वाहनों की अनुमति है।"
+        },
+        "bn": {
+          "title": "শুধুমাত্র মোটর যানবাহন",
+          "description": "এই সাইনটি নির্দেশ করে যে শুধুমাত্র মোটর যানবাহনের অনুমতি আছে।"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "type": "guide",
+      "title_en": "Name Of The City Sign",
+      "description_en": "This sign displays the name of a city.",
+      "image_path": "signs/guide-signs/name-of-the-city-sign.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "شہر کے نام کا نشان",
+          "description": "یہ نشان شہر کا نام ظاہر کرتا ہے۔"
+        },
+        "ar": {
+          "title": "لافتة اسم المدينة",
+          "description": "تعرض هذه اللافتة اسم المدينة."
+        },
+        "hi": {
+          "title": "शहर के नाम का संकेत",
+          "description": "यह संकेत शहर का नाम प्रदर्शित करता है।"
+        },
+        "bn": {
+          "title": "শহরের নামের সাইন",
+          "description": "এই সাইনটি শহরের নাম প্রদর্শন করে।"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "type": "guide",
+      "title_en": "North",
+      "description_en": "This sign indicates the north direction.",
+      "image_path": "signs/guide-signs/north.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "شمال",
+          "description": "یہ نشان شمال کی سمت کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "شمال",
+          "description": "تشير هذه اللافتة إلى الاتجاه الشمالي."
+        },
+        "hi": {
+          "title": "उत्तर",
+          "description": "यह संकेत उत्तर दिशा को दर्शाता है।"
+        },
+        "bn": {
+          "title": "উত্তর",
+          "description": "এই সাইনটি উত্তর দিক নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "guide",
+      "title_en": "Park",
+      "description_en": "This sign indicates the location of a park.",
+      "image_path": "signs/guide-signs/park.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "پارک",
+          "description": "یہ نشان پارک کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "حديقة",
+          "description": "تشير هذه اللافتة إلى موقع حديقة."
+        },
+        "hi": {
+          "title": "पार्क",
+          "description": "यह संकेत पार्क के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "পার্ক",
+          "description": "এই সাইনটি পার্কের অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "type": "guide",
+      "title_en": "Parking Place Direction",
+      "description_en": "This sign indicates the direction to a parking place.",
+      "image_path": "signs/guide-signs/parking-Place-Direction.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "پارکنگ کی جگہ کی سمت",
+          "description": "یہ نشان پارکنگ کی جگہ کی سمت کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "اتجاه موقف السيارات",
+          "description": "تشير هذه اللافتة إلى الاتجاه نحو موقف سيارات."
+        },
+        "hi": {
+          "title": "पार्किंग स्थान की दिशा",
+          "description": "यह संकेत पार्किंग स्थान की दिशा को दर्शाता है।"
+        },
+        "bn": {
+          "title": "পার্কিং স্থানের দিকনির্দেশ",
+          "description": "এই সাইনটি পার্কিং স্থানের দিকনির্দেশ নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 33,
+      "type": "guide",
+      "title_en": "Parking Sign",
+      "description_en": "This sign indicates parking is available.",
+      "image_path": "signs/guide-signs/parking-sign.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "پارکنگ کا نشان",
+          "description": "یہ نشان ظاہر کرتا ہے کہ پارکنگ دستیاب ہے۔"
+        },
+        "ar": {
+          "title": "لافتة مواقف السيارات",
+          "description": "تشير هذه اللافتة إلى توفر مواقف للسيارات."
+        },
+        "hi": {
+          "title": "पार्किंग संकेत",
+          "description": "यह संकेत बताता है कि पार्किंग उपलब्ध है।"
+        },
+        "bn": {
+          "title": "পার্কিং সাইন",
+          "description": "এই সাইনটি নির্দেশ করে যে পার্কিং উপলব্ধ।"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "type": "guide",
+      "title_en": "Pedestrian Crossing",
+      "description_en": "This sign indicates a pedestrian crossing ahead.",
+      "image_path": "signs/guide-signs/pedestrain-crossing.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "پیدل چلنے والوں کی کراسنگ",
+          "description": "یہ نشان آگے پیدل چلنے والوں کی کراسنگ کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "معبر المشاة",
+          "description": "تشير هذه اللافتة إلى معبر للمشاة أمامك."
+        },
+        "hi": {
+          "title": "पैदल यात्री क्रॉसिंग",
+          "description": "यह संकेत आगे पैदल यात्री क्रॉसिंग को दर्शाता है।"
+        },
+        "bn": {
+          "title": "পথচারী পারাপার",
+          "description": "এই সাইনটি সামনে পথচারী পারাপার নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "type": "guide",
+      "title_en": "Petrol Pump",
+      "description_en": "This sign indicates the location of a petrol pump or gas station.",
+      "image_path": "signs/guide-signs/petrol-pump.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "پیٹرول پمپ",
+          "description": "یہ نشان پیٹرول پمپ یا گیس اسٹیشن کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "محطة وقود",
+          "description": "تشير هذه اللافتة إلى موقع محطة وقود أو محطة بنزين."
+        },
+        "hi": {
+          "title": "पेट्रोल पंप",
+          "description": "यह संकेत पेट्रोल पंप या गैस स्टेशन के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "পেট্রোল পাম্প",
+          "description": "এই সাইনটি পেট্রোল পাম্প বা গ্যাস স্টেশনের অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 36,
+      "type": "guide",
+      "title_en": "Point Of No Return Yellow Signal",
+      "description_en": "This sign indicates a point of no return with a yellow signal.",
+      "image_path": "signs/guide-signs/Point-of-no-return-yellow-signal.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "واپسی کا کوئی راستہ نہیں پیلا سگنل",
+          "description": "یہ نشان پیلے سگنل کے ساتھ واپسی کا کوئی راستہ نہیں ہے کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "نقطة اللاعودة مع إشارة صفراء",
+          "description": "تشير هذه اللافتة إلى نقطة اللاعودة مع إشارة صفراء."
+        },
+        "hi": {
+          "title": "वापसी का कोई रास्ता नहीं पीला सिग्नल",
+          "description": "यह संकेत पीले सिग्नल के साथ वापसी का कोई रास्ता नहीं होने को दर्शाता है।"
+        },
+        "bn": {
+          "title": "ফেরার পথ নেই হলুদ সংকেত",
+          "description": "এই সাইনটি হলুদ সংকেত সহ ফেরার পথ নেই এমন একটি স্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 37,
+      "type": "guide",
+      "title_en": "Priority Over Vehicles From Opposite Direction",
+      "description_en": "This sign indicates priority over vehicles from the opposite direction.",
+      "image_path": "signs/guide-signs/Priority-over-vehicles-from-opposite-direction.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "متضاد سمت سے آنے والی گاڑیوں پر ترجیح",
+          "description": "یہ نشان متضاد سمت سے آنے والی گاڑیوں پر ترجیح کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "الأولوية على المركبات من الاتجاه المعاكس",
+          "description": "تشير هذه اللافتة إلى الأولوية على المركبات القادمة من الاتجاه المعاكس."
+        },
+        "hi": {
+          "title": "विपरीत दिशा से आने वाले वाहनों पर प्राथमिकता",
+          "description": "यह संकेत विपरीत दिशा से आने वाले वाहनों पर प्राथमिकता को दर्शाता है।"
+        },
+        "bn": {
+          "title": "বিপরীত দিক থেকে আসা যানবাহনের উপর অগ্রাধিকার",
+          "description": "এই সাইনটি বিপরীত দিক থেকে আসা যানবাহনের উপর অগ্রাধিকার নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "type": "guide",
+      "title_en": "Proceed To U Turn Only",
+      "description_en": "This sign indicates that drivers should proceed to U-turn only.",
+      "image_path": "signs/guide-signs/Proceed-to-U-turn-only.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "صرف یو ٹرن کی طرف جائیں",
+          "description": "یہ نشان ظاہر کرتا ہے کہ ڈرائیوروں کو صرف یو ٹرن کی طرف بڑھنا چاہیے۔"
+        },
+        "ar": {
+          "title": "توجه نحو الدوران للخلف فقط",
+          "description": "تشير هذه اللافتة إلى أنه يجب على السائقين التوجه نحو الدوران للخلف فقط."
+        },
+        "hi": {
+          "title": "केवल यू-टर्न की ओर बढ़ें",
+          "description": "यह संकेत बताता है कि चालकों को केवल यू-टर्न की ओर बढ़ना चाहिए।"
+        },
+        "bn": {
+          "title": "শুধুমাত্র ইউ-টার্নের দিকে যান",
+          "description": "এই সাইনটি নির্দেশ করে যে চালকদের শুধুমাত্র ইউ-টার্নের দিকে যেতে হবে।"
+        }
+      }
+    },
+    {
+      "id": 39,
+      "type": "guide",
+      "title_en": "Reduce Speed Now",
+      "description_en": "This sign indicates that drivers should reduce speed now.",
+      "image_path": "signs/guide-signs/Reduce-speed-now.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "اب رفتار کم کریں",
+          "description": "یہ نشان ظاہر کرتا ہے کہ ڈرائیوروں کو اب رفتار کم کرنی چاہیے۔"
+        },
+        "ar": {
+          "title": "خفف السرعة الآن",
+          "description": "تشير هذه اللافتة إلى أنه يجب على السائقين تخفيف السرعة الآن."
+        },
+        "hi": {
+          "title": "अब गति कम करें",
+          "description": "यह संकेत बताता है कि चालकों को अब गति कम करनी चाहिए।"
+        },
+        "bn": {
+          "title": "এখন গতি কমান",
+          "description": "এই সাইনটি নির্দেশ করে যে চালকদের এখন গতি কমাতে হবে।"
+        }
+      }
+    },
+    {
+      "id": 40,
+      "type": "guide",
+      "title_en": "Restaurant",
+      "description_en": "This sign indicates the location of a restaurant.",
+      "image_path": "signs/guide-signs/restaurant.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ریستوران",
+          "description": "یہ نشان ریستوران کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مطعم",
+          "description": "تشير هذه اللافتة إلى موقع مطعم."
+        },
+        "hi": {
+          "title": "रेस्तरां",
+          "description": "यह संकेत रेस्तरां के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "রেস্তোরাঁ",
+          "description": "এই সাইনটি রেস্তোরাঁর অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 41,
+      "type": "guide",
+      "title_en": "Road Clear",
+      "description_en": "This sign indicates that the road is clear.",
+      "image_path": "signs/guide-signs/Road-clear.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "سڑک صاف ہے",
+          "description": "یہ نشان ظاہر کرتا ہے کہ سڑک صاف ہے۔"
+        },
+        "ar": {
+          "title": "الطريق واضح",
+          "description": "تشير هذه اللافتة إلى أن الطريق واضح."
+        },
+        "hi": {
+          "title": "सड़क साफ है",
+          "description": "यह संकेत बताता है कि सड़क साफ है।"
+        },
+        "bn": {
+          "title": "রাস্তা পরিষ্কার",
+          "description": "এই সাইনটি নির্দেশ করে যে রাস্তা পরিষ্কার।"
+        }
+      }
+    },
+    {
+      "id": 42,
+      "type": "guide",
+      "title_en": "Secondary Road",
+      "description_en": "This sign indicates a secondary road.",
+      "image_path": "signs/guide-signs/secondary-road.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ثانوی سڑک",
+          "description": "یہ نشان ثانوی سڑک کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "طريق ثانوي",
+          "description": "تشير هذه اللافتة إلى طريق ثانوي."
+        },
+        "hi": {
+          "title": "द्वितीयक सड़क",
+          "description": "यह संकेत द्वितीयक सड़क को दर्शाता है।"
+        },
+        "bn": {
+          "title": "মাধ্যমিক রাস্তা",
+          "description": "এই সাইনটি মাধ্যমিক রাস্তা নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 43,
+      "type": "guide",
+      "title_en": "South",
+      "description_en": "This sign indicates the south direction.",
+      "image_path": "signs/guide-signs/south.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "جنوب",
+          "description": "یہ نشان جنوب کی سمت کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "جنوب",
+          "description": "تشير هذه اللافتة إلى الاتجاه الجنوبي."
+        },
+        "hi": {
+          "title": "दक्षिण",
+          "description": "यह संकेत दक्षिण दिशा को दर्शाता है।"
+        },
+        "bn": {
+          "title": "দক্ষিণ",
+          "description": "এই সাইনটি দক্ষিণ দিক নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "type": "guide",
+      "title_en": "Start Of Highway",
+      "description_en": "This sign indicates the start of a highway.",
+      "image_path": "signs/guide-signs/start-of-highway.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "شاہراہ کا آغاز",
+          "description": "یہ نشان شاہراہ کے آغاز کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "بداية الطريق السريع",
+          "description": "تشير هذه اللافتة إلى بداية الطريق السريع."
+        },
+        "hi": {
+          "title": "राजमार्ग का प्रारंभ",
+          "description": "यह संकेत राजमार्ग के प्रारंभ को दर्शाता है।"
+        },
+        "bn": {
+          "title": "হাইওয়ের শুরু",
+          "description": "এই সাইনটি হাইওয়ের শুরু নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 45,
+      "type": "guide",
+      "title_en": "Stop In Red Direction May Proceed In Green Direction",
+      "description_en": "This sign indicates stop in red direction, may proceed in green direction.",
+      "image_path": "signs/guide-signs/Stop-in-red-direction-may-proceed-in-green-direction.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "سرخ سمت میں رکیں، سبز سمت میں آگے بڑھ سکتے ہیں",
+          "description": "یہ نشان سرخ سمت میں رکنے، اور سبز سمت میں آگے بڑھنے کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "توقف في الاتجاه الأحمر، يمكن المتابعة في الاتجاه الأخضر",
+          "description": "تشير هذه اللافتة إلى التوقف في الاتجاه الأحمر، ويمكن المتابعة في الاتجاه الأخضر."
+        },
+        "hi": {
+          "title": "लाल दिशा में रुकें, हरी दिशा में आगे बढ़ सकते हैं",
+          "description": "यह संकेत लाल दिशा में रुकने और हरी दिशा में आगे बढ़ने की अनुमति देता है।"
+        },
+        "bn": {
+          "title": "লাল দিকে থামুন, সবুজ দিকে এগিয়ে যেতে পারেন",
+          "description": "এই সাইনটি লাল দিকে থামা এবং সবুজ দিকে এগিয়ে যাওয়ার নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 46,
+      "type": "guide",
+      "title_en": "Stop Signal",
+      "description_en": "This sign indicates a stop signal or red light.",
+      "image_path": "signs/guide-signs/Stop-Signal.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "رکنے کا اشارہ",
+          "description": "یہ نشان رکنے کے اشارے یا سرخ بتی کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "إشارة التوقف",
+          "description": "تشير هذه اللافتة إلى إشارة التوقف أو الضوء الأحمر."
+        },
+        "hi": {
+          "title": "रुकने का संकेत",
+          "description": "यह संकेत रुकने के संकेत या लाल बत्ती को दर्शाता है।"
+        },
+        "bn": {
+          "title": "থামার সংকেত",
+          "description": "এই সাইনটি থামার সংকেত বা লাল আলো নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 47,
+      "type": "guide",
+      "title_en": "Street Name",
+      "description_en": "This sign displays a street name.",
+      "image_path": "signs/guide-signs/street-name.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "گلی کا نام",
+          "description": "یہ نشان گلی کا نام ظاہر کرتا ہے۔"
+        },
+        "ar": {
+          "title": "اسم الشارع",
+          "description": "تعرض هذه اللافتة اسم الشارع."
+        },
+        "hi": {
+          "title": "सड़क का नाम",
+          "description": "यह संकेत सड़क का नाम प्रदर्शित करता है।"
+        },
+        "bn": {
+          "title": "রাস্তার নাম",
+          "description": "এই সাইনটি রাস্তার নাম প্রদর্শন করে।"
+        }
+      }
+    },
+    {
+      "id": 48,
+      "type": "guide",
+      "title_en": "Telephone Facility",
+      "description_en": "This sign indicates the location of a telephone facility.",
+      "image_path": "signs/guide-signs/telephone-facility.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ٹیلی فون کی سہولت",
+          "description": "یہ نشان ٹیلی فون کی سہولت کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مرفق الهاتف",
+          "description": "تشير هذه اللافتة إلى موقع مرفق هاتف."
+        },
+        "hi": {
+          "title": "टेलीफोन सुविधा",
+          "description": "यह संकेत टेलीफोन सुविधा के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "টেলিফোন সুবিধা",
+          "description": "এই সাইনটি টেলিফোন সুবিধার অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 49,
+      "type": "guide",
+      "title_en": "Toilet Facility",
+      "description_en": "This sign indicates the location of a toilet facility.",
+      "image_path": "signs/guide-signs/toilet-Facility.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "بیت الخلا کی سہولت",
+          "description": "یہ نشان بیت الخلا کی سہولت کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "مرافق دورات المياه",
+          "description": "تشير هذه اللافتة إلى موقع مرافق دورات المياه."
+        },
+        "hi": {
+          "title": "शौचालय सुविधा",
+          "description": "यह संकेत शौचालय सुविधा के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "টয়লেট সুবিধা",
+          "description": "এই সাইনটি টয়লেট সুবিধার অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 50,
+      "type": "guide",
+      "title_en": "Tourist Information",
+      "description_en": "This sign indicates the location of tourist information center.",
+      "image_path": "signs/guide-signs/tourist-information.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "سیاحتی معلومات",
+          "description": "یہ نشان سیاحتی معلومات کے مرکز کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "معلومات سياحية",
+          "description": "تشير هذه اللافتة إلى موقع مركز المعلومات السياحية."
+        },
+        "hi": {
+          "title": "पर्यटक सूचना",
+          "description": "यह संकेत पर्यटक सूचना केंद्र के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "পর্যটক তথ্য",
+          "description": "এই সাইনটি পর্যটক তথ্য কেন্দ্রের অবস্থান নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 51,
+      "type": "guide",
+      "title_en": "Variable Message Signs",
+      "description_en": "This sign indicates variable message signs ahead.",
+      "image_path": "signs/guide-signs/Variable-Message-Signs.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "متغیر پیغام کے نشانات",
+          "description": "یہ نشان آگے متغیر پیغام کے نشانات کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "لافتات الرسائل المتغيرة",
+          "description": "تشير هذه اللافتة إلى لافتات الرسائل المتغيرة أمامك."
+        },
+        "hi": {
+          "title": "परिवर्तनीय संदेश संकेत",
+          "description": "यह संकेत आगे परिवर्तनीय संदेश संकेतों को दर्शाता है।"
+        },
+        "bn": {
+          "title": "পরিবর্তনশীল বার্তা সাইন",
+          "description": "এই সাইনটি সামনে পরিবর্তনশীল বার্তা সাইন নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 52,
+      "type": "guide",
+      "title_en": "West",
+      "description_en": "This sign indicates the west direction.",
+      "image_path": "signs/guide-signs/west.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "مغرب",
+          "description": "یہ نشان مغرب کی سمت کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "غرب",
+          "description": "تشير هذه اللافتة إلى الاتجاه الغربي."
+        },
+        "hi": {
+          "title": "पश्चिम",
+          "description": "यह संकेत पश्चिम दिशा को दर्शाता है।"
+        },
+        "bn": {
+          "title": "পশ্চিম",
+          "description": "এই সাইনটি পশ্চিম দিক নির্দেশ করে।"
+        }
+      }
+    },
+    {
+      "id": 53,
+      "type": "guide",
+      "title_en": "Workshop",
+      "description_en": "This sign indicates the location of a workshop or repair facility.",
+      "image_path": "signs/guide-signs/workshop.png",
+      "secondary_languages": {
+        "ur": {
+          "title": "ورکشاپ",
+          "description": "یہ نشان ورکشاپ یا مرمت کی سہولت کے مقام کی نشاندہی کرتا ہے۔"
+        },
+        "ar": {
+          "title": "ورشة عمل",
+          "description": "تشير هذه اللافتة إلى موقع ورشة عمل أو مرفق إصلاح."
+        },
+        "hi": {
+          "title": "कार्यशाला",
+          "description": "यह संकेत कार्यशाला या मरम्मत सुविधा के स्थान को दर्शाता है।"
+        },
+        "bn": {
+          "title": "ওয়ার্কশপ",
+          "description": "এই সাইনটি ওয়ার্কশপ বা মেরামত সুবিধার অবস্থান নির্দেশ করে।"
+        }
+      }
+    }
+  ]
+}

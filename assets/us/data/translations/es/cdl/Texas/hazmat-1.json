@@ -1,0 +1,790 @@
+{
+  "state": "Texas",
+  "category": "cdl",
+  "testName": "HazMat Test #1 30 Questions • Passing Score 24",
+  "testSlug": "hazmat-1",
+  "url": "/images/texas/cdl/hazmat-1.html",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "10481",
+      "question": "Tanques portátiles:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No pueden ser removidos de un vehículo."
+        },
+        {
+          "letter": "B",
+          "text": "No están permanentemente fijados a un vehículo."
+        },
+        {
+          "letter": "C",
+          "text": "Están permanentemente fijados a un vehículo."
+        },
+        {
+          "letter": "D",
+          "text": "No deben usarse."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "No están permanentemente fijados a un vehículo.",
+      "explanation": "Los tanques de carga permanecen en un vehículo en todo momento, independientemente de si están transportando carga o no. Los tanques portátiles son empaques a granel y no están permanentemente fijados a un vehículo."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10968",
+      "question": "Los documentos de envío deben ser:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocultos de la vista."
+        },
+        {
+          "letter": "B",
+          "text": "Colocados en la guantera."
+        },
+        {
+          "letter": "C",
+          "text": "Fácilmente visibles para cualquiera que entre en la cabina."
+        },
+        {
+          "letter": "D",
+          "text": "Laminados."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Fácilmente visibles para cualquiera que entre en la cabina.",
+      "explanation": "Al transportar materiales peligrosos, los documentos de envío deben mantenerse en una bolsa en la puerta del lado del conductor, o en otra ubicación donde el conductor pueda alcanzarlos fácilmente mientras su cinturón de seguridad esté abrochado. Los papeles deben ser fácilmente visibles para cualquiera que entre en la cabina."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8959",
+      "question": "Por lo general, un documento de envío debe enumerar:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un número de teléfono de respuesta a emergencias."
+        },
+        {
+          "letter": "B",
+          "text": "La dirección del remitente."
+        },
+        {
+          "letter": "C",
+          "text": "La ubicación de los departamentos de bomberos a lo largo de la ruta planeada."
+        },
+        {
+          "letter": "D",
+          "text": "El costo de los materiales."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un número de teléfono de respuesta a emergencias.",
+      "explanation": "En general, se requiere que un transportista enumere un número de teléfono de respuesta a emergencias en los documentos de envío de materiales peligrosos. Hay algunas excepciones a esta regla."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8969",
+      "question": "En la Tabla de Materiales Peligrosos, la Columna 2 enumera:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los nombres de los materiales."
+        },
+        {
+          "letter": "B",
+          "text": "Dónde se originan los materiales."
+        },
+        {
+          "letter": "C",
+          "text": "Disposiciones especiales para materiales."
+        },
+        {
+          "letter": "D",
+          "text": "Fabricantes de materiales."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Los nombres de los materiales.",
+      "explanation": "La Columna 2 de la Tabla de Materiales Peligrosos enumera los nombres de envío adecuados y las descripciones de los materiales regulados."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8943",
+      "question": "Puede haber restricciones sobre el transporte de explosivos o residuos peligrosos en ciertas áreas. Estas restricciones:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generalmente no son una preocupación."
+        },
+        {
+          "letter": "B",
+          "text": "Se dispensan los fines de semana."
+        },
+        {
+          "letter": "C",
+          "text": "Deben investigarse antes de tomar una ruta."
+        },
+        {
+          "letter": "D",
+          "text": "Solo aplican si se transporta más de 1,000 libras de un material."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Deben investigarse antes de tomar una ruta.",
+      "explanation": "Antes de transportar materiales peligrosos, debe investigar cualquier restricción que pueda aplicarse a las rutas que planea tomar."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11440",
+      "question": "Si transporta explosivos, puede dejar su vehículo desatendido:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En un área de descanso."
+        },
+        {
+          "letter": "B",
+          "text": "En una parada de camiones."
+        },
+        {
+          "letter": "C",
+          "text": "En propiedad privada."
+        },
+        {
+          "letter": "D",
+          "text": "En un refugio seguro."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "En un refugio seguro.",
+      "explanation": "Al transportar materiales peligrosos, puede dejar su vehículo desatendido en un refugio seguro. Un refugio seguro es un lugar que ha sido aprobado para estacionar vehículos desatendidos cargados con explosivos."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11436",
+      "question": "Al transportar materiales de la División 1.1, el forro del piso debe ser:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hecho de materiales metálicos."
+        },
+        {
+          "letter": "B",
+          "text": "Hecho de una aleación de hierro."
+        },
+        {
+          "letter": "C",
+          "text": "Hecho de materiales no ferrosos."
+        },
+        {
+          "letter": "D",
+          "text": "Suelto."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Hecho de materiales no ferrosos.",
+      "explanation": "Utilice un forro de piso cuando transporte materiales de la División 1.1, 1.2 o 1.3. Los pisos deben ser herméticos y el forro debe estar hecho de material no metálico o metal no ferroso. Los metales no ferrosos son metales que no contienen hierro o aleaciones de hierro."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8958",
+      "question": "En un documento de envío, si la letra \"G\" aparece en la Columna 1, ¿qué más debe aparecer?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre técnico del material peligroso"
+        },
+        {
+          "letter": "B",
+          "text": "El tipo de embalaje que contiene el material peligroso"
+        },
+        {
+          "letter": "C",
+          "text": "El número de teléfono del remitente"
+        },
+        {
+          "letter": "D",
+          "text": "La fecha en que se empaló el producto"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El nombre técnico del material peligroso",
+      "explanation": "Si la letra \"G\", para \"Genérico\", está escrita en la Columna 1 de un documento de envío, el nombre técnico del material peligroso asociado también debe aparecer."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8967",
+      "question": "____ carteles idénticos deben colocarse en un vehículo que transporte materiales peligrosos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una"
+        },
+        {
+          "letter": "B",
+          "text": "Dos"
+        },
+        {
+          "letter": "C",
+          "text": "Tres"
+        },
+        {
+          "letter": "D",
+          "text": "Cuatro"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Cuatro",
+      "explanation": "Cuando se requieren carteles de materiales peligrosos, deben colocarse en los cuatro lados del vehículo de transporte."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11439",
+      "question": "Los vehículos plaqueados deben llevar extintores de incendio con una calificación mínima de:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 B:C."
+        },
+        {
+          "letter": "B",
+          "text": "20 C."
+        },
+        {
+          "letter": "C",
+          "text": "10 A:B."
+        },
+        {
+          "letter": "D",
+          "text": "5 B:C."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "10 B:C.",
+      "explanation": "La unidad motriz de un vehículo plaqueado debe estar equipada con un extintor de incendio con una calificación de Underwriters Laboratories (UL) de 10 B:C o superior."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9553",
+      "question": "Una persona supervisando la carga de un tanque:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene que ser capaz de mover el vehículo."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser un bombero con licencia."
+        },
+        {
+          "letter": "C",
+          "text": "No necesita saber sobre los materiales siendo cargados."
+        },
+        {
+          "letter": "D",
+          "text": "Debe mantenerse dentro de 25 pies del tanque."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Debe mantenerse dentro de 25 pies del tanque.",
+      "explanation": "La carga y descarga de un tanque debe ser vigilada por una persona calificada. Deben estar atentos; tener una vista clara del tanque; mantenerse dentro de 25 pies del tanque; conocer los peligros de los materiales involucrados; conocer los procedimientos a seguir en una emergencia; y estar autorizados y ser capaces de mover el tanque si es necesario."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9663",
+      "question": "Documentos de envío:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No son necesarios para la mayoría de los envíos."
+        },
+        {
+          "letter": "B",
+          "text": "Son requeridos para todos los envíos."
+        },
+        {
+          "letter": "C",
+          "text": "Deben almacenarse en un compartimiento especial en la cabina."
+        },
+        {
+          "letter": "D",
+          "text": "Pueden guardarse como un archivo digital."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Son requeridos para todos los envíos.",
+      "explanation": "Para todos los envíos de materiales peligrosos, el remitente debe usar documentos de envío para informar a los conductores y trabajadores de muelles sobre los riesgos presentados por la carga."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8966",
+      "question": "¿Cuál de los siguientes no es una ubicación aceptable para guardar los documentos de envío de materiales peligrosos?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En una bolsa en la puerta del lado del conductor"
+        },
+        {
+          "letter": "B",
+          "text": "En una bolsa en la puerta del lado del pasajero"
+        },
+        {
+          "letter": "C",
+          "text": "Dentro del alcance del conductor mientras el cinturón de seguridad está abrochado"
+        },
+        {
+          "letter": "D",
+          "text": "En el asiento del conductor mientras el conductor está fuera del vehículo"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "En una bolsa en la puerta del lado del pasajero",
+      "explanation": "Cuando el vehículo está siendo conducido, los documentos de envío de materiales peligrosos deben mantenerse en una bolsa en la puerta del conductor o en algún otro lugar que esté claramente visible y dentro del alcance del conductor. Si el conductor está fuera del vehículo, los documentos de envío deben mantenerse en el asiento del conductor."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9551",
+      "question": "¿Quién es responsable de identificar la clase de peligro de los materiales que se envían?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El remitente"
+        },
+        {
+          "letter": "B",
+          "text": "El transportista"
+        },
+        {
+          "letter": "C",
+          "text": "El conductor"
+        },
+        {
+          "letter": "D",
+          "text": "El mecánico"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El remitente",
+      "explanation": "El remitente de materiales peligrosos es responsable de identificar el número de identificación del producto; el nombre correcto de envío; la clase de peligro; el grupo de embalaje; y el embalaje, etiquetas, marcado y placas correctos."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10971",
+      "question": "Si el cargo que contiene materiales peligrosos está fugas, el conductor debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduzca para encontrar un teléfono para alertar al personal de emergencia"
+        },
+        {
+          "letter": "B",
+          "text": "Conduzca a una instalación designada de limpieza de materiales peligrosos"
+        },
+        {
+          "letter": "C",
+          "text": "Estacione el vehículo y contacte al personal de emergencia"
+        },
+        {
+          "letter": "D",
+          "text": "Continúe conduciendo hacia el destino"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Estacione el vehículo y contacte al personal de emergencia",
+      "explanation": "En caso de una fuga en un cargo de materiales peligrosos, no continúe conduciendo más tiempo del necesario para la seguridad. Continuar conduciendo resultaría en que una área más grande se contamine. En su lugar, estacione el vehículo, asegure el área, permanezca con el vehículo y envíe a alguien a buscar ayuda."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8973",
+      "question": "Si un paquete contiene recipientes con líquido, el paquete debe mostrar:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flechas apuntando en la dirección vertical correcta."
+        },
+        {
+          "letter": "B",
+          "text": "Una dirección de devolución."
+        },
+        {
+          "letter": "C",
+          "text": "El número de contenedores dentro de la caja."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra \"frágil\"."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Flechas apuntando en la dirección vertical correcta.",
+      "explanation": "Los paquetes que contienen recipientes con líquido deben mostrar flechas que apunten en la dirección vertical correcta. Estos paquetes deben colocarse en la dirección correcta."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8955",
+      "question": "Si una sustancia se transporta en una cantidad reportable, ¿qué letras aparecerán en el documento de envío y el paquete?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "DQ"
+        },
+        {
+          "letter": "B",
+          "text": "LT"
+        },
+        {
+          "letter": "C",
+          "text": "RQ"
+        },
+        {
+          "letter": "D",
+          "text": "BR"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "RQ",
+      "explanation": "Si una sustancia se transporta en una cantidad reportable, el remitente debe mostrar las letras \"RQ\" en el documento de envío y el paquete."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9403",
+      "question": "Si está transportando líquidos inflamables de Clase 3 y su carga debe ser trasladada a otro tanque, los líquidos inflamables:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pueden ser transferidos en la carretera siempre que no haya otras personas cercanas."
+        },
+        {
+          "letter": "B",
+          "text": "No deben ser transferidos en una carretera pública, a menos que sea bajo circunstancias de emergencia."
+        },
+        {
+          "letter": "C",
+          "text": "Deben mantenerse en secreto cuando se están moviendo a otro tanque."
+        },
+        {
+          "letter": "D",
+          "text": "Deben ser transferidos durante la noche."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "No deben ser transferidos en una carretera pública, a menos que sea bajo circunstancias de emergencia.",
+      "explanation": "Los líquidos inflamables no deben ser transferidos de un vehículo a otro en una carretera pública, a menos que se muevan debido a una emergencia. Siempre advierta a otros sobre los peligros que presentan los materiales."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10125",
+      "question": "Cuando está sentado detrás del volante, los documentos de envío deben estar:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al alcance."
+        },
+        {
+          "letter": "B",
+          "text": "En el compartimiento de dormir."
+        },
+        {
+          "letter": "C",
+          "text": "Escondidos debajo del asiento."
+        },
+        {
+          "letter": "D",
+          "text": "Pegados a la ventana del lado del pasajero."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Al alcance.",
+      "explanation": "Al transportar materiales peligrosos, los documentos de envío deben mantenerse en una bolsa en la puerta del lado del conductor, o en otra ubicación donde el conductor pueda alcanzarlos fácilmente mientras su cinturón de seguridad esté abrochado. Los papeles deben ser fácilmente visibles para cualquiera que entre en la cabina."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9401",
+      "question": "En general, al cargar un tanque con líquidos inflamables:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El motor debe estar funcionando."
+        },
+        {
+          "letter": "B",
+          "text": "Se debe establecer una conexión a tierra antes de abrir el orificio de llenado."
+        },
+        {
+          "letter": "C",
+          "text": "Se debe romper una conexión a tierra justo antes de abrir el orificio de llenado."
+        },
+        {
+          "letter": "D",
+          "text": "El orificio de llenado debe bloquearse durante la carga."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Se debe establecer una conexión a tierra antes de abrir el orificio de llenado.",
+      "explanation": "Antes de cargar o descargar un tanque con líquidos inflamables, debe apagar el motor, a menos que sea necesario hacer funcionar el motor para operar una bomba. Conecte a tierra el tanque antes de abrir el orificio de llenado y mantenga la conexión a tierra hasta después de cerrar el orificio de llenado."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8950",
+      "question": "Los gases inflamables se categorizan como peligros de ____.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clase 1"
+        },
+        {
+          "letter": "B",
+          "text": "Clase 2"
+        },
+        {
+          "letter": "C",
+          "text": "Clase 4"
+        },
+        {
+          "letter": "D",
+          "text": "Clase 7"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Clase 2",
+      "explanation": "Los gases inflamables se asignan a la Clase 2 de materiales peligrosos."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11437",
+      "question": "¿Qué tipo de material puede ser obligatorio tener un índice de transporte?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corrosivo"
+        },
+        {
+          "letter": "B",
+          "text": "Radiactivo"
+        },
+        {
+          "letter": "C",
+          "text": "Venenoso"
+        },
+        {
+          "letter": "D",
+          "text": "Explosivo"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Radiactivo",
+      "explanation": "Algunos materiales radiactivos deben ir acompañados de un índice de transporte. Un índice de transporte es un número que indica cuánto control requerirá el material durante el transporte. El índice de transporte total de toda la carga en un solo vehículo no puede exceder 50."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "10969",
+      "question": "Al acercarse a un cruce de ferrocarril mientras transporta cloro:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe detenerse antes de cruzar las vías."
+        },
+        {
+          "letter": "B",
+          "text": "Debe reducir su velocidad antes de cruzar las vías."
+        },
+        {
+          "letter": "C",
+          "text": "Puede proceder sin detenerse si ninguna luz de advertencia está parpadeando."
+        },
+        {
+          "letter": "D",
+          "text": "Puede proceder sin detenerse si ningún otro vehículo está a la vista."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Debe detenerse antes de cruzar las vías.",
+      "explanation": "Si transporta cualquier cantidad de cloro, un conductor siempre debe detenerse en un cruce de ferrocarril de 15 a 50 pies de la vía más cercana."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8953",
+      "question": "Cuando un conductor no está en su vehículo, los documentos de envío de materiales peligrosos deben:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantenerse en la persona del conductor."
+        },
+        {
+          "letter": "B",
+          "text": "Mantenerse en el asiento del conductor."
+        },
+        {
+          "letter": "C",
+          "text": "Mantenerse bajo el asiento del pasajero."
+        },
+        {
+          "letter": "D",
+          "text": "Colocarse en el panel de instrumentos."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mantenerse en el asiento del conductor.",
+      "explanation": "Los documentos de envío de materiales peligrosos siempre deben ser fácilmente accesibles. Cuando un conductor no está en su vehículo, los documentos de envío de materiales peligrosos deben dejarse en el asiento del conductor."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8926",
+      "question": "Si transporta cloro, ¿qué debe mantenerse en el vehículo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un teléfono con números de emergencia programados"
+        },
+        {
+          "letter": "B",
+          "text": "Una máscara de gas aprobada"
+        },
+        {
+          "letter": "C",
+          "text": "Un traje químico"
+        },
+        {
+          "letter": "D",
+          "text": "Instrucciones para el personal de emergencia"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Una máscara de gas aprobada",
+      "explanation": "Un conductor que transporta cloro en tanques de carga debe mantener una máscara de gas aprobada y un kit de emergencia en su vehículo."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "8974",
+      "question": "Una pista de que su envío contiene materiales peligrosos es que:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El remitente está en un cierto tipo de negocio, como un distribuidor de fuegos artificiales o una firma de control de plagas."
+        },
+        {
+          "letter": "B",
+          "text": "El último envío que recogió fue etiquetado como peligroso."
+        },
+        {
+          "letter": "C",
+          "text": "El embalaje parece dañado."
+        },
+        {
+          "letter": "D",
+          "text": "El negocio del remitente se encuentra en una mala parte del pueblo."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El remitente está en un cierto tipo de negocio, como un distribuidor de fuegos artificiales o una firma de control de plagas.",
+      "explanation": "Una pista de que un envío puede contener materiales peligrosos es que el remitente está en un ramo de negocios que se esperaría que implique materiales peligrosos. Ejemplos de tales negocios incluyen distribuidores de pintura, empresas de suministro químico, o firmas de control de plagas."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "8964",
+      "question": "Además de leer el manual, la mejor manera de aprender sobre el transporte de materiales peligrosos es:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hable con otras personas."
+        },
+        {
+          "letter": "B",
+          "text": "Asista a cursos de capacitación sobre materiales peligrosos."
+        },
+        {
+          "letter": "C",
+          "text": "Adivinar."
+        },
+        {
+          "letter": "D",
+          "text": "Pregunte a un oficial de policía."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Asista a cursos de capacitación sobre materiales peligrosos.",
+      "explanation": "Aunque el manual contiene toda la información necesaria para aprobar el examen escrito de un respaldo de materiales peligrosos, no contiene toda la información necesaria para hacer el trabajo de manera segura. Puede aprender más asistiendo a cursos de capacitación en materiales peligrosos."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "8942",
+      "question": "Después de completar la capacitación en transporte de materiales peligrosos, los conductores deben comprender:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Tabla Periódica de Elementos."
+        },
+        {
+          "letter": "B",
+          "text": "Conversión de Fahrenheit a Celsius."
+        },
+        {
+          "letter": "C",
+          "text": "Cómo reconocer y responder a posibles amenazas de seguridad."
+        },
+        {
+          "letter": "D",
+          "text": "Los efectos de la humedad relativa en los materiales peligrosos."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Cómo reconocer y responder a posibles amenazas de seguridad.",
+      "explanation": "Todos los conductores deben recibir capacitación sobre los riesgos de seguridad del transporte de materiales peligrosos. Esta capacitación debe incluir educación sobre cómo reconocer y responder a posibles amenazas de seguridad."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "10148",
+      "question": "Si está transportando explosivos y su vehículo se avería, puede notificar a otros conductores:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con bengalas."
+        },
+        {
+          "letter": "B",
+          "text": "Con luces eléctricas."
+        },
+        {
+          "letter": "C",
+          "text": "De pie en la carretera agitando los brazos."
+        },
+        {
+          "letter": "D",
+          "text": "Manteniendo la puerta del lado del conductor abierta."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Con luces eléctricas.",
+      "explanation": "Si su vehículo se avería en la carretera mientras transporta materiales explosivos, debe advertir a otros conductores. Coloque señales de advertencia como triángulos reflectantes o luces eléctricas si está transportando explosivos División 1.1, 1.2 o 1.3. Haga lo mismo si está conduciendo un camión cisterna utilizado para transportar líquidos inflamables de Clase 3 o gases inflamables División 2.1, incluso si el camión cisterna está vacío. Si transporta materiales inflamables, no use señales de advertencia que pudieran causar que su carga se incendie."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "8915",
+      "question": "¿Cuántas clases de materiales peligrosos hay?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuatro"
+        },
+        {
+          "letter": "B",
+          "text": "Seis"
+        },
+        {
+          "letter": "C",
+          "text": "Nueve"
+        },
+        {
+          "letter": "D",
+          "text": "Dos"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Nueve",
+      "explanation": "Hay nueve clases diferentes de materiales peligrosos. Una clase refleja los riesgos asociados con un tipo de material."
+    }
+  ]
+}

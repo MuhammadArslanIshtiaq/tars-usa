@@ -1,0 +1,795 @@
+{
+  "state": "Montana",
+  "category": "car",
+  "quizName": "Hard Practice Test #2",
+  "slug": "hard-practice-test-2",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "300",
+      "question": "Si un véhicule utilisant les feux de route se rapproche de vous, vous devriez regarder vers ____ de la route.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chaque côté"
+        },
+        {
+          "letter": "B",
+          "text": "Le centre"
+        },
+        {
+          "letter": "C",
+          "text": "Le côté droit"
+        },
+        {
+          "letter": "D",
+          "text": "Le côté gauche"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Le côté droit",
+      "explanation": "Si un véhicule s'approchant de vous utilise ses feux de route et ne les éteint pas, vous devriez jeter un œil vers le côté droit de la route. Cela vous empêchera d'être ébloui par les phares de l'autre véhicule et vous permettra de bien voir pour rester sur votre trajectoire jusqu'à ce que le véhicule passe."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "588",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/colorado-hov_lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La voie de gauche est réservée aux véhicules ayant un nombre spécifique d'occupants."
+        },
+        {
+          "letter": "B",
+          "text": "Des mouvements de virage spécifiques sont autorisés à partir de voies spécifiques."
+        },
+        {
+          "letter": "C",
+          "text": "Interdiction d'entrer."
+        },
+        {
+          "letter": "D",
+          "text": "Les conducteurs dans les deux voies sont responsables de fusionner en douceur."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La voie de gauche est réservée aux véhicules ayant un nombre spécifique d'occupants.",
+      "explanation": "Ce panneau marque une voie réservée aux véhicules occupés (HOV). Les voies HOV sont réservées à l'usage des autobus et des véhicules avec un conducteur et un ou plusieurs passagers, comme indiqué sur le panneau."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "370",
+      "question": "Lorsque vous êtes dans une file de trafic qui traverse un passage à niveau qui n'a pas de signaux ou de barrières :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous avez le droit de passage et n'avez pas besoin de vérifier la présence de trains."
+        },
+        {
+          "letter": "B",
+          "text": "Vous pouvez dépasser les conducteurs plus lents en traversant la voie."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devez vous assurer qu'il y a de l'espace pour que votre véhicule traverse complètement les rails sans s'arrêter."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Vous devez vous assurer qu'il y a de l'espace pour que votre véhicule traverse complètement les rails sans s'arrêter.",
+      "explanation": "Si vous suivez un autre véhicule à un passage à niveau, assurez-vous d'avoir suffisamment d'espace pour traverser complètement avant de vous engager sur les rails. Vous ne devriez jamais essayer de dépasser un autre véhicule à l'approche ou en traversant un passage à niveau. Vérifiez toujours la présence de trains avant de traverser des rails de chemin de fer."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "3223",
+      "question": "Il est illégal pour une personne âgée de 21 ans ou plus de conduire avec une concentration d'alcool dans le sang (BAC) minimale de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,05 pour cent."
+        },
+        {
+          "letter": "B",
+          "text": "0,08 pour cent."
+        },
+        {
+          "letter": "C",
+          "text": "0,02 pour cent."
+        },
+        {
+          "letter": "D",
+          "text": "0,1 pour cent."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "0,08 pour cent.",
+      "explanation": "Pour les conducteurs âgés de 21 ans ou plus, il est illégal d'exploiter un véhicule à moteur avec une concentration d'alcool dans le sang (BAC) de 0,08 pour cent ou plus. Conduire sous l'influence de l'alcool n'est pas seulement illégal, mais dangereux."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1590",
+      "question": "Panneaux de signalisation réglementaires:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont placés à chaque endroit où il existe un danger présent."
+        },
+        {
+          "letter": "B",
+          "text": "Indiquer ce qu'un conducteur doit ou ne doit pas faire."
+        },
+        {
+          "letter": "C",
+          "text": "Sont en forme de diamant et jaunes ou verts."
+        },
+        {
+          "letter": "D",
+          "text": "Peuvent avertir les conducteurs qu'ils approchent d'une zone scolaire."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Indiquer ce qu'un conducteur doit ou ne doit pas faire.",
+      "explanation": "Les panneaux de signalisation réglementaires sont souvent rectangulaires, blancs avec des marquages noirs et sont utilisés pour indiquer ce qu'un conducteur doit ou ne doit pas faire dans une zone désignée. Ils peuvent afficher les limites de vitesse, interdire le dépassement ou les virages, ou clarifier tout autre règlement de conduite."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "218",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/do_not_enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Pas de demi-tour."
+        },
+        {
+          "letter": "C",
+          "text": "Cédez le passage."
+        },
+        {
+          "letter": "D",
+          "text": "Interdiction d'entrer."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Interdiction d'entrer.",
+      "explanation": "Ce panneau est placé au début des rues et des bretelles à sens unique pour indiquer que vous ne devez pas continuer à circuler dans votre direction actuelle."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "2063",
+      "question": "Un système d'échappement qui fuit peut:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Causer une consommation excessive d'huile."
+        },
+        {
+          "letter": "B",
+          "text": "Exiger que votre véhicule soit révisé plus tôt que d'habitude."
+        },
+        {
+          "letter": "C",
+          "text": "Vous rendre somnolent pendant la conduite."
+        },
+        {
+          "letter": "D",
+          "text": "Déclencher des incendies de végétation sur les routes de campagne."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Vous rendre somnolent pendant la conduite.",
+      "explanation": "Le système d'échappement aide à éliminer les gaz toxiques, à réduire le bruit et à refroidir les gaz chauds provenant d'un moteur en marche. Les émanations d'un système d'échappement défectueux peuvent causer la mort en très peu de temps. Elles peuvent également vous rendre somnolent pendant la conduite."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1659",
+      "question": "Sur une rue à deux voies, votre véhicule est suivi par un camion de pompiers qui n'utilise pas ses signaux d'urgence. Vous devriez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuez à circuler normalement."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous aussi rapidement que possible."
+        },
+        {
+          "letter": "C",
+          "text": "Accélérez pour vous éloigner de sa route."
+        },
+        {
+          "letter": "D",
+          "text": "Ralentissez, déplacez-vous aussi loin que possible vers la droite et arrêtez-vous."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Continuez à circuler normalement.",
+      "explanation": "Si vous êtes suivi par un véhicule d'urgence qui n'utilise pas sa sirène ou ses feux clignotants, vous n'avez pas besoin de dégager le passage. Continuez à circuler normalement."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "979",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cédez le passage."
+        },
+        {
+          "letter": "B",
+          "text": "Intersection à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Rester à droite."
+        },
+        {
+          "letter": "D",
+          "text": "Cédez le passage à l'avance."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cédez le passage.",
+      "explanation": "Les panneaux de circulation ayant trois côtés de longueur égale avertissent les conducteurs de ralentir en s'approchant d'une intersection et de se préparer à s'arrêter complètement pour laisser la priorité à d'autres conducteurs ou piétons. Les conducteurs peuvent continuer quand cela est sûr."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "404",
+      "question": "Une ligne blanche continue sur le bord droit de la route s'incline vers la gauche. Cela indique que :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une intersection est juste ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Vous approchez d'une zone de construction."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devrez tourner à gauche juste ahead."
+        },
+        {
+          "letter": "D",
+          "text": "La route sera plus étroite."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "La route sera plus étroite.",
+      "explanation": "Une ligne continue le long du bord de la route indique où se situe son extrémité, marquant la limite entre la voie de circulation et l'accotement. Si la ligne d'extrémité s'incline vers le centre de la route, cela signifie que la route est plus étroite ahead."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "523",
+      "question": "Si votre voiture commence à déraper, tournez votre volant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pour maintenir les roues avant droites."
+        },
+        {
+          "letter": "B",
+          "text": "Dans la direction où vous voulez que le véhicule aille."
+        },
+        {
+          "letter": "C",
+          "text": "Dans le sens opposé au dérapage."
+        },
+        {
+          "letter": "D",
+          "text": "Dans n'importe quelle direction. Cela n'a pas d'importance."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dans la direction où vous voulez que le véhicule aille.",
+      "explanation": "Si votre véhicule entre en dérapage, vous devez tourner le volant dans la direction où vous voulez que le véhicule aille. Dès que le véhicule commence à se redresser, tournez le volant dans l'autre sens."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "342",
+      "question": "Permettez un coussin d'espace plus grand que d'habitude lors de l'arrêt :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur une pente."
+        },
+        {
+          "letter": "B",
+          "text": "À une intersection."
+        },
+        {
+          "letter": "C",
+          "text": "À un panneau d'arrêt."
+        },
+        {
+          "letter": "D",
+          "text": "À un péage."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sur une pente.",
+      "explanation": "Vous devriez permettre plus d'espace devant votre véhicule que d'habitude lorsque vous êtes arrêté sur une pente ascendante. Si le véhicule devant vous recule vers votre véhicule lorsque la circulation recommence à bouger, il est moins probable qu'il y ait une collision."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1673",
+      "question": "Un feu de circulation rouge clignotant a la même signification qu'un :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feu rouge fixe."
+        },
+        {
+          "letter": "B",
+          "text": "Panneau d'arrêt."
+        },
+        {
+          "letter": "C",
+          "text": "Panneau de cédez le passage."
+        },
+        {
+          "letter": "D",
+          "text": "Panneau de prudence."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Panneau d'arrêt.",
+      "explanation": "Un signal de circulation rouge clignotant a la même signification qu'un panneau d'arrêt. En approchant un signal rouge clignotant, arrêtez-vous complètement et procédez lorsqu'il est sûr de le faire. Un panneau d'arrêt peut parfois aussi être affiché où ce signal est situé."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1084",
+      "question": "Un tracteur-semi-remorque complètement chargé roulant à 55 mph pourrait prendre jusqu'à ____ pour s'arrêter complètement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 feet"
+        },
+        {
+          "letter": "B",
+          "text": "125 feet"
+        },
+        {
+          "letter": "C",
+          "text": "400 feet"
+        },
+        {
+          "letter": "D",
+          "text": "750 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "400 feet",
+      "explanation": "Les tracteurs-semi-remorques prennent des distances d'arrêt plus longues que les voitures plus petites roulant à la même vitesse. Un tracteur-semi-remorque complètement chargé peut prendre près de 400 feet pour s'arrêter complètement quand il roule à 55 mph."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "2245",
+      "question": "Une seule ligne jaune pointillée au centre d'une route à deux voies indique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les voies se déplacent dans des directions opposées et les conducteurs ne sont pas autorisés à dépasser."
+        },
+        {
+          "letter": "B",
+          "text": "Les voies se déplacent dans des directions opposées et les conducteurs ont le droit de dépasser quand il est sûr de le faire."
+        },
+        {
+          "letter": "C",
+          "text": "Les voies se déplacent dans la même direction et les conducteurs ne sont pas autorisés à dépasser."
+        },
+        {
+          "letter": "D",
+          "text": "Les voies se déplacent dans la même direction et les conducteurs ont le droit de dépasser quand il est sûr de le faire."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les voies se déplacent dans des directions opposées et les conducteurs ont le droit de dépasser quand il est sûr de le faire.",
+      "explanation": "Les lignes jaunes sont utilisées pour séparer le trafic circulant dans des directions opposées. Les lignes pointillées indiquent que les conducteurs directement à côté de la ligne sont autorisés à dépasser lorsqu'il est sûr de le faire."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "456",
+      "question": "Boire du café après avoir bu de l'alcool :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diminue la concentration d'alcool dans le sang."
+        },
+        {
+          "letter": "B",
+          "text": "Annule l'effet de l'alcool."
+        },
+        {
+          "letter": "C",
+          "text": "N'a aucun effet sur la concentration d'alcool dans le sang."
+        },
+        {
+          "letter": "D",
+          "text": "Augmente la concentration d'alcool dans le sang."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "N'a aucun effet sur la concentration d'alcool dans le sang.",
+      "explanation": "Boire du café ne réduira pas votre concentration d'alcool dans le sang (taux d'alcoolémie). Bien que cela puisse vous aider à rester éveillé, cela ne peut pas modifier votre taux d'alcoolémie ou vous rendre sobre."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "613",
+      "question": "Une limite de vitesse est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vitesse légale maximale ou minimale à laquelle vous pouvez circuler sur une route dans des conditions dangereuses."
+        },
+        {
+          "letter": "B",
+          "text": "La vitesse légale maximale ou minimale à laquelle vous pouvez circuler sur une route dans des conditions idéales."
+        },
+        {
+          "letter": "C",
+          "text": "La vitesse suggérée à laquelle circuler sur une route dans des conditions idéales."
+        },
+        {
+          "letter": "D",
+          "text": "Aucune des réponses ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La vitesse légale maximale ou minimale à laquelle vous pouvez circuler sur une route dans des conditions idéales.",
+      "explanation": "Une limite de vitesse est la vitesse légale maximale ou minimale à laquelle vous pouvez circuler sur une route dans des conditions idéales. Vous pouvez rouler plus lentement que la vitesse affichée, mais il est illégal de rouler plus vite. Vous devez rouler plus lentement où les panneaux ou les panneaux indiquent une limite de vitesse de zone scolaire ou de zone de travail. Si les conditions telles que la construction routière ou le mauvais temps rendent la vitesse affichée dangereuse, roulez en dessous de la limite de vitesse."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "917",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/bicycle_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traversée de cyclistes."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêt."
+        },
+        {
+          "letter": "C",
+          "text": "Les amendes doublent dans une zone de travaux."
+        },
+        {
+          "letter": "D",
+          "text": "Arrêt à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Traversée de cyclistes.",
+      "explanation": "Les panneaux d'avertissement préparent les conducteurs aux conditions routières et aux dangers à venir et sont généralement jaunes avec des marquages noirs. Ce panneau alerte les conducteurs sur le trafic croisé potentiel de bicyclettes."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "324",
+      "question": "Pour tourner à gauche depuis des rues et des autoroutes à plusieurs voies à sens unique, vous devriez commencer à partir de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le centre de l'intersection."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de droite."
+        },
+        {
+          "letter": "C",
+          "text": "La voie de gauche."
+        },
+        {
+          "letter": "D",
+          "text": "N'importe quelle voie."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La voie de gauche.",
+      "explanation": "Pour tourner à gauche depuis des rues et des autoroutes à plusieurs voies, commencez par la voie de gauche."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "491",
+      "question": "Un conducteur devrait être particulièrement vigilant envers les motocyclistes, les cyclistes et les piétons parce que :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ils sont difficiles à voir dans la circulation."
+        },
+        {
+          "letter": "B",
+          "text": "Ils obéissent à des lois de circulation différentes de celles des véhicules automobiles plus grands."
+        },
+        {
+          "letter": "C",
+          "text": "Ils ont toujours le droit de passage."
+        },
+        {
+          "letter": "D",
+          "text": "Ils n'ont pas de rétroviseurs."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ils sont difficiles à voir dans la circulation.",
+      "explanation": "Dans de nombreuses collisions avec des motos, des vélos et des piétons, les conducteurs ont rapporté qu'ils regardaient mais n'ont toujours pas vu le petit véhicule ou le piéton. Ceux-ci peuvent être plus difficiles à repérer dans la circulation que les voitures de tourisme car ils sont plus petits, peuvent se déplacer plus vite et ont un éclairage moins visible. Pour éviter les collisions avec ces usagers de la route plus petits et moins protégés, les conducteurs doivent toujours être attentifs à la présence de motos, de vélos et de piétons."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "2318",
+      "question": "Lorsque vous approchez d'un feu de circulation affichant une flèche jaune constante, les conducteurs :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devraient se rabattre sur une voie dans la direction de la flèche."
+        },
+        {
+          "letter": "B",
+          "text": "Devraient ralentir et s'arrêter, s'il est sécuritaire de le faire."
+        },
+        {
+          "letter": "C",
+          "text": "Peuvent tourner à gauche après avoir cédé le passage au trafic venant en sens inverse et aux piétons."
+        },
+        {
+          "letter": "D",
+          "text": "Ont le droit de passage et peuvent s'attendre à ce que le trafic venant en sens inverse s'arrête pour eux."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Devraient ralentir et s'arrêter, s'il est sécuritaire de le faire.",
+      "explanation": "Une flèche jaune constante indique qu'une flèche rouge est sur le point d'apparaître. Arrêtez-vous à moins que vous ne soyez déjà dans l'intersection."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "411",
+      "question": "Le bras et la main gauche du conducteur sont étendus vers le bas. Ce signal manuel signifie que le conducteur prévoit de :",
+      "image": "/images/signs/new-york-hand_signal_down.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tourner à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Tourner à droite."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêt."
+        },
+        {
+          "letter": "D",
+          "text": "Démarrer."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Arrêt.",
+      "explanation": "Si le bras et la main gauche d'un conducteur sont étendus vers le bas, il indique qu'il a l'intention de s'arrêter. Ajustez votre conduite en conséquence si vous suivez un conducteur qui utilise ce signal manuel."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "2319",
+      "question": "Lorsque vous approchez d'un feu de circulation affichant une flèche verte constante, les conducteurs :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devraient se rabattre sur une voie dans la direction de la flèche."
+        },
+        {
+          "letter": "B",
+          "text": "Devraient ralentir et s'arrêter, s'il est sécuritaire de le faire."
+        },
+        {
+          "letter": "C",
+          "text": "Peuvent tourner dans la direction de la flèche après avoir cédé le passage au trafic et aux piétons déjà dans l'intersection."
+        },
+        {
+          "letter": "D",
+          "text": "Peuvent continuer tout droit à travers l'intersection."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Peuvent tourner dans la direction de la flèche après avoir cédé le passage au trafic et aux piétons déjà dans l'intersection.",
+      "explanation": "Une flèche verte affichée sur un feu de circulation indique aux conducteurs qu'ils peuvent tourner dans la direction de la flèche. Vous devez être dans la bonne voie pour effectuer ce virage. Cédez le droit de passage aux véhicules et aux piétons déjà dans l'intersection."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "449",
+      "question": "Le taux d'alcool dans le sang (TAS) dépend de chacun des éléments suivants, sauf:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Votre poids corporel."
+        },
+        {
+          "letter": "B",
+          "text": "La quantité que vous buvez."
+        },
+        {
+          "letter": "C",
+          "text": "Le temps qui s'écoule entre les verres."
+        },
+        {
+          "letter": "D",
+          "text": "Votre condition physique."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Votre condition physique.",
+      "explanation": "Votre taux d'alcool dans le sang (TAS) dépend de la quantité d'alcool que vous buvez, du temps qui s'écoule entre les verres et de votre poids. Il n'est pas affecté par le type de boissons alcoolisées que vous buvez, votre niveau de condition physique ou la qualité de votre résistance à l'alcool."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1645",
+      "question": "Vous ne devez pas conduire votre véhicule à une vitesse supérieure à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La limite de vitesse maximale."
+        },
+        {
+          "letter": "B",
+          "text": "Une vitesse plus rapide qu'il n'est raisonnable et prudent."
+        },
+        {
+          "letter": "C",
+          "text": "Une vitesse sécuritaire selon les conditions existantes."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Vous ne devez pas conduire à une vitesse plus rapide qu'il n'est raisonnable et prudent. Vous devez conduire à une vitesse appropriée pour la zone où vous conduisez, le type et l'état du trafic environnant, la présence de piétons, la météo, la qualité de la route et les conditions d'éclairage. Vous devez conduire dans le respect des limites de vitesse légales."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "230",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une courbe à gauche est imminente."
+        },
+        {
+          "letter": "B",
+          "text": "Une série de courbes est imminente."
+        },
+        {
+          "letter": "C",
+          "text": "Une courbe en S est imminente."
+        },
+        {
+          "letter": "D",
+          "text": "La route sera glissante quand elle est mouillée."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "La route sera glissante quand elle est mouillée.",
+      "explanation": "Ce panneau avertit que des conditions particulièrement glissantes existent lorsque la route est mouillée."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "904",
+      "question": "Vous approchez d'un carrefour avec un feu jaune clignotant. Vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S'arrêter et attendre que le feu change."
+        },
+        {
+          "letter": "B",
+          "text": "Faire un demi-tour parce que le carrefour est fermé."
+        },
+        {
+          "letter": "C",
+          "text": "Conduire prudemment à travers le carrefour."
+        },
+        {
+          "letter": "D",
+          "text": "Se préparer à s'arrêter ; le feu est sur le point de devenir rouge."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Conduire prudemment à travers le carrefour.",
+      "explanation": "Un feu jaune clignotant signifie que vous devriez traverser le carrefour lentement et avec prudence. Balayez vos yeux sur le trafic dans les deux directions."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "2060",
+      "question": "Si vous déménagez, vous devez signaler votre changement d'adresse au Bureau des permis de conduire dans les :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deux semaines."
+        },
+        {
+          "letter": "B",
+          "text": "15 jours."
+        },
+        {
+          "letter": "C",
+          "text": "10 jours."
+        },
+        {
+          "letter": "D",
+          "text": "Un mois."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "10 jours.",
+      "explanation": "Pour vous assurer que votre permis de conduire reste à jour, vous devez notifier le Bureau des permis de conduire du Ministère de la Justice dans les 10 jours suivant tout changement d'adresse. Des formulaires à cet effet peuvent être obtenus auprès de la plupart des trésoriers de comté, d'un agent de la Patrouille routière du Montana, de n'importe quel examinateur des permis de conduire ou en ligne."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "1074",
+      "question": "Un panneau de limitation de vitesse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peut être ignoré sous la pluie, la neige ou le verglas."
+        },
+        {
+          "letter": "B",
+          "text": "A une forme triangulaire."
+        },
+        {
+          "letter": "C",
+          "text": "Est bleu avec des lettres noires."
+        },
+        {
+          "letter": "D",
+          "text": "Indique une vitesse recommandée pour une courbe ou un virage."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Indique une vitesse recommandée pour une courbe ou un virage.",
+      "explanation": "Les panneaux d'avertissement de courbe et de virage sont souvent accompagnés de panneaux de vitesse recommandée qui indiquent une vitesse de conduite recommandée dans les courbes et virages. Bien qu'un conducteur puisse se sentir à l'aise de conduire à une vitesse plus élevée par beau temps, il ne devrait jamais le faire sous la pluie, la neige ou le verglas."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1601",
+      "question": "Laquelle des affirmations suivantes est vraie ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il est acceptable pour les conducteurs d'autres véhicules de suivre les motocyclettes de près."
+        },
+        {
+          "letter": "B",
+          "text": "Une motocyclette avec deux personnes dessus est plus équilibrée qu'une motocyclette avec un seul conducteur."
+        },
+        {
+          "letter": "C",
+          "text": "Le conducteur d'un véhicule de tourisme doit changer complètement de voie en dépassant une motocyclette."
+        },
+        {
+          "letter": "D",
+          "text": "Les conducteurs d'autres véhicules peuvent s'attendre à ce que les feux de freinage d'une motocyclette s'allument lorsque le motocycliste ralentit."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Le conducteur d'un véhicule de tourisme doit changer complètement de voie en dépassant une motocyclette.",
+      "explanation": "Les motocyclettes ont droit à la largeur complète d'une voie. Assurez-vous que votre véhicule est entièrement dans la voie de gauche avant de tenter de dépasser une motocyclette par la gauche."
+    }
+  ]
+}

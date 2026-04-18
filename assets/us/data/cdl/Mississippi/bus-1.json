@@ -1,0 +1,498 @@
+{
+  "state": "Mississippi",
+  "category": "cdl",
+  "testName": "Bus Test #1 20 Questions • Passing Score 16",
+  "testSlug": "bus-1",
+  "url": "/images/mississippi/cdl/bus-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11396",
+      "question": "For parallel parking, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Back past the space, then pull forward into it."
+        },
+        {
+          "letter": "B",
+          "text": "Pull forward past the space, then back into it."
+        },
+        {
+          "letter": "C",
+          "text": "Pull forward into the space without passing it first."
+        },
+        {
+          "letter": "D",
+          "text": "Back into the space without passing it first."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pull forward past the space, then back into it.",
+      "explanation": "Drive past the parking space on the right. Back into it slowly. Get the rear of your vehicle as close to the rear of the space as possible. Your vehicle must be completely inside the space."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10976",
+      "question": "What is the inside rearview mirror on a school bus used for?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Watch the passengers."
+        },
+        {
+          "letter": "B",
+          "text": "See hazards on the road."
+        },
+        {
+          "letter": "C",
+          "text": "See vehicles changing lanes."
+        },
+        {
+          "letter": "D",
+          "text": "See in front of the bus."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Watch the passengers.",
+      "explanation": "The overhead mirror inside a school bus is used to watch what passengers are doing inside the bus."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11708",
+      "question": "In a dual air brake system, what do both systems share?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Hoses."
+        },
+        {
+          "letter": "C",
+          "text": "Air lines."
+        },
+        {
+          "letter": "D",
+          "text": "An air compressor."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "An air compressor.",
+      "explanation": "Both systems use one air compressor. If the air compressor breaks, both systems will fail."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8640",
+      "question": "Is ABS on only one axle helpful?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, it can be dangerous."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, it still gives you better control when braking."
+        },
+        {
+          "letter": "C",
+          "text": "It slows the vehicle but cannot stop it."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Yes, it still gives you better control when braking.",
+      "explanation": "ABS on one axle, the tractor, or the trailer still gives you more braking control than no ABS. Brake normally."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9810",
+      "question": "How should carry-on baggage be stored on a bus?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "So riders can exit through any window or door in an emergency."
+        },
+        {
+          "letter": "B",
+          "text": "In the aisle near the front of the bus."
+        },
+        {
+          "letter": "C",
+          "text": "On passengers' laps."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "So riders can exit through any window or door in an emergency.",
+      "explanation": "Keep aisles and stairwells clear. Luggage must be placed where passengers can exit through any window or door in an emergency."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9161",
+      "question": "If a parent asks you to move a bus stop, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agree and pick up students at the new location."
+        },
+        {
+          "letter": "B",
+          "text": "Keep using the original bus stop."
+        },
+        {
+          "letter": "C",
+          "text": "Move the stop if it fits your route."
+        },
+        {
+          "letter": "D",
+          "text": "Use both locations as bus stops."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Keep using the original bus stop.",
+      "explanation": "Only school district officials can change bus stop locations. A bus driver cannot make this decision."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9601",
+      "question": "When are containerized loads used?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When cargo is too large for a truck."
+        },
+        {
+          "letter": "B",
+          "text": "When cargo has been or will be transported by train."
+        },
+        {
+          "letter": "C",
+          "text": "When cargo is liquid."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When cargo has been or will be transported by train.",
+      "explanation": "Containerized loads are used when freight travels by train or ship. Sealed containers cannot be inspected, but you must make sure containers stay within safe weight limits."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11692",
+      "question": "What does the emergency brake system use?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only parts of the parking brake system."
+        },
+        {
+          "letter": "B",
+          "text": "Only parts of the service brake system."
+        },
+        {
+          "letter": "C",
+          "text": "Parts of both the parking and service brake systems."
+        },
+        {
+          "letter": "D",
+          "text": "Only parts unique to the emergency brake system."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Parts of both the parking and service brake systems.",
+      "explanation": "Air brake systems have three types: service, parking, and emergency. The emergency brake system uses parts from both the parking and service systems."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9155",
+      "question": "How far behind the bus should properly adjusted outside mirrors allow the driver to see?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One bus length"
+        },
+        {
+          "letter": "B",
+          "text": "Two bus lengths"
+        },
+        {
+          "letter": "C",
+          "text": "Three bus lengths"
+        },
+        {
+          "letter": "D",
+          "text": "Four bus lengths"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Four bus lengths",
+      "explanation": "Side mirrors should be adjusted so the driver can see 200 feet (four bus lengths) behind the bus."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10075",
+      "question": "What is the line that passengers must stand behind called?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The standee line."
+        },
+        {
+          "letter": "B",
+          "text": "The following line."
+        },
+        {
+          "letter": "C",
+          "text": "The rear line."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The standee line.",
+      "explanation": "On a bus with standing passengers, no one may stand in front of the rear of the driver's seat. A line on the floor marks where passengers cannot stand. This is called a standee line."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9180",
+      "question": "How many classes of hazardous materials exist?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One"
+        },
+        {
+          "letter": "B",
+          "text": "Three"
+        },
+        {
+          "letter": "C",
+          "text": "Six"
+        },
+        {
+          "letter": "D",
+          "text": "Nine"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Nine",
+      "explanation": "There are nine classes of hazardous materials. Each class describes a different type of risk."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9005",
+      "question": "When you push the brake pedal, air brakes work:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right away."
+        },
+        {
+          "letter": "B",
+          "text": "After a short delay."
+        },
+        {
+          "letter": "C",
+          "text": "After about a minute."
+        },
+        {
+          "letter": "D",
+          "text": "Only when it is warm outside."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "After a short delay.",
+      "explanation": "Air takes time to move through the air lines to reach the brakes. There is a delay of at least half a second between when you press the brake pedal and when the brakes start to work."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8746",
+      "question": "ABS helps you:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drive faster."
+        },
+        {
+          "letter": "B",
+          "text": "Drive less carefully."
+        },
+        {
+          "letter": "C",
+          "text": "Keep control on slippery roads."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Keep control on slippery roads.",
+      "explanation": "ABS (Anti-Lock Braking System) stops your wheels from locking up on slippery surfaces. This helps you stay in control when you brake hard on wet or icy roads. Drive and brake the same way in a vehicle with ABS as you would in one without it."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9024",
+      "question": "During a vehicle inspection, lug nuts should be all of the following, except:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Free of cracks."
+        },
+        {
+          "letter": "B",
+          "text": "Free of damage."
+        },
+        {
+          "letter": "C",
+          "text": "Loose."
+        },
+        {
+          "letter": "D",
+          "text": "Free of rust."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Loose.",
+      "explanation": "Lug nuts must be tight and secure. During inspection, check that all lug nuts are present, have no cracks or damage, and show no signs of being loose or rusted."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11899",
+      "question": "If the low pressure warning light comes on while driving, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop right away and park."
+        },
+        {
+          "letter": "B",
+          "text": "Leave the road safely as soon as possible."
+        },
+        {
+          "letter": "C",
+          "text": "Keep driving normally."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Leave the road safely as soon as possible.",
+      "explanation": "When the low pressure warning light comes on, you must safely exit the road and park your vehicle. Low air pressure means your brakes may not work well enough to stop safely."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9558",
+      "question": "Emergency brakes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Are not required on trucks."
+        },
+        {
+          "letter": "B",
+          "text": "Are only required on trailers."
+        },
+        {
+          "letter": "C",
+          "text": "Are required on tractors."
+        },
+        {
+          "letter": "D",
+          "text": "Are optional."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Are required on tractors.",
+      "explanation": "All trucks, truck tractors, and buses must have emergency brakes and parking brakes. These brakes must work using mechanical force."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11462",
+      "question": "The ____ shows how much air pressure is in the air tanks.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Application pressure gauge"
+        },
+        {
+          "letter": "B",
+          "text": "Air compressor governor"
+        },
+        {
+          "letter": "C",
+          "text": "Supply pressure gauge"
+        },
+        {
+          "letter": "D",
+          "text": "Drum brake"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Supply pressure gauge",
+      "explanation": "The supply pressure gauge tells the driver how much air pressure is in the vehicle's air tanks."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8772",
+      "question": "Why do large vehicles use air brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Other brake systems are too loud."
+        },
+        {
+          "letter": "B",
+          "text": "Air brakes work very well."
+        },
+        {
+          "letter": "C",
+          "text": "Other brake systems are hard to find."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Air brakes work very well.",
+      "explanation": "When used and maintained properly, air brakes are safe and effective for stopping large, heavy vehicles."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10155",
+      "question": "Brakes can go out of adjustment:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When they are hot."
+        },
+        {
+          "letter": "B",
+          "text": "During winter."
+        },
+        {
+          "letter": "C",
+          "text": "From any use."
+        },
+        {
+          "letter": "D",
+          "text": "When brakes on one side are used more than the other."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When they are hot.",
+      "explanation": "Hot brakes are more likely to go out of adjustment. Use proper braking techniques to keep your brakes from overheating."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8760",
+      "question": "A wig wag is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A low pressure warning device."
+        },
+        {
+          "letter": "B",
+          "text": "A tube that carries air to the brakes."
+        },
+        {
+          "letter": "C",
+          "text": "A type of air brake system."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A low pressure warning device.",
+      "explanation": "A wig wag is a low air pressure warning device. It drops a mechanical arm into your view if air pressure drops to between 55 and 75 psi."
+    }
+  ]
+}

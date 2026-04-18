@@ -1,0 +1,486 @@
+{
+  "state": "Montana",
+  "category": "cdl",
+  "testName": "Double Test #1 20 Questions • Passing Score 16",
+  "testSlug": "double-1",
+  "url": "/images/montana/cdl/double-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9571",
+      "question": "Los neumáticos duales deben:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre entrar en contacto entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "Entrar en contacto entre sí con regularidad."
+        },
+        {
+          "letter": "C",
+          "text": "No entrar en contacto entre sí."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "No entrar en contacto entre sí.",
+      "explanation": "Al inspeccionar un vehículo, debe verificar que sus neumáticos duales no entren en contacto entre sí, ni con ninguna otra parte del vehículo."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8625",
+      "question": "Los tanques de almacenamiento de aire:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contienen solo suficiente aire para un ciclo de frenado."
+        },
+        {
+          "letter": "B",
+          "text": "Contienen suficiente aire para que los frenos se utilicen varias veces si el compresor deja de funcionar."
+        },
+        {
+          "letter": "C",
+          "text": "No retienen aire a menos que haya una emergencia."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Contienen suficiente aire para que los frenos se utilicen varias veces si el compresor deja de funcionar.",
+      "explanation": "Los tanques de almacenamiento de aire en un sistema de frenos de aire almacenan aire comprimido para ser utilizado en el frenado. Contienen suficiente aire para que los frenos aún puedan usarse varias veces si el compresor deja de funcionar."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11532",
+      "question": "Un ajustador de holgura no debe moverse más de ____ desde donde se une a la varilla de empuje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos pulgadas"
+        },
+        {
+          "letter": "B",
+          "text": "Cinco pulgadas"
+        },
+        {
+          "letter": "C",
+          "text": "Una pulgada"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Una pulgada",
+      "explanation": "Antes de un viaje, debe verificar cada ajustador de holgura después de estacionar, colocar calzas de ruedas y desactivar el freno de estacionamiento. Tire de los ajustadores de holgura para asegurarse de que no se muevan más de aproximadamente una pulgada desde donde se une la varilla de empuje. Si se mueven más de una pulgada, pueden estar desajustados y tendrán que repararse."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8580",
+      "question": "Si los frenos fallan al bajar una pendiente, tome una decisión lo más rápido posible porque:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuanto más espera, más rápido va su vehículo."
+        },
+        {
+          "letter": "B",
+          "text": "Cuanto más espera, más vehículos se apartarán de su camino."
+        },
+        {
+          "letter": "C",
+          "text": "Cuanto más espera, más lento irá su vehículo."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cuanto más espera, más rápido va su vehículo.",
+      "explanation": "Sea cual sea la manera en que decida lidiar con una falla de frenos en una pendiente descendente, es importante que tome su decisión lo más rápido posible. Cuanto más espere para actuar, más rápido se moverá su vehículo y más difícil será detenerlo."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8886",
+      "question": "Para ayudar a prevenir volcaduras, debería:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acelere rápidamente después de detenerse."
+        },
+        {
+          "letter": "B",
+          "text": "Conduzca lentamente en las curvas."
+        },
+        {
+          "letter": "C",
+          "text": "Mantenga la carga cerca de la parte trasera del remolque."
+        },
+        {
+          "letter": "D",
+          "text": "Mantenga la carga en un lado del remolque."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Conduzca lentamente en las curvas.",
+      "explanation": "Para reducir el riesgo de volcadura, cargue su carga lo más cerca posible del suelo. Para reducir aún más este riesgo, tome curvas y esquinas lentamente."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9097",
+      "question": "Para reducir mejor las distracciones de un teléfono móvil, debería:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener una sola llamada durante todo el viaje."
+        },
+        {
+          "letter": "B",
+          "text": "Apagar el teléfono antes de conducir."
+        },
+        {
+          "letter": "C",
+          "text": "Usar el teléfono solo para aceptar llamadas entrantes."
+        },
+        {
+          "letter": "D",
+          "text": "Usar el teléfono para enviar mensajes de texto en lugar de hablar."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Apagar el teléfono antes de conducir.",
+      "explanation": "Si es posible, debería evitar todas las distracciones del teléfono móvil apagándolo antes de comenzar un viaje y manteniéndolo apagado hasta llegar a su destino."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8787",
+      "question": "¿Qué puede indicar la herrumbre alrededor de las tuercas de las ruedas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las tuercas están sueltas."
+        },
+        {
+          "letter": "B",
+          "text": "Que las tuercas están mojadas."
+        },
+        {
+          "letter": "C",
+          "text": "Que las tuercas necesitan ser reemplazadas."
+        },
+        {
+          "letter": "D",
+          "text": "Que las tuercas son del tamaño incorrecto."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Que las tuercas están sueltas.",
+      "explanation": "El óxido alrededor de las tuercas de rueda puede indicar que están sueltas. Si observa óxido, verifique la tensión de las tuercas."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10952",
+      "question": "Si siente sueño mientras conduce, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continúa y termina el viaje."
+        },
+        {
+          "letter": "B",
+          "text": "Conduzca más rápido para llegar a su destino más pronto."
+        },
+        {
+          "letter": "C",
+          "text": "Salga de la carretera y tome una siesta."
+        },
+        {
+          "letter": "D",
+          "text": "Tome una píldora energética."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Salga de la carretera y tome una siesta.",
+      "explanation": "Si comienza a sentir sueño mientras conduce, la única respuesta segura es dejar de conducir y dormir. Intentar combatir el agotamiento es peligroso y una causa importante de accidentes fatales. Los estimulantes no son una solución segura porque pueden ayudarlo a mantenerse despierto pero no lo harán más alerta. Una vez que los estimulantes desaparecen, estará aún más cansado que antes."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9820",
+      "question": "Para evitar que los remolques se volteen, un conductor debe hacer todo lo siguiente, excepto:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dirigir suavemente."
+        },
+        {
+          "letter": "B",
+          "text": "Conducir lentamente en las curvas."
+        },
+        {
+          "letter": "C",
+          "text": "Conducir lentamente en curvas."
+        },
+        {
+          "letter": "D",
+          "text": "Exceder el límite de velocidad."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Exceder el límite de velocidad.",
+      "explanation": "Para reducir el riesgo de volcamiento al arrastrar remolques, debe conducir lentamente al girar, conducir lentamente en curvas y generalmente dirigir suave y gradualmente. Al cargar los remolques, debe mantener la carga lo más baja posible al suelo."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11529",
+      "question": "Un conductor debe probar la válvula de protección del tractor mediante:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tirando del pomo amarillo en forma de diamante."
+        },
+        {
+          "letter": "B",
+          "text": "Liberando aire con el pedal de freno."
+        },
+        {
+          "letter": "C",
+          "text": "Desbloqueando las puertas del remolque."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Liberando aire con el pedal de freno.",
+      "explanation": "Debe probar la válvula de protección del tractor permitiendo que el suministro de aire se cargue adecuadamente, apagando el motor y luego liberando aire del sistema presionando el pedal de freno varias veces. La válvula de protección del tractor debe moverse a su posición de emergencia cuando la psi cae a un nivel inseguro."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11252",
+      "question": "¿Cuál de los siguientes no es un ejemplo de una persona distraída de la que los conductores deben preocuparse?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conductor hablando con un pasajero en su vehículo"
+        },
+        {
+          "letter": "B",
+          "text": "Un niño al lado de la carretera"
+        },
+        {
+          "letter": "C",
+          "text": "Un trabajador de construcción al lado de la carretera"
+        },
+        {
+          "letter": "D",
+          "text": "Una persona sentada en un banco esperando un autobús"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Una persona sentada en un banco esperando un autobús",
+      "explanation": "Tenga cuidado al conducir cerca de personas que no prestan atención a la carretera. Desconfíe de los trabajadores de carreteras, conductores que están conversando con pasajeros e niños cerca de la carretera."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9835",
+      "question": "¿Cómo se liberan los frenos del dolly?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abriendo la válvula de drenaje del tanque de aire"
+        },
+        {
+          "letter": "B",
+          "text": "Liberando la válvula de suministro"
+        },
+        {
+          "letter": "C",
+          "text": "Cerrando la válvula de suministro"
+        },
+        {
+          "letter": "D",
+          "text": "Apagando el retardador"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Abriendo la válvula de drenaje del tanque de aire",
+      "explanation": "Libere los frenos del dolly abriendo la válvula de drenaje del tanque de aire. Si el dolly tiene frenos de resorte, use el control de freno de estacionamiento del dolly."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9346",
+      "question": "Cuando se verifica el líquido de la transmisión automática, el vehículo:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe colocarse en una pendiente hacia arriba."
+        },
+        {
+          "letter": "B",
+          "text": "Debe colocarse en una pendiente hacia abajo."
+        },
+        {
+          "letter": "C",
+          "text": "Puede tener que estar funcionando."
+        },
+        {
+          "letter": "D",
+          "text": "Debe levantarse con un gato."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Puede tener que estar funcionando.",
+      "explanation": "El motor de su vehículo puede necesitar estar funcionando para que verifique el nivel de su líquido de transmisión automática."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9584",
+      "question": "Al acelerar en una superficie con tracción deficiente, como una carretera mojada, un conductor debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acelere rápidamente."
+        },
+        {
+          "letter": "B",
+          "text": "Acelere lentamente."
+        },
+        {
+          "letter": "C",
+          "text": "No debe preocuparse por el pavimento."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Acelere lentamente.",
+      "explanation": "Debe acelerar muy gradualmente cuando conduce bajo condiciones que crean tracción deficiente."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9875",
+      "question": "¿Cuándo debe reducir la velocidad para una curva?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antes de entrar en la curva"
+        },
+        {
+          "letter": "B",
+          "text": "Mientras está en la curva"
+        },
+        {
+          "letter": "C",
+          "text": "Después de la curva"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Antes de entrar en la curva",
+      "explanation": "Siempre debe reducir a una velocidad segura antes de entrar en una curva. Reducir la velocidad dentro de la curva podría causar un derrape."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9124",
+      "question": "Para prevenir la fatiga mientras conduce, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantén la cabina caliente."
+        },
+        {
+          "letter": "B",
+          "text": "Mantenga la cabina fresca."
+        },
+        {
+          "letter": "C",
+          "text": "Mantenga la cabina mal ventilada."
+        },
+        {
+          "letter": "D",
+          "text": "Cierre las rejillas."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mantenga la cabina fresca.",
+      "explanation": "Un área caliente y mal ventilada puede hacer que una persona sienta sueño. Abrir una ventana, abrir una rejilla o usar el aire acondicionado puede ayudar a mantener la cabina fresca y reducir el riesgo de fatiga."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9604",
+      "question": "¿Qué se encuentra a menudo en aire comprimido?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agua"
+        },
+        {
+          "letter": "B",
+          "text": "Cartón"
+        },
+        {
+          "letter": "C",
+          "text": "Fluido de freno"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Agua",
+      "explanation": "El aire comprimido en un sistema de frenos de aire generalmente contiene una cierta cantidad de agua y aceite del compresor. El agua y el aceite pueden dañar los frenos si se dejan acumular en el sistema. Los tanques deben drenarse regularmente para eliminar esta acumulación."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9285",
+      "question": "Un material peligroso de Clase 1 es:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un explosivo."
+        },
+        {
+          "letter": "B",
+          "text": "Radiactivos."
+        },
+        {
+          "letter": "C",
+          "text": "Corrosivo."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un explosivo.",
+      "explanation": "La primera clase de materiales peligrosos incluye explosivos como municiones, dinamita y fuegos artificiales."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9255",
+      "question": "Límite de velocidad publicado de una rampa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es adecuado para todos los vehículos."
+        },
+        {
+          "letter": "B",
+          "text": "Es adecuado para algunos vehículos, pero puede ser demasiado rápido para un CMV grande."
+        },
+        {
+          "letter": "C",
+          "text": "Es solo una sugerencia y puede ser excedido."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Es adecuado para algunos vehículos, pero puede ser demasiado rápido para un CMV grande.",
+      "explanation": "Los límites de velocidad publicados en las rampas de salida y entrada a menudo muestran velocidades seguras para que los automóviles las circulen. Sin embargo, estos límites de velocidad pueden ser demasiado rápidos para vehículos grandes o muy cargados y los conductores de CMV probablemente necesitarán reducir la velocidad a una velocidad inferior al límite publicado."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9419",
+      "question": "____ es un ejemplo de equipo de emergencia requerido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un fusible eléctrico de repuesto"
+        },
+        {
+          "letter": "B",
+          "text": "Una bocina fuerte"
+        },
+        {
+          "letter": "C",
+          "text": "Una linterna con batería"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un fusible eléctrico de repuesto",
+      "explanation": "Todos los vehículos comerciales deben estar equipados con el equipo de emergencia adecuado. Esto puede incluir fusibles eléctricos de repuesto; tres triángulos reflectantes rojos, seis fusibles o tres bengalas líquidas ardientes; y al menos un extintor de incendios debidamente cargado y clasificado."
+    }
+  ]
+}

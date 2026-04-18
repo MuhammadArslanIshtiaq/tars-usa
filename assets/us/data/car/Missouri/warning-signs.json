@@ -1,0 +1,1127 @@
+{
+  "state": "Missouri",
+  "category": "car",
+  "quizName": "Warning Signs Test",
+  "slug": "warning-signs",
+  "totalQuestions": 43,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/lane-reduction-right-lane-ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left lane ends — merge right"
+        },
+        {
+          "letter": "B",
+          "text": "Right lane ends ahead — merge left"
+        },
+        {
+          "letter": "C",
+          "text": "New lane added on the right"
+        },
+        {
+          "letter": "D",
+          "text": "Right lane for right turns only"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Right lane ends ahead — merge left",
+      "explanation": "This sign warns that the right lane is ending ahead and drivers in that lane must merge left into the adjacent lane. Check mirrors and merge safely."
+    },
+    {
+      "questionNumber": 2,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/divided-highway-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Divided highway ahead — road will split with a median"
+        },
+        {
+          "letter": "B",
+          "text": "Highway merges ahead"
+        },
+        {
+          "letter": "C",
+          "text": "End of divided highway"
+        },
+        {
+          "letter": "D",
+          "text": "Two-way traffic begins ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Divided highway ahead — road will split with a median",
+      "explanation": "This sign warns that the road ahead becomes a divided highway with a median separating opposing traffic. Keep to the right of the divider."
+    },
+    {
+      "questionNumber": 3,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/fire-station.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No parking — fire lane"
+        },
+        {
+          "letter": "B",
+          "text": "Fire station ahead — watch for emergency vehicles"
+        },
+        {
+          "letter": "C",
+          "text": "Fire hydrant zone — no stopping"
+        },
+        {
+          "letter": "D",
+          "text": "Emergency evacuation route"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Fire station ahead — watch for emergency vehicles",
+      "explanation": "This sign warns of a fire station ahead. Be alert for fire trucks and other emergency vehicles that may be entering the roadway suddenly."
+    },
+    {
+      "questionNumber": 4,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/circular-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dead end with turnaround area"
+        },
+        {
+          "letter": "B",
+          "text": "U-turn permitted ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Circular intersection (roundabout) ahead"
+        },
+        {
+          "letter": "D",
+          "text": "One-way traffic circle — go left only"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Circular intersection (roundabout) ahead",
+      "explanation": "This sign warns that a circular intersection or roundabout is ahead. Slow down, yield to traffic already in the roundabout, and enter when safe."
+    },
+    {
+      "questionNumber": 5,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/hairpin-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hairpin curve ahead — extremely sharp turn"
+        },
+        {
+          "letter": "B",
+          "text": "Road ends at a dead end ahead"
+        },
+        {
+          "letter": "C",
+          "text": "U-turn area ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Series of gentle curves ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Hairpin curve ahead — extremely sharp turn",
+      "explanation": "This sign warns of a hairpin (180-degree) curve ahead. Reduce speed significantly before entering the curve."
+    },
+    {
+      "questionNumber": 6,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/advisory-speed-on-exit-ramp.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Speed limit changes on the ramp"
+        },
+        {
+          "letter": "B",
+          "text": "Minimum speed on the exit ramp"
+        },
+        {
+          "letter": "C",
+          "text": "Advisory speed for the exit ramp ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Speed limit for trucks on the ramp"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Advisory speed for the exit ramp ahead",
+      "explanation": "This sign shows the recommended safe speed for navigating the upcoming exit ramp. While not a legal limit, exceeding this speed may be dangerous on the curve."
+    },
+    {
+      "questionNumber": 7,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/cattle-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Farm area — no honking"
+        },
+        {
+          "letter": "B",
+          "text": "Ranch entrance ahead on the right"
+        },
+        {
+          "letter": "C",
+          "text": "Cattle crossing ahead — watch for cattle on the road"
+        },
+        {
+          "letter": "D",
+          "text": "Animal shelter ahead"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Cattle crossing ahead — watch for cattle on the road",
+      "explanation": "This sign warns that cattle may be crossing the road in this area. Slow down and be prepared to stop for animals on or near the road."
+    },
+    {
+      "questionNumber": 8,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/deer-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wildlife refuge — no hunting zone"
+        },
+        {
+          "letter": "B",
+          "text": "Animal control zone ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Deer crossing — watch for deer on or near the road"
+        },
+        {
+          "letter": "D",
+          "text": "Scenic wildlife viewing area"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Deer crossing — watch for deer on or near the road",
+      "explanation": "This sign warns of an area where deer frequently cross the road. Be especially alert at dawn and dusk when deer are most active."
+    },
+    {
+      "questionNumber": 9,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/sharp-curve-to-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right turn recommended ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Road bends slightly to the right"
+        },
+        {
+          "letter": "C",
+          "text": "Sharp right curve ahead — reduce speed"
+        },
+        {
+          "letter": "D",
+          "text": "Exit ramp curve ahead"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sharp right curve ahead — reduce speed",
+      "explanation": "This sign warns of a sharp curve to the right. Reduce your speed well before the curve. Driving too fast through a sharp curve can cause you to lose control."
+    },
+    {
+      "questionNumber": 10,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/sharp-curve-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sharp curve to the right ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Gentle curve to the right"
+        },
+        {
+          "letter": "C",
+          "text": "Right turn only ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Right lane exit ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sharp curve to the right ahead",
+      "explanation": "This sign warns of a sharp curve to the right ahead. Slow down significantly before entering the curve to maintain control of your vehicle."
+    },
+    {
+      "questionNumber": 11,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/merging-traffic-from-right-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right lane ends — merge left"
+        },
+        {
+          "letter": "B",
+          "text": "Merging traffic from the right ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Right turn only lane ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Highway on-ramp from the right"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Merging traffic from the right ahead",
+      "explanation": "This sign warns that traffic will be merging into your lane from the right. Adjust your speed and position to allow merging vehicles to enter safely."
+    },
+    {
+      "questionNumber": 12,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/snow-mobile-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Snowmobile crossing ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Snow removal equipment ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Winter road conditions — chains required"
+        },
+        {
+          "letter": "D",
+          "text": "Ski area ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Snowmobile crossing ahead",
+      "explanation": "This sign warns that snowmobiles frequently cross the road in this area. Watch for snowmobiles, especially during winter months."
+    },
+    {
+      "questionNumber": 13,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/advisory-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Advisory speed — recommended safe speed for the road condition ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Speed limit for this road segment"
+        },
+        {
+          "letter": "C",
+          "text": "Minimum speed required ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Speed zone ends at next intersection"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Advisory speed — recommended safe speed for the road condition ahead",
+      "explanation": "This sign shows the maximum recommended safe speed for a section of road ahead, such as a curve. It is a recommendation, not a legal speed limit."
+    },
+    {
+      "questionNumber": 14,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/t-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T-intersection ahead — prepare to turn"
+        },
+        {
+          "letter": "B",
+          "text": "Road ends — turn around"
+        },
+        {
+          "letter": "C",
+          "text": "One-way street intersection"
+        },
+        {
+          "letter": "D",
+          "text": "Highway exit ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "T-intersection ahead — prepare to turn",
+      "explanation": "This sign warns of a T-intersection where your road meets another road. Reduce speed and be prepared to yield or stop before turning left or right."
+    },
+    {
+      "questionNumber": 15,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/truck-rollover-warning-sharp-curve.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Truck rollover warning — sharp curve ahead, reduce speed"
+        },
+        {
+          "letter": "B",
+          "text": "Trucks must exit at this ramp"
+        },
+        {
+          "letter": "C",
+          "text": "Truck runaway ramp ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Steep downgrade — trucks use low gear"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Truck rollover warning — sharp curve ahead, reduce speed",
+      "explanation": "This sign warns truck drivers that the sharp curve ahead is dangerous and may cause rollover if speed is too high. All vehicles should reduce speed."
+    },
+    {
+      "questionNumber": 16,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/entering-roadway-added-lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Merge into traffic immediately"
+        },
+        {
+          "letter": "B",
+          "text": "Entering roadway with an added lane — you have your own lane"
+        },
+        {
+          "letter": "C",
+          "text": "Right lane ends — merge left"
+        },
+        {
+          "letter": "D",
+          "text": "Acceleration lane — speed up to merge"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Entering roadway with an added lane — you have your own lane",
+      "explanation": "This sign tells drivers entering a roadway that a new lane has been added for them. There is no need to merge immediately — you have your own lane."
+    },
+    {
+      "questionNumber": 17,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/very-sharp-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Very sharp curve ahead — significantly reduce speed"
+        },
+        {
+          "letter": "B",
+          "text": "Road ends ahead — turn around"
+        },
+        {
+          "letter": "C",
+          "text": "Hairpin switchback for next 2 miles"
+        },
+        {
+          "letter": "D",
+          "text": "Mountain pass curve with scenic view"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Very sharp curve ahead — significantly reduce speed",
+      "explanation": "This sign warns of an extremely sharp curve ahead. You must reduce your speed significantly to safely navigate the turn. Losing control on such curves is a common cause of serious accidents."
+    },
+    {
+      "questionNumber": 18,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/slippery-when-wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ice on bridge ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Flood zone ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Slippery road ahead when wet"
+        },
+        {
+          "letter": "D",
+          "text": "Gravel road ahead — loose surface"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Slippery road ahead when wet",
+      "explanation": "This sign warns that the road surface may become very slippery when wet. Reduce speed in wet conditions and avoid sudden braking, acceleration, or sharp turns."
+    },
+    {
+      "questionNumber": 19,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Steep hill ahead — be cautious of the grade"
+        },
+        {
+          "letter": "B",
+          "text": "Uneven road surface ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Speed bump ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Mountain pass elevation sign"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Steep hill ahead — be cautious of the grade",
+      "explanation": "This sign warns of a steep hill ahead. Trucks and heavy vehicles should gear down. Watch for slow-moving vehicles and be prepared to adjust your speed."
+    },
+    {
+      "questionNumber": 20,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intersection without signals ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Signal is broken — treat as stop sign"
+        },
+        {
+          "letter": "C",
+          "text": "Traffic signal ahead — be prepared to stop"
+        },
+        {
+          "letter": "D",
+          "text": "New traffic signal installed ahead"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Traffic signal ahead — be prepared to stop",
+      "explanation": "This sign warns of a traffic signal ahead that may not be visible until you are close to it. Begin slowing down and be prepared to stop for a red or yellow light."
+    },
+    {
+      "questionNumber": 21,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/traffic-laws-enforced-by-cam.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traffic laws enforced by camera in this area"
+        },
+        {
+          "letter": "B",
+          "text": "Surveillance cameras for security purposes"
+        },
+        {
+          "letter": "C",
+          "text": "Speed measured by radar ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Photo toll collection ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Traffic laws enforced by camera in this area",
+      "explanation": "This sign warns that traffic violations such as speeding or running red lights are monitored and recorded by cameras. Obey all traffic laws in this zone."
+    },
+    {
+      "questionNumber": 22,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/no-passing-zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow vehicle turnout ahead"
+        },
+        {
+          "letter": "B",
+          "text": "No passing zone — do not pass other vehicles"
+        },
+        {
+          "letter": "C",
+          "text": "Keep right except to pass"
+        },
+        {
+          "letter": "D",
+          "text": "End of no passing zone"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "No passing zone — do not pass other vehicles",
+      "explanation": "This pennant-shaped sign marks the beginning of a no passing zone. Do not attempt to pass slower vehicles in this area as visibility or road conditions make it unsafe."
+    },
+    {
+      "questionNumber": 23,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/two-way-traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Divided highway ahead"
+        },
+        {
+          "letter": "B",
+          "text": "One-way street ends"
+        },
+        {
+          "letter": "C",
+          "text": "Merge into single lane ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Two-way traffic ahead"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Two-way traffic ahead",
+      "explanation": "This sign warns that you are about to enter a stretch of road where traffic moves in both directions. Stay on your side of the road and watch for oncoming vehicles."
+    },
+    {
+      "questionNumber": 24,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/intersection-within-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intersection within a curve ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Sharp curve then straight road ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Curved on-ramp to highway"
+        },
+        {
+          "letter": "D",
+          "text": "Side road after the curve"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Intersection within a curve ahead",
+      "explanation": "This sign warns of an intersection located within a curve. This is especially hazardous as visibility is limited. Reduce speed and be alert for cross traffic."
+    },
+    {
+      "questionNumber": 25,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/t-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dead end — no outlet"
+        },
+        {
+          "letter": "B",
+          "text": "Cross road ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Divided highway ends ahead"
+        },
+        {
+          "letter": "D",
+          "text": "T-intersection ahead — road ends, you must turn left or right"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "T-intersection ahead — road ends, you must turn left or right",
+      "explanation": "This sign warns that the road you are on ends ahead at a T-intersection. You must turn either left or right — you cannot go straight."
+    },
+    {
+      "questionNumber": 26,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/advisory-turn-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Advisory turn speed — recommended speed for the curve ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Mandatory speed through the turn"
+        },
+        {
+          "letter": "C",
+          "text": "Speed reduction required by law"
+        },
+        {
+          "letter": "D",
+          "text": "Turn lane speed limit ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Advisory turn speed — recommended speed for the curve ahead",
+      "explanation": "This sign warns of a curve ahead and recommends a safe speed for navigating it. The arrow shows the direction of the curve."
+    },
+    {
+      "questionNumber": 27,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/left-reverse-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left U-turn only ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Double left turn lanes ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Left reverse turn ahead — sharp left then sharp right curve"
+        },
+        {
+          "letter": "D",
+          "text": "Winding road ahead for several miles"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Left reverse turn ahead — sharp left then sharp right curve",
+      "explanation": "This sign warns of a reverse turn ahead — a sharp left turn immediately followed by a sharp right turn (S-shaped road). Reduce speed before entering the curves."
+    },
+    {
+      "questionNumber": 28,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/stop-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop sign ahead — be prepared to stop"
+        },
+        {
+          "letter": "B",
+          "text": "Traffic signal ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Yield sign ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Road closed ahead — must stop"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stop sign ahead — be prepared to stop",
+      "explanation": "This sign warns that a stop sign is ahead. Begin slowing down so you can stop completely at the stop sign."
+    },
+    {
+      "questionNumber": 29,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/side-road-at-angle-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sharp curve ahead to the right"
+        },
+        {
+          "letter": "B",
+          "text": "Fork in the road ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Y-intersection ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Side road enters at an angle ahead"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Side road enters at an angle ahead",
+      "explanation": "This sign warns that a side road enters the main road at an angle ahead. Watch for traffic entering from the side road."
+    },
+    {
+      "questionNumber": 30,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/added-lane-from-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left lane ends — merge right"
+        },
+        {
+          "letter": "B",
+          "text": "Merge from left lane into traffic"
+        },
+        {
+          "letter": "C",
+          "text": "Highway on-ramp from the left ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Traffic entering from the left has its own lane — no merge needed"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Traffic entering from the left has its own lane — no merge needed",
+      "explanation": "This sign indicates that a new lane is being added for traffic entering from the left. Through traffic does not need to merge or change lanes."
+    },
+    {
+      "questionNumber": 31,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/road-narrows.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Road narrows ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Bridge ahead with weight limit"
+        },
+        {
+          "letter": "C",
+          "text": "One lane road ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Lane ends — merge now"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Road narrows ahead",
+      "explanation": "This sign warns that the road becomes narrower ahead. Reduce speed and be prepared for less room on the road."
+    },
+    {
+      "questionNumber": 32,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/emergency-signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traffic light ahead — prepare to stop"
+        },
+        {
+          "letter": "B",
+          "text": "Emergency signal ahead — be prepared to stop"
+        },
+        {
+          "letter": "C",
+          "text": "Hospital zone — reduce speed"
+        },
+        {
+          "letter": "D",
+          "text": "Emergency vehicle station on the right"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Emergency signal ahead — be prepared to stop",
+      "explanation": "This sign warns of an emergency traffic signal ahead, often near a fire station. Be prepared to stop when the signal is activated for emergency vehicles."
+    },
+    {
+      "questionNumber": 33,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/y-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Y-intersection ahead — road splits into two directions"
+        },
+        {
+          "letter": "B",
+          "text": "Divided highway begins ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Merge area ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Two-way traffic ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Y-intersection ahead — road splits into two directions",
+      "explanation": "This sign warns that the road ahead splits into a Y-shape. Choose the correct direction and reduce speed as you approach the fork."
+    },
+    {
+      "questionNumber": 34,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/truck-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Truck weigh station ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Truck crossing ahead — watch for trucks entering the road"
+        },
+        {
+          "letter": "C",
+          "text": "No trucks allowed on this road"
+        },
+        {
+          "letter": "D",
+          "text": "Truck parking area ahead"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Truck crossing ahead — watch for trucks entering the road",
+      "explanation": "This sign warns that trucks frequently cross or enter the road in this area. Be alert for slow-moving trucks and allow them extra space."
+    },
+    {
+      "questionNumber": 35,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/winding-road-left-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left curve ahead only"
+        },
+        {
+          "letter": "B",
+          "text": "Slippery curves ahead when wet"
+        },
+        {
+          "letter": "C",
+          "text": "Scenic winding route — next 5 miles"
+        },
+        {
+          "letter": "D",
+          "text": "Winding road ahead starting with a left curve"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Winding road ahead starting with a left curve",
+      "explanation": "This sign warns of a winding road ahead that begins with a curve to the left. Reduce speed and be prepared for multiple curves in alternating directions."
+    },
+    {
+      "questionNumber": 36,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/left-turn-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left curve ahead — road curves to the left"
+        },
+        {
+          "letter": "B",
+          "text": "Left turn only ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Left lane exit ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Merge left ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Left curve ahead — road curves to the left",
+      "explanation": "This sign warns that the road curves to the left ahead. Reduce speed before the curve and stay in your lane."
+    },
+    {
+      "questionNumber": 37,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/farm-machinery-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Farm machinery crossing — watch for slow farm vehicles"
+        },
+        {
+          "letter": "B",
+          "text": "Tractor dealership ahead"
+        },
+        {
+          "letter": "C",
+          "text": "No farm vehicles allowed on this road"
+        },
+        {
+          "letter": "D",
+          "text": "Agricultural zone — speed limit reduced"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Farm machinery crossing — watch for slow farm vehicles",
+      "explanation": "This sign warns that farm machinery may be crossing or entering the road in this area. These vehicles move very slowly — be prepared to slow down significantly."
+    },
+    {
+      "questionNumber": 38,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/right-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right curve ahead — road curves to the right"
+        },
+        {
+          "letter": "B",
+          "text": "Right turn only at intersection"
+        },
+        {
+          "letter": "C",
+          "text": "Right lane exit ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Bear right at the fork"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Right curve ahead — road curves to the right",
+      "explanation": "This sign warns of a right curve ahead. Reduce your speed before entering the curve and keep your vehicle in the proper lane."
+    },
+    {
+      "questionNumber": 39,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/cross-road-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four-way stop ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Crossroad ahead — another road crosses your road"
+        },
+        {
+          "letter": "C",
+          "text": "Highway interchange ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Railroad crossing ahead"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Crossroad ahead — another road crosses your road",
+      "explanation": "This sign warns that a crossroad or four-way intersection is ahead. Be alert for traffic entering from the left or right."
+    },
+    {
+      "questionNumber": 40,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/entering-roadway-merge-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entering roadway — merge right into traffic"
+        },
+        {
+          "letter": "B",
+          "text": "New lane added — no merge needed"
+        },
+        {
+          "letter": "C",
+          "text": "Right lane for exiting only"
+        },
+        {
+          "letter": "D",
+          "text": "Weave area — traffic merging from both sides"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Entering roadway — merge right into traffic",
+      "explanation": "This sign indicates that drivers entering the roadway must merge to the right into the existing traffic flow. Yield to vehicles already on the highway."
+    },
+    {
+      "questionNumber": 41,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/yield-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop sign ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Merge ahead — yield to traffic"
+        },
+        {
+          "letter": "C",
+          "text": "Crosswalk ahead — yield to pedestrians"
+        },
+        {
+          "letter": "D",
+          "text": "Yield sign ahead — be prepared to yield"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Yield sign ahead — be prepared to yield",
+      "explanation": "This sign warns that there is a yield sign ahead. Slow down and be prepared to yield the right of way to other vehicles and pedestrians."
+    },
+    {
+      "questionNumber": 42,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/side-road-at-angle-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right lane exits ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Merge from right ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Side road enters from the right at an angle"
+        },
+        {
+          "letter": "D",
+          "text": "Right curve followed by side road"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Side road enters from the right at an angle",
+      "explanation": "This sign warns that a side road enters from the right at an angle. Watch for vehicles entering the main road from the right."
+    },
+    {
+      "questionNumber": 43,
+      "question": "What does this sign mean?",
+      "image": "/images/warning-signs/side-road-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left turn lane ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Road branches to the left"
+        },
+        {
+          "letter": "C",
+          "text": "Divided highway begins — keep right"
+        },
+        {
+          "letter": "D",
+          "text": "Side road entering from the left ahead"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Side road entering from the left ahead",
+      "explanation": "This sign warns that a side road enters from the left ahead. Watch for vehicles that may be entering the main road from the left."
+    }
+  ]
+}

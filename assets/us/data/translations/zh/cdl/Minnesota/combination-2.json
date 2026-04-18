@@ -1,0 +1,490 @@
+{
+  "state": "Minnesota",
+  "category": "cdl",
+  "testName": "Combination Test #2 20 Questions • Passing Score 16",
+  "testSlug": "combination-2",
+  "url": "/images/minnesota/cdl/combination-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11459",
+      "question": "在行驶前，通过以下方式确保空气流向所有拖车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "打开后关闭阀并听取逸出的空气。"
+        },
+        {
+          "letter": "B",
+          "text": "关闭后关闭阀并听取逸出的空气。"
+        },
+        {
+          "letter": "C",
+          "text": "断开空气供应管线并听取逸出的空气。"
+        },
+        {
+          "letter": "D",
+          "text": "将每辆拖车滚动下坡并测试制动器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "打开后关闭阀并听取逸出的空气。",
+      "explanation": "在行程前，确保空气制动系统中的空气到达所有拖车。通过等待空气压力建立，然后将空气发送到应急和服务线，并打开最后一个拖车后部的关闭阀来完成此操作。如果空气从联合车后部的关闭阀逸出，则空气被供应到整个车辆。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11201",
+      "question": "如果将负载放在拖车的一侧，拖车将：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "可能在转弯时倾斜。"
+        },
+        {
+          "letter": "B",
+          "text": "可能在转弯时增加额外支持。"
+        },
+        {
+          "letter": "C",
+          "text": "可能在转弯时更容易转向。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "可能在转弯时倾斜。",
+      "explanation": "将负载的重量放在拖车的一侧可能会导致拖车向该侧倾斜，增加转弯和变道时翻车的风险。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11145",
+      "question": "连接时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您可以假设所有车辆都相同。"
+        },
+        {
+          "letter": "B",
+          "text": "确保您连接正确。"
+        },
+        {
+          "letter": "C",
+          "text": "安装件上的裂纹是可以接受的。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "确保您连接正确。",
+      "explanation": "联合车辆的不正确连接和断开可能会产生极其危险的后果。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9143",
+      "question": "如果挂车开始打滑，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "锁定制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "松开制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "向相反方向转向。"
+        },
+        {
+          "letter": "D",
+          "text": "加速。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "松开制动器。",
+      "explanation": "如果您的挂车在制动时开始打滑，您应该松开制动器并允许其开始恢复牵引力。一旦其轮子重新获得对道路的抓力，挂车将开始笔直并跟随牵引车。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8902",
+      "question": "未能保持第五轮盘板适当润滑可能会：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "导致拖车脱落。"
+        },
+        {
+          "letter": "B",
+          "text": "导致转向问题。"
+        },
+        {
+          "letter": "C",
+          "text": "导致制动问题。"
+        },
+        {
+          "letter": "D",
+          "text": "影响灯光。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "导致转向问题。",
+      "explanation": "未能保持第五轮盘板适当润滑可能会导致牵引车和拖车之间产生摩擦，从而导致转向问题。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11208",
+      "question": "如果停放的拖车没有弹簧制动，您应该通过以下方式防止拖车移动：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "让车停在墙或其他车辆旁边。"
+        },
+        {
+          "letter": "B",
+          "text": "使用轮挡。"
+        },
+        {
+          "letter": "C",
+          "text": "停在轻微的斜坡上。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "使用轮挡。",
+      "explanation": "如果停放的拖车没有弹簧制动，应使用轮挡来防止其移动。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9542",
+      "question": "如果不确定拖车是否配备ABS，你可以:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查拖车下方是否有来自制动器后部的车轮速度传感器。"
+        },
+        {
+          "letter": "B",
+          "text": "尝试在光滑路面上行驶，看ABS是否启动。"
+        },
+        {
+          "letter": "C",
+          "text": "假设它确实配备了ABS。"
+        },
+        {
+          "letter": "D",
+          "text": "拆下轮胎并查看车轴上的ABS传感器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "检查拖车下方是否有来自制动器后部的车轮速度传感器。",
+      "explanation": "在1998年3月1日或之后制造的拖车和转换拖斗需要配备防抱死制动系统(ABS)。这将由黄色故障指示灯的存在表明。你可以通过检查拖车下方是否有来自制动器后部的ECU和车轮速度传感器电线来确定较旧的拖车是否配备ABS。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11832",
+      "question": "如果气源控制杆处于其\"应急\"位置：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "车辆将加速。"
+        },
+        {
+          "letter": "B",
+          "text": "拖车应急制动器将被启动。"
+        },
+        {
+          "letter": "C",
+          "text": "到拖车的空气供应将增加。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "拖车应急制动器将被启动。",
+      "explanation": "旧车辆中的牵引车保护控制装置可能由杆杆而不是旋钮操作。如果气源控制杆设置在其\"应急\"位置，气源供应将停止，挂车应急制动器将被施加。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11853",
+      "question": "如果你按下牵引车空气供应控制装置，而你的挂车的弹簧制动器没有释放，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查空气管连接。"
+        },
+        {
+          "letter": "B",
+          "text": "激活防抱死制动系统。"
+        },
+        {
+          "letter": "C",
+          "text": "关闭并重新启动发动机。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "检查空气管连接。",
+      "explanation": "在开始旅程之前，确保车辆的所有设备都处于正常工作状态是很重要的。如果在你按下牵引车空气供应控制装置时挂车的弹簧制动器没有释放，你应该确保空气管连接正确连接和密封。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11568",
+      "question": "在配备自动拖车保护阀的车辆中，该阀将在以下情况下弹出：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "空气压力下降到20至45 psi之间的水平。"
+        },
+        {
+          "letter": "B",
+          "text": "你正在经历拖车折叠。"
+        },
+        {
+          "letter": "C",
+          "text": "车轮在打滑后恢复了牵引力。"
+        },
+        {
+          "letter": "D",
+          "text": "空气压力高于45 psi。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "空气压力下降到20至45 psi之间的水平。",
+      "explanation": "在配备自动拖车保护阀的车辆中，当空气压力下降到20至45 psi之间的水平时，该阀将弹出。当阀弹出时，保护阀将关闭，停止空气流动。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11210",
+      "question": "联合车辆有____条空气线路。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一杯"
+        },
+        {
+          "letter": "B",
+          "text": "两杯"
+        },
+        {
+          "letter": "C",
+          "text": "三杯"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "两杯",
+      "explanation": "每辆联合车辆都有两条空气线路：服务线路和紧急线路。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10312",
+      "question": "拖曳拖车驾驶时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "用方向盘做出突然转向。"
+        },
+        {
+          "letter": "B",
+          "text": "避免做出突然的动作。"
+        },
+        {
+          "letter": "C",
+          "text": "从停止状态启动时将加速器踩到底。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "避免做出突然的动作。",
+      "explanation": "拖曳拖车时，你应该始终温和而平稳地操纵方向盘。突然的方向盘动作可能导致拖车翻转。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10242",
+      "question": "当组合车转过一个弯角时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "转弯应该尽可能紧密地进行。"
+        },
+        {
+          "letter": "B",
+          "text": "前后轮胎的行驶路径不同。"
+        },
+        {
+          "letter": "C",
+          "text": "后轮应该越过路缘。"
+        },
+        {
+          "letter": "D",
+          "text": "如果街道标志距离道路太近，将其撞倒是可以接受的。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "前后轮胎的行驶路径不同。",
+      "explanation": "车辆转过弯角时，后轮跟踪的路径与前轮不同。这称为越位跟踪。这种效应在带有拖车的车辆上特别明显。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11453",
+      "question": "如果拖车开始侧滑，你不应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "松开制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "使用拖车手制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "让车轮与路面接触。"
+        },
+        {
+          "letter": "D",
+          "text": "让拖车自行调直。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "使用拖车手制动器。",
+      "explanation": "如果拖车开始千斤顶翻，您应该释放制动器并让拖车车轮重新与道路产生牵引力。不要使用拖车手制动器试图调直车组，因为这只会延长滑行。最初就是制动器的应用导致车轮锁定的。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11826",
+      "question": "如果驾驶员转弯太快，____拖车最可能翻覆。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前"
+        },
+        {
+          "letter": "B",
+          "text": "最后一辆"
+        },
+        {
+          "letter": "C",
+          "text": "中间"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "最后一辆",
+      "explanation": "转向时，确保温和平稳地转向。拖车时快速转向是危险的，会增加最后一辆拖车翻车的风险。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11134",
+      "question": "拖车手阀应该用于：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在农村地区加速。"
+        },
+        {
+          "letter": "B",
+          "text": "仅用于测试拖车制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "与制动踏板一起。"
+        },
+        {
+          "letter": "D",
+          "text": "在光滑的路面上。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "仅用于测试拖车制动器。",
+      "explanation": "拖车手动阀，也称为手推车阀或Johnson bar，用于操作拖车制动器。它应仅用于测试制动器。在车辆行驶中使用它可能会导致打滑。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9539",
+      "question": "什么是拖拉机保护阀？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在制动系统出现严重泄漏时保持系统中空气的阀门"
+        },
+        {
+          "letter": "B",
+          "text": "防止卡车被盗的阀门"
+        },
+        {
+          "letter": "C",
+          "text": "防止驾驶员行驶过快的阀门"
+        },
+        {
+          "letter": "D",
+          "text": "防止拖车意外释放的阀门"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在制动系统出现严重泄漏时保持系统中空气的阀门",
+      "explanation": "在配备气制动的组合车辆中，牵引车保护阀在拖车断离或出现泄漏时，保持牵引车或卡车制动系统中的空气。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9541",
+      "question": "连接拖车时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "确保连接匹配的glad hands。"
+        },
+        {
+          "letter": "B",
+          "text": "任何glad hand都可以连接到任何其他glad hand。"
+        },
+        {
+          "letter": "C",
+          "text": "最好不连接一个glad hand。"
+        },
+        {
+          "letter": "D",
+          "text": "只应连接一套glad hands。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "确保连接匹配的glad hands。",
+      "explanation": "连接时，请确保连接匹配的glad hands。它们通常有颜色编码，以帮助驾驶员避免犯错。通常蓝色用于服务线路，红色用于紧急线路。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11838",
+      "question": "开始旅行前，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "保持服务管线阀门打开。"
+        },
+        {
+          "letter": "B",
+          "text": "拆卸中继阀。"
+        },
+        {
+          "letter": "C",
+          "text": "关闭应急管线阀门。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "关闭应急管线阀门。",
+      "explanation": "在旅行前，你应该打开后部应急管线和服务管线关闭阀门，倾听逃逸的空气声，确保空气到达所有拖车上的所有空气制动装置。开始驾驶前关闭两个关闭阀门。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11831",
+      "question": "在配备自动拖车保护阀的车辆中，当空气压力下降到以下水平时，该阀将弹出：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20至45 psi。"
+        },
+        {
+          "letter": "B",
+          "text": "75至105 psi。"
+        },
+        {
+          "letter": "C",
+          "text": "50至65 psi。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "20至45 psi。",
+      "explanation": "在配备自动拖车保护阀的车辆中，当空气压力下降到20至45 psi之间的水平时，该阀将弹出。当阀弹出时，保护阀将关闭，停止空气流动。"
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "state": "Ohio",
+  "category": "cdl",
+  "testName": "Double Test #2 20 Questions • Passing Score 16",
+  "testSlug": "double-2",
+  "url": "/images/ohio/cdl/double-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11267",
+      "question": "Lorsque vous entrez dans une courbe, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Passez au point mort."
+        },
+        {
+          "letter": "B",
+          "text": "Utilisez l'accotement."
+        },
+        {
+          "letter": "C",
+          "text": "Rétrograder."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Rétrograder.",
+      "explanation": "Vous devriez toujours réduire votre vitesse à une vitesse sûre et passer à une vitesse inférieure avant d'entrer dans une courbe."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9581",
+      "question": "Lors de l'application de vos freins, le véhicule devrait :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tirer d'un côté."
+        },
+        {
+          "letter": "B",
+          "text": "Grincement."
+        },
+        {
+          "letter": "C",
+          "text": "Ne pas tirer d'un côté ou de l'autre."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ne pas tirer d'un côté ou de l'autre.",
+      "explanation": "Votre véhicule tirant d'un côté ou de l'autre pendant que vous freinez peut indiquer un problème avec les freins."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9433",
+      "question": "Parmi les suivants, quelle est la surface la plus glissante ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glace sèche"
+        },
+        {
+          "letter": "B",
+          "text": "La glace qui est humide"
+        },
+        {
+          "letter": "C",
+          "text": "Chaussée mouillée"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La glace qui est humide",
+      "explanation": "La glace devient humide quand le temps est juste assez chaud pour faire fondre légèrement la glace. La glace humide est beaucoup plus glissante que la glace qui n'est pas humide."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11887",
+      "question": "Lors d'un test de fuite statique, quel est le taux de fuite maximal sûr pour un véhicule combiné double ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi en une minute."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi en une minute."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi en une minute."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi en une minute.",
+      "explanation": "Lors d'un test de fuite statique sur un véhicule combiné double avec freins à air, le taux de fuite ne doit pas dépasser 3 psi en une minute. Si l'air s'échappe du système de freinage à air à un taux plus rapide, le véhicule ne doit pas être conduit car quelque chose doit probablement être réparé."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11885",
+      "question": "Lorsque vous êtes sur le point de descendre une pente, vous devez passer à une vitesse ____ .",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Supérieur"
+        },
+        {
+          "letter": "B",
+          "text": "Plus rapide"
+        },
+        {
+          "letter": "C",
+          "text": "Inférieur"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Inférieur",
+      "explanation": "Avant de commencer à descendre une colline, assurez-vous de passer à un rapport inférieur. La gravité augmentera la vitesse de votre véhicule lors de la descente."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8754",
+      "question": "Le compresseur d'air est connecté à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmission."
+        },
+        {
+          "letter": "B",
+          "text": "Moteur."
+        },
+        {
+          "letter": "C",
+          "text": "Radiateur."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Moteur.",
+      "explanation": "Le compresseur d'air d'un système de freinage pneumatique est connecté au moteur par des engrenages ou une courroie trapézoïdale. Le compresseur peut être refroidi par l'air ou refroidi par le système de refroidissement du moteur."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11898",
+      "question": "Si la pression d'air chute à un niveau entre ____, un signal d'avertissement de basse pression visuelle devrait avoir déjà été activé.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55 et 75 psi."
+        },
+        {
+          "letter": "B",
+          "text": "80 et 95 psi."
+        },
+        {
+          "letter": "C",
+          "text": "65 et 100 psi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "55 et 75 psi.",
+      "explanation": "Un signal d'avertissement de basse pression visuelle devrait s'activer avant que la pression d'air ne chute à un niveau entre 55 et 75 psi. Ce signal pourrait être une lumière, un buzzer ou un wig wag."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8767",
+      "question": "La pression d'air doit s'accumuler dans un système d'air unique en:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 minutes."
+        },
+        {
+          "letter": "B",
+          "text": "12 minutes."
+        },
+        {
+          "letter": "C",
+          "text": "Trois minutes."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Trois minutes.",
+      "explanation": "Dans les systèmes pneumatiques simples, la pression d'air doit augmenter d'environ 50 à 90 psi en trois minutes."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11320",
+      "question": "Certains systèmes de frein à air introduisent de l'alcool dans le système pour:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faire fonctionner les freins sans grincer."
+        },
+        {
+          "letter": "B",
+          "text": "Empêcher la glace de se former dans le système de freinage."
+        },
+        {
+          "letter": "C",
+          "text": "Empêcher les gens de respirer l'air du système."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Empêcher la glace de se former dans le système de freinage.",
+      "explanation": "Certains systèmes de frein à air contiennent un évaporateur d'alcool. Un évaporateur introduit de l'alcool dans le système pour aider à inhiber la formation de glace par temps froid."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9588",
+      "question": "Si vous reculez un camion:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devez vous fier à vos rétroviseurs pour vous guider."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez d'abord marcher dans la zone pour mieux connaître les obstacles."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devez regarder droit devant."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vous devez d'abord marcher dans la zone pour mieux connaître les obstacles.",
+      "explanation": "Si vous devez conduire en marche arrière, vous devriez d'abord marcher autour de votre véhicule pour vérifier le chemin et chercher les obstacles. Parce que les rétroviseurs ont des angles morts, vous ne pouvez pas vous fier exclusivement à eux. Il est recommandé d'utiliser un assistant chaque fois que c'est possible."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11355",
+      "question": "Les pièces de suspension cassées:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doivent être réparés immédiatement."
+        },
+        {
+          "letter": "B",
+          "text": "Doivent être réparés, mais pas immédiatement."
+        },
+        {
+          "letter": "C",
+          "text": "Ne peuvent pas être identifiés."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Doivent être réparés immédiatement.",
+      "explanation": "Le système de suspension remplit les fonctions vitales de soutenir le véhicule et sa charge tout en maintenant les essieux en place. Les défauts de suspension sont donc extrêmement dangereux."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11375",
+      "question": "Si vous vous sentez fatigué et bâillez beaucoup pendant la conduite, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêtez-vous et faites une sieste."
+        },
+        {
+          "letter": "B",
+          "text": "Prenez un café."
+        },
+        {
+          "letter": "C",
+          "text": "Conduire plus vite."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Arrêtez-vous et faites une sieste.",
+      "explanation": "Si vous commencez à vous sentir fatigué en conduisant, vous devriez vous arrêter pour dormir. Essayer de continuer pour atteindre votre destination tout en étant fatigué est dangereux. Vous ne devriez pas compter sur la caféine pour vous tenir éveillé."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9599",
+      "question": "Les conducteurs parlant avec des passagers dans leur véhicule doivent être considérés comme :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des conducteurs responsables."
+        },
+        {
+          "letter": "B",
+          "text": "Des conducteurs distraits."
+        },
+        {
+          "letter": "C",
+          "text": "Des conducteurs compétents."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Des conducteurs distraits.",
+      "explanation": "Les conducteurs engagés dans une conversation avec les passagers peuvent être distraits de la tâche de conduite. Utilisez une prudence supplémentaire lors de la conduite à proximité de conducteurs distraits."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9278",
+      "question": "Lors de la conduite d'un véhicule équipé d'un système de freinage antiblocage (ABS), vous devez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pompez toujours les freins plusieurs fois avant d'appuyer fermement sur la pédale de frein."
+        },
+        {
+          "letter": "B",
+          "text": "Freinez normalement."
+        },
+        {
+          "letter": "C",
+          "text": "Appuyez sur la pédale de frein aussi fort que possible chaque fois que vous ralentissez ou vous arrêtez."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Freinez normalement.",
+      "explanation": "Les conducteurs de véhicules équipés d'ABS et les conducteurs de véhicules sans ABS doivent freiner de manière relativement similaire. Lorsque l'ABS fonctionne correctement, il s'active automatiquement lorsque les freins sont actionnés dans des situations qui pourraient créer un blocage."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9594",
+      "question": "Quand la visibilité est difficile, comme à l'aube ou au crépuscule, un conducteur peut augmenter la visibilité de son véhicule en:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduire en utilisant ses feux."
+        },
+        {
+          "letter": "B",
+          "text": "Conduire avec les fenêtres ouvertes."
+        },
+        {
+          "letter": "C",
+          "text": "Faire clignoter ses feux périodiquement."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Conduire en utilisant ses feux.",
+      "explanation": "Lors de la conduite à l'aube, au crépuscule ou par mauvais temps, vous devez utiliser vos phares en position feu de croisement pour augmenter votre visibilité."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9296",
+      "question": "Si la soupape de décharge de sécurité d'un système de freinage pneumatique relâche de l'air :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous ne devriez pas être préoccupé car c'est un processus normal."
+        },
+        {
+          "letter": "B",
+          "text": "Il y a quelque chose qui ne va pas avec les freins."
+        },
+        {
+          "letter": "C",
+          "text": "La soupape est opérationnelle."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Il y a quelque chose qui ne va pas avec les freins.",
+      "explanation": "La soupape de décharge de sécurité d'un système de freinage pneumatique relâche de l'air si nécessaire pour empêcher la pression dans le système de devenir trop élevée. Si la soupape commence à relâcher de l'air, quelque chose ne va pas. Faites réparer le problème par un mécanicien."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9248",
+      "question": "Maintenir un coussin d'espace entre votre véhicule et le véhicule devant vous est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Non encouragé, car cela ralentit la circulation du trafic."
+        },
+        {
+          "letter": "B",
+          "text": "Encouragé, car cela vous permet de réagir aux risques inattendus."
+        },
+        {
+          "letter": "C",
+          "text": "Seulement encouragé si vous voyagez avec un passager."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Encouragé, car cela vous permet de réagir aux risques inattendus.",
+      "explanation": "Pour une conduite sûre, il est essentiel de maintenir des coussinets d'espace de tous les côtés de votre véhicule. Cela aide à assurer que vous aurez le temps de prendre les mesures appropriées si un problème survient."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9878",
+      "question": "Les conducteurs piégés derrière un véhicule lent souvent:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suivent le véhicule de trop près."
+        },
+        {
+          "letter": "B",
+          "text": "Laissent beaucoup d'espace au véhicule."
+        },
+        {
+          "letter": "C",
+          "text": "Sont satisfaits de la vitesse de déplacement."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Suivent le véhicule de trop près.",
+      "explanation": "Il est courant que les conducteurs suivent de trop près les véhicules lents qui ne peuvent pas maintenir la vitesse du trafic environnant. Si vous êtes suivi de trop près, permettez à l'autre conducteur de dépasser votre véhicule."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10681",
+      "question": "Qu'est-ce que la rage au volant ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduire un véhicule automobile dans l'intention de causer du tort à autrui"
+        },
+        {
+          "letter": "B",
+          "text": "Conduire un véhicule automobile qui est considéré comme dangereux"
+        },
+        {
+          "letter": "C",
+          "text": "Conduire un véhicule automobile qui n'a pas été inspecté"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Conduire un véhicule automobile dans l'intention de causer du tort à autrui",
+      "explanation": "La conduite agressive est définie comme l'exploitation d'un véhicule automobile de manière égoïste, audacieuse ou envahissante. La rage au volant est définie comme l'exploitation d'un véhicule automobile dans l'intention de causer du tort à autrui, ou dans l'intention d'agresser physiquement un autre conducteur ou son véhicule."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8597",
+      "question": "La seule façon de devenir sobre après avoir consommé de l'alcool est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prenez une douche froide."
+        },
+        {
+          "letter": "B",
+          "text": "Exercice."
+        },
+        {
+          "letter": "C",
+          "text": "Attendez."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Attendez.",
+      "explanation": "La majorité de l'alcool est éliminée du corps par le foie, qui traite l'alcool à un rythme fixe. Contrairement à la croyance populaire, des techniques comme boire du café noir ou prendre une douche froide n'accélèreront pas ce processus. La seule chose que vous puissiez faire pour devenir sobre après avoir bu est de laisser à votre corps le temps dont il a besoin pour éliminer l'alcool de votre système."
+    }
+  ]
+}

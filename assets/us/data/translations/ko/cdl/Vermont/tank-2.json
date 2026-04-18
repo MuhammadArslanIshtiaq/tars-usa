@@ -1,0 +1,450 @@
+{
+  "state": "Vermont",
+  "category": "cdl",
+  "testName": "Tank Test #2 20 Questions • Passing Score 16",
+  "testSlug": "tank-2",
+  "url": "/images/vermont/cdl/tank-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11264",
+      "question": "엔진을 시작할 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제동이 잠깁니다."
+        },
+        {
+          "letter": "B",
+          "text": "경고등이 켜졌다가 빠르게 꺼져야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "냉각수 온도가 떨어져야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "경고등이 켜졌다가 빠르게 꺼져야 합니다.",
+      "explanation": "차량이 시작된 후 경고등과 부저는 몇 초 후에 꺼져야 합니다. 경고 신호가 꺼지지 않으면 차량에 문제가 있을 수 있습니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9952",
+      "question": "차량을 시작할 때 유압이 정상 수준에 도달하는 데 얼마나 걸려야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "몇 초"
+        },
+        {
+          "letter": "B",
+          "text": "약 1분"
+        },
+        {
+          "letter": "C",
+          "text": "약 4분"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "몇 초",
+      "explanation": "차량의 엔진을 시작한 후 유압이 몇 초 내에 정상 수준에 도달해야 합니다. 유압이 낮거나 떨어지거나 변동하는 차량을 운전하지 마십시오."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9428",
+      "question": "트레일러로 후진하는 것이 위험한 이유는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량 뒤를 보기 어렵습니다."
+        },
+        {
+          "letter": "B",
+          "text": "대부분의 트럭은 후진으로 움직일 수 없습니다."
+        },
+        {
+          "letter": "C",
+          "text": "화물이 트레일러에서 떨어질 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "차량 뒤를 보기 어렵습니다.",
+      "explanation": "트럭을 후진시키는 것은 항상 위험합니다. 왜냐하면 운전자가 뒤의 모든 것을 볼 수 없을 수도 있기 때문입니다. CMV 운전자는 가능한 한 후진을 피해야 합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "10900",
+      "question": "액체 화물이 있는 탱크 차량을 운전할 때, 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "뒤따르는 거리를 늘릴 것."
+        },
+        {
+          "letter": "B",
+          "text": "타이어의 공기를 빼십시오."
+        },
+        {
+          "letter": "C",
+          "text": "주기적으로 급회전합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "뒤따르는 거리를 늘릴 것.",
+      "explanation": "액체가 있는 탱크로 운전할 때, 급작스러운 정지의 필요성을 줄이기 위해 추종 거리를 늘려야 하므로 액체 급증의 가능성을 줄입니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9933",
+      "question": "점검 전 출발:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "권장됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "100마일 이상의 거리를 위한 여행에만 필요합니다."
+        },
+        {
+          "letter": "C",
+          "text": "법에 따라 필수입니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "법에 따라 필수입니다.",
+      "explanation": "연방 및 주법은 거리에 관계없이 모든 여행 전에 운전자가 차량을 검사하도록 요구합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10288",
+      "question": "악천후에 많은 운전자들은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "트럭 앞에서 운전하기를 좋아합니다."
+        },
+        {
+          "letter": "B",
+          "text": "트럭 옆에 있으면서 운전하기를 좋아합니다."
+        },
+        {
+          "letter": "C",
+          "text": "트럭을 따라가기를 좋아합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "트럭을 따라가기를 좋아합니다.",
+      "explanation": "악천후에 많은 자동차 운전자들은 특히 시야가 좋지 않을 때 대형 트럭을 너무 가깝게 따라갑니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9579",
+      "question": "차량을 시동할 때 경고등과 부저:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "켜지거나 울리지 않아야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "켜졌다가 빠르게 꺼져야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "켜진 후 계속 켜져 있어야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "켜졌다가 빠르게 꺼져야 합니다.",
+      "explanation": "차량 엔진을 시동한 후 경고등과 부저가 켜졌다가 빠르게 꺼져야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "9464",
+      "question": "트레일러가 스키드를 시작했음을 인식하는 가장 좋은 방법은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 운전자들의 얼굴을 보기."
+        },
+        {
+          "letter": "B",
+          "text": "미러에서 트레일러를 확인합니다."
+        },
+        {
+          "letter": "C",
+          "text": "트레일러가 움직이는 것을 느끼기."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "미러에서 트레일러를 확인합니다.",
+      "explanation": "트레일러가 잭나이프를 시작했음을 인식하는 가장 쉬운 방법은 미러에서 관찰하는 것입니다. 미러에서 트레일러를 확인하면 가능한 한 빨리 스키드를 발견할 수 있습니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8586",
+      "question": "과도한 가속으로 인한 스키드는 보통 다음을 통해 해결할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "가속 페달에서 발을 뗍니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이킹합니다."
+        },
+        {
+          "letter": "C",
+          "text": "오른쪽으로 회피합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "가속 페달에서 발을 뗍니다.",
+      "explanation": "과도한 가속으로 인한 스키드는 단순히 가속 페달에서 발을 떼면 해결할 수 있습니다. 이러한 유형의 스키드는 눈이나 얼음으로 덮인 표면에서 가장 자주 발생합니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11836",
+      "question": "5차 휠의 뒤를 보세요:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "에어 브레이크를 테스트할 때"
+        },
+        {
+          "letter": "B",
+          "text": "차량이 스키드하기 시작할 때"
+        },
+        {
+          "letter": "C",
+          "text": "연결 검사할 때"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "연결 검사할 때",
+      "explanation": "연결부를 검사할 때 트레일러 아래로 가서 fifth wheel의 뒤쪽을 살펴봅니다. Fifth wheel의 jaws가 kingpin의 shank 주위에 단단히 고정되어 있는지 확인하세요."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11054",
+      "question": "배기 시스템은 다음과 같아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "느슨해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "누수가 있는."
+        },
+        {
+          "letter": "C",
+          "text": "단단히 고정되어 있어야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "단단히 고정되어 있어야 합니다.",
+      "explanation": "배기 시스템을 검사할 때, 시스템의 부품이 느슨하거나 손상되거나 누락되지 않았는지 확인해야 합니다. 시스템의 부품은 적절히 장착되어야 하며 차량의 움직이는 부품과 마찰되지 않아야 합니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11260",
+      "question": "상용차는 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "위험물을 운송할 때를 제외하고는 소화기를 갖추면 안 됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "외진 지역을 통과할 경우를 제외하고는 소화기를 갖추면 안 됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "소화기 및 기타 비상 장비를 갖추어야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "소화기 및 기타 비상 장비를 갖추어야 합니다.",
+      "explanation": "모든 상용차는 적절한 비상 장비로 장착되어야 합니다. 여기에는 예비 전기 퓨즈, 빨간색 반사 삼각형 3개, 퓨즈 6개 또는 액체 연소 플레어 3개, 및 1개 이상의 충전되고 정격된 소화기가 포함될 수 있습니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8517",
+      "question": "유압 브레이크 누수를 어떻게 확인할 수 있습니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제동 페달을 3번 펌프질한 후 5초간 페달을 누르고 있으세요. 페달이 움직인다면 문제가 있을 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "제동 페달을 가능한 한 멀리 아래로 누르고 놓으세요. 제동 페달이 정상 위치로 돌아오면 문제가 있을 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "제동 페달을 가능한 한 멀리 아래로 누르고 놓으세요. 제동이 삑삑거리면 문제가 있을 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "제동 페달을 3번 펌프질한 후 5초간 페달을 누르고 있으세요. 페달이 움직인다면 문제가 있을 수 있습니다.",
+      "explanation": "제동 페달을 3번 펌프질한 후 페달에 5초간 강한 압력을 가해 유압 브레이크를 확인하세요. 페달은 움직이지 않아야 합니다. 움직인다면 브레이킹 시스템에 누수나 다른 문제가 있을 수 있습니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9895",
+      "question": "다음 중 리그 전복을 방지하는 데 도움이 되지 않는 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "화물을 가능한 한 지면에 가깝게 유지"
+        },
+        {
+          "letter": "B",
+          "text": "곡선 부분에서 천천히 운전"
+        },
+        {
+          "letter": "C",
+          "text": "도로 갓길에서 운전"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "도로 갓길에서 운전",
+      "explanation": "리그 전복을 방지하기 위해서는 화물을 적재할 때 화물의 무게를 가능한 한 지면 가까이 유지해야 합니다. 또한 곡선 부분에서 천천히 운전해야 합니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8674",
+      "question": "운전자가 누수된 패키지 또는 화물을 받은 경우 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "수락합니다."
+        },
+        {
+          "letter": "B",
+          "text": "거절합니다."
+        },
+        {
+          "letter": "C",
+          "text": "도로 옆에 두고 떠납니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "거절합니다.",
+      "explanation": "위험물의 패키지 또는 화물이 누수된 경우 거절하는 것은 운전자의 책임입니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11215",
+      "question": "다음 중 서징(surge)이 가장 강한 곳은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "격벽 탱크."
+        },
+        {
+          "letter": "B",
+          "text": "열린 맨홀이 있는 탱크."
+        },
+        {
+          "letter": "C",
+          "text": "미분할 탱크"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "미분할 탱크",
+      "explanation": "액체의 흐름을 제한하기 위한 내부 격벽이 없는 매끄러운 탱크는 서징에 가장 취약합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9240",
+      "question": "엔진을 시동한 후, ABS(Anti-Lock Braking System) 표시등이 계속 켜져 있으면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ABS가 제대로 작동합니다."
+        },
+        {
+          "letter": "B",
+          "text": "ABS가 제대로 작동하지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "ABS가 작동하지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "ABS가 제대로 작동하지 않습니다.",
+      "explanation": "엔진이 시작된 후 잠금방지제동시스템(ABS) 표시등이 켜져야 합니다. 그러면 표시등이 꺼집니다. 표시등이 계속 켜져 있으면 ABS가 제대로 작동하지 않는 것입니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9415",
+      "question": "출발 전 점검 중에 발견된 경우 다음 중 허용되는 것은 무엇입니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일치하지 않는 타이어 크기"
+        },
+        {
+          "letter": "B",
+          "text": "앞 타이어의 홈에 3/32인치의 트레드"
+        },
+        {
+          "letter": "C",
+          "text": "다른 제조업체에서 제조한 타이어"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "다른 제조업체에서 제조한 타이어",
+      "explanation": "타이어를 검사할 때, 앞 타이어의 모든 주요 홈에서 최소 4/32인치의 트레드 깊이가 있는지 확인하고, 다른 타이어의 트레드 깊이는 최소 2/32인치 이상이어야 합니다. 같은 차량의 타이어는 모두 같은 크기여야 합니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11506",
+      "question": "Division 1.3 물질을 운송할 때 바닥 라이너는 다음과 같아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "비철금속 재료로 만들어져야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "금속으로 만들어져야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "느슨하게 부착되어야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "비철금속 재료로 만들어져야 합니다.",
+      "explanation": "Division 1.1, 1.2 또는 1.3 물질을 운송할 때 바닥 라이닝을 사용해야 합니다. 바닥은 밀폐되어야 하며 라이너는 비금속 재료 또는 비철금속으로 만들어야 합니다. 비철금속은 철이나 철 합금을 포함하지 않는 금속입니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "9472",
+      "question": "탱크를 운전할 때 서지(surge)는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "보통 도움이 됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "위험할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "우려의 대상이 아닙니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "위험할 수 있습니다.",
+      "explanation": "탱크의 액체 급증은 핸들링에 심각한 영향을 미칠 수 있습니다. 예를 들어, 전방 급증은 정지된 차량을 교차로로 밀어낼 수 있습니다."
+    }
+  ]
+}

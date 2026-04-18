@@ -1,0 +1,612 @@
+{
+  "state": "Tennessee",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/tennessee/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11464",
+      "question": "Avant de conduire un véhicule avec des freins à air, vous devez vous assurer que les ressorts de frein se serrent automatiquement lorsque :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pression d'air tombe en dessous de 45 psi."
+        },
+        {
+          "letter": "B",
+          "text": "La pression d'air tombe en dessous de 20 psi."
+        },
+        {
+          "letter": "C",
+          "text": "Conduire en descente."
+        },
+        {
+          "letter": "D",
+          "text": "Conduire en montée."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La pression d'air tombe en dessous de 45 psi.",
+      "explanation": "Avant de conduire un véhicule avec des freins à air, vous devez vous assurer que les ressorts de frein se serrent automatiquement lorsque la pression du réservoir d'air tombe à un niveau entre 20 et 45 psi. Vous pouvez le faire en bloquant les roues et en libérant l'air du système de freinage en appuyant sur la pédale de frein à plusieurs reprises. Une fois que la pression tombe à un niveau dangereux, la soupape du frein de stationnement devrait s'ouvrir et les ressorts de frein devraient se serrer."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8772",
+      "question": "Pourquoi les gros véhicules utilisent-ils des freins pneumatiques ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les autres systèmes de freinage crissent trop fort."
+        },
+        {
+          "letter": "B",
+          "text": "Les freins pneumatiques sont des systèmes très efficaces."
+        },
+        {
+          "letter": "C",
+          "text": "Les autres systèmes de freinage sont difficiles à trouver."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les freins pneumatiques sont des systèmes très efficaces.",
+      "explanation": "S'ils sont utilisés et entretenus correctement, les freins pneumatiques sont un moyen sûr et efficace d'arrêter les gros véhicules lourds."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10625",
+      "question": "Un endossement de réservoir est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Requis uniquement pour le transport de gaz."
+        },
+        {
+          "letter": "B",
+          "text": "Requis uniquement pour le transport de liquides."
+        },
+        {
+          "letter": "C",
+          "text": "Requis lors du transport de liquides et de gaz."
+        },
+        {
+          "letter": "D",
+          "text": "Facultatif lors du transport de matières dangereuses."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Requis lors du transport de liquides et de gaz.",
+      "explanation": "À quelques exceptions près, vous devez avoir un endossement de réservoir pour transporter des liquides ou des gaz. Cela s'applique aux substances dangereuses et non dangereuses."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "10559",
+      "question": "À quelle partie du camion le compresseur d'air est-il connecté ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La transmission"
+        },
+        {
+          "letter": "B",
+          "text": "Le moteur"
+        },
+        {
+          "letter": "C",
+          "text": "Le radiateur"
+        },
+        {
+          "letter": "D",
+          "text": "Le loquet de la porte"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Le moteur",
+      "explanation": "Dans un système de freinage pneumatique, le compresseur d'air est connecté au moteur via des engrenages ou une courroie trapézoïdale."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8630",
+      "question": "Si les freins à ressort sont enclenchés, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne pas utiliser la pédale de frein."
+        },
+        {
+          "letter": "B",
+          "text": "Appuyer sur l'accélérateur."
+        },
+        {
+          "letter": "C",
+          "text": "Tourner le volant."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ne pas utiliser la pédale de frein.",
+      "explanation": "Ne pas utiliser la pédale de frein lorsque les freins à ressort sont enclenchés. Cela pourrait endommager les freins en les soumettant aux forces combinées des ressorts et de la pression d'air."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11320",
+      "question": "Certains systèmes de frein à air introduisent de l'alcool dans le système pour:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faire fonctionner les freins sans grincer."
+        },
+        {
+          "letter": "B",
+          "text": "Empêcher la glace de se former dans le système de freinage."
+        },
+        {
+          "letter": "C",
+          "text": "Empêcher les gens de respirer l'air du système."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Empêcher la glace de se former dans le système de freinage.",
+      "explanation": "Certains systèmes de frein à air contiennent un évaporateur d'alcool. Un évaporateur introduit de l'alcool dans le système pour aider à inhiber la formation de glace par temps froid."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10081",
+      "question": "Un signal d'avertissement de basse pression d'air:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "N'est pas exigé sur les véhicules avec freins pneumatiques."
+        },
+        {
+          "letter": "B",
+          "text": "Est exigé sur les véhicules avec freins pneumatiques."
+        },
+        {
+          "letter": "C",
+          "text": "Est facultatif sur les véhicules avec freins pneumatiques."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Est exigé sur les véhicules avec freins pneumatiques.",
+      "explanation": "Un véhicule avec freins pneumatiques doit être équipé d'un signal d'avertissement de basse pression d'air. Si le signal d'avertissement s'active pendant que le véhicule est en circulation, le conducteur doit arrêter complètement le véhicule et faire réparer le système."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11323",
+      "question": "Les voyants indiquant que les freins antiblocage ne fonctionnent pas sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gris."
+        },
+        {
+          "letter": "B",
+          "text": "Bleu."
+        },
+        {
+          "letter": "C",
+          "text": "Jaune."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Jaune.",
+      "explanation": "Les véhicules équipés de systèmes de freinage antiblocage (ABS) ont des voyants de dysfonctionnement jaunes pour indiquer les problèmes du système de freinage."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8862",
+      "question": "Combien de réservoirs de stockage d'air sont utilisés dans un système de freinage à air comprimé ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deux réservoirs"
+        },
+        {
+          "letter": "B",
+          "text": "Quatre réservoirs"
+        },
+        {
+          "letter": "C",
+          "text": "Six réservoirs"
+        },
+        {
+          "letter": "D",
+          "text": "Le nombre varie."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Le nombre varie.",
+      "explanation": "Les réservoirs de stockage d'air sont utilisés pour stocker l'air comprimé. Le nombre et la taille des réservoirs d'air dans un système de freinage à air comprimé varient selon les véhicules."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11126",
+      "question": "Que se passe-t-il si les freins surchauffent ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ils deviendront trop lisses."
+        },
+        {
+          "letter": "B",
+          "text": "Ils durcira."
+        },
+        {
+          "letter": "C",
+          "text": "Ils peuvent cesser de fonctionner."
+        },
+        {
+          "letter": "D",
+          "text": "Le compresseur d'air se mettra en marche pour refroidir les freins"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ils peuvent cesser de fonctionner.",
+      "explanation": "Si les freins sont utilisés excessivement, ils peuvent surchauffer et cesser de fonctionner. C'est ce qu'on appelle la défaillance des freins."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11886",
+      "question": "Lors d'un test de fuite appliqué, quel est le taux de fuite maximal sûr pour un véhicule unique avec freins pneumatiques?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi en une minute"
+        },
+        {
+          "letter": "B",
+          "text": "5 psi en une minute"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi en une minute"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "3 psi en une minute",
+      "explanation": "Il est important de connaître le taux de perte d'air maximal qui est sûr pour votre véhicule spécifique. Un véhicule unique avec freins pneumatiques ne doit pas avoir un taux de fuite supérieur à 3 psi par minute lors d'un test de fuite appliqué."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8762",
+      "question": "Un frein de secours doit être contrôlé par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Force mécanique."
+        },
+        {
+          "letter": "B",
+          "text": "La pression d'air."
+        },
+        {
+          "letter": "C",
+          "text": "Gravité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Force mécanique.",
+      "explanation": "Tous les camions, tracteurs-remorques et autobus doivent être équipés de freins de secours et de freins de stationnement. Parce que la pression d'air peut éventuellement fuir, les freins de secours et de stationnement doivent être maintenus par une force mécanique."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11710",
+      "question": "L'appui sur la pédale de frein provoque une pression d'air pour activer un commutateur électrique et :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Éteindre les feux de freinage."
+        },
+        {
+          "letter": "B",
+          "text": "Allumer le voyant d'avertissement de basse pression."
+        },
+        {
+          "letter": "C",
+          "text": "Allumer les feux de freinage."
+        },
+        {
+          "letter": "D",
+          "text": "Éteindre le voyant d'avertissement de basse pression."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Allumer les feux de freinage.",
+      "explanation": "Dans un véhicule équipé de freins pneumatiques, les feux de freinage sont activés lorsque la pédale de frein est enfoncée et que la pression d'air actionne un interrupteur électrique. Avec l'application de la pression d'air, l'interrupteur activera ensuite les feux de freinage."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9604",
+      "question": "Qu'est-ce qu'on trouve souvent dans l'air comprimé ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eau"
+        },
+        {
+          "letter": "B",
+          "text": "Carton"
+        },
+        {
+          "letter": "C",
+          "text": "Liquide de frein"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Eau",
+      "explanation": "L'air comprimé dans un système de freinage pneumatique contient généralement une certaine quantité d'eau et d'huile de compresseur. L'eau et l'huile peuvent endommager les freins s'ils s'accumulent dans le système. Les réservoirs doivent être vidés régulièrement pour éliminer cette accumulation."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8875",
+      "question": "Les freins à ressort s'activent :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lorsque trop de pression d'air est perdue."
+        },
+        {
+          "letter": "B",
+          "text": "Lorsqu'une commande sur le tableau de bord est activée."
+        },
+        {
+          "letter": "C",
+          "text": "Lorsque les pneus ont une profondeur de bande de roulement minimale."
+        },
+        {
+          "letter": "D",
+          "text": "Lorsque les freins sont bruyants."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Lorsque trop de pression d'air est perdue.",
+      "explanation": "Les freins à ressort s'activent automatiquement lorsque la pression d'air chute à un niveau psi non sécuritaire. Au lieu d'attendre l'activation automatique des freins à ressort, vous devriez quitter la route en toute sécurité dès que vous remarquez le signal d'avertissement de basse pression et immobiliser votre véhicule tant que vous pouvez encore contrôler les freins."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11106",
+      "question": "Pour utiliser la méthode de freinage par à-coup, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Appliquez les freins complètement jusqu'à ce que les roues se bloquent, relâchez les freins jusqu'à ce que les roues recommencent à rouler, puis répétez le processus."
+        },
+        {
+          "letter": "B",
+          "text": "Appliquez les freins à environ la moitié, mais permettez aux roues de continuer à rouler."
+        },
+        {
+          "letter": "C",
+          "text": "Appliquez complètement les freins jusqu'à ce que les roues se bloquent et le véhicule s'arrête."
+        },
+        {
+          "letter": "D",
+          "text": "Appliquez le frein de secours jusqu'à ce que le véhicule commence à ralentir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Appliquez les freins complètement jusqu'à ce que les roues se bloquent, relâchez les freins jusqu'à ce que les roues recommencent à rouler, puis répétez le processus.",
+      "explanation": "La méthode de freinage par à-coup en cas d'arrêt d'urgence consiste à appliquer complètement les freins jusqu'à ce qu'ils se bloquent. Les freins sont ensuite relâchés jusqu'à ce que les roues recommencent à rouler, puis le processus est répété."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11700",
+      "question": "La pression d'air dans un système de freins à air double devrait augmenter de 85 à 100 psi en:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deux minutes."
+        },
+        {
+          "letter": "B",
+          "text": "15 secondes."
+        },
+        {
+          "letter": "C",
+          "text": "10 minutes."
+        },
+        {
+          "letter": "D",
+          "text": "45 secondes."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "45 secondes.",
+      "explanation": "Lors de l'inspection d'un véhicule avec un système de frein à air double, vous devriez attendre que la pression d'air augmente de 85 à 100 psi dans les systèmes primaire et secondaire. Cela devrait prendre environ 45 secondes."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9383",
+      "question": "Pour s'arrêter dans un véhicule qui utilise des freins à air, le conducteur devrait:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tirez sur le levier de frein à air."
+        },
+        {
+          "letter": "B",
+          "text": "Engagez le levier de frein."
+        },
+        {
+          "letter": "C",
+          "text": "Appuyez sur la pédale de frein."
+        },
+        {
+          "letter": "D",
+          "text": "Tirez la pédale de frein vers le haut."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Appuyez sur la pédale de frein.",
+      "explanation": "Pour faire un arrêt normal dans un véhicule avec freins à air, appuyez sur la pédale de frein. Plus la pédale est enfoncée, plus la pression d'air est libérée."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10152",
+      "question": "Quoi doit être sur un réservoir d'air dans un véhicule avec freins à air ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un clapet de retenue"
+        },
+        {
+          "letter": "B",
+          "text": "Un verrou"
+        },
+        {
+          "letter": "C",
+          "text": "Une trappe"
+        },
+        {
+          "letter": "D",
+          "text": "Un oxydant"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un clapet de retenue",
+      "explanation": "Tous les réservoirs d'air des véhicules avec freins à air doivent être munis de clapets de retenue unidirectionnels situés entre le compresseur d'air et le premier réservoir. Cela empêche l'air de s'échapper en cas de fuite."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11901",
+      "question": "Les ____ sont activés par un interrupteur électrique déclenché par la pédale de frein.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phares"
+        },
+        {
+          "letter": "B",
+          "text": "Clignotants"
+        },
+        {
+          "letter": "C",
+          "text": "Feux de freinage"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Feux de freinage",
+      "explanation": "Dans un véhicule équipé de freins pneumatiques, les feux de freinage sont activés lorsque la pédale de frein est enfoncée et que la pression d'air actionne un interrupteur électrique. Avec l'application de la pression d'air, l'interrupteur activera ensuite les feux de freinage."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8871",
+      "question": "Qu'est-ce qu'un wig wag ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un type de système d'avertissement"
+        },
+        {
+          "letter": "B",
+          "text": "Un tube utilisé pour déplacer l'air du compresseur aux réservoirs"
+        },
+        {
+          "letter": "C",
+          "text": "Un bruit produit par les freins pneumatiques lorsqu'ils sont utilisés"
+        },
+        {
+          "letter": "D",
+          "text": "Une partie de l'unité de freinage qui permet à l'air de se déplacer librement"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un type de système d'avertissement",
+      "explanation": "Un wig wag est un type de dispositif d'avertissement de basse pression d'air dans un système de frein pneumatique. Il abaisse un bras mécanique dans le champ de vision du conducteur lorsque la pression d'air dans les réservoirs tombe en dessous de 60 psi."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "9002",
+      "question": "Le frein de stationnement devrait être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utilisé chaque fois que vous garez votre véhicule."
+        },
+        {
+          "letter": "B",
+          "text": "Utilisé pendant la conduite."
+        },
+        {
+          "letter": "C",
+          "text": "Engagé lors de la conduite par mauvais temps."
+        },
+        {
+          "letter": "D",
+          "text": "Retirées."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Utilisé chaque fois que vous garez votre véhicule.",
+      "explanation": "Le frein de stationnement d'un véhicule avec freins à air devrait être utilisé chaque fois que le véhicule est garé."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11878",
+      "question": "Un conducteur peut compter sur le freinage des roues avant pour fonctionner:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur les routes sèches uniquement."
+        },
+        {
+          "letter": "B",
+          "text": "Dans toutes les conditions."
+        },
+        {
+          "letter": "C",
+          "text": "Dans toutes les conditions, sauf en cas de neige."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dans toutes les conditions.",
+      "explanation": "Le freinage des roues avant est efficace dans toutes les conditions routières. Il est peu probable que vous rencontriez un dérapage des roues avant, même sur la glace."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11902",
+      "question": "Le ____ entre un compresseur d'air et un réservoir empêche l'air de s'échapper si le compresseur d'air a une fuite.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tendeur de câble"
+        },
+        {
+          "letter": "B",
+          "text": "Clapet anti-retour"
+        },
+        {
+          "letter": "C",
+          "text": "Soupape de protection du tracteur"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Clapet anti-retour",
+      "explanation": "Un clapet anti-retour est requis entre un compresseur d'air et le premier réservoir principal. Ce clapet empêche l'air de s'échapper du système si le compresseur d'air développe une fuite."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8637",
+      "question": "Si un compresseur d'air est entraîné par courroie, la courroie doit être vérifiée régulièrement pour s'assurer qu'elle est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fine."
+        },
+        {
+          "letter": "B",
+          "text": "Correctement tendue."
+        },
+        {
+          "letter": "C",
+          "text": "Fissurée."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Correctement tendue.",
+      "explanation": "Si votre véhicule a des freins à air comprimé, la courroie d'entraînement du compresseur d'air doit être vérifiée avant chaque trajet. Vérifiez la tension de la courroie et assurez-vous qu'elle est en bon état."
+    }
+  ]
+}

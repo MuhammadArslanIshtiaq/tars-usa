@@ -1,0 +1,530 @@
+{
+  "state": "New York",
+  "category": "cdl",
+  "testName": "Tank Test #2 20 Questions • Passing Score 16",
+  "testSlug": "tank-2",
+  "url": "/images/new-york/cdl/tank-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8861",
+      "question": "Bộ điều chỉnh máy nén khí làm gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kiểm soát khi máy nén khí bơm không khí vào các bình chứa không khí."
+        },
+        {
+          "letter": "B",
+          "text": "Kiểm soát tốc độ không khí rời khỏi các bình chứa không khí."
+        },
+        {
+          "letter": "C",
+          "text": "Kiểm soát nhiệt độ của không khí vào các bình chứa không khí."
+        },
+        {
+          "letter": "D",
+          "text": "Kiểm soát nhiệt độ của không khí rời khỏi các bình chứa không khí."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Kiểm soát khi máy nén khí bơm không khí vào các bình chứa không khí.",
+      "explanation": "Trong hệ thống phanh khí nén, bộ điều chỉnh máy nén khí kiểm soát khi nào máy nén khí bơm không khí vào các bình chứa khí nén."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10130",
+      "question": "Hãy chắc chắn rằng bạn luôn lái xe sao cho xe của bạn có thể dừng lại:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trong vòng 10 feet từ vị trí hiện tại của bạn."
+        },
+        {
+          "letter": "B",
+          "text": "Trong vòng 1.000 feet từ vị trí hiện tại của bạn."
+        },
+        {
+          "letter": "C",
+          "text": "Trong tầm nhìn của bạn trên đường phía trước."
+        },
+        {
+          "letter": "D",
+          "text": "Ngay lập tức."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Trong tầm nhìn của bạn trên đường phía trước.",
+      "explanation": "Luôn chắc chắn rằng bạn đang lái xe theo cách sẽ cho phép xe của bạn dừng lại hoàn toàn, nếu cần thiết, trong khu vực của đường bộ mà bạn có thể nhìn thấy phía trước."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10939",
+      "question": "Trục multi-tốc độ và hộp số phụ được sử dụng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Để làm cho xe chạy mượt mà hơn."
+        },
+        {
+          "letter": "B",
+          "text": "Để cung cấp các bánh răng thêm."
+        },
+        {
+          "letter": "C",
+          "text": "Để có được tiết kiệm nhiên liệu tốt hơn."
+        },
+        {
+          "letter": "D",
+          "text": "Để làm cho xe ít gây tiếng ồn hơn."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Để cung cấp các bánh răng thêm.",
+      "explanation": "Trên nhiều xe, trục phía sau multi-tốc độ và hộp số phụ được sử dụng để cung cấp các bánh răng thêm. Chúng thường được điều khiển bằng một nút chọn trên đòn gearshift."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8979",
+      "question": "Khi vận chuyển chất nổ Phân loại 1.1, 1.2 hoặc 1.3, phương tiện không nên được:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đỗ xe trong vòng 300 feet từ một cây cầu."
+        },
+        {
+          "letter": "B",
+          "text": "Đỗ xe trong vòng 40 feet từ đường."
+        },
+        {
+          "letter": "C",
+          "text": "Đỗ xe chỉ trong khoảng thời gian ngắn."
+        },
+        {
+          "letter": "D",
+          "text": "Đỗ xe trên cỏ."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đỗ xe trong vòng 300 feet từ một cây cầu.",
+      "explanation": "Trừ khi đỗ xe trong thời gian ngắn để thực hiện các chức năng cần thiết để vận hành xe (chẳng hạn như bổ sung nhiên liệu), không bao giờ đỗ xe chở Division 1.1, 1.2 hoặc 1.3 chất nổ trong vòng 300 feet từ cầu, đường hầm hoặc tòa nhà. Không bao giờ đỗ xe như vậy trong vòng năm feet từ phần đường đã được đi lại. Các xe như vậy chỉ nên đỗ trong thời gian ngắn."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9060",
+      "question": "Điều nào sau đây KHÔNG phải là vấn đề lốp xe cần kiểm tra và tránh?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lốp xe radial và bias-ply được sử dụng cùng nhau"
+        },
+        {
+          "letter": "B",
+          "text": "Lốp xe được phủ lại trên phía trước của xe buýt trường học"
+        },
+        {
+          "letter": "C",
+          "text": "Tách rời gai"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các lốp xe được sản xuất bởi cùng một công ty"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tất cả các lốp xe được sản xuất bởi cùng một công ty",
+      "explanation": "Trong quá trình kiểm tra, có một số vấn đề lốp xe cần kiểm tra và tránh. Tìm kiếm áp suất không khí quá thấp hoặc quá cao; mòn quá mức; vết cắt hoặc các tổn hại khác; tách rời gai; lốp đôi tiếp xúc với nhau hoặc các bộ phận khác của xe; kích thước lốp không khớp; lốp xe radial và bias-ply được sử dụng cùng nhau; thân van cắt hoặc nứt; lốp xe được cải tạo lại, được phủ lại, hoặc được bao lại trên bánh xe phía trước của xe buýt trường học."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8793",
+      "question": "Một chiếc xe nên được trang bị với tất cả những thứ sau, ngoại trừ:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một bình cứu hỏa."
+        },
+        {
+          "letter": "B",
+          "text": "Cầu chì điện dự phòng."
+        },
+        {
+          "letter": "C",
+          "text": "Các thiết bị cảnh báo cho các phương tiện đỗ, chẳng hạn như xung lăng."
+        },
+        {
+          "letter": "D",
+          "text": "Một đèn chiếu sáng."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Một đèn chiếu sáng.",
+      "explanation": "Các phương tiện thương mại phải luôn mang theo thiết bị khẩn cấp phù hợp. Hãy chắc chắn rằng xe của bạn được trang bị ít nhất một bình chữa cháy; cầu chì điện dự phòng, trừ khi xe được trang bị bộ ngắt mạch; và các thiết bị cảnh báo cho các phương tiện đỗ, chẳng hạn như tam giác cảnh báo, cầu chì hoặc xung lăng cháy lỏng."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9530",
+      "question": "Thời gian phản ứng của một tài xế bình thường là bao lâu?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một phần mười sáu giây"
+        },
+        {
+          "letter": "B",
+          "text": "Một phần tám giây"
+        },
+        {
+          "letter": "C",
+          "text": "Từ ba phần tư giây đến một giây"
+        },
+        {
+          "letter": "D",
+          "text": "Hai giây"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Từ ba phần tư giây đến một giây",
+      "explanation": "Tài xế trung bình có thời gian phản ứng từ ba phần tư giây đến một giây."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11712",
+      "question": "Van một chiều:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thoát nước và dầu máy nén từ bình khí."
+        },
+        {
+          "letter": "B",
+          "text": "Ngăn không khí thoát ra nếu máy nén khí bị rò rỉ."
+        },
+        {
+          "letter": "C",
+          "text": "Kích hoạt phanh khẩn cấp khi có rò rỉ."
+        },
+        {
+          "letter": "D",
+          "text": "Giữ phanh spring ở vị trí cho đến khi chúng được sử dụng."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ngăn không khí thoát ra nếu máy nén khí bị rò rỉ.",
+      "explanation": "Van kiểm tra một chiều được yêu cầu giữa bộ nén không khí và bình chứa chính đầu tiên. Van này ngăn không khí thoát khỏi hệ thống nếu bộ nén không khí bị rò rỉ."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8893",
+      "question": "Tay gạt cấp cấp không khí rơ moóc trông như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nó là một nút xanh hình vuông."
+        },
+        {
+          "letter": "B",
+          "text": "Nó là một nút vàng hình tam giác."
+        },
+        {
+          "letter": "C",
+          "text": "Nó là một nút đỏ hình bát giác."
+        },
+        {
+          "letter": "D",
+          "text": "Nó là một nút cam hình tròn."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Nó là một nút đỏ hình bát giác.",
+      "explanation": "Trên các xe mới hơn, tay gạt cấp cấp không khí rơ moóc là một nút đỏ hình bát giác. Nó được sử dụng để kiểm soát van bảo vệ máy kéo."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10196",
+      "question": "Trước khi vào một khúc cua, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tăng tốc độ."
+        },
+        {
+          "letter": "B",
+          "text": "Tăng tốc."
+        },
+        {
+          "letter": "C",
+          "text": "Lái trên vai đường."
+        },
+        {
+          "letter": "D",
+          "text": "Giảm tốc độ."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Giảm tốc độ.",
+      "explanation": "Luôn giảm tốc độ trước khi vào khúc cua. Giảm tốc độ trước khi vào khúc cua sẽ cho phép bạn duy trì kiểm soát tốt hơn đối với xe suốt khúc cua."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11097",
+      "question": "Khi lái xe được trang bị Hệ thống phanh chống bó cứng (ABS), bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dừng mạnh hơn so với trong xe không được trang bị ABS."
+        },
+        {
+          "letter": "B",
+          "text": "Sử dụng lực phanh thêm để đảm bảo ABS kích hoạt."
+        },
+        {
+          "letter": "C",
+          "text": "Phanh như bạn sẽ làm trong xe không được trang bị ABS."
+        },
+        {
+          "letter": "D",
+          "text": "Phanh với lực ít hơn so với trong xe không được trang bị ABS."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Phanh như bạn sẽ làm trong xe không được trang bị ABS.",
+      "explanation": "Khi lái kéo-mooc được trang bị Hệ thống phanh chống bó cứng (ABS), bạn nên phanh theo cách tương tự như khi xe không được trang bị ABS."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9091",
+      "question": "Với đèn pha sáng thấp của bạn bật, bạn nên có thể nhìn thấy khoảng ____ phía trước phương tiện của bạn.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 feet"
+        },
+        {
+          "letter": "B",
+          "text": "75 feet"
+        },
+        {
+          "letter": "C",
+          "text": "100 feet"
+        },
+        {
+          "letter": "D",
+          "text": "250 feet"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "250 feet",
+      "explanation": "Đèn pha sáng thấp cho phép bạn nhìn thấy khoảng 250 feet phía trước phương tiện của bạn. Khi lái xe vào ban đêm, điều chỉnh tốc độ của bạn để bạn có thể dừng lại trong khoảng cách được chiếu sáng bởi đèn pha của bạn."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9003",
+      "question": "Khi sử dụng phương pháp phanh kiểm soát trong tình huống khẩn cấp, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Áp dụng phanh mạnh nhất có thể mà không khóa bánh xe."
+        },
+        {
+          "letter": "B",
+          "text": "Áp dụng phanh với khoảng một nửa lực thường lệ của bạn."
+        },
+        {
+          "letter": "C",
+          "text": "Áp dụng phanh sao cho bánh xe khóa."
+        },
+        {
+          "letter": "D",
+          "text": "Áp dụng phanh với áp lực tối thiểu."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Áp dụng phanh mạnh nhất có thể mà không khóa bánh xe.",
+      "explanation": "Phương pháp phanh kiểm soát để dừng khẩn cấp liên quan đến việc áp dụng phanh mạnh nhất có thể mà không khóa bánh xe. Giữ các chuyển động vô lăng nhỏ khi phanh bằng cách này."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10518",
+      "question": "Trong thời tiết nóng bức, lốp xe nên được kiểm tra thường xuyên vì:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chúng có thể bị tan chảy."
+        },
+        {
+          "letter": "B",
+          "text": "Áp suất không khí có thể tăng theo nhiệt độ."
+        },
+        {
+          "letter": "C",
+          "text": "Bề mặt lốp mài mòn nhanh hơn bình thường."
+        },
+        {
+          "letter": "D",
+          "text": "Các đai ốc bánh xe có thể bị lỏng."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Áp suất không khí có thể tăng theo nhiệt độ.",
+      "explanation": "Không khí giãn nở khi nó nóng lên, vì vậy áp suất không khí trong lốp xe của bạn có thể đạt đến mức độ nguy hiểm cao trong thời tiết rất nóng. Nếu điều này xảy ra, dừng lại và để lốp xe của bạn mát lại. Không để không khí thoát ra khỏi lốp, vì điều này có thể dẫn đến áp suất giảm xuống mức không an toàn khi lốp mát lại."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9126",
+      "question": "Khi bạn lái xe trong khi buồn ngủ, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiếp tục và cố gắng hoàn thành chuyến đi."
+        },
+        {
+          "letter": "B",
+          "text": "Sử dụng các chất kích thích để thức tỉnh."
+        },
+        {
+          "letter": "C",
+          "text": "Dừng lại và ngủ một lúc."
+        },
+        {
+          "letter": "D",
+          "text": "Dừng lại để uống cà phê."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Dừng lại và ngủ một lúc.",
+      "explanation": "Cách duy nhất hiệu quả để ứng phó với tình trạng buồn ngủ khi lái xe là dừng lại và ngủ. Caffeine hoặc các chất kích thích khác có thể giúp bạn thức tỉnh, nhưng chúng sẽ không giữ cho bạn cảnh báo. Bạn có khả năng sẽ cảm thấy mệt mỏi hơn khi các chất kích thích nhân tạo bắt đầu mất tác dụng."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9402",
+      "question": "Nếu có va chạm liên quan đến một phương tiện vận chuyển chất nổ loại 1, lái xe nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không cảnh báo cho người khác về nguy hiểm."
+        },
+        {
+          "letter": "B",
+          "text": "Cho phép hút thuốc gần xe."
+        },
+        {
+          "letter": "C",
+          "text": "Giữ chất nổ bên trong xe cho đến sau khi tách các phương tiện liên quan đến va chạm."
+        },
+        {
+          "letter": "D",
+          "text": "Loại bỏ chất nổ từ xe trước khi tách các phương tiện liên quan đến va chạm."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Loại bỏ chất nổ từ xe trước khi tách các phương tiện liên quan đến va chạm.",
+      "explanation": "Nếu bạn đang lái một phương tiện vận chuyển chất nổ loại 1 và nó bị va chạm, bạn nên cảnh báo cho người khác về nguy hiểm, giữ những người xung quanh cách xa, và không cho phép hút thuốc hoặc lửa mở gần xe. Trước khi tách các phương tiện liên quan đến va chạm, hãy loại bỏ tất cả các chất nổ và đặt chúng cách xa ít nhất 200 feet từ các phương tiện và bất kỳ tòa nhà nào được sử dụng."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9100",
+      "question": "Để tránh trở thành một tài xế hung hăng, bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lên kế hoạch chuyến đi mà không dành thêm thời gian cho sự chậm trễ giao thông."
+        },
+        {
+          "letter": "B",
+          "text": "Áp sát."
+        },
+        {
+          "letter": "C",
+          "text": "Lái xe chậm ở làn đường bên trái."
+        },
+        {
+          "letter": "D",
+          "text": "Không cử chỉ với những tài xế khác."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Không cử chỉ với những tài xế khác.",
+      "explanation": "Để tránh trở thành một tài xế hung hăng, hãy bắt đầu chuyến đi với những kỳ vọng thực tế về thời gian chuyến đi sẽ mất, dành thêm thời gian cho sự chậm trễ giao thông. Đừng áp sát các phương tiện khác. Để tránh làm bực bội những tài xế khác, đừng lái xe chậm ở làn đường bên trái và đừng cử chỉ với các tài xế (thậm chí trong những cách tưởng chừng nhỏ, như lắc đầu)."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8992",
+      "question": "Hệ thống phanh chống bó cứng (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Làm giảm năng lực phanh bình thường."
+        },
+        {
+          "letter": "B",
+          "text": "Được trang bị thêm vào các hệ thống phanh khác và không làm giảm sức phanh bình thường."
+        },
+        {
+          "letter": "C",
+          "text": "Không hiệu quả trên các phương tiện lớn hơn."
+        },
+        {
+          "letter": "D",
+          "text": "Bị cấm ở một số tiểu bang."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Được trang bị thêm vào các hệ thống phanh khác và không làm giảm sức phanh bình thường.",
+      "explanation": "ABS được trang bị thêm vào hệ thống phanh bình thường của phương tiện và nó không làm tăng cũng không làm giảm khả năng phanh của phương tiện. ABS kích hoạt trong quá trình phanh mạnh của bàn đạp phanh để ngăn bánh xe bị bó cứng."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8943",
+      "question": "Có thể có những hạn chế về vận chuyển chất nổ hoặc chất thải nguy hiểm ở một số khu vực. Những hạn chế này:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thường không phải là một mối quan tâm."
+        },
+        {
+          "letter": "B",
+          "text": "Bị bãi bỏ vào cuối tuần."
+        },
+        {
+          "letter": "C",
+          "text": "Nên được nghiên cứu trước khi chọn một tuyến đường."
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ áp dụng nếu vận chuyển hơn 1.000 pounds của một chất liệu."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Nên được nghiên cứu trước khi chọn một tuyến đường.",
+      "explanation": "Trước khi vận chuyển hàng hóa nguy hiểm, bạn nên nghiên cứu bất kỳ hạn chế nào có thể áp dụng cho các tuyến đường bạn dự định đi."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8868",
+      "question": "Đồng hồ đo áp suất ứng dụng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cho biết bao nhiêu áp suất không khí được tác dụng lên phanh."
+        },
+        {
+          "letter": "B",
+          "text": "Cho biết nhiệt độ của không khí được sử dụng trong hệ thống phanh."
+        },
+        {
+          "letter": "C",
+          "text": "Cho biết áp suất của không khí đến từ bộ nén."
+        },
+        {
+          "letter": "D",
+          "text": "Cho biết số lần phanh đã được sử dụng."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cho biết bao nhiêu áp suất không khí được tác dụng lên phanh.",
+      "explanation": "Trong hệ thống phanh không khí, đồng hồ đo áp suất ứng dụng cho biết có bao nhiêu áp suất không khí được tác dụng lên phanh. Không phải tất cả các xe có hệ thống phanh không khí đều có đồng hồ này."
+    }
+  ]
+}

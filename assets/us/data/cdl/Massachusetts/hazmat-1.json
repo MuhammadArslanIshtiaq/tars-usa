@@ -1,0 +1,790 @@
+{
+  "state": "Massachusetts",
+  "category": "cdl",
+  "testName": "HazMat Test #1 30 Questions • Passing Score 24",
+  "testSlug": "hazmat-1",
+  "url": "/images/massachusetts/cdl/hazmat-1.html",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9403",
+      "question": "If you are transporting Class 3 flammable liquids and need to move the cargo to another tank, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You may transfer it on the road as long as no one is nearby."
+        },
+        {
+          "letter": "B",
+          "text": "Do not transfer it on a public road unless it is an emergency."
+        },
+        {
+          "letter": "C",
+          "text": "Keep the transfer secret."
+        },
+        {
+          "letter": "D",
+          "text": "Transfer it only at night."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Do not transfer it on a public road unless it is an emergency.",
+      "explanation": "Never transfer flammable liquids from one vehicle to another on a public road, unless it is an emergency. Always warn others about the dangers of these materials."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10120",
+      "question": "Who is responsible for labeling hazardous materials?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The shipper"
+        },
+        {
+          "letter": "B",
+          "text": "The loader"
+        },
+        {
+          "letter": "C",
+          "text": "The driver"
+        },
+        {
+          "letter": "D",
+          "text": "The mechanic"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The shipper",
+      "explanation": "The shipper must package, mark, and label all hazardous materials. They must also provide any required placards."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8919",
+      "question": "If a package says \"Inhalation Hazard,\" which placard must be used?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poison gas"
+        },
+        {
+          "letter": "B",
+          "text": "Explosive"
+        },
+        {
+          "letter": "C",
+          "text": "Radioactive"
+        },
+        {
+          "letter": "D",
+          "text": "Danger"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Poison gas",
+      "explanation": "If \"Inhalation Hazard\" is written on a package or shipping paper, you must display a \"Poison Inhalation Hazard\" or \"Poison Gas\" placard."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8982",
+      "question": "What should you do before opening trailer doors during a truck fire?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Check if the doors are hot."
+        },
+        {
+          "letter": "B",
+          "text": "Throw water on the doors."
+        },
+        {
+          "letter": "C",
+          "text": "Put on gloves."
+        },
+        {
+          "letter": "D",
+          "text": "Wait 30 minutes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Check if the doors are hot.",
+      "explanation": "Before opening trailer doors during a fire, feel the doors to see if they are hot. If they are hot, there may be a cargo fire inside. Keep the doors closed if there is a cargo fire."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8938",
+      "question": "Which government levels control hazardous materials laws?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Local regulations only"
+        },
+        {
+          "letter": "B",
+          "text": "State regulations only"
+        },
+        {
+          "letter": "C",
+          "text": "Federal regulations only"
+        },
+        {
+          "letter": "D",
+          "text": "Federal, state, and local governments"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Federal, state, and local governments",
+      "explanation": "Because hazardous materials are risky, federal, state, and local governments all create rules for transporting them."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8983",
+      "question": "How should you check tire pressure?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use a tire pressure gauge."
+        },
+        {
+          "letter": "B",
+          "text": "Look at the tires."
+        },
+        {
+          "letter": "C",
+          "text": "Push on the tires with your hand."
+        },
+        {
+          "letter": "D",
+          "text": "Weigh the tires."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Use a tire pressure gauge.",
+      "explanation": "You must check each tire at the start of every trip. The only correct way to check tire pressure is with a tire pressure gauge."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11093",
+      "question": "What must a person supervising tank loading do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Be certified in CPR"
+        },
+        {
+          "letter": "B",
+          "text": "Be a licensed firefighter"
+        },
+        {
+          "letter": "C",
+          "text": "Know the materials being loaded"
+        },
+        {
+          "letter": "D",
+          "text": "Stay within 25 feet of the tank"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Stay within 25 feet of the tank",
+      "explanation": "A qualified person must watch all hazardous materials loading. This person must stay alert, have a clear view of the tank, remain within 25 feet, know the material hazards, know what to do in an emergency, and be able to move the tank if needed."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10484",
+      "question": "Who must conduct a security check for a HazMat endorsement?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Transportation Security Administration"
+        },
+        {
+          "letter": "B",
+          "text": "The Federal Bureau of Investigation"
+        },
+        {
+          "letter": "C",
+          "text": "The Department of Energy"
+        },
+        {
+          "letter": "D",
+          "text": "Local law enforcement"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The Transportation Security Administration",
+      "explanation": "To get a hazardous materials endorsement, you must pass a security check done by the Transportation Security Administration (TSA)."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "10974",
+      "question": "What else are many poisonous products often classified as?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radioactive"
+        },
+        {
+          "letter": "B",
+          "text": "Flammable"
+        },
+        {
+          "letter": "C",
+          "text": "Heavy"
+        },
+        {
+          "letter": "D",
+          "text": "Sweet-tasting"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Flammable",
+      "explanation": "Many poisonous products are also flammable. Take the right safety steps if your cargo may be flammable."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8921",
+      "question": "What does the abbreviation \"RQ\" mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relative query"
+        },
+        {
+          "letter": "B",
+          "text": "Reportable quantity"
+        },
+        {
+          "letter": "C",
+          "text": "Release query"
+        },
+        {
+          "letter": "D",
+          "text": "Response quarantine"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Reportable quantity",
+      "explanation": "On shipping papers, the letters \"RQ\" can be used instead of an \"X\" in the \"HM\" column when you need to identify a reportable quantity of material."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9404",
+      "question": "What should a driver do if they suspect a leak in radioactive material cargo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go to the local fire department."
+        },
+        {
+          "letter": "B",
+          "text": "Pick up any loose pieces of radioactive material."
+        },
+        {
+          "letter": "C",
+          "text": "Continue carrying the cargo while avoiding the affected areas."
+        },
+        {
+          "letter": "D",
+          "text": "Stop operating the vehicle until it has been cleaned."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Stop operating the vehicle until it has been cleaned.",
+      "explanation": "If you suspect a leak or broken package while transporting radioactive material, tell your dispatcher or supervisor right away. Do not touch or breathe in the material. Do not use the vehicle again until it has been cleaned or checked with a survey meter."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10923",
+      "question": "Besides reading the manual, what is the best way to learn about transporting hazardous materials?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Talk to other drivers."
+        },
+        {
+          "letter": "B",
+          "text": "Take hazardous materials training courses."
+        },
+        {
+          "letter": "C",
+          "text": "Learn by trial and error."
+        },
+        {
+          "letter": "D",
+          "text": "Read product labels."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Take hazardous materials training courses.",
+      "explanation": "The manual has the information needed to pass the hazardous materials endorsement test, but it does not cover all the information needed to do the job safely. Attending hazardous materials training courses will help you learn more."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8966",
+      "question": "Where should hazardous materials shipping papers NOT be kept?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In a pouch on the driver's side door"
+        },
+        {
+          "letter": "B",
+          "text": "In a pouch on the passenger's side door"
+        },
+        {
+          "letter": "C",
+          "text": "Within the driver's reach while wearing a seat belt"
+        },
+        {
+          "letter": "D",
+          "text": "On the driver's seat when the driver is outside the vehicle"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "In a pouch on the passenger's side door",
+      "explanation": "While driving, shipping papers must be in a pouch on the driver's door or visible and within the driver's reach. When the driver leaves the vehicle, papers should be placed on the driver's seat."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8915",
+      "question": "How many classes of hazardous materials are there?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four"
+        },
+        {
+          "letter": "B",
+          "text": "Six"
+        },
+        {
+          "letter": "C",
+          "text": "Nine"
+        },
+        {
+          "letter": "D",
+          "text": "Two"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Nine",
+      "explanation": "There are nine hazardous materials classes. Each class describes the type of danger that the material poses."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10156",
+      "question": "What do you need to know to decide which placards to use when carrying hazardous materials?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The hazard classes of the materials."
+        },
+        {
+          "letter": "B",
+          "text": "The types of containers being used."
+        },
+        {
+          "letter": "C",
+          "text": "The destination."
+        },
+        {
+          "letter": "D",
+          "text": "The shipper."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The hazard classes of the materials.",
+      "explanation": "Placards are placed on the outside of a vehicle to show what hazard classes are being carried."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8958",
+      "question": "If a shipping paper shows \"G\" in Column 1, what else must be listed?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The technical name of the hazardous material"
+        },
+        {
+          "letter": "B",
+          "text": "The type of packaging for the hazardous material"
+        },
+        {
+          "letter": "C",
+          "text": "The shipper's phone number"
+        },
+        {
+          "letter": "D",
+          "text": "The date the product was packed"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The technical name of the hazardous material",
+      "explanation": "When \"G\" (for \"Generic\") appears in Column 1 of a shipping paper, the technical name of the hazardous material must also be listed."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10492",
+      "question": "How many placards must a vehicle carrying hazardous materials have at minimum?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One"
+        },
+        {
+          "letter": "B",
+          "text": "Two"
+        },
+        {
+          "letter": "C",
+          "text": "Three"
+        },
+        {
+          "letter": "D",
+          "text": "Four"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Four",
+      "explanation": "A vehicle carrying hazardous materials must display at least four identical placards. Place one on the front, one on the back, and one on each side of the vehicle."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10481",
+      "question": "What is true about portable tanks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They cannot be removed from a vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "They are not permanently attached to a vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "They are permanently attached to a vehicle."
+        },
+        {
+          "letter": "D",
+          "text": "They should not be used."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "They are not permanently attached to a vehicle.",
+      "explanation": "Cargo tanks stay on a vehicle all the time. Portable tanks are bulk containers that can be removed from a vehicle."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8973",
+      "question": "What must be shown on a package containing liquid containers?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrows showing the correct upright direction."
+        },
+        {
+          "letter": "B",
+          "text": "A return address."
+        },
+        {
+          "letter": "C",
+          "text": "The number of containers inside."
+        },
+        {
+          "letter": "D",
+          "text": "The word \"fragile.\""
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Arrows showing the correct upright direction.",
+      "explanation": "Packages with liquid containers must show arrows pointing the correct upright direction. These packages must be positioned correctly."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10628",
+      "question": "What must emergency response information include?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Risks of fire or explosion"
+        },
+        {
+          "letter": "B",
+          "text": "Value of the materials"
+        },
+        {
+          "letter": "C",
+          "text": "Driver information"
+        },
+        {
+          "letter": "D",
+          "text": "Planned route"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Risks of fire or explosion",
+      "explanation": "Emergency response information for hazardous materials must include details about fire and explosion risks."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "10973",
+      "question": "Which agency helps coordinate emergency response to chemical hazards?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The National Response Center"
+        },
+        {
+          "letter": "B",
+          "text": "The Federal Containment Organization"
+        },
+        {
+          "letter": "C",
+          "text": "The United Center for Chemical Assistance"
+        },
+        {
+          "letter": "D",
+          "text": "The National Transportation Network"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The National Response Center",
+      "explanation": "The National Response Center helps police and firefighters coordinate emergency response to chemical hazards."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8955",
+      "question": "What letters appear on shipping papers and packages for substances in reportable quantities?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "DQ"
+        },
+        {
+          "letter": "B",
+          "text": "LT"
+        },
+        {
+          "letter": "C",
+          "text": "RQ"
+        },
+        {
+          "letter": "D",
+          "text": "BR"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "RQ",
+      "explanation": "Substances transported in reportable quantities must display the letters \"RQ\" on the shipping paper and package."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "10123",
+      "question": "Before loading or unloading flammable liquids, the engine should be:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turned off."
+        },
+        {
+          "letter": "B",
+          "text": "Revved."
+        },
+        {
+          "letter": "C",
+          "text": "Turned on."
+        },
+        {
+          "letter": "D",
+          "text": "Drained of oil."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Turned off.",
+      "explanation": "Turn off the engine before loading or unloading flammable liquids. The only exception is if the engine must run to operate a pump."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "10158",
+      "question": "When loading hazardous materials containers, you should not use:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dollies."
+        },
+        {
+          "letter": "B",
+          "text": "Hooks."
+        },
+        {
+          "letter": "C",
+          "text": "Straps."
+        },
+        {
+          "letter": "D",
+          "text": "Other helpers."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Hooks.",
+      "explanation": "Do not use hooks or other tools that could damage containers or packaging when loading or unloading hazardous materials."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11439",
+      "question": "Placarded vehicles must carry fire extinguishers with a minimum rating of:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 B:C."
+        },
+        {
+          "letter": "B",
+          "text": "20 C."
+        },
+        {
+          "letter": "C",
+          "text": "10 A:B."
+        },
+        {
+          "letter": "D",
+          "text": "5 B:C."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "10 B:C.",
+      "explanation": "Placarded vehicles must have a fire extinguisher with a UL rating of 10 B:C or higher."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "8918",
+      "question": "Where should placards be placed on a truck?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the rear"
+        },
+        {
+          "letter": "B",
+          "text": "On the left and right sides"
+        },
+        {
+          "letter": "C",
+          "text": "On the front"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above",
+      "explanation": "Placards for hazardous materials must be placed on all four sides of the vehicle: front, rear, left, and right."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "10124",
+      "question": "When loading compressed gas, the liquid discharge valves should be:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Closed."
+        },
+        {
+          "letter": "B",
+          "text": "Greased."
+        },
+        {
+          "letter": "C",
+          "text": "Open."
+        },
+        {
+          "letter": "D",
+          "text": "Removed."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Open.",
+      "explanation": "Keep liquid discharge valves open during loading and unloading. Keep them closed at all other times."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "10144",
+      "question": "Class 1, Class 2.1, and Class 3 materials should not be placed in a trailer with:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A heater."
+        },
+        {
+          "letter": "B",
+          "text": "An air conditioner."
+        },
+        {
+          "letter": "C",
+          "text": "Other items."
+        },
+        {
+          "letter": "D",
+          "text": "Paper."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A heater.",
+      "explanation": "Heaters are prohibited in trailers carrying Class 1 (Explosives), Class 2.1 (Flammable Gas), or Class 3 (Flammable Liquids) materials."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "9551",
+      "question": "Who is responsible for identifying the hazard class of materials being shipped?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The shipper"
+        },
+        {
+          "letter": "B",
+          "text": "The carrier"
+        },
+        {
+          "letter": "C",
+          "text": "The driver"
+        },
+        {
+          "letter": "D",
+          "text": "The mechanic"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The shipper",
+      "explanation": "The shipper is responsible for identifying the product's identification number, shipping name, hazard class, packing group, and correct packaging, labels, marking, and placards."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "10925",
+      "question": "If required, ____ identical placards must be placed on a vehicle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two"
+        },
+        {
+          "letter": "B",
+          "text": "Four"
+        },
+        {
+          "letter": "C",
+          "text": "Six"
+        },
+        {
+          "letter": "D",
+          "text": "Eight"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Four",
+      "explanation": "When placards are required, place four identical placards on the vehicle: one on the front, one on the rear, and one on each side."
+    }
+  ]
+}

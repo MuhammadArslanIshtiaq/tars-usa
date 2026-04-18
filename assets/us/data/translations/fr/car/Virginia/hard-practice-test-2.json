@@ -1,0 +1,766 @@
+{
+  "state": "Virginia",
+  "category": "car",
+  "quizName": "Hard Practice Test #2",
+  "slug": "hard-practice-test-2",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "609",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ralentissez ou arrêtez-vous."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous, si nécessaire."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devez vous arrêter complètement."
+        },
+        {
+          "letter": "D",
+          "text": "Conduisez avec prudence et soyez prêt à vous arrêter."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Vous devez vous arrêter complètement.",
+      "explanation": "Un panneau octogonal signifie toujours « arrêt ». Vous devez vous arrêter complètement et attendre que tous les véhicules ou piétons se dégagent avant de continuer."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "603",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/speed_limit_55.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devez voyager à la vitesse indiquée."
+        },
+        {
+          "letter": "B",
+          "text": "La vitesse légale maximale sur la route est de 55 mph."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devez traverser l'intersection à la vitesse affichée."
+        },
+        {
+          "letter": "D",
+          "text": "Aucune des réponses ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La vitesse légale maximale sur la route est de 55 mph.",
+      "explanation": "C'est un panneau de limite de vitesse. Il indique la vitesse légale maximale à laquelle vous pouvez conduire sur la route où il est affiché. En cas de pluie, neige, verglas ou autres conditions non idéales, vous devrez peut-être conduire plus lentement que la limite affichée."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "588",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/colorado-hov_lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La voie de gauche est réservée aux véhicules ayant un nombre spécifique d'occupants."
+        },
+        {
+          "letter": "B",
+          "text": "Des mouvements de virage spécifiques sont autorisés à partir de voies spécifiques."
+        },
+        {
+          "letter": "C",
+          "text": "Interdiction d'entrer."
+        },
+        {
+          "letter": "D",
+          "text": "Les conducteurs dans les deux voies sont responsables de fusionner en douceur."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La voie de gauche est réservée aux véhicules ayant un nombre spécifique d'occupants.",
+      "explanation": "Ce panneau marque une voie réservée aux véhicules occupés (HOV). Les voies HOV sont réservées à l'usage des autobus et des véhicules avec un conducteur et un ou plusieurs passagers, comme indiqué sur le panneau."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1206",
+      "question": "Quelle est la première chose que vous devriez ajuster, si nécessaire, lorsque vous montez dans une voiture pour conduire ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Votre ceinture de sécurité"
+        },
+        {
+          "letter": "B",
+          "text": "Le volant"
+        },
+        {
+          "letter": "C",
+          "text": "Votre rétroviseur"
+        },
+        {
+          "letter": "D",
+          "text": "Votre siège"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Votre siège",
+      "explanation": "Lorsque vous vous préparez à conduire, vous devriez d'abord ajuster votre siège pour assurer que vous êtes dans une position confortable et que vous pouvez voir la route clairement. Ajustez vos rétroviseurs et votre volant pour être efficaces lorsque votre siège est complètement ajusté."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1595",
+      "question": "Lorsque vous conduisez sur des routes qui peuvent être glissantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduisez toujours à la vitesse maximale autorisée."
+        },
+        {
+          "letter": "B",
+          "text": "Utilisez le contrôle de vitesse constant pour maintenir une vitesse constante."
+        },
+        {
+          "letter": "C",
+          "text": "Réduisez votre distance de suivi."
+        },
+        {
+          "letter": "D",
+          "text": "Ne faites pas de changements soudains de vitesse ou de direction."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Ne faites pas de changements soudains de vitesse ou de direction.",
+      "explanation": "Vous devez éviter les changements soudains de vitesse ou de direction lorsque vous conduisez sur une surface glissante. Réduisez votre vitesse sur les routes glissantes et n'utilisez pas le contrôle de vitesse constant."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1500",
+      "question": "Lorsque vous changez de voie, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fiez-vous à vos rétroviseurs."
+        },
+        {
+          "letter": "B",
+          "text": "Commencez à signaler en vous déplaçant vers la voie suivante."
+        },
+        {
+          "letter": "C",
+          "text": "Signalez au moins 500 feet avant votre changement de voie lorsque vous conduisez sur des rues résidentielles."
+        },
+        {
+          "letter": "D",
+          "text": "Vérifiez toujours votre angle mort."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Vérifiez toujours votre angle mort.",
+      "explanation": "Les autres voitures et motos sont souvent cachées dans l'angle mort d'un véhicule, assurez-vous donc de regarder par-dessus votre épaule avant de commencer à changer de voie. Commencez à signaler 100 feet avant de changer de voie ou de tourner dans une zone résidentielle. Signalez cinq secondes à l'avance lorsque vous changez de voie sur une autoroute."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1663",
+      "question": "Vous conduisez sur une autoroute divisée par deux lignes jaunes continues. Vous pouvez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Franchir ces lignes uniquement pour faire un virage à gauche vers ou depuis une ruelle, une route privée ou une allée."
+        },
+        {
+          "letter": "B",
+          "text": "Franchir ces lignes pour dépasser d'autres véhicules, mais seulement s'il n'y a pas de circulation en sens inverse."
+        },
+        {
+          "letter": "C",
+          "text": "Franchir ces lignes en aucune circonstance."
+        },
+        {
+          "letter": "D",
+          "text": "Franchir ces lignes uniquement pour faire un demi-tour."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Franchir ces lignes uniquement pour faire un virage à gauche vers ou depuis une ruelle, une route privée ou une allée.",
+      "explanation": "Les lignes jaunes continues doubles sont utilisées pour marquer les routes où le dépassement est interdit dans les deux sens. Vous ne pouvez franchir ces lignes que pour faire un virage à gauche vers ou depuis une ruelle, une route privée ou une allée."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1857",
+      "question": "Il est légal d'aller plus vite que la limite de vitesse lorsque vous dépassez un autre véhicule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Faux",
+      "explanation": "Il est toujours illégal de dépasser la limite de vitesse affichée, même lorsque vous dépassez un autre véhicule."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "640",
+      "question": "La taxe de 500 $ pour véhicule à moteur non assuré offre une couverture d'assurance-responsabilité de base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Faux",
+      "explanation": "La taxe de 500 $ pour automobiliste non assuré ne fournit pas de couverture d'assurance. Elle vous permet simplement d'immatriculer et d'exploiter le véhicule en Virginie pendant une période d'un an."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1485",
+      "question": "Qu'est-ce qu'une « zone interdite » ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une zone de dépassement interdite désignée"
+        },
+        {
+          "letter": "B",
+          "text": "Une zone de circulation à sens unique"
+        },
+        {
+          "letter": "C",
+          "text": "Le point aveugle d'un gros véhicule"
+        },
+        {
+          "letter": "D",
+          "text": "Une zone désignée pour les véhicules à moteur"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Le point aveugle d'un gros véhicule",
+      "explanation": "Les « zones interdites » sont les grands points aveugles autour des camions et des autres gros véhicules. Les conducteurs de petits véhicules devraient éviter de rester longtemps dans les « zones interdites »."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1569",
+      "question": "Les conducteurs automobiles doivent savoir que les gros camions :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ont de grands angles morts."
+        },
+        {
+          "letter": "B",
+          "text": "Peuvent s'arrêter plus rapidement que les véhicules de tourisme."
+        },
+        {
+          "letter": "C",
+          "text": "N'ont pas besoin de plus d'espace pour manœuvrer que les véhicules de tourisme."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ont de grands angles morts.",
+      "explanation": "Un gros camion a de grands angles morts à l'avant, sur les côtés et à l'arrière du véhicule. Évitez de rester dans ces zones. En raison de leur taille et de leur poids plus importants, les camions nécessitent plus d'espace pour manœuvrer et s'arrêter que les véhicules de tourisme."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "468",
+      "question": "Sur une route qui n'a pas de trottoirs, un piéton devrait marcher sur le :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Côté de la route ayant le trafic le plus léger."
+        },
+        {
+          "letter": "B",
+          "text": "Même côté de la route dans lequel le trafic se déplace."
+        },
+        {
+          "letter": "C",
+          "text": "Côté de la route face au trafic en sens inverse."
+        },
+        {
+          "letter": "D",
+          "text": "Côté de la route ayant le trafic le plus lourd."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Côté de la route face au trafic en sens inverse.",
+      "explanation": "Les piétons devraient marcher sur le côté de la route face au trafic dans la voie la plus proche."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1916",
+      "question": "Lors d'un arrêt routier d'urgence, il n'est pas nécessaire d'enclencher votre frein de stationnement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Faux",
+      "explanation": "Enclenchez votre frein de stationnement lors d'un arrêt routier d'urgence. Allumez vos feux de détresse pour alerter les autres conducteurs de votre présence."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "979",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cédez le passage."
+        },
+        {
+          "letter": "B",
+          "text": "Intersection à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Rester à droite."
+        },
+        {
+          "letter": "D",
+          "text": "Cédez le passage à l'avance."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cédez le passage.",
+      "explanation": "Les panneaux de circulation ayant trois côtés de longueur égale avertissent les conducteurs de ralentir en s'approchant d'une intersection et de se préparer à s'arrêter complètement pour laisser la priorité à d'autres conducteurs ou piétons. Les conducteurs peuvent continuer quand cela est sûr."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "2254",
+      "question": "Les panneaux en forme de fanion indiquent :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les zones scolaires."
+        },
+        {
+          "letter": "B",
+          "text": "Les zones d'interdiction de dépasser."
+        },
+        {
+          "letter": "C",
+          "text": "Les limitations de vitesse."
+        },
+        {
+          "letter": "D",
+          "text": "Les passages à niveau."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les zones d'interdiction de dépasser.",
+      "explanation": "Les panneaux en forme de fanion indiquent généralement des zones d'interdiction de dépasser. Un texte sera également sur le panneau pour confirmer qu'il s'agit d'une zone d'interdiction de dépasser."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1546",
+      "question": "La couleur la plus courante des panneaux d'avertissement est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rouge."
+        },
+        {
+          "letter": "B",
+          "text": "Jaune."
+        },
+        {
+          "letter": "C",
+          "text": "Vert."
+        },
+        {
+          "letter": "D",
+          "text": "Bleu."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Jaune.",
+      "explanation": "La plupart des panneaux d'avertissement sont en forme de losange et de couleur jaune avec des marques noires. Ces panneaux avertissent les conducteurs des conditions inattendues qui pourraient ne pas être immédiatement apparentes."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "676",
+      "question": "Les demi-tours sont autorisés dans les districts commerciaux, les villes et les communes uniquement :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur les autoroutes."
+        },
+        {
+          "letter": "B",
+          "text": "Aux intersections."
+        },
+        {
+          "letter": "C",
+          "text": "Sur les routes à quatre voies."
+        },
+        {
+          "letter": "D",
+          "text": "Aucune des réponses ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Aux intersections.",
+      "explanation": "Dans les districts commerciaux, les villes et les communes, les demi-tours sont autorisés uniquement aux intersections."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "324",
+      "question": "Pour tourner à gauche depuis des rues et des autoroutes à plusieurs voies à sens unique, vous devriez commencer à partir de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le centre de l'intersection."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de droite."
+        },
+        {
+          "letter": "C",
+          "text": "La voie de gauche."
+        },
+        {
+          "letter": "D",
+          "text": "N'importe quelle voie."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La voie de gauche.",
+      "explanation": "Pour tourner à gauche depuis des rues et des autoroutes à plusieurs voies, commencez par la voie de gauche."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "607",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/virginia-road_work_ahead_detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Préparez-vous à un virage à gauche prononcé à l'avance."
+        },
+        {
+          "letter": "B",
+          "text": "Attention aux piétons qui traversent votre chemin."
+        },
+        {
+          "letter": "C",
+          "text": "Zone d'interdiction de dépassement."
+        },
+        {
+          "letter": "D",
+          "text": "Prenez une déviation pour éviter des conditions de conduite dangereuses."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Prenez une déviation pour éviter des conditions de conduite dangereuses.",
+      "explanation": "Ces panneaux indiquent un changement dans le schéma de circulation ou l'itinéraire à l'avance en raison d'une zone de travaux. Prenez la déviation de conduite indiquée."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "473",
+      "question": "Vous voulez sortir votre voiture de votre allée. Vous voyez des enfants qui jouent à proximité. Avant de commencer à bouger votre voiture, vous devriez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accélérez votre moteur pour avertir les enfants que vous vous déplacez."
+        },
+        {
+          "letter": "B",
+          "text": "Actionnez votre klaxon pour que les enfants vous entendent."
+        },
+        {
+          "letter": "C",
+          "text": "Marchez vers l'arrière de la voiture pour vérifier que la voie est libre."
+        },
+        {
+          "letter": "D",
+          "text": "Dites aux enfants de rester loin de l'allée."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Marchez vers l'arrière de la voiture pour vérifier que la voie est libre.",
+      "explanation": "Lorsque vous reculez un véhicule, regardez par votre lunette arrière pour rechercher les piétons et autres obstacles. Ne vous fiez pas uniquement à vos rétroviseurs, surtout lorsque des enfants sont à proximité. Avant de reculer dans une allée ou hors d'une allée, sortez du véhicule et vérifiez derrière votre véhicule."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "599",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/y_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Votre chaussée actuelle se termine à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez vous diriger soit à droite soit à gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Une intersection à quatre directions se trouve plus loin."
+        },
+        {
+          "letter": "D",
+          "text": "Une route rejoint depuis la droite."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vous devez vous diriger soit à droite soit à gauche.",
+      "explanation": "Ce panneau indique qu'il y a un carrefour en Y à proximité. Vous devez vous diriger soit vers la droite soit vers la gauche."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1601",
+      "question": "Laquelle des affirmations suivantes est vraie ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il est acceptable pour les conducteurs d'autres véhicules de suivre les motocyclettes de près."
+        },
+        {
+          "letter": "B",
+          "text": "Une motocyclette avec deux personnes dessus est plus équilibrée qu'une motocyclette avec un seul conducteur."
+        },
+        {
+          "letter": "C",
+          "text": "Le conducteur d'un véhicule de tourisme doit changer complètement de voie en dépassant une motocyclette."
+        },
+        {
+          "letter": "D",
+          "text": "Les conducteurs d'autres véhicules peuvent s'attendre à ce que les feux de freinage d'une motocyclette s'allument lorsque le motocycliste ralentit."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Le conducteur d'un véhicule de tourisme doit changer complètement de voie en dépassant une motocyclette.",
+      "explanation": "Les motocyclettes ont droit à la largeur complète d'une voie. Assurez-vous que votre véhicule est entièrement dans la voie de gauche avant de tenter de dépasser une motocyclette par la gauche."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "1501",
+      "question": "Il est important d'être attentif aux motocyclettes car :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elles sont plus difficiles à voir que les voitures."
+        },
+        {
+          "letter": "B",
+          "text": "Elles utilisent rarement leurs phares."
+        },
+        {
+          "letter": "C",
+          "text": "Les motocyclistes sont des conducteurs moins compétents que les autres automobilistes."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Elles sont plus difficiles à voir que les voitures.",
+      "explanation": "Les motocyclettes sont plus petites et plus difficiles à voir que les voitures. En raison de leur taille, elles sont facilement cachées dans l'angle mort d'une voiture. Il peut être difficile de juger votre distance par rapport à une motocyclette et difficile de dire à quelle vitesse une motocyclette se déplace, soyez donc toujours vigilant et très prudent près d'un motocycliste."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "634",
+      "question": "Il est légal de transporter des enfants de moins de 16 ans dans la benne d'une camionnette s'elle est équipée d'une coque de camping.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Faux",
+      "explanation": "Il est illégal de transporter des enfants de moins de 16 ans dans la benne d'une camionnette, même s'elle est équipée d'une coque de camping."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "2069",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/montana-narrow_bridge_2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les camions sont autorisés sur un pont étroit à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Le pont à l'avant est ouvert à la circulation à sens unique seulement."
+        },
+        {
+          "letter": "C",
+          "text": "Le pont à l'avant est suffisamment large que pour une seule voiture à la fois."
+        },
+        {
+          "letter": "D",
+          "text": "Le pont à l'avant peut être trop étroit pour rencontrer ou dépasser un camion."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Le pont à l'avant peut être trop étroit pour rencontrer ou dépasser un camion.",
+      "explanation": "Les panneaux d'avertissement sont utilisés pour avertir les conducteurs des conditions dangereuses à venir et sont généralement jaunes avec des marquages noirs. Ce panneau avertit les conducteurs qu'un pont à venir peut être trop étroit pour rencontrer ou dépasser un camion et qu'ils doivent être prudents."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "972",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/indiana-traffic_signal.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feu de circulation."
+        },
+        {
+          "letter": "B",
+          "text": "Caserne de pompiers."
+        },
+        {
+          "letter": "C",
+          "text": "Intersection en T."
+        },
+        {
+          "letter": "D",
+          "text": "Signal de virage à gauche."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Feu de circulation.",
+      "explanation": "Les panneaux d'avertissement préparent les conducteurs aux conditions routières et aux dangers à venir et sont généralement jaunes avec des marquages noirs. Ce panneau alerte les conducteurs sur un feu de circulation à venir. Ils doivent être préparés à répondre à un feu jaune, un feu rouge et/ou au trafic transversal."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "2255",
+      "question": "Les panneaux pentagonaux indiquent:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les zones d'interdiction de dépasser."
+        },
+        {
+          "letter": "B",
+          "text": "Les zones scolaires."
+        },
+        {
+          "letter": "C",
+          "text": "Les limitations de vitesse."
+        },
+        {
+          "letter": "D",
+          "text": "Les passages à niveau."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les zones scolaires.",
+      "explanation": "Les panneaux pentagonaux indiquent que vous êtes dans une zone scolaire. Soyez très vigilant aux enfants et aux piétons quand vous conduisez près d'une école."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "404",
+      "question": "Une ligne blanche continue sur le bord droit de la route s'incline vers la gauche. Cela indique que :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une intersection est juste ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Vous approchez d'une zone de construction."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devrez tourner à gauche juste ahead."
+        },
+        {
+          "letter": "D",
+          "text": "La route sera plus étroite."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "La route sera plus étroite.",
+      "explanation": "Une ligne continue le long du bord de la route indique où se situe son extrémité, marquant la limite entre la voie de circulation et l'accotement. Si la ligne d'extrémité s'incline vers le centre de la route, cela signifie que la route est plus étroite ahead."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "478",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuez à votre vitesse actuelle."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez vous arrêter devant."
+        },
+        {
+          "letter": "C",
+          "text": "Les excès de vitesse ne sont pas autorisés."
+        },
+        {
+          "letter": "D",
+          "text": "Il y a un feu de circulation à l'avance."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Il y a un feu de circulation à l'avance.",
+      "explanation": "Ce panneau indique qu'il y a un feu de circulation devant."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "370",
+      "question": "Lorsque vous êtes dans une file de trafic qui traverse un passage à niveau qui n'a pas de signaux ou de barrières :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous avez le droit de passage et n'avez pas besoin de vérifier la présence de trains."
+        },
+        {
+          "letter": "B",
+          "text": "Vous pouvez dépasser les conducteurs plus lents en traversant la voie."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devez vous assurer qu'il y a de l'espace pour que votre véhicule traverse complètement les rails sans s'arrêter."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Vous devez vous assurer qu'il y a de l'espace pour que votre véhicule traverse complètement les rails sans s'arrêter.",
+      "explanation": "Si vous suivez un autre véhicule à un passage à niveau, assurez-vous d'avoir suffisamment d'espace pour traverser complètement avant de vous engager sur les rails. Vous ne devriez jamais essayer de dépasser un autre véhicule à l'approche ou en traversant un passage à niveau. Vérifiez toujours la présence de trains avant de traverser des rails de chemin de fer."
+    }
+  ]
+}

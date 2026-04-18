@@ -1,0 +1,273 @@
+{
+  "state": "Florida",
+  "category": "car",
+  "quizName": "Temporary Traffic Control Signs",
+  "slug": "temporary-traffic-control-signs",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/flagger-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un signaleur dirige le trafic plus loin."
+        },
+        {
+          "letter": "B",
+          "text": "Un agent de sécurité scolaire se trouve plus loin."
+        },
+        {
+          "letter": "C",
+          "text": "Un agent de police se trouve plus loin."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un signaleur dirige le trafic plus loin.",
+      "explanation": "Ce panneau orange vous avertit qu'un signaleur (une personne tenant un drapeau ou un panneau) contrôle le trafic dans une zone de travaux plus loin. Ralentissez et suivez ses directives."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/workers-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des ouvriers se trouvent sur ou près de la route plus loin."
+        },
+        {
+          "letter": "B",
+          "text": "Un passage pour piétons se trouve plus loin."
+        },
+        {
+          "letter": "C",
+          "text": "Un sentier de randonnée traverse la route."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Des ouvriers se trouvent sur ou près de la route plus loin.",
+      "explanation": "Ce panneau orange vous avertit que des ouvriers se trouvent plus loin. Ralentissez et attention aux ouvriers et à l'équipement sur ou près de la route."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/road-works-next-5-miles.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des travaux routiers se déroulent pour les 5 prochains milles."
+        },
+        {
+          "letter": "B",
+          "text": "La limite de vitesse est de 5 mph dans cette zone."
+        },
+        {
+          "letter": "C",
+          "text": "Une déviation commence dans 5 milles."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Des travaux routiers se déroulent pour les 5 prochains milles.",
+      "explanation": "Ce panneau vous indique que les travaux de construction ou d'entretien de la route se poursuivent pour les 5 prochains milles. Restez vigilant et respectez les limites de vitesse affichées dans la zone de travaux."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/right-shoulder-closed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'accotement droit de la route est fermé."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de droite se termine."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de virage à droite plus loin."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "L'accotement droit de la route est fermé.",
+      "explanation": "Ce panneau vous avertit que l'accotement droit est fermé en raison de travaux routiers. Ne vous arrêtez pas sur l'accotement droit dans cette zone."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/right-two-lanes-closed-1mile.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les deux voies de droite sont fermées dans 1 mille."
+        },
+        {
+          "letter": "B",
+          "text": "Deux nouvelles voies s'ouvrent dans 1 mille."
+        },
+        {
+          "letter": "C",
+          "text": "La limite de vitesse diminue dans 1 mille."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les deux voies de droite sont fermées dans 1 mille.",
+      "explanation": "Ce panneau vous avertit que les deux voies de droite seront fermées dans 1 mille en raison de travaux routiers. Changez de voie vers la gauche en toute sécurité avant d'atteindre la fermeture."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/shoulder-work.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des travaux sont en cours sur l'accotement de la route."
+        },
+        {
+          "letter": "B",
+          "text": "L'accotement est ouvert à la circulation."
+        },
+        {
+          "letter": "C",
+          "text": "Une aire de repos se trouve sur l'accotement."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Des travaux sont en cours sur l'accotement de la route.",
+      "explanation": "Ce panneau vous avertit que des travaux de construction se déroulent sur l'accotement de la route. Restez dans votre voie et n'utilisez pas l'accotement."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/shoulder-work-2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des travaux d'accotement se trouvent plus loin. Restez à l'écart de l'accotement."
+        },
+        {
+          "letter": "B",
+          "text": "La route est en train d'être élargie."
+        },
+        {
+          "letter": "C",
+          "text": "Une nouvelle voie est en cours d'ajout."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Des travaux d'accotement se trouvent plus loin. Restez à l'écart de l'accotement.",
+      "explanation": "Ce panneau vous avertit de travaux sur l'accotement de la route plus loin. Évitez d'utiliser l'accotement et restez dans votre voie."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/slow-traffic-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un trafic lent se trouve plus loin dans une zone de travaux."
+        },
+        {
+          "letter": "B",
+          "text": "La limite de vitesse est plus basse plus loin."
+        },
+        {
+          "letter": "C",
+          "text": "Une zone scolaire se trouve plus loin."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un trafic lent se trouve plus loin dans une zone de travaux.",
+      "explanation": "Ce panneau vous avertit que le trafic plus loin se déplace lentement en raison de travaux routiers. Réduisez votre vitesse et soyez prêt à vous arrêter."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/utility work ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des travaux de service public se déroulent plus loin."
+        },
+        {
+          "letter": "B",
+          "text": "Une station-essence est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Des lignes électriques traversent la route."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Des travaux de service public se déroulent plus loin.",
+      "explanation": "Ce panneau vous avertit que des ouvriers du service public (électricité, eau, gaz ou télécommunications) travaillent près de la route plus loin. Ralentissez et attention aux ouvriers et à l'équipement."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suivez le détour. La route normale est fermée pour construction."
+        },
+        {
+          "letter": "B",
+          "text": "Une route panoramique est disponible."
+        },
+        {
+          "letter": "C",
+          "text": "Un itinéraire pour les camions est dans cette direction."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Suivez le détour. La route normale est fermée pour construction.",
+      "explanation": "Ce panneau de détour orange indique aux automobilistes de suivre un itinéraire alternatif car la route habituelle est fermée pour construction. Suivez tous les panneaux de détour jusqu'à ce que vous reveniez à l'itinéraire normal."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/exit-closed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sortie à l'avant est fermée en raison de travaux routiers."
+        },
+        {
+          "letter": "B",
+          "text": "La rampe d'accès est fermée."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de sortie dans cette direction."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La sortie à l'avant est fermée en raison de travaux routiers.",
+      "explanation": "Ce panneau vous indique que la sortie à venir est temporairement fermée en raison de travaux de construction. Utilisez plutôt la prochaine sortie disponible."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/temporary-traffic-control-signs/end-road-works.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La zone de travaux routiers a pris fin."
+        },
+        {
+          "letter": "B",
+          "text": "La route est définitivement fermée."
+        },
+        {
+          "letter": "C",
+          "text": "Une nouvelle zone de travaux commence."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La zone de travaux routiers a pris fin.",
+      "explanation": "Ce panneau marque la fin d'une zone de travaux routiers. Vous pouvez reprendre une vitesse de conduite normale, mais respectez toujours les limites de vitesse affichées."
+    }
+  ]
+}

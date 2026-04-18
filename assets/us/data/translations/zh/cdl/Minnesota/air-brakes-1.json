@@ -1,0 +1,632 @@
+{
+  "state": "Minnesota",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/minnesota/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "10562",
+      "question": "安全阀设置在多少psi时打开？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 psi"
+        },
+        {
+          "letter": "B",
+          "text": "150 psi"
+        },
+        {
+          "letter": "C",
+          "text": "200 psi"
+        },
+        {
+          "letter": "D",
+          "text": "500 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "150 psi",
+      "explanation": "在空气制动系统中，接收压缩空气的第一个储气罐有一个安全阀，如果压力过高，该阀会释放空气。它通常设置在150 psi时打开。如果安全阀必须打开，则表明系统存在故障，需要由机械师修理。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11578",
+      "question": "在检查联结器时，你应该走到拖车下方并且：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "从kingpin周围分离夹爪。"
+        },
+        {
+          "letter": "B",
+          "text": "确保锁定杆处于\"应急\"位置。"
+        },
+        {
+          "letter": "C",
+          "text": "移除安全锁存器。"
+        },
+        {
+          "letter": "D",
+          "text": "查看第五轮的后部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "查看第五轮的后部。",
+      "explanation": "在检查联结器时，你应该走到拖车下方并查看第五轮的后部。确保第五轮的夹爪已固定在kingpin的柄部周围。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10469",
+      "question": "什么是短车组合？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "没有半挂车的拖拉机"
+        },
+        {
+          "letter": "B",
+          "text": "带有两个半挂车的拖拉机"
+        },
+        {
+          "letter": "C",
+          "text": "速度超过限速的拖拉机。"
+        },
+        {
+          "letter": "D",
+          "text": "速度低于限速的拖拉机。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "没有半挂车的拖拉机",
+      "explanation": "没有半挂车的拖拉机被称为平头拖拉机。操作平头拖拉机需要驾驶员谨慎行驶。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11854",
+      "question": "在倒车耦合拖车时，牵引车应该定位在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "拖车的正前方。"
+        },
+        {
+          "letter": "B",
+          "text": "直接在拖车旁边。"
+        },
+        {
+          "letter": "C",
+          "text": "与拖车平行。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "拖车的正前方。",
+      "explanation": "倒车耦合拖车时，你应该将牵引车定位在拖车的正前方。尝试以角度倒车耦合可能导致拖车移动和着陆支架损坏。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11666",
+      "question": "当您按下装有S凸轮制动器的车辆中的制动踏板时，空气压力会推出杆并移动：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "松弛调节器。"
+        },
+        {
+          "letter": "B",
+          "text": "车轴。"
+        },
+        {
+          "letter": "C",
+          "text": "制动鼓。"
+        },
+        {
+          "letter": "D",
+          "text": "酒精蒸发器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "松弛调节器。",
+      "explanation": "按下装有S凸轮制动器的车辆中的制动踏板时，空气会进入制动室。增加的空气压力将推出杆并移动松弛调节器，扭转制动凸轮轴。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11843",
+      "question": "如果你的行驶速度低于40 mph，应该为你的车辆每10英尺保持至少____的跟车距离。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一秒"
+        },
+        {
+          "letter": "B",
+          "text": "两秒钟"
+        },
+        {
+          "letter": "C",
+          "text": "3秒"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "一秒",
+      "explanation": "在低于40 mph的速度下，您应该为每10英尺的车辆保持至少一秒的跟车距离。在较高速度行驶时遵循相同的公式，然后再增加一秒的跟车距离。请记住，较大的车辆需要比较小的车辆更多的停止空间。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10250",
+      "question": "如果使用颜色来区分快速接头,应急线使用什么颜色?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "橙色"
+        },
+        {
+          "letter": "B",
+          "text": "黄色"
+        },
+        {
+          "letter": "C",
+          "text": "蓝色"
+        },
+        {
+          "letter": "D",
+          "text": "红色"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "红色",
+      "explanation": "当拖车空气管路采用颜色编码时，服务管路通常为蓝色，紧急管路通常为红色。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "9386",
+      "question": "哪种类型的车辆最容易受到\"甩鞭\"效应的影响？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "五轴牵引车半挂车"
+        },
+        {
+          "letter": "B",
+          "text": "三轴牵引车半挂车"
+        },
+        {
+          "letter": "C",
+          "text": "无挂车牵引车"
+        },
+        {
+          "letter": "D",
+          "text": "三联拖车"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "三联拖车",
+      "explanation": "三拖车组合对\"甩鞭\"效应最容易发生。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "10078",
+      "question": "空气制动使用____来工作。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "压缩空气"
+        },
+        {
+          "letter": "B",
+          "text": "液态氮"
+        },
+        {
+          "letter": "C",
+          "text": "二氧化碳"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "压缩空气",
+      "explanation": "空气制动系统中的制动器使用压缩空气正常工作。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11706",
+      "question": "如果低气压警告信号在驾驶时激活，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "继续正常驾驶。"
+        },
+        {
+          "letter": "B",
+          "text": "尽快安全地驶离路面并停泊车辆。"
+        },
+        {
+          "letter": "C",
+          "text": "在原地停车并停泊。"
+        },
+        {
+          "letter": "D",
+          "text": "打开危险警告灯并继续驾驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "尽快安全地驶离路面并停泊车辆。",
+      "explanation": "如果低气压警告信号在驾驶时激活，重要的是您应尽快安全地驶离路面并停泊车辆。如果空气压力太低，制动器将无法正常工作，您无法安全停车。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9387",
+      "question": "当拖车的车轮锁死时会发生什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "拖车通常会继续直线行驶。"
+        },
+        {
+          "letter": "B",
+          "text": "拖车将脱离。"
+        },
+        {
+          "letter": "C",
+          "text": "拖车可能会摇摆。"
+        },
+        {
+          "letter": "D",
+          "text": "拖车将停止。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "拖车可能会摇摆。",
+      "explanation": "如果拖车的车轮锁死，拖车可能会摇摆，可能导致拖车侧滑。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9385",
+      "question": "翻车发生在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "卡车驾驶员行驶速度过快。"
+        },
+        {
+          "letter": "B",
+          "text": "卡车前面的车辆驾驶员行驶速度过慢。"
+        },
+        {
+          "letter": "C",
+          "text": "卡车驾驶员行驶速度过慢。"
+        },
+        {
+          "letter": "D",
+          "text": "ABS工作有效。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "卡车驾驶员行驶速度过快。",
+      "explanation": "当车辆行驶速度过快时会发生翻车。为了降低翻车风险，确保货物重量装载在靠近地面的位置，并且你要缓慢转弯和通过曲线。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8998",
+      "question": "如果系统气罐中的空气压力降低到60 psi以下会发生什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "警告灯会亮起。"
+        },
+        {
+          "letter": "B",
+          "text": "车辆将无法换出档位。"
+        },
+        {
+          "letter": "C",
+          "text": "前灯会闪烁。"
+        },
+        {
+          "letter": "D",
+          "text": "车辆应停止。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "警告灯会亮起。",
+      "explanation": "在空气制动系统中，如果气罐中的压力降低到60 psi以下，应激活低压警告信号。该信号可能是警告灯或摇摆棒的形式。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11072",
+      "question": "组合车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "挂车通常比单个商用车更高。"
+        },
+        {
+          "letter": "B",
+          "text": "通常比单个商用车轻。"
+        },
+        {
+          "letter": "C",
+          "text": "比驾驶单个商用车需要更多的技能。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "比驾驶单个商用车需要更多的技能。",
+      "explanation": "驾驶组合车比驾驶单个商用车需要更多的技能。组合车通常更长，通常更重，更容易翻转。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11083",
+      "question": "服务管路的另一个名称是什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "信号管线"
+        },
+        {
+          "letter": "B",
+          "text": "电缆管线"
+        },
+        {
+          "letter": "C",
+          "text": "剩余管线"
+        },
+        {
+          "letter": "D",
+          "text": "电源管线"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "信号管线",
+      "explanation": "拖车供气管线也被称为控制管线或信号管线。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11710",
+      "question": "踩下制动踏板会导致空气压力启动电气开关并：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "关闭制动灯。"
+        },
+        {
+          "letter": "B",
+          "text": "打开低压警告灯。"
+        },
+        {
+          "letter": "C",
+          "text": "打开制动灯。"
+        },
+        {
+          "letter": "D",
+          "text": "关闭低压警告灯。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "打开制动灯。",
+      "explanation": "在配备气动制动器的车辆中，当踩下制动踏板且空气压力移动电气开关时，制动灯被激活。通过空气压力的施加，开关将打开制动灯。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "10466",
+      "question": "操作组合车通常需要____操作单一车辆。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "比"
+        },
+        {
+          "letter": "B",
+          "text": "大约相同的技能水平"
+        },
+        {
+          "letter": "C",
+          "text": "比"
+        },
+        {
+          "letter": "D",
+          "text": "与操作相同水平的技能"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "比",
+      "explanation": "组合车需要比单一车辆更高的驾驶技能。组合车通常更长、更重，而且更容易翻车。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10239",
+      "question": "为帮助防止翻车，货物应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "放在拖车内尽可能高的位置。"
+        },
+        {
+          "letter": "B",
+          "text": "放在拖车内尽可能低的位置。"
+        },
+        {
+          "letter": "C",
+          "text": "放在拖车的乘客侧。"
+        },
+        {
+          "letter": "D",
+          "text": "放在拖车的驾驶员侧。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "放在拖车内尽可能低的位置。",
+      "explanation": "为了降低翻转风险，拖车中货物的重量应尽可能保持接近地面。重量不应主要放在拖车的一侧，因为这可能导致拖车倾斜，增加翻转风险。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8877",
+      "question": "ABS故障灯是什么颜色？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "橙色"
+        },
+        {
+          "letter": "B",
+          "text": "黄色"
+        },
+        {
+          "letter": "C",
+          "text": "绿色"
+        },
+        {
+          "letter": "D",
+          "text": "蓝色"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "黄色",
+      "explanation": "配备防抱死制动系统(ABS)的车辆有黄色故障灯。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11678",
+      "question": "在开始下坡前，要确保：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "加速。"
+        },
+        {
+          "letter": "B",
+          "text": "换入高档。"
+        },
+        {
+          "letter": "C",
+          "text": "鸣响喇叭。"
+        },
+        {
+          "letter": "D",
+          "text": "换成低档。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "换成低档。",
+      "explanation": "在开始下坡前，要确保换成低档。当你下坡行驶时，重力会增加你车的速度。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9890",
+      "question": "空气制动装置使用什么来使制动器工作？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "压缩空气"
+        },
+        {
+          "letter": "B",
+          "text": "室外空气"
+        },
+        {
+          "letter": "C",
+          "text": "未压缩的空气"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "压缩空气",
+      "explanation": "许多大型CMV配备了空气制动装置。空气制动系统使用压缩空气来运行。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "9143",
+      "question": "如果挂车开始打滑，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "锁定制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "松开制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "向相反方向转向。"
+        },
+        {
+          "letter": "D",
+          "text": "加速。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "松开制动器。",
+      "explanation": "如果您的挂车在制动时开始打滑，您应该松开制动器并允许其开始恢复牵引力。一旦其轮子重新获得对道路的抓力，挂车将开始笔直并跟随牵引车。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8871",
+      "question": "什么是摇摆装置（wig wag）？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "一种警告系统"
+        },
+        {
+          "letter": "B",
+          "text": "用于将空气从压缩机输送到储气罐的管道"
+        },
+        {
+          "letter": "C",
+          "text": "使用空气制动时发出的噪音"
+        },
+        {
+          "letter": "D",
+          "text": "制动装置内的一个零件，允许空气自由流动"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "一种警告系统",
+      "explanation": "摇摆装置（wig wag）是空气制动系统中的一种低空气压力警告装置。当储气罐中的空气压力降至60 psi以下时，它会将机械臂放入驾驶员的视野中。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11525",
+      "question": "拖车太高会：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "可能无法正确连接。"
+        },
+        {
+          "letter": "B",
+          "text": "将安全连接。"
+        },
+        {
+          "letter": "C",
+          "text": "不是问题。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "可能无法正确连接。",
+      "explanation": "在将拖拉机和拖车连接在一起之前，你应该确保拖车处于正确的高度。如果拖车太低，拖车前端可能会损坏。如果拖车太高，它可能无法正确连接。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11211",
+      "question": "如果使用颜色编码，用哪种颜色来识别服务管路？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "白色"
+        },
+        {
+          "letter": "B",
+          "text": "黄色"
+        },
+        {
+          "letter": "C",
+          "text": "蓝色"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "蓝色",
+      "explanation": "气管线有时会使用颜色编码来帮助驾驶员在连接快速接头时避免出错。通常，蓝色用于服务管路，红色用于紧急管路。"
+    }
+  ]
+}

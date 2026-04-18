@@ -1,0 +1,317 @@
+{
+  "state": "Connecticut",
+  "category": "car",
+  "quizName": "Railroad Crossing Signs",
+  "slug": "railroad-crossing-signs",
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/railroad-crossing-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un passage à niveau est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Une intersection routière est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Une piste cyclable traverse la route à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un passage à niveau est à proximité.",
+      "explanation": "Ce panneau jaune rond vous avertit qu'un passage à niveau est à proximité. Ralentissez et soyez prêt à vous arrêter si un train arrive."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/railroad-crossbuck.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous êtes à un passage à niveau."
+        },
+        {
+          "letter": "B",
+          "text": "Vous êtes à un arrêt quatre directions."
+        },
+        {
+          "letter": "C",
+          "text": "Un échangeur routier est à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous êtes à un passage à niveau.",
+      "explanation": "Le panneau blanc en forme de X marque l'emplacement exact d'un passage à niveau. Vous devez céder le passage à tous les trains à cet endroit."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/parallel-railroad-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une voie ferrée longe la route à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "La route converge avec une autoroute."
+        },
+        {
+          "letter": "C",
+          "text": "Une piste cyclable longe la route."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une voie ferrée longe la route à proximité.",
+      "explanation": "Ce panneau avertit que la route sur laquelle vous roulez longe une voie ferrée. Surveillez les trains qui pourraient se déplacer à côté de vous."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/do-not-drive-on-tracks.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne conduisez pas sur les rails."
+        },
+        {
+          "letter": "B",
+          "text": "Stationnement interdit dans cette zone."
+        },
+        {
+          "letter": "C",
+          "text": "Ne pas dépasser les lignes peintes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ne conduisez pas sur les rails.",
+      "explanation": "Ce panneau interdit aux conducteurs de conduire sur les rails ou le long des rails. Conduire sur les rails est dangereux et illégal."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/do-not-pass-stopped-trains.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne dépassez pas un train arrêté."
+        },
+        {
+          "letter": "B",
+          "text": "Ne stationnez pas votre véhicule sur les rails."
+        },
+        {
+          "letter": "C",
+          "text": "Dépassement interdit dans cette zone."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ne dépassez pas un train arrêté.",
+      "explanation": "Ce panneau avertit les conducteurs de ne pas dépasser un train arrêté. Le train peut commencer à se déplacer, ou un autre train peut arriver sur une voie proche."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/highway-rail-crossing-on-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un passage à niveau se trouve sur la route à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Tournez à droite à l'intersection suivante."
+        },
+        {
+          "letter": "C",
+          "text": "Une zone de repos se trouve à droite."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un passage à niveau se trouve sur la route à droite.",
+      "explanation": "Ce panneau avertit que si vous tournez à droite, vous arriverez à un passage à niveau. Soyez prêt à vous arrêter pour les trains après avoir tourné."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/light-rail-only-lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cette voie est réservée aux véhicules de transport rapide par rail."
+        },
+        {
+          "letter": "B",
+          "text": "Une voie réservée aux autobus est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Cette voie est réservée aux bicyclettes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cette voie est réservée aux véhicules de transport rapide par rail.",
+      "explanation": "Ce panneau marque une voie réservée aux véhicules de transport rapide par rail seulement. Les véhicules ordinaires ne doivent pas utiliser cette voie."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/light-rail-transit-station-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une station de transport rapide par rail est à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Une gare d'autobus est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Un garage de stationnement est à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une station de transport rapide par rail est à proximité.",
+      "explanation": "Ce panneau indique qu'une station de transport rapide par rail arrive. Surveillez les piétons et les véhicules de transport dans la zone."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/light-rail-vehicle-approaching.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un véhicule de transport rapide par rail peut s'approcher."
+        },
+        {
+          "letter": "B",
+          "text": "Un train de marchandises arrive."
+        },
+        {
+          "letter": "C",
+          "text": "Un autobus est sur le point de s'arrêter."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un véhicule de transport rapide par rail peut s'approcher.",
+      "explanation": "Ce panneau vous avertit de surveiller les véhicules de transport rapide par rail qui pourraient s'approcher. Soyez vigilant et prêt à vous arrêter."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/low-ground-clearance-on-track.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peu de dégagement au sol au passage à niveau à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Un ralentisseur est à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "La surface de la route est inégale."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Peu de dégagement au sol au passage à niveau à proximité.",
+      "explanation": "Ce panneau avertit que le passage à niveau à proximité a une forte montée. Les véhicules avec peu de dégagement au sol peuvent rester coincés sur les rails."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/no-left-turn-across-tracks.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de virage à gauche à travers les rails."
+        },
+        {
+          "letter": "B",
+          "text": "Pas de virage à gauche à l'intersection suivante."
+        },
+        {
+          "letter": "C",
+          "text": "La voie de gauche se termine à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pas de virage à gauche à travers les rails.",
+      "explanation": "Ce panneau indique aux conducteurs qu'ils ne peuvent pas tourner à gauche à travers les rails. Vous devez trouver un autre itinéraire."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/no-signal-at-tracks.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il n'y a pas de signal ni de barrière à ce passage à niveau."
+        },
+        {
+          "letter": "B",
+          "text": "Le signal de circulation à proximité ne fonctionne pas."
+        },
+        {
+          "letter": "C",
+          "text": "Utilisation de téléphone cellulaire interdite dans cette zone."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Il n'y a pas de signal ni de barrière à ce passage à niveau.",
+      "explanation": "Ce panneau avertit que le passage à niveau à proximité n'a pas de signal, de feu ni de barrière. Vous devez écouter et regarder attentivement les trains avant de traverser."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/no-train-horn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les trains ne sonnent pas leur klaxon à ce passage à niveau."
+        },
+        {
+          "letter": "B",
+          "text": "Il est interdit de klaxonner dans cette zone."
+        },
+        {
+          "letter": "C",
+          "text": "Sonnez votre klaxon avant de traverser les voies ferrées."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les trains ne sonnent pas leur klaxon à ce passage à niveau.",
+      "explanation": "Ce panneau vous indique que les trains peuvent ne pas sonner leur klaxon à ce passage. Vous devez être particulièrement prudent et regarder des deux côtés avant de traverser."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/railroad-crossing-signs/xx-feet-between-tracks-and-highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il indique la distance entre les voies ferrées et une route proche."
+        },
+        {
+          "letter": "B",
+          "text": "Il indique la limite de vitesse près des voies."
+        },
+        {
+          "letter": "C",
+          "text": "Il indique le nombre de voies ferrées que vous devez traverser."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Il indique la distance entre les voies ferrées et une route proche.",
+      "explanation": "Ce panneau indique aux conducteurs la distance en feet entre les voies ferrées et une intersection routière proche. Cela aide les conducteurs à planifier quand s'arrêter."
+    }
+  ]
+}

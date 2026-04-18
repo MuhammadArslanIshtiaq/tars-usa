@@ -1,0 +1,604 @@
+{
+  "state": "Oregon",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/oregon/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8869",
+      "question": "低气压警告灯是什么颜色的？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色"
+        },
+        {
+          "letter": "B",
+          "text": "橙色"
+        },
+        {
+          "letter": "C",
+          "text": "红色"
+        },
+        {
+          "letter": "D",
+          "text": "紫色"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "红色",
+      "explanation": "配备气压制动系统的车辆需要低气压警告信号。警告灯通常为红色，可能伴有蜂鸣声。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11196",
+      "question": "如果您在驾驶时ABS警告灯亮起，表示ABS：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "由于天气条件无法工作。"
+        },
+        {
+          "letter": "B",
+          "text": "刚刚被激活。"
+        },
+        {
+          "letter": "C",
+          "text": "运行不正常。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "运行不正常。",
+      "explanation": "ABS故障灯表示防抱死制动系统中的某些东西运行不正常。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8993",
+      "question": "双空气制动系统：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "有一个气动制动系统，但使用两组控制装置。"
+        },
+        {
+          "letter": "B",
+          "text": "卡车每一侧有一个气动制动系统。"
+        },
+        {
+          "letter": "C",
+          "text": "每个轮子有两个制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "有两个独立的气动制动系统，但使用一组控制装置。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "有两个独立的气动制动系统，但使用一组控制装置。",
+      "explanation": "双回路制动系统有两个独立的气动制动系统，使用一组制动控制装置。一个系统通常操作后轴或多个后轴上的常规制动。另一个系统操作前轴上的常规制动。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11194",
+      "question": "水和压缩机油通常存在于空气制动系统中的压缩空气中。水和压缩机油：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "对系统的正常运行是必需的。"
+        },
+        {
+          "letter": "B",
+          "text": "应占罐容量的约10%。"
+        },
+        {
+          "letter": "C",
+          "text": "应定期清除。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "应定期清除。",
+      "explanation": "如果水和压缩机油在空气制动系统中积累，系统可能会损坏。充气罐配备排水管，以便清除这些积累物。手动控制的排水管应在每天驾驶结束时操作。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11195",
+      "question": "基础制动器用于：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅在车辆的前轮上。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在车辆的后轮上。"
+        },
+        {
+          "letter": "C",
+          "text": "在车辆的每个车轮上。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在车辆的每个车轮上。",
+      "explanation": "基础制动器用于CMV的每个车轮上。最常见的基础制动器类型是s-凸轮鼓式制动器。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8631",
+      "question": "2024年3月1日或之后制造的配备空气制动的卡车牵引车必须配备：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "防抱死制动系统（ABS）。"
+        },
+        {
+          "letter": "B",
+          "text": "蓝牙。"
+        },
+        {
+          "letter": "C",
+          "text": "全球定位系统（GPS）。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "防抱死制动系统（ABS）。",
+      "explanation": "2024年3月1日或之后制造的配备空气制动的卡车牵引车，以及2024年3月1日或之后制造的其他配备空气制动的车辆必须配备防抱死制动装置。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11901",
+      "question": "____由制动踏板触发的电气开关激活。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前灯"
+        },
+        {
+          "letter": "B",
+          "text": "转向信号灯"
+        },
+        {
+          "letter": "C",
+          "text": "制动灯"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "制动灯",
+      "explanation": "在配备气动制动器的车辆中，当踩下制动踏板且空气压力移动电气开关时，制动灯被激活。通过空气压力的施加，开关将打开制动灯。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11906",
+      "question": "如果您在以55 mph的速度在干燥路面上制动，制动滞后会对您的总停止距离增加多少距离？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32英尺"
+        },
+        {
+          "letter": "B",
+          "text": "45 feet"
+        },
+        {
+          "letter": "C",
+          "text": "20英尺"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32英尺",
+      "explanation": "装有空气制动的车辆的总停止距离由四个因素组成：感知距离、反应距离、制动滞后距离和制动距离。在以55 mph的速度在干燥路面上制动时，制动滞后可以增加大约32英尺的车辆总停止距离。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8880",
+      "question": "在双气制动系统中：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每个系统都有单独的空气罐、软管和管路。"
+        },
+        {
+          "letter": "B",
+          "text": "系统共享空气罐，但每个系统都有自己单独的软管和管路。"
+        },
+        {
+          "letter": "C",
+          "text": "每个系统使用相同的管路和软管。"
+        },
+        {
+          "letter": "D",
+          "text": "一个系统是主制动系统，第二个系统在第一个系统失效时可以使用。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "每个系统都有单独的空气罐、软管和管路。",
+      "explanation": "双空气制动系统由两个独立的空气制动系统组成。这些系统共享一套制动控制装置，但每个系统都有自己的空气罐、软管和管路。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10409",
+      "question": "充气罐排水管：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "允许雨水进入气罐。"
+        },
+        {
+          "letter": "B",
+          "text": "用于从气罐排出水和油。"
+        },
+        {
+          "letter": "C",
+          "text": "永远不应打开。"
+        },
+        {
+          "letter": "D",
+          "text": "在驾驶过程中必须保持打开。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "用于从气罐排出水和油。",
+      "explanation": "空气制动系统中的压缩空气通常含有一定量的水分和压缩机油。如果在系统中积累，水分和油会损害制动器。手动操作的空气储罐排水阀必须每天打开以清除这些积累物。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8758",
+      "question": "使用制动器会产生热量。如果产生过多热量:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "制动器可能无法工作。"
+        },
+        {
+          "letter": "B",
+          "text": "制动器可能会比平常发出更多的吱吱声。"
+        },
+        {
+          "letter": "C",
+          "text": "制动器将不均匀地制动。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "制动器可能无法工作。",
+      "explanation": "制动器设计用于承受大量热量，但驾驶员不应仅依靠制动器来减速车辆。如果制动器过热，它们可能会衰退并失去减速车辆的能力，因此驾驶员还应依靠发动机制动效应。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11320",
+      "question": "某些空气制动系统向系统中引入酒精以：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "使制动器在不吱吱响的情况下工作。"
+        },
+        {
+          "letter": "B",
+          "text": "防止制动系统中的冰结成。"
+        },
+        {
+          "letter": "C",
+          "text": "防止人员呼吸来自系统的空气。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "防止制动系统中的冰结成。",
+      "explanation": "某些空气制动系统包含酒精蒸发器。蒸发器将酒精引入系统，以帮助在寒冷天气中防止制动系统中的冰结成。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11890",
+      "question": "驾驶时，____通常将弹簧制动器保持在原位。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "气压"
+        },
+        {
+          "letter": "B",
+          "text": "电力"
+        },
+        {
+          "letter": "C",
+          "text": "汽油"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "气压",
+      "explanation": "行驶时，弹簧制动通常由气压固定。如果气压下降到足够低，弹簧将激活制动。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11897",
+      "question": "在寒冷天气中，请务必检查您的车辆的酒精蒸发器：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每三小时。"
+        },
+        {
+          "letter": "B",
+          "text": "每天。"
+        },
+        {
+          "letter": "C",
+          "text": "每隔一周。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "每天。",
+      "explanation": "酒精蒸发器可以帮助防止冰在气制动系统中堆积。在寒冷天气中，应该每天检查和重新填充蒸发器。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9384",
+      "question": "停车制动器如何释放？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "通过点击制动踏板三次"
+        },
+        {
+          "letter": "B",
+          "text": "通过向内推动制动控制旋钮"
+        },
+        {
+          "letter": "C",
+          "text": "通过启动车辆"
+        },
+        {
+          "letter": "D",
+          "text": "通过轻点加速踏板两次"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "通过向内推动制动控制旋钮",
+      "explanation": "在配有气动制动的车辆中,驻车制动由一个旋钮控制。拉出旋钮以应用制动,推入以释放制动。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10914",
+      "question": "要确认拖车是否配有ABS，你可以：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在拖车下方查看来自制动器后部的车轮速度传感器。"
+        },
+        {
+          "letter": "B",
+          "text": "在引擎盖下查找ABS贴纸。"
+        },
+        {
+          "letter": "C",
+          "text": "查看轮胎。"
+        },
+        {
+          "letter": "D",
+          "text": "拆下轮胎并查看车轴上的ABS传感器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在拖车下方查看来自制动器后部的车轮速度传感器。",
+      "explanation": "如果你不确定拖车是否配备防抱死制动系统(ABS)，可以在车辆下方查看电子控制单元以及来自制动器后部的车轮速度传感器电线。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11891",
+      "question": "在配备双气制动系统的车辆中，一个系统的泄漏____ 第二个系统。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "将总是影响"
+        },
+        {
+          "letter": "B",
+          "text": "可能不影响"
+        },
+        {
+          "letter": "C",
+          "text": "由以下原因造成"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "可能不影响",
+      "explanation": "双气制动系统由两个独立的气制动系统组成。如果一个系统中发生气体泄漏，可能不会影响另一个系统。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11664",
+      "question": "前轮制动工作：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅在压实雪地上。"
+        },
+        {
+          "letter": "B",
+          "text": "在所有情况下。"
+        },
+        {
+          "letter": "C",
+          "text": "仅在道路干燥时。"
+        },
+        {
+          "letter": "D",
+          "text": "在大多数情况下。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在所有情况下。",
+      "explanation": "前轮制动在所有路面条件下都有效。即使在冰上，您也不太可能经历前轮滑行。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11666",
+      "question": "当您按下装有S凸轮制动器的车辆中的制动踏板时，空气压力会推出杆并移动：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "松弛调节器。"
+        },
+        {
+          "letter": "B",
+          "text": "车轴。"
+        },
+        {
+          "letter": "C",
+          "text": "制动鼓。"
+        },
+        {
+          "letter": "D",
+          "text": "酒精蒸发器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "松弛调节器。",
+      "explanation": "按下装有S凸轮制动器的车辆中的制动踏板时，空气会进入制动室。增加的空气压力将推出杆并移动松弛调节器，扭转制动凸轮轴。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8881",
+      "question": "在驾驶具有双空气制动系统的车辆之前，你必须等待空气压缩机在主系统和副系统中都达到最少 ____ psi。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 psi"
+        },
+        {
+          "letter": "B",
+          "text": "50 psi"
+        },
+        {
+          "letter": "C",
+          "text": "75 psi"
+        },
+        {
+          "letter": "D",
+          "text": "100 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "100 psi",
+      "explanation": "在驾驶具有双空气制动系统的车辆之前，你应该等待空气压缩机在主系统和副系统中都达到至少 100 psi。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11888",
+      "question": "在静态泄漏测试中，三层组合车辆的空气制动泄漏率在一分钟内应不超过____ psi。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 psi"
+        },
+        {
+          "letter": "B",
+          "text": "5 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "5 psi",
+      "explanation": "在对三层组合车辆的空气制动进行静态泄漏测试时，泄漏率应在一分钟内不超过5 psi。如果空气从制动系统泄漏的速度更快，则不应驾驶该车辆，因为可能需要进行维修。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "10308",
+      "question": "空气制动使用____来工作。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "压缩空气"
+        },
+        {
+          "letter": "B",
+          "text": "液态空气"
+        },
+        {
+          "letter": "C",
+          "text": "氮气"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "压缩空气",
+      "explanation": "空气制动通过使用压缩空气来运行。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8859",
+      "question": "以下哪个不是气制动系统的一部分？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "行车制动系统"
+        },
+        {
+          "letter": "B",
+          "text": "驻车制动系统"
+        },
+        {
+          "letter": "C",
+          "text": "应急制动系统"
+        },
+        {
+          "letter": "D",
+          "text": "轴制动系统"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "轴制动系统",
+      "explanation": "气制动系统由三个独立的制动系统组成：行车制动系统、驻车制动系统和应急制动系统。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11694",
+      "question": "在具有双停车控制阀的车辆中，一旦气压丧失且弹簧制动启动：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "您将无法移动车辆。"
+        },
+        {
+          "letter": "B",
+          "text": "可以使用独立的气罐在短时间内释放弹簧制动。"
+        },
+        {
+          "letter": "C",
+          "text": "您可以使用弹簧制动继续正常驾驶。"
+        },
+        {
+          "letter": "D",
+          "text": "气罐将自动充气到安全的气压水平。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "可以使用独立的气罐在短时间内释放弹簧制动。",
+      "explanation": "在具有双停车控制阀的车辆中，有一个独立的气罐可用于临时释放由于气压低而被激活的弹簧制动。按下适当的控制装置将暂时释放弹簧制动，使驾驶员能够在紧急情况下移动车辆。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11892",
+      "question": "____组成应急制动系统。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅限驻车制动系统的零件"
+        },
+        {
+          "letter": "B",
+          "text": "仅限行车制动系统的零件"
+        },
+        {
+          "letter": "C",
+          "text": "停车和服务制动系统的零件"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "停车和服务制动系统的零件",
+      "explanation": "在空气制动系统中，有三种不同的制动系统：服务制动系统、停车制动系统和应急制动系统。应急制动系统使用停车和服务制动系统的零件。"
+    }
+  ]
+}

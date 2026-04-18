@@ -1,0 +1,563 @@
+{
+  "state": "Arkansas",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #3",
+  "slug": "intermediate-practice-test-3",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1023",
+      "question": "The center of the road has one solid yellow line and one broken yellow line. If the broken line is next to your lane, what does it mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You cannot pass in this area."
+        },
+        {
+          "letter": "B",
+          "text": "You can pass other vehicles on the left if no traffic is coming toward you."
+        },
+        {
+          "letter": "C",
+          "text": "You can only turn right in this area."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You can pass other vehicles on the left if no traffic is coming toward you.",
+      "explanation": "A broken yellow line next to your lane means you can pass. A solid yellow line on the other side protects oncoming traffic."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "143",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/merging_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One lane ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Merging traffic ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Lane ends ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Merging traffic ahead.",
+      "explanation": "This sign warns you that traffic will be merging into your lane ahead."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "61",
+      "question": "Can you legally block an intersection?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, if you entered on a green light."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, during rush hour."
+        },
+        {
+          "letter": "C",
+          "text": "No, never."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "No, never.",
+      "explanation": "Never block an intersection. Only enter if you can get all the way across before the light turns red. You can be ticketed for blocking an intersection."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1984",
+      "question": "When changing lanes, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use only the rearview mirror."
+        },
+        {
+          "letter": "B",
+          "text": "Look over your shoulder in the direction you want to go."
+        },
+        {
+          "letter": "C",
+          "text": "Use only the left side mirror."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Look over your shoulder in the direction you want to go.",
+      "explanation": "Always look over your shoulder to check your blind spot before changing lanes. Check several times and watch both the traffic ahead and beside you."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1978",
+      "question": "Why should you use headlights on rainy, snowy, or foggy days?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To keep your engine warm."
+        },
+        {
+          "letter": "B",
+          "text": "So other drivers can see your vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "To warn others about bad weather."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "So other drivers can see your vehicle.",
+      "explanation": "Use headlights in bad weather so other drivers can see you. If you need wipers, you must also turn on your low beam headlights."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1909",
+      "question": "What must you do at an intersection with a flashing red traffic light?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop completely, yield to traffic and pedestrians, then go."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down and proceed with caution."
+        },
+        {
+          "letter": "C",
+          "text": "Stop and stay stopped until the light is green."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stop completely, yield to traffic and pedestrians, then go.",
+      "explanation": "A flashing red light works like a stop sign. Come to a complete stop, check for traffic and pedestrians, and go when it is safe."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1040",
+      "question": "What does a yellow left turn arrow mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Get ready to yield to oncoming traffic."
+        },
+        {
+          "letter": "B",
+          "text": "The protected turn is ending."
+        },
+        {
+          "letter": "C",
+          "text": "Both A and B."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Both A and B.",
+      "explanation": "A yellow left turn arrow means the protected turn is ending and you must prepare to yield to oncoming traffic."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1046",
+      "question": "How should you enter an interstate highway?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop, check for cars, then enter when safe."
+        },
+        {
+          "letter": "B",
+          "text": "Check for cars and slow down to 25 mph before entering."
+        },
+        {
+          "letter": "C",
+          "text": "Check for cars, speed up to match traffic, and merge when safe."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Check for cars, speed up to match traffic, and merge when safe.",
+      "explanation": "Use the acceleration lane to speed up and smoothly merge with fast traffic. Do not stop before entering the interstate."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1167",
+      "question": "You have a green light and pedestrians are in the intersection. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Let pedestrians cross first."
+        },
+        {
+          "letter": "B",
+          "text": "You have the right to cross first."
+        },
+        {
+          "letter": "C",
+          "text": "Pedestrians must wait for you."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Let pedestrians cross first.",
+      "explanation": "Always yield to pedestrians, even when you have a green light. You must also yield to traffic already in the intersection."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1969",
+      "question": "When do large trucks usually lose speed?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Going up long or steep hills."
+        },
+        {
+          "letter": "B",
+          "text": "Going through long, gradual curves."
+        },
+        {
+          "letter": "C",
+          "text": "Going down long, gradual hills."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Going up long or steep hills.",
+      "explanation": "Large trucks need more time to speed up than smaller cars. They lose speed on hills. Leave extra space behind trucks, especially on inclines."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "196",
+      "question": "An oncoming car has its high beams on and you cannot see the road. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Look toward the left edge of your lane."
+        },
+        {
+          "letter": "B",
+          "text": "Look toward the right edge of your lane."
+        },
+        {
+          "letter": "C",
+          "text": "Look straight ahead in your lane."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Look toward the right edge of your lane.",
+      "explanation": "Do not look directly at bright headlights. Instead, look toward the right edge of your lane and watch the other car from the corner of your eye."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "856",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/sharp_turn_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sharp right turn ahead."
+        },
+        {
+          "letter": "B",
+          "text": "A road joins from the right."
+        },
+        {
+          "letter": "C",
+          "text": "The road turns sharply right then sharply left."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The road turns sharply right then sharply left.",
+      "explanation": "This yellow warning sign tells you the road will curve sharply right and then sharply left ahead."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "139",
+      "question": "You should not enter an intersection if you will block it when the light turns red. When does this rule apply?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always."
+        },
+        {
+          "letter": "B",
+          "text": "Unless you entered on yellow."
+        },
+        {
+          "letter": "C",
+          "text": "Unless you entered on green."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Always.",
+      "explanation": "Never enter an intersection if you will block it when the light turns red. Only enter if you can get all the way across. You can be ticketed for blocking an intersection."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "118",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Check for vehicles only in the direction you plan to go, then proceed."
+        },
+        {
+          "letter": "B",
+          "text": "Let all vehicles that arrive before or after you go first."
+        },
+        {
+          "letter": "C",
+          "text": "Check for traffic in all directions before proceeding."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Check for traffic in all directions before proceeding.",
+      "explanation": "At a stop sign, you must come to a full stop. Check for traffic in all directions before you proceed."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1355",
+      "question": "You are approaching an intersection with a steady yellow traffic light. If you have not already entered the intersection, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Speed up to beat the red light."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce your speed and proceed carefully through the intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Come to a safe stop."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Come to a safe stop.",
+      "explanation": "When a steady yellow light appears, prepare to stop. If you are already in the intersection, clear it as quickly as possible."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1308",
+      "question": "When changing lanes, you can check your blind spot by:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Using the inside rearview mirror."
+        },
+        {
+          "letter": "B",
+          "text": "Turning your head and looking over your shoulder."
+        },
+        {
+          "letter": "C",
+          "text": "Using your side mirror."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Turning your head and looking over your shoulder.",
+      "explanation": "Mirrors cannot show all areas around your vehicle. Before changing lanes, look over your shoulder to check your blind spot and make sure the lane is clear."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1983",
+      "question": "When backing up:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Look through the rear window."
+        },
+        {
+          "letter": "B",
+          "text": "Press hard on the gas pedal."
+        },
+        {
+          "letter": "C",
+          "text": "Rely only on your rearview mirror."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Look through the rear window.",
+      "explanation": "When backing up, place your right arm on the back of the passenger seat and look directly through the rear window. Do not rely on mirrors alone. Back up slowly."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1781",
+      "question": "When driving in work zones, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increase your speed to get through the zone as quickly as possible."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce your speed and be prepared to stop suddenly."
+        },
+        {
+          "letter": "C",
+          "text": "Maintain your normal speed the whole way through the zone."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Reduce your speed and be prepared to stop suddenly.",
+      "explanation": "In a work zone, slow down and be ready to stop. Follow posted speed limits and watch for workers and equipment."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1852",
+      "question": "If you see pedestrians in an upcoming crosswalk, what should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continue ahead. You have the right-of-way."
+        },
+        {
+          "letter": "B",
+          "text": "Wait for the pedestrians to cross the street."
+        },
+        {
+          "letter": "C",
+          "text": "Pull to the right and go around the pedestrians."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Wait for the pedestrians to cross the street.",
+      "explanation": "You must give the right-of-way to pedestrians in a crosswalk. Wait until the crosswalk is clear before you proceed."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "42",
+      "question": "If you see orange construction signs and cones on a freeway, you must:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow down because the lane ends ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Be prepared for workers and equipment ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Change lanes and maintain your current speed."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Be prepared for workers and equipment ahead.",
+      "explanation": "In a work zone, signs warn you of workers, slow-moving equipment, and closed lanes. Reduce your speed and be ready to slow down or stop."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "38",
+      "question": "Collisions are more likely to happen when:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All vehicles are traveling at about the same speed."
+        },
+        {
+          "letter": "B",
+          "text": "One lane of traffic is traveling faster than the other lanes."
+        },
+        {
+          "letter": "C",
+          "text": "One vehicle is traveling faster or slower than the flow of traffic."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "One vehicle is traveling faster or slower than the flow of traffic.",
+      "explanation": "Collisions happen more often when one vehicle moves faster or slower than other vehicles. Speeding increases collision risk. Driving too slowly can cause rear-end collisions or make other drivers swerve to avoid you."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "762",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/illinois-parking_for_persons_with_disabilities.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reserved parking for persons with disabilities."
+        },
+        {
+          "letter": "B",
+          "text": "Slow-moving vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "No U-turn."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Reserved parking for persons with disabilities.",
+      "explanation": "This sign shows parking spaces reserved for vehicles with disability license plates or placards."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "187",
+      "question": "Which statement is true about changing lanes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You only need to turn and look over your right shoulder for all lane changes."
+        },
+        {
+          "letter": "B",
+          "text": "Look over your right shoulder for a right lane change and your left shoulder for a left lane change."
+        },
+        {
+          "letter": "C",
+          "text": "Vehicles with two outside mirrors do not have blind spots."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Look over your right shoulder for a right lane change and your left shoulder for a left lane change.",
+      "explanation": "Before changing lanes, signal and check your mirrors. Look over your shoulder to check your blind spot and make sure no vehicles, motorcycles, or bicycles are in the next lane."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1814",
+      "question": "You should not use your horn:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When visibility ahead is limited."
+        },
+        {
+          "letter": "B",
+          "text": "If you might hit another vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "Near blind pedestrians."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Near blind pedestrians.",
+      "explanation": "Using your horn near a blind pedestrian may be dangerous. Yield to the pedestrian and proceed when it is safe."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "208",
+      "question": "Which statement is true about driving and taking medications?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Most cold medications can make a person drowsy."
+        },
+        {
+          "letter": "B",
+          "text": "Over-the-counter medications cannot impair driving ability if taken as directed."
+        },
+        {
+          "letter": "C",
+          "text": "Medications are always safe to take while driving if prescribed by a doctor."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Most cold medications can make a person drowsy.",
+      "explanation": "All medications—prescription or over-the-counter—can be dangerous and affect your driving. Cold and allergy medicines can make you drowsy. Know how your medications affect your ability to drive."
+    }
+  ]
+}

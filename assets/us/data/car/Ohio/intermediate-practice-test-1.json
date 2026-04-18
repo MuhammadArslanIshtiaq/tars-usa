@@ -1,0 +1,806 @@
+{
+  "state": "Ohio",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #1",
+  "slug": "intermediate-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "220",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No U-turn."
+        },
+        {
+          "letter": "B",
+          "text": "No left turn."
+        },
+        {
+          "letter": "C",
+          "text": "No right turn."
+        },
+        {
+          "letter": "D",
+          "text": "No turning."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "No right turn.",
+      "explanation": "This sign means you cannot turn right. Do not turn right at this location."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "474",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/school_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedestrians only."
+        },
+        {
+          "letter": "B",
+          "text": "Intersection ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Hiking trails ahead."
+        },
+        {
+          "letter": "D",
+          "text": "School crossing ahead."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "School crossing ahead.",
+      "explanation": "This sign warns you that a school crossing is coming up."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "943",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/merging_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Merging traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Multiple turns."
+        },
+        {
+          "letter": "C",
+          "text": "Lane shifting."
+        },
+        {
+          "letter": "D",
+          "text": "Do not block intersection."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Merging traffic.",
+      "explanation": "This yellow warning sign tells you that traffic is merging from the right. Get ready to let other cars merge safely."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "350",
+      "question": "To prepare for anything coming up on the road ahead, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continually scan the entire road and all roadsides."
+        },
+        {
+          "letter": "B",
+          "text": "Stare straight ahead at all times."
+        },
+        {
+          "letter": "C",
+          "text": "Drive with your left foot resting lightly on the brake pedal."
+        },
+        {
+          "letter": "D",
+          "text": "Maintain focus toward the middle of the road."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Continually scan the entire road and all roadsides.",
+      "explanation": "The best way to handle dangerous situations is to spot problems before you reach them. Look far ahead and check the sides of the road. Do not just stare straight ahead at one spot."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "2235",
+      "question": "If worried, nervous, angry, or crying, a driver:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Will drive no differently than they would if they were thinking more clearly."
+        },
+        {
+          "letter": "B",
+          "text": "Can drive faster because they are more in touch with their senses."
+        },
+        {
+          "letter": "C",
+          "text": "Should take the time to focus on driving before starting the engine."
+        },
+        {
+          "letter": "D",
+          "text": "Should call a friend to vent while driving."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Should take the time to focus on driving before starting the engine.",
+      "explanation": "Strong emotions can distract you from driving. Calm down and focus on driving before you start the engine."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "585",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/pedestrian_crossing(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "School crossing."
+        },
+        {
+          "letter": "B",
+          "text": "Pedestrian crossing."
+        },
+        {
+          "letter": "C",
+          "text": "Jogging trail."
+        },
+        {
+          "letter": "D",
+          "text": "Busy sidewalk."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pedestrian crossing.",
+      "explanation": "This sign warns you that people may be crossing the road. Watch for pedestrians and be ready to stop."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "2068",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/montana-right_and_left_curves.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The highway ahead curves only to the right."
+        },
+        {
+          "letter": "B",
+          "text": "The highway ahead turns sharply to the right."
+        },
+        {
+          "letter": "C",
+          "text": "The highway ahead curves to the right and then to the left."
+        },
+        {
+          "letter": "D",
+          "text": "The highway ahead curves to the left and then to the right."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The highway ahead curves to the right and then to the left.",
+      "explanation": "This yellow warning sign tells you the road will curve right first, then curve left."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1682",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/divided_highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One-way traffic."
+        },
+        {
+          "letter": "B",
+          "text": "Divided highway ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Two-way traffic."
+        },
+        {
+          "letter": "D",
+          "text": "Keep left."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Divided highway ahead.",
+      "explanation": "This yellow warning sign tells you that a divided highway is coming up. A divided highway has a barrier separating traffic in each direction."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "2289",
+      "question": "If you are driving in another driver's blind spot, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Move forward or drop back so the other driver can see you."
+        },
+        {
+          "letter": "B",
+          "text": "Keep a steady pace."
+        },
+        {
+          "letter": "C",
+          "text": "Stay in the driver's blind spot."
+        },
+        {
+          "letter": "D",
+          "text": "Honk to let them know you are there."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Move forward or drop back so the other driver can see you.",
+      "explanation": "Do not stay in another driver's blind spot. Move ahead or fall back so the other driver can see you."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "803",
+      "question": "If you are approaching a school bus that has stopped to drop off children on a four-lane highway, you must come to a complete stop only if:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You are traveling in the same direction as the bus."
+        },
+        {
+          "letter": "B",
+          "text": "You can see children trying to cross the street."
+        },
+        {
+          "letter": "C",
+          "text": "You are driving on the opposite side of the highway."
+        },
+        {
+          "letter": "D",
+          "text": "The bus driver waves you ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "You are traveling in the same direction as the bus.",
+      "explanation": "On a four-lane highway, only drivers going the same direction as the bus must stop. Drivers on the opposite side can continue. Always be careful around children."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "274",
+      "question": "If you are driving near a motorcycle, you must:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Give the motorcycle its own full lane."
+        },
+        {
+          "letter": "B",
+          "text": "Drive on the shoulder next to the motorcycle."
+        },
+        {
+          "letter": "C",
+          "text": "Let the motorcycle use only half a lane."
+        },
+        {
+          "letter": "D",
+          "text": "Pass the motorcycle while sharing the same lane."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Give the motorcycle its own full lane.",
+      "explanation": "A motorcycle is a full vehicle with the same rights as any other vehicle. Give motorcycles a full lane width. Even if there seems to be room to share a lane, motorcycles need space to turn and stay safe."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "473",
+      "question": "You want to back out of your driveway. You see children playing nearby. Before you start to move your car, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rev your engine to warn the children you are moving."
+        },
+        {
+          "letter": "B",
+          "text": "Honk your horn so the children hear you."
+        },
+        {
+          "letter": "C",
+          "text": "Walk to the back of the car to check that the way is clear."
+        },
+        {
+          "letter": "D",
+          "text": "Tell the children to stay away from the driveway."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Walk to the back of the car to check that the way is clear.",
+      "explanation": "When backing up, look through your back window for people and objects. Do not rely only on your mirrors, especially with children nearby. Always get out and check behind your car before backing out of a driveway."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "586",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/florida-exit_speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The maximum safe speed for a residential area."
+        },
+        {
+          "letter": "B",
+          "text": "The maximum safe speed for an expressway exit."
+        },
+        {
+          "letter": "C",
+          "text": "The maximum safe speed for an expressway entrance."
+        },
+        {
+          "letter": "D",
+          "text": "The maximum safe speed for a work zone."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The maximum safe speed for an expressway exit.",
+      "explanation": "This sign shows the maximum safe speed for exiting a highway. In this example, the safe exit speed is 30 mph."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "949",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/indiana-no_parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No parking."
+        },
+        {
+          "letter": "B",
+          "text": "Divided highway ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Left turn signal."
+        },
+        {
+          "letter": "D",
+          "text": "Yield."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No parking.",
+      "explanation": "Regulation signs tell drivers what they must do. This sign means you cannot park in this location."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "2875",
+      "question": "Where is parking prohibited?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In a tunnel."
+        },
+        {
+          "letter": "B",
+          "text": "On a highway bridge."
+        },
+        {
+          "letter": "C",
+          "text": "On a crosswalk."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "Do not park in a tunnel, on a highway bridge, or on a crosswalk. Park only where it is legal and where other drivers can see your vehicle clearly."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1499",
+      "question": "If two vehicles arrive to a four-way stop at the same time:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The vehicle on the left must yield to the vehicle on the right."
+        },
+        {
+          "letter": "B",
+          "text": "The vehicle on the right must yield to the vehicle on the left."
+        },
+        {
+          "letter": "C",
+          "text": "Drivers must use hand signals to communicate with each other."
+        },
+        {
+          "letter": "D",
+          "text": "One driver should proceed without stopping."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The vehicle on the left must yield to the vehicle on the right.",
+      "explanation": "At a four-way stop, vehicles go in the order they arrive. If two vehicles arrive at the same time, the vehicle on the left must yield to the vehicle on the right."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1180",
+      "question": "You are driving in the right lane of a multilane highway and want to move into the left lane. You should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Check your rearview mirror for traffic behind you."
+        },
+        {
+          "letter": "B",
+          "text": "Look over your left shoulder for vehicles in your blind spot."
+        },
+        {
+          "letter": "C",
+          "text": "Check your side mirror and turn on your turn signal."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "Before changing lanes, check your mirrors and look over your shoulder to make sure no vehicles are in your path. Always use your turn signal when changing lanes."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "977",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/winding_road.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Winding road."
+        },
+        {
+          "letter": "B",
+          "text": "No parking."
+        },
+        {
+          "letter": "C",
+          "text": "Right lane closed."
+        },
+        {
+          "letter": "D",
+          "text": "Multiple turns."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Winding road.",
+      "explanation": "Warning signs alert drivers to upcoming hazards. This yellow sign warns you that the road curves ahead. Slow down and be ready for the turns."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "239",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/pennsylvania-divided_highway1.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A divided highway ends."
+        },
+        {
+          "letter": "B",
+          "text": "A one-way street begins."
+        },
+        {
+          "letter": "C",
+          "text": "A one-way street ends."
+        },
+        {
+          "letter": "D",
+          "text": "A divided highway begins."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "A divided highway begins.",
+      "explanation": "This sign tells you the road ahead will be divided. Stay to the right of the divider or median."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1179",
+      "question": "What does a single dashed yellow line separating traffic mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You may pass if it is safe to do so."
+        },
+        {
+          "letter": "B",
+          "text": "Both lanes travel in the same direction."
+        },
+        {
+          "letter": "C",
+          "text": "You may not pass."
+        },
+        {
+          "letter": "D",
+          "text": "You may pass, even if it is dangerous."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "You may pass if it is safe to do so.",
+      "explanation": "A single dashed yellow line means traffic moves in both directions. You can pass if it is safe and you will not interfere with oncoming traffic."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1686",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/pedestrian_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "School ahead."
+        },
+        {
+          "letter": "B",
+          "text": "School crossing."
+        },
+        {
+          "letter": "C",
+          "text": "Pedestrian crossing."
+        },
+        {
+          "letter": "D",
+          "text": "Construction workers on or near the roadway."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pedestrian crossing.",
+      "explanation": "Warning signs are diamond-shaped with black markings on a yellow background. They alert drivers to hazards ahead. This sign warns that pedestrians may be crossing the road."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "488",
+      "question": "When turning left onto a one-way street, which lane should you turn into?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The right lane."
+        },
+        {
+          "letter": "B",
+          "text": "The lane closest to your previous lane."
+        },
+        {
+          "letter": "C",
+          "text": "Either lane."
+        },
+        {
+          "letter": "D",
+          "text": "Neither lane."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The lane closest to your previous lane.",
+      "explanation": "Always turn into the lane that is closest to the lane you came from."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "529",
+      "question": "What should you do on slippery roads?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow down."
+        },
+        {
+          "letter": "B",
+          "text": "Drive more quickly."
+        },
+        {
+          "letter": "C",
+          "text": "Drive the speed limit, with caution."
+        },
+        {
+          "letter": "D",
+          "text": "Not drive more quickly than 20 mph."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Slow down.",
+      "explanation": "Slow down when you see rain, snow, or sleet. These conditions make roads slippery. You may need to drive slower than the posted speed limit for safety."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1354",
+      "question": "You approach a railroad crossing with a crossbuck sign but no gates or flashing lights. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Approach with extreme caution and cross only when you know no train is coming."
+        },
+        {
+          "letter": "B",
+          "text": "Turn your radio down to listen for a train."
+        },
+        {
+          "letter": "C",
+          "text": "Only cross when a flagger signals you to proceed."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "All of the above.",
+      "explanation": "Always approach railroad crossings with extreme caution. Cross only when you are sure no train is coming from either direction. Lower your radio to listen for trains. Follow any flagger's instructions if present."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "2069",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/montana-narrow_bridge_2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trucks are permitted on an upcoming narrow bridge."
+        },
+        {
+          "letter": "B",
+          "text": "The bridge ahead is open to one-way traffic only."
+        },
+        {
+          "letter": "C",
+          "text": "The bridge ahead is wide enough for only one car at a time."
+        },
+        {
+          "letter": "D",
+          "text": "The bridge ahead may be too narrow to meet or pass a truck."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "The bridge ahead may be too narrow to meet or pass a truck.",
+      "explanation": "Warning signs are yellow with black markings. This sign warns you that the bridge ahead may be too narrow to safely pass or meet a truck. Drive carefully."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "601",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/divided_highway_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep right."
+        },
+        {
+          "letter": "B",
+          "text": "Keep left."
+        },
+        {
+          "letter": "C",
+          "text": "Pass with caution."
+        },
+        {
+          "letter": "D",
+          "text": "No passing."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Keep right.",
+      "explanation": "This sign means a divided highway is ahead. The road splits into two separate one-way roads with a divider between them. Stay in the right lane."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "499",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/school_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always stop, whether there's a stop sign or not."
+        },
+        {
+          "letter": "B",
+          "text": "Watch for children and be ready to stop."
+        },
+        {
+          "letter": "C",
+          "text": "Always sound your horn when you see children."
+        },
+        {
+          "letter": "D",
+          "text": "Be ready to help children crossing the street."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Watch for children and be ready to stop.",
+      "explanation": "Always be prepared to stop for pedestrians in crosswalks. Be alert when driving through intersections or turning, especially near schools."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "412",
+      "question": "What does this hand signal mean?",
+      "image": "/images/signs/new-york-hand_signal_up.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn left."
+        },
+        {
+          "letter": "B",
+          "text": "Turn right."
+        },
+        {
+          "letter": "C",
+          "text": "Come to a stop."
+        },
+        {
+          "letter": "D",
+          "text": "Go straight ahead."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Turn right.",
+      "explanation": "When a driver's left arm points upward, it means they are turning right. Adjust your driving if you are following this driver."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "979",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yield."
+        },
+        {
+          "letter": "B",
+          "text": "Crossroad ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Keep right."
+        },
+        {
+          "letter": "D",
+          "text": "Yield ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Yield.",
+      "explanation": "This three-sided sign tells you to slow down at the intersection and be ready to stop. Yield to other drivers and pedestrians. You may go when it is safe."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "948",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/no_left_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No left turn."
+        },
+        {
+          "letter": "B",
+          "text": "Flagger ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Two-way left turn."
+        },
+        {
+          "letter": "D",
+          "text": "Turn right or go through."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No left turn.",
+      "explanation": "This sign tells you that left turns are not allowed at this location. You must follow this rule."
+    }
+  ]
+}

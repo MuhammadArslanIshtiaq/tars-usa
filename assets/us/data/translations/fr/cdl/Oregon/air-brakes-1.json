@@ -1,0 +1,604 @@
+{
+  "state": "Oregon",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/oregon/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8869",
+      "question": "Quelle est la couleur du voyant d'avertissement de basse pression d'air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vert"
+        },
+        {
+          "letter": "B",
+          "text": "Orange"
+        },
+        {
+          "letter": "C",
+          "text": "Rouge"
+        },
+        {
+          "letter": "D",
+          "text": "Violet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Rouge",
+      "explanation": "Un signal d'avertissement de basse pression d'air est requis dans les véhicules avec freins pneumatiques. Le voyant d'avertissement est généralement rouge et peut être accompagné d'un buzzer."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11196",
+      "question": "Si le voyant ABS s'allume pendant que vous conduisez, cela signifie que l'ABS :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne peut pas fonctionner en raison des conditions météorologiques."
+        },
+        {
+          "letter": "B",
+          "text": "Vient d'être activé."
+        },
+        {
+          "letter": "C",
+          "text": "Ne fonctionne pas correctement."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ne fonctionne pas correctement.",
+      "explanation": "Les voyants de dysfonctionnement ABS indiquent que quelque chose dans le Système de freinage antiblocage ne fonctionne pas correctement."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8993",
+      "question": "Un système de freinage à air double:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dispose d'un seul système de freins pneumatiques, mais utilise deux ensembles de commandes."
+        },
+        {
+          "letter": "B",
+          "text": "Dispose d'un système de freins pneumatiques pour chaque côté du camion."
+        },
+        {
+          "letter": "C",
+          "text": "Dispose de deux freins pour chaque roue."
+        },
+        {
+          "letter": "D",
+          "text": "Dispose de deux systèmes de freins pneumatiques séparés, mais utilise un seul ensemble de commandes."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Dispose de deux systèmes de freins pneumatiques séparés, mais utilise un seul ensemble de commandes.",
+      "explanation": "Un système de freins pneumatiques double dispose de deux systèmes de freins pneumatiques séparés qui utilisent un seul ensemble de commandes de frein. Un système fonctionne généralement sur les freins réguliers du ou des essieux arrière. L'autre système fonctionne sur les freins réguliers de l'essieu avant."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11194",
+      "question": "De l'eau et de l'huile de compresseur se trouvent généralement dans l'air comprimé au sein d'un système de freinage pneumatique. L'eau et l'huile de compresseur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont nécessaires pour le fonctionnement approprié du système."
+        },
+        {
+          "letter": "B",
+          "text": "Devraient occuper environ 10 pour cent du réservoir."
+        },
+        {
+          "letter": "C",
+          "text": "Doivent être enlevées régulièrement."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Doivent être enlevées régulièrement.",
+      "explanation": "Si l'eau et l'huile de compresseur s'accumulent dans un système de freinage pneumatique, le système peut être endommagé. Les réservoirs de stockage d'air sont équipés de drains pour permettre l'élimination de cette accumulation. Les drains contrôlés manuellement doivent être actionnés à la fin de chaque jour de conduite."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11195",
+      "question": "Les freins de base sont utilisés :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniquement sur les roues avant d'un véhicule."
+        },
+        {
+          "letter": "B",
+          "text": "Uniquement sur les roues arrière d'un véhicule."
+        },
+        {
+          "letter": "C",
+          "text": "Sur chaque roue d'un véhicule."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sur chaque roue d'un véhicule.",
+      "explanation": "Les freins de base sont utilisés sur chaque roue d'un CMV. Le type de frein de base le plus courant est le frein à tambour à came en S."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8631",
+      "question": "Les tracteurs routiers avec freins pneumatiques fabriqués à partir du 1er mars 1997 doivent avoir :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un système de freinage anti-blocage (ABS)."
+        },
+        {
+          "letter": "B",
+          "text": "Bluetooth."
+        },
+        {
+          "letter": "C",
+          "text": "Un GPS."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un système de freinage anti-blocage (ABS).",
+      "explanation": "Les tracteurs routiers avec freins pneumatiques fabriqués à partir du 1er mars 1997, et les autres véhicules avec freins pneumatiques fabriqués à partir du 1er mars 1998, doivent être équipés de freins anti-blocage."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11901",
+      "question": "Les ____ sont activés par un interrupteur électrique déclenché par la pédale de frein.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phares"
+        },
+        {
+          "letter": "B",
+          "text": "Clignotants"
+        },
+        {
+          "letter": "C",
+          "text": "Feux de freinage"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Feux de freinage",
+      "explanation": "Dans un véhicule équipé de freins pneumatiques, les feux de freinage sont activés lorsque la pédale de frein est enfoncée et que la pression d'air actionne un interrupteur électrique. Avec l'application de la pression d'air, l'interrupteur activera ensuite les feux de freinage."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11906",
+      "question": "Si vous freinez sur une chaussée sèche en roulant à 55 mph, combien de distance le délai de freinage ajoutera-t-il à votre distance d'arrêt totale ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 feet"
+        },
+        {
+          "letter": "B",
+          "text": "45 feet"
+        },
+        {
+          "letter": "C",
+          "text": "20 feet"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32 feet",
+      "explanation": "La distance d'arrêt totale pour les véhicules équipés de freins pneumatiques est constituée de quatre facteurs : la distance de perception, la distance de réaction, la distance de délai de freinage et la distance de freinage. Lors du freinage à une vitesse de 55 mph sur chaussée sèche, le délai de freinage peut ajouter environ 32 feet à la distance d'arrêt totale du véhicule."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8880",
+      "question": "Dans un système de freinage à air double :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chaque système dispose de réservoirs d'air, de tuyaux et de conduites séparés."
+        },
+        {
+          "letter": "B",
+          "text": "Les systèmes partagent des réservoirs d'air, mais chacun a ses propres tuyaux et conduites séparés."
+        },
+        {
+          "letter": "C",
+          "text": "Chaque système utilise les mêmes conduites et tuyaux."
+        },
+        {
+          "letter": "D",
+          "text": "Un système est le système de freinage principal et un deuxième système est prêt à être utilisé si le premier échoue."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Chaque système dispose de réservoirs d'air, de tuyaux et de conduites séparés.",
+      "explanation": "Un système de freins à air double est composé de deux systèmes de freins à air séparés. Les systèmes partagent un seul ensemble de commandes de freins, mais chacun a ses propres réservoirs d'air, tuyaux et conduites."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10409",
+      "question": "Les drains du réservoir d'air :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permettre à l'eau de pluie d'entrer dans un réservoir d'air."
+        },
+        {
+          "letter": "B",
+          "text": "Sont utilisés pour drainer l'eau et l'huile d'un réservoir d'air."
+        },
+        {
+          "letter": "C",
+          "text": "Ne doivent jamais être ouverts."
+        },
+        {
+          "letter": "D",
+          "text": "Doivent rester ouverts pendant la conduite."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sont utilisés pour drainer l'eau et l'huile d'un réservoir d'air.",
+      "explanation": "L'air comprimé dans un système de freins à air contient généralement une certaine quantité d'eau et d'huile de compresseur. L'eau et l'huile peuvent endommager les freins si elles s'accumulent dans le système. Les purgeurs de réservoir d'air commandés manuellement doivent être ouverts quotidiennement pour éliminer cette accumulation."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8758",
+      "question": "L'utilisation des freins crée de la chaleur. Si trop de chaleur est produite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les freins peuvent ne pas fonctionner."
+        },
+        {
+          "letter": "B",
+          "text": "Les freins peuvent grincer plus que d'habitude."
+        },
+        {
+          "letter": "C",
+          "text": "Les freins freineron de manière inégale."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les freins peuvent ne pas fonctionner.",
+      "explanation": "Les freins sont conçus pour supporter beaucoup de chaleur, mais les conducteurs ne devraient pas compter uniquement sur les freins pour ralentir leur véhicule. Les freins peuvent s'affaiblir et perdre leur capacité à ralentir le véhicule s'ils deviennent trop chauds, les conducteurs doivent donc également compter sur l'effet de freinage du moteur."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11320",
+      "question": "Certains systèmes de frein à air introduisent de l'alcool dans le système pour:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faire fonctionner les freins sans grincer."
+        },
+        {
+          "letter": "B",
+          "text": "Empêcher la glace de se former dans le système de freinage."
+        },
+        {
+          "letter": "C",
+          "text": "Empêcher les gens de respirer l'air du système."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Empêcher la glace de se former dans le système de freinage.",
+      "explanation": "Certains systèmes de frein à air contiennent un évaporateur d'alcool. Un évaporateur introduit de l'alcool dans le système pour aider à inhiber la formation de glace par temps froid."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11890",
+      "question": "Pendant la conduite, ____ maintient généralement les freins de secours en place.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pression d'air"
+        },
+        {
+          "letter": "B",
+          "text": "L'électricité"
+        },
+        {
+          "letter": "C",
+          "text": "L'essence"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pression d'air",
+      "explanation": "Pendant la conduite, les ressorts-freins sont généralement maintenus en place par la pression d'air. Si la pression d'air devient suffisamment basse, les ressorts activeront les freins."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11897",
+      "question": "Par temps froid, assurez-vous de vérifier l'évaporateur d'alcool de votre véhicule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toutes les trois heures."
+        },
+        {
+          "letter": "B",
+          "text": "Chaque jour."
+        },
+        {
+          "letter": "C",
+          "text": "Toutes les deux semaines."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Chaque jour.",
+      "explanation": "Un évaporateur d'alcool peut aider à prévenir l'accumulation de glace dans un système de freinage à air. Par temps froid, l'évaporateur devrait être vérifié et rempli chaque jour."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9384",
+      "question": "Comment le frein de stationnement est-il relâché?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En appuyant sur la pédale de frein trois fois"
+        },
+        {
+          "letter": "B",
+          "text": "En poussant le bouton de commande de frein"
+        },
+        {
+          "letter": "C",
+          "text": "En démarrant le véhicule"
+        },
+        {
+          "letter": "D",
+          "text": "En tapant l'accélérateur deux fois"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "En poussant le bouton de commande de frein",
+      "explanation": "Dans les véhicules avec freins pneumatiques, le frein de stationnement est contrôlé par un bouton. Le bouton est tiré vers l'extérieur pour appliquer les freins et enfoncé pour les relâcher."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10914",
+      "question": "Pour confirmer qu'une remorque est équipée d'ABS, vous pouvez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cherchez sous la remorque les capteurs de vitesse des roues provenant de l'arrière des freins."
+        },
+        {
+          "letter": "B",
+          "text": "Cherchez une étiquette ABS sous le capot."
+        },
+        {
+          "letter": "C",
+          "text": "Examinez les pneus."
+        },
+        {
+          "letter": "D",
+          "text": "Retirez un pneu et cherchez le capteur ABS sur l'essieu."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cherchez sous la remorque les capteurs de vitesse des roues provenant de l'arrière des freins.",
+      "explanation": "Si vous n'êtes pas certain qu'une remorque est équipée d'un système de freinage antiblocage (ABS), cherchez sous le véhicule l'unité de commande électronique et les câbles de capteur de vitesse des roues provenant de l'arrière des freins."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11891",
+      "question": "Dans un véhicule avec freins à air comprimé doubles, une fuite dans un système ____ le deuxième système.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Affectera toujours"
+        },
+        {
+          "letter": "B",
+          "text": "Peut ne pas affecter"
+        },
+        {
+          "letter": "C",
+          "text": "Est causé par"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Peut ne pas affecter",
+      "explanation": "Un système de freinage à air comprimé double est composé de deux systèmes de freinage à air comprimé séparés. S'il y a une fuite d'air dans un système, cela peut ne pas affecter l'autre."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11664",
+      "question": "Le freinage de l'essieu avant fonctionne:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seulement sur la neige tassée."
+        },
+        {
+          "letter": "B",
+          "text": "Dans toutes les conditions."
+        },
+        {
+          "letter": "C",
+          "text": "Seulement si la route est sèche."
+        },
+        {
+          "letter": "D",
+          "text": "Dans la plupart des conditions."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dans toutes les conditions.",
+      "explanation": "Le freinage des roues avant est efficace dans toutes les conditions routières. Il est peu probable que vous rencontriez un dérapage des roues avant, même sur la glace."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11666",
+      "question": "Quand vous appuyez sur la pédale de frein dans un véhicule avec des freins à came en S, la pression de l'air pousse la tige et déplace le:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correcteur de jeu."
+        },
+        {
+          "letter": "B",
+          "text": "Essieu."
+        },
+        {
+          "letter": "C",
+          "text": "Tambour de frein."
+        },
+        {
+          "letter": "D",
+          "text": "Évaporateur d'alcool."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Correcteur de jeu.",
+      "explanation": "Quand on appuie sur la pédale de frein dans un véhicule avec des freins à came en S, l'air entre dans les chambres de frein. La pression d'air supplémentaire pousse les tiges et déplace les correcteurs de jeu, tordant les arbres de came de frein."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8881",
+      "question": "Avant de conduire un véhicule avec un système de freins à air double, vous devez attendre que le compresseur d'air construise un minimum de ____ dans les systèmes primaire et secondaire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 psi"
+        },
+        {
+          "letter": "B",
+          "text": "50 psi"
+        },
+        {
+          "letter": "C",
+          "text": "75 psi"
+        },
+        {
+          "letter": "D",
+          "text": "100 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "100 psi",
+      "explanation": "Avant de conduire un véhicule avec un système de freins à air double, vous devriez attendre que le compresseur d'air construise au moins 100 psi dans les systèmes primaire et secondaire."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11888",
+      "question": "Le taux de fuite pour un véhicule triple combiné avec freins pneumatiques ne devrait pas dépasser ____ en une minute lors d'un test de fuite statique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 psi"
+        },
+        {
+          "letter": "B",
+          "text": "5 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "5 psi",
+      "explanation": "Lors d'un test de fuite statique sur un véhicule triple combiné avec freins pneumatiques, le taux de fuite ne devrait pas dépasser 5 psi en une minute. Si l'air s'échappe du système de freinage pneumatique à un taux plus rapide, le véhicule ne devrait pas être conduit car quelque chose devra probablement être réparé."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "10308",
+      "question": "Les freins pneumatiques utilisent ____ pour fonctionner.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'air comprimé"
+        },
+        {
+          "letter": "B",
+          "text": "Air liquide"
+        },
+        {
+          "letter": "C",
+          "text": "Azote"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "L'air comprimé",
+      "explanation": "Les freins pneumatiques fonctionnent grâce à l'utilisation d'air comprimé."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8859",
+      "question": "Lequel des éléments suivants ne fait pas partie d'un système de freins à air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un système de freinage de service"
+        },
+        {
+          "letter": "B",
+          "text": "Un système de freinage de stationnement"
+        },
+        {
+          "letter": "C",
+          "text": "Un système de freinage d'urgence"
+        },
+        {
+          "letter": "D",
+          "text": "Un système de freinage d'essieu"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Un système de freinage d'essieu",
+      "explanation": "Les freins à air comprennent trois systèmes de freinage distincts: le système de freinage de service, le système de freinage de stationnement et le système de freinage d'urgence."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11694",
+      "question": "Dans un véhicule avec des soupapes de commande de stationnement double, une fois que la pression d'air est perdue et que les ressorts-freins s'activent:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous ne pourrez pas déplacer le véhicule."
+        },
+        {
+          "letter": "B",
+          "text": "Un réservoir d'air distinct peut être utilisé pour libérer les ressorts-freins pendant une courte période."
+        },
+        {
+          "letter": "C",
+          "text": "Vous pouvez utiliser les ressorts-freins pour continuer à conduire normalement."
+        },
+        {
+          "letter": "D",
+          "text": "Les réservoirs d'air se rempliront automatiquement à un niveau de pression d'air sûr."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Un réservoir d'air distinct peut être utilisé pour libérer les ressorts-freins pendant une courte période.",
+      "explanation": "Dans un véhicule avec des soupapes de commande de stationnement double, il existe un réservoir d'air distinct qui peut être utilisé pour libérer temporairement les ressorts-freins s'ils ont été activés en raison d'une basse pression d'air. Enfoncer la commande appropriée libérera les ressorts-freins pendant une courte période, permettant au conducteur de déplacer le véhicule en cas d'urgence."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11892",
+      "question": "____ composent le système de frein de secours.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniquement les pièces du système de frein de stationnement"
+        },
+        {
+          "letter": "B",
+          "text": "Uniquement les pièces du système de freinage de service"
+        },
+        {
+          "letter": "C",
+          "text": "Des éléments des systèmes de frein de stationnement et de service"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Des éléments des systèmes de frein de stationnement et de service",
+      "explanation": "Dans un système de freinage pneumatique, il existe trois systèmes de freinage différents : un système de frein de service, un système de frein de stationnement et un système de frein de secours. Le système de frein de secours utilise des éléments des deux systèmes de frein de stationnement et de service."
+    }
+  ]
+}

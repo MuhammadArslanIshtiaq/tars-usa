@@ -1,0 +1,699 @@
+{
+  "state": "Kansas",
+  "category": "car",
+  "quizName": "Signs Practice Test #2",
+  "slug": "signs-practice-test-2",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "847",
+      "question": "À un panneau de traversée d'école, vous devez :",
+      "image": "/images/signs/georgia-school_crosswalk.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toujours vous arrêter, qu'il y ait un panneau d'arrêt ou non."
+        },
+        {
+          "letter": "B",
+          "text": "Surveillez les enfants et soyez prêt à vous arrêter."
+        },
+        {
+          "letter": "C",
+          "text": "Toujours klaxonner lorsque vous voyez des enfants."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Surveillez les enfants et soyez prêt à vous arrêter.",
+      "explanation": "Les panneaux pentagonaux indiquent que vous vous approchez d'une zone scolaire et/ou d'une traversée d'école. Lorsque vous voyez ces panneaux, soyez vigilant et préparez-vous à vous arrêter."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "117",
+      "question": "Quand vous voyez ce panneau, vous:",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous approchez d'un passage à niveau et vous devez vous préparer à vous arrêter."
+        },
+        {
+          "letter": "B",
+          "text": "Vous vous arrêterez toujours au passage à niveau à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Vous devez vous arrêter et attendre un signal avant de traverser les voies ferrées."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous approchez d'un passage à niveau et vous devez vous préparer à vous arrêter.",
+      "explanation": "Ce panneau indique que vous approchez d'un passage à niveau. Vous devez regarder, écouter, ralentir et vous préparer à vous arrêter. Attendez que les trains passent avant de continuer."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "776",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/stop_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panneau d'arrêt à l'avance."
+        },
+        {
+          "letter": "B",
+          "text": "Route secondaire."
+        },
+        {
+          "letter": "C",
+          "text": "Avertissement de passage à niveau."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Panneau d'arrêt à l'avance.",
+      "explanation": "Ce panneau indique qu'un panneau d'arrêt est à l'avance."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "834",
+      "question": "Ce panneau est utilisé pour avertir les conducteurs que:",
+      "image": "/images/signs/georgia-reduction_of_lanes.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La voie de droite se termine et la circulation doit fusionner vers la gauche."
+        },
+        {
+          "letter": "B",
+          "text": "La route s'incurve à l'avance."
+        },
+        {
+          "letter": "C",
+          "text": "Il y a des intersections à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La voie de droite se termine et la circulation doit fusionner vers la gauche.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marquages noirs. Ils vous alertent sur les conditions qui sont immédiatement devant vous. Ce panneau avertit les conducteurs que le nombre de voies est réduit à l'avance et que la circulation doit fusionner vers la gauche."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "762",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/illinois-parking_for_persons_with_disabilities.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stationnement réservé aux personnes handicapées."
+        },
+        {
+          "letter": "B",
+          "text": "Véhicule à circulation lente."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de demi-tour."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Stationnement réservé aux personnes handicapées.",
+      "explanation": "Ce panneau indique les espaces de stationnement réservés aux véhicules affichant des plaques d'immatriculation pour personnes handicapées, des plaques d'immatriculation pour vétérans handicapés et/ou des insigne de stationnement pour personnes handicapées."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1036",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_left_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aucun virage à gauche ne peut être effectué ici."
+        },
+        {
+          "letter": "B",
+          "text": "Un virage à gauche ne peut être effectué qu'après un arrêt."
+        },
+        {
+          "letter": "C",
+          "text": "Tout le trafic doit tourner à droite à l'intersection suivante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Aucun virage à gauche ne peut être effectué ici.",
+      "explanation": "Les panneaux avec un cercle rouge et une ligne diagonale sur un symbole noir indiquent que l'action représentée par le symbole est interdite. Dans ce cas, le panneau indique que les virages à gauche sont interdits."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1136",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/speed_limit_55.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devez traverser l'intersection à la limite de vitesse affichée."
+        },
+        {
+          "letter": "B",
+          "text": "La limite de vitesse maximale dans des conditions idéales est 55 mph."
+        },
+        {
+          "letter": "C",
+          "text": "Vous ne devez pas rouler en dessous de la vitesse indiquée."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La limite de vitesse maximale dans des conditions idéales est 55 mph.",
+      "explanation": "Les panneaux de réglementation informent les usagers de la route des lois de la circulation qui doivent être respectées. Ce panneau particulier vous indique la limite de vitesse maximale pour cette section d'autoroute. Vous pouvez rouler plus lentement que la limite de vitesse affichée, selon les conditions routières, mais il est illégal de rouler plus vite que la limite de vitesse affichée."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1112",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/flagger_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Signaleur à l'avant."
+        },
+        {
+          "letter": "B",
+          "text": "Tournez à gauche à l'intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Dernier virage avant une route à péage."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Signaleur à l'avant.",
+      "explanation": "L'orange est la couleur standard pour l'activité de zone de travail. Si vous voyez des panneaux oranges, des cônes ou des barils en conduisant, restez vigilant et soyez préparé pour des conditions de conduite inattendues. Ce panneau alerte les conducteurs d'un signaleur à venir dont les directions doivent être obéies par tous les conducteurs."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1388",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/illinois-construction.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interdiction d'entrer."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêt à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Des travaux routiers ou d'entretien sont en cours."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Des travaux routiers ou d'entretien sont en cours.",
+      "explanation": "Les panneaux orange en forme de losange sont utilisés pour marquer les zones de construction, d'entretien, d'arpentage et de travaux d'utilité publique. Ces panneaux aident à diriger les conducteurs et les piétons en toute sécurité dans les zones dangereuses. Les amendes pour infractions au code de la route peuvent doubler dans les zones marquées par ces panneaux."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1137",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/road_work_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Attention aux piétons qui traversent votre chemin."
+        },
+        {
+          "letter": "B",
+          "text": "Zone d'interdiction de dépassement."
+        },
+        {
+          "letter": "C",
+          "text": "Zone de travaux à venir."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Zone de travaux à venir.",
+      "explanation": "Ce panneau d'avertissement orange avertit les conducteurs qu'une zone de travaux routiers approche. Lors de la traversée d'une zone de travail, restez vigilant face aux dispositifs temporaires de contrôle du trafic."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "884",
+      "question": "Que signifie ce panneau routier?",
+      "image": "/images/signs/merge.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soyez prêt à vous insérer dans le trafic entrant dans votre voie."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous toujours."
+        },
+        {
+          "letter": "C",
+          "text": "Autoroute divisée à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Soyez prêt à vous insérer dans le trafic entrant dans votre voie.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marquages noirs. Ce panneau avertit que le trafic entrant se fusionnera par la droite, de sorte que les conducteurs doivent se préparer à permettre au trafic entrant de fusionner en toute sécurité."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1134",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/maryland-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hôpital."
+        },
+        {
+          "letter": "B",
+          "text": "Intersection à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Passage à niveau."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Intersection à venir.",
+      "explanation": "Les panneaux d'avertissement informent les usagers de la route d'une situation qui pourrait ne pas être facilement apparente et sont généralement jaunes avec des marquages noirs. Ce panneau avertit les conducteurs d'une intersection imminente afin qu'ils puissent se préparer à un trafic potentiel ou se préparer à tourner."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "757",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cédez le droit de passage."
+        },
+        {
+          "letter": "B",
+          "text": "Zone d'interdiction de dépassement."
+        },
+        {
+          "letter": "C",
+          "text": "Réduction du nombre de voies."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cédez le droit de passage.",
+      "explanation": "Un panneau triangulaire rouge et blanc indique que vous devez céder la priorité."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1155",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rampe d'accès à l'autoroute."
+        },
+        {
+          "letter": "B",
+          "text": "La route s'élargit."
+        },
+        {
+          "letter": "C",
+          "text": "La voie de droite se termine."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La voie de droite se termine.",
+      "explanation": "Les panneaux d'avertissement avertissent les usagers de la route d'une situation qui pourrait ne pas être immédiatement apparente et sont généralement jaunes avec des marquages noirs. Ce panneau avertit les conducteurs que la voie de droite se termine et les invite à se préparer à un éventuel trafic de fusion."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "755",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/winding_road_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Route sinueuse à l'avant."
+        },
+        {
+          "letter": "B",
+          "text": "Interdiction d'entrer."
+        },
+        {
+          "letter": "C",
+          "text": "Passage pour piétons."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Route sinueuse à l'avant.",
+      "explanation": "Ce panneau avertit d'une route sinueuse à l'avance."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1821",
+      "question": "Un panneau en forme de pentagone est un :",
+      "image": "/images/signs/illinois-school_2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panneau d'arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Panneau de réglementation."
+        },
+        {
+          "letter": "C",
+          "text": "Panneau de zone scolaire ou de passage pour piétons à l'école."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Panneau de zone scolaire ou de passage pour piétons à l'école.",
+      "explanation": "Un panneau à cinq côtés est utilisé pour alerter les conducteurs d'une zone scolaire. Certains panneaux pentagonaux indiquent spécifiquement les passages pour piétons dans les zones scolaires où des enfants ou d'autres piétons peuvent être présents."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1894",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fusionner à droite."
+        },
+        {
+          "letter": "B",
+          "text": "La route divisée commence."
+        },
+        {
+          "letter": "C",
+          "text": "Fin de voie."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Fin de voie.",
+      "explanation": "Ce panneau indique que la voie de droite se termine à l'avant. Une manœuvre de fusion sera nécessaire pour les conducteurs dans cette voie."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1035",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de virage à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Virage à droite au feu rouge autorisé avec prudence."
+        },
+        {
+          "letter": "C",
+          "text": "Tout le trafic doit tourner à droite à l'intersection suivante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pas de virage à droite.",
+      "explanation": "Les panneaux avec un cercle rouge et une ligne diagonale sur un symbole noir indiquent que l'action représentée par le symbole est interdite. Dans ce cas, le panneau indique que les virages à droite sont interdits."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "200",
+      "question": "Ce panneau blanc signifie :",
+      "image": "/images/signs/california-slower_traffic_keep_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devriez ralentir et vous déplacer vers la voie de droite."
+        },
+        {
+          "letter": "B",
+          "text": "Restez dans la voie de droite si vous conduisez plus lentement que les autres véhicules."
+        },
+        {
+          "letter": "C",
+          "text": "Le trafic plus lent doit sortir à droite."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Restez dans la voie de droite si vous conduisez plus lentement que les autres véhicules.",
+      "explanation": "Un panneau blanc rectangulaire indique que vous devez respecter des règles importantes. Ce panneau signifie que les conducteurs devraient laisser la voie de gauche ouverte, si possible, pour le dépassement et pour le trafic plus rapide."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1106",
+      "question": "Un feu jaune clignotant à une intersection signifie que vous devriez :",
+      "image": "/images/signs/maryland-flashing_yellow_light.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ralentir et procéder avec prudence."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous aussi rapidement que possible."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous et ne procédez que lorsque l'intersection est dégagée."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ralentir et procéder avec prudence.",
+      "explanation": "Lorsque vous rencontrez un feu jaune clignotant à une intersection, vous devez ralentir et procéder avec prudence. Vous n'avez pas besoin de vous arrêter complètement lorsque vous approchez d'un feu jaune clignotant."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1172",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pente abrupte devant."
+        },
+        {
+          "letter": "B",
+          "text": "La route à venir sinueuse avec une série de virages ou de courbes."
+        },
+        {
+          "letter": "C",
+          "text": "Glissant quand mouillé."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Glissant quand mouillé.",
+      "explanation": "Les panneaux d'avertissement avertissent les usagers de la route d'une situation qui pourrait ne pas être immédiatement apparente et sont généralement jaunes avec des marquages noirs. Ce panneau avertit les conducteurs d'être prudents lors de la conduite dans des conditions humides car la chaussée deviendra glissante et plus difficile à naviguer en toute sécurité."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "828",
+      "question": "Ceci est la forme et la couleur d'un panneau ____.",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêt"
+        },
+        {
+          "letter": "B",
+          "text": "Sens interdit"
+        },
+        {
+          "letter": "C",
+          "text": "Céder le passage"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Céder le passage",
+      "explanation": "Les panneaux triangulaires orientés vers le bas signifient que les conducteurs doivent céder le passage. En s'approchant d'un panneau de cédez-le-passage, ralentissez à une vitesse raisonnable selon les conditions existantes et arrêtez-vous si nécessaire. Si vous devez vous arrêter, faites-le à une ligne d'arrêt marquée, si elle existe."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "1889",
+      "question": "Ce panneau est un :",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panneau de cédez le passage."
+        },
+        {
+          "letter": "B",
+          "text": "Panneau de passage d'école."
+        },
+        {
+          "letter": "C",
+          "text": "Panneau d'arrêt."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Panneau de cédez le passage.",
+      "explanation": "Un panneau triangulaire orienté vers le bas est toujours un panneau de cédez le passage. Les conducteurs doivent être prêts à ralentir ou à s'arrêter quand ils approchent d'un panneau de cédez le passage."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "772",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/illinois-signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Signal de circulation à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêt."
+        },
+        {
+          "letter": "C",
+          "text": "Cédez le droit de passage."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Signal de circulation à venir.",
+      "explanation": "Ce panneau avertit d'un feu de circulation qui s'approche."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "844",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/two_way_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circulation à quatre voies devant."
+        },
+        {
+          "letter": "B",
+          "text": "Autoroute divisée à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Circulation bidirectionnelle à proximité."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Circulation bidirectionnelle à proximité.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marques noires. Ils vous alertent sur les conditions qui se trouvent immédiatement devant vous. Ce panneau vous avertit que vous quittez une autoroute à sens unique séparé et que vous roulerez bientôt sur une autoroute à deux sens."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "855",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/bicycle_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traversée de cyclistes."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous seulement si d'autres voitures s'approchent."
+        },
+        {
+          "letter": "C",
+          "text": "Céder le droit de passage aux piétons."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Traversée de cyclistes.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marquages noirs. Ces panneaux avertissent les conducteurs des zones où les bicyclettes peuvent traverser."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "887",
+      "question": "Qu'indique ce panneau routier?",
+      "image": "/images/signs/school_zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Instructions pour les enfants"
+        },
+        {
+          "letter": "B",
+          "text": "Zone scolaire à l'horizon"
+        },
+        {
+          "letter": "C",
+          "text": "Zone de jeux à l'horizon"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Zone scolaire à l'horizon",
+      "explanation": "Les panneaux pentagonaux indiquent que vous êtes dans ou que vous approchez une zone scolaire et/ou un passage pour piétons près d'une école. Soyez conscient des enfants lorsque vous conduisez près d'une zone scolaire et respectez les limites de vitesse affichées."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "2109",
+      "question": "Le panneau indique :",
+      "image": "/images/signs/workers.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un détour."
+        },
+        {
+          "letter": "B",
+          "text": "Une zone de construction ou d'entretien à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Une zone de dépassement."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Une zone de construction ou d'entretien à venir.",
+      "explanation": "Les panneaux en forme de losange sont utilisés pour avertir les conducteurs des dangers à venir ou des conditions particulières. Les zones de construction sont généralement indiquées par des panneaux d'avertissement de couleur orange."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "1121",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interdiction d'entrer."
+        },
+        {
+          "letter": "B",
+          "text": "Rond-point à l'avant."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de demi-tours."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pas de demi-tours.",
+      "explanation": "Les panneaux de réglementation avisent les usagers de la route des lois de circulation qui doivent être respectées. Ce panneau indique aux conducteurs qu'il est interdit de faire un demi-tour."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1170",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/steep_hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intersection à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Trafic qui se fusionne."
+        },
+        {
+          "letter": "C",
+          "text": "Côte abrupte à venir."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Côte abrupte à venir.",
+      "explanation": "Les panneaux d'avertissement avisent les usagers de la route d'une situation qui pourrait ne pas être facilement apparente et sont généralement jaunes avec des marquages noirs. Ce panneau avertit les conducteurs d'une côte abrupte à venir. Les conducteurs devraient ajuster leur vitesse en conséquence pour éviter les collisions et les dommages aux freins."
+    }
+  ]
+}

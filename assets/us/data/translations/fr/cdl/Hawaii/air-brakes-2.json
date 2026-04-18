@@ -1,0 +1,560 @@
+{
+  "state": "Hawaii",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/hawaii/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8753",
+      "question": "Lequel des éléments suivants ne fait pas partie du système de freinage à air comprimé d'un véhicule?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manomètres d'air"
+        },
+        {
+          "letter": "B",
+          "text": "Dispositif d'avertissement de basse pression"
+        },
+        {
+          "letter": "C",
+          "text": "Filtre à air"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Filtre à air",
+      "explanation": "Les composants d'un système de freinage à air comprimé comprennent un compresseur d'air, un régulateur de compresseur d'air, des réservoirs de stockage d'air, des drains de réservoir d'air, un évaporateur d'alcool, une soupape de sécurité, une pédale de frein, des freins de base, des manomètres de pression d'alimentation, un manomètre de pression d'application, un signal d'avertissement de basse pression d'air, un commutateur de feu stop, une soupape de limitation de pression des freins avant (sur certains véhicules plus anciens), des ressorts-freins et des commandes de frein de stationnement."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11891",
+      "question": "Dans un véhicule avec freins à air comprimé doubles, une fuite dans un système ____ le deuxième système.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Affectera toujours"
+        },
+        {
+          "letter": "B",
+          "text": "Peut ne pas affecter"
+        },
+        {
+          "letter": "C",
+          "text": "Est causé par"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Peut ne pas affecter",
+      "explanation": "Un système de freinage à air comprimé double est composé de deux systèmes de freinage à air comprimé séparés. S'il y a une fuite d'air dans un système, cela peut ne pas affecter l'autre."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11323",
+      "question": "Les voyants indiquant que les freins antiblocage ne fonctionnent pas sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gris."
+        },
+        {
+          "letter": "B",
+          "text": "Bleu."
+        },
+        {
+          "letter": "C",
+          "text": "Jaune."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Jaune.",
+      "explanation": "Les véhicules équipés de systèmes de freinage antiblocage (ABS) ont des voyants de dysfonctionnement jaunes pour indiquer les problèmes du système de freinage."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8638",
+      "question": "Que devrait-il se passer avant que la pression d'air dans un réservoir de système de freinage pneumatique ne tombe en dessous de 55 psi ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le voyant d'avertissement devrait s'activer."
+        },
+        {
+          "letter": "B",
+          "text": "Le véhicule sera incapable de passer à une autre vitesse."
+        },
+        {
+          "letter": "C",
+          "text": "Les feux avant devraient clignoter."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le voyant d'avertissement devrait s'activer.",
+      "explanation": "Le signal d'avertissement de faible pression d'air doit s'activer avant que la pression d'alimentation en air ne tombe en dessous de 55 psi dans le réservoir d'air. Si le signal d'avertissement ne s'active pas lors du test pendant une inspection, le véhicule n'est pas sûr de circuler."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8763",
+      "question": "Le frein de stationnement d'un véhicule plus récent est appliqué par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Déplacer un levier vers la droite."
+        },
+        {
+          "letter": "B",
+          "text": "Pousser un bouton jaune en forme de losange."
+        },
+        {
+          "letter": "C",
+          "text": "Tirer un bouton jaune en forme de losange."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tirer un bouton jaune en forme de losange.",
+      "explanation": "Dans les véhicules plus récents équipés de freins pneumatiques, le frein de stationnement est contrôlé par un bouton jaune en forme de losange. Le conducteur doit tirer le bouton vers l'extérieur pour appliquer les freins de stationnement et le pousser vers l'intérieur pour les relâcher."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9463",
+      "question": "Ne pas vidanger les réservoirs d'air pourrait entraîner:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'eau s'accumule, gèle et cause une défaillance des freins."
+        },
+        {
+          "letter": "B",
+          "text": "Des freins trop mous."
+        },
+        {
+          "letter": "C",
+          "text": "Trop d'air s'accumule dans les réservoirs."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "L'eau s'accumule, gèle et cause une défaillance des freins.",
+      "explanation": "Dans un système de freinage à air comprimé, les réservoirs d'air doivent être vidangés périodiquement pour éliminer les accumulations d'eau et d'huile de compresseur. Si l'eau n'est pas enlevée, elle pourrait geler par temps froid et causer une défaillance des freins."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11902",
+      "question": "Le ____ entre un compresseur d'air et un réservoir empêche l'air de s'échapper si le compresseur d'air a une fuite.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tendeur de câble"
+        },
+        {
+          "letter": "B",
+          "text": "Clapet anti-retour"
+        },
+        {
+          "letter": "C",
+          "text": "Soupape de protection du tracteur"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Clapet anti-retour",
+      "explanation": "Un clapet anti-retour est requis entre un compresseur d'air et le premier réservoir principal. Ce clapet empêche l'air de s'échapper du système si le compresseur d'air développe une fuite."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8759",
+      "question": "Un manomètre de pression d'application affiche:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La quantité de pression d'air appliquée aux freins."
+        },
+        {
+          "letter": "B",
+          "text": "La quantité de pression d'air disponible."
+        },
+        {
+          "letter": "C",
+          "text": "La quantité de pression d'air requise pour arrêter un véhicule."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La quantité de pression d'air appliquée aux freins.",
+      "explanation": "Si un véhicule en est équipé, un manomètre de pression d'application affiche la quantité de pression d'air appliquée aux freins. Ce manomètre peut aider un conducteur à identifier si ses freins commencent à s'user."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8756",
+      "question": "Les drains du réservoir d'air :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne doivent pas être utilisés par temps froid."
+        },
+        {
+          "letter": "B",
+          "text": "Sont utiles pour éliminer l'eau et l'huile des réservoirs d'air."
+        },
+        {
+          "letter": "C",
+          "text": "Sont utilisés pour diriger l'air vers les freins."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sont utiles pour éliminer l'eau et l'huile des réservoirs d'air.",
+      "explanation": "L'air comprimé dans un système de freinage pneumatique contient généralement une certaine quantité d'eau et d'huile. Cela peut endommager le système s'il s'accumule. Les réservoirs d'air sont équipés de soupapes de vidange pour faciliter l'élimination de l'eau et de l'huile de l'air comprimé."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8641",
+      "question": "Les freins peuvent se désaxer rapidement, en particulier :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S'ils sont chauds."
+        },
+        {
+          "letter": "B",
+          "text": "En hiver."
+        },
+        {
+          "letter": "C",
+          "text": "S'ils sont utilisés fréquemment."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "S'ils sont chauds.",
+      "explanation": "Les freins sont particulièrement sujets au désaxage s'ils sont chauds. Assurez-vous de vérifier régulièrement l'ajustement de vos freins. Pour qu'un véhicule soit contrôlé en toute sécurité, tous les freins doivent fonctionner correctement et être ajustés."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11880",
+      "question": "La friction dans un frein à came en S est causée lorsque les garnitures de frein et les revêtements:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S'appuient contre l'extérieur du tambour de frein."
+        },
+        {
+          "letter": "B",
+          "text": "S'appuient contre l'intérieur du tambour de frein."
+        },
+        {
+          "letter": "C",
+          "text": "Poussent l'une contre l'autre."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "S'appuient contre l'intérieur du tambour de frein.",
+      "explanation": "La friction à l'intérieur d'un tambour de frein est causée lorsque les mâchoires de frein et les garnitures poussent contre l'intérieur du tambour. La friction dans les tambours ralentira et arrêtera le véhicule."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8760",
+      "question": "Un wig wag est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un dispositif d'avertissement de basse pression."
+        },
+        {
+          "letter": "B",
+          "text": "Un tube qui achemine l'air vers les freins."
+        },
+        {
+          "letter": "C",
+          "text": "Un type de système de freinage à air."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un dispositif d'avertissement de basse pression.",
+      "explanation": "Les véhicules munis de freins à air doivent être équipés d'un dispositif d'avertissement de basse pression. Un wig wag est un type de dispositif d'avertissement de basse pression d'air. Ce dispositif abaisse un bras mécanique dans le champ de vision du conducteur si la pression dans les réservoirs chute à un niveau entre 55 et 75 psi."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9298",
+      "question": "Lorsque vous quittez votre véhicule sans surveillance:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le frein de stationnement devrait être utilisé."
+        },
+        {
+          "letter": "B",
+          "text": "Le frein de stationnement n'a besoin d'être utilisé que si le véhicule est garé sur une pente."
+        },
+        {
+          "letter": "C",
+          "text": "Le frein de stationnement ne devrait pas être utilisé, car il peut endommager les pneus."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le frein de stationnement devrait être utilisé.",
+      "explanation": "En général, vous devriez toujours utiliser le frein de stationnement lorsque vous garez votre véhicule. Cependant, vous ne devriez pas actionner le frein de stationnement si vos freins sont très chauds ou si vos freins sont mouillés et les températures sont en dessous du point de congélation."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11897",
+      "question": "Par temps froid, assurez-vous de vérifier l'évaporateur d'alcool de votre véhicule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toutes les trois heures."
+        },
+        {
+          "letter": "B",
+          "text": "Chaque jour."
+        },
+        {
+          "letter": "C",
+          "text": "Toutes les deux semaines."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Chaque jour.",
+      "explanation": "Un évaporateur d'alcool peut aider à prévenir l'accumulation de glace dans un système de freinage à air. Par temps froid, l'évaporateur devrait être vérifié et rempli chaque jour."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11882",
+      "question": "Quand une came en S tourne à l'intérieur d'un tambour de frein, la came en S:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Appuie les mâchoires de frein contre l'intérieur du tambour de frein."
+        },
+        {
+          "letter": "B",
+          "text": "Appuie les plaquettes de frein contre les garnitures de frein."
+        },
+        {
+          "letter": "C",
+          "text": "Appuie les garnitures de frein contre les essieux des roues."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Appuie les mâchoires de frein contre l'intérieur du tambour de frein.",
+      "explanation": "Quand une pédale de frein est enfoncée et que la came en S est tournée, la came en S appuie les mâchoires de frein contre l'intérieur du tambour de frein. Cela cause une friction et ralentira le véhicule."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8627",
+      "question": "Que peut-il se passer si la pression de l'air devient trop basse dans un système de freinage à air ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les freins peuvent grincer."
+        },
+        {
+          "letter": "B",
+          "text": "Les freins peuvent cesser de fonctionner."
+        },
+        {
+          "letter": "C",
+          "text": "Les freins peuvent être lents."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Les freins peuvent cesser de fonctionner.",
+      "explanation": "Appuyer et relâcher inutilement la pédale de frein peut laisser s'échapper l'air du système de freinage plus rapidement que le compresseur ne peut le remplacer. Les freins à air peuvent cesser de fonctionner efficacement si la pression devient trop basse."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11535",
+      "question": "Lors d'un test de fuite appliqué, le débit de fuite maximal pour un véhicule à triple combinaison est ____ en une minute.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 psi"
+        },
+        {
+          "letter": "B",
+          "text": "4 psi"
+        },
+        {
+          "letter": "C",
+          "text": "6 psi"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "6 psi",
+      "explanation": "Il est important de connaître le taux de perte d'air maximal qui est sûr pour votre véhicule spécifique. Une combinaison triple ne devrait pas avoir un taux de fuite supérieur à 6 psi par minute lors d'un test de fuite appliqué."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11894",
+      "question": "Un ____ permet à un conducteur d'appliquer progressivement les freins à ressort.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soupape de commande modulante"
+        },
+        {
+          "letter": "B",
+          "text": "Commande d'alimentation en air de la remorque"
+        },
+        {
+          "letter": "C",
+          "text": "Soupape relais"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Soupape de commande modulante",
+      "explanation": "Une soupape de commande modulante permet à un conducteur d'appliquer progressivement les freins à ressort. Dans les véhicules équipés, la soupape est contrôlée par un levier situé sur le tableau de bord."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8770",
+      "question": "Si vous utilisez des freins à ressort lors du transport d'une charge lourde, un arrêt complet prendra :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Impossible."
+        },
+        {
+          "letter": "B",
+          "text": "Beaucoup de temps."
+        },
+        {
+          "letter": "C",
+          "text": "Peu de temps."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Beaucoup de temps.",
+      "explanation": "Les freins à ressort ne fonctionnent pas sur tous les essieux. Si les freins à ressort de votre véhicule s'activent en raison d'une basse pression dans un système de freinage pneumatique, votre véhicule aura besoin d'une plus longue distance pour s'arrêter que d'habitude, surtout si vous transportez une charge lourde."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11325",
+      "question": "Lorsqu'il quitte un véhicule sans surveillance, un conducteur devrait:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toujours mettre le frein de stationnement."
+        },
+        {
+          "letter": "B",
+          "text": "Ne mettre le frein de stationnement que si le véhicule est garé sur une pente."
+        },
+        {
+          "letter": "C",
+          "text": "Dégonfler les pneus de 10 pour cent."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Toujours mettre le frein de stationnement.",
+      "explanation": "Toujours actionner le frein de stationnement lorsque vous quittez votre véhicule sans surveillance."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11895",
+      "question": "Ne pas utiliser un véhicule si l'un des tambours de frein présente des fissures plus grandes que ____ de la largeur de la zone de friction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une moitié"
+        },
+        {
+          "letter": "B",
+          "text": "Un tiers"
+        },
+        {
+          "letter": "C",
+          "text": "Un cinquième"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Une moitié",
+      "explanation": "Avant de commencer un trajet, il est important de vérifier les tambours de frein lors de votre inspection de préparation. Il est dangereux de conduire si l'un des tambours de frein présente une fissure de plus de la moitié de la largeur de la zone de friction."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "8637",
+      "question": "Si un compresseur d'air est entraîné par courroie, la courroie doit être vérifiée régulièrement pour s'assurer qu'elle est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fine."
+        },
+        {
+          "letter": "B",
+          "text": "Correctement tendue."
+        },
+        {
+          "letter": "C",
+          "text": "Fissurée."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Correctement tendue.",
+      "explanation": "Si votre véhicule a des freins à air comprimé, la courroie d'entraînement du compresseur d'air doit être vérifiée avant chaque trajet. Vérifiez la tension de la courroie et assurez-vous qu'elle est en bon état."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "9604",
+      "question": "Qu'est-ce qu'on trouve souvent dans l'air comprimé ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eau"
+        },
+        {
+          "letter": "B",
+          "text": "Carton"
+        },
+        {
+          "letter": "C",
+          "text": "Liquide de frein"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Eau",
+      "explanation": "L'air comprimé dans un système de freinage pneumatique contient généralement une certaine quantité d'eau et d'huile de compresseur. L'eau et l'huile peuvent endommager les freins s'ils s'accumulent dans le système. Les réservoirs doivent être vidés régulièrement pour éliminer cette accumulation."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11907",
+      "question": "Quelle distance un véhicule équipé de freins à air devra-t-il parcourir pour s'arrêter complètement s'il roule à 55 mph dans des conditions de conduite idéales ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "300 feet"
+        },
+        {
+          "letter": "B",
+          "text": "100 feet"
+        },
+        {
+          "letter": "C",
+          "text": "450 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "450 feet",
+      "explanation": "La distance d'arrêt totale d'un véhicule est composée de la distance de perception, de la distance de réaction, de la distance de décalage du frein et de la distance de freinage. Avec tous ces facteurs inclus, un véhicule équipé de freins à air roulant à une vitesse de 55 mph dans des conditions de conduite idéales aura besoin d'environ 450 feet pour s'arrêter complètement."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11324",
+      "question": "Lorsque vous quittez votre véhicule sans surveillance:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le frein de stationnement doit toujours être utilisé."
+        },
+        {
+          "letter": "B",
+          "text": "Le frein de stationnement ne devrait jamais être utilisé."
+        },
+        {
+          "letter": "C",
+          "text": "Les fenêtres de la cabine doivent être abaissées."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le frein de stationnement doit toujours être utilisé.",
+      "explanation": "Toujours actionner le frein de stationnement lorsque vous quittez votre véhicule sans surveillance."
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "mockquiz-01": [
+    {
+      "id": 1,
+      "image_path": "images/signs/slippery_when_wet.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "The road ahead has many curves.",
+          "is_correct": false
+        },
+        {
+          "text": "There is a sharp curve in the road ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "The road ahead may be slippery.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 2,
+      "image_path": "images/signs/illinois-downgrade.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Upcoming downgrade or hill.",
+          "is_correct": true
+        },
+        {
+          "text": "Road construction area.",
+          "is_correct": false
+        },
+        {
+          "text": "Upcoming narrowing of roadway.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 3,
+      "image_path": "images/signs/nebraska-traffic_signal_red_arrow_left.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Turn, as long as you yield to others drivers.",
+          "is_correct": false
+        },
+        {
+          "text": "Come to a full stop and proceed when it is safe.",
+          "is_correct": false
+        },
+        {
+          "text": "Come to a full stop and remain stopped while the red arrow is activated.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 4,
+      "image_path": "images/signs/washington-warning.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Railroad crossing.",
+          "is_correct": false
+        },
+        {
+          "text": "Warning.",
+          "is_correct": true
+        },
+        {
+          "text": "Signal ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 5,
+      "image_path": "images/signs/railroad_crossing.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Are approaching a railroad crossing and should prepare to stop.",
+          "is_correct": true
+        },
+        {
+          "text": "Will always stop at the upcoming railroad crossing.",
+          "is_correct": false
+        },
+        {
+          "text": "Should stop and wait for a signal before crossing the railroad tracks.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 6,
+      "image_path": "images/signs/tennessee-stop_empty.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Slow.",
+          "is_correct": false
+        },
+        {
+          "text": "Stop.",
+          "is_correct": true
+        },
+        {
+          "text": "Turn.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 7,
+      "image_path": "images/signs/low_clearance.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "The distance from road surface to a bridge or overpass.",
+          "is_correct": true
+        },
+        {
+          "text": "The maximum legal height of a vehicle allowed in this state.",
+          "is_correct": false
+        },
+        {
+          "text": "The maximum width of a vehicle allowed on the highway.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 8,
+      "image_path": "images/signs/no_right_turn.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "No right turn.",
+          "is_correct": true
+        },
+        {
+          "text": "You must turn right.",
+          "is_correct": false
+        },
+        {
+          "text": "Watch for traffic on your right.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 9,
+      "image_path": "images/signs/road_work_ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Watch for people crossing your path.",
+          "is_correct": false
+        },
+        {
+          "text": "No passing zone.",
+          "is_correct": false
+        },
+        {
+          "text": "Work zone ahead.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 10,
+      "image_path": "images/signs/y_intersection.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "The roadway ends ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "Drivers must bear either right or left.",
+          "is_correct": true
+        },
+        {
+          "text": "A four-way intersection is ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 11,
+      "image_path": "images/signs/tennessee-only_left.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Travel in the direction of the arrow.",
+          "is_correct": true
+        },
+        {
+          "text": "Always make a lane change.",
+          "is_correct": false
+        },
+        {
+          "text": "Look for a destination sign to follow.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 12,
+      "image_path": "images/signs/illinois-construction.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "General warning signs.",
+          "is_correct": false
+        },
+        {
+          "text": "Construction and maintenance warning signs.",
+          "is_correct": true
+        },
+        {
+          "text": "Regulatory signs.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 13,
+      "image_path": "images/signs/do_not_enter.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Do not enter.",
+          "is_correct": true
+        },
+        {
+          "text": "Yield the right-of-way.",
+          "is_correct": false
+        },
+        {
+          "text": "Reserved parking for persons with disabilities.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 14,
+      "image_path": "images/signs/workers.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "A detour.",
+          "is_correct": false
+        },
+        {
+          "text": "An upcoming construction or maintenance area.",
+          "is_correct": true
+        },
+        {
+          "text": "A passing zone.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 15,
+      "image_path": "images/signs/slippery_when_wet.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "When pavement is wet, reduce your speed.",
+          "is_correct": true
+        },
+        {
+          "text": "The road ahead winds in a series of turns or curves.",
+          "is_correct": false
+        },
+        {
+          "text": "Traffic increases ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 16,
+      "image_path": "images/signs/school.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "You are approaching a school or school crosswalk.",
+          "is_correct": false
+        },
+        {
+          "text": "Slow down, drive with caution, and watch for children.",
+          "is_correct": false
+        },
+        {
+          "text": "Both of the above.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 17,
+      "image_path": "images/signs/maryland-bycicle_turn_left.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "A left turn.",
+          "is_correct": true
+        },
+        {
+          "text": "An upcoming stop.",
+          "is_correct": false
+        },
+        {
+          "text": "A right turn.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 18,
+      "image_path": "images/signs/stop.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Slow down or stop.",
+          "is_correct": false
+        },
+        {
+          "text": "Stop if necessary.",
+          "is_correct": false
+        },
+        {
+          "text": "You must come to a complete stop.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 19,
+      "image_path": "images/signs/yield.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Yield sign.",
+          "is_correct": true
+        },
+        {
+          "text": "School crossing sign.",
+          "is_correct": false
+        },
+        {
+          "text": "Stop sign.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 20,
+      "image_path": "images/signs/connecticut-flagger.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "A construction flagger is ahead.",
+          "is_correct": true
+        },
+        {
+          "text": "A police officer is ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "A parking attendant is ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 21,
+      "image_path": "images/signs/illinois-signal_ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Traffic signal ahead.",
+          "is_correct": true
+        },
+        {
+          "text": "Stop.",
+          "is_correct": false
+        },
+        {
+          "text": "Yield the right-of-way.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 22,
+      "image_path": "images/signs/slow_moving_vehicle.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Slow-moving vehicle.",
+          "is_correct": true
+        },
+        {
+          "text": "Road construction/maintenance area.",
+          "is_correct": false
+        },
+        {
+          "text": "Traffic signal ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 23,
+      "image_path": "images/signs/curve_right.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Upcoming intersections.",
+          "is_correct": false
+        },
+        {
+          "text": "Road construction.",
+          "is_correct": false
+        },
+        {
+          "text": "Road curves ahead.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 24,
+      "image_path": "images/signs/illinois-two_way_roadway.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Two-way traffic.",
+          "is_correct": true
+        },
+        {
+          "text": "Change in direction ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "School zone and crossing.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 25,
+      "image_path": "images/signs/hill.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Trucks entering.",
+          "is_correct": false
+        },
+        {
+          "text": "Truck exit only.",
+          "is_correct": false
+        },
+        {
+          "text": "Steep downgrade ahead.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 26,
+      "image_path": "images/signs/maryland-wrong_way.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Park your vehicle.",
+          "is_correct": false
+        },
+        {
+          "text": "You are not allowed to travel in this direction.",
+          "is_correct": true
+        },
+        {
+          "text": "Exit at the intersection.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 27,
+      "image_path": "images/signs/railroad_crossing.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "An intersection.",
+          "is_correct": false
+        },
+        {
+          "text": "A crosswalk.",
+          "is_correct": false
+        },
+        {
+          "text": "A railroad crossing.",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 28,
+      "image_path": "images/signs/no_u_turn.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "No U-turn.",
+          "is_correct": true
+        },
+        {
+          "text": "Traffic signal ahead.",
+          "is_correct": false
+        },
+        {
+          "text": "Railroad ahead.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 29,
+      "image_path": "images/signs/tennessee-traffic_blending.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "You should stop for other traffic.",
+          "is_correct": false
+        },
+        {
+          "text": "Traffic is entering from another road and you should allow additional space for drivers to merge safely into the flow of traffic.",
+          "is_correct": true
+        },
+        {
+          "text": "Traffic is entering from another road and you should keep right.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 30,
+      "image_path": "images/signs/flagger_ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Flagger ahead.",
+          "is_correct": true
+        },
+        {
+          "text": "Turn left at the intersection.",
+          "is_correct": false
+        },
+        {
+          "text": "Last turn before a toll road.",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    }
+  ]
+}

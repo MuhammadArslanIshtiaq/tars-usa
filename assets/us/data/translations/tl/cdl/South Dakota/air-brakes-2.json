@@ -1,0 +1,616 @@
+{
+  "state": "South Dakota",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/south-dakota/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8633",
+      "question": "Anti-Lock Braking Systems (ABS)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nagbabawas ng normal na braking capacity ng sasakyan"
+        },
+        {
+          "letter": "B",
+          "text": "Ay karagdagan sa ibang braking systems at hindi nagbabawas ng braking power ng sasakyan"
+        },
+        {
+          "letter": "C",
+          "text": "Ay hindi epektibo sa mas malalaking vehicles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ay karagdagan sa ibang braking systems at hindi nagbabawas ng braking power ng sasakyan",
+      "explanation": "Kung nilagyan, ABS ay karagdagan sa normal na braking system ng sasakyan at hindi nagpapataas o nagbabawas ng braking power ng anumang ibang sistema. ABS ay nag-activate lamang kapag ang mga gulong ng sasakyan ay malapit nang mag-lock."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8984",
+      "question": "Sa isang truck na may air brakes, ang braking system's air compressor:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pumps air sa air storage tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Fills ang tires."
+        },
+        {
+          "letter": "C",
+          "text": "Moves air sa likod ng truck."
+        },
+        {
+          "letter": "D",
+          "text": "Cleans ang brakes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pumps air sa air storage tanks.",
+      "explanation": "Sa air brake system, ang air compressor ay pumupump ng hangin sa air storage tanks. Ang air compressor ay kontrolado ng air compressor governor."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10080",
+      "question": "Ang mga alcohol evaporators ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Illegal."
+        },
+        {
+          "letter": "B",
+          "text": "Ginagamit upang magdagdag ng alcohol sa braking systems upang maiwasan ang pagtuon ng ibon."
+        },
+        {
+          "letter": "C",
+          "text": "Pinapayagan lamang sa mga sasakyan na nagdadala ng mapanganibang materyales."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ginagamit upang magdagdag ng alcohol sa braking systems upang maiwasan ang pagtuon ng ibon.",
+      "explanation": "Ang ilang air brake systems ay may kasamang alcohol evaporator. Ang evaporator ay nagdadagdag ng alcohol sa braking system upang maiwasan ang pagbuo ng yelo, na maaaring magdulot ng pinsala."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "10742",
+      "question": "Air pressure dapat na tumaas sa isang single air system sa loob ng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 minuto."
+        },
+        {
+          "letter": "B",
+          "text": "12 minuto."
+        },
+        {
+          "letter": "C",
+          "text": "Tatlong minuto."
+        },
+        {
+          "letter": "D",
+          "text": "Isang minuto."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Tatlong minuto.",
+      "explanation": "Sa isang sasakyan na may single air brake system, pagkatapos ang engine ay nasa operating rpms, ang pressure sa air system ay dapat na generally tumaas mula 50 hanggang 90 psi sa loob ng tatlong minuto."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10740",
+      "question": "Sa isang dual air brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang air tanks ay ibinabahagi ng parehong systems."
+        },
+        {
+          "letter": "B",
+          "text": "Bawat system ay may sariling air tanks."
+        },
+        {
+          "letter": "C",
+          "text": "Dapat ninyong italagang kung aling system ang ginagamit ninyo."
+        },
+        {
+          "letter": "D",
+          "text": "Ang brakes sa isang panig lamang ng vehicle ay gumagana."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Bawat system ay may sariling air tanks.",
+      "explanation": "Karamihan ng heavy-duty vehicles ay gumagamit ng dual air brake systems. Ang dual air brake system ay binubuo ng dalawang magkahiwalay na air brake systems, na konektado ng isang hanay ng brake controls. Bawat system ay may sariling air tanks."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10724",
+      "question": "Ang Air tank drains:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nagpapayagan sa ulan na pumasok sa air tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Ginagamit upang mag-drain ng tubig at langis mula sa air tanks."
+        },
+        {
+          "letter": "C",
+          "text": "Dapat hindi kailanman buksan."
+        },
+        {
+          "letter": "D",
+          "text": "Dapat manatiling bukas habang nagmamaneho."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ginagamit upang mag-drain ng tubig at langis mula sa air tanks.",
+      "explanation": "Sa isang air brake system, ang mga air tanks ay nilagyan ng drains na nagpapahintulot sa tubig at compressor oil na maaalis mula sa sistema. Kung pahihintulutan itong magtipon, ang tubig at compressor oil ay maaaring makasama sa air brake system."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11674",
+      "question": "Upang inspektahan ang slack adjusters sa S-cam brakes, kailangan mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magparada sa isang burol at subukan ang mga preno."
+        },
+        {
+          "letter": "B",
+          "text": "Magsuot ng gloves at itulak ang mga slack adjusters."
+        },
+        {
+          "letter": "C",
+          "text": "Alisin ang drum at tumingin sa loob."
+        },
+        {
+          "letter": "D",
+          "text": "I-chock ang mga gulong at i-disengage ang parking brake."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "I-chock ang mga gulong at i-disengage ang parking brake.",
+      "explanation": "Suriin ang bawat slack adjuster pagkatapos ng pagpapahinto sa level ground, pag-set ng wheel chocks, at pag-disengage ng parking brake. Iguhit ang slack adjusters upang siguraduhin na hindi sila gumagalaw ng higit pa sa humigit-kumulang isang pulgada mula sa kung saan nakakabit ang push rod. Kung sila ay gumagalaw ng higit sa isang pulgada, maaaring maging out of adjustment sila at kailangang ayusin."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11897",
+      "question": "Kapag nakakaranas ng malamig na panahon, siguraduhin na suriin ang alcohol evaporator ng iyong sasakyan:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bawat tatlong oras."
+        },
+        {
+          "letter": "B",
+          "text": "Araw-araw."
+        },
+        {
+          "letter": "C",
+          "text": "Bawat dalawang linggo."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Araw-araw.",
+      "explanation": "Ang isang alcohol evaporator ay makakatulong na maiwasan ang yelo mula sa pagbuo sa isang air brake system. Sa malamig na panahon, ang evaporator ay dapat tingnan at ilagyan ulit araw-araw."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8990",
+      "question": "Kung ang spring brakes ay nakabukas, dapat kang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huwag gamitin ang brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Itulak ang accelerator."
+        },
+        {
+          "letter": "C",
+          "text": "Ilipat ang steering wheel."
+        },
+        {
+          "letter": "D",
+          "text": "Maging labis na maingat dahil ang mga preno ay maaaring mabigo."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Huwag gamitin ang brake pedal.",
+      "explanation": "Hindi mo dapat ipatupad ang brake pedal kung ang spring brakes ay naka-activate. Ang mga preno ay maaaring masira kung sila ay napapailalim sa puwersa ng air pressure at ang mga spring sa parehong oras."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11696",
+      "question": "Ang isang modulating control valve ay maaaring kontrolin ang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spring brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Landing gear."
+        },
+        {
+          "letter": "C",
+          "text": "Air brakes."
+        },
+        {
+          "letter": "D",
+          "text": "Anti-lock braking system (ABS)"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Spring brakes.",
+      "explanation": "Ang isang modulating control valve ay nagpapahintulot sa driver na unti-unting ilapat ang spring brakes. Sa mga equipped vehicles, ang valve ay kinokontrol ng isang lever na nakalagay sa dashboard."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11535",
+      "question": "Sa panahon ng applied leakage test, ang maximum leakage rate para sa triple combination vehicle ay ____ sa isang minuto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 psi"
+        },
+        {
+          "letter": "B",
+          "text": "4 psi"
+        },
+        {
+          "letter": "C",
+          "text": "6 psi"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "6 psi",
+      "explanation": "Mahalagang malaman ang maximum air loss rate na ligtas para sa iyong partikular na sasakyan. Ang isang triple combination ay dapat magkaroon ng leakage rate na hindi higit sa 6 psi sa isang minuto sa panahon ng isang applied leakage test."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "10230",
+      "question": "Ang foundation brakes ay ginagamit:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lamang sa front wheels."
+        },
+        {
+          "letter": "B",
+          "text": "Lamang sa rear wheels."
+        },
+        {
+          "letter": "C",
+          "text": "Lamang sa driver's side wheels."
+        },
+        {
+          "letter": "D",
+          "text": "Sa bawat gulong."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Sa bawat gulong.",
+      "explanation": "Ang foundation brakes ay ginagamit sa bawat gulong. Ang pinakakaraniwang uri ay ang S-cam drum brake."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11894",
+      "question": "Ang isang ____ ay nagpapahintulot sa driver na unti-unting ilapat ang spring brakes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modulating control valve"
+        },
+        {
+          "letter": "B",
+          "text": "Trailer air supply control"
+        },
+        {
+          "letter": "C",
+          "text": "Relay valve"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Modulating control valve",
+      "explanation": "Ang isang modulating control valve ay nagpapahintulot sa driver na unti-unting ilapat ang spring brakes. Sa mga equipped vehicles, ang valve ay kinokontrol ng isang lever na nakalagay sa dashboard."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9894",
+      "question": "Ang mga preno na hindi ayos ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magtrabaho nang maayos."
+        },
+        {
+          "letter": "B",
+          "text": "Magdulot ng ilan sa mga preno na magtrabaho nang labis at masira."
+        },
+        {
+          "letter": "C",
+          "text": "Magbigay ng mas mahusay na acceleration."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Magdulot ng ilan sa mga preno na magtrabaho nang labis at masira.",
+      "explanation": "Ang mga preno na hindi ayos ay mabilis mawawalan ng epekto kaysa sa mga tamang na-adjust na preno. Ang pagkaka-adjust ng preno ay dapat sinuri nang madalas upang makatulong na maiwasan ang mga problema sa preno."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10081",
+      "question": "Isang low air pressure warning signal:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ay hindi kinakailangan sa mga sasakyan na may air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Ay kinakailangan sa mga sasakyan na may air brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Ay optional sa mga sasakyan na may air brakes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ay kinakailangan sa mga sasakyan na may air brakes.",
+      "explanation": "Ang isang sasakyan na may air brakes ay dapat na equipped ng isang low air pressure warning signal. Kung ang warning signal ay mag-off habang ang sasakyan ay sinisimulan, ang driver ay dapat dalhin ang sasakyan sa isang kumpletong hinto at magkaroon ng system na repaired."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11878",
+      "question": "Ang isang driver ay maaaring umasa sa front wheel braking na gumagana:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sa mga dry roadway lamang."
+        },
+        {
+          "letter": "B",
+          "text": "Sa lahat ng kondisyon."
+        },
+        {
+          "letter": "C",
+          "text": "Sa lahat ng kondisyon, maliban sa niyebe."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sa lahat ng kondisyon.",
+      "explanation": "Ang front wheel braking ay epektibo sa lahat ng kondisyon ng kalsada. Hindi malamang na kakaranasan mo ang front wheel skid, kahit sa yelo."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8884",
+      "question": "Brake fading ay naidulot kapag:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brakes ay hindi madalas na ginagamit."
+        },
+        {
+          "letter": "B",
+          "text": "Brakes ay umaoverhead."
+        },
+        {
+          "letter": "C",
+          "text": "Brakes ay masyadong malamig."
+        },
+        {
+          "letter": "D",
+          "text": "Brakes ay basa."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Brakes ay umaoverhead.",
+      "explanation": "Ang labis na paggamit ng brakes ay magdudulot ng overheating, na gagawing mas mababa ang epektibidad. Ito ay tinatawag na \"fading.\""
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11899",
+      "question": "Dapat mo ____ kung ang mababang pressure warning signal ay nag-activate habang nagmamaneho ka.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huminto kung nasaan ka at magpark"
+        },
+        {
+          "letter": "B",
+          "text": "Lumabas sa daan sa lalong madaling panahon nang ligtas"
+        },
+        {
+          "letter": "C",
+          "text": "Magpatuloy sa pagmamaneho nang normal"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Lumabas sa daan sa lalong madaling panahon nang ligtas",
+      "explanation": "Kung ang mababang pressure warning signal ay nag-activate habang kayo ay nagmamaneho, mahalaga na kayo ay ligtas na lumabas sa roadway sa lalong madaling panahon at ipark ang inyong sasakyan. Kung ang air pressure ay nagiging masyadong mababa, ang brakes ay hindi na gumagana nang sapat para sa inyo na tumigil ng ligtas."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9007",
+      "question": "Ano ang maaaring mangyari kung ang parking brake ay ginagamit sa napakabasa na panahon kapag ang temperatura ay mas mababa sa pagkakagatin?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ang brakes ay kikilig."
+        },
+        {
+          "letter": "B",
+          "text": "Ang brakes ay maaaring mag-ice upang ang sasakyan ay hindi makapagsagwan."
+        },
+        {
+          "letter": "C",
+          "text": "Ang brakes ay maaaring biglang ilabas ang sarili."
+        },
+        {
+          "letter": "D",
+          "text": "Ang brakes ay maaaring lumabog."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang brakes ay maaaring mag-ice upang ang sasakyan ay hindi makapagsagwan.",
+      "explanation": "Kung gagamitin mo ang parking brakes kapag ang panahon ay napakabasa at ang temperatura ay mas mababa sa pagkakagatin, ang brakes ay maaaring mag-icing, na pipigilan ang sasakyan na gumalaw."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11314",
+      "question": "Ang isang vehicle na equipped ng Anti-Lock Braking System (ABS) ay gumagamit ng ____ light upang abisuhan na ang sistema ay hindi gumagana nang maayos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Berde"
+        },
+        {
+          "letter": "B",
+          "text": "Dilaw"
+        },
+        {
+          "letter": "C",
+          "text": "Orange"
+        },
+        {
+          "letter": "D",
+          "text": "Puti"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dilaw",
+      "explanation": "Ang Anti-Lock Braking System (ABS) malfunction lamps ay karaniwan na yellow. Kahit ang ABS ay hindi gumagana nang maayos, ang driver ay mayroon pa ring access sa regular na braking functions ng sasakyan."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11107",
+      "question": "Kapag ang brake pedal ay pinindot, ang air brakes ay gumagana:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kaagad."
+        },
+        {
+          "letter": "B",
+          "text": "Pagkatapos ng isang maikling pagkaantala."
+        },
+        {
+          "letter": "C",
+          "text": "Pagkatapos ng halos isang minuto."
+        },
+        {
+          "letter": "D",
+          "text": "Lamang kung ang berdeng lever sa control panel ay pinindot pababa."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pagkatapos ng isang maikling pagkaantala.",
+      "explanation": "Pagkatapos na ma-depress ang brake pedal sa isang vehicle na may air brakes, tumatagal ng kalahating segundo o higit pa para sa hangin na dumadaloy sa mga linya at gawing gumagana ang brakes. Ito ay naiiba sa hydraulic brakes na ginagamit sa mga sasakyan at light at medium trucks, na agad na nagsisimulang gumana kapag ang pedal ay pinindot."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11193",
+      "question": "Dapat ka ay may air brake endorsement:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Upang gumamit ng sasakyan na may air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Upang magmaneho ng anumang truck na may trailer."
+        },
+        {
+          "letter": "C",
+          "text": "Upang maglipat ng hazardous materials."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Upang gumamit ng sasakyan na may air brakes.",
+      "explanation": "Dapat kang sumali sa air brakes knowledge test upang maging licensed na magoperate ng sasakyan na equipped ng air brakes, kasama ang air over hydraulic braking system."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11670",
+      "question": "Ang mga mekanismo ng pagpepreno ay matatagpuan ____ sa isang brake drum.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sa labas"
+        },
+        {
+          "letter": "B",
+          "text": "Sa loob"
+        },
+        {
+          "letter": "C",
+          "text": "Katabi"
+        },
+        {
+          "letter": "D",
+          "text": "Sa ibabaw ng"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Sa loob",
+      "explanation": "Ang drum brakes ay naka-attach sa mga gulong at nakalagay sa mga axles ng isang sasakyan. Ang mga braking mechanisms na nagsasagawa ng pagtigil ng sasakyan ay mahahanap sa loob ng isang drum brake."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11466",
+      "question": "Sa panahon ng isang applied leakage test, ang maximum leakage rate para sa isang triple combination vehicle ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi sa isang minuto."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi sa isang minuto."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi sa isang minuto."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi sa isang minuto."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "6 psi sa isang minuto.",
+      "explanation": "Mahalagang malaman ang maximum air loss rate na ligtas para sa iyong partikular na sasakyan. Ang isang triple combination ay dapat magkaroon ng leakage rate na hindi higit sa 6 psi sa isang minuto sa panahon ng isang applied leakage test."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8626",
+      "question": "Bakit dapat mong regular na ibuhos ang air tanks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dahil ang hangin ay nagiging luma at kailangan itong mapalitan"
+        },
+        {
+          "letter": "B",
+          "text": "Dahil ang naka-compress na hangin ay naglalaman ng ilang tubig at ang tubig ay nagsasaipan sa mga tangke"
+        },
+        {
+          "letter": "C",
+          "text": "Upang magpahintulot ng pagbabago sa presyon"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dahil ang naka-compress na hangin ay naglalaman ng ilang tubig at ang tubig ay nagsasaipan sa mga tangke",
+      "explanation": "Ang naka-compress na hangin ay karaniwang naglalaman ng ilang halaga ng kahalumigmigan at compressor oil, na maaaring magtipon sa air storage tanks at masira ang brake system. Ang mga tangke ay dapat ibuhos upang linisin ang mga ito. Sa isang tangke na may manual drain valve, ang pag-draining ay dapat gawin sa dulo ng bawat araw ng pagmamaneho."
+    }
+  ]
+}

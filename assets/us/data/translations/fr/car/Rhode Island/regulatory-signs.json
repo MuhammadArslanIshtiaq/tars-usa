@@ -1,0 +1,339 @@
+{
+  "state": "Rhode Island",
+  "category": "car",
+  "quizName": "Regulatory Signs",
+  "slug": "regulatory-signs",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/speed-limit.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous ne devez pas rouler plus vite que la vitesse affichée."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez rouler à la vitesse affichée en tout temps."
+        },
+        {
+          "letter": "C",
+          "text": "La vitesse affichée n'est qu'une suggestion."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous ne devez pas rouler plus vite que la vitesse affichée.",
+      "explanation": "Un panneau de limitation de vitesse vous indique la vitesse maximale autorisée sur cette route. Vous ne devez pas dépasser la vitesse affichée, et vous devez rouler plus lentement par mauvais temps ou en cas de circulation dense."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/do-not-enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "N'entrez pas sur cette route ou rampe."
+        },
+        {
+          "letter": "B",
+          "text": "Travaux de construction ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous et attendez un signal."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "N'entrez pas sur cette route ou rampe.",
+      "explanation": "Ce panneau rouge et blanc signifie que vous ne devez pas entrer sur la route ou la rampe. Vous allez dans la mauvaise direction si vous dépassez ce panneau."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/one-way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La circulation sur cette route se fait dans une seule direction."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez tourner dans la direction indiquée."
+        },
+        {
+          "letter": "C",
+          "text": "Une seule voie est ouverte ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La circulation sur cette route se fait dans une seule direction.",
+      "explanation": "Un panneau de sens unique signifie que tout le trafic sur cette route se déplace dans la direction que la flèche indique. Ne roulez pas à contresens du trafic."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/no-u-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les demi-tours ne sont pas autorisés ici."
+        },
+        {
+          "letter": "B",
+          "text": "Aucun virage à droite autorisé."
+        },
+        {
+          "letter": "C",
+          "text": "La route s'incurve ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les demi-tours ne sont pas autorisés ici.",
+      "explanation": "Ce panneau signifie que vous ne pouvez pas faire de demi-tour à cet endroit. Vous devez trouver un autre moyen d'inverser votre direction."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/no-left-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les virages à gauche ne sont pas autorisés ici."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de gauche se termine ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Tenez la gauche au carrefour."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les virages à gauche ne sont pas autorisés ici.",
+      "explanation": "Ce panneau signifie que vous ne pouvez pas tourner à gauche à cette intersection ou cet endroit. Vous devez continuer tout droit ou tourner à droite."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/no-left-turn-or-uturn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aucun virage à gauche et aucun demi-tour ne sont autorisés ici."
+        },
+        {
+          "letter": "B",
+          "text": "Aucun virage à droite autorisé ici."
+        },
+        {
+          "letter": "C",
+          "text": "Aucun virage n'est autorisé dans aucune direction."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Aucun virage à gauche et aucun demi-tour ne sont autorisés ici.",
+      "explanation": "Ce panneau indique que les virages à gauche et les demi-tours ne sont pas autorisés à cet endroit."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/no-parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le stationnement n'est pas autorisé ici."
+        },
+        {
+          "letter": "B",
+          "text": "Pas d'arrêt à aucun moment."
+        },
+        {
+          "letter": "C",
+          "text": "Le stationnement est réservé aux titulaires de permis."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le stationnement n'est pas autorisé ici.",
+      "explanation": "Ce panneau signifie que vous ne pouvez pas garer votre véhicule dans cette zone. Vous pouvez brièvement vous arrêter pour charger ou décharger des passagers, mais vous ne pouvez pas laisser votre véhicule garé."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devez tourner à gauche depuis cette voie."
+        },
+        {
+          "letter": "B",
+          "text": "La voie de gauche est fermée."
+        },
+        {
+          "letter": "C",
+          "text": "Le virage à gauche n'est pas autorisé."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous devez tourner à gauche depuis cette voie.",
+      "explanation": "Ce panneau signifie que la voie dans laquelle vous vous trouvez est réservée aux virages à gauche uniquement. Vous devez tourner à gauche lorsque vous arrivez à l'intersection."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/straight-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devez aller tout droit. Aucun virage autorisé."
+        },
+        {
+          "letter": "B",
+          "text": "Circulation à sens unique ahead."
+        },
+        {
+          "letter": "C",
+          "text": "La route monte en pente."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous devez aller tout droit. Aucun virage autorisé.",
+      "explanation": "Ce panneau signifie que vous devez continuer tout droit à travers l'intersection. Les virages à gauche ou à droite ne sont pas autorisés depuis cette voie."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/straight-or-left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous pouvez aller tout droit ou tourner à gauche depuis cette voie."
+        },
+        {
+          "letter": "B",
+          "text": "La route se divise en deux voies."
+        },
+        {
+          "letter": "C",
+          "text": "Une voie de virage à gauche commence ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vous pouvez aller tout droit ou tourner à gauche depuis cette voie.",
+      "explanation": "Ce panneau signifie que vous pouvez soit continuer tout droit, soit tourner à gauche depuis cette voie. Les virages à droite ne sont pas autorisés."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/red-yield-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ralentissez et cédez la priorité aux autres véhicules."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous complètement."
+        },
+        {
+          "letter": "C",
+          "text": "Accélérez pour vous insérer dans le trafic."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ralentissez et cédez la priorité aux autres véhicules.",
+      "explanation": "Un panneau de cédez le passage signifie que vous devez ralentir et laisser passer d'autres véhicules ou piétons en premier. Arrêtez-vous si nécessaire pour les laisser passer en toute sécurité."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/pedestrians-prohibited.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les piétons ne sont pas autorisés sur cette route."
+        },
+        {
+          "letter": "B",
+          "text": "Un passage pour piétons se trouve plus loin."
+        },
+        {
+          "letter": "C",
+          "text": "Attention aux piétons."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les piétons ne sont pas autorisés sur cette route.",
+      "explanation": "Ce panneau signifie que les piétons ne peuvent pas marcher sur cette route. Il est généralement placé sur les autoroutes ou les routes où la marche est dangereuse."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suivez l'itinéraire de déviation dans la direction indiquée."
+        },
+        {
+          "letter": "B",
+          "text": "Une aire de repos se trouve dans cette direction."
+        },
+        {
+          "letter": "C",
+          "text": "Un itinéraire pittoresque est disponible."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Suivez l'itinéraire de déviation dans la direction indiquée.",
+      "explanation": "Un panneau de déviation vous dirige vers un itinéraire alternatif car la route normale est fermée. Suivez les flèches pour revenir sur votre itinéraire original."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/four-way-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tout le trafic à cette intersection doit s'arrêter."
+        },
+        {
+          "letter": "B",
+          "text": "Une autoroute à quatre voies commence."
+        },
+        {
+          "letter": "C",
+          "text": "Un carrefour giratoire se trouve plus loin."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tout le trafic à cette intersection doit s'arrêter.",
+      "explanation": "Un panneau 4 directions est placé avec un panneau d'arrêt. Cela signifie que tous les véhicules de chaque direction doivent s'arrêter avant d'entrer dans l'intersection."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Que signifie ce panneau?",
+      "image": "/images/regulatory-signs/intersection-lane-control.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il indique quels virages ou mouvements sont autorisés à partir de chaque voie."
+        },
+        {
+          "letter": "B",
+          "text": "Il indique la vitesse pour chaque voie."
+        },
+        {
+          "letter": "C",
+          "text": "Il indique quelles voies sont fermées plus loin."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Il indique quels virages ou mouvements sont autorisés à partir de chaque voie.",
+      "explanation": "Les panneaux de contrôle de voie d'intersection sont affichés avant une intersection pour montrer aux conducteurs quels virages ou mouvements sont autorisés à partir de chaque voie."
+    }
+  ]
+}

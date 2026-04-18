@@ -1,0 +1,339 @@
+{
+  "state": "District of Columbia",
+  "category": "car",
+  "quizName": "Regulatory Signs",
+  "slug": "regulatory-signs",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/speed-limit.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يجب أن لا تقود أسرع من السرعة المحددة."
+        },
+        {
+          "letter": "B",
+          "text": "يجب أن تقود بالسرعة المحددة في جميع الأوقات."
+        },
+        {
+          "letter": "C",
+          "text": "السرعة المحددة مجرد اقتراح فقط."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "يجب أن لا تقود أسرع من السرعة المحددة.",
+      "explanation": "تخبرك لافتة حد السرعة بالحد الأقصى للسرعة المسموح بها على تلك الطريق. يجب أن لا تتجاوز السرعة المحددة، وعليك أن تقود بسرعة أقل في الطقس السيء أو المرور الكثيف."
+    },
+    {
+      "questionNumber": 2,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/do-not-enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "لا تدخل هذه الطريق أو المنحدر."
+        },
+        {
+          "letter": "B",
+          "text": "أعمال بناء الطريق في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "توقف وانتظر إشارة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "لا تدخل هذه الطريق أو المنحدر.",
+      "explanation": "تعني هذه اللافتة الحمراء والبيضاء أنه يجب عليك عدم دخول الطريق أو المنحدر. ستكون في الاتجاه الخاطئ إذا مررت بهذه اللافتة."
+    },
+    {
+      "questionNumber": 3,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/one-way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "المرور على هذا الطريق يتحرك في اتجاه واحد فقط."
+        },
+        {
+          "letter": "B",
+          "text": "يجب أن تنعطف في الاتجاه المبين."
+        },
+        {
+          "letter": "C",
+          "text": "حارة واحدة فقط مفتوحة في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "المرور على هذا الطريق يتحرك في اتجاه واحد فقط.",
+      "explanation": "تعني لافتة الاتجاه الواحد أن جميع المرور على تلك الطريق يتحرك في الاتجاه الذي تشير إليه السهم. لا تقود عكس اتجاه المرور."
+    },
+    {
+      "questionNumber": 4,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/no-u-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "استدارات حرف U غير مسموح بها هنا."
+        },
+        {
+          "letter": "B",
+          "text": "لا يُسمح بالانعطاف لليمين."
+        },
+        {
+          "letter": "C",
+          "text": "الطريق منحنية في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "استدارات حرف U غير مسموح بها هنا.",
+      "explanation": "تعني هذه اللافتة أنه لا يمكنك عمل استدارة على حرف U في هذا الموقع. يجب أن تجد طريقة أخرى لعكس اتجاهك."
+    },
+    {
+      "questionNumber": 5,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/no-left-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "الانعطاف لليسار غير مسموح به هنا."
+        },
+        {
+          "letter": "B",
+          "text": "حارة اليسار تنتهي في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "ابقَ على اليسار عند التقسيم."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "الانعطاف لليسار غير مسموح به هنا.",
+      "explanation": "تعني هذه اللافتة أنه لا يمكنك الانعطاف لليسار في هذا التقاطع أو الموقع. يجب أن تستمر بالمسير المستقيم أو تنعطف لليمين."
+    },
+    {
+      "questionNumber": 6,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/no-left-turn-or-uturn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "لا يُسمح بالانعطاف لليسار ولا استدارة حرف U هنا."
+        },
+        {
+          "letter": "B",
+          "text": "لا يُسمح بالانعطاف لليمين هنا."
+        },
+        {
+          "letter": "C",
+          "text": "لا يُسمح بالانعطاف في أي اتجاه."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "لا يُسمح بالانعطاف لليسار ولا استدارة حرف U هنا.",
+      "explanation": "تخبرك هذه اللافتة أن كلاً من الانعطافات لليسار واستدارات حرف U غير مسموح بها في هذا الموقع."
+    },
+    {
+      "questionNumber": 7,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/no-parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "الركن غير مسموح به هنا."
+        },
+        {
+          "letter": "B",
+          "text": "لا يُسمح بالتوقف في أي وقت."
+        },
+        {
+          "letter": "C",
+          "text": "الركن للسماح فقط."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "الركن غير مسموح به هنا.",
+      "explanation": "تعني هذه اللافتة أنه لا يمكنك ركن سيارتك في هذه المنطقة. قد تتوقف لفترة وجيزة لتحميل أو تفريغ الركاب، لكن لا يمكنك ترك سيارتك مركونة."
+    },
+    {
+      "questionNumber": 8,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يجب أن تنعطف لليسار من هذه الحارة."
+        },
+        {
+          "letter": "B",
+          "text": "حارة اليسار مغلقة."
+        },
+        {
+          "letter": "C",
+          "text": "الانعطاف لليسار غير مسموح به."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "يجب أن تنعطف لليسار من هذه الحارة.",
+      "explanation": "تعني هذه اللافتة أن الحارة التي أنت فيها خاصة بالانعطافات لليسار فقط. يجب أن تنعطف لليسار عند وصولك للتقاطع."
+    },
+    {
+      "questionNumber": 9,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/straight-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يجب أن تمسير بشكل مستقيم. لا يُسمح بأي انعطافات."
+        },
+        {
+          "letter": "B",
+          "text": "مرور اتجاه واحد في الأمام."
+        },
+        {
+          "letter": "C",
+          "text": "الطريق يصعد."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "يجب أن تمسير بشكل مستقيم. لا يُسمح بأي انعطافات.",
+      "explanation": "تعني هذه اللافتة أنه يجب عليك المسير المستقيم عبر التقاطع. الانعطاف لليسار أو اليمين غير مسموح به من هذه الحارة."
+    },
+    {
+      "questionNumber": 10,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/straight-or-left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "قد تمسير بشكل مستقيم أو تنعطف لليسار من هذه الحارة."
+        },
+        {
+          "letter": "B",
+          "text": "الطريق ينقسم إلى حارتين."
+        },
+        {
+          "letter": "C",
+          "text": "حارة الانعطاف لليسار تبدأ في الأمام."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "قد تمسير بشكل مستقيم أو تنعطف لليسار من هذه الحارة.",
+      "explanation": "تعني هذه اللافتة أنه يمكنك إما المسير المستقيم أو الانعطاف لليسار من هذه الحارة. الانعطافات لليمين غير مسموح بها."
+    },
+    {
+      "questionNumber": 11,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/red-yield-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "أبطئ السرعة وأعط حق الأسبقية لحركة المرور الأخرى."
+        },
+        {
+          "letter": "B",
+          "text": "توقف بشكل كامل."
+        },
+        {
+          "letter": "C",
+          "text": "زيادة السرعة للدمج مع حركة المرور."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "أبطئ السرعة وأعط حق الأسبقية لحركة المرور الأخرى.",
+      "explanation": "تعني لافتة الاستسلام أنه يجب عليك إبطاء السرعة وترك السيارات الأخرى أو المشاة تمر أولاً. توقف إذا لزم الأمر لترك يمرون بأمان."
+    },
+    {
+      "questionNumber": 12,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/pedestrians-prohibited.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "لا يُسمح للمشاة على هذا الطريق."
+        },
+        {
+          "letter": "B",
+          "text": "معبر للمشاة في المقدمة."
+        },
+        {
+          "letter": "C",
+          "text": "راقب المشاة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "لا يُسمح للمشاة على هذا الطريق.",
+      "explanation": "تعني هذه العلامة أنه لا يمكن للمشاة المشي على هذا الطريق. يتم وضعها عادة على الطرق السريعة أو الطرق حيث يكون المشي خطيراً."
+    },
+    {
+      "questionNumber": 13,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "اتبع مسار الالتفاف في الاتجاه المعروض."
+        },
+        {
+          "letter": "B",
+          "text": "منطقة استراحة في هذا الاتجاه."
+        },
+        {
+          "letter": "C",
+          "text": "طريق ذو منظر جميل متاح."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "اتبع مسار الالتفاف في الاتجاه المعروض.",
+      "explanation": "تحيلك علامة الالتفاف إلى طريق بديل لأن الطريق العادي مغلق. اتبع الأسهم للعودة إلى طريقك الأصلي."
+    },
+    {
+      "questionNumber": 14,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/four-way-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يجب على جميع حركة المرور في هذا التقاطع أن تتوقف."
+        },
+        {
+          "letter": "B",
+          "text": "طريق سريع ذو أربع مسارات يبدأ."
+        },
+        {
+          "letter": "C",
+          "text": "دوار مروري في المقدمة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "يجب على جميع حركة المرور في هذا التقاطع أن تتوقف.",
+      "explanation": "يتم وضع علامة 4 اتجاهات مع علامة إيقاف. وتعني أن جميع المركبات من كل الاتجاهات يجب أن تتوقف قبل دخول التقاطع."
+    },
+    {
+      "questionNumber": 15,
+      "question": "ماذا تعني هذه العلامة؟",
+      "image": "/images/regulatory-signs/intersection-lane-control.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "يوضح أي الدورانات أو الحركات المسموحة من كل مسار."
+        },
+        {
+          "letter": "B",
+          "text": "يوضح السرعة لكل مسار."
+        },
+        {
+          "letter": "C",
+          "text": "يوضح أي المسارات مغلقة في المقدمة."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "يوضح أي الدورانات أو الحركات المسموحة من كل مسار.",
+      "explanation": "يتم نشر علامات التحكم في مسار التقاطع قبل التقاطع لإظهار السائقين أي الدورانات أو الحركات المسموحة من كل مسار."
+    }
+  ]
+}

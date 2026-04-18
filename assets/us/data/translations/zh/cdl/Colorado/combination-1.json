@@ -1,0 +1,530 @@
+{
+  "state": "Colorado",
+  "category": "cdl",
+  "testName": "Combination Test #1 20 Questions • Passing Score 16",
+  "testSlug": "combination-1",
+  "url": "/images/colorado/cdl/combination-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8887",
+      "question": "大型联合车辆需要最长的时间才能停止：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "满载时。"
+        },
+        {
+          "letter": "B",
+          "text": "部分载重时。"
+        },
+        {
+          "letter": "C",
+          "text": "空载时。"
+        },
+        {
+          "letter": "D",
+          "text": "基本满载时。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "空载时。",
+      "explanation": "大型联合车辆空载时停止时间比满载时更长。减轻的重量导致车轮在路面上的牵引力降低。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11580",
+      "question": "如果您正在操作1998年之前制造的车辆，并且不确定拖车是否配备了防抱死制动系统(ABS)，您可以：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查从制动器后部出来的车轮速度传感器。"
+        },
+        {
+          "letter": "B",
+          "text": "寻找转换器牵引车前右角的红灯。"
+        },
+        {
+          "letter": "C",
+          "text": "泵动空气制动以激活ABS。"
+        },
+        {
+          "letter": "D",
+          "text": "假设车辆配有ABS。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "检查从制动器后部出来的车轮速度传感器。",
+      "explanation": "如果您正在驾驶1998年之前制造的车辆，并且不确定拖车是否配备防抱死制动系统(ABS)，您可以检查拖车下方是否有从制动器后部出来的车轮速度传感器。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8898",
+      "question": "联接快速接头时查看匹配的颜色。服务管路通常：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色。"
+        },
+        {
+          "letter": "B",
+          "text": "橙色。"
+        },
+        {
+          "letter": "C",
+          "text": "红色。"
+        },
+        {
+          "letter": "D",
+          "text": "蓝色。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "蓝色。",
+      "explanation": "联接快速接头时，确保将匹配的快速接头连接在一起。为了帮助驾驶员避免错误，有时会使用色彩编码。服务管路通常用蓝色编码，应急管路通常用红色编码。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8886",
+      "question": "为了帮助防止翻车，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停止后快速加速。"
+        },
+        {
+          "letter": "B",
+          "text": "在转弯时缓慢驾驶。"
+        },
+        {
+          "letter": "C",
+          "text": "将货物保持在拖车的后部。"
+        },
+        {
+          "letter": "D",
+          "text": "将货物保持在拖车的一侧。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在转弯时缓慢驾驶。",
+      "explanation": "为了降低翻车风险，应将货物装载得尽可能靠近地面。为了进一步降低这种风险，应缓慢通过弯道和转角。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11457",
+      "question": "联接后，上下第五轮之间应该有____。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "无间隙"
+        },
+        {
+          "letter": "B",
+          "text": "几乎没有间隙"
+        },
+        {
+          "letter": "C",
+          "text": "有很大的间隙"
+        },
+        {
+          "letter": "D",
+          "text": "三英寸的间隙"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "无间隙",
+      "explanation": "在行程前，务必检查所有联接。上下第五轮之间不应有任何间隙。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9542",
+      "question": "如果不确定拖车是否配备ABS，你可以:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查拖车下方是否有来自制动器后部的车轮速度传感器。"
+        },
+        {
+          "letter": "B",
+          "text": "尝试在光滑路面上行驶，看ABS是否启动。"
+        },
+        {
+          "letter": "C",
+          "text": "假设它确实配备了ABS。"
+        },
+        {
+          "letter": "D",
+          "text": "拆下轮胎并查看车轴上的ABS传感器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "检查拖车下方是否有来自制动器后部的车轮速度传感器。",
+      "explanation": "在1998年3月1日或之后制造的拖车和转换拖斗需要配备防抱死制动系统(ABS)。这将由黄色故障指示灯的存在表明。你可以通过检查拖车下方是否有来自制动器后部的ECU和车轮速度传感器电线来确定较旧的拖车是否配备ABS。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11616",
+      "question": "连接空气管线到拖车后，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "为拖车供气。"
+        },
+        {
+          "letter": "B",
+          "text": "对车轮进行楔形制动。"
+        },
+        {
+          "letter": "C",
+          "text": "检查第五轮。"
+        },
+        {
+          "letter": "D",
+          "text": "连接电气线路。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "为拖车供气。",
+      "explanation": "正确遵循联接和分离拖车的步骤对于安全操作组合车辆至关重要。在联接时将气管连接到拖车后，您应该为拖车供气。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8897",
+      "question": "应急空气管路通常用以下颜色编码：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色。"
+        },
+        {
+          "letter": "B",
+          "text": "橙色。"
+        },
+        {
+          "letter": "C",
+          "text": "黄色。"
+        },
+        {
+          "letter": "D",
+          "text": "红色。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "红色。",
+      "explanation": "一般来说，服务空气管路的部件用蓝色编码，应急空气管路的部件用红色编码。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11566",
+      "question": "推入拖车空气供应控制以：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "启动紧急制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "停用空气制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "鸣笛。"
+        },
+        {
+          "letter": "D",
+          "text": "为拖车供应空气。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "为拖车供应空气。",
+      "explanation": "推入拖车空气供应控制以为拖车供应空气。拉出拖车空气供应控制以关闭空气供应并启动紧急制动。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9537",
+      "question": "满载车组：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "比空车组翻车的可能性更小。"
+        },
+        {
+          "letter": "B",
+          "text": "比空车组更可能翻车。"
+        },
+        {
+          "letter": "C",
+          "text": "翻车的可能性与空车组相同。"
+        },
+        {
+          "letter": "D",
+          "text": "不应被驾驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "比空车组更可能翻车。",
+      "explanation": "由于货物的重量使其重心更高，满载车组在碰撞中翻车的可能性比空车组高10倍。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11576",
+      "question": "1975年之前制造的拖车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "需要配备弹簧制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "不需要配备弹簧制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "不安全驾驶。"
+        },
+        {
+          "letter": "D",
+          "text": "禁止在公共道路上行驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "不需要配备弹簧制动器。",
+      "explanation": "1975年之前制造的拖车不需要配备弹簧制动器。停放没有弹簧制动器的拖车时，请务必使用轮挡防止拖车滚动。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8893",
+      "question": "拖车空气供应控制看起来像什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "它是一个方形的蓝色旋钮。"
+        },
+        {
+          "letter": "B",
+          "text": "它是一个三角形的黄色旋钮。"
+        },
+        {
+          "letter": "C",
+          "text": "它是一个八边形的红色旋钮。"
+        },
+        {
+          "letter": "D",
+          "text": "它是一个圆形的橙色旋钮。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "它是一个八边形的红色旋钮。",
+      "explanation": "在较新的车辆上，拖车空气供应控制是一个八边形的红色旋钮。它用于控制牵引车保护阀。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10966",
+      "question": "在____之后制造的拖车必须配备防抱死制动系统(ABS)。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1943"
+        },
+        {
+          "letter": "B",
+          "text": "1998"
+        },
+        {
+          "letter": "C",
+          "text": "2009"
+        },
+        {
+          "letter": "D",
+          "text": "2015"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "1998",
+      "explanation": "在1998年3月1日或之后制造的拖车和转换拖车需要配备防抱死制动系统(ABS)。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10967",
+      "question": "防抱死制动系统(ABS)：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "允许车轮锁定。"
+        },
+        {
+          "letter": "B",
+          "text": "防止车轮锁定。"
+        },
+        {
+          "letter": "C",
+          "text": "使大型车辆更容易转向。"
+        },
+        {
+          "letter": "D",
+          "text": "协助制动灯的操作。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "防止车轮锁定。",
+      "explanation": "防抱死制动系统(ABS)的功能是在重度制动时防止车轮锁定。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8890",
+      "question": "倒车时带拖车，您应该如何转动方向盘？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "将方向盘的顶部转向您希望拖车去向的方向。"
+        },
+        {
+          "letter": "B",
+          "text": "将方向盘的顶部转向与您希望拖车去向相反的方向。"
+        },
+        {
+          "letter": "C",
+          "text": "这不重要。"
+        },
+        {
+          "letter": "D",
+          "text": "这取决于拖车倒车的位置。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "将方向盘的顶部转向与您希望拖车去向相反的方向。",
+      "explanation": "倒车时带拖车，将方向盘的顶部转向与您希望拖车去向相反的方向。一旦拖车开始转向，您应该然后切换方向盘的方向以跟随拖车。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10964",
+      "question": "拖车手阀应该用于：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "测试拖车制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "检查拖车和牵引车之间的连接。"
+        },
+        {
+          "letter": "C",
+          "text": "加速。"
+        },
+        {
+          "letter": "D",
+          "text": "用于测试拖车上的灯。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "测试拖车制动器。",
+      "explanation": "拖车手动制动阀，也称为手柄制动阀或约翰逊杆，用于操作拖车制动器。应仅用于测试制动器。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11562",
+      "question": "如果您需要倒车拖车但无法直线倒车，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "朝向乘客侧倒车。"
+        },
+        {
+          "letter": "B",
+          "text": "朝向驾驶员侧倒车。"
+        },
+        {
+          "letter": "C",
+          "text": "倒车时左右摇晃。"
+        },
+        {
+          "letter": "D",
+          "text": "总是向右转。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "朝向驾驶员侧倒车。",
+      "explanation": "如果您需要倒车拖车但无法直线倒车，您应该沿着朝向车辆驾驶员一侧的弯曲路径倒车。这将使您在倒车时获得最佳可见性。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8889",
+      "question": "什么是偏移跟踪？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "当车辆的前轮跟随与后轮不同的路径时"
+        },
+        {
+          "letter": "B",
+          "text": "当车辆的所有轮子都跟随完全相同的路径时"
+        },
+        {
+          "letter": "C",
+          "text": "当负载在转弯时移动时"
+        },
+        {
+          "letter": "D",
+          "text": "当车辆的轮子在转弯时驶过路缘时"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "当车辆的前轮跟随与后轮不同的路径时",
+      "explanation": "当车辆绕过一个转角时，后轮跟随与前轮不同的路径。这被称为偏移跟踪或\"作弊\"。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11600",
+      "question": "与其他商业机动车相比，组合车辆需要更多的道路空间，因为它们更长，并且需要：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "需要更多的转向和停止空间。"
+        },
+        {
+          "letter": "B",
+          "text": "驾驶速度更慢。"
+        },
+        {
+          "letter": "C",
+          "text": "宽度是两倍。"
+        },
+        {
+          "letter": "D",
+          "text": "更经常摇摆。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "需要更多的转向和停止空间。",
+      "explanation": "组合车辆需要比其他商业车辆更多的道路空间，因为它们更长，需要更多空间来转向和停止。在操作组合车辆时，妥善管理空间特别重要。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11459",
+      "question": "在行驶前，通过以下方式确保空气流向所有拖车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "打开后关闭阀并听取逸出的空气。"
+        },
+        {
+          "letter": "B",
+          "text": "关闭后关闭阀并听取逸出的空气。"
+        },
+        {
+          "letter": "C",
+          "text": "断开空气供应管线并听取逸出的空气。"
+        },
+        {
+          "letter": "D",
+          "text": "将每辆拖车滚动下坡并测试制动器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "打开后关闭阀并听取逸出的空气。",
+      "explanation": "在行程前，确保空气制动系统中的空气到达所有拖车。通过等待空气压力建立，然后将空气发送到应急和服务线，并打开最后一个拖车后部的关闭阀来完成此操作。如果空气从联合车后部的关闭阀逸出，则空气被供应到整个车辆。"
+    }
+  ]
+}

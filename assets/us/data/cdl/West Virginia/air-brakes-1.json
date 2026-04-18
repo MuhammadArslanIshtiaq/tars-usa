@@ -1,0 +1,652 @@
+{
+  "state": "West Virginia",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/west-virginia/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11105",
+      "question": "How should you use the controlled braking method?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Press the brakes as hard as you can without locking the wheels."
+        },
+        {
+          "letter": "B",
+          "text": "Press the brakes with about half force."
+        },
+        {
+          "letter": "C",
+          "text": "Press the brakes until the wheels lock."
+        },
+        {
+          "letter": "D",
+          "text": "Pump the brakes."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Press the brakes as hard as you can without locking the wheels.",
+      "explanation": "Controlled braking means pressing the brakes as hard as possible without locking the wheels. If you need to steer while braking, release the brakes, steer, then press the brakes again."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11718",
+      "question": "What should you do when making an emergency stop?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lock the wheels and skid to a stop."
+        },
+        {
+          "letter": "B",
+          "text": "Stop while keeping your vehicle in a straight line."
+        },
+        {
+          "letter": "C",
+          "text": "Stop while turning your vehicle."
+        },
+        {
+          "letter": "D",
+          "text": "Expect your vehicle to slow down faster than normal."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stop while keeping your vehicle in a straight line.",
+      "explanation": "In an emergency stop, you can use controlled braking or stab braking. Either way, brake so your vehicle stays in a straight line while still being able to turn if needed."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11954",
+      "question": "When should a low air pressure warning signal turn on?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When tank pressure drops below 120 psi."
+        },
+        {
+          "letter": "B",
+          "text": "When tank pressure drops below 60 psi."
+        },
+        {
+          "letter": "C",
+          "text": "When tank pressure drops below 10 psi."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When tank pressure drops below 60 psi.",
+      "explanation": "In an air brake system, the low pressure warning signal must turn on when air pressure drops below 60 psi. The signal can be a light, buzzer, or wig wag."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9004",
+      "question": "How do you use stab braking in an emergency?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Press the brakes fully until the wheels lock. Release the brakes until the wheels roll again. Repeat this process."
+        },
+        {
+          "letter": "B",
+          "text": "Press the brakes halfway while keeping the wheels rolling."
+        },
+        {
+          "letter": "C",
+          "text": "Press the brakes fully, lock the wheels, and hold the brakes until the vehicle stops."
+        },
+        {
+          "letter": "D",
+          "text": "Use the emergency brake."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Press the brakes fully until the wheels lock. Release the brakes until the wheels roll again. Repeat this process.",
+      "explanation": "Stab braking means fully pressing the brakes until they lock. Then release the brakes until the wheels start rolling, and repeat."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "10361",
+      "question": "How much compressed air do air tanks usually hold?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enough for one stop before refilling."
+        },
+        {
+          "letter": "B",
+          "text": "Enough for several stops before refilling."
+        },
+        {
+          "letter": "C",
+          "text": "Enough for a full day of braking."
+        },
+        {
+          "letter": "D",
+          "text": "Enough for unlimited stops."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Enough for several stops before refilling.",
+      "explanation": "Air storage tanks in an air brake system usually hold enough compressed air for the brakes to be used several times before needing to refill."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11682",
+      "question": "What is the maximum leakage rate for a double combination vehicle during a static leakage test?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 psi in one minute."
+        },
+        {
+          "letter": "B",
+          "text": "6 psi in one minute."
+        },
+        {
+          "letter": "C",
+          "text": "8 psi in one minute."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi in one minute."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "3 psi in one minute.",
+      "explanation": "For a double combination vehicle, leakage should not exceed 3 psi in one minute. If air leaks faster than this, the vehicle needs repairs before driving."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8990",
+      "question": "What should you do if the spring brakes are on?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do not use the brake pedal."
+        },
+        {
+          "letter": "B",
+          "text": "Press the accelerator."
+        },
+        {
+          "letter": "C",
+          "text": "Move the steering wheel."
+        },
+        {
+          "letter": "D",
+          "text": "Be extra careful because the brakes may fail."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Do not use the brake pedal.",
+      "explanation": "Do not press the brake pedal when spring brakes are on. Using both the air pressure and the springs together can damage the brakes."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10236",
+      "question": "When should you not use the parking brake?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When your vehicle is stopped on a level surface."
+        },
+        {
+          "letter": "B",
+          "text": "When your vehicle is stopped on a slight hill."
+        },
+        {
+          "letter": "C",
+          "text": "When your vehicle's brakes are very hot."
+        },
+        {
+          "letter": "D",
+          "text": "When your vehicle's other brakes seem to work well."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "When your vehicle's brakes are very hot.",
+      "explanation": "Do not use the parking brake if your brakes are very hot from a steep downgrade or if they are wet in freezing weather. Using the parking brake when brakes are hot can damage them. Using brakes when wet and frozen can cause them to ice up and lock."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "8997",
+      "question": "When can brakes get out of adjustment?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If they get too hot."
+        },
+        {
+          "letter": "B",
+          "text": "In cold weather."
+        },
+        {
+          "letter": "C",
+          "text": "If they are used."
+        },
+        {
+          "letter": "D",
+          "text": "If they get wet."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "If they get too hot.",
+      "explanation": "Brakes can quickly go out of adjustment when they overheat. Check brake adjustment frequently."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11706",
+      "question": "What should you do if the low pressure warning signal turns on while driving?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep driving normally."
+        },
+        {
+          "letter": "B",
+          "text": "Safely exit the road and park as soon as possible."
+        },
+        {
+          "letter": "C",
+          "text": "Stop where you are and park immediately."
+        },
+        {
+          "letter": "D",
+          "text": "Turn on your hazard lights and keep driving."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Safely exit the road and park as soon as possible.",
+      "explanation": "When the low pressure warning signal turns on, safely leave the road and park as soon as you can. If air pressure gets too low, your brakes may not work well enough to stop safely."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11710",
+      "question": "When you press the brake pedal, air pressure activates an electric switch. What does this do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn off the brake lights."
+        },
+        {
+          "letter": "B",
+          "text": "Turn on the low pressure warning light."
+        },
+        {
+          "letter": "C",
+          "text": "Turn on the brake lights."
+        },
+        {
+          "letter": "D",
+          "text": "Turn off the low pressure warning light."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Turn on the brake lights.",
+      "explanation": "When you press the brake pedal in a vehicle with air brakes, air pressure moves an electric switch. This switch turns on the brake lights."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11692",
+      "question": "What parts does the emergency brake system use?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only parts of the parking brake system."
+        },
+        {
+          "letter": "B",
+          "text": "Only parts of the service brake system."
+        },
+        {
+          "letter": "C",
+          "text": "Parts of both the parking and service brake systems."
+        },
+        {
+          "letter": "D",
+          "text": "Only parts unique to the emergency brake system."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Parts of both the parking and service brake systems.",
+      "explanation": "An air brake system has three different braking systems: service brakes, parking brakes, and emergency brakes. The emergency brake system uses parts from both the parking and service brake systems."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8876",
+      "question": "What equipment must truck tractors with air brakes have if they were built on or after March 1, 1997?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An extra set of brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Voice-activated brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Cruise control."
+        },
+        {
+          "letter": "D",
+          "text": "Anti-Lock Braking Systems (ABS)."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Anti-Lock Braking Systems (ABS).",
+      "explanation": "Truck tractors with air brakes built on or after March 1, 1997 must have Anti-Lock Braking Systems (ABS). Other vehicles with air brakes built on or after March 1, 1998 must also have ABS."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9382",
+      "question": "What should you do if the air pressure warning light comes on while driving?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continue driving normally."
+        },
+        {
+          "letter": "B",
+          "text": "Activate your hazard lights and continue driving."
+        },
+        {
+          "letter": "C",
+          "text": "Call the local law enforcement agency."
+        },
+        {
+          "letter": "D",
+          "text": "Safely exit the roadway and stop."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Safely exit the roadway and stop.",
+      "explanation": "If the air pressure warning light or buzzer comes on while driving, you should stop immediately and safely park the vehicle. This warning means there is a problem in the air brake system that needs to be fixed."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9381",
+      "question": "What must you do before driving a vehicle with dual air brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Full-capacity air pressure stays in the braking systems even when the vehicle is not running."
+        },
+        {
+          "letter": "B",
+          "text": "Some air pressure stays in the braking systems when the vehicle is not running."
+        },
+        {
+          "letter": "C",
+          "text": "Run the vehicle to build enough air pressure for the brakes to work properly."
+        },
+        {
+          "letter": "D",
+          "text": "No time is needed to build air pressure before a trip."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Run the vehicle to build enough air pressure for the brakes to work properly.",
+      "explanation": "Before driving a vehicle with dual air brakes, you must let the air compressor build up at least 100 psi of air pressure in both the primary and secondary systems."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10559",
+      "question": "What part of the truck is the air compressor connected to?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The transmission"
+        },
+        {
+          "letter": "B",
+          "text": "The engine"
+        },
+        {
+          "letter": "C",
+          "text": "The radiator"
+        },
+        {
+          "letter": "D",
+          "text": "The door latch"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "The engine",
+      "explanation": "The air compressor is connected to the engine through gears or a belt."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9001",
+      "question": "What can happen if you press and release the brake pedal too many times?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air is released faster than the compressor can replace it."
+        },
+        {
+          "letter": "B",
+          "text": "More air is added to the braking system."
+        },
+        {
+          "letter": "C",
+          "text": "The brake pedal becomes more sensitive."
+        },
+        {
+          "letter": "D",
+          "text": "A loud noise is created."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Air is released faster than the compressor can replace it.",
+      "explanation": "Pressing and releasing the brake pedal too many times can release air from the braking system faster than the compressor can replace it."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8861",
+      "question": "What does the air compressor governor control?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When the air compressor pumps air into the air storage tanks."
+        },
+        {
+          "letter": "B",
+          "text": "How quickly air leaves the air storage tanks."
+        },
+        {
+          "letter": "C",
+          "text": "The temperature of air entering the air storage tanks."
+        },
+        {
+          "letter": "D",
+          "text": "The temperature of air leaving the air storage tanks."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "When the air compressor pumps air into the air storage tanks.",
+      "explanation": "The air compressor governor controls when the air compressor pumps air into the air storage tanks."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8884",
+      "question": "When do brakes fade?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When brakes are not used often enough."
+        },
+        {
+          "letter": "B",
+          "text": "When brakes overheat."
+        },
+        {
+          "letter": "C",
+          "text": "When brakes are too cold."
+        },
+        {
+          "letter": "D",
+          "text": "When brakes are wet."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When brakes overheat.",
+      "explanation": "Using the brakes too much causes them to overheat and become less effective. This is called \"fading.\""
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8864",
+      "question": "How is water and oil removed from an air storage tank?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The water and oil are siphoned out of the tank."
+        },
+        {
+          "letter": "B",
+          "text": "A drain valve is opened to remove the water and oil."
+        },
+        {
+          "letter": "C",
+          "text": "The water and oil are removed automatically as the brakes are used."
+        },
+        {
+          "letter": "D",
+          "text": "A sponge is used to soak up the water and oil."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "A drain valve is opened to remove the water and oil.",
+      "explanation": "Water and oil are removed from air storage tanks by opening a drain valve. If left in the system, this buildup can damage the brakes. Manually operated tanks must be drained every day."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11722",
+      "question": "A vehicle with air brakes traveling at 55 mph in good conditions needs approximately how many feet to stop completely?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 feet"
+        },
+        {
+          "letter": "B",
+          "text": "250 feet"
+        },
+        {
+          "letter": "C",
+          "text": "300 feet"
+        },
+        {
+          "letter": "D",
+          "text": "450 feet"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "450 feet",
+      "explanation": "Stopping distance includes four parts: the time to see a hazard, the time to react, brake system lag, and actual braking. At 55 mph in good conditions, an air brake vehicle needs about 450 feet to stop completely."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11694",
+      "question": "In a vehicle with dual parking control valves, what happens when air pressure is lost and the spring brakes activate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You cannot move the vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "A separate air tank can release the spring brakes for a short time."
+        },
+        {
+          "letter": "C",
+          "text": "You can use the spring brakes to drive normally."
+        },
+        {
+          "letter": "D",
+          "text": "The air tanks refill automatically to a safe level."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "A separate air tank can release the spring brakes for a short time.",
+      "explanation": "Vehicles with dual parking control valves have a separate air tank. You can use this tank to temporarily release the spring brakes in an emergency. This gives you a short time to move the vehicle."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11465",
+      "question": "What is the maximum air leakage rate allowed for a double combination vehicle during a leakage test?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi per minute"
+        },
+        {
+          "letter": "B",
+          "text": "8 psi per minute"
+        },
+        {
+          "letter": "C",
+          "text": "6 psi per minute"
+        },
+        {
+          "letter": "D",
+          "text": "4 psi per minute"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4 psi per minute",
+      "explanation": "Each vehicle type has a safe maximum air loss rate. A double combination vehicle should not lose more than 4 psi per minute during a leakage test."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "10625",
+      "question": "When do you need a tank endorsement on your license?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only when transporting gases"
+        },
+        {
+          "letter": "B",
+          "text": "Only when transporting liquids"
+        },
+        {
+          "letter": "C",
+          "text": "When transporting liquids or gases"
+        },
+        {
+          "letter": "D",
+          "text": "It is optional for transporting hazardous materials"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "When transporting liquids or gases",
+      "explanation": "You need a tank endorsement to transport liquids or gases. This includes both hazardous and non-hazardous materials, with some exceptions."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "9137",
+      "question": "When should service brakes be tested?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Once a month"
+        },
+        {
+          "letter": "B",
+          "text": "Only by a trained mechanic"
+        },
+        {
+          "letter": "C",
+          "text": "Before every trip"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Before every trip",
+      "explanation": "Always test your service brakes before you drive. Testing them before each trip helps you find problems before you need to brake on the road."
+    }
+  ]
+}

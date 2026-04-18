@@ -1,0 +1,560 @@
+{
+  "state": "Missouri",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/missouri/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8757",
+      "question": "A safety valve opens at ____ pounds per square inch (psi).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100"
+        },
+        {
+          "letter": "B",
+          "text": "150"
+        },
+        {
+          "letter": "C",
+          "text": "200"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "150",
+      "explanation": "The safety valve protects air tanks and the air brake system from too much pressure. It usually opens at 150 psi."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11896",
+      "question": "In a dual air brake system, air pressure should build from 85 to 100 psi within ____ seconds.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25"
+        },
+        {
+          "letter": "B",
+          "text": "10"
+        },
+        {
+          "letter": "C",
+          "text": "45"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "45",
+      "explanation": "When checking a dual air brake system, air pressure should build from 85 to 100 psi in both systems. This takes about 45 seconds."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8634",
+      "question": "A dual air brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has two separate air brake systems that use one set of controls."
+        },
+        {
+          "letter": "B",
+          "text": "Is one air brake system with two different sets of controls."
+        },
+        {
+          "letter": "C",
+          "text": "Has one system for the left side and one for the right side, each with its own controls."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Has two separate air brake systems that use one set of controls.",
+      "explanation": "A dual air brake system has two separate air brake systems. They share one set of brake controls. Each system has its own air tanks, hoses, and lines. One system usually operates the front brakes. The other operates the rear brakes."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9295",
+      "question": "An alcohol evaporator in an air brake system:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Makes the brakes work without noise."
+        },
+        {
+          "letter": "B",
+          "text": "Stops ice from forming in the brake system."
+        },
+        {
+          "letter": "C",
+          "text": "Oils the brake parts."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stops ice from forming in the brake system.",
+      "explanation": "Some air brake systems have an evaporator. It adds alcohol to the system to help prevent ice from forming."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11890",
+      "question": "While driving, ____ normally holds spring brakes in place.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air pressure"
+        },
+        {
+          "letter": "B",
+          "text": "Electricity"
+        },
+        {
+          "letter": "C",
+          "text": "Gasoline"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Air pressure",
+      "explanation": "While driving, air pressure holds spring brakes in place. If air pressure drops low enough, the springs activate the brakes."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "9605",
+      "question": "What stops wheels from locking up when braking?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An Anti-Lock Braking System (ABS)"
+        },
+        {
+          "letter": "B",
+          "text": "Air brakes"
+        },
+        {
+          "letter": "C",
+          "text": "An alternator"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "An Anti-Lock Braking System (ABS)",
+      "explanation": "An Anti-Lock Braking System (ABS) prevents wheels from locking up when the brakes are applied."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8753",
+      "question": "Which item is NOT part of an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air gauges"
+        },
+        {
+          "letter": "B",
+          "text": "Low pressure warning device"
+        },
+        {
+          "letter": "C",
+          "text": "Air filter"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Air filter",
+      "explanation": "Air brake systems include an air compressor, air storage tanks, a safety valve, gauges, a low pressure warning, spring brakes, and parking brake controls. An air filter is not part of an air brake system."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8625",
+      "question": "The air storage tanks:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hold air for only one braking cycle."
+        },
+        {
+          "letter": "B",
+          "text": "Hold enough air to brake several times if the compressor fails."
+        },
+        {
+          "letter": "C",
+          "text": "Only hold air in an emergency."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Hold enough air to brake several times if the compressor fails.",
+      "explanation": "Air storage tanks store compressed air for braking. They hold enough air so you can brake several times even if the compressor stops working."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11889",
+      "question": "For a single vehicle with air brakes, leakage should be no more than ____ psi in one minute during a static test.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1"
+        },
+        {
+          "letter": "B",
+          "text": "2"
+        },
+        {
+          "letter": "C",
+          "text": "3"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2",
+      "explanation": "In a static leakage test for a single vehicle, air loss should not exceed 2 psi per minute. Faster leakage means the system needs repair and the vehicle should not be driven."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11535",
+      "question": "For a triple combination vehicle, the maximum leakage rate is ____ psi in one minute during an applied test.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2"
+        },
+        {
+          "letter": "B",
+          "text": "4"
+        },
+        {
+          "letter": "C",
+          "text": "6"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "6",
+      "explanation": "A triple combination vehicle should have a leakage rate of no more than 6 psi per minute during an applied leakage test."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11898",
+      "question": "If air pressure drops to between ____, a warning light should turn on.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55 and 75 psi."
+        },
+        {
+          "letter": "B",
+          "text": "80 and 95 psi."
+        },
+        {
+          "letter": "C",
+          "text": "65 and 100 psi."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "55 and 75 psi.",
+      "explanation": "A warning light should turn on before air pressure drops to between 55 and 75 psi. The warning can be a light, a buzzer, or a wig wag."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11533",
+      "question": "Before driving a vehicle with air brakes, check that the ____ turn on automatically when air pressure falls below 45 psi.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spring brakes"
+        },
+        {
+          "letter": "B",
+          "text": "Parking brakes"
+        },
+        {
+          "letter": "C",
+          "text": "Air brakes"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Spring brakes",
+      "explanation": "Before driving, check that spring brakes turn on automatically when air tank pressure drops to between 20 and 45 psi. You can test this by chocking the wheels and releasing air by pressing the brake pedal on and off. When pressure gets too low, the parking brake valve will pop out and spring brakes will turn on."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8624",
+      "question": "What does an air compressor do in an air brake system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It pumps air into the air storage tanks."
+        },
+        {
+          "letter": "B",
+          "text": "It fills the tires."
+        },
+        {
+          "letter": "C",
+          "text": "It moves air to the back of the truck."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "It pumps air into the air storage tanks.",
+      "explanation": "The air compressor pumps air into the air storage tanks. The air compressor governor controls when the compressor runs."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9299",
+      "question": "When parked on a flat surface, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use wheel chocks to stop your vehicle from moving."
+        },
+        {
+          "letter": "B",
+          "text": "Not use wheel chocks."
+        },
+        {
+          "letter": "C",
+          "text": "Use wheel chocks only if you have set the parking brake."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Use wheel chocks to stop your vehicle from moving.",
+      "explanation": "When parking on a flat surface, use wheel chocks. This is especially important for vehicles without spring brakes to prevent the trailer from rolling."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8628",
+      "question": "To get normal stopping power, drivers with a front brake limiting valve should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Set the control to normal."
+        },
+        {
+          "letter": "B",
+          "text": "Set the control to off."
+        },
+        {
+          "letter": "C",
+          "text": "Set the control to neutral."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Set the control to normal.",
+      "explanation": "Some older vehicles have front brake limiting valves with \"normal\" and \"slippery\" settings. Setting it to \"slippery\" reduces stopping power. Always keep the valve in \"normal\" position. Front wheel braking works well in all driving conditions."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "10308",
+      "question": "Air brakes use ____ to work.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compressed air"
+        },
+        {
+          "letter": "B",
+          "text": "Liquid air"
+        },
+        {
+          "letter": "C",
+          "text": "Nitrogen"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Compressed air",
+      "explanation": "Air brakes work using compressed air."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11905",
+      "question": "In an emergency stop, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turn your trailer right and stop."
+        },
+        {
+          "letter": "B",
+          "text": "Stop in a straight line."
+        },
+        {
+          "letter": "C",
+          "text": "Turn your trailer left and stop."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stop in a straight line.",
+      "explanation": "In an emergency, use controlled braking or stab braking. Brake in a way that keeps your vehicle straight but lets you turn if needed."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10079",
+      "question": "Air tank drains should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only be used by mechanics."
+        },
+        {
+          "letter": "B",
+          "text": "Only be used when it is wet outside."
+        },
+        {
+          "letter": "C",
+          "text": "Be used to drain the tanks completely."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Be used to drain the tanks completely.",
+      "explanation": "Air tank drains remove water and compressor oil from the air tanks. Always drain the tank completely."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11893",
+      "question": "In a vehicle with dual parking control valves, a separate air tank can be used to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Make the air brakes work better."
+        },
+        {
+          "letter": "B",
+          "text": "Temporarily release the spring brakes."
+        },
+        {
+          "letter": "C",
+          "text": "Fill the brakes on the rear trailer."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Temporarily release the spring brakes.",
+      "explanation": "A vehicle with dual parking control valves has a separate air tank to temporarily release spring brakes if they turn on due to low air pressure. Pushing the right control releases the spring brakes for a short time so you can move the vehicle in an emergency."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8769",
+      "question": "When going down a steep hill:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use the air brakes."
+        },
+        {
+          "letter": "B",
+          "text": "Put the vehicle in low gear and use engine braking."
+        },
+        {
+          "letter": "C",
+          "text": "Downshift instead of using the brakes."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Put the vehicle in low gear and use engine braking.",
+      "explanation": "On long or steep hills, mainly use engine braking to control speed. Use the brakes only to help slow down."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "9296",
+      "question": "What does it mean if the safety relief valve in an air brake system is releasing air?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "This is normal and you should not worry."
+        },
+        {
+          "letter": "B",
+          "text": "Something is wrong with the brakes."
+        },
+        {
+          "letter": "C",
+          "text": "The valve is working correctly."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Something is wrong with the brakes.",
+      "explanation": "The safety relief valve releases air to prevent pressure from getting too high. If it is releasing air, something is wrong. Have a mechanic repair it."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11532",
+      "question": "A slack adjuster should move no more than ____ from the push rod attachment point.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two inches"
+        },
+        {
+          "letter": "B",
+          "text": "Five inches"
+        },
+        {
+          "letter": "C",
+          "text": "One inch"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "One inch",
+      "explanation": "Before driving, check each slack adjuster. Pull it to make sure it moves no more than one inch. If it moves more than one inch, it needs adjustment and repair."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11899",
+      "question": "What should you do if the low pressure warning signal activates while driving?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop immediately where you are"
+        },
+        {
+          "letter": "B",
+          "text": "Leave the roadway safely as soon as possible"
+        },
+        {
+          "letter": "C",
+          "text": "Keep driving normally"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Leave the roadway safely as soon as possible",
+      "explanation": "If the low pressure warning activates while driving, exit the roadway safely and park. Low air pressure means your brakes will not work well enough to stop safely."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8760",
+      "question": "What is a wig wag?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A low pressure warning device."
+        },
+        {
+          "letter": "B",
+          "text": "A tube that carries air to the brakes."
+        },
+        {
+          "letter": "C",
+          "text": "A type of air brake system."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "A low pressure warning device.",
+      "explanation": "A wig wag is a low air pressure warning device. It drops a mechanical arm into your view if air pressure drops between 55 and 75 psi."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8640",
+      "question": "What happens if ABS is on only one axle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It can be dangerous."
+        },
+        {
+          "letter": "B",
+          "text": "You still have better control when braking."
+        },
+        {
+          "letter": "C",
+          "text": "It slows the vehicle but cannot stop it."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You still have better control when braking.",
+      "explanation": "Even with ABS on only one axle, you have more braking control than without ABS. Brake normally."
+    }
+  ]
+}

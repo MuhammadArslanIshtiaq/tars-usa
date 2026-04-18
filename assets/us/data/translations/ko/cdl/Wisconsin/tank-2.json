@@ -1,0 +1,494 @@
+{
+  "state": "Wisconsin",
+  "category": "cdl",
+  "testName": "Tank Test #2 20 Questions • Passing Score 16",
+  "testSlug": "tank-2",
+  "url": "/images/wisconsin/cdl/tank-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "8957",
+      "question": "식별 번호, 배송 이름 및 위험 등급:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "작은 종이를 사용하는 경우 배송 용지에 약자로 표기해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "읽기 쉽게 하기 위해 배송 용지에 약자로 표기해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "배송 용지에 약자로 표기되어서는 안 됩니다."
+        },
+        {
+          "letter": "D",
+          "text": "약자가 쉽게 이해되는 경우에만 배송 용지에 약자로 표기해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "배송 용지에 약자로 표기되어서는 안 됩니다.",
+      "explanation": "식별 번호, 배송 이름 및 위험 등급은 배송 용지에 나열될 때 절대로 약자로 표기되어서는 안 됩니다. 이 규칙의 유일한 예외는 약자가 위험물 규정에서 특별히 허용되는 경우입니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9880",
+      "question": "운전 중 핸즈프리 전화로 통화하기:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전자를 산만하게 하지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "운전자가 말하고 있는 경우에만 운전자를 산만하게 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "운전자를 산만하게 할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "운전자를 산만하게 할 수 있습니다.",
+      "explanation": "운전 중 핸즈프리 전화로 통화하는 것이 핸드헬드 전화로 통화하는 것보다 덜 위험하지만, 운전자를 정신적으로 산만하게 할 가능성은 동일합니다. 단순히 대화에 참여하는 것만으로도 운전 작업에 대한 정신적 집중력을 빼앗깁니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9596",
+      "question": "미끄러운 표면에서 정지 거리:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일반 주행 표면보다 더 깁니다."
+        },
+        {
+          "letter": "B",
+          "text": "일반 주행 표면보다 짧지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "일반 주행 표면과 거의 같습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "일반 주행 표면보다 더 깁니다.",
+      "explanation": "미끄러운 표면에서는 그립이 적기 때문에 차량의 일반적인 정지 거리가 증가합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9431",
+      "question": "다중 속도 차축과 보조 변속기는 왜 사용됩니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량을 더 부드럽게 작동하게 하기 위해"
+        },
+        {
+          "letter": "B",
+          "text": "추가 기어를 제공하기 위해"
+        },
+        {
+          "letter": "C",
+          "text": "차량의 연비를 개선하기 위해"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "추가 기어를 제공하기 위해",
+      "explanation": "많은 차량에서 추가 기어를 제공하기 위해 다중 속도 후진 차축과 보조 변속기가 사용됩니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9543",
+      "question": "ABS가 장착된 트랙터-트레일러를 운전할 때 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "평소보다 더 강하게 정지합니다."
+        },
+        {
+          "letter": "B",
+          "text": "ABS가 작동하도록 하기 위해 추가 브레이킹 힘을 사용하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "평소처럼 브레이크를 작동합니다."
+        },
+        {
+          "letter": "D",
+          "text": "평소보다 적은 압력으로 브레이크를 작동합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "평소처럼 브레이크를 작동합니다.",
+      "explanation": "ABS(잠금 방지 제동 시스템)가 장착된 트랙터-트레일러 연결 차량을 운전할 때는 ABS가 없는 차량에서 하는 것과 같은 방식으로 브레이크를 작동해야 합니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10254",
+      "question": "액체 서지를 제어하기 위해 운전자는 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "급제동합니다."
+        },
+        {
+          "letter": "B",
+          "text": "뒤따르는 거리를 줄일 것."
+        },
+        {
+          "letter": "C",
+          "text": "빠르게 제동합니다."
+        },
+        {
+          "letter": "D",
+          "text": "정지 전에 충분히 미리 제동합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "정지 전에 충분히 미리 제동합니다.",
+      "explanation": "특히 정지 및 출발 시 배플이 없는 탱크가 있는 차량을 천천히 신중하게 운전하십시오. 정지하기 전에 충분히 미리 제동하고 추종 거리를 늘리십시오."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10242",
+      "question": "조합 차량이 코너 주변을 돌 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "회전은 가능한 한 타이트하게 수행되어야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞뒤 바퀴가 서로 다른 경로로 이동합니다."
+        },
+        {
+          "letter": "C",
+          "text": "뒷바퀴는 연석을 넘어야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "거리에 너무 가깝게 있으면 도로 표지판을 넘어뜨리는 것이 허용됩니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "앞뒤 바퀴가 서로 다른 경로로 이동합니다.",
+      "explanation": "차량이 코너 주변을 돌 때 뒷바퀴는 앞바퀴와 다른 경로를 따릅니다. 이를 오프트래킹이라고 합니다. 이 현상은 트레일러가 있는 차량에서 특히 두드러집니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "8583",
+      "question": "1997년 3월 1일 이후에 제조된 트럭 트랙터는 다음을 갖춰야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anti-Lock Braking System (ABS)"
+        },
+        {
+          "letter": "B",
+          "text": "깃발"
+        },
+        {
+          "letter": "C",
+          "text": "유압 브레이크"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Anti-Lock Braking System (ABS)",
+      "explanation": "1997년 3월 1일 이후에 제조된 에어 브레이크가 있는 트럭 트랙터는 안티락 브레이킹 시스템(ABS)을 갖추도록 요구됩니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11616",
+      "question": "트레일러에 에어 라인을 연결한 후 결합할 때 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "트레일러에 공기를 공급합니다."
+        },
+        {
+          "letter": "B",
+          "text": "바퀴에 쐐기를 끼우기."
+        },
+        {
+          "letter": "C",
+          "text": "5번째 휠을 점검하기."
+        },
+        {
+          "letter": "D",
+          "text": "전기 코드 연결하기."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "트레일러에 공기를 공급합니다.",
+      "explanation": "트레일러를 올바르게 연결 및 분리하는 단계를 따르는 것은 연결 차량을 안전하게 운전하는 데 매우 중요합니다. 연결할 때 트레일러에 에어 라인을 연결한 후, 트레일러에 공기를 공급해야 합니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9236",
+      "question": "타이어를 점검할 때 다음을 찾고 싶지 않습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/32인치 깊이의 타이어 트레드."
+        },
+        {
+          "letter": "B",
+          "text": "손상이 없는 밸브 스템."
+        },
+        {
+          "letter": "C",
+          "text": "일치하지 않는 타이어 크기."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "일치하지 않는 타이어 크기.",
+      "explanation": "앞타이어의 모든 주요 홈에 최소 4/32인치의 트레드 깊이가 있어야 하고 다른 타이어에는 2/32인치가 있어야 합니다. 밸브 스템이 절단되거나 균열되지 않아야 합니다. 타이어 크기가 일치하지 않아야 합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8922",
+      "question": "화주는 다음의 배송 서류 사본을 보관해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6주."
+        },
+        {
+          "letter": "B",
+          "text": "6개월."
+        },
+        {
+          "letter": "C",
+          "text": "1년."
+        },
+        {
+          "letter": "D",
+          "text": "2년입니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "2년입니다.",
+      "explanation": "화주는 위험물질 배송 서류의 실본 또는 전자 이미지를 초기 운송업체가 재료를 수령한 후 최소 2년 동안 보관해야 합니다. 위험 폐기물의 경우 이는 3년으로 늘어납니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9638",
+      "question": "헤드셋을 착용한 조깅자들은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일반적으로 주변에서 일어나는 일을 인식합니다."
+        },
+        {
+          "letter": "B",
+          "text": "주변에서 일어나는 일을 인식하지 못할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "교통음을 명확하게 들을 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "일반적으로 음악을 재생하지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "주변에서 일어나는 일을 인식하지 못할 수 있습니다.",
+      "explanation": "헤드폰을 착용한 보행자, 조깅자, 자전거 운전자 주변에서 조심하세요. 그들은 주변 교통음을 명확하게 들을 수 없으며 당신이 있다는 것을 알지 못할 수 있습니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9416",
+      "question": "휠 너트 주변의 녹은 다음을 의미할 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "최근에 비가 내렸습니다."
+        },
+        {
+          "letter": "B",
+          "text": "너트가 느슨할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "타이어를 교체해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "너트가 느슨할 수 있습니다.",
+      "explanation": "휠 너트 주변의 녹은 그들이 느슨하다는 것을 의미할 수 있습니다. 이 지역에 녹이 보이면 너트의 조임을 확인하십시오."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8975",
+      "question": "어떤 표지판을 사용해야 하는지 알기 위해서는 다음을 알아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "물질의 위험 등급."
+        },
+        {
+          "letter": "B",
+          "text": "물질을 담는 용기의 종류."
+        },
+        {
+          "letter": "C",
+          "text": "목적지."
+        },
+        {
+          "letter": "D",
+          "text": "선적인."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "물질의 위험 등급.",
+      "explanation": "어떤 유해물질 표지판을 사용할지 결정하기 위해서는 물질의 위험 등급, 운송되는 유해물질의 양, 그리고 차량에 있는 모든 등급의 유해물질의 총 무게를 알아야 합니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9249",
+      "question": "당신의 차량보다 작은 차량:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일반적으로 당신의 차량보다 더 빨리 정지할 수 있을 것입니다."
+        },
+        {
+          "letter": "B",
+          "text": "일반적으로 당신의 차량보다 정지하는 데 더 많은 시간이 걸릴 것입니다."
+        },
+        {
+          "letter": "C",
+          "text": "당신의 차량과 대략 같은 시간에 정지할 것입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "일반적으로 당신의 차량보다 더 빨리 정지할 수 있을 것입니다.",
+      "explanation": "일반적으로 더 작은 차량은 더 큰 차량보다 완전히 정지하는 것이 더 빠릅니다. 뒤따르는 거리를 결정할 때 이를 염두에 두십시오."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9007",
+      "question": "매우 습한 날씨에 기온이 영하일 때 주차 브레이크를 사용하면 어떤 일이 발생할 수 있습니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "브레이크가 삐걱거릴 것입니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크가 얼어서 차량이 움직이지 않을 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크가 갑자기 저절로 풀릴 수 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "브레이크가 폭발할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "브레이크가 얼어서 차량이 움직이지 않을 수 있습니다.",
+      "explanation": "날씨가 매우 습하고 기온이 영하일 때 주차 브레이크를 사용하면 브레이크가 얼어서 차량이 움직이지 않을 수 있습니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9403",
+      "question": "Class 3 인화성 액체를 운송 중이고 화물을 다른 탱크로 옮겨야 하는 경우, 인화성 액체는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "다른 사람이 근처에 없는 한 도로에서 이전될 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "긴급 상황이 아닌 한 공공 도로에서 이전되어서는 안 됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "다른 탱크로 옮겨질 때 비밀로 유지되어야 합니다."
+        },
+        {
+          "letter": "D",
+          "text": "밤에 이전되어야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "긴급 상황이 아닌 한 공공 도로에서 이전되어서는 안 됩니다.",
+      "explanation": "인화성 액체는 긴급 상황으로 인해 이동하는 경우를 제외하고 공공 도로에서 한 차량에서 다른 차량으로 이전되어서는 안 됩니다. 항상 물질이 제시하는 위험에 대해 다른 사람들에게 경고하십시오."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8996",
+      "question": "ABS 브레이크는 무엇을 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전자가 바퀴 잠김을 피하도록 도움"
+        },
+        {
+          "letter": "B",
+          "text": "앞 바퀴를 잠금"
+        },
+        {
+          "letter": "C",
+          "text": "언덕을 올라가며 주행 중 차량이 가속되는 것을 방지"
+        },
+        {
+          "letter": "D",
+          "text": "언덕을 내려가며 주행 중 차량이 가속되는 것을 방지"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "운전자가 바퀴 잠김을 피하도록 도움",
+      "explanation": "ABS(Anti-Lock Braking System)의 기능은 강한 브레이크 적용으로 인한 차량의 바퀴 잠김을 방지하는 것입니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8573",
+      "question": "위험을 피하기 위해 회전하는 경우:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "세게 브레이크를 밟아야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "바퀴가 잠길 수 있으므로 브레이크를 밟으면 안 됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "매우 날카롭게 회전해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "바퀴가 잠길 수 있으므로 브레이크를 밟으면 안 됩니다.",
+      "explanation": "위험을 피하기 위해 빠르게 회전할 때 브레이크를 밟으면 안 됩니다. 이렇게 하면 바퀴가 잠길 수 있고 차량이 통제 불능으로 미끄러질 수 있습니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8697",
+      "question": "위험 물질 용기를 적재할 때 다음을 사용하지 않아야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "돌리."
+        },
+        {
+          "letter": "B",
+          "text": "갈고리."
+        },
+        {
+          "letter": "C",
+          "text": "스트랩."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "갈고리.",
+      "explanation": "항상 위험 물질 용기를 보호하십시오. 위험 물질을 적재할 때 갈고리와 같이 용기나 포장을 손상시킬 수 있는 장비를 절대 사용하지 마십시오."
+    }
+  ]
+}

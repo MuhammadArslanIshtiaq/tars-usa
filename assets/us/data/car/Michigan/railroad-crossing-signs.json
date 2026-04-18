@@ -1,0 +1,373 @@
+{
+  "state": "Michigan",
+  "category": "car",
+  "quizName": "Railroad Crossing Signs Test",
+  "slug": "railroad-crossing-signs",
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/no-train-horn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No honking near railroad crossing"
+        },
+        {
+          "letter": "B",
+          "text": "Horn required before crossing tracks"
+        },
+        {
+          "letter": "C",
+          "text": "Noise restriction zone — reduce speed"
+        },
+        {
+          "letter": "D",
+          "text": "Trains do not sound their horn at this crossing"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Trains do not sound their horn at this crossing",
+      "explanation": "This sign indicates a quiet zone where trains do not routinely sound their horns when approaching the crossing. Drivers must be extra cautious since there will be no audible warning."
+    },
+    {
+      "questionNumber": 2,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/highway-rail-crossing-on-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right turn leads to a train station"
+        },
+        {
+          "letter": "B",
+          "text": "Highway exit on the right"
+        },
+        {
+          "letter": "C",
+          "text": "Highway-rail crossing on the right ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Parallel road ahead on the right"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Highway-rail crossing on the right ahead",
+      "explanation": "This advance warning sign indicates a highway-railroad crossing is located to the right of the road ahead. Drivers should be prepared to stop."
+    },
+    {
+      "questionNumber": 3,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/light-rail-transit-station-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bus stop ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Train depot — no public access"
+        },
+        {
+          "letter": "C",
+          "text": "Park-and-ride facility ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Light rail transit station ahead"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Light rail transit station ahead",
+      "explanation": "This sign alerts drivers that a light rail transit station is ahead. Watch for pedestrians crossing to reach the station and for light rail vehicles entering or leaving."
+    },
+    {
+      "questionNumber": 4,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/light-rail-vehicle-approaching.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Light rail station loading zone"
+        },
+        {
+          "letter": "B",
+          "text": "Light rail vehicle approaching — do not cross"
+        },
+        {
+          "letter": "C",
+          "text": "Rail vehicle speed zone ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Light rail crossing temporarily closed"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Light rail vehicle approaching — do not cross",
+      "explanation": "This sign warns that a light rail vehicle is approaching. Drivers and pedestrians must not cross the tracks until the light rail vehicle has passed and signals indicate it is safe."
+    },
+    {
+      "questionNumber": 5,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/light-rail-only-lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bus and rail shared lane ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Rail crossing in the right lane"
+        },
+        {
+          "letter": "C",
+          "text": "Lane reserved for light rail vehicles only"
+        },
+        {
+          "letter": "D",
+          "text": "Light rail station parking ahead"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Lane reserved for light rail vehicles only",
+      "explanation": "This sign indicates a lane that is exclusively for light rail transit vehicles. Other vehicles are prohibited from using this lane."
+    },
+    {
+      "questionNumber": 6,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/no-left-turn-across-tracks.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No left turn across railroad tracks"
+        },
+        {
+          "letter": "B",
+          "text": "Left lane closed at railroad crossing"
+        },
+        {
+          "letter": "C",
+          "text": "No U-turn at railroad crossing"
+        },
+        {
+          "letter": "D",
+          "text": "Left turn signal for trains only"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No left turn across railroad tracks",
+      "explanation": "This sign prohibits left turns that would cross over railroad tracks. Turning across tracks can be extremely dangerous if a train is approaching."
+    },
+    {
+      "questionNumber": 7,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/do-not-drive-on-tracks.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Railroad crossing ahead — slow down"
+        },
+        {
+          "letter": "B",
+          "text": "Tracks are closed for maintenance"
+        },
+        {
+          "letter": "C",
+          "text": "Do not drive on railroad tracks"
+        },
+        {
+          "letter": "D",
+          "text": "Trains may not be running on these tracks"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Do not drive on railroad tracks",
+      "explanation": "This sign prohibits vehicles from driving on railroad tracks. Driving on tracks is illegal and extremely dangerous, as trains cannot stop quickly."
+    },
+    {
+      "questionNumber": 8,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/railroad-crossbuck.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Railroad crossing — yield to trains"
+        },
+        {
+          "letter": "B",
+          "text": "Intersection ahead — yield to cross traffic"
+        },
+        {
+          "letter": "C",
+          "text": "No passing zone at railroad"
+        },
+        {
+          "letter": "D",
+          "text": "Road crosses active rail yard"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Railroad crossing — yield to trains",
+      "explanation": "The railroad crossbuck is placed at railroad-highway crossings. It means you must yield the right of way to trains. Look both ways, listen, and be prepared to stop."
+    },
+    {
+      "questionNumber": 9,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/xx-feet-between-tracks-and-highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shows distance between railroad tracks and a nearby intersection"
+        },
+        {
+          "letter": "B",
+          "text": "Maximum vehicle length allowed on tracks"
+        },
+        {
+          "letter": "C",
+          "text": "Speed limit within the rail crossing zone"
+        },
+        {
+          "letter": "D",
+          "text": "Distance to the next railroad crossing"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Shows distance between railroad tracks and a nearby intersection",
+      "explanation": "This sign indicates the distance between the railroad tracks and a nearby road intersection. It warns drivers that there is limited space between the crossing and the intersection, so avoid stopping on the tracks."
+    },
+    {
+      "questionNumber": 10,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/do-not-pass-stopped-trains.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trains have the right of way at all crossings"
+        },
+        {
+          "letter": "B",
+          "text": "Stop and wait for the train to move"
+        },
+        {
+          "letter": "C",
+          "text": "Do not pass around stopped trains"
+        },
+        {
+          "letter": "D",
+          "text": "Sound your horn before crossing tracks"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Do not pass around stopped trains",
+      "explanation": "This sign warns drivers not to go around a stopped train. A train may extend across more tracks or another train may be approaching from the other direction."
+    },
+    {
+      "questionNumber": 11,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/railroad-crossing-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Train station entrance ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Railroad maintenance zone"
+        },
+        {
+          "letter": "C",
+          "text": "Railroad crossing ahead — be prepared to stop"
+        },
+        {
+          "letter": "D",
+          "text": "Road closed at railroad crossing"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Railroad crossing ahead — be prepared to stop",
+      "explanation": "This advance warning sign alerts drivers that a railroad crossing is ahead. Slow down, look and listen for trains, and be prepared to stop if a train is approaching."
+    },
+    {
+      "questionNumber": 12,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/parallel-railroad-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two parallel roads ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Railroad tracks run parallel to the road — watch for turns crossing tracks"
+        },
+        {
+          "letter": "C",
+          "text": "Divided highway with rail in median"
+        },
+        {
+          "letter": "D",
+          "text": "Side road crosses railroad tracks"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Railroad tracks run parallel to the road — watch for turns crossing tracks",
+      "explanation": "This sign warns that railroad tracks run alongside the road and a turn ahead will cross the tracks. Watch carefully for trains when making the turn."
+    },
+    {
+      "questionNumber": 13,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/no-signal-at-tracks.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traffic signal out of order ahead"
+        },
+        {
+          "letter": "B",
+          "text": "No stopping permitted near tracks"
+        },
+        {
+          "letter": "C",
+          "text": "Abandoned railroad crossing ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Railroad crossing ahead with no signal or gate"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Railroad crossing ahead with no signal or gate",
+      "explanation": "This sign warns that the railroad crossing ahead does not have automated signals or gates. Drivers must look and listen carefully for approaching trains before crossing."
+    },
+    {
+      "questionNumber": 14,
+      "question": "What does this sign mean?",
+      "image": "/images/railroad-crossing-signs/low-ground-clearance-on-track.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Steep grade crossing ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Uneven road surface at tracks"
+        },
+        {
+          "letter": "C",
+          "text": "Speed bump before railroad tracks"
+        },
+        {
+          "letter": "D",
+          "text": "Low ground clearance railroad crossing ahead"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Low ground clearance railroad crossing ahead",
+      "explanation": "This sign warns drivers of vehicles with low ground clearance (trailers, low-riders, etc.) that the railroad crossing may cause their vehicle to get stuck on the tracks."
+    }
+  ]
+}

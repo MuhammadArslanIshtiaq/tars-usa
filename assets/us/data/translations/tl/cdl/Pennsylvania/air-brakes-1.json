@@ -1,0 +1,656 @@
+{
+  "state": "Pennsylvania",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/pennsylvania/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11708",
+      "question": "Ang parehong systems sa isang dual air brake systems ay nagbabahagi:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air tanks."
+        },
+        {
+          "letter": "B",
+          "text": "Hoses."
+        },
+        {
+          "letter": "C",
+          "text": "Air lines."
+        },
+        {
+          "letter": "D",
+          "text": "Isang air compressor."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Isang air compressor.",
+      "explanation": "Ang parehong systems sa isang dual air brake system ay nagbabahagi ng isang air compressor. Kung ang air compressor ay nasira, walang system ang makakapag-operate nang maayos."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "11463",
+      "question": "Kapag sinusuri ang iyong brakes, isang slack adjuster ay dapat gumagalaw ng ____ mula kung saan ito naka-attach sa push rod.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kahit-kailan tatlong inches"
+        },
+        {
+          "letter": "B",
+          "text": "Mahigit dalawang inches"
+        },
+        {
+          "letter": "C",
+          "text": "Hanggang limang inches"
+        },
+        {
+          "letter": "D",
+          "text": "Walang higit sa isang inch"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Walang higit sa isang inch",
+      "explanation": "Suriin ang bawat slack adjuster pagkatapos mag-set ng wheel chocks at mag-disengage ng parking brake. I-pull ang slack adjusters upang masiguro na hindi sila gumagalaw ng mahigit humigit-kumulang na isang inch mula kung saan naka-attach ang push rod. Kung sila ay gumagalaw ng higit sa isang inch, maaaring sila ay out of adjustment at kailangan ng pag-ayos."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "8989",
+      "question": "Anong uri ng lakas ang dapat gamitin ng emergency brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air pressure"
+        },
+        {
+          "letter": "B",
+          "text": "Mechanical"
+        },
+        {
+          "letter": "C",
+          "text": "Mabigat"
+        },
+        {
+          "letter": "D",
+          "text": "Electrical"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mechanical",
+      "explanation": "Dahil ang air pressure ay maaaring husto nang magsira, ang emergency brakes sa isang air brake system ay dapat panatilihin ng mechanical force."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11686",
+      "question": "Sa panahon ng static leakage test, ang maximum leakage rate para sa isang sasakyan na may air brakes ay ____ sa loob ng isang minuto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 psi"
+        },
+        {
+          "letter": "B",
+          "text": "2 psi"
+        },
+        {
+          "letter": "C",
+          "text": "3 psi"
+        },
+        {
+          "letter": "D",
+          "text": "4 psi"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "2 psi",
+      "explanation": "Kapag nagsasagawa ng static leakage test sa isang sasakyan na may air brakes, ang leakage rate ay dapat na hindi higit sa 2 psi sa isang minuto. Kung ang hangin ay umaakyat mula sa air brake system sa mas mabilis na rate, ang sasakyan ay hindi dapat biglain dahil malamang na may kailangang ayusin."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11710",
+      "question": "Ang pagsasagawa ng brake pedal ay nagiging sanhi ng air pressure na mag-activate ng electric switch at:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I-off ang brake lights."
+        },
+        {
+          "letter": "B",
+          "text": "I-on ang low pressure warning light."
+        },
+        {
+          "letter": "C",
+          "text": "I-on ang brake lights."
+        },
+        {
+          "letter": "D",
+          "text": "I-off ang low pressure warning light."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "I-on ang brake lights.",
+      "explanation": "Sa isang sasakyan na may air brakes, ang brake lights ay ina-activate kapag itinulak ang brake pedal at ang air pressure ay gumagalaw sa isang electric switch. Sa application ng air pressure, ang switch ay i-turn on ang brake lights."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "10230",
+      "question": "Ang foundation brakes ay ginagamit:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lamang sa front wheels."
+        },
+        {
+          "letter": "B",
+          "text": "Lamang sa rear wheels."
+        },
+        {
+          "letter": "C",
+          "text": "Lamang sa driver's side wheels."
+        },
+        {
+          "letter": "D",
+          "text": "Sa bawat gulong."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Sa bawat gulong.",
+      "explanation": "Ang foundation brakes ay ginagamit sa bawat gulong. Ang pinakakaraniwang uri ay ang S-cam drum brake."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8997",
+      "question": "Ang mga preno ay maaaring ma-out of adjustment:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kung masyadong mainit ang mga ito."
+        },
+        {
+          "letter": "B",
+          "text": "Sa mas malamig na panahon."
+        },
+        {
+          "letter": "C",
+          "text": "Kung ginagamit ang mga ito."
+        },
+        {
+          "letter": "D",
+          "text": "Kung nabasa ang mga ito."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Kung masyadong mainit ang mga ito.",
+      "explanation": "Ang mga preno ay maaaring mabilis na mawalan ng adjustment, lalo na kung ginagamit ang mga ito hanggang sa overheating. Ang pagsusuri ng pagsasaayos ng preno ay dapat na gawin nang madalas."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11694",
+      "question": "Sa vehicle na may dual parking control valves, sa sandaling mawawala ang air pressure at mag-activate ang spring brakes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hindi ka makakapagmaneho ng vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "Ang hiwalay na air tank ay maaaring gamitin upang ilabas ang spring brakes nang maikling panahon."
+        },
+        {
+          "letter": "C",
+          "text": "Maaari kang gumamit ng spring brakes upang magpatuloy sa normal na pagmamaneho."
+        },
+        {
+          "letter": "D",
+          "text": "Ang air tanks ay awtomatikong muling mapupuno sa ligtas na air pressure level."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ang hiwalay na air tank ay maaaring gamitin upang ilabas ang spring brakes nang maikling panahon.",
+      "explanation": "Sa vehicle na may dual parking control valves, may hiwalay na air tank na maaaring gamitin upang pansamantalang ilabas ang spring brakes kung naging active dahil sa mababang air pressure. Ang pagsisikap ng tamang control ay magpapahintulot sa spring brakes nang maikling panahon, na nagbibigay-daan sa driver na ilipat ang vehicle sa emergency."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9139",
+      "question": "Kapag bumibiyahe sa isang matarik na pababang slope, ang pinakamahusay na paraan upang gamitin ang iyong mga brakes ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magmaneho ang mga brakes sa lahat ng paraan pababa sa burol."
+        },
+        {
+          "letter": "B",
+          "text": "I-apply ang mga brakes sa loob ng ilang segundo, pagkatapos ay palayain ang mga brakes sa loob ng ilang segundo. Patuloy na ulitin ang mga hakbang na ito habang bumababa ka sa burol."
+        },
+        {
+          "letter": "C",
+          "text": "I-apply ang mga brakes lamang malapit sa ilalim ng pababang slope."
+        },
+        {
+          "letter": "D",
+          "text": "I-apply ang consistent pressure sa brake pedal sa lahat ng paraan pababa sa burol."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "I-apply ang mga brakes sa loob ng ilang segundo, pagkatapos ay palayain ang mga brakes sa loob ng ilang segundo. Patuloy na ulitin ang mga hakbang na ito habang bumababa ka sa burol.",
+      "explanation": "Sa isang mahabang o matarik na pababang slope, ang mga brakes ay dapat lamang gamitin upang suportahan ang braking effect ng engine. I-apply ang mga brakes na sapat upang mararamdaman ang isang tiyak na pagbabagal, pagkatapos ay palayain ang mga ito kapag ikaw ay humigit-kumulang 5 mph sa ibaba ng iyong target na \"ligtas\" na bilis. Kapag ang iyong sasakyan ay umabot sa ligtas na bilis nito, ulitin ang prosesong ito."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11678",
+      "question": "Bago sumugal sa isang bundok, siguraduhin na:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pabilisin."
+        },
+        {
+          "letter": "B",
+          "text": "Lumipat sa mataas na gear."
+        },
+        {
+          "letter": "C",
+          "text": "Tumunog ng iyong horn."
+        },
+        {
+          "letter": "D",
+          "text": "Lumipat sa isang mababang gear."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Lumipat sa isang mababang gear.",
+      "explanation": "Bago sumugal sa isang bundok, siguraduhin na lumipat sa isang mababang gear. Ang gravity ay magpapataas ng bilis ng iyong sasakyan habang bumababa ka sa bundok."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9137",
+      "question": "Ang service brakes ay dapat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subukan minsan sa isang buwan."
+        },
+        {
+          "letter": "B",
+          "text": "Subukan lamang ng isang sinanay na mechaniko."
+        },
+        {
+          "letter": "C",
+          "text": "Subukan bago ang bawat biyahe."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Subukan bago ang bawat biyahe.",
+      "explanation": "Bago magmaneho, dapat mong laging i-verify na ang iyong service brakes ay gumagana nang maayos. Ang pag-test ng mga brake bago ang isang biyahe ay nagbibigay-daan sa iyo na mahanap ang anumang mga problema bago kailangan mong mag-brake habang nasa kalsada."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "9003",
+      "question": "Kapag gumagamit ng controlled braking method sa emergency situation, dapat mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ipatupad ang mga preno nang kasing lakas na posible nang hindi na-lock ang mga gulong."
+        },
+        {
+          "letter": "B",
+          "text": "Ipatupad ang mga preno na may mga kalahating karaniwang puwersa."
+        },
+        {
+          "letter": "C",
+          "text": "Ipatupad ang mga preno upang ma-lock ang mga gulong."
+        },
+        {
+          "letter": "D",
+          "text": "Ipatupad ang mga preno na may minimal na presyon."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ipatupad ang mga preno nang kasing lakas na posible nang hindi na-lock ang mga gulong.",
+      "explanation": "Ang controlled braking method para sa emergency stops ay nagsasangkot ng pagpapatulak ng mga preno nang kasing lakas na hindi mo lock ang mga gulong. Panatilihing maliit ang mga galaw ng steering wheel kapag nagpreno sa ganitong paraan."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11465",
+      "question": "Sa panahon ng isang applied leakage test, ang maximum leakage rate para sa isang double combination vehicle ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 psi sa isang minuto."
+        },
+        {
+          "letter": "B",
+          "text": "8 psi sa isang minuto."
+        },
+        {
+          "letter": "C",
+          "text": "6 psi sa isang minuto."
+        },
+        {
+          "letter": "D",
+          "text": "4 psi sa isang minuto."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "4 psi sa isang minuto.",
+      "explanation": "Mahalaga na malaman ang maximum air loss rate na ligtas para sa iyong specific vehicle. Ang isang double combination vehicle ay dapat magkaroon ng leakage rate na hindi higit sa 4 psi sa isang minuto sa panahon ng applied leakage test."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "8879",
+      "question": "Karamihan ng heavy-duty na mga sasakyan ay gumagamit ng ____ air brake systems.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Single"
+        },
+        {
+          "letter": "B",
+          "text": "Dual"
+        },
+        {
+          "letter": "C",
+          "text": "Triple"
+        },
+        {
+          "letter": "D",
+          "text": "Quad"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dual",
+      "explanation": "Karamihan ng mga heavy-duty na sasakyan ay nilagyan ng dual air brake systems."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9004",
+      "question": "Upang gamitin ang stab braking method sa isang emergency situation, dapat mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ilagay ang mga preno nang buo hanggang sa mag-lock up ang mga gulong, ilabas ang mga preno hanggang sa magsimulang gumulon ang mga gulong, pagkatapos ay ulitin ang proseso."
+        },
+        {
+          "letter": "B",
+          "text": "I-apply ang mga preno ng tungkol sa kalahati, ngunit panatilihing umiikot ang mga gulong."
+        },
+        {
+          "letter": "C",
+          "text": "Ganap na i-apply ang mga preno, hayaang mag-lock up ang mga gulong, at panatilihing pababa ang brake pedal, na pinagsasama ang mga gulong hanggang ang sasakyan ay tumigil."
+        },
+        {
+          "letter": "D",
+          "text": "Ilapat ang emergency brake."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Ilagay ang mga preno nang buo hanggang sa mag-lock up ang mga gulong, ilabas ang mga preno hanggang sa magsimulang gumulon ang mga gulong, pagkatapos ay ulitin ang proseso.",
+      "explanation": "Ang stab braking method para sa emergency stops ay nagsasangkot ng buong pag-apply ng mga preno hanggang sa mag-lock up sila. Ang mga preno ay pagkatapos ay ina-release hanggang ang mga gulong ay magsimulang umiikot, at ang proseso ay paulit-ulit."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11945",
+      "question": "Ang low air pressure warning signal ay dapat mag-activate:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kapag ang tank pressure ay bumaba sa ibaba ng 120 psi."
+        },
+        {
+          "letter": "B",
+          "text": "Kapag ang tank pressure ay bumaba sa ibaba ng 60 psi."
+        },
+        {
+          "letter": "C",
+          "text": "Kapag ang tank pressure ay bumaba sa ibaba ng 10 psi."
+        },
+        {
+          "letter": "D",
+          "text": "Kapag ang tank pressure ay bumaba sa ibaba ng 5 psi."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Kapag ang tank pressure ay bumaba sa ibaba ng 60 psi.",
+      "explanation": "Sa isang air brake system, ang low air pressure warning signal ay dapat magbukas kung ang air pressure sa tanks ay bumaba sa ibaba ng 60 psi. Ang warning signal na ito ay maaaring dumating sa anyo ng light, buzzer, o wig wag."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11690",
+      "question": "Sa dual air brake system, ang tuyot sa isang sistema:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laging nangangahulugang may tuyot sa parehong mga sistema."
+        },
+        {
+          "letter": "B",
+          "text": "Maaaring hindi makaapekto sa iba pang sistema."
+        },
+        {
+          "letter": "C",
+          "text": "Hindi ito isang bagay na mag-alala."
+        },
+        {
+          "letter": "D",
+          "text": "Makakaapekto din sa ibang sistema."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Maaaring hindi makaapekto sa iba pang sistema.",
+      "explanation": "Ang isang dual air brake system ay binubuo ng dalawang magkakaibang air brake systems. Kung may pagkalubol ng hangin sa isang sistema, ito ay maaaring hindi makaapekto sa iba."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "9381",
+      "question": "Ang mga vehicles na may dual air brake systems:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panatilihin ang full-capacity air pressure sa braking systems kahit hindi tumatakbo ang vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "Panatilihin ang ilang air pressure sa braking systems kapag hindi tumatakbo ang vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "Dapat na tumakbo upang bumuo ng sapat na air pressure para sa brakes na gumana nang maayos."
+        },
+        {
+          "letter": "D",
+          "text": "Hindi kailangan ng oras upang bumuo ng air pressure bago ang isang biyahe."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Dapat na tumakbo upang bumuo ng sapat na air pressure para sa brakes na gumana nang maayos.",
+      "explanation": "Bago magmaneho ng isang vehicle na may dual air brake system, dapat mong payagan ang air compressor na may oras upang bumuo ng hindi bababa sa 100 psi ng air pressure sa primary at secondary systems."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8869",
+      "question": "Anong kulay ang low air pressure warning light?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Berde"
+        },
+        {
+          "letter": "B",
+          "text": "Orange"
+        },
+        {
+          "letter": "C",
+          "text": "Pula"
+        },
+        {
+          "letter": "D",
+          "text": "Lila"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pula",
+      "explanation": "Ang low air pressure warning signal ay kinakailangan sa mga sasakyan na may air brakes. Ang warning light ay karaniwang pula at maaaring may kasamang buzzer."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11676",
+      "question": "Paano mo dapat subukan ang low pressure warning signal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I-engage at i-disable ang parking brake."
+        },
+        {
+          "letter": "B",
+          "text": "Mabilis na pindutin at ilabas ang brake pedal."
+        },
+        {
+          "letter": "C",
+          "text": "Buksan ang rear shut-off valves."
+        },
+        {
+          "letter": "D",
+          "text": "I-uncouple at i-recouple ang lahat ng glad hands."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mabilis na pindutin at ilabas ang brake pedal.",
+      "explanation": "Mahalagang ang iyong low pressure warning light ay gumagana nang tama. Pagkatapos payagan ang sistema na mag-charge, maaari mong subukan ang warning signal sa pamamagitan ng mabilis na pagpigil at pagpapakawalan ng brake pedal. Ito ay maglalabas ng hangin mula sa braking system at ang warning signal ay dapat bumuo kapag ang presyon ay bumaba sa isang mapanganibang antas."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "11716",
+      "question": "Habang nagmamaneho pababa ng bundok, dapat mong i-brake hanggang sa umbot ka sa bilis na ____ sa ibaba ng iyong ligtas na bilis, pagkatapos ay ilabas ang brake pedal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 mph"
+        },
+        {
+          "letter": "B",
+          "text": "10 mph"
+        },
+        {
+          "letter": "C",
+          "text": "15 mph"
+        },
+        {
+          "letter": "D",
+          "text": "20 mph"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "5 mph",
+      "explanation": "Habang bumababa sa bundok, dapat itulak ang iyong brake pedal hanggang sa ang iyong sasakyan ay umabot sa bilis na 5 mph sa ibaba ng iyong safe speed, pagkatapos iangat ang brake pedal. Ulitin ang prosesong ito."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "10988",
+      "question": "Ang tank endorsement ay:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kinakailangan lamang kapag nagdadala ng gas."
+        },
+        {
+          "letter": "B",
+          "text": "Kinakailangan lamang kapag nagdadala ng likido."
+        },
+        {
+          "letter": "C",
+          "text": "Ginagamit kapag nagdadala ng parehong mga likido at gas."
+        },
+        {
+          "letter": "D",
+          "text": "Opsyonal kapag nagdadala ng hazardous materials."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ginagamit kapag nagdadala ng parehong mga likido at gas.",
+      "explanation": "Sa pangkalahatan, kinakailangan ng endorsement sa tangke upang magmaneho ng sasakyang tangke na ginagamit upang magdala ng mga likido o gas. Ito ay naaaring sa parehong mapanganib at hindi mapanganib na materyales."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "8996",
+      "question": "Ano ang ginagawa ng anti-lock brakes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tulungan ang driver na maiwasan ang wheel lockup"
+        },
+        {
+          "letter": "B",
+          "text": "I-lock ang mga front wheels"
+        },
+        {
+          "letter": "C",
+          "text": "Iwasan ang sasakyan na mag-accelerate habang naglalakbay pataas"
+        },
+        {
+          "letter": "D",
+          "text": "Iwasan ang sasakyan na mag-accelerate habang naglalakbay pababa"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tulungan ang driver na maiwasan ang wheel lockup",
+      "explanation": "Ang function ng Anti-Lock Braking System (ABS) ay upang maiwasan ang mga gulong ng sasakyan na ma-lock up mula sa malakas na pagpindot ng brake."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "11718",
+      "question": "Kapag kailangan mong tumigil sa isang emergency, dapat mong:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hirapin ang mga gulong at tumigil sa pag-skid."
+        },
+        {
+          "letter": "B",
+          "text": "Tumigil sa paraang napanatili ang iyong vehicle sa isang tuwid na linya."
+        },
+        {
+          "letter": "C",
+          "text": "Tumigil sa paraang nagiging sanhi ng iyong vehicle na lumikha."
+        },
+        {
+          "letter": "D",
+          "text": "Asahan na ang iyong vehicle ay mas mabilis na bumibigal kaysa dati."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tumigil sa paraang napanatili ang iyong vehicle sa isang tuwid na linya.",
+      "explanation": "Kung kailangan mong gumawa ng emergency stop, maaari kang gumamit ng controlled braking method o stab braking method. Mahalaga na magpreno sa paraang napanatili ang iyong vehicle na naglalakbay sa isang tuwid na linya habang nagbibigay-daan pa rin sa iyo na lumikha, kung kinakailangan."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "11666",
+      "question": "Kapag pinindot mo ang brake pedal sa sasakyan na may S-cam brakes, ang air pressure ay nagtutulak ng labas ng rod at gumagalaw ang:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slack adjuster."
+        },
+        {
+          "letter": "B",
+          "text": "Axle."
+        },
+        {
+          "letter": "C",
+          "text": "Brake drum."
+        },
+        {
+          "letter": "D",
+          "text": "Alcohol evaporator"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Slack adjuster.",
+      "explanation": "Kapag pinindot ang brake pedal sa sasakyan na may S-cam brakes, ang hangin ay papasok sa brake chambers. Ang dagdag na air pressure ay magtutulak ng labas ng rods at maglilipat ng slack adjusters, na iikot ang brake camshafts."
+    }
+  ]
+}

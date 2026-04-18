@@ -1,0 +1,339 @@
+{
+  "state": "Oregon",
+  "category": "car",
+  "quizName": "Regulatory Signs",
+  "slug": "regulatory-signs",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/speed-limit.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn không được phép lái xe nhanh hơn tốc độ được niêm yết."
+        },
+        {
+          "letter": "B",
+          "text": "Bạn nên lái xe với tốc độ được niêm yết mọi lúc."
+        },
+        {
+          "letter": "C",
+          "text": "Tốc độ được niêm yết chỉ là một gợi ý."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bạn không được phép lái xe nhanh hơn tốc độ được niêm yết.",
+      "explanation": "Biển báo giới hạn tốc độ cho bạn biết tốc độ tối đa được phép trên con đường đó. Bạn không được phép vượt quá tốc độ được niêm yết và bạn nên lái xe chậm hơn trong thời tiết xấu hoặc giao thông tắc nghẽn."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/do-not-enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không được vào con đường hoặc dốc này."
+        },
+        {
+          "letter": "B",
+          "text": "Công trường giao thông phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Dừng lại và chờ một tín hiệu."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Không được vào con đường hoặc dốc này.",
+      "explanation": "Biển báo đỏ và trắng này có nghĩa là bạn không được phép vào đường hoặc dốc. Bạn sẽ đi theo hướng sai nếu vượt qua biển báo này."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/one-way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giao thông trên con đường này chỉ di chuyển theo một hướng duy nhất."
+        },
+        {
+          "letter": "B",
+          "text": "Bạn phải rẽ theo hướng được hiển thị."
+        },
+        {
+          "letter": "C",
+          "text": "Chỉ có một làn đường mở trước đó."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giao thông trên con đường này chỉ di chuyển theo một hướng duy nhất.",
+      "explanation": "Biển báo chiều đi duy nhất có nghĩa là tất cả giao thông trên con đường đó di chuyển theo hướng mũi tên chỉ. Không được lái xe ngược chiều giao thông."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/no-u-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không được phép quay đầu tại đây."
+        },
+        {
+          "letter": "B",
+          "text": "Không được rẽ phải."
+        },
+        {
+          "letter": "C",
+          "text": "Con đường cong phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Không được phép quay đầu tại đây.",
+      "explanation": "Biển báo này có nghĩa là bạn không thể quay đầu tại vị trí này. Bạn phải tìm cách khác để thay đổi hướng của mình."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/no-left-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không được rẽ trái tại đây."
+        },
+        {
+          "letter": "B",
+          "text": "Làn đường bên trái kết thúc phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Giữ bên trái tại nút giao thông."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Không được rẽ trái tại đây.",
+      "explanation": "Biển báo này có nghĩa là bạn không thể rẽ trái tại giao lộ hoặc vị trí này. Bạn phải tiếp tục đi thẳng hoặc rẽ phải."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/no-left-turn-or-uturn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không được rẽ trái và không được quay đầu tại đây."
+        },
+        {
+          "letter": "B",
+          "text": "Không được rẽ phải tại đây."
+        },
+        {
+          "letter": "C",
+          "text": "Không được rẽ theo bất kỳ hướng nào."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Không được rẽ trái và không được quay đầu tại đây.",
+      "explanation": "Biển báo này cho biết rẽ trái và quay đầu đều không được phép tại vị trí này."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/no-parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không được phép đỗ xe tại đây."
+        },
+        {
+          "letter": "B",
+          "text": "Không được dừng xe bất kỳ lúc nào."
+        },
+        {
+          "letter": "C",
+          "text": "Đỗ xe chỉ cho những người có giấy phép."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Không được phép đỗ xe tại đây.",
+      "explanation": "Biển báo này có nghĩa là bạn không được phép đỗ xe trong khu vực này. Bạn có thể dừng một chút để đón hoặc hạ hành khách, nhưng bạn không được để xe ở đó."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn phải rẽ trái từ làn đường này."
+        },
+        {
+          "letter": "B",
+          "text": "Làn đường bên trái đã đóng."
+        },
+        {
+          "letter": "C",
+          "text": "Không được rẽ trái."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bạn phải rẽ trái từ làn đường này.",
+      "explanation": "Biển báo này có nghĩa là làn đường bạn đang ở được sử dụng cho rẽ trái duy nhất. Bạn phải rẽ trái khi tới giao lộ."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/straight-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn phải đi thẳng. Không được rẽ."
+        },
+        {
+          "letter": "B",
+          "text": "Giao thông chiều đi duy nhất phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Con đường đi lên dốc."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bạn phải đi thẳng. Không được rẽ.",
+      "explanation": "Biển báo này có nghĩa là bạn phải tiếp tục đi thẳng qua giao lộ. Rẽ trái hoặc phải không được phép từ làn đường này."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/straight-or-left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn có thể đi thẳng hoặc rẽ trái từ làn đường này."
+        },
+        {
+          "letter": "B",
+          "text": "Con đường chia thành hai làn đường."
+        },
+        {
+          "letter": "C",
+          "text": "Một làn rẽ trái bắt đầu phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bạn có thể đi thẳng hoặc rẽ trái từ làn đường này.",
+      "explanation": "Biển báo này có nghĩa là bạn có thể đi thẳng hoặc rẽ trái từ làn đường này. Rẽ phải không được phép."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/red-yield-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giảm tốc độ và nhường quyền ưu tiên cho các phương tiện giao thông khác."
+        },
+        {
+          "letter": "B",
+          "text": "Dừng lại hoàn toàn."
+        },
+        {
+          "letter": "C",
+          "text": "Tăng tốc độ để hợp nhất với luồng giao thông."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giảm tốc độ và nhường quyền ưu tiên cho các phương tiện giao thông khác.",
+      "explanation": "Biển báo nhường đường có nghĩa là bạn phải giảm tốc độ và để các phương tiện hoặc người đi bộ khác đi trước. Dừng lại nếu cần để cho họ vượt qua an toàn."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/pedestrians-prohibited.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Người đi bộ không được phép trên con đường này."
+        },
+        {
+          "letter": "B",
+          "text": "Một lối qua đường cho người đi bộ sắp tới."
+        },
+        {
+          "letter": "C",
+          "text": "Chú ý tới những người đi bộ."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Người đi bộ không được phép trên con đường này.",
+      "explanation": "Biển báo này có nghĩa là người đi bộ không thể đi bộ trên con đường này. Nó thường được đặt trên đường cao tốc hoặc những con đường nơi đi bộ là nguy hiểm."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Theo tuyến đường chuyển hướng theo hướng được chỉ ra."
+        },
+        {
+          "letter": "B",
+          "text": "Một khu vực nghỉ ngơi ở hướng này."
+        },
+        {
+          "letter": "C",
+          "text": "Một tuyến đường có cảnh đẹp có sẵn."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Theo tuyến đường chuyển hướng theo hướng được chỉ ra.",
+      "explanation": "Biển báo chuyển hướng hướng dẫn bạn tới một tuyến đường thay thế vì con đường bình thường bị đóng cửa. Theo các mũi tên để quay lại tuyến đường ban đầu của bạn."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/four-way-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tất cả giao thông tại giao lộ này phải dừng lại."
+        },
+        {
+          "letter": "B",
+          "text": "Một đường cao tốc 4 làn bắt đầu."
+        },
+        {
+          "letter": "C",
+          "text": "Một vòng tròn giao thông sắp tới."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tất cả giao thông tại giao lộ này phải dừng lại.",
+      "explanation": "Biển báo 4 chiều được đặt cùng với biển báo dừng. Nó có nghĩa là tất cả các phương tiện từ mọi hướng phải dừng trước khi vào giao lộ."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/regulatory-signs/intersection-lane-control.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nó cho thấy những lượt rẽ hoặc chuyển động nào được phép từ mỗi làn."
+        },
+        {
+          "letter": "B",
+          "text": "Nó cho thấy tốc độ cho mỗi làn."
+        },
+        {
+          "letter": "C",
+          "text": "Nó cho thấy những làn nào bị đóng phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Nó cho thấy những lượt rẽ hoặc chuyển động nào được phép từ mỗi làn.",
+      "explanation": "Các biển báo kiểm soát làn giao lộ được đăng trước một giao lộ để cho các tài xế biết những lượt rẽ hoặc chuyển động nào được phép từ mỗi làn."
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "state": "Mississippi",
+  "category": "cdl",
+  "testName": "Tank Test #2 20 Questions • Passing Score 16",
+  "testSlug": "tank-2",
+  "url": "/images/mississippi/cdl/tank-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9376",
+      "question": "Pendant un trajet en autobus :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les bagages à main peuvent être gardés dans l'allée."
+        },
+        {
+          "letter": "B",
+          "text": "Les passagers peuvent s'asseoir dans l'allée."
+        },
+        {
+          "letter": "C",
+          "text": "Les allées doivent rester libres d'obstacles."
+        },
+        {
+          "letter": "D",
+          "text": "Les articles peuvent être placés dans l'allée si les passagers pouvaient facilement passer par-dessus."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les allées doivent rester libres d'obstacles.",
+      "explanation": "Ne permettez pas aux passagers de laisser les bagages à main dans les portes ou les allées. Il ne devrait rien y avoir dans l'allée qui pourrait faire trébucher les autres passagers. Fixez les bagages de manière à prévenir les dommages."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10653",
+      "question": "Les réservoirs ont des centres de gravité élevés, ce qui signifie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ils consomment très peu d'essence."
+        },
+        {
+          "letter": "B",
+          "text": "Ils sont faciles à faire basculer."
+        },
+        {
+          "letter": "C",
+          "text": "Ils sont très stables."
+        },
+        {
+          "letter": "D",
+          "text": "Ils sont faciles à diriger."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ils sont faciles à faire basculer.",
+      "explanation": "Les véhicules-citernes ont des centres de gravité élevés, ce qui les rend vulnérables au tonneau."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9477",
+      "question": "En général, avant de charger ou de décharger des liquides inflammables, un moteur devrait être:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Éteint."
+        },
+        {
+          "letter": "B",
+          "text": "Emballé."
+        },
+        {
+          "letter": "C",
+          "text": "Allumé."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Éteint.",
+      "explanation": "Avant le chargement ou le déchargement d'un réservoir contenant des liquides inflammables, vous devez arrêter le moteur, sauf si le moteur doit fonctionner pour actionner une pompe. Mettez le réservoir à la terre avant d'ouvrir le trou de remplissage et maintenez la terre jusqu'après la fermeture du trou de remplissage."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8968",
+      "question": "Les numéros d'identification assignés aux produits chimiques peuvent être trouvés :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dans le guide d'intervention d'urgence du DOT."
+        },
+        {
+          "letter": "B",
+          "text": "Dans le manuel d'exploitation du camion."
+        },
+        {
+          "letter": "C",
+          "text": "Sur le site Web de l'EPA."
+        },
+        {
+          "letter": "D",
+          "text": "Aux stations-service."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Dans le guide d'intervention d'urgence du DOT.",
+      "explanation": "Le guide d'intervention d'urgence (ERG) du département américain des transports (DOT) énumère tous les produits chimiques dangereux et leurs numéros d'identification assignés."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11379",
+      "question": "Conduire avec une cargaison de viande suspendue dans une remorque:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est déconseillé pendant les mois d'été."
+        },
+        {
+          "letter": "B",
+          "text": "Peut être problématique car les animaux sont attirés par l'odeur de la viande."
+        },
+        {
+          "letter": "C",
+          "text": "Est difficile car la charge a un centre de gravité élevé."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Est difficile car la charge a un centre de gravité élevé.",
+      "explanation": "Un conducteur doit conduire avec prudence lorsqu'il transporte une cargaison de viande suspendue. Une telle charge est instable, à la fois parce qu'elle a un centre de gravité élevé et parce que le balancement de la viande peut affecter la manipulation du véhicule par le conducteur."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11537",
+      "question": "Lors du chargement ou du déchargement d'un réservoir divisé par des cloisons, la distribution égale du poids est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Essentielle."
+        },
+        {
+          "letter": "B",
+          "text": "Sans importance."
+        },
+        {
+          "letter": "C",
+          "text": "Facultatif."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Essentielle.",
+      "explanation": "Certains réservoirs sont divisés en plusieurs petits réservoirs par des cloisons. Lors du chargement ou du déchargement de ces réservoirs, faites attention à la distribution du poids. Veillez à ne pas placer trop de poids à une seule extrémité du réservoir."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9547",
+      "question": "Regards d'accès :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peuvent être ouverts quand un véhicule est en circulation."
+        },
+        {
+          "letter": "B",
+          "text": "Doivent être fermés quand un véhicule est en circulation."
+        },
+        {
+          "letter": "C",
+          "text": "Ne doivent jamais être utilisées."
+        },
+        {
+          "letter": "D",
+          "text": "Doivent être enlevés quand un véhicule est en circulation."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Doivent être fermés quand un véhicule est en circulation.",
+      "explanation": "Assurez-vous d'inspecter votre véhicule avant de conduire. Ne conduisez jamais un véhicule-citerne avec des soupapes ouvertes ou des regards d'accès ouverts."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "10124",
+      "question": "Lors du chargement de gaz comprimé, les soupapes de décharge liquide doivent être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fermées."
+        },
+        {
+          "letter": "B",
+          "text": "Graissé."
+        },
+        {
+          "letter": "C",
+          "text": "Ouvert."
+        },
+        {
+          "letter": "D",
+          "text": "Retirées."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ouvert.",
+      "explanation": "Maintenez les vannes de décharge de liquide sur un réservoir de gaz comprimé fermées, sauf lors du chargement et du déchargement."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "10077",
+      "question": "Un autobus doit être ravitaillé en carburant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dans un bâtiment fermé avec des passagers à bord."
+        },
+        {
+          "letter": "B",
+          "text": "N'importe quel endroit avec des passagers à bord."
+        },
+        {
+          "letter": "C",
+          "text": "Sans passagers à bord, sauf si absolument nécessaire."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sans passagers à bord, sauf si absolument nécessaire.",
+      "explanation": "Un autobus ne doit pas être ravitaillé en carburant lorsque des passagers sont à bord, sauf si cela est absolument inévitable. Un autobus avec des passagers à bord ne doit jamais être ravitaillé en carburant à l'intérieur d'un bâtiment fermé."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10352",
+      "question": "Un essieu avant sous-chargé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est important pour une direction fluide."
+        },
+        {
+          "letter": "B",
+          "text": "Est encouragé car les essieux avant sont généralement moins solides que les autres essieux."
+        },
+        {
+          "letter": "C",
+          "text": "Est découragé car il peut causer des problèmes de direction."
+        },
+        {
+          "letter": "D",
+          "text": "Est découragé car il peut améliorer l'efficacité énergétique."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Est découragé car il peut causer des problèmes de direction.",
+      "explanation": "Le sous-chargement d'un essieu avant peut rendre impossible la direction sécuritaire de votre véhicule. Tenez compte de la répartition du poids lors du chargement de la cargaison."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8711",
+      "question": "Lorsque vous essayez de maîtriser un incendie mineur de camion, que devez-vous faire avant d'ouvrir les portes de la remorque ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vérifiez si les portes sont chaudes."
+        },
+        {
+          "letter": "B",
+          "text": "Versez de l'eau sur les portes."
+        },
+        {
+          "letter": "C",
+          "text": "Retirez votre équipement de protection."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Vérifiez si les portes sont chaudes.",
+      "explanation": "Si vous subissez un incendie de camion, vous ne devez pas tenter d'ouvrir les portes de la remorque sans d'abord vérifier si les portes sont chaudes. Si les portes sont chaudes, il peut y avoir un incendie de cargaison. Laissez les portes fermées s'il y a un incendie de cargaison."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11334",
+      "question": "Lors du transport d'explosifs de division 1.1, vous devez vous garer à au moins ____ de tout bâtiment.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 feet"
+        },
+        {
+          "letter": "B",
+          "text": "50 feet"
+        },
+        {
+          "letter": "C",
+          "text": "300 feet"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "300 feet",
+      "explanation": "Lors du transport d'explosifs de division 1.1, 1.2 ou 1.3, ne vous garez pas à moins de 300 feet d'un pont, d'un tunnel ou d'un bâtiment ; d'un endroit où les gens se rassemblent ; ou d'un feu ouvert."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11147",
+      "question": "Espace de respiration :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "N'est une préoccupation que par temps chaud."
+        },
+        {
+          "letter": "B",
+          "text": "Est le même pour chaque liquide."
+        },
+        {
+          "letter": "C",
+          "text": "Doit être un facteur lors de la détermination de la quantité de liquide à charger dans un véhicule-citerne."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Doit être un facteur lors de la détermination de la quantité de liquide à charger dans un véhicule-citerne.",
+      "explanation": "Parce que les liquides se dilatent lorsque leur température augmente, un espace doit être laissé dans un réservoir pour accommoder la dilatation. Cet espace est appelé « espace de respiration ». La quantité d'espace de respiration requis est différente pour différents liquides."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9392",
+      "question": "Lors d'une inspection, il est plus important de vérifier votre véhicule-citerne pour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des fuites."
+        },
+        {
+          "letter": "B",
+          "text": "La rouille."
+        },
+        {
+          "letter": "C",
+          "text": "Une plaque d'immatriculation."
+        },
+        {
+          "letter": "D",
+          "text": "Les pneus."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Des fuites.",
+      "explanation": "Lors de l'inspection de tout style de réservoir, la chose la plus importante pour un conducteur à vérifier est les fuites. Le transport de tout type de gaz ou de liquide dans un réservoir qui fuit est illégal."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9601",
+      "question": "Les chargements en conteneurs sont utilisés :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lorsque le fret est trop volumineux pour tenir sur un camion."
+        },
+        {
+          "letter": "B",
+          "text": "Lorsque le fret a été ou sera transporté par un train."
+        },
+        {
+          "letter": "C",
+          "text": "Lorsque le fret est un liquide."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Lorsque le fret a été ou sera transporté par un train.",
+      "explanation": "Les chargements en conteneurs sont généralement utilisés lorsque le fret est transporté en partie par train ou bateau. Les matériaux scellés ne peuvent pas être inspectés, mais un conducteur doit s'assurer que les conteneurs ne dépassent pas les limites de poids sûres et légales."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8604",
+      "question": "En tant que conducteur d'un camion transportant une charge, vous êtes responsable de tous les éléments suivants, sauf:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inspecter la cargaison."
+        },
+        {
+          "letter": "B",
+          "text": "Reconnaître les poids mal équilibrés."
+        },
+        {
+          "letter": "C",
+          "text": "Connaître les numéros de téléphone de tous les services d'incendie le long de votre itinéraire prévu."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Connaître les numéros de téléphone de tous les services d'incendie le long de votre itinéraire prévu.",
+      "explanation": "Il est de la responsabilité du conducteur d'inspecter sa cargaison; reconnaître les surcharges ou les poids mal équilibrés; s'assurer que la cargaison est correctement sécurisée et n'obscurcit pas la vue du conducteur; et s'assurer que la cargaison ne restreint pas l'accès aux équipements d'urgence. Le conducteur est responsable de sa cargaison même s'il n'a pas été celui qui a initialement chargé et sécurisé la cargaison."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11039",
+      "question": "Si la lettre \"G\" apparaît à la colonne 1 d'un document d'expédition de matières dangereuses, le document d'expédition doit également inclure:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le nom technique des matières dangereuses."
+        },
+        {
+          "letter": "B",
+          "text": "Le type d'emballage contenant les matières dangereuses."
+        },
+        {
+          "letter": "C",
+          "text": "Le numéro de téléphone de l'expéditeur."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Le nom technique des matières dangereuses.",
+      "explanation": "Un \"G\" à la colonne 1 d'un document d'expédition de matières dangereuses indique que la description à la colonne 2 est le nom générique d'une matière. Un nom d'expédition générique doit être accompagné d'un nom technique."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10253",
+      "question": "Les surges sont les plus forts dans :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les citernes avec cloisons."
+        },
+        {
+          "letter": "B",
+          "text": "Réservoirs à chicanes."
+        },
+        {
+          "letter": "C",
+          "text": "Réservoirs sans chicanes."
+        },
+        {
+          "letter": "D",
+          "text": "Les citernes avec une trappe de visite ouverte."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Réservoirs sans chicanes.",
+      "explanation": "Les chicanes fermées et ouvertes dans les réservoirs servent à inhiber le mouvement de surge avant et arrière de la cargaison liquide."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8617",
+      "question": "Une limite de vitesse affichée pour les voitures:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est généralement sûr pour les autobus."
+        },
+        {
+          "letter": "B",
+          "text": "Peut être trop rapide pour les autobus."
+        },
+        {
+          "letter": "C",
+          "text": "Peut être trop lent pour les autobus."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Peut être trop rapide pour les autobus.",
+      "explanation": "Particulièrement dans les courbes, la limite de vitesse affichée maximale peut être sûre à conduire dans une voiture mais trop rapide à conduire dans un autobus. Soyez particulièrement prudent lorsque la route a été rendue glissante par la pluie ou la neige."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10865",
+      "question": "Quel est le nombre minimum d'arrimage requis pour sécuriser une cargaison de 10 feet ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un"
+        },
+        {
+          "letter": "B",
+          "text": "Deux"
+        },
+        {
+          "letter": "C",
+          "text": "Trois"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Deux",
+      "explanation": "Sur les remorques à plateau et les remorques sans côtés, la cargaison doit être attachée. Il devrait y avoir au moins un arrimage pour chaque 10 feet de cargaison. Quelle que soit la taille de la cargaison, au moins deux arrimages doivent être utilisés."
+    }
+  ]
+}

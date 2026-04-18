@@ -1,0 +1,755 @@
+{
+  "state": "New Mexico",
+  "category": "car",
+  "quizName": "Signs Practice Test #2",
+  "slug": "signs-practice-test-2",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1888",
+      "question": "Ce panneau indique que la route devant:",
+      "image": "/images/signs/nebraska-reverse_curve.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tourne brusquement à droite, puis à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Tourne à droite, puis à gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Tourne à droite."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tourne à droite, puis à gauche.",
+      "explanation": "Ce panneau avertit d'une courbe inverse dans laquelle la route tourne à droite, puis à gauche."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "483",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/two_way_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circulation à quatre voies devant."
+        },
+        {
+          "letter": "B",
+          "text": "Autoroute divisée à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Circulation bidirectionnelle à proximité."
+        },
+        {
+          "letter": "D",
+          "text": "Intersection à venir."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Circulation bidirectionnelle à proximité.",
+      "explanation": "Ce panneau avertit d'une circulation à double sens à l'avance."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "604",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/keep_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Route secondaire."
+        },
+        {
+          "letter": "B",
+          "text": "Restez du côté indiqué par la flèche."
+        },
+        {
+          "letter": "C",
+          "text": "Vous pouvez conduire dans la voie de gauche."
+        },
+        {
+          "letter": "D",
+          "text": "Vous avez le droit de passage."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Restez du côté indiqué par la flèche.",
+      "explanation": "Ceci est un panneau « Restez à droite ». Il indique qu'une île de circulation, un terre-plein ou une barrière se trouve devant et que les conducteurs doivent la contourner à droite."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "595",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/virginia-right_curve_35_mph.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La route devant courbe à droite. Ralentissez à la vitesse sûre indiquée."
+        },
+        {
+          "letter": "B",
+          "text": "Début de chaussée séparée. Ralentissez à la vitesse sûre indiquée."
+        },
+        {
+          "letter": "C",
+          "text": "Fusionner. Ralentissez à la vitesse sécuritaire indiquée."
+        },
+        {
+          "letter": "D",
+          "text": "Route sinueuse à l'avant. Ralentissez à la vitesse sécuritaire indiquée."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La route devant courbe à droite. Ralentissez à la vitesse sûre indiquée.",
+      "explanation": "Ces panneaux indiquent que la route courbe à droite devant et que les conducteurs doivent ralentir à la vitesse sûre indiquée (dans ce cas, 35 mph)."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "979",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cédez le passage."
+        },
+        {
+          "letter": "B",
+          "text": "Intersection à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Rester à droite."
+        },
+        {
+          "letter": "D",
+          "text": "Cédez le passage à l'avance."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cédez le passage.",
+      "explanation": "Les panneaux de circulation ayant trois côtés de longueur égale avertissent les conducteurs de ralentir en s'approchant d'une intersection et de se préparer à s'arrêter complètement pour laisser la priorité à d'autres conducteurs ou piétons. Les conducteurs peuvent continuer quand cela est sûr."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "949",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/indiana-no_parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de stationnement."
+        },
+        {
+          "letter": "B",
+          "text": "Autoroute divisée à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Signal de virage à gauche."
+        },
+        {
+          "letter": "D",
+          "text": "Cédez le passage."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pas de stationnement.",
+      "explanation": "Les panneaux de réglementation régissent la vitesse et les mouvements du trafic en affichant des règles que les conducteurs doivent respecter. Ce panneau de réglementation indique que le stationnement n'est pas autorisé."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1151",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/one_way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de virage à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Conduire uniquement dans la direction de la flèche."
+        },
+        {
+          "letter": "C",
+          "text": "Courbe à l'avance."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Conduire uniquement dans la direction de la flèche.",
+      "explanation": "Les panneaux de réglementation avisent les usagers de la route des lois de circulation qui doivent être respectées. Là où ce panneau est présent, les conducteurs doivent conduire dans la direction indiquée par la flèche."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "240",
+      "question": "De haut en bas, voici l'ordre approprié des feux de circulation :",
+      "image": "/images/signs/pennsylvania-traffic_signal_ahead_blank.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rouge, jaune, vert."
+        },
+        {
+          "letter": "B",
+          "text": "Rouge, vert, jaune."
+        },
+        {
+          "letter": "C",
+          "text": "Vert, rouge, jaune."
+        },
+        {
+          "letter": "D",
+          "text": "Vert, jaune, rouge."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Rouge, jaune, vert.",
+      "explanation": "Sur un feu de circulation disposé verticalement, le rouge est toujours en haut et le vert en bas. Lorsqu'il est disposé horizontalement, le rouge est toujours à gauche et le vert à droite."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "884",
+      "question": "Que signifie ce panneau routier?",
+      "image": "/images/signs/merge.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soyez prêt à vous insérer dans le trafic entrant dans votre voie."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous toujours."
+        },
+        {
+          "letter": "C",
+          "text": "Autoroute divisée à proximité."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Soyez prêt à vous insérer dans le trafic entrant dans votre voie.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marquages noirs. Ce panneau avertit que le trafic entrant se fusionnera par la droite, de sorte que les conducteurs doivent se préparer à permettre au trafic entrant de fusionner en toute sécurité."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "1388",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/illinois-construction.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interdiction d'entrer."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêt à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Des travaux routiers ou d'entretien sont en cours."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Des travaux routiers ou d'entretien sont en cours.",
+      "explanation": "Les panneaux orange en forme de losange sont utilisés pour marquer les zones de construction, d'entretien, d'arpentage et de travaux d'utilité publique. Ces panneaux aident à diriger les conducteurs et les piétons en toute sécurité dans les zones dangereuses. Les amendes pour infractions au code de la route peuvent doubler dans les zones marquées par ces panneaux."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1387",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les voitures de droite passent en premier."
+        },
+        {
+          "letter": "B",
+          "text": "Vous avez le droit de passage."
+        },
+        {
+          "letter": "C",
+          "text": "Laissez passer le trafic transversal avant de continuer."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Laissez passer le trafic transversal avant de continuer.",
+      "explanation": "En approchant ce panneau, vous devez céder le droit de passage. Ralentissez et laissez passer les véhicules et les piétons qui traversent votre chemin avant de procéder. Si nécessaire, arrêtez-vous avant de continuer."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1115",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduisez avec prudence et soyez prêt à vous arrêter."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez vous arrêter complètement."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous, si nécessaire."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vous devez vous arrêter complètement.",
+      "explanation": "Le panneau d'arrêt est le seul panneau à huit côtés que vous verrez sur n'importe quelle voie routière. Quand vous rencontrez un panneau d'arrêt, vous devez vous arrêter complètement. Vous ne pouvez pas procéder tant que la voie n'est pas libre pour vous de traverser complètement et en toute sécurité l'intersection."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "411",
+      "question": "Le bras et la main gauche du conducteur sont étendus vers le bas. Ce signal manuel signifie que le conducteur prévoit de :",
+      "image": "/images/signs/new-york-hand_signal_down.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tourner à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Tourner à droite."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêt."
+        },
+        {
+          "letter": "D",
+          "text": "Démarrer."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Arrêt.",
+      "explanation": "Si le bras et la main gauche d'un conducteur sont étendus vers le bas, il indique qu'il a l'intention de s'arrêter. Ajustez votre conduite en conséquence si vous suivez un conducteur qui utilise ce signal manuel."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "764",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/crossroad.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intersection à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Fusionner."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêt."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Intersection à proximité.",
+      "explanation": "Ce panneau indique qu'il y a une intersection à proximité."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "168",
+      "question": "Ce panneau blanc signifie que vous ne devriez pas dépasser d'autres véhicules :",
+      "image": "/images/signs/do_not_pass.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jusqu'après avoir passé le panneau."
+        },
+        {
+          "letter": "B",
+          "text": "À moins que cela ne semble sûr."
+        },
+        {
+          "letter": "C",
+          "text": "Pour quelque raison que ce soit."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pour quelque raison que ce soit.",
+      "explanation": "Un panneau rectangulaire blanc indique que vous devez respecter la règle indiquée. Ce panneau signifie que les conducteurs ne doivent pas dépasser d'autres véhicules pour quelque raison que ce soit."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1678",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les demi-tours sont interdits."
+        },
+        {
+          "letter": "B",
+          "text": "Les demi-tours sont autorisés."
+        },
+        {
+          "letter": "C",
+          "text": "Route sinueuse à l'avant."
+        },
+        {
+          "letter": "D",
+          "text": "Virage à gauche prononcé à l'avance."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Les demi-tours sont interdits.",
+      "explanation": "Un panneau de signalisation réglementaire affichant un cercle rouge avec une barre rouge au milieu indique qu'une action spécifique est interdite. Les demi-tours ne sont pas autorisés où ce panneau est affiché."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "754",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Fusionner."
+        },
+        {
+          "letter": "C",
+          "text": "Changement de direction imminent."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Arrêt.",
+      "explanation": "Un panneau rouge octogonal signifie « arrêt »."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "220",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de demi-tour."
+        },
+        {
+          "letter": "B",
+          "text": "Pas de virage à gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de virage à droite."
+        },
+        {
+          "letter": "D",
+          "text": "Pas de virage."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pas de virage à droite.",
+      "explanation": "Ce panneau indique que les virages à droite sont interdits. Ne tournez pas à droite à une intersection où ce panneau est affiché."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "539",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/slippery_when_wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faites attention aux conducteurs ivres."
+        },
+        {
+          "letter": "B",
+          "text": "Virages à l'avance."
+        },
+        {
+          "letter": "C",
+          "text": "Glissant quand mouillé."
+        },
+        {
+          "letter": "D",
+          "text": "Freinez rapidement."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Glissant quand mouillé.",
+      "explanation": "Ce panneau avertit que la route est glissante quand elle est mouillée."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "831",
+      "question": "Ce panneau est utilisé pour avertir les conducteurs de :",
+      "image": "/images/signs/curve_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les intersections à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Les travaux routiers."
+        },
+        {
+          "letter": "C",
+          "text": "Courbes de route en avant."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Courbes de route en avant.",
+      "explanation": "Les panneaux d'avertissement sont généralement jaunes avec des marquages noirs. Ils vous alertent sur les conditions immédiatement à l'avant. Ce panneau est utilisé pour avertir les conducteurs d'une courbe à droite à venir."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "412",
+      "question": "Le bras et la main gauche du conducteur sont étendus vers le haut. Ce signal manuel signifie que le conducteur prévoit de:",
+      "image": "/images/signs/new-york-hand_signal_up.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tourner à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Tourner à droite."
+        },
+        {
+          "letter": "C",
+          "text": "S'arrêter complètement."
+        },
+        {
+          "letter": "D",
+          "text": "Continuer tout droit."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tourner à droite.",
+      "explanation": "Si le bras et la main gauche d'un conducteur sont étendus vers le haut, il indique qu'il a l'intention de tourner à droite. Ajustez votre conduite en conséquence si vous suivez un conducteur qui utilise ce signal manuel."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "2069",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/montana-narrow_bridge_2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les camions sont autorisés sur un pont étroit à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Le pont à l'avant est ouvert à la circulation à sens unique seulement."
+        },
+        {
+          "letter": "C",
+          "text": "Le pont à l'avant est suffisamment large que pour une seule voiture à la fois."
+        },
+        {
+          "letter": "D",
+          "text": "Le pont à l'avant peut être trop étroit pour rencontrer ou dépasser un camion."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Le pont à l'avant peut être trop étroit pour rencontrer ou dépasser un camion.",
+      "explanation": "Les panneaux d'avertissement sont utilisés pour avertir les conducteurs des conditions dangereuses à venir et sont généralement jaunes avec des marquages noirs. Ce panneau avertit les conducteurs qu'un pont à venir peut être trop étroit pour rencontrer ou dépasser un camion et qu'ils doivent être prudents."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "828",
+      "question": "Ceci est la forme et la couleur d'un panneau ____.",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêt"
+        },
+        {
+          "letter": "B",
+          "text": "Sens interdit"
+        },
+        {
+          "letter": "C",
+          "text": "Céder le passage"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Céder le passage",
+      "explanation": "Les panneaux triangulaires orientés vers le bas signifient que les conducteurs doivent céder le passage. En s'approchant d'un panneau de cédez-le-passage, ralentissez à une vitesse raisonnable selon les conditions existantes et arrêtez-vous si nécessaire. Si vous devez vous arrêter, faites-le à une ligne d'arrêt marquée, si elle existe."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "860",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/georgia-reduction_of_lanes.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La route s'élargit à l'avant."
+        },
+        {
+          "letter": "B",
+          "text": "Réduction de voie. La voie de droite se termine bientôt et le trafic devrait fusionner à gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Rampe d'entrée d'autoroute à l'avant."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Réduction de voie. La voie de droite se termine bientôt et le trafic devrait fusionner à gauche.",
+      "explanation": "Un panneau d'avertissement est généralement jaune avec des marquages noirs. Ce panneau avertit que le nombre de voies à l'avant est réduit et que le trafic devra se fusionner vers la gauche."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1036",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_left_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aucun virage à gauche ne peut être effectué ici."
+        },
+        {
+          "letter": "B",
+          "text": "Un virage à gauche ne peut être effectué qu'après un arrêt."
+        },
+        {
+          "letter": "C",
+          "text": "Tout le trafic doit tourner à droite à l'intersection suivante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Aucun virage à gauche ne peut être effectué ici.",
+      "explanation": "Les panneaux avec un cercle rouge et une ligne diagonale sur un symbole noir indiquent que l'action représentée par le symbole est interdite. Dans ce cas, le panneau indique que les virages à gauche sont interdits."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "968",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Route secondaire."
+        },
+        {
+          "letter": "C",
+          "text": "Voie à double sens de virage à gauche."
+        },
+        {
+          "letter": "D",
+          "text": "Machinerie agricole."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Arrêt.",
+      "explanation": "Les panneaux de circulation octogonaux avertissent les conducteurs qu'ils doivent s'arrêter et céder le passage approprié à une intersection. Les conducteurs peuvent procéder lorsqu'il est sûr de le faire."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "592",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/low_clearance.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La route divisée commence."
+        },
+        {
+          "letter": "B",
+          "text": "Une pente raide approche."
+        },
+        {
+          "letter": "C",
+          "text": "Le viaduc à l'avant a une hauteur libre réduite."
+        },
+        {
+          "letter": "D",
+          "text": "Deux voies de circulation se déplaçant dans des directions opposées sont sur le point de fusionner."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Le viaduc à l'avant a une hauteur libre réduite.",
+      "explanation": "Ce panneau avertit que le viaduc à l'avant a une hauteur libre réduite. Ne procédez pas si votre véhicule est plus grand que la hauteur indiquée (en l'occurrence, 13 feet, 6 inches)."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "851",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de virage à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez tourner à droite."
+        },
+        {
+          "letter": "C",
+          "text": "Attention au trafic sur votre droite."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pas de virage à droite.",
+      "explanation": "Ce panneau interdit les virages à droite. Vous ne pouvez pas tourner à droite à une intersection où ce panneau est affiché."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "771",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de demi-tour."
+        },
+        {
+          "letter": "B",
+          "text": "Signal de circulation à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Chemin de fer à l'approche."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pas de demi-tour.",
+      "explanation": "Ce panneau indique que les demi-tours sont interdits."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1034",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/yield_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panneau de cédez-le-passage à l'avance."
+        },
+        {
+          "letter": "B",
+          "text": "Route secondaire entrant par la gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Panneau d'arrêt à venir."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Panneau de cédez-le-passage à l'avance.",
+      "explanation": "Ce panneau indique qu'il y a un panneau de cédez-le-passage plus loin. Vous devriez commencer à ralentir lorsque vous voyez ce panneau d'avertissement."
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "state": "Nebraska",
+  "category": "car",
+  "quizName": "Hard Practice Test #3",
+  "slug": "hard-practice-test-3",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "254",
+      "question": "Esta flecha verde en una señal de control de uso de carril significa:",
+      "image": "/images/signs/pennsylvania-control_signal_green.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede usar este carril."
+        },
+        {
+          "letter": "B",
+          "text": "No se permite tráfico en este carril."
+        },
+        {
+          "letter": "C",
+          "text": "Usted tiene el derecho de paso."
+        },
+        {
+          "letter": "D",
+          "text": "Debe fusionarse en este carril."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Puede usar este carril.",
+      "explanation": "Una flecha verde fija apuntando hacia abajo sobre un carril de tráfico significa que puede usar el carril indicado."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "125",
+      "question": "Al estacionar su vehículo en cualquier colina:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una de sus ruedas traseras debe tocar el bordillo."
+        },
+        {
+          "letter": "B",
+          "text": "Use el freno de estacionamiento y deje el vehículo en \"estacionamiento\"."
+        },
+        {
+          "letter": "C",
+          "text": "Sus ruedas delanteras deben estar paralelas a la carretera, si no hay bordillo."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Use el freno de estacionamiento y deje el vehículo en \"estacionamiento\".",
+      "explanation": "Al estacionar en una colina, siempre debe dejar su vehículo en marcha o en posición de \"estacionamiento\". Si no hay bordillo, debe girar las ruedas delanteras para que el vehículo se aleje del centro de la carretera si los frenos fallan. Si hay un bordillo, las ruedas delanteras deben estar giradas hacia él (si va cuesta abajo) o alejadas y tocándolo suavemente (si va cuesta arriba)."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1922",
+      "question": "Cuando conduce en condiciones de nieve o hielo, es seguro usar su control de crucero siempre que reduzca su velocidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verdadero"
+        },
+        {
+          "letter": "B",
+          "text": "Falso"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Falso",
+      "explanation": "No debe usar control de crucero cuando conduce en carreteras con nieve o hielo. Sus llantas pueden perder contacto con la carretera y ya no tendrá control de su vehículo."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1848",
+      "question": "Al llegar a una intersección no controlada al mismo tiempo que vehículos a tu derecha e izquierda, debes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ceder el derecho de paso al vehículo a tu izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "Ceder el derecho de paso al vehículo a tu derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar hasta que no haya vehículos en la intersección antes de proceder."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ceder el derecho de paso al vehículo a tu derecha.",
+      "explanation": "Si múltiples vehículos llegan al mismo tiempo a una intersección que no está controlada por señales o semáforos, el conductor de la derecha tiene derecho de paso. Los conductores deben proceder entonces en el orden en que lleguen a la intersección."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1949",
+      "question": "Cuando se acerca a la cima de una colina, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acelere ligeramente."
+        },
+        {
+          "letter": "B",
+          "text": "Prepárese para detenerse, si es necesario."
+        },
+        {
+          "letter": "C",
+          "text": "Mantenga una velocidad constante."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Prepárese para detenerse, si es necesario.",
+      "explanation": "Es posible que no sepa qué hay al otro lado de una colina o justo alrededor de una curva, incluso si ha conducido por el camino muchas veces. Si un vehículo está atascado fuera de la vista en la carretera, debe poder detenerse. Siempre que llegue a una colina o curva, ajuste su velocidad para poder detenerse si es necesario."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1912",
+      "question": "Al aproximarte a una intersección que tiene una señal de parada pero sin un paso peatonal pintado, debes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detén tu vehículo dentro del paso peatonal sin marcar."
+        },
+        {
+          "letter": "B",
+          "text": "Detente antes de entrar al paso peatonal sin marcar."
+        },
+        {
+          "letter": "C",
+          "text": "Detente en la señal de parada. No importa si estás en el paso peatonal o no."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Detente antes de entrar al paso peatonal sin marcar.",
+      "explanation": "Al aproximarte a una intersección con una señal de parada, debes detenerte por completo antes de entrar al paso peatonal. El paso peatonal puede estar marcado o sin marcar."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "219",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/pennsylvania-no_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin vuelta en U."
+        },
+        {
+          "letter": "B",
+          "text": "Sin giros."
+        },
+        {
+          "letter": "C",
+          "text": "Sin giro a la izquierda."
+        },
+        {
+          "letter": "D",
+          "text": "Sin giro a la derecha."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sin vuelta en U.",
+      "explanation": "Esta señal prohíbe los giros en U. No haga un giro en U donde esta señal esté colocada."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1963",
+      "question": "Si tiene un pinchazo repentino de neumático:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aplicar los frenos suavemente."
+        },
+        {
+          "letter": "B",
+          "text": "Bombee los frenos."
+        },
+        {
+          "letter": "C",
+          "text": "Aplicar los frenos firmemente."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Aplicar los frenos suavemente.",
+      "explanation": "Si un neumático se desinfla repentinamente mientras conduce, agarre firmemente el volante y mantenga el vehículo en línea recta. Reduzca la velocidad gradualmente quitando el pie del acelerador y aplicando los frenos suavemente."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1660",
+      "question": "Ciertas señales de carretera requieren que los conductores obedezcan una instrucción indicada. Tales señales se conocen como:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señales regulatorias."
+        },
+        {
+          "letter": "B",
+          "text": "Señales de advertencia."
+        },
+        {
+          "letter": "C",
+          "text": "Señales de información."
+        },
+        {
+          "letter": "D",
+          "text": "Señales de guía."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Señales regulatorias.",
+      "explanation": "Las señales regulatorias requieren que los conductores obedezcan una instrucción indicada. El incumplimiento está sujeto a penalización."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "197",
+      "question": "Debe aumentar la distancia entre su vehículo y el vehículo que va adelante cuando:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Va siguiendo un vehículo de pasajeros pequeño."
+        },
+        {
+          "letter": "B",
+          "text": "Le está cerrando el paso otro conductor."
+        },
+        {
+          "letter": "C",
+          "text": "Está conduciendo más lentamente que el límite de velocidad establecido."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Le está cerrando el paso otro conductor.",
+      "explanation": "Cuando le cierren el paso, cree espacio adicional frente a su vehículo y no frene repentinamente. Reduzca la velocidad gradualmente o cámbiese a otro carril para evitar una colisión con el vehículo que le cierra el paso."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "412",
+      "question": "El brazo y la mano izquierda del conductor están extendidos hacia arriba. Esta señal manual significa que el conductor planea:",
+      "image": "/images/signs/new-york-hand_signal_up.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gire a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "Girar a la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Detenerse completamente."
+        },
+        {
+          "letter": "D",
+          "text": "Continuar recto."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Girar a la derecha.",
+      "explanation": "Si el brazo y la mano izquierda de un conductor están extendidos hacia arriba, está indicando que tiene la intención de girar a la derecha. Ajuste su conducción en consecuencia si sigue a un conductor que utiliza esta señal manual."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "775",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/illinois-two_way_roadway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tráfico de dos sentidos."
+        },
+        {
+          "letter": "B",
+          "text": "Cambio de dirección adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Zona escolar y cruce."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tráfico de dos sentidos.",
+      "explanation": "Este letrero informa a los conductores que están saliendo de una carretera dividida y se acercan a una autopista de dos direcciones."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "495",
+      "question": "Una luz amarilla que parpadea significa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detente y busca otros vehículos, luego avanza si no hay tráfico."
+        },
+        {
+          "letter": "B",
+          "text": "Detente y espera una luz verde."
+        },
+        {
+          "letter": "C",
+          "text": "Acelera para despejar la intersección rápidamente."
+        },
+        {
+          "letter": "D",
+          "text": "Reducir la velocidad y proceder con precaución."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Reducir la velocidad y proceder con precaución.",
+      "explanation": "Una luz de tráfico amarilla intermitente significa que los conductores deben reducir la velocidad y proceder con precaución."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1846",
+      "question": "Las multas por exceso de velocidad se triplican en zonas de trabajo y escuelas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verdadero"
+        },
+        {
+          "letter": "B",
+          "text": "Falso"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Falso",
+      "explanation": "Las multas por infracciones de tráfico en movimiento se duplican en zonas de trabajo donde hay trabajadores presentes, así como en zonas escolares durante las horas indicadas. Siempre conduce con precaución cuando estés cerca de niños, trabajadores y otros peatones."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1930",
+      "question": "Al hacer una parada de emergencia en la carretera, debes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parpadea tus faros para advertir a otros conductores."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia tu transmisión a la marcha de estacionamiento y establece el freno de estacionamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Deja tu vehículo en marcha y sal del vehículo."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Cambia tu transmisión a la marcha de estacionamiento y establece el freno de estacionamiento.",
+      "explanation": "Al hacer una parada de emergencia en la carretera, primero debes señalizar y apartarte. Aléjate lo más posible de la carretera de manera segura antes de cambiar la transmisión a la marcha de estacionamiento y establecer el freno de estacionamiento. Activa los indicadores de emergencia, apaga el motor y retira las llaves. Verifica el tráfico antes de salir del vehículo."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1827",
+      "question": "Los conductores deben mantener una distancia mínima de seguimiento de:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres segundos."
+        },
+        {
+          "letter": "B",
+          "text": "Cinco segundos."
+        },
+        {
+          "letter": "C",
+          "text": "Siete segundos."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tres segundos.",
+      "explanation": "Un conductor debe permitir un espacio de al menos tres segundos entre su vehículo y el vehículo que va adelante. Los conductores siempre deben aumentar su distancia de seguimiento cuando las condiciones son menos que perfectas."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1841",
+      "question": "Entra en una rotonda:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo cuando hay un espacio adecuado en el tráfico."
+        },
+        {
+          "letter": "B",
+          "text": "Inmediatamente, ya que el tráfico que entra en una rotonda siempre tiene el derecho de paso."
+        },
+        {
+          "letter": "C",
+          "text": "Después de hacer una parada completa y mirar en ambas direcciones."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Solo cuando hay un espacio adecuado en el tráfico.",
+      "explanation": "Al entrar en una rotonda, debes ceder el paso al tráfico que ya está en el círculo. Entra cuando haya un espacio seguro en el tráfico."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "2324",
+      "question": "Las señales redondas indican:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zonas de no adelantar."
+        },
+        {
+          "letter": "B",
+          "text": "Zonas escolares."
+        },
+        {
+          "letter": "C",
+          "text": "Cruces ferroviarios que se aproximan."
+        },
+        {
+          "letter": "D",
+          "text": "Hospitales."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Cruces ferroviarios que se aproximan.",
+      "explanation": "Las señales redondas advierten a los conductores sobre un área de cruce ferroviario que se aproxima. Los conductores deben tener especial cuidado al aproximarse a un cruce ferroviario."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1871",
+      "question": "Las personas que abandonen la escena de un accidente de vehículo motor pueden tener su carné de conducir revocado hasta ____ tras la condena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres meses"
+        },
+        {
+          "letter": "B",
+          "text": "Seis meses"
+        },
+        {
+          "letter": "C",
+          "text": "Nueve meses"
+        },
+        {
+          "letter": "D",
+          "text": "Un año"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Un año",
+      "explanation": "La condena por abandonar la escena de un accidente puede resultar en la revocación de la licencia por un año."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1543",
+      "question": "Debe ceder el paso a otros conductores:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al ingresar a una calle desde un garaje o callejón."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando están en un camino a su izquierda y ha llegado a una intersección sin marcar al mismo tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando su señal de tráfico es una flecha verde."
+        },
+        {
+          "letter": "D",
+          "text": "Todo lo anterior."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Al ingresar a una calle desde un garaje o callejón.",
+      "explanation": "Debe ceder el paso a otros conductores cuando ingresa a una calle desde un callejón, entrada de vehículos o garaje. También debe ceder el paso a los peatones que están en una acera que se cruza."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1059",
+      "question": "Cuando se acerca a un cruce de ferrocarril sin señales de advertencia intermitentes o puertas de cruce, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cruce las vías inmediatamente y lo más rápido posible."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre deténgase antes de cruzar las vías."
+        },
+        {
+          "letter": "C",
+          "text": "Prepárese para ceder a cualquier tren en el cruce."
+        },
+        {
+          "letter": "D",
+          "text": "Acelere para vencer a cualquier tren que se acerque."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Prepárese para ceder a cualquier tren en el cruce.",
+      "explanation": "Siempre esté preparado para ceder ante cualquier tren que se aproxime antes de cruzar las vías del ferrocarril, particularmente si no hay luces ni puertas que controlen el cruce. Nunca comience a cruzar las vías hasta que haya espacio para todo su vehículo al otro lado de las vías. Debido al riesgo de que un vehículo se bloquee, no es prudente cambiar de velocidad al cruzar vías de ferrocarril."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1058",
+      "question": "Se está preparando para salir de la carretera interestatal. ¿Cuándo debe comenzar a reducir su velocidad?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aproximadamente a mitad de camino del carril de desaceleración."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando se acerca al carril de desaceleración."
+        },
+        {
+          "letter": "C",
+          "text": "Inmediatamente después de entrar en el carril de desaceleración."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Inmediatamente después de entrar en el carril de desaceleración.",
+      "explanation": "Al salir de una carretera interestatal, debe mantener su velocidad hasta que entre en el carril de desaceleración, momento en el cual debe reducir su velocidad a la velocidad de asesoramiento publicada de la rampa de salida."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "332",
+      "question": "Al salir de una carretera, debes reducir la velocidad:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la carretera principal, justo antes del carril de salida."
+        },
+        {
+          "letter": "B",
+          "text": "Una vez que vea una cabina de peaje."
+        },
+        {
+          "letter": "C",
+          "text": "Una vez que se ha movido al carril de salida."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando ve por primera vez la señal de salida."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Una vez que se ha movido al carril de salida.",
+      "explanation": "Al salir de una autopista, debe entrar en el carril de salida con suficiente anticipación. No comience a reducir la velocidad hasta después de haber entrado en el carril de salida."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "613",
+      "question": "Un límite de velocidad es:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La velocidad legal máxima o mínima a la que puedes viajar en una carretera bajo condiciones peligrosas."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad legal máxima o mínima a la que puedes viajar en una carretera bajo condiciones ideales."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad sugerida a la que puedes viajar en una carretera bajo condiciones ideales."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los anteriores."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La velocidad legal máxima o mínima a la que puedes viajar en una carretera bajo condiciones ideales.",
+      "explanation": "Un límite de velocidad es la velocidad legal máxima o mínima a la que puedes viajar en una carretera bajo condiciones ideales. Puedes viajar más lentamente que el límite de velocidad establecido, pero es ilegal viajar más rápido. Debes conducir más lentamente donde los señales o letreros indican una zona escolar o un límite de velocidad de zona de trabajo. Si las condiciones como construcción de carreteras o mal tiempo hacen que el límite de velocidad establecido sea inseguro, conduce por debajo del límite de velocidad."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1507",
+      "question": "Los cruces de ferrocarril siempre deben considerarse:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seguro cruzar, ya que es poco probable que venga un tren."
+        },
+        {
+          "letter": "B",
+          "text": "Peligrosos."
+        },
+        {
+          "letter": "C",
+          "text": "Lugares seguros para estacionar un automóvil."
+        },
+        {
+          "letter": "D",
+          "text": "Un lugar donde es obligatorio detenerse"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Peligrosos.",
+      "explanation": "Los cruces de ferrocarril siempre son peligrosos. Los conductores siempre deben mirar y escuchar trenes que se aproximen desde cualquier dirección en todas las vías de ferrocarril. Siempre sigue las instrucciones indicadas por señales, semáforos y banderilleros. Nunca proceeds más allá de un cruce de ferrocarril hasta que estés seguro de que es seguro hacerlo."
+    }
+  ]
+}

@@ -1,0 +1,751 @@
+{
+  "state": "Iowa",
+  "category": "car",
+  "quizName": "Signs Practice Test #1",
+  "slug": "signs-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1510",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "완전히 정지한 후 우회전하세요."
+        },
+        {
+          "letter": "B",
+          "text": "우회전이 허용되지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "좌회전이 허용됩니다."
+        },
+        {
+          "letter": "D",
+          "text": "위 중 어느 것도 아닙니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "우회전이 허용되지 않습니다.",
+      "explanation": "규제 표지판은 운전자가 항상 따라야 하는 법칙을 표시합니다. 이 표지판이 있는 곳에서는 우회전이 허용되지 않습니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "557",
+      "question": "이 표지판을 보면 무엇을 해야 합니까?",
+      "image": "/images/signs/alabama-railroad_crossing(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "앞의 기차역을 찾으십시오."
+        },
+        {
+          "letter": "B",
+          "text": "더 나아가기 전에 신호하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "속도를 낮추고 기차에 양보합니다."
+        },
+        {
+          "letter": "D",
+          "text": "정지합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "속도를 낮추고 기차에 양보합니다.",
+      "explanation": "이 표지판은 도로 앞에 철도 건널목이 있음을 나타냅니다. 철도 건널목에 접근할 때 항상 속도를 낮춰야 합니다. 기차는 자동차에 양보할 수 없으므로 건널목을 건너기 전에 기차가 지나가도록 해야 합니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "772",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/illinois-signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "신호등이 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "정지합니다."
+        },
+        {
+          "letter": "C",
+          "text": "통행권을 양보합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "신호등이 있습니다.",
+      "explanation": "이 표지판은 접근하는 신호등을 경고합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "117",
+      "question": "이 표지판을 보면 당신은:",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "철도 건널목에 접근하고 있으며 정지를 준비해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "다가오는 철도 건널목에서 항상 정지할 것입니다."
+        },
+        {
+          "letter": "C",
+          "text": "철도 건널목을 건너기 전에 정지하고 신호를 기다려야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "철도 건널목에 접근하고 있으며 정지를 준비해야 합니다.",
+      "explanation": "이 표지판은 철도 건널목에 접근하고 있음을 나타냅니다. 보고, 듣고, 속도를 낮추고, 정지를 준비해야 합니다. 진행하기 전에 열차가 지나갈 때까지 기다리세요."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "773",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/slow_moving_vehicle.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "저속 주행 차량."
+        },
+        {
+          "letter": "B",
+          "text": "도로 공사/유지보수 구간."
+        },
+        {
+          "letter": "C",
+          "text": "신호등이 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "저속 주행 차량.",
+      "explanation": "이 표지판은 저속 이동 차량에 표시됩니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "594",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/left_turn_yield_on_green.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "일방통행 도로에 잘못된 방향으로 진입하려고 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "학교 횡단보도가 앞에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "이 차선으로 운전하지 마십시오."
+        },
+        {
+          "letter": "D",
+          "text": "녹색 신호에서 좌회전하는 교통은 대향 교통에 양보해야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "녹색 신호에서 좌회전하는 교통은 대향 교통에 양보해야 합니다.",
+      "explanation": "이 표지판은 신호등과 함께 사용되어 좌회전 교통이 우선권을 갖지 않으며 대신 대향 교통이 지나갈 때까지 기다려야 함을 운전자에게 알립니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "921",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/indiana-curve_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "앞에 곡선이 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로 공사가 앞에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "진입하는 차량들."
+        },
+        {
+          "letter": "D",
+          "text": "좌회전 금지."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "앞에 곡선이 있습니다.",
+      "explanation": "경고 표지판은 운전자에게 향후 도로 상황과 위험을 알려주며 일반적으로 검은 표시가 있는 노란색입니다. 이 표지판은 운전자에게 도로의 예정된 곡선을 알립니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "211",
+      "question": "이 흰색 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "철도 건널목이 통제되고 있습니다. 정상 속도로 계속 진행하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "살피고, 귀를 기울이고, 필요한 경우 건널목에서 멈출 준비를 하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "철도 선로에서 멈추고 건너기 전에 신호를 기다리십시오."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "살피고, 귀를 기울이고, 필요한 경우 건널목에서 멈출 준비를 하십시오.",
+      "explanation": "철도 건널목에 접근할 때는 살피고, 귀를 기울이고, 속도를 줄이고, 멈출 준비를 해야 합니다. 기차가 지나갈 때까지 기다린 후 진행하십시오."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "839",
+      "question": "이 도로 표지판은 무엇을 의미합니까?",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "자동차가 접근하고 있으면 속도를 줄이고 정지할 준비를 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "완전히 정지한 후 안전할 때 진행합니다."
+        },
+        {
+          "letter": "C",
+          "text": "항상 정지하지는 않고 교차로를 조심스럽게 통과합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "완전히 정지한 후 안전할 때 진행합니다.",
+      "explanation": "팔각형 표지판은 항상 정지를 의미합니다. 정지 표지판에 접근할 때는 표시된 정지선에서 완전히 정지하고 안전할 때에만 진행해야 합니다. 정지선이 없으면 횡단보도 전에 정지합니다. 횡단보도가 없으면 대향 교통을 볼 수 있는 지점에서 교차로 전에 정지합니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "266",
+      "question": "게시된 속도 제한은 다음을 보여줍니다:",
+      "image": "/images/signs/district-of-columbia-speed_limit_25.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "권장되는 운전 속도일 뿐입니다."
+        },
+        {
+          "letter": "B",
+          "text": "티켓을 피하기 위해 운전해야 하는 정확한 속도."
+        },
+        {
+          "letter": "C",
+          "text": "이상적인 도로 및 날씨 조건에서의 최대 안전 운전 속도."
+        },
+        {
+          "letter": "D",
+          "text": "모든 도로 조건에서의 최대 안전 운전 속도."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "이상적인 도로 및 날씨 조건에서의 최대 안전 운전 속도.",
+      "explanation": "속도 제한 표지판은 게시된 도로 구간에 대해 허용되는 최대 법정 운전 속도를 보여줍니다. 안전하게 운전하려면 게시된 제한보다 더 천천히 운전해야 할 수 있습니다. 조건이 이상적이지 않을 때 운전자는 속도를 줄여야 합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "765",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/illinois-slippery_pavement.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "젖었을 때 미끄럽습니다."
+        },
+        {
+          "letter": "B",
+          "text": "정지 표지판이 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "유턴 금지."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "젖었을 때 미끄럽습니다.",
+      "explanation": "모든 도로는 젖었을 때 미끄럽고 위험합니다. 이 표지판은 운전자가 자동차 제어를 잃을 수 있는 상황을 경고합니다. 운전자는 젖은 포장도로에 접근할 때 속도를 낮추어야 합니다. 정지하는 데 더 오래 걸리기 때문입니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "887",
+      "question": "이 도로 표지는 무엇을 나타냅니까?",
+      "image": "/images/signs/school_zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "어린이 방향"
+        },
+        {
+          "letter": "B",
+          "text": "앞에 학교 구간이 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "앞에 놀이터가 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "앞에 학교 구간이 있습니다.",
+      "explanation": "오각형 표지는 학교 구간 및/또는 학교 횡단보도에 있거나 접근하고 있음을 나타냅니다. 학교 구간 근처에서 운전할 때 어린이에 주의하고 게시된 속도 제한을 준수하세요."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "575",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "회전교차로가 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "추월 금지 구간."
+        },
+        {
+          "letter": "C",
+          "text": "녹색에서 좌회전 양보"
+        },
+        {
+          "letter": "D",
+          "text": "신호등이 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "신호등이 있습니다.",
+      "explanation": "이 표지판은 신호등이 앞에 있음을 의미합니다. 속도를 낮추고 정지할 준비를 해야 합니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "231",
+      "question": "이 표지판은 다음을 나타냅니다:",
+      "image": "/images/signs/steep_hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "가파른 언덕이 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞의 언덕에는 트럭이 허용되지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "벌목 도로가 앞에 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "앞의 언덕에 트럭이 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "가파른 언덕이 앞에 있습니다.",
+      "explanation": "이 표지판은 앞에 가파른 언덕 또는 내리막이 있음을 경고합니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "483",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/two_way_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4차선 교통이 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞에 분리된 고속도로."
+        },
+        {
+          "letter": "C",
+          "text": "양방향 교통이 앞에 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "교차로가 앞에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "양방향 교통이 앞에 있습니다.",
+      "explanation": "이 표지판은 앞에 양방향 교통이 있음을 경고합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "836",
+      "question": "이 표지판은 다음 중 한 가지 유형을 나타냅니다:",
+      "image": "/images/signs/georgia-t_intersection(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우회전."
+        },
+        {
+          "letter": "B",
+          "text": "교차로."
+        },
+        {
+          "letter": "C",
+          "text": "차선 변경."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "교차로.",
+      "explanation": "경고 표지판은 일반적으로 검은색 표시가 있는 노란색입니다. 이 표지판은 현재 도로가 앞의 교차로에서 끝남을 경고합니다. 우회전 또는 좌회전 전에 속도를 줄이고 양보하거나 정지할 준비를 합니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "885",
+      "question": "이 도로 표지판은 무엇을 의미합니까?",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "반드시 우회전해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "우회전 금지입니다."
+        },
+        {
+          "letter": "C",
+          "text": "빨간 신호등에서 우회전이 허용됩니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "우회전 금지입니다.",
+      "explanation": "이 표지판은 우회전을 금지합니다. 이 표지판이 게시된 교차로에서 우회전하는 것은 위법입니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "759",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/illinois-change_in_direction.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "방향 변화 또는 도로 좁아짐."
+        },
+        {
+          "letter": "B",
+          "text": "우회전 금지."
+        },
+        {
+          "letter": "C",
+          "text": "추월 금지 구간."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "방향 변화 또는 도로 좁아짐.",
+      "explanation": "이 표지는 방향 변화 또는 도로 좁아짐을 운전자에게 경고합니다. 운전자는 급커브의 바깥쪽이나 좁은 다리에 접근할 때 이러한 표지를 여러 개 찾을 수 있습니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "760",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/illinois-railroad_warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "철도 건널목 앞."
+        },
+        {
+          "letter": "B",
+          "text": "추월 금지 구간."
+        },
+        {
+          "letter": "C",
+          "text": "학교 구역"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "철도 건널목 앞.",
+      "explanation": "동그란 노란색 표지판은 앞에 철도 건널목이 있음을 나타냅니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1398",
+      "question": "이 표지판을 보면 다음을 해야 합니다:",
+      "image": "/images/signs/merging_traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "오른쪽에서 합쳐지는 교통을 주의하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "우측으로 합류하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "왼쪽으로 회전하십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "오른쪽에서 합쳐지는 교통을 주의하십시오.",
+      "explanation": "경고 표지판은 운전자에게 예정된 위험에 대해 경고하며 보통 검은색 표시가 있는 노란색입니다. 이 표지판은 운전자에게 오른쪽에서 자신의 차선으로 합쳐질 수 있는 교통에 대해 경고합니다."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "965",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/side_road.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "측도로."
+        },
+        {
+          "letter": "B",
+          "text": "낮은 간격."
+        },
+        {
+          "letter": "C",
+          "text": "진입하는 차량들."
+        },
+        {
+          "letter": "D",
+          "text": "정지 준비하십시오."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "측도로.",
+      "explanation": "경고 표지판은 운전자에게 다가올 도로 상태와 위험을 준비시키며 보통 검은 색 표시가 있는 노란색입니다. 이 표지판은 다가올 나란한 도로에서 들어올 수 있는 교통을 운전자가 인식하도록 합니다."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "979",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "양보하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "앞에 교차로가 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "오른쪽으로 유지하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "양보 표지판이 앞에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "양보하십시오.",
+      "explanation": "세 변의 길이가 같은 교통 표지판은 교차로에 접근할 때 속도를 낮추고 완전히 멈춰 다른 운전자나 보행자에게 양보할 준비를 하도록 경고합니다. 운전자는 안전할 때 진행할 수 있습니다."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "1137",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/road_work_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "당신의 경로를 횡단하는 사람들을 주의하세요."
+        },
+        {
+          "letter": "B",
+          "text": "추월 금지 구간."
+        },
+        {
+          "letter": "C",
+          "text": "공사 구간 앞."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "공사 구간 앞.",
+      "explanation": "이 주황색 경고 표지판은 도로 공사 구간이 곧 나타날 것을 운전자에게 알립니다. 공사 지역을 통행할 때는 임시 교통 통제 장치에 주의하세요."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "758",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/illinois-school_2.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "학교 지역 또는 횡단보도."
+        },
+        {
+          "letter": "B",
+          "text": "보행자 횡단."
+        },
+        {
+          "letter": "C",
+          "text": "철도 건널목 앞."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "학교 지역 또는 횡단보도.",
+      "explanation": "노란색 또는 노란색-녹색의 5각형 표지판은 학교 지역 또는 학교 횡단보도를 운전자에게 알립니다."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "540",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/washington-advance_warning_bicycles.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "자전거를 주의하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "자전거 금지."
+        },
+        {
+          "letter": "C",
+          "text": "자전거 수리점 앞."
+        },
+        {
+          "letter": "D",
+          "text": "자전거가 우선권을 가집니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "자전거를 주의하십시오.",
+      "explanation": "이 표지판은 자전거가 있을 수 있음을 미리 경고합니다."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "474",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/school_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "보행자만 해당합니다."
+        },
+        {
+          "letter": "B",
+          "text": "교차로가 앞에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "등산로가 앞에 있습니다."
+        },
+        {
+          "letter": "D",
+          "text": "학교 횡단보도가 앞에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "학교 횡단보도가 앞에 있습니다.",
+      "explanation": "이 표지판은 학교 횡단이 앞에 있다는 것을 나타냅니다."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "834",
+      "question": "이 표지판은 다음을 경고하기 위해 사용됩니다:",
+      "image": "/images/signs/georgia-reduction_of_lanes.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우측 차선이 끝나고 교통이 좌측으로 합류해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞의 도로가 곡선입니다."
+        },
+        {
+          "letter": "C",
+          "text": "다가오는 교차로가 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "우측 차선이 끝나고 교통이 좌측으로 합류해야 합니다.",
+      "explanation": "경고 표지판은 일반적으로 검은색 표시가 있는 노란색입니다. 바로 앞에 있는 조건에 대해 알립니다. 이 표지판은 운전자에게 차선 수가 감소하고 있으며 교통이 좌측으로 합류해야 함을 경고합니다."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "856",
+      "question": "이 도로 표지판은 다음을 의미합니다:",
+      "image": "/images/signs/sharp_turn_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "우측으로의 급격한 회전이 앞에 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로가 우측에서 합류합니다."
+        },
+        {
+          "letter": "C",
+          "text": "도로가 우측으로 급격히 회전한 다음 좌측으로 급격히 회전합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "도로가 우측으로 급격히 회전한 다음 좌측으로 급격히 회전합니다.",
+      "explanation": "경고 표지판은 보통 검은 표시가 있는 노란색입니다. 이 표지판은 앞의 도로가 우측으로 급격히 회전한 다음 좌측으로 급격히 회전함을 나타냅니다."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "484",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "긴급 차량이 접근하고 있으면 속도를 줄이십시오."
+        },
+        {
+          "letter": "B",
+          "text": "교차로를 건널 때 양쪽을 모두 살피십시오."
+        },
+        {
+          "letter": "C",
+          "text": "항상 교차로에서 완전히 정지하십시오."
+        },
+        {
+          "letter": "D",
+          "text": "속도를 줄이고 필요하면 정지할 준비를 하십시오."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "속도를 줄이고 필요하면 정지할 준비를 하십시오.",
+      "explanation": "교차로에 yield 표지판이 있을 때 속도를 줄이십시오. 교차로나 횡단로에서 차량과 보행자에게 통행권을 양보할 준비를 하십시오. 교통 상황에 따라 yield 표지판에서 완전히 정지해야 합니다."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "774",
+      "question": "이 표지판의 의미는:",
+      "image": "/images/signs/side_road.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "측도로."
+        },
+        {
+          "letter": "B",
+          "text": "병합합니다."
+        },
+        {
+          "letter": "C",
+          "text": "통행권을 양보합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "측도로.",
+      "explanation": "이 표지판은 앞에 측도로와의 교차로가 있음을 나타냅니다."
+    }
+  ]
+}

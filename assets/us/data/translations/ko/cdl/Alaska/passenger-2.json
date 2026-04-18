@@ -1,0 +1,450 @@
+{
+  "state": "Alaska",
+  "category": "cdl",
+  "testName": "Passenger Test #2 20 Questions • Passing Score 16",
+  "testSlug": "passenger-2",
+  "url": "/images/alaska/cdl/passenger-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11053",
+      "question": "리프 스프링에서:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "잎이 움직여야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "잎이 빠질 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "리프가 손상되어서는 안 됩니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "리프가 손상되어서는 안 됩니다.",
+      "explanation": "차량의 서스펜션을 검사할 때, 리프 스프링에 누락되거나 손상된 리프가 없는지 확인하십시오. 리프 스프링의 최소 1/4이 누락된 경우, 차량은 결함이 수정될 때까지 운행 중단 상태가 됩니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9254",
+      "question": "교차로의 중앙에 도달하기 전에 좌회전을 시작하면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "회전을 만족스럽게 완료할 가능성이 높습니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량의 왼쪽으로 다른 차량과 충돌할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "다른 운전자들이 당신의 회전을 수용하기 위해 차량을 이동할 것으로 예상할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "차량의 왼쪽으로 다른 차량과 충돌할 수 있습니다.",
+      "explanation": "교차로에서 좌회전을 계획할 때는 회전을 시작하기 전에 교차로의 중앙에 도달했는지 확인하십시오. 너무 일찍 회전하면 오프트래킹으로 인해 차량의 왼쪽이 다른 차량과 충돌할 수 있습니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10291",
+      "question": "운전할 때, 당신 뒤에서 일어나고 있는 일을 인식하는 것은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "중요하지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "중요합니다."
+        },
+        {
+          "letter": "C",
+          "text": "산만하게 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "중요합니다.",
+      "explanation": "운전할 때, 당신의 차량 뒤와 옆에서 일어나고 있는 일을 인식하는 것이 중요합니다. 미러 확인과 머리 확인은 스캔 루틴의 정상적인 부분이어야 합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11183",
+      "question": "안개 속에서 운전 중 앞의 테일라이트가 보이면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "불빛이 도로의 위치를 나타내지 않을 수 있으며, 차량이 도로에서 벗어났을 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞의 차량이 도로 위에 있다고 가정할 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "착각일 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "불빛이 도로의 위치를 나타내지 않을 수 있으며, 차량이 도로에서 벗어났을 수 있습니다.",
+      "explanation": "안개 조건에서 운전할 때 불빛을 도로의 위치를 신뢰할 수 있는 지표로 사용할 수 없습니다. 불빛은 도로에서 벗어난 차량에서 나올 수 있습니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9879",
+      "question": "좌회전을 할 때 회전을 시작해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "교차로의 중앙에 도달하기 전에 시작합니다."
+        },
+        {
+          "letter": "B",
+          "text": "교차로의 중앙보다 빨리하지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "뒷바퀴가 교차로의 중앙을 통과한 후입니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "교차로의 중앙보다 빨리하지 않습니다.",
+      "explanation": "좌회전을 할 때는 실제로 회전을 시작하기 전에 교차로의 중앙에 도달할 때까지 기다려야 합니다. 오프트래킹으로 인해 너무 일찍 회전을 시작하면 차량의 왼쪽이 다른 운전자와 충돌할 수 있습니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11182",
+      "question": "도로에서 주의산만한 운전자를 확인하면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "바짝 뒤따릅니다."
+        },
+        {
+          "letter": "B",
+          "text": "그들에게 불을 비추세요."
+        },
+        {
+          "letter": "C",
+          "text": "충분한 간격을 제공합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "충분한 간격을 제공합니다.",
+      "explanation": "도로에서 주의산만해 보이는 운전자를 만나면 충분한 간격을 유지하고 안전한 따라가기 거리를 유지해야 합니다."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "8514",
+      "question": "출발 전 점검에는 다음이 포함되어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "엔진 오일 수준 확인."
+        },
+        {
+          "letter": "B",
+          "text": "냉각액 제거."
+        },
+        {
+          "letter": "C",
+          "text": "타이어 림 세척."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "엔진 오일 수준 확인.",
+      "explanation": "출발 전 점검 중 엔진실을 검사할 때는 엔진 오일 수준, 라디에이터 냉각액 수준 및 호스 상태를 확인해야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11062",
+      "question": "급격한 가속:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량을 손상시킬 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량이 따뜻해지면 흔합니다."
+        },
+        {
+          "letter": "C",
+          "text": "연비를 개선하기 위해 권장됩니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "차량을 손상시킬 수 있습니다.",
+      "explanation": "가속할 때는 부드럽고 천천히 속도를 높여 차량이 갑자기 움직이지 않도록 하십시오. 거친 가속은 기계적 손상을 일으킬 수 있습니다."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11274",
+      "question": "도로 표면에 형성되는 얇은 얼음층을 다음과 같이 부릅니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "화이트 아이스"
+        },
+        {
+          "letter": "B",
+          "text": "블랙 아이스"
+        },
+        {
+          "letter": "C",
+          "text": "블루 아이스"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "블랙 아이스",
+      "explanation": "블랙 아이스는 도로 표면을 볼 수 있을 정도로 투명한 얇은 얼음층입니다. 블랙 아이스로 덮인 도로는 단순히 젖어 있는 것처럼 보일 수 있습니다. 기온이 영하이고 도로가 젖어 보일 때 매우 주의해야 합니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11049",
+      "question": "타이어를 점검할 때 다음 중 어느 것이 우려를 일으키지 않아야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "공기압이 너무 높음"
+        },
+        {
+          "letter": "B",
+          "text": "앞 타이어의 최소 4/32인치 트레드"
+        },
+        {
+          "letter": "C",
+          "text": "래디얼 및 바이어스 플라이 타이어가 함께 사용됨"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "앞 타이어의 최소 4/32인치 트레드",
+      "explanation": "출발 전 점검의 일부로 타이어를 점검할 때 타이어에 충분한 트레드가 있는지 확인하십시오. 앞 타이어의 모든 주요 홈에 최소 4/32인치의 트레드가 있어야 하고 다른 타이어에는 최소 2/32인치의 트레드 깊이가 있어야 합니다. 타이어는 크기가 일치하지 않아야 하며 래디얼 및 바이어스 플라이 타이어를 함께 사용해서는 안 됩니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8520",
+      "question": "가속을 시작할 때 뒤로 굴러가는 것이 위험한 이유는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "변속기가 손상될 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "트럭은 뒤로 가도록 만들어지지 않았습니다."
+        },
+        {
+          "letter": "C",
+          "text": "뒤의 차량과 충돌할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "뒤의 차량과 충돌할 수 있습니다.",
+      "explanation": "먼저 뒤로 굴러가지 않고 가속할 수 있는지 확인하십시오. 뒤로 굴러가면 트럭 뒤의 차량이나 다른 장애물과 충돌할 수 있습니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11365",
+      "question": "장애가 있는 차량에서 작업하는 사람들:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "도로를 인식하고 있을 가능성이 높습니다."
+        },
+        {
+          "letter": "B",
+          "text": "수리로 인해 산만해지고 도로에 주의를 기울이지 않을 수 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "교통 법규를 면제받습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "수리로 인해 산만해지고 도로에 주의를 기울이지 않을 수 있습니다.",
+      "explanation": "도로 옆에서 장애가 있는 차량에서 작업하는 사람들 근처에서 운전할 때 주의하십시오. 그들은 수리에 집중하고 있을 수 있으며 근처의 교통에 주의를 기울이지 않을 수 있습니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10284",
+      "question": "앞유리 와이퍼 블레이드를 점검할 때 다음이어야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "부드러운."
+        },
+        {
+          "letter": "B",
+          "text": "고정된."
+        },
+        {
+          "letter": "C",
+          "text": "부서지기 쉬운."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "고정된.",
+      "explanation": "차량을 검사할 때는 와이퍼 블레이드의 손상, 딱딱한 고무 및 적절한 고정을 확인해야 합니다. 블레이드가 더러우면 청소하십시오."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9957",
+      "question": "정지할 때 브레이크 페달은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "천천히 누릅니다."
+        },
+        {
+          "letter": "B",
+          "text": "빠르게 누릅니다."
+        },
+        {
+          "letter": "C",
+          "text": "반복적으로 누르되 계속 누르지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "천천히 누릅니다.",
+      "explanation": "정지할 때 브레이크 페달을 천천히 누르는 것이 좋습니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8544",
+      "question": "내리막 도로에서 이동할 때 차량은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "속도를 줄이세요."
+        },
+        {
+          "letter": "B",
+          "text": "평탄한 도로와 동일한 속도로 이동합니다."
+        },
+        {
+          "letter": "C",
+          "text": "속도를 높입니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "속도를 높입니다.",
+      "explanation": "중력으로 인해 내리막 도로를 이동할 때 차량의 속도가 증가합니다. 내리막에 도달하기 전에 속도를 조정하십시오."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11024",
+      "question": "차량이 하이드로플래닝되는 경우 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "조향 바퀴를 최대한 세게 돌립니다."
+        },
+        {
+          "letter": "B",
+          "text": "브레이크를 사용하지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "차량을 후진 기어에 넣습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "브레이크를 사용하지 않습니다.",
+      "explanation": "차량이 하이드로플래닝되기 시작하면 브레이크를 적용하지 마십시오. 대신 가속페달을 해제하고 클러치를 밟아 감속하십시오. 이는 트랙션을 회복하는 데 도움이 됩니다."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "9251",
+      "question": "강한 바람은 특히 다음 상황에서 만날 가능성이 높습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "터널을 빠져나올 때."
+        },
+        {
+          "letter": "B",
+          "text": "터널로 들어갈 때."
+        },
+        {
+          "letter": "C",
+          "text": "갓길에서 운전할 때."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "터널을 빠져나올 때.",
+      "explanation": "강한 바람은 차량을 적절한 차선에 유지하기 어렵게 만들 수 있습니다. 강한 바람은 차량이 터널을 빠져나올 때 특히 문제가 될 수 있습니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11143",
+      "question": "목적지에 도착한 후 운전자는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "휴식합니다."
+        },
+        {
+          "letter": "B",
+          "text": "승객들이 버스에서 내릴 때 짐을 챙기도록 상기시킵니다."
+        },
+        {
+          "letter": "C",
+          "text": "승객들이 버스에서 내리기 시작한 후에만 공지합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "승객들이 버스에서 내릴 때 짐을 챙기도록 상기시킵니다.",
+      "explanation": "최종 목적지 또는 중간 정차지에 도착했을 때 버스 기사는 승객들이 버스에서 내릴 때 짐을 챙기도록 상기시켜야 합니다. 버스가 완전히 멈추기 전에 기사가 이 공지를 하는 것이 좋습니다."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9284",
+      "question": "알코올은 신체에 영향을 미치기 시작합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "단 한 잔 마신 후."
+        },
+        {
+          "letter": "B",
+          "text": "여러 잔의 음료를 마신 후."
+        },
+        {
+          "letter": "C",
+          "text": "법적 한계에서."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "단 한 잔 마신 후.",
+      "explanation": "알코올 섭취는 근육 조정력, 반응 시간, 깊이 지각, 시력, 판단력 및 억제력을 손상시킵니다. 일부 사람들의 경우 알코올의 첫 잔부터 손상의 징후가 나타날 수 있습니다. 알코올을 어떤 양이든 섭취한 후 자동차를 운전하지 않는 것이 가장 안전합니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8541",
+      "question": "젖은 도로에서 운전할 때 속도를 다음으로 감속해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "약 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "약 1/3."
+        },
+        {
+          "letter": "C",
+          "text": "약 1/4."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "약 1/3.",
+      "explanation": "견인력이 감소된 노면에서 주행할 때 속도를 줄이십시오. 젖은 도로에서 운전할 때 약 1/3으로 속도를 줄이십시오."
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "state": "Washington",
+  "category": "car",
+  "quizName": "Regulatory Signs",
+  "slug": "regulatory-signs",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/speed-limit.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No debe conducir más rápido que la velocidad indicada."
+        },
+        {
+          "letter": "B",
+          "text": "Debe conducir a la velocidad indicada en todo momento."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad indicada es solo una sugerencia."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No debe conducir más rápido que la velocidad indicada.",
+      "explanation": "Un letrero de límite de velocidad le indica la velocidad máxima permitida en esa carretera. No debe conducir más rápido que la velocidad indicada, y debe conducir más lentamente en mal tiempo o tráfico pesado."
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/do-not-enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No entre en esta carretera o rampa."
+        },
+        {
+          "letter": "B",
+          "text": "Construcción de carretera adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Deténgase y espere una señal."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No entre en esta carretera o rampa.",
+      "explanation": "Este letrero rojo y blanco significa que no debe entrar en la carretera o rampa. Irá en la dirección incorrecta si pasa este letrero."
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/one-way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tráfico en esta carretera se mueve en una sola dirección."
+        },
+        {
+          "letter": "B",
+          "text": "Debe girar en la dirección indicada."
+        },
+        {
+          "letter": "C",
+          "text": "Solo un carril está abierto adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El tráfico en esta carretera se mueve en una sola dirección.",
+      "explanation": "Un letrero de un solo sentido significa que todo el tráfico en esa carretera se mueve en la dirección que señala la flecha. No conduzca contra el flujo del tráfico."
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/no-u-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se permiten giros en U aquí."
+        },
+        {
+          "letter": "B",
+          "text": "No se permite girar a la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera se curva adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No se permiten giros en U aquí.",
+      "explanation": "Este letrero significa que no puede hacer un giro en U en esta ubicación. Debe encontrar otra forma de invertir su dirección."
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/no-left-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se permiten giros a la izquierda aquí."
+        },
+        {
+          "letter": "B",
+          "text": "El carril izquierdo termina adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Manténgase a la izquierda en la bifurcación."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No se permiten giros a la izquierda aquí.",
+      "explanation": "Este letrero significa que no puede girar a la izquierda en esta intersección o ubicación. Debe continuar recto o girar a la derecha."
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/no-left-turn-or-uturn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se permiten giros a la izquierda ni giros en U aquí."
+        },
+        {
+          "letter": "B",
+          "text": "No se permite girar a la derecha aquí."
+        },
+        {
+          "letter": "C",
+          "text": "No se permiten giros en ninguna dirección."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No se permiten giros a la izquierda ni giros en U aquí.",
+      "explanation": "Este letrero le indica que los giros a la izquierda y los giros en U no se permiten en esta ubicación."
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/no-parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se permite estacionar aquí."
+        },
+        {
+          "letter": "B",
+          "text": "No hay paradas en ningún momento."
+        },
+        {
+          "letter": "C",
+          "text": "El estacionamiento es solo para permisos."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No se permite estacionar aquí.",
+      "explanation": "Este letrero significa que no puede estacionar su vehículo en esta área. Puede detenerse brevemente para recoger o dejar pasajeros, pero no puede dejar su vehículo estacionado."
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe girar a la izquierda desde este carril."
+        },
+        {
+          "letter": "B",
+          "text": "El carril izquierdo está cerrado."
+        },
+        {
+          "letter": "C",
+          "text": "No se permite girar a la izquierda."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Debe girar a la izquierda desde este carril.",
+      "explanation": "Este letrero significa que el carril en el que se encuentra es solo para giros a la izquierda. Debe girar a la izquierda cuando llegue a la intersección."
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/straight-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ir recto. No se permiten giros."
+        },
+        {
+          "letter": "B",
+          "text": "Tráfico de un solo sentido adelante."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera sube."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Debe ir recto. No se permiten giros.",
+      "explanation": "Este letrero significa que debe continuar recto a través de la intersección. No se permiten giros a la izquierda o a la derecha desde este carril."
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/straight-or-left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede ir recto o girar a la izquierda desde este carril."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera se divide en dos carriles."
+        },
+        {
+          "letter": "C",
+          "text": "Un carril de giro a la izquierda comienza adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Puede ir recto o girar a la izquierda desde este carril.",
+      "explanation": "Este letrero significa que puede ir recto o girar a la izquierda desde este carril. No se permiten giros a la derecha."
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/red-yield-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduzca la velocidad y dé el derecho de paso a otro tráfico."
+        },
+        {
+          "letter": "B",
+          "text": "Haga una parada completa."
+        },
+        {
+          "letter": "C",
+          "text": "Acelera para incorporarte al tráfico."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Reduzca la velocidad y dé el derecho de paso a otro tráfico.",
+      "explanation": "Un letrero de \"Ceda el paso\" significa que debe reducir la velocidad y dejar que otros vehículos o peatones pasen primero. Deténgase si es necesario para dejarlos pasar de manera segura."
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/pedestrians-prohibited.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los peatones no están permitidos en esta carretera."
+        },
+        {
+          "letter": "B",
+          "text": "Un paso de peatones está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Cuidado con los peatones."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Los peatones no están permitidos en esta carretera.",
+      "explanation": "Esta señal significa que los peatones no pueden caminar en esta carretera. Generalmente se coloca en carreteras o caminos donde caminar es peligroso."
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sigue la ruta de desvío en la dirección indicada."
+        },
+        {
+          "letter": "B",
+          "text": "Un área de descanso está en esta dirección."
+        },
+        {
+          "letter": "C",
+          "text": "Una ruta escénica está disponible."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sigue la ruta de desvío en la dirección indicada.",
+      "explanation": "Una señal de desvío te dirige a una ruta alternativa porque la carretera normal está cerrada. Sigue las flechas para volver a tu ruta original."
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/four-way-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo el tráfico en esta intersección debe detenerse."
+        },
+        {
+          "letter": "B",
+          "text": "Comienza una carretera de cuatro carriles."
+        },
+        {
+          "letter": "C",
+          "text": "Una rotonda está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Todo el tráfico en esta intersección debe detenerse.",
+      "explanation": "Una señal de 4 vías se coloca con una señal de alto. Significa que todos los vehículos de todas las direcciones deben detenerse antes de entrar en la intersección."
+    },
+    {
+      "questionNumber": 15,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/regulatory-signs/intersection-lane-control.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra qué giros o movimientos están permitidos desde cada carril."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra la velocidad para cada carril."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra qué carriles están cerrados adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Muestra qué giros o movimientos están permitidos desde cada carril.",
+      "explanation": "Las señales de control de carril de intersección se colocan antes de una intersección para mostrar a los conductores qué giros o movimientos están permitidos desde cada carril."
+    }
+  ]
+}

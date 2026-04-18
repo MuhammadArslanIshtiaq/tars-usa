@@ -1,0 +1,399 @@
+{
+  "state": "Georgia",
+  "category": "car",
+  "quizName": "Regulatory Signs Test",
+  "slug": "regulatory-signs",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/do-not-enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop and wait for signal to proceed"
+        },
+        {
+          "letter": "B",
+          "text": "Road closed for construction"
+        },
+        {
+          "letter": "C",
+          "text": "Do not enter this roadway"
+        },
+        {
+          "letter": "D",
+          "text": "Restricted access — authorized vehicles only"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Do not enter this roadway",
+      "explanation": "This sign means you must not enter the road or ramp where this sign is posted. It is usually displayed at the exit ramp of a freeway or on one-way streets to prevent wrong-way travel."
+    },
+    {
+      "questionNumber": 2,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/no-left-turn-or-uturn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No left turn and no U-turn allowed"
+        },
+        {
+          "letter": "B",
+          "text": "Left turn only at the next intersection"
+        },
+        {
+          "letter": "C",
+          "text": "No right turn or U-turn allowed"
+        },
+        {
+          "letter": "D",
+          "text": "Left turn signal coming ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No left turn and no U-turn allowed",
+      "explanation": "This sign prohibits both left turns and U-turns at this location. Drivers must continue straight or turn right."
+    },
+    {
+      "questionNumber": 3,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/no-u-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No left turn at this intersection"
+        },
+        {
+          "letter": "B",
+          "text": "No U-turn allowed"
+        },
+        {
+          "letter": "C",
+          "text": "No turning allowed on red light"
+        },
+        {
+          "letter": "D",
+          "text": "Dead end — no turnaround area"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "No U-turn allowed",
+      "explanation": "This sign prohibits making a U-turn at this location. Drivers must find an alternative route to reverse direction."
+    },
+    {
+      "questionNumber": 4,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/no-left-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left lane is closed"
+        },
+        {
+          "letter": "B",
+          "text": "Left turn yield on green"
+        },
+        {
+          "letter": "C",
+          "text": "No left turn allowed"
+        },
+        {
+          "letter": "D",
+          "text": "No through traffic to the left"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "No left turn allowed",
+      "explanation": "This sign prohibits left turns at this intersection or location. Drivers must go straight or turn right instead."
+    },
+    {
+      "questionNumber": 5,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/no-parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No parking allowed in this area"
+        },
+        {
+          "letter": "B",
+          "text": "No standing or stopping at any time"
+        },
+        {
+          "letter": "C",
+          "text": "Parking for permit holders only"
+        },
+        {
+          "letter": "D",
+          "text": "Tow-away zone — violators will be towed"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No parking allowed in this area",
+      "explanation": "This sign indicates that parking is prohibited in the posted area. Vehicles may not park here at any time, though brief stops to load or unload passengers may be allowed."
+    },
+    {
+      "questionNumber": 6,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/pedestrians-prohibited.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedestrian crossing ahead"
+        },
+        {
+          "letter": "B",
+          "text": "School zone — watch for children"
+        },
+        {
+          "letter": "C",
+          "text": "Pedestrians must use the sidewalk"
+        },
+        {
+          "letter": "D",
+          "text": "Pedestrians are prohibited on this road"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Pedestrians are prohibited on this road",
+      "explanation": "This sign means pedestrians are not allowed on this roadway, typically on freeways or expressways where walking would be extremely dangerous."
+    },
+    {
+      "questionNumber": 7,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/one-way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One-way street — traffic moves only in the direction of the arrow"
+        },
+        {
+          "letter": "B",
+          "text": "Merge into a single lane ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Right turn only from this lane"
+        },
+        {
+          "letter": "D",
+          "text": "Highway on-ramp ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "One-way street — traffic moves only in the direction of the arrow",
+      "explanation": "This sign indicates a one-way street where all traffic must travel in the direction shown by the arrow. Do not enter against the flow of traffic."
+    },
+    {
+      "questionNumber": 8,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/speed-limit.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maximum speed limit — do not exceed the posted speed"
+        },
+        {
+          "letter": "B",
+          "text": "Minimum speed required on this road"
+        },
+        {
+          "letter": "C",
+          "text": "Recommended speed for upcoming curve"
+        },
+        {
+          "letter": "D",
+          "text": "Speed zone ends ahead"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Maximum speed limit — do not exceed the posted speed",
+      "explanation": "This sign shows the maximum legal speed you may travel on the road under ideal conditions. Driving faster than the posted limit is illegal and unsafe."
+    },
+    {
+      "questionNumber": 9,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/straight-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Straight ahead only — no turns allowed"
+        },
+        {
+          "letter": "B",
+          "text": "One-way road continues ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Through traffic has the right of way"
+        },
+        {
+          "letter": "D",
+          "text": "Road narrows ahead — stay in lane"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Straight ahead only — no turns allowed",
+      "explanation": "This sign means you must continue straight ahead. Left turns and right turns are not permitted at this intersection from this lane."
+    },
+    {
+      "questionNumber": 10,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Road construction ahead — slow down"
+        },
+        {
+          "letter": "B",
+          "text": "Alternate scenic route available"
+        },
+        {
+          "letter": "C",
+          "text": "Detour — follow the alternate route"
+        },
+        {
+          "letter": "D",
+          "text": "Road temporarily closed — turn around"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Detour — follow the alternate route",
+      "explanation": "This regulatory sign indicates that the normal route is closed and drivers must follow the designated detour. Follow the detour signs until you return to the original route."
+    },
+    {
+      "questionNumber": 11,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left lane ends ahead — merge right"
+        },
+        {
+          "letter": "B",
+          "text": "Left turn permitted on green arrow only"
+        },
+        {
+          "letter": "C",
+          "text": "U-turn permitted in this lane"
+        },
+        {
+          "letter": "D",
+          "text": "Left turn only — you must turn left from this lane"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Left turn only — you must turn left from this lane",
+      "explanation": "This sign indicates that the lane is designated for left turns only. Vehicles in this lane must make a left turn and cannot go straight or turn right."
+    },
+    {
+      "questionNumber": 12,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/red-yield-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop completely before proceeding"
+        },
+        {
+          "letter": "B",
+          "text": "Merge with traffic without stopping"
+        },
+        {
+          "letter": "C",
+          "text": "Yield — slow down and give the right of way"
+        },
+        {
+          "letter": "D",
+          "text": "Caution — intersection ahead"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Yield — slow down and give the right of way",
+      "explanation": "The yield sign means you must slow down and be ready to stop to let any vehicle, bicyclist, or pedestrian pass before you proceed. You must stop if necessary."
+    },
+    {
+      "questionNumber": 13,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/straight-or-left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left turn only from this lane"
+        },
+        {
+          "letter": "B",
+          "text": "Go straight or turn left only — no right turn"
+        },
+        {
+          "letter": "C",
+          "text": "Straight ahead only — no turns"
+        },
+        {
+          "letter": "D",
+          "text": "Right lane must turn right ahead"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Go straight or turn left only — no right turn",
+      "explanation": "This sign indicates that from this lane you may only go straight or turn left. Right turns are prohibited."
+    },
+    {
+      "questionNumber": 14,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/intersection-lane-control.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Highway lane merge ahead"
+        },
+        {
+          "letter": "B",
+          "text": "Lanes shift to the right"
+        },
+        {
+          "letter": "C",
+          "text": "Lane control — use designated lanes for turning or going straight"
+        },
+        {
+          "letter": "D",
+          "text": "Express lane entrance ahead"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Lane control — use designated lanes for turning or going straight",
+      "explanation": "This sign shows which lanes are designated for turning and which are for going straight. You must follow the direction indicated for the lane you are in."
+    },
+    {
+      "questionNumber": 15,
+      "question": "What does this sign mean?",
+      "image": "/images/regulatory-signs/four-way-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crossroad ahead — be cautious"
+        },
+        {
+          "letter": "B",
+          "text": "Four-way intersection ahead — all directions must stop"
+        },
+        {
+          "letter": "C",
+          "text": "Four-lane highway begins ahead"
+        },
+        {
+          "letter": "D",
+          "text": "Intersection with traffic signal ahead"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Four-way intersection ahead — all directions must stop",
+      "explanation": "This sign indicates a four-way stop where traffic from all four directions must come to a complete stop. The first vehicle to stop has the right of way."
+    }
+  ]
+}

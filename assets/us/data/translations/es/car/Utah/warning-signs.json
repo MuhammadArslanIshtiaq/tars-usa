@@ -1,0 +1,955 @@
+{
+  "state": "Utah",
+  "category": "car",
+  "quizName": "Warning Signs",
+  "slug": "warning-signs",
+  "totalQuestions": 43,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/stop-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una señal de alto está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Un semáforo está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Un paso peatonal está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una señal de alto está adelante.",
+      "explanation": "Este letrero le advierte que hay una señal de alto adelante. Comience a reducir la velocidad para estar listo para detenerse completamente."
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/yield-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una señal de ceda el paso está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Un punto de convergencia está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Una señal de alto está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una señal de ceda el paso está adelante.",
+      "explanation": "Este letrero le advierte que viene una señal de ceda el paso. Esté listo para reducir la velocidad y ceder el derecho de paso a otro tráfico."
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un semáforo está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Hay un cruce de ferrocarril adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Una zona escolar está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un semáforo está adelante.",
+      "explanation": "Este letrero le advierte que hay un semáforo adelante. Esté listo para detenerse si la luz es roja o amarilla."
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/emergency-signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una señal de vehículo de emergencia está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Una estación de bomberos está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Una zona hospitalaria está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una señal de vehículo de emergencia está adelante.",
+      "explanation": "Este letrero le advierte que un semáforo controlado por vehículos de emergencia está adelante. El semáforo puede cambiar para permitir que los vehículos de emergencia pasen."
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/two-way-traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tráfico de dos direcciones está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera se divide en dos carreteras."
+        },
+        {
+          "letter": "C",
+          "text": "Dos carriles se cierran en uno."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tráfico de dos direcciones está adelante.",
+      "explanation": "Este letrero le advierte que está a punto de entrar en una carretera con tráfico proveniente de la dirección opuesta. Manténgase en su carril."
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/no-passing-zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está entrando en una zona de prohibición de rebasar."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera se estrecha adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Una zona escolar está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Está entrando en una zona de prohibición de rebasar.",
+      "explanation": "Este letrero con forma de banderín marca el comienzo de una zona de prohibición de rebasar. No rebase otros vehículos en esta área."
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/right-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La carretera se curva hacia la derecha adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Gire a la derecha en la próxima intersección."
+        },
+        {
+          "letter": "C",
+          "text": "Un carril derecho está terminando."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La carretera se curva hacia la derecha adelante.",
+      "explanation": "Este letrero le advierte que la carretera adelante se curva hacia la derecha. Reduzca la velocidad antes de entrar en la curva."
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/sharp-curve-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una curva cerrada hacia la derecha está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Una curva suave está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera gira abruptamente hacia la izquierda."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una curva cerrada hacia la derecha está adelante.",
+      "explanation": "Este letrero le advierte de una curva cerrada hacia la derecha. Reduzca la velocidad bien antes de la curva para mantener el control de su vehículo."
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/sharp-curve-to-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay una curva cerrada hacia la derecha adelante."
+        },
+        {
+          "letter": "B",
+          "text": "El carril derecho termina."
+        },
+        {
+          "letter": "C",
+          "text": "Se requiere un giro hacia la derecha."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Hay una curva cerrada hacia la derecha adelante.",
+      "explanation": "Este letrero le advierte de una curva cerrada hacia la derecha. Reduzca su velocidad antes de entrar en la curva."
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/very-sharp-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una curva o giro muy cerrado está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera termina adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Se requiere un giro en U."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una curva o giro muy cerrado está adelante.",
+      "explanation": "Este letrero le advierte de una curva extremadamente cerrada adelante. Reduzca significativamente la velocidad antes de la curva para evitar perder el control."
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/hairpin-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una curva tipo horquilla está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Un área de vuelta en U está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Un callejón sin salida está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una curva tipo horquilla está adelante.",
+      "explanation": "Este letrero le advierte de una curva muy cerrada tipo horquilla adelante. Reduzca la velocidad dramáticamente antes de entrar en la curva."
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/left-turn-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El camino gira hacia la izquierda adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Un carril de giro a la izquierda comienza."
+        },
+        {
+          "letter": "C",
+          "text": "No hay giro a la izquierda adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El camino gira hacia la izquierda adelante.",
+      "explanation": "Esta señal advierte que el camino adelante gira hacia la izquierda. Reduce tu velocidad antes de la curva."
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/left-reverse-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una serie de curvas comienza con un giro a la izquierda adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Una vuelta en U está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Una rotonda está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una serie de curvas comienza con un giro a la izquierda adelante.",
+      "explanation": "Esta señal advierte de una curva inversa adelante, comenzando con una curva hacia la izquierda. Reduce la velocidad y prepárate para los cambios de dirección."
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/winding-road-left-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un camino sinuoso está adelante, comenzando con una curva hacia la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "Una pendiente pronunciada está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "El camino es resbaladizo cuando está mojado."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un camino sinuoso está adelante, comenzando con una curva hacia la izquierda.",
+      "explanation": "Esta señal advierte de un camino sinuoso adelante con varias curvas. La primera curva va hacia la izquierda. Reduce la velocidad y conduce con cuidado."
+    },
+    {
+      "questionNumber": 15,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/advisory-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La velocidad segura recomendada para el camino adelante."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad mínima permitida."
+        },
+        {
+          "letter": "C",
+          "text": "El límite de velocidad máximo."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La velocidad segura recomendada para el camino adelante.",
+      "explanation": "Una señal de velocidad recomendada muestra la velocidad segura recomendada para una curva u otra condición del camino. No es un límite de velocidad sino una sugerencia para la seguridad."
+    },
+    {
+      "questionNumber": 16,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/advisory-turn-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La velocidad recomendada para el giro próximo."
+        },
+        {
+          "letter": "B",
+          "text": "El límite de velocidad cambia adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Hay un bache adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La velocidad recomendada para el giro próximo.",
+      "explanation": "Esta señal muestra la velocidad segura sugerida para un giro próximo. Reduce tu velocidad a este nivel antes de entrar en la curva."
+    },
+    {
+      "questionNumber": 17,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/advisory-speed-on-exit-ramp.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La velocidad recomendada para la rampa de salida adelante."
+        },
+        {
+          "letter": "B",
+          "text": "El límite de velocidad en la autopista."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad mínima en la rampa."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La velocidad recomendada para la rampa de salida adelante.",
+      "explanation": "Esta señal muestra la velocidad recomendada para una rampa de salida. Reduce tu velocidad a esta velocidad antes de entrar en la rampa."
+    },
+    {
+      "questionNumber": 18,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/truck-rollover-warning-sharp-curve.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los camiones pueden volcarse en la curva cerrada adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Los camiones deben salir aquí."
+        },
+        {
+          "letter": "C",
+          "text": "Una estación de pesaje de camiones está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Los camiones pueden volcarse en la curva cerrada adelante.",
+      "explanation": "Esta señal advierte a los conductores de camiones sobre una curva cerrada donde pueden ocurrir volcamientos. Todos los conductores deben reducir la velocidad antes de esta curva."
+    },
+    {
+      "questionNumber": 19,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/cross-road-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un camino de cruce está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Hay un cruce de ferrocarril adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Un hospital está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un camino de cruce está adelante.",
+      "explanation": "Esta señal te advierte que otro camino cruza el camino en el que estás. Observa el tráfico de ambos lados."
+    },
+    {
+      "questionNumber": 20,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/side-road-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un camino lateral entra desde la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "El carril izquierdo termina."
+        },
+        {
+          "letter": "C",
+          "text": "Un giro a la izquierda está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un camino lateral entra desde la izquierda.",
+      "explanation": "Esta señal advierte que un camino lateral se une a tu camino desde la izquierda. Observa el tráfico que entra desde esa dirección."
+    },
+    {
+      "questionNumber": 21,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/side-road-at-angle-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un camino lateral entra en ángulo adelante."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera se curva adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Un punto de convergencia está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un camino lateral entra en ángulo adelante.",
+      "explanation": "Esta señal advierte que un camino entra desde el lado en ángulo. Observa los vehículos que entran desde ese camino."
+    },
+    {
+      "questionNumber": 22,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/side-road-at-angle-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un camino lateral entra en ángulo desde la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "Se requiere un giro hacia la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Un área de descanso está a la derecha."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Un camino lateral entra en ángulo desde la derecha.",
+      "explanation": "Esta señal advierte de un camino lateral que entra desde la derecha en ángulo. Observa los vehículos que vienen desde esa dirección."
+    },
+    {
+      "questionNumber": 23,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/t-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una intersección en T está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Un callejón sin salida está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Una caseta de peaje está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una intersección en T está adelante.",
+      "explanation": "Esta señal advierte que el camino en el que estás termina adelante en una intersección en T. Debes girar hacia la izquierda o hacia la derecha."
+    },
+    {
+      "questionNumber": 24,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/t-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Te estás acercando a una intersección en T."
+        },
+        {
+          "letter": "B",
+          "text": "Un puente está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Un túnel está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Te estás acercando a una intersección en T.",
+      "explanation": "Esta señal advierte que tu camino termina adelante en una intersección en T. Prepárate para girar hacia la izquierda o hacia la derecha."
+    },
+    {
+      "questionNumber": 25,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/y-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una intersección en Y está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Un punto de convergencia está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Una bifurcación en el camino está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una intersección en Y está adelante.",
+      "explanation": "Esta señal advierte de una intersección en Y adelante donde el camino se divide en dos direcciones. Elige tu carril temprano."
+    },
+    {
+      "questionNumber": 26,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/intersection-within-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay una intersección dentro de una curva adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Una curva cerrada está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "El camino se estrecha en una curva."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Hay una intersección dentro de una curva adelante.",
+      "explanation": "Esta señal advierte de una intersección ubicada dentro de una curva. Esto puede ser extra peligroso porque la visibilidad puede ser limitada."
+    },
+    {
+      "questionNumber": 27,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/circular-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una rotonda o círculo de tráfico está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Un callejón sin salida está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Un área de vuelta en U está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una rotonda o círculo de tráfico está adelante.",
+      "explanation": "Esta señal advierte que una rotonda o círculo de tráfico está adelante. Reduzca la velocidad y ceda el paso al tráfico que ya está en el círculo."
+    },
+    {
+      "questionNumber": 28,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/merging-traffic-from-right-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tráfico se incorpora desde la derecha adelante."
+        },
+        {
+          "letter": "B",
+          "text": "El carril derecho termina."
+        },
+        {
+          "letter": "C",
+          "text": "Un carril de giro a la derecha comienza adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El tráfico se incorpora desde la derecha adelante.",
+      "explanation": "Esta señal advierte que vehículos de otro camino se incorporarán a su carril desde la derecha. Esté preparado para ajustar su velocidad o cambiar de carril."
+    },
+    {
+      "questionNumber": 29,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/entering-roadway-merge-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe incorporarse a la derecha al entrar a la carretera."
+        },
+        {
+          "letter": "B",
+          "text": "El carril derecho está cerrado."
+        },
+        {
+          "letter": "C",
+          "text": "Una curva a la derecha está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Debe incorporarse a la derecha al entrar a la carretera.",
+      "explanation": "Esta señal le dice que se incorpore a la derecha al entrar a la carretera. Ajuste su velocidad para combinarse de manera segura con el tráfico."
+    },
+    {
+      "questionNumber": 30,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/entering-roadway-added-lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se agrega un nuevo carril para el tráfico que entra a la carretera."
+        },
+        {
+          "letter": "B",
+          "text": "El camino se está ampliando."
+        },
+        {
+          "letter": "C",
+          "text": "Un carril de adelantamiento comienza aquí."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Se agrega un nuevo carril para el tráfico que entra a la carretera.",
+      "explanation": "Esta señal significa que se está agregando un nuevo carril a la carretera para el tráfico que entra. No necesita incorporarse inmediatamente."
+    },
+    {
+      "questionNumber": 31,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/added-lane-from-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se agrega un nuevo carril desde la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "El carril izquierdo está terminando."
+        },
+        {
+          "letter": "C",
+          "text": "El tráfico se incorpora desde la izquierda."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Se agrega un nuevo carril desde la izquierda.",
+      "explanation": "Esta señal le dice que se está agregando un nuevo carril a la carretera desde el lado izquierdo. El tráfico desde la izquierda tendrá su propio carril."
+    },
+    {
+      "questionNumber": 32,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/lane-reduction-right-lane-ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El carril derecho termina adelante. Incorpórese a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "Un nuevo carril derecho está comenzando."
+        },
+        {
+          "letter": "C",
+          "text": "El camino se está ampliando."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El carril derecho termina adelante. Incorpórese a la izquierda.",
+      "explanation": "Esta señal advierte que el carril derecho terminará adelante. Los conductores en el carril derecho deben incorporarse a la izquierda de manera segura."
+    },
+    {
+      "questionNumber": 33,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/road-narrows.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El camino adelante se vuelve más estrecho."
+        },
+        {
+          "letter": "B",
+          "text": "Un puente está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Un camino de un carril está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El camino adelante se vuelve más estrecho.",
+      "explanation": "Esta señal advierte que el camino adelante se vuelve más estrecho. Reduzca la velocidad y esté listo para un espacio reducido."
+    },
+    {
+      "questionNumber": 34,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/divided-highway-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una carretera dividida comienza adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Un punto de convergencia está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera se divide en dos carreteras."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una carretera dividida comienza adelante.",
+      "explanation": "Esta señal advierte que el camino adelante se convierte en una carretera dividida con una mediana. Manténgase en el lado derecho del divisor."
+    },
+    {
+      "questionNumber": 35,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una pendiente pronunciada está adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Hay un bache adelante."
+        },
+        {
+          "letter": "C",
+          "text": "El camino es irregular."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una pendiente pronunciada está adelante.",
+      "explanation": "Esta señal advierte de una colina empinada adelante. Puede necesitar cambiar a una marcha más baja y usar sus frenos cuidadosamente al bajar."
+    },
+    {
+      "questionNumber": 36,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/slippery-when-wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El camino puede ser resbaladizo cuando está mojado."
+        },
+        {
+          "letter": "B",
+          "text": "El camino tiene muchas curvas."
+        },
+        {
+          "letter": "C",
+          "text": "Hielo en el camino adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El camino puede ser resbaladizo cuando está mojado.",
+      "explanation": "Esta señal advierte que el camino se vuelve resbaladizo cuando está mojado. Reduzca la velocidad y evite paradas o giros repentinos en condiciones mojadas."
+    },
+    {
+      "questionNumber": 37,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/deer-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los ciervos pueden cruzar el camino en esta área."
+        },
+        {
+          "letter": "B",
+          "text": "Un parque de vida silvestre está cerca."
+        },
+        {
+          "letter": "C",
+          "text": "La caza está permitida cerca."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Los ciervos pueden cruzar el camino en esta área.",
+      "explanation": "Esta señal advierte que los ciervos a menudo cruzan el camino en esta área. Esté atento a los ciervos, especialmente al amanecer y al atardecer."
+    },
+    {
+      "questionNumber": 38,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/cattle-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ganado puede cruzar el camino en esta área."
+        },
+        {
+          "letter": "B",
+          "text": "Una granja está cerca."
+        },
+        {
+          "letter": "C",
+          "text": "Un área de rodeo está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "El ganado puede cruzar el camino en esta área.",
+      "explanation": "Esta señal advierte que el ganado u otro ganado puede cruzar el camino. Reduzca la velocidad y esté listo para detenerse para los animales."
+    },
+    {
+      "questionNumber": 39,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/farm-machinery-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La maquinaria agrícola puede cruzar o usar el camino."
+        },
+        {
+          "letter": "B",
+          "text": "Un mercado agrícola está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Los camiones pesados usan este camino."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "La maquinaria agrícola puede cruzar o usar el camino.",
+      "explanation": "Esta señal advierte que la maquinaria agrícola lenta puede estar en o cruzando el camino. Sea paciente y adelante solo cuando sea seguro."
+    },
+    {
+      "questionNumber": 40,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/truck-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los camiones pueden estar entrando o cruzando el camino."
+        },
+        {
+          "letter": "B",
+          "text": "Una parada de camiones está adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Los camiones deben usar el carril derecho."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Los camiones pueden estar entrando o cruzando el camino.",
+      "explanation": "Esta señal advierte que los camiones frecuentemente entran o cruzan el camino en esta ubicación. Esté atento a los vehículos grandes."
+    },
+    {
+      "questionNumber": 41,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/snow-mobile-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las motonieve pueden cruzar la carretera en esta área."
+        },
+        {
+          "letter": "B",
+          "text": "Una estación de esquí está cerca."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera puede estar cubierta de nieve."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Las motonieve pueden cruzar la carretera en esta área.",
+      "explanation": "Esta señal advierte que las motonieve cruzan frecuentemente la carretera en esta área. Esté alerta por motonieve, especialmente en invierno."
+    },
+    {
+      "questionNumber": 42,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/fire-station.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una estación de bomberos está cerca de la carretera. Observe los camiones de bomberos."
+        },
+        {
+          "letter": "B",
+          "text": "Una boca de incendios está cerca."
+        },
+        {
+          "letter": "C",
+          "text": "Un área de fogata está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Una estación de bomberos está cerca de la carretera. Observe los camiones de bomberos.",
+      "explanation": "Esta señal advierte que una estación de bomberos está cerca de la carretera. Observe los camiones de bomberos que pueden entrar en la carretera repentinamente. Siempre ceda el paso a los vehículos de emergencia."
+    },
+    {
+      "questionNumber": 43,
+      "question": "¿Qué significa este letrero?",
+      "image": "/images/warning-signs/traffic-laws-enforced-by-cam.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las leyes de tránsito son reforzadas por cámara en esta área."
+        },
+        {
+          "letter": "B",
+          "text": "Hay un bache adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Una caseta de peaje con cámaras está adelante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Las leyes de tránsito son reforzadas por cámara en esta área.",
+      "explanation": "Esta señal le indica que se utilizan cámaras para hacer cumplir las leyes de tránsito en esta área. Siga todas las reglas de tránsito, incluyendo los límites de velocidad y los semáforos en rojo."
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "state": "North Dakota",
+  "category": "cdl",
+  "testName": "Air Brakes Test #2 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-2",
+  "url": "/images/north-dakota/cdl/air-brakes-2.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11015",
+      "question": "在非常潮湿的天气和温度低于冰点时使用停车制动器会发生什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "制动会发出吱吱声。"
+        },
+        {
+          "letter": "B",
+          "text": "制动可能会结冰，使车辆无法移动。"
+        },
+        {
+          "letter": "C",
+          "text": "制动可能会突然自行释放。"
+        },
+        {
+          "letter": "D",
+          "text": "制动器可能变得太光滑而无法使用。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "制动可能会结冰，使车辆无法移动。",
+      "explanation": "在非常潮湿的天气且温度低于冰点时不应使用停车制动器。制动器可能会冻结在原位，使得无法移动车辆。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "8862",
+      "question": "气制动系统中使用多少个空气储存罐？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "两个罐"
+        },
+        {
+          "letter": "B",
+          "text": "四个罐"
+        },
+        {
+          "letter": "C",
+          "text": "六个罐"
+        },
+        {
+          "letter": "D",
+          "text": "数量各不相同。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "数量各不相同。",
+      "explanation": "空气储存罐用于储存压缩空气。气制动系统中空气罐的数量和大小因车而异。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "10724",
+      "question": "充气罐排水管：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "允许雨水进入气罐。"
+        },
+        {
+          "letter": "B",
+          "text": "用于从气罐中排出水和油。"
+        },
+        {
+          "letter": "C",
+          "text": "永远不应打开。"
+        },
+        {
+          "letter": "D",
+          "text": "在驾驶时必须保持打开。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "用于从气罐中排出水和油。",
+      "explanation": "在气制动系统中，气罐配有排水口，允许水和压缩机油从系统中排出。如果水和压缩机油积聚，会损坏气制动系统。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11690",
+      "question": "在双空气制动系统中，一个系统中的泄漏:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "总是意味着两个系统中都有泄漏。"
+        },
+        {
+          "letter": "B",
+          "text": "可能不会影响另一个系统。"
+        },
+        {
+          "letter": "C",
+          "text": "不是需要担心的问题。"
+        },
+        {
+          "letter": "D",
+          "text": "也会影响其他系统。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "可能不会影响另一个系统。",
+      "explanation": "双气制动系统由两个独立的气制动系统组成。如果一个系统中发生气体泄漏，可能不会影响另一个系统。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8884",
+      "question": "制动衰退是由以下原因引起的:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "制动器使用频率不足。"
+        },
+        {
+          "letter": "B",
+          "text": "制动器过热。"
+        },
+        {
+          "letter": "C",
+          "text": "制动器太冷。"
+        },
+        {
+          "letter": "D",
+          "text": "制动器潮湿。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "制动器过热。",
+      "explanation": "过度使用制动器会导致其过热，使其效能降低。这被称为\"衰退\"。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11666",
+      "question": "当您按下装有S凸轮制动器的车辆中的制动踏板时，空气压力会推出杆并移动：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "松弛调节器。"
+        },
+        {
+          "letter": "B",
+          "text": "车轴。"
+        },
+        {
+          "letter": "C",
+          "text": "制动鼓。"
+        },
+        {
+          "letter": "D",
+          "text": "酒精蒸发器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "松弛调节器。",
+      "explanation": "按下装有S凸轮制动器的车辆中的制动踏板时，空气会进入制动室。增加的空气压力将推出杆并移动松弛调节器，扭转制动凸轮轴。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11462",
+      "question": "____ 告诉驾驶员空气罐中有多少压力。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "应用压力表"
+        },
+        {
+          "letter": "B",
+          "text": "空气压缩机调节器"
+        },
+        {
+          "letter": "C",
+          "text": "供应压力表"
+        },
+        {
+          "letter": "D",
+          "text": "鼓式制动器"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "供应压力表",
+      "explanation": "配备空气制动系统的车辆还必须配备供气压力表。该压力表告诉驾驶员每个车辆气罐中的空气压力有多大。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11289",
+      "question": "充气罐排水管：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "允许雨水进入罐中。"
+        },
+        {
+          "letter": "B",
+          "text": "用于从罐中排出水和油。"
+        },
+        {
+          "letter": "C",
+          "text": "永远不应打开。"
+        },
+        {
+          "letter": "D",
+          "text": "在驾驶时必须保持打开。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "用于从罐中排出水和油。",
+      "explanation": "在气制动系统中,空气储存罐配备有排水装置,以允许水和压缩机油被排出。如果水和油在系统中积累,会损坏制动器。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11130",
+      "question": "停车制动器如何释放？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "通过轻点制动踏板三次"
+        },
+        {
+          "letter": "B",
+          "text": "通过向内推动制动控制旋钮"
+        },
+        {
+          "letter": "C",
+          "text": "通过踩加速踏板"
+        },
+        {
+          "letter": "D",
+          "text": "通过轻点加速踏板两次"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "通过向内推动制动控制旋钮",
+      "explanation": "在配备气压制动的较新车型中，停车制动器由钻石形黄色旋钮控制。向外拉动旋钮激活停车制动器，向内推动以释放它们。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "8879",
+      "question": "大多数重型车辆使用____空气制动系统。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "单"
+        },
+        {
+          "letter": "B",
+          "text": "双"
+        },
+        {
+          "letter": "C",
+          "text": "三"
+        },
+        {
+          "letter": "D",
+          "text": "四"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "双",
+      "explanation": "大多数重型车辆配备双空气制动系统。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "9379",
+      "question": "如果制动垫与制动鼓摩擦产生过多热量:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "制动会卡住。"
+        },
+        {
+          "letter": "B",
+          "text": "制动会变得特别敏感。"
+        },
+        {
+          "letter": "C",
+          "text": "制动可能会停止工作。"
+        },
+        {
+          "letter": "D",
+          "text": "空气压缩机会启动以冷却制动。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "制动可能会停止工作。",
+      "explanation": "制动会因使用而升温。如果过度使用和温度过高，膨胀和化学变化会使其效能降低，最终导致完全停止工作。这被称为\"制动衰退\"。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8877",
+      "question": "ABS故障灯是什么颜色？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "橙色"
+        },
+        {
+          "letter": "B",
+          "text": "黄色"
+        },
+        {
+          "letter": "C",
+          "text": "绿色"
+        },
+        {
+          "letter": "D",
+          "text": "蓝色"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "黄色",
+      "explanation": "配备防抱死制动系统(ABS)的车辆有黄色故障灯。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "10360",
+      "question": "气制动是:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停止大型车辆的有效工具。"
+        },
+        {
+          "letter": "B",
+          "text": "在大型车辆上被禁止。"
+        },
+        {
+          "letter": "C",
+          "text": "仅在恶劣天气下有效。"
+        },
+        {
+          "letter": "D",
+          "text": "改善燃油效率的工具。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "停止大型车辆的有效工具。",
+      "explanation": "只要制动器得到妥善维护,使用气制动是停止大型重型车辆的安全有效方法。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10363",
+      "question": "防抱死制动系统(ABS)：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不能与空气制动器一起使用。"
+        },
+        {
+          "letter": "B",
+          "text": "应仅在干燥路面上使用。"
+        },
+        {
+          "letter": "C",
+          "text": "可以帮助在制动时保持控制。"
+        },
+        {
+          "letter": "D",
+          "text": "仅当所有车轴都装有ABS时才应使用。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "可以帮助在制动时保持控制。",
+      "explanation": "防抱死制动系统 (ABS) 与空气制动系统兼容。ABS 有助于在光滑表面上硬制动时保持车辆控制并防止车轮锁定。即使仅在一个车轴上装有ABS，它仍然可以提供好处。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10234",
+      "question": "使用空气制动系统的车辆驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "按下制动踏板。"
+        },
+        {
+          "letter": "B",
+          "text": "向自己提起制动踏板。"
+        },
+        {
+          "letter": "C",
+          "text": "推入制动旋钮。"
+        },
+        {
+          "letter": "D",
+          "text": "拉出制动旋钮。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "按下制动踏板。",
+      "explanation": "要在配备空气制动系统的车辆中进行正常停止，请向下推动制动踏板并控制压力，使车辆平稳、安全地停止。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11314",
+      "question": "配备防抱死制动系统(ABS)的车辆使用____灯来警告系统工作不正常。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "绿色"
+        },
+        {
+          "letter": "B",
+          "text": "黄色"
+        },
+        {
+          "letter": "C",
+          "text": "橙色"
+        },
+        {
+          "letter": "D",
+          "text": "白色"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "黄色",
+      "explanation": "防抱死制动系统（ABS）故障指示灯通常为黄色。即使ABS工作不正常，驾驶员仍可以使用车辆的常规制动功能。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8867",
+      "question": "最常见的基础制动类型是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S凸轮鼓式制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "C凸轮鼓式制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "G凸轮盘式制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "P凸轮盘式制动器。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "S凸轮鼓式制动器。",
+      "explanation": "最常见的基础制动类型是S凸轮鼓式制动器。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "10153",
+      "question": "如果车辆有空气制动器，应在每次驾驶前检查空气压缩机传动带。皮带应处于什么状况？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "松。"
+        },
+        {
+          "letter": "B",
+          "text": "紧。"
+        },
+        {
+          "letter": "C",
+          "text": "裂开。"
+        },
+        {
+          "letter": "D",
+          "text": "凸起。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "紧。",
+      "explanation": "检查具有皮带驱动空气压缩机的空气制动系统的车辆时，应检查皮带的状况和松紧度。它应该处于良好状况。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "8876",
+      "question": "1997年3月1日或之后制造的配备气制动的卡车牵引车配备有：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "额外的制动装置。"
+        },
+        {
+          "letter": "B",
+          "text": "语音激活制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "巡航控制。"
+        },
+        {
+          "letter": "D",
+          "text": "防抱死制动系统(ABS)。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "防抱死制动系统(ABS)。",
+      "explanation": "1997年3月1日或之后制造的配备气制动的卡车牵引车必须配备防抱死制动系统(ABS)。任何其他类型的配备气制动且在1998年3月1日或之后制造的车辆也必须配备ABS。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11128",
+      "question": "装有双气制动系统的车辆：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "即使车辆未运行,制动系统中也要有气压。"
+        },
+        {
+          "letter": "B",
+          "text": "车辆关闭时在制动系统中维持一定的气压。"
+        },
+        {
+          "letter": "C",
+          "text": "必须运行以建立气压,以使制动器能够正常工作。"
+        },
+        {
+          "letter": "D",
+          "text": "在四小时以内的关闭期间维持气压。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "必须运行以建立气压,以使制动器能够正常工作。",
+      "explanation": "在驾驶双路空气制动系统的车辆之前，应留出时间让空气压缩机在主系统和副系统中都至少建立100 psi的压力。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "10233",
+      "question": "在双气制动系统的车辆中，如果一个系统压力不足会发生什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "另一个系统的空气将被用来补充压力不足的系统。"
+        },
+        {
+          "letter": "B",
+          "text": "前或后制动器可能无法正常工作。"
+        },
+        {
+          "letter": "C",
+          "text": "所有制动器都将无法工作。"
+        },
+        {
+          "letter": "D",
+          "text": "压力不足的系统将使用辅助系统来填充罐。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "前或后制动器可能无法正常工作。",
+      "explanation": "在双重制动系统中，如果其中一个空气系统压力非常低，前制动器或后制动器中的任何一个将不能完全工作。您应该使车辆安全停止并修复空气系统。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "10625",
+      "question": "罐体背书是:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅在运输气体时需要。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在运输液体时需要。"
+        },
+        {
+          "letter": "C",
+          "text": "运输液体和气体时需要。"
+        },
+        {
+          "letter": "D",
+          "text": "运输危险品时可选。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "运输液体和气体时需要。",
+      "explanation": "除某些例外外，运输液体或气体需要有罐车背书。这适用于危险和非危险物质。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11670",
+      "question": "制动机制位于制动鼓____",
+      "options": [
+        {
+          "letter": "A",
+          "text": "外部"
+        },
+        {
+          "letter": "B",
+          "text": "内部"
+        },
+        {
+          "letter": "C",
+          "text": "旁边"
+        },
+        {
+          "letter": "D",
+          "text": "在顶部"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "内部",
+      "explanation": "鼓式制动器附在车轮上，位于车辆的车轴上。使车辆停止的制动机构可以在鼓式制动器内部找到。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "10561",
+      "question": "充气罐排水管：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不应在寒冷天气中使用。"
+        },
+        {
+          "letter": "B",
+          "text": "有助于清除充气罐中的水和油。"
+        },
+        {
+          "letter": "C",
+          "text": "用于将空气输送到制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "清洁客室内的空气。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "有助于清除充气罐中的水和油。",
+      "explanation": "在气制动系统中，空气罐有排水口以清除水和压缩机油的积累。允许水和油在系统中积累可能会对制动器造成损害。手动操作的排水口应每日使用。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "8874",
+      "question": "如果弹簧制动器被激活，您应该永远不要：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "踩下制动踏板。"
+        },
+        {
+          "letter": "B",
+          "text": "打开发动机盖。"
+        },
+        {
+          "letter": "C",
+          "text": "从储气罐释放气体。"
+        },
+        {
+          "letter": "D",
+          "text": "打开驾驶室的门。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "踩下制动踏板。",
+      "explanation": "如果您的弹簧制动器被激活，千万不要踩制动踏板。如果制动器同时受到弹簧和气压的作用，可能会损坏制动器。"
+    }
+  ]
+}

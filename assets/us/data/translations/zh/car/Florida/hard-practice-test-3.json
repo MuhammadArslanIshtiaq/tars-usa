@@ -1,0 +1,795 @@
+{
+  "state": "Florida",
+  "category": "car",
+  "quizName": "Hard Practice Test #3",
+  "slug": "hard-practice-test-3",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "470",
+      "question": "低速行驶车辆标志是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "矩形红色标志。"
+        },
+        {
+          "letter": "B",
+          "text": "圆形绿色标志。"
+        },
+        {
+          "letter": "C",
+          "text": "菱形黄色标志。"
+        },
+        {
+          "letter": "D",
+          "text": "三角形橙色标志。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "三角形橙色标志。",
+      "explanation": "低速行驶车辆标志是反光橙色三角形。预期使用此标志的车辆以25 mph或更低速度行驶。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "330",
+      "question": "在有停止标志的十字路口，你应该停止并：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查你的后视镜，看是否有车辆紧跟在你身后。"
+        },
+        {
+          "letter": "B",
+          "text": "当你前面的车辆移动时移动。"
+        },
+        {
+          "letter": "C",
+          "text": "先向右看，然后向左，再然后向右。"
+        },
+        {
+          "letter": "D",
+          "text": "先向左看，然后向右，再然后向左。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "先向左看，然后向右，再然后向左。",
+      "explanation": "在十字路口停止时，你应该首先向左看，因为从左边来的车辆比从右边来的车辆离你更近。向右看，然后再次向左看，以防有任何来自那个方向的车辆在你第一眼时没有看到。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "2243",
+      "question": "哪些药物可能会产生负面副作用，影响驾驶能力？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "任何药物"
+        },
+        {
+          "letter": "B",
+          "text": "止痛药"
+        },
+        {
+          "letter": "C",
+          "text": "减肥药"
+        },
+        {
+          "letter": "D",
+          "text": "处方药"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "任何药物",
+      "explanation": "任何药物都可能会影响您的驾驶能力。请务必询问您的医生或药剂师有关处方药对驾驶的影响。阅读非处方药的标签，以确定其副作用是否会影响您的驾驶。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "495",
+      "question": "闪烁的黄灯意味着：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停下来观察其他车辆，如果没有交通，就通行。"
+        },
+        {
+          "letter": "B",
+          "text": "停下来等待绿灯。"
+        },
+        {
+          "letter": "C",
+          "text": "加速快速通过十字路口。"
+        },
+        {
+          "letter": "D",
+          "text": "减速并谨慎前行。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "减速并谨慎前行。",
+      "explanation": "闪烁的黄色交通信号灯意味着驾驶员应该减速并谨慎通行。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "273",
+      "question": "当您驾车通过儿童在玩耍的地区时，您应该预料到他们：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "知道何时可以安全过街。"
+        },
+        {
+          "letter": "B",
+          "text": "在过街前停在路缘。"
+        },
+        {
+          "letter": "C",
+          "text": "不看就跑到您的前面。"
+        },
+        {
+          "letter": "D",
+          "text": "除非与成人同行，否则不过街。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "不看就跑到您的前面。",
+      "explanation": "当儿童在附近时，您应该始终降低速度并格外谨慎。他们可能无法理解危险，可能会不看就跑到您的前面。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1546",
+      "question": "最常见的警告标志颜色是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "红色。"
+        },
+        {
+          "letter": "B",
+          "text": "黄色。"
+        },
+        {
+          "letter": "C",
+          "text": "绿色。"
+        },
+        {
+          "letter": "D",
+          "text": "蓝色。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "黄色。",
+      "explanation": "大多数警告标志是菱形的，黄色底色配黑色标记。这些标志警告驾驶员可能不明显的意外情况。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "501",
+      "question": "在有让行标志的十字路口，你应该：",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "进入十字路口前始终停止。"
+        },
+        {
+          "letter": "B",
+          "text": "仅将通行权让给右侧的车辆。"
+        },
+        {
+          "letter": "C",
+          "text": "仅将通行权让给左侧的车辆。"
+        },
+        {
+          "letter": "D",
+          "text": "减速并将通行权让给其他车辆。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "减速并将通行权让给其他车辆。",
+      "explanation": "让行标志表示你必须减速并将通行权让给进入十字路口或道路的交通。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1585",
+      "question": "您的车辆在停车时的停止距离会增加：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在潮湿或结冰的道路上。"
+        },
+        {
+          "letter": "B",
+          "text": "在铺装高速公路上。"
+        },
+        {
+          "letter": "C",
+          "text": "夜间行驶时。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "在潮湿或结冰的道路上。",
+      "explanation": "在潮湿或结冰的道路上停止距离会增加。在覆盖着松散砾石或石头的路面上，停止距离也会增加。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "226",
+      "question": "如果你看到此标志在你的车道上方，你：",
+      "image": "/images/signs/pennsylvania-progress_exit_only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不能驶离高速公路。"
+        },
+        {
+          "letter": "B",
+          "text": "可以从当前车道继续通过立交桥或驶离高速公路。"
+        },
+        {
+          "letter": "C",
+          "text": "可以保持在你的车道上并继续通过立交桥。"
+        },
+        {
+          "letter": "D",
+          "text": "如果你保持在目前的车道上，必须驶离高速公路。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "如果你保持在目前的车道上，必须驶离高速公路。",
+      "explanation": "如果高速公路标志上有一个黄色面板,上面写着\"Exit only\",该标志下方的车道将不会通过立交桥。相反,该车道将离开道路形成一个坡道。如果你的车道正好在\"Exit only\"标志下方,你可以变道通过立交桥或你必须驶出高速公路。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "789",
+      "question": "在恶劣天气下驾驶时，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "加快速度以更快地到达目的地。"
+        },
+        {
+          "letter": "B",
+          "text": "减少跟车距离。"
+        },
+        {
+          "letter": "C",
+          "text": "增加跟车距离。"
+        },
+        {
+          "letter": "D",
+          "text": "以上都不是。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "增加跟车距离。",
+      "explanation": "在湿路上驾驶时，驾驶员应该增加跟车距离。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "473",
+      "question": "你想从你的车道倒车。你看到附近有孩子在玩。在你开始移动你的车之前,你应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "加速你的发动机以警告孩子你在移动。"
+        },
+        {
+          "letter": "B",
+          "text": "鸣笛以便孩子听到你。"
+        },
+        {
+          "letter": "C",
+          "text": "走到车后确认路线清楚。"
+        },
+        {
+          "letter": "D",
+          "text": "告诉孩子远离车道。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "走到车后确认路线清楚。",
+      "explanation": "当你倒车时,通过后窗查看行人和其他障碍物。不要仅依靠你的镜子,特别是当孩子在附近时。在你倒入或从车道倒出之前,下车检查你的车后面。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "2253",
+      "question": "指示公共娱乐区域的标志是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "橙色。"
+        },
+        {
+          "letter": "B",
+          "text": "红色。"
+        },
+        {
+          "letter": "C",
+          "text": "绿色。"
+        },
+        {
+          "letter": "D",
+          "text": "棕色。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "棕色。",
+      "explanation": "棕色标志表示具有文化和历史意义或公共娱乐的区域。在陌生地点旅行时，它们可以是有用的资源。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "338",
+      "question": "在多车道高速公路上超车时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "确保超车道畅通。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在右侧超车。"
+        },
+        {
+          "letter": "C",
+          "text": "注意对向来车。"
+        },
+        {
+          "letter": "D",
+          "text": "没有必要打信号。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "确保超车道畅通。",
+      "explanation": "超车前，你必须确保超车道畅通，并给出正确的转向信号表示你将要变道。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "941",
+      "question": "这个标志表示：",
+      "image": "/images/signs/low_clearance.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "空地间隙较低。"
+        },
+        {
+          "letter": "B",
+          "text": "在施工区域内罚款翻倍。"
+        },
+        {
+          "letter": "C",
+          "text": "禁止左转。"
+        },
+        {
+          "letter": "D",
+          "text": "不要堵塞交叉路口。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "空地间隙较低。",
+      "explanation": "警告标志为驾驶员准备即将到来的道路状况和危险，通常是黄色背景配黑色标记。该标志告诉驾驶员他们正在接近一个空地间隙较低的区域。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1731",
+      "question": "你在繁忙街道上行驶,你的车油门卡住了。你应该:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "按你的喇叭。"
+        },
+        {
+          "letter": "B",
+          "text": "猛踩刹车。"
+        },
+        {
+          "letter": "C",
+          "text": "打开你的四路闪光灯。"
+        },
+        {
+          "letter": "D",
+          "text": "关闭点火开关,小心不要启动转向轮锁定机制。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "关闭点火开关,小心不要启动转向轮锁定机制。",
+      "explanation": "如果你的车油门卡住了,即使你松开油门踏板,你的车也会继续保持速度或加速。关闭点火开关,小心只移动点火开关足以停止发动机而不会启动转向轮锁定机制。踩刹车并驶离道路到安全区域。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "2319",
+      "question": "当接近显示稳定绿色箭头的交通信号时，驾驶员：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "应该并入朝箭头方向的车道。"
+        },
+        {
+          "letter": "B",
+          "text": "应该在安全的情况下减速停止。"
+        },
+        {
+          "letter": "C",
+          "text": "在让路给已在十字路口的交通和行人后，可以朝箭头方向转弯。"
+        },
+        {
+          "letter": "D",
+          "text": "可以直接通过十字路口。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "在让路给已在十字路口的交通和行人后，可以朝箭头方向转弯。",
+      "explanation": "交通信号上显示的绿色箭头告诉驾驶员他们可以朝箭头方向转弯。你必须在正确的车道上进行此类转弯。向已在十字路口的车辆和行人让路。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "523",
+      "question": "如果你的车开始打滑，转动你的方向盘：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "保持前轮笔直。"
+        },
+        {
+          "letter": "B",
+          "text": "在你想让车辆行驶的方向。"
+        },
+        {
+          "letter": "C",
+          "text": "在与打滑相反的方向。"
+        },
+        {
+          "letter": "D",
+          "text": "在任何方向。这无关紧要。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在你想让车辆行驶的方向。",
+      "explanation": "如果你的车辆开始打滑，你应该将方向盘转向你想让车辆行驶的方向。一旦车辆开始恢复直线行驶，立即将方向盘转向另一个方向。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "2278",
+      "question": "您可以合法地以超过速度限制10 mph的速度驾驶：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在任何时候。"
+        },
+        {
+          "letter": "B",
+          "text": "当超车其他车辆时。"
+        },
+        {
+          "letter": "C",
+          "text": "在交通畅通的情况下。"
+        },
+        {
+          "letter": "D",
+          "text": "绝对不行。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "绝对不行。",
+      "explanation": "超速违反法律。你必须遵守速度限制,你有责任在驾驶时知道速度限制。\"超速缓冲区\"是一个神话;你不被允许以超过限速10 mph的速度行驶。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "477",
+      "question": "这个标志表示：",
+      "image": "/images/signs/new-york-keep_right_of_divider.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "分隔的高速公路结束。"
+        },
+        {
+          "letter": "B",
+          "text": "前方单向交通。"
+        },
+        {
+          "letter": "C",
+          "text": "前方双向交通。"
+        },
+        {
+          "letter": "D",
+          "text": "靠右行驶。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "靠右行驶。",
+      "explanation": "此标志表示您必须靠近即将到来的分隔线的右侧。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "2049",
+      "question": "以下哪项建议不能促进安全的夜间驾驶？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "保持挡风玻璃清洁。"
+        },
+        {
+          "letter": "B",
+          "text": "注意有色车窗在黑暗中降低能见度。"
+        },
+        {
+          "letter": "C",
+          "text": "在您的车辆中携带手电筒。"
+        },
+        {
+          "letter": "D",
+          "text": "看向迎面而来的车辆的车灯。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "看向迎面而来的车辆的车灯。",
+      "explanation": "如果你看着迎面而来的车辆的车灯，你眼睛的瞳孔会收缩。在迎面而来的车辆通过后，瞳孔必须重新适应较弱光线的时间间隔。在这个恢复期间，你几乎是在盲目驾驶。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "2246",
+      "question": "双车道路中心的一条单实线表示：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "车道向相反方向行驶，驾驶员不得超车。"
+        },
+        {
+          "letter": "B",
+          "text": "车道向相反方向行驶，驾驶员在安全的情况下可以超车。"
+        },
+        {
+          "letter": "C",
+          "text": "车道向同一方向行驶，驾驶员不得超车。"
+        },
+        {
+          "letter": "D",
+          "text": "车道向同一方向行驶，驾驶员在安全的情况下可以超车。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "车道向同一方向行驶，驾驶员在安全的情况下可以超车。",
+      "explanation": "白线用于分离同一方向的交通。虚线表示靠近该线的驾驶员在安全的情况下可以超车。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "348",
+      "question": "您的停车能力受以下因素影响：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "信号灯。"
+        },
+        {
+          "letter": "B",
+          "text": "道路上的其他汽车。"
+        },
+        {
+          "letter": "C",
+          "text": "一天中的时间。"
+        },
+        {
+          "letter": "D",
+          "text": "道路的状况。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "道路的状况。",
+      "explanation": "您的停车能力在很大程度上受道路状况的影响。当道路状况不佳时，您需要降低速度以保持对车辆的控制。如果您在路面湿滑的道路上驾驶速度过快并需要停车，您将面临风险。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "1737",
+      "question": "当超过大型车辆时，小型车辆的驾驶员必须为以下情况做好准备：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "响亮的噪音。"
+        },
+        {
+          "letter": "B",
+          "text": "过量的空气污染。"
+        },
+        {
+          "letter": "C",
+          "text": "大型车辆产生的风阵。"
+        },
+        {
+          "letter": "D",
+          "text": "车辆零件脱落。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "大型车辆产生的风阵。",
+      "explanation": "大型车辆会产生足以导致小型车辆方向改变的强风阵。小型车辆的驾驶员应准备好在接近或超过以最高速度或接近最高速度行驶的大型车辆时采取适当的纠正转向措施。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "613",
+      "question": "速度限制是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "你在危险条件下可以在道路上行驶的最高或最低合法速度。"
+        },
+        {
+          "letter": "B",
+          "text": "你在理想条件下可以在道路上行驶的最高或最低合法速度。"
+        },
+        {
+          "letter": "C",
+          "text": "在理想条件下建议在道路上行驶的速度。"
+        },
+        {
+          "letter": "D",
+          "text": "以上都不是。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "你在理想条件下可以在道路上行驶的最高或最低合法速度。",
+      "explanation": "速度限制是你在理想条件下可以在道路上行驶的最高或最低合法速度。你可以比公示速度更慢行驶，但以任何更快的速度行驶是违法的。在学校区域或工作区域标志或标记指示的地方你必须以更慢的速度行驶。如果道路施工或恶劣天气等条件使公示速度不安全，请低于速度限制行驶。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "456",
+      "question": "喝酒后喝咖啡：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "降低血液酒精浓度。"
+        },
+        {
+          "letter": "B",
+          "text": "抵消酒精的影响。"
+        },
+        {
+          "letter": "C",
+          "text": "对血液酒精浓度没有影响。"
+        },
+        {
+          "letter": "D",
+          "text": "增加血液酒精浓度。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "对血液酒精浓度没有影响。",
+      "explanation": "喝咖啡不会降低您的血液酒精浓度 (BAC)。虽然它可能帮助您保持清醒，但它无法改变您的血液酒精浓度或使您清醒。"
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "220",
+      "question": "这个标志表示：",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "禁止掉头。"
+        },
+        {
+          "letter": "B",
+          "text": "禁止左转。"
+        },
+        {
+          "letter": "C",
+          "text": "禁止右转。"
+        },
+        {
+          "letter": "D",
+          "text": "禁止转弯。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "禁止右转。",
+      "explanation": "此标志表示禁止右转。不要在张贴此标志的十字路口右转。"
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "468",
+      "question": "在没有人行道的道路上，行人应该在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "交通流量最少的道路一侧。"
+        },
+        {
+          "letter": "B",
+          "text": "与交通流方向相同的道路一侧。"
+        },
+        {
+          "letter": "C",
+          "text": "道路与对向来车相对的一侧。"
+        },
+        {
+          "letter": "D",
+          "text": "交通流量最大的道路一侧。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "道路与对向来车相对的一侧。",
+      "explanation": "行人应该在道路的与对向来车相对的一侧行走，即靠近最近车道的那一侧。"
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "2261",
+      "question": "当驶近显示闪烁黄色箭头的交通信号时，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "应该并入朝箭头方向的车道。"
+        },
+        {
+          "letter": "B",
+          "text": "应该完全停下来。"
+        },
+        {
+          "letter": "C",
+          "text": "可以在让路给对面交通和行人后向左转弯。"
+        },
+        {
+          "letter": "D",
+          "text": "有优先权，可以期望对面交通停止让行。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "可以在让路给对面交通和行人后向左转弯。",
+      "explanation": "闪烁黄色箭头表示允许按箭头方向左转。但是，迎面的交通有绿灯，你必须让路给迎面的交通和行人。"
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "228",
+      "question": "此标志用于警告驾驶员以下情况：",
+      "image": "/images/signs/curve_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "即将到来的交叉路口。"
+        },
+        {
+          "letter": "B",
+          "text": "道路施工。"
+        },
+        {
+          "letter": "C",
+          "text": "前方道路即将弯曲。"
+        },
+        {
+          "letter": "D",
+          "text": "交通车道变化。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "前方道路即将弯曲。",
+      "explanation": "此标志表示前方道路向右弯曲。"
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1616",
+      "question": "在两辆车之间平行停车时，您应该首先：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "向左转向。"
+        },
+        {
+          "letter": "B",
+          "text": "向右转向。"
+        },
+        {
+          "letter": "C",
+          "text": "靠近您想要的停车位前方的车。"
+        },
+        {
+          "letter": "D",
+          "text": "缓慢倒车。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "靠近您想要的停车位前方的车。",
+      "explanation": "找到停车位、检查交通情况并发出信号后，您应该停在您想要的停车位前方的车辆旁边，然后转向停车。"
+    }
+  ]
+}

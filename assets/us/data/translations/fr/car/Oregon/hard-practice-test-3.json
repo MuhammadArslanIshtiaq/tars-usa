@@ -1,0 +1,793 @@
+{
+  "state": "Oregon",
+  "category": "car",
+  "quizName": "Hard Practice Test #3",
+  "slug": "hard-practice-test-3",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "899",
+      "question": "Vous arrivez à une intersection avec un feu rouge clignotant. Vous devez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ralentissez et conduisez prudemment à travers l'intersection."
+        },
+        {
+          "letter": "B",
+          "text": "Tournez à droite ou à gauche, car la route est bloquée devant."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous à l'intersection et attendez un feu vert clignotant."
+        },
+        {
+          "letter": "D",
+          "text": "Arrêtez-vous à l'intersection, puis procédez selon le trafic."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Arrêtez-vous à l'intersection, puis procédez selon le trafic.",
+      "explanation": "Un feu rouge clignotant signifie que vous devez vous arrêter complètement, puis procéder quand la voie est libre."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "610",
+      "question": "Une ligne jaune pointillée à côté d'une ligne jaune continue signifie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le dépassement à gauche est autorisé dans les deux sens."
+        },
+        {
+          "letter": "B",
+          "text": "Le dépassement est autorisé à partir de la voie adjacent à la ligne pointillée."
+        },
+        {
+          "letter": "C",
+          "text": "Le dépassement est autorisé à partir de la voie adjacent à la ligne continue."
+        },
+        {
+          "letter": "D",
+          "text": "Le dépassement n'est autorisé dans aucun sens."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Le dépassement est autorisé à partir de la voie adjacent à la ligne pointillée.",
+      "explanation": "Une ligne jaune pointillée à côté d'une ligne jaune continue signifie que le dépassement est autorisé à partir de la voie du côté de la ligne pointillée."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "2319",
+      "question": "Lorsque vous approchez d'un feu de circulation affichant une flèche verte constante, les conducteurs :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devraient se rabattre sur une voie dans la direction de la flèche."
+        },
+        {
+          "letter": "B",
+          "text": "Devraient ralentir et s'arrêter, s'il est sécuritaire de le faire."
+        },
+        {
+          "letter": "C",
+          "text": "Peuvent tourner dans la direction de la flèche après avoir cédé le passage au trafic et aux piétons déjà dans l'intersection."
+        },
+        {
+          "letter": "D",
+          "text": "Peuvent continuer tout droit à travers l'intersection."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Peuvent tourner dans la direction de la flèche après avoir cédé le passage au trafic et aux piétons déjà dans l'intersection.",
+      "explanation": "Une flèche verte affichée sur un feu de circulation indique aux conducteurs qu'ils peuvent tourner dans la direction de la flèche. Vous devez être dans la bonne voie pour effectuer ce virage. Cédez le droit de passage aux véhicules et aux piétons déjà dans l'intersection."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "2094",
+      "question": "Lorsque vous vous approchez d'un lieu d'accident, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentrez votre attention sur votre conduite."
+        },
+        {
+          "letter": "B",
+          "text": "Continuez à avancer."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous si vous êtes impliqué ou si l'aide d'urgence n'est pas encore arrivée."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "N'arrêtez-vous pas sur un lieu d'accident à moins que vous y soyez impliqué ou que l'aide d'urgence ne soit pas encore arrivée. Concentrez votre attention sur votre conduite et continuez à avancer, en surveillant les personnes qui pourraient se trouver sur la route ou à proximité. Ne vous rendez jamais sur le lieu d'un accident, d'un incendie ou d'une autre catastrophe juste pour regarder."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "2079",
+      "question": "Vous devez être prudent lorsque vous dépassez une bicyclette car :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous vous déplacez plus vite que le vélo."
+        },
+        {
+          "letter": "B",
+          "text": "Le vélo a toujours la priorité."
+        },
+        {
+          "letter": "C",
+          "text": "Le trafic venant en sens inverse peut ne pas vous voir vous rabattre pour dépasser le vélo."
+        },
+        {
+          "letter": "D",
+          "text": "Le cycliste peut devoir se rabattre dans la circulation pour éviter un objet sur la route."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Le cycliste peut devoir se rabattre dans la circulation pour éviter un objet sur la route.",
+      "explanation": "Vous devriez toujours être prudent lorsque vous dépassez un cycliste car le cycliste peut devoir se rabattre dans la circulation pour éviter un objet sur la route. Soyez toujours particulièrement prudent lorsque vous conduisez près de cyclistes."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "412",
+      "question": "Le bras et la main gauche du conducteur sont étendus vers le haut. Ce signal manuel signifie que le conducteur prévoit de:",
+      "image": "/images/signs/new-york-hand_signal_up.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tourner à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Tourner à droite."
+        },
+        {
+          "letter": "C",
+          "text": "S'arrêter complètement."
+        },
+        {
+          "letter": "D",
+          "text": "Continuer tout droit."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tourner à droite.",
+      "explanation": "Si le bras et la main gauche d'un conducteur sont étendus vers le haut, il indique qu'il a l'intention de tourner à droite. Ajustez votre conduite en conséquence si vous suivez un conducteur qui utilise ce signal manuel."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1590",
+      "question": "Panneaux de signalisation réglementaires:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont placés à chaque endroit où il existe un danger présent."
+        },
+        {
+          "letter": "B",
+          "text": "Indiquer ce qu'un conducteur doit ou ne doit pas faire."
+        },
+        {
+          "letter": "C",
+          "text": "Sont en forme de diamant et jaunes ou verts."
+        },
+        {
+          "letter": "D",
+          "text": "Peuvent avertir les conducteurs qu'ils approchent d'une zone scolaire."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Indiquer ce qu'un conducteur doit ou ne doit pas faire.",
+      "explanation": "Les panneaux de signalisation réglementaires sont souvent rectangulaires, blancs avec des marquages noirs et sont utilisés pour indiquer ce qu'un conducteur doit ou ne doit pas faire dans une zone désignée. Ils peuvent afficher les limites de vitesse, interdire le dépassement ou les virages, ou clarifier tout autre règlement de conduite."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "419",
+      "question": "Vous conduisez dans une rue et entendez une sirène. Vous ne pouvez pas voir immédiatement le véhicule d'urgence. Vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuez à conduire jusqu'à ce que vous voyez le véhicule."
+        },
+        {
+          "letter": "B",
+          "text": "Rangez-vous au trottoir et regardez si c'est dans votre rue."
+        },
+        {
+          "letter": "C",
+          "text": "Ralentissez. N'arrêtez-vous que lorsque vous le voyez."
+        },
+        {
+          "letter": "D",
+          "text": "Accélérez et tournez à l'intersection suivante."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Rangez-vous au trottoir et regardez si c'est dans votre rue.",
+      "explanation": "Si vous entendez une sirène ou une corne d'air à proximité mais ne savez pas exactement où se trouve le véhicule d'urgence, rangez-vous prudemment sur le côté droit de la route et arrêtez-vous jusqu'à ce que vous soyez sûr qu'il ne se dirige pas vers vous."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "342",
+      "question": "Permettez un coussin d'espace plus grand que d'habitude lors de l'arrêt :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur une pente."
+        },
+        {
+          "letter": "B",
+          "text": "À une intersection."
+        },
+        {
+          "letter": "C",
+          "text": "À un panneau d'arrêt."
+        },
+        {
+          "letter": "D",
+          "text": "À un péage."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Sur une pente.",
+      "explanation": "Vous devriez permettre plus d'espace devant votre véhicule que d'habitude lorsque vous êtes arrêté sur une pente ascendante. Si le véhicule devant vous recule vers votre véhicule lorsque la circulation recommence à bouger, il est moins probable qu'il y ait une collision."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "2049",
+      "question": "Laquelle des recommandations suivantes ne favorise pas une conduite sécuritaire la nuit ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gardez votre pare-brise propre."
+        },
+        {
+          "letter": "B",
+          "text": "Sachez que les vitres teintées réduisent la visibilité dans l'obscurité."
+        },
+        {
+          "letter": "C",
+          "text": "Portez une lampe de poche dans votre véhicule."
+        },
+        {
+          "letter": "D",
+          "text": "Regardez dans les phares des véhicules qui s'approchent."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Regardez dans les phares des véhicules qui s'approchent.",
+      "explanation": "Si vous regardez dans les phares d'un véhicule qui s'approche, la pupille de votre œil se contractera. Une fois que le véhicule qui s'approche a passé, il y aura un intervalle de temps pendant lequel la pupille doit se réajuster à une lumière moins intense. Pendant cette période de récupération, vous conduisez pratiquement à l'aveugle."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "332",
+      "question": "En quittant une autoroute, vous devriez ralentir :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur la route principale, juste avant la voie de sortie."
+        },
+        {
+          "letter": "B",
+          "text": "Une fois que vous voyez un péage."
+        },
+        {
+          "letter": "C",
+          "text": "Une fois que vous êtes entré dans la voie de sortie."
+        },
+        {
+          "letter": "D",
+          "text": "Lorsque vous voyez pour la première fois le panneau de sortie."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Une fois que vous êtes entré dans la voie de sortie.",
+      "explanation": "Lorsque vous quittez une autoroute, vous devez vous placer dans la voie de sortie bien à l'avance. Ne commencez pas à ralentir avant d'être entré dans la voie de sortie."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "600",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/t_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tout le trafic doit tourner à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Pas de virage à droite."
+        },
+        {
+          "letter": "C",
+          "text": "Tout le trafic doit aller tout droit."
+        },
+        {
+          "letter": "D",
+          "text": "Une route rejoint depuis la droite."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Une route rejoint depuis la droite.",
+      "explanation": "Ce panneau indique qu'il y a un carrefour à proximité. Une route se joint à partir de la droite."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1635",
+      "question": "Un système d'échappement qui fuit dans votre véhicule est dangereux car il peut causer :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une perte auditive."
+        },
+        {
+          "letter": "B",
+          "text": "Pollution."
+        },
+        {
+          "letter": "C",
+          "text": "Empoisonnement au monoxyde de carbone."
+        },
+        {
+          "letter": "D",
+          "text": "Mauvaises performances du moteur."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Empoisonnement au monoxyde de carbone.",
+      "explanation": "Le système d'échappement évacue les gaz d'échappement du véhicule et empêche les vapeurs de pénétrer dans l'habitacle. Pour prévenir l'empoisonnement au monoxyde de carbone, maintenez votre système d'échappement exempt de fuites. Remplacez immédiatement toutes les pièces défectueuses."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "955",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/one_way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circulation à sens unique."
+        },
+        {
+          "letter": "B",
+          "text": "Voie à double sens de virage à gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Circulation bidirectionnelle."
+        },
+        {
+          "letter": "D",
+          "text": "Limite de vitesse minimale."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Circulation à sens unique.",
+      "explanation": "Les panneaux de réglementation régulent la vitesse et le mouvement du trafic, affichant des règles que les conducteurs doivent respecter. Ce panneau indique aux conducteurs la direction dans laquelle ils doivent conduire en s'engageant sur une rue à sens unique."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "2077",
+      "question": "Lorsqu'on s'approche d'une intersection non contrôlée, un conducteur devrait:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maintenez votre vitesse et continuez."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous à l'intersection, vérifiez dans toutes les directions et continuez."
+        },
+        {
+          "letter": "C",
+          "text": "Cédez le passage à tous les autres conducteurs."
+        },
+        {
+          "letter": "D",
+          "text": "Soyez prêt à céder le passage."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Soyez prêt à céder le passage.",
+      "explanation": "À une intersection où il n'y a pas de panneau d'arrêt ou de feu de circulation, vous devez céder le passage à un véhicule s'approchant de l'intersection par la droite. Cependant, soyez toujours prêt à céder pour éviter une collision. Pour ce faire, retirez votre pied de l'accélérateur, couvrez le frein et regardez à gauche, à droite et à nouveau à gauche."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "2261",
+      "question": "Lors de l'approche d'un feu de circulation affichant une flèche jaune clignotante, les conducteurs :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devraient se rabattre sur une voie dans la direction de la flèche."
+        },
+        {
+          "letter": "B",
+          "text": "Doivent s'arrêter complètement."
+        },
+        {
+          "letter": "C",
+          "text": "Peuvent tourner à gauche après avoir cédé le passage au trafic venant en sens inverse et aux piétons."
+        },
+        {
+          "letter": "D",
+          "text": "Ont le droit de passage et peuvent s'attendre à ce que le trafic venant en sens inverse s'arrête pour eux."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Peuvent tourner à gauche après avoir cédé le passage au trafic venant en sens inverse et aux piétons.",
+      "explanation": "Une flèche jaune clignotante indique que les virages à gauche sont autorisés dans la direction de la flèche. Cependant, le trafic venant en sens inverse a un feu vert et vous devez céder aux véhicules et aux piétons venant en sens inverse."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1659",
+      "question": "Sur une rue à deux voies, votre véhicule est suivi par un camion de pompiers qui n'utilise pas ses signaux d'urgence. Vous devriez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuez à circuler normalement."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous aussi rapidement que possible."
+        },
+        {
+          "letter": "C",
+          "text": "Accélérez pour vous éloigner de sa route."
+        },
+        {
+          "letter": "D",
+          "text": "Ralentissez, déplacez-vous aussi loin que possible vers la droite et arrêtez-vous."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Continuez à circuler normalement.",
+      "explanation": "Si vous êtes suivi par un véhicule d'urgence qui n'utilise pas sa sirène ou ses feux clignotants, vous n'avez pas besoin de dégager le passage. Continuez à circuler normalement."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1507",
+      "question": "Les passages à niveau doivent toujours être considérés comme:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sûr à traverser, car il est peu probable qu'un train arrive."
+        },
+        {
+          "letter": "B",
+          "text": "Dangereux."
+        },
+        {
+          "letter": "C",
+          "text": "Endroits sûrs pour garer une voiture."
+        },
+        {
+          "letter": "D",
+          "text": "Un endroit où il est nécessaire de s'arrêter."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dangereux.",
+      "explanation": "Les passages à niveau sont toujours dangereux. Les conducteurs doivent toujours regarder et écouter l'approche des trains des deux directions sur tous les chemins de fer. Suivez toujours les directions indiquées par les panneaux, les signaux et les agents de circulation. Ne franchissez jamais un passage à niveau jusqu'à ce que vous soyez certain qu'il est sûr de le faire."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "241",
+      "question": "Si une flèche verte se transforme en feu vert unie, vous :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pouvez toujours tourner, mais vous devez céder le passage au trafic en sens inverse."
+        },
+        {
+          "letter": "B",
+          "text": "Ne pouvez plus tourner et devez aller tout droit."
+        },
+        {
+          "letter": "C",
+          "text": "Avez toujours le droit de priorité pour tourner."
+        },
+        {
+          "letter": "D",
+          "text": "N'avez plus besoin de tourner dans la direction indiquée par la flèche."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Pouvez toujours tourner, mais vous devez céder le passage au trafic en sens inverse.",
+      "explanation": "Si une flèche verte se transforme en feu vert unie, vous pouvez toujours tourner dans la direction vers laquelle la flèche pointait, mais vous devez d'abord céder le passage aux piétons et au trafic en sens inverse."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1188",
+      "question": "Un conducteur qui s'en rapproche ne baisse pas ses phares de route. Où devriez-vous regarder?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vers les roues du véhicule qui s'en rapproche."
+        },
+        {
+          "letter": "B",
+          "text": "Vers le côté droit de la route."
+        },
+        {
+          "letter": "C",
+          "text": "Vers le côté gauche de la route."
+        },
+        {
+          "letter": "D",
+          "text": "Tout droit au milieu de la route."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Vers le côté droit de la route.",
+      "explanation": "Si un conducteur qui s'en rapproche ne baisse pas ses phares de route, jetez un coup d'œil vers le côté droit de la route. Cela vous empêchera d'être aveuglé par les phares de l'autre véhicule et vous permettra de voir assez de la route pour rester sur la bonne voie jusqu'à ce que l'autre véhicule soit passé."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "495",
+      "question": "Un feu jaune qui clignote signifie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêtez-vous et regardez les autres véhicules, puis avancez s'il n'y a pas de circulation."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous et attendez un feu vert."
+        },
+        {
+          "letter": "C",
+          "text": "Accélérez pour dégager le carrefour rapidement."
+        },
+        {
+          "letter": "D",
+          "text": "Ralentir et procéder avec prudence."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Ralentir et procéder avec prudence.",
+      "explanation": "Un feu de circulation jaune clignotant signifie que les conducteurs doivent ralentir et avancer avec prudence."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "260",
+      "question": "Vous pouvez franchir les lignes jaunes continues :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pour dépasser le trafic se déplaçant dans la même direction."
+        },
+        {
+          "letter": "B",
+          "text": "Pendant les heures de jour uniquement."
+        },
+        {
+          "letter": "C",
+          "text": "À tout moment."
+        },
+        {
+          "letter": "D",
+          "text": "Lors des virages."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Lors des virages.",
+      "explanation": "En règle générale, les lignes de circulation pointillées peuvent être franchies mais les lignes continues ne le peuvent pas. Les lignes jaunes continues ne peuvent être franchies que lorsque le conducteur effectue un virage."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "2247",
+      "question": "Une ligne blanche continue au centre d'une route à deux voies indique:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les voies se déplacent dans des directions opposées et les conducteurs ne sont pas autorisés à dépasser."
+        },
+        {
+          "letter": "B",
+          "text": "Les voies se déplacent dans des directions opposées et les conducteurs ont le droit de dépasser quand il est sûr de le faire."
+        },
+        {
+          "letter": "C",
+          "text": "Les voies se déplacent dans la même direction et les conducteurs ne sont pas autorisés à dépasser."
+        },
+        {
+          "letter": "D",
+          "text": "Les voies se déplacent dans la même direction et les conducteurs ont le droit de dépasser quand il est sûr de le faire."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Les voies se déplacent dans la même direction et les conducteurs ne sont pas autorisés à dépasser.",
+      "explanation": "Les lignes blanches sont utilisées pour séparer la circulation se déplaçant dans la même direction. Les lignes continues indiquent que les conducteurs n'ont pas le droit de dépasser."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1554",
+      "question": "S'arrêter complètement à une intersection, céder le passage à la circulation transversale/aux piétons, puis traverser l'intersection lorsque la voie est libre correspond à:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un feu rouge continu."
+        },
+        {
+          "letter": "B",
+          "text": "Un feu jaune clignotant."
+        },
+        {
+          "letter": "C",
+          "text": "Un feu vert continu."
+        },
+        {
+          "letter": "D",
+          "text": "Un feu rouge clignotant."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Un feu rouge clignotant.",
+      "explanation": "Un feu de circulation rouge clignotant signifie la même chose qu'un panneau d'arrêt. Vous devez vous arrêter complètement, céder le passage à la circulation transversale et aux piétons, puis continuer lorsque la voie est libre."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "523",
+      "question": "Si votre voiture commence à déraper, tournez votre volant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pour maintenir les roues avant droites."
+        },
+        {
+          "letter": "B",
+          "text": "Dans la direction où vous voulez que le véhicule aille."
+        },
+        {
+          "letter": "C",
+          "text": "Dans le sens opposé au dérapage."
+        },
+        {
+          "letter": "D",
+          "text": "Dans n'importe quelle direction. Cela n'a pas d'importance."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Dans la direction où vous voulez que le véhicule aille.",
+      "explanation": "Si votre véhicule entre en dérapage, vous devez tourner le volant dans la direction où vous voulez que le véhicule aille. Dès que le véhicule commence à se redresser, tournez le volant dans l'autre sens."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "532",
+      "question": "La bonne façon d'utiliser une bretelle de sortie d'autoroute est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ralentissez avant d'entrer dans la bretelle de sortie."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentissez une fois que vous vous engagez sur la bretelle de sortie."
+        },
+        {
+          "letter": "C",
+          "text": "Maintenez votre vitesse constante une fois dans la bretelle de sortie."
+        },
+        {
+          "letter": "D",
+          "text": "Dépasser le trafic plus lent dans la bretelle de sortie."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ralentissez une fois que vous vous engagez sur la bretelle de sortie.",
+      "explanation": "Lorsque vous utilisez une bretelle de sortie d'autoroute, ne ralentissez pas jusqu'à ce que vous vous engagiez sur la bretelle de sortie."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "1731",
+      "question": "Vous conduisez sur une rue achalandée et l'accélérateur de votre véhicule se bloque ouvert. Vous devriez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Actionnez votre klaxon."
+        },
+        {
+          "letter": "B",
+          "text": "Appuyez fortement sur vos freins."
+        },
+        {
+          "letter": "C",
+          "text": "Activez vos feux de détresse."
+        },
+        {
+          "letter": "D",
+          "text": "Éteignez votre moteur, en prenant soin de ne pas engager le mécanisme de verrouillage du volant."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Éteignez votre moteur, en prenant soin de ne pas engager le mécanisme de verrouillage du volant.",
+      "explanation": "Si l'accélérateur de votre véhicule se bloque ouvert, votre véhicule continuera à maintenir sa vitesse ou à accélérer, même si vous retirez votre pied de la pédale d'accélérateur. Éteignez le moteur, en prenant soin de bouger le commutateur d'allumage juste assez pour arrêter le moteur et ne pas engager le mécanisme de verrouillage du volant. Appliquez vos freins et éloignez-vous de la route vers une zone sécuritaire."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "968",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Route secondaire."
+        },
+        {
+          "letter": "C",
+          "text": "Voie à double sens de virage à gauche."
+        },
+        {
+          "letter": "D",
+          "text": "Machinerie agricole."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Arrêt.",
+      "explanation": "Les panneaux de circulation octogonaux avertissent les conducteurs qu'ils doivent s'arrêter et céder le passage approprié à une intersection. Les conducteurs peuvent procéder lorsqu'il est sûr de le faire."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "1501",
+      "question": "Il est important d'être attentif aux motocyclettes car :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elles sont plus difficiles à voir que les voitures."
+        },
+        {
+          "letter": "B",
+          "text": "Elles utilisent rarement leurs phares."
+        },
+        {
+          "letter": "C",
+          "text": "Les motocyclistes sont des conducteurs moins compétents que les autres automobilistes."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Elles sont plus difficiles à voir que les voitures.",
+      "explanation": "Les motocyclettes sont plus petites et plus difficiles à voir que les voitures. En raison de leur taille, elles sont facilement cachées dans l'angle mort d'une voiture. Il peut être difficile de juger votre distance par rapport à une motocyclette et difficile de dire à quelle vitesse une motocyclette se déplace, soyez donc toujours vigilant et très prudent près d'un motocycliste."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "1595",
+      "question": "Lorsque vous conduisez sur des routes qui peuvent être glissantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduisez toujours à la vitesse maximale autorisée."
+        },
+        {
+          "letter": "B",
+          "text": "Utilisez le contrôle de vitesse constant pour maintenir une vitesse constante."
+        },
+        {
+          "letter": "C",
+          "text": "Réduisez votre distance de suivi."
+        },
+        {
+          "letter": "D",
+          "text": "Ne faites pas de changements soudains de vitesse ou de direction."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Ne faites pas de changements soudains de vitesse ou de direction.",
+      "explanation": "Vous devez éviter les changements soudains de vitesse ou de direction lorsque vous conduisez sur une surface glissante. Réduisez votre vitesse sur les routes glissantes et n'utilisez pas le contrôle de vitesse constant."
+    }
+  ]
+}

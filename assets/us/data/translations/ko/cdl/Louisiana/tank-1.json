@@ -1,0 +1,450 @@
+{
+  "state": "Louisiana",
+  "category": "cdl",
+  "testName": "Tank Test #1 20 Questions • Passing Score 16",
+  "testSlug": "tank-1",
+  "url": "/images/louisiana/cdl/tank-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11147",
+      "question": "아웃티지(Outage):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "따뜻한 날씨에만 우려 사항입니다."
+        },
+        {
+          "letter": "B",
+          "text": "각 액체마다 동일합니다."
+        },
+        {
+          "letter": "C",
+          "text": "탱크 차량에 넣을 액체의 양을 결정할 때 고려해야 할 사항입니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "탱크 차량에 넣을 액체의 양을 결정할 때 고려해야 할 사항입니다.",
+      "explanation": "액체는 온도가 증가하면 팽창하기 때문에, 탱크 내에 팽창을 수용하기 위한 공간을 남겨두어야 합니다. 이 공간을 \"아웃티지\"라고 합니다. 필요한 아웃티지의 양은 액체마다 다릅니다."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10286",
+      "question": "언제 거울을 조정해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "운전 전"
+        },
+        {
+          "letter": "B",
+          "text": "운전 중"
+        },
+        {
+          "letter": "C",
+          "text": "운전 후"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "운전 전",
+      "explanation": "미러 조정은 모든 여행 시작 전에 확인해야 합니다. 차량에 트레일러가 있으면 미러를 정확하게 확인하기 위해 트레일러가 일직선에 있어야 합니다."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11177",
+      "question": "곡선에 진입하기 전에 당신은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "거울을 사용하지 마세요."
+        },
+        {
+          "letter": "B",
+          "text": "속도를 높입니다."
+        },
+        {
+          "letter": "C",
+          "text": "다운시프트합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "다운시프트합니다.",
+      "explanation": "CMV 운전자는 항상 곡선에 진입하기 전에 감속하는 것이 중요합니다."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11205",
+      "question": "백업 중에 트레일러가 코스를 벗어나기 시작하면 운전자는 다음을 수행해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "스티어링 휠을 12시 위치로 돌립니다."
+        },
+        {
+          "letter": "B",
+          "text": "스티어링 휠의 상단을 표류 방향으로 돌립니다."
+        },
+        {
+          "letter": "C",
+          "text": "스티어링 휠의 상단을 표류의 반대 방향으로 돌립니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "스티어링 휠의 상단을 표류 방향으로 돌립니다.",
+      "explanation": "백업 중에 트레일러가 표류하기 시작하면 스티어링 휠의 상단을 표류 방향으로 돌려 표류를 즉시 바로잡아야 합니다."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "9954",
+      "question": "유압 제동 장치를 어떻게 확인합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제동 페달을 3번 누른 다음 5초 동안 페달에 강한 압력을 가하세요. 제동 페달이 움직이지 않아야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "제동 페달을 3번 누른 다음 5초 동안 페달에 강한 압력을 가하세요. 제동 페달이 천천히 바닥 쪽으로 움직여야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "제동 페달을 3번 누른 다음 5초 동안 페달에 강한 압력을 가하세요. 제동 페달이 천천히 올라와야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "제동 페달을 3번 누른 다음 5초 동안 페달에 강한 압력을 가하세요. 제동 페달이 움직이지 않아야 합니다.",
+      "explanation": "제동 페달을 3번 펌프질한 후 페달에 5초간 강한 압력을 가해 유압 브레이크를 확인하세요. 페달은 움직이지 않아야 합니다. 움직인다면 브레이킹 시스템에 누수나 다른 문제가 있을 수 있습니다."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8542",
+      "question": "압축 눈 위에서 운전할 때 속도를 줄여야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "절반 이상."
+        },
+        {
+          "letter": "B",
+          "text": "약 1/3."
+        },
+        {
+          "letter": "C",
+          "text": "약 1/4."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "절반 이상.",
+      "explanation": "견인력이 감소된 표면에서 이동할 때 속도를 줄이세요. 압축 눈 위에서 이동할 때 속도를 절반 이상 줄이세요."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "9238",
+      "question": "용접 수리가 있는 휠은:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "전문가가 수리한 경우 사용하기에 안전합니다."
+        },
+        {
+          "letter": "B",
+          "text": "수리가 견고해 보이면 사용하기에 안전합니다."
+        },
+        {
+          "letter": "C",
+          "text": "사용하기에 안전하지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "사용하기에 안전하지 않습니다.",
+      "explanation": "용접 수리를 받은 휠 또는 림은 사용하기에 안전하지 않습니다. 차량이 도로에 나가기 전에 교체해야 합니다."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "9583",
+      "question": "정지 상태에서 출발할 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량이 오른쪽으로 이동해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량이 3단으로 설정되어야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "차량이 뒤로 굴러가지 않아야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "차량이 뒤로 굴러가지 않아야 합니다.",
+      "explanation": "뒤에 있는 물건과 충돌하지 않으려면 완전히 정지한 상태에서 출발할 때 차량이 뒤로 굴러가지 않도록 하십시오."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11146",
+      "question": "액체 화물을 운송하는 탱크 차량 운영:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "정상 업무 시간 동안에는 허용되지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "고체 화물을 운송하는 탱크 차량 운영보다 더 어렵습니다."
+        },
+        {
+          "letter": "C",
+          "text": "불법입니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "고체 화물을 운송하는 탱크 차량 운영보다 더 어렵습니다.",
+      "explanation": "액체 화물로 채워진 탱크 차량을 운전하는 것은 탱크가 높은 무게중심을 가지고 있고 액체 화물이 급증에 취약하기 때문에 어렵습니다. 운송 중 액체 화물의 움직임은 차량을 불안정하게 만들 수 있습니다."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9966",
+      "question": "고속도로 속도로 운전할 때 차량 앞의 도로를 약 ____만큼 앞서 봐야 합니다.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "한 블록"
+        },
+        {
+          "letter": "B",
+          "text": "100야드"
+        },
+        {
+          "letter": "C",
+          "text": "사분의 일 마일"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "사분의 일 마일",
+      "explanation": "차량 앞의 도로를 최소 12~15초 앞서 지속적으로 관찰하여 다가오는 장애물과 위험을 인식하십시오. 고속도로 속도로 이동할 때 이는 약 1쿼터 마일에 해당합니다."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11829",
+      "question": "트레일러 손 밸브를 운전 중에 사용하면 안 되는 이유:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량에서 분리됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "차량을 너무 빨리 정지시킵니다."
+        },
+        {
+          "letter": "C",
+          "text": "미끄러짐을 유발할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "미끄러짐을 유발할 수 있습니다.",
+      "explanation": "차량을 운전하는 동안 트레일러 손 밸브를 절대 사용하지 마십시오. 운전 중 트레일러 손 밸브를 사용하면 트레일러가 미끄러질 수 있습니다."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11261",
+      "question": "일부 차량에서 자동 변속기 유체 수준을 확인하려면 다음을 해야 합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량을 언덕 위쪽에 주차하십시오."
+        },
+        {
+          "letter": "B",
+          "text": "차량을 언덕 아래쪽에 주차하십시오."
+        },
+        {
+          "letter": "C",
+          "text": "차량을 계속 실행하십시오."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "차량을 계속 실행하십시오.",
+      "explanation": "일부 차량에서는 자동 변속기 유체 수준을 확인할 때 엔진을 계속 실행해야 할 수 있습니다."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11262",
+      "question": "유독한 가스는 다음으로 인해 캡에 들어올 수 있습니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "결함이 있는 배기 시스템."
+        },
+        {
+          "letter": "B",
+          "text": "잘못된 유형의 연료를 사용합니다."
+        },
+        {
+          "letter": "C",
+          "text": "엔진의 오일 부족."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "결함이 있는 배기 시스템.",
+      "explanation": "결함이 있는 배기 시스템은 심각한 안전 위험입니다. 유독한 가스가 차량의 캡이나 슬리퍼 베스로 들어올 수 있습니다."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11832",
+      "question": "공기 공급 제어 장치가 \"긴급\" 위치에 있다면:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "차량의 속도가 증가합니다."
+        },
+        {
+          "letter": "B",
+          "text": "트레일러 긴급 브레이크가 작동됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "트레일러로의 공기 공급이 증가합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "트레일러 긴급 브레이크가 작동됩니다.",
+      "explanation": "오래된 차량의 트랙터 보호 제어 장치는 노브 대신 레버로 작동될 수 있습니다. 공기 공급 제어 장치가 \"긴급\" 위치로 설정되어 있으면 공기 공급이 중단되고 트레일러 긴급 브레이크가 작동됩니다."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "8654",
+      "question": "차량이 운영될 때 통풍구:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "덮여 있어야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "깨끗해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "부분적으로 열려 있어야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "깨끗해야 합니다.",
+      "explanation": "탱크를 운전하기 전에 통풍구와 맨홀 커버에 개스킷이 있는지, 올바르게 닫히는지 확인하세요. 통풍구는 제대로 작동하도록 깨끗하게 유지해야 합니다."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8578",
+      "question": "제동 시스템이 유압을 만들 수 없으면 어떻게 해야 합니까?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "업시프트합니다."
+        },
+        {
+          "letter": "B",
+          "text": "다운시프트합니다."
+        },
+        {
+          "letter": "C",
+          "text": "브레이크 페달을 최대한 아래로 누르고 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "다운시프트합니다.",
+      "explanation": "유압 제동 시스템이 차량을 감속하거나 정지시키는 데 필요한 압력을 만들 수 없으면 몇 가지 가능한 해결책이 있습니다. 더 낮은 기어로 변속하고, 브레이크를 펌핑하고, 및/또는 비상 브레이크를 사용해 보세요."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11355",
+      "question": "손상된 서스펜션 부품:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "즉시 수리해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "수리해야 하지만 즉시는 아닙니다."
+        },
+        {
+          "letter": "C",
+          "text": "식별할 수 없습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "즉시 수리해야 합니다.",
+      "explanation": "서스펜션 시스템은 차량과 그 적재물을 지탱하면서 차축을 제 위치에 유지하는 중요한 기능을 수행합니다. 따라서 서스펜션의 결함은 매우 위험합니다."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11265",
+      "question": "엔진 실실의 벨트는:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "헤어진 상태여야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "과도한 마모가 없어야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "기름때가 묻어 있어야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "과도한 마모가 없어야 합니다.",
+      "explanation": "차량의 엔진을 점검할 때, 벨트의 팽팽함과 과도한 마모를 확인하세요. 주어진 엔진의 각 벨트에 대해 안전한 '유격'의 양은 다를 수 있으므로 당신의 차량에 적절한 것이 무엇인지 알아보세요."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11264",
+      "question": "엔진을 시작할 때:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "제동이 잠깁니다."
+        },
+        {
+          "letter": "B",
+          "text": "경고등이 켜졌다가 빠르게 꺼져야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "냉각수 온도가 떨어져야 합니다."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "경고등이 켜졌다가 빠르게 꺼져야 합니다.",
+      "explanation": "차량이 시작된 후 경고등과 부저는 몇 초 후에 꺼져야 합니다. 경고 신호가 꺼지지 않으면 차량에 문제가 있을 수 있습니다."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11179",
+      "question": "운전할 때, 다음이 중요합니다:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "혼잡한 교통에서 미러 사용을 피하세요."
+        },
+        {
+          "letter": "B",
+          "text": "차량의 앞과 오른쪽만 보세요."
+        },
+        {
+          "letter": "C",
+          "text": "차량의 앞, 옆 및 뒤를 봅니다."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "차량의 앞, 옆 및 뒤를 봅니다.",
+      "explanation": "항상 차량의 모든 면에서 어떤 일이 일어나고 있는지 알아차리는 것이 필수적입니다. 운전 중 도로 앞을 살피고 차량의 양쪽 거울을 정기적으로 확인하세요."
+    }
+  ]
+}

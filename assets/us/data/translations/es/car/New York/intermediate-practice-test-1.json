@@ -1,0 +1,501 @@
+{
+  "state": "New York",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #1",
+  "slug": "intermediate-practice-test-1",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1672",
+      "question": "Los semáforos de tráfico a veces muestran flechas para controlar giros desde carriles específicos. Una flecha verde:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se utiliza solo en calles de sentido único."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene el mismo significado que una luz de tráfico circular verde, pero el tráfico debe girar en la dirección indicada por la flecha."
+        },
+        {
+          "letter": "C",
+          "text": "Significa que puede proceder, pero solo si la flecha verde está acompañada por una luz circular verde."
+        },
+        {
+          "letter": "D",
+          "text": "Señala el camino a un aeropuerto."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Tiene el mismo significado que una luz de tráfico circular verde, pero el tráfico debe girar en la dirección indicada por la flecha.",
+      "explanation": "Una flecha verde tiene el mismo significado que una luz de tráfico circular verde, pero el tráfico en el carril indicado debe girar en la dirección mostrada por la flecha."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "605",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/virginia-curve_ahead_right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construcción de carretera adelante."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera se curva hacia la izquierda, luego hacia la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera se curva hacia la derecha, luego hacia la izquierda."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente pronunciada adelante."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La carretera se curva hacia la derecha, luego hacia la izquierda.",
+      "explanation": "Esta señal indica que la carretera se curva hacia la derecha y luego hacia la izquierda. Debe reducir la velocidad para poder negociar estas curvas con seguridad."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1218",
+      "question": "Cuando conduce de noche, debería:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre use sus luces altas."
+        },
+        {
+          "letter": "B",
+          "text": "Mire directamente a los faros de un vehículo que se aproxima."
+        },
+        {
+          "letter": "C",
+          "text": "Aumente la distancia de seguimiento."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Aumente la distancia de seguimiento.",
+      "explanation": "Aumente la distancia de seguimiento cuando es difícil ver debido a la oscuridad. Use faros para aumentar la visibilidad, siguiendo las reglas para el uso adecuado de las luces altas y bajas. Evite mirar directamente a los faros de un vehículo que se aproxima para evitar ser cegado por el deslumbramiento."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1810",
+      "question": "Puedes adelantar a un vehículo cuando:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estás en una colina o curva."
+        },
+        {
+          "letter": "B",
+          "text": "Estás en una carretera con una línea sólida junto a tu carril."
+        },
+        {
+          "letter": "C",
+          "text": "Estás en una carretera con una línea discontinua junto a tu carril."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Estás en una carretera con una línea discontinua junto a tu carril.",
+      "explanation": "Una línea punteada simple indica que los conductores pueden cruzar desde cualquier carril para cambiar de carril. Las líneas amarillas punteadas junto a líneas amarillas sólidas indican que el adelantamiento está permitido desde el carril junto a la línea punteada, pero no desde el carril junto a la línea sólida. Solo cambia de carril cuando sea seguro hacerlo."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "478",
+      "question": "Esta señal significa:",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continúa a tu velocidad actual."
+        },
+        {
+          "letter": "B",
+          "text": "Debes detenerte adelante."
+        },
+        {
+          "letter": "C",
+          "text": "No se permite exceso de velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "Hay una señal de tráfico más adelante."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Hay una señal de tráfico más adelante.",
+      "explanation": "Esta señal indica que hay una señal de tráfico adelante."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "3181",
+      "question": "Si ve una línea de borde que se inclina hacia adentro en una carretera, significa:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El límite de velocidad está disminuyendo."
+        },
+        {
+          "letter": "B",
+          "text": "La carretera se está estrechando."
+        },
+        {
+          "letter": "C",
+          "text": "La carretera se está haciendo más ancha."
+        },
+        {
+          "letter": "D",
+          "text": "El límite de velocidad está aumentando."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "La carretera se está estrechando.",
+      "explanation": "Si ve una línea de borde que se inclina hacia adentro en una carretera, significa que la carretera por delante se está estrechando. Asegúrese de cambiar de carril de manera segura."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "350",
+      "question": "Para prepararse para cualquier cosa que salga a la carretera, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escanee continuamente toda la carretera y todos los costados del camino."
+        },
+        {
+          "letter": "B",
+          "text": "Fije la vista hacia adelante en todo momento."
+        },
+        {
+          "letter": "C",
+          "text": "Conduzca con su pie izquierdo descansando ligeramente en el pedal de freno."
+        },
+        {
+          "letter": "D",
+          "text": "Mantenga el enfoque hacia el medio de la carretera."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Escanee continuamente toda la carretera y todos los costados del camino.",
+      "explanation": "Su capacidad para manejar situaciones de tráfico peligrosas depende en gran medida de buscar e identificar problemas antes de encontrarlos. Mirar hacia adelante de su vehículo no significa que simplemente deba fijar la vista en el centro del camino. Necesita escanear continuamente toda la carretera, incluidos los lados del camino."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "1873",
+      "question": "Las carreteras con marcas de doble línea amarilla sólida en el centro indican que adelantar es:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitido desde ambas direcciones."
+        },
+        {
+          "letter": "B",
+          "text": "Permitido solo desde tu dirección de viaje."
+        },
+        {
+          "letter": "C",
+          "text": "No permitido desde ninguna dirección."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "No permitido desde ninguna dirección.",
+      "explanation": "Una doble línea amarilla sólida en el centro de una carretera indica que el tráfico se mueve en direcciones opuestas y que no se permite adelantar desde ninguna dirección."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "434",
+      "question": "Nunca puede estacionar:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En una calle de un solo sentido."
+        },
+        {
+          "letter": "B",
+          "text": "En la entrada de un edificio."
+        },
+        {
+          "letter": "C",
+          "text": "En un paso de peatones."
+        },
+        {
+          "letter": "D",
+          "text": "Dentro de 50 pies de una boca de incendios."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "En un paso de peatones.",
+      "explanation": "Es ilegal estacionar, detenerse o permanecer dentro de un paso de peatones. Se prohíbe estacionar dentro de 15 pies de una boca de incendios."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "869",
+      "question": "El agua en la carretera puede causar que un vehículo se deslice. Tu coche puede deslizarse a velocidades tan bajas como:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 millas por hora."
+        },
+        {
+          "letter": "B",
+          "text": "35 millas por hora."
+        },
+        {
+          "letter": "C",
+          "text": "40 millas por hora."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "35 millas por hora.",
+      "explanation": "El deslizamiento acuático ocurre cuando hay agua estancada en una carretera. A velocidades de hasta 35 mph, la mayoría de los neumáticos canalizarán el agua lejos del neumático. A medida que aumenta tu velocidad más allá de 35 mph, los neumáticos no pueden canalizar el agua tan bien y tus neumáticos pueden comenzar a perder contacto con la carretera y deslizarse sobre el agua como un par de esquís acuáticos."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "78",
+      "question": "Si planea pasar a otro vehículo, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No asumir que el otro conductor hará espacio para que regrese a su carril."
+        },
+        {
+          "letter": "B",
+          "text": "Asumir que el otro conductor le permitirá pasar si usa su señal de giro."
+        },
+        {
+          "letter": "C",
+          "text": "Asumir que el otro conductor mantendrá una velocidad constante."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "No asumir que el otro conductor hará espacio para que regrese a su carril.",
+      "explanation": "Incluso cuando señaliza, no debe asumir que el espacio que desea ocupar está libre o que otros conductores le cederán el derecho de paso."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "867",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intersección adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente pronunciada adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Camino sinuoso."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Pendiente pronunciada adelante.",
+      "explanation": "Los carteles de advertencia generalmente son amarillos con marcas negras. Este cartel indica que hay una pendiente pronunciada adelante. Reduzca la velocidad y esté listo para cambiar a una marcha más baja para controlar su velocidad y proteger sus frenos del daño."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1537",
+      "question": "Puede cruzar una línea blanca discontinua:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En cualquier momento."
+        },
+        {
+          "letter": "B",
+          "text": "Solo durante las horas de luz del día."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando es seguro cambiar de carril."
+        },
+        {
+          "letter": "D",
+          "text": "Solo cuando adelanta a una motocicleta."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Cuando es seguro cambiar de carril.",
+      "explanation": "Los carriles de tráfico que se mueven en la misma dirección se separan por líneas blancas discontinuas. Puede cruzar líneas discontinuas para adelantar, si es seguro hacerlo."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1830",
+      "question": "En un semáforo en rojo con una flecha verde, puede proceder en la dirección de la flecha si:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primero llega a una parada completa."
+        },
+        {
+          "letter": "B",
+          "text": "Espera hasta que el semáforo cambie."
+        },
+        {
+          "letter": "C",
+          "text": "Está en el carril correcto y la carretera está despejada."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Está en el carril correcto y la carretera está despejada.",
+      "explanation": "Si está en un carril correspondiente a una señal que muestra una flecha verde, puede proceder en la dirección de la flecha cuando el camino esté despejado. Esto es cierto tanto si la flecha se muestra sola como si se muestra junto con otra señal."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "589",
+      "question": "Este letrero de carretera significa:",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin giro a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "Sin giros en U."
+        },
+        {
+          "letter": "C",
+          "text": "Sin salida."
+        },
+        {
+          "letter": "D",
+          "text": "Sin giro a la derecha."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Sin giro a la derecha.",
+      "explanation": "Esta señal indica que los giros a la derecha están prohibidos."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "1480",
+      "question": "Una señal de alto tiene forma de:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rectángulo."
+        },
+        {
+          "letter": "B",
+          "text": "Cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "Círculo."
+        },
+        {
+          "letter": "D",
+          "text": "Octágono."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Octágono.",
+      "explanation": "Una forma octagonal se usa solo para señales de alto. Todos los signos de ocho lados indican a los conductores que se detengan completamente antes de proceder."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "459",
+      "question": "¿Cuál de los siguientes influye en los efectos del alcohol?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de comida en el estómago"
+        },
+        {
+          "letter": "B",
+          "text": "El peso corporal de un individuo"
+        },
+        {
+          "letter": "C",
+          "text": "Cuánto tiempo pasa entre bebidas"
+        },
+        {
+          "letter": "D",
+          "text": "Las tres opciones"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Las tres opciones",
+      "explanation": "Su contenido de alcohol en la sangre (BAC) depende de cuánto alcohol beba, cuánto tiempo transcurra entre bebidas y su peso. Comer antes o mientras bebe ayuda a ralentizar la absorción de alcohol en cierta medida, pero no puede prevenir la intoxicación o el deterioro si bebe demasiado."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "2078",
+      "question": "Al anochecer o en días nublados, debe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conducir usando sus luces intermitentes de cuatro vías."
+        },
+        {
+          "letter": "B",
+          "text": "Conducir usando las luces de estacionamiento."
+        },
+        {
+          "letter": "C",
+          "text": "No encienda ninguna luz del vehículo."
+        },
+        {
+          "letter": "D",
+          "text": "Encender los faros."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Encender los faros.",
+      "explanation": "Al anochecer o en días nublados, debe encender los faros de su vehículo. Atenúe sus luces a la configuración de luz baja cuando esté dentro de 1,000 pies de un vehículo que se aproxima y cuando esté dentro de 500 pies de un vehículo que está siguiendo. Cuando conduzca en clima pobre, siempre use las luces bajas."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1917",
+      "question": "Cuando líneas amarillas dobles separan carriles de tráfico:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adelantar está permitido desde la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "Adelantar está permitido desde la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Adelantar no está permitido desde ninguna dirección."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Adelantar no está permitido desde ninguna dirección.",
+      "explanation": "Las líneas amarillas que separan carriles de tráfico indican que el tráfico se mueve en direcciones opuestas. Las líneas dobles sólidas indican que adelantar no está permitido desde ninguna dirección."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "442",
+      "question": "Una de las estrategias de conducción defensiva es:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mirar hacia adelante mientras conduce."
+        },
+        {
+          "letter": "B",
+          "text": "Mantenerse alerta y mantener los ojos en movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar que otros conductores compensen sus errores."
+        },
+        {
+          "letter": "D",
+          "text": "Estar seguro de que puede evitar el peligro en el último momento."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mantenerse alerta y mantener los ojos en movimiento.",
+      "explanation": "Debido a que las condiciones del tráfico siempre están cambiando, debe escanear constantemente la carretera por delante. Mantenga sus ojos en movimiento, observe lo que sucede en los lados de la carretera y verifique detrás de usted cada pocos segundos usando sus espejos."
+    }
+  ]
+}

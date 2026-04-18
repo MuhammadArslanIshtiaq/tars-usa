@@ -1,0 +1,1036 @@
+{
+  "warning-quiz": [
+    {
+      "id": 1,
+      "image_path": "images/warning-signs/no-passing-zone.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Slow vehicle turnout ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Keep right except to pass",
+          "is_correct": false
+        },
+        {
+          "text": "No passing zone — do not pass other vehicles",
+          "is_correct": true
+        },
+        {
+          "text": "End of no passing zone",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 2,
+      "image_path": "images/warning-signs/right-curve-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Right turn only at intersection",
+          "is_correct": false
+        },
+        {
+          "text": "Right lane exit ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Right curve ahead — road curves to the right",
+          "is_correct": true
+        },
+        {
+          "text": "Bear right at the fork",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 3,
+      "image_path": "images/warning-signs/circular-intersection-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Dead end with turnaround area",
+          "is_correct": false
+        },
+        {
+          "text": "Circular intersection (roundabout) ahead",
+          "is_correct": true
+        },
+        {
+          "text": "U-turn permitted ahead",
+          "is_correct": false
+        },
+        {
+          "text": "One-way traffic circle — go left only",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 4,
+      "image_path": "images/warning-signs/snow-mobile-crossing.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Snowmobile crossing ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Snow removal equipment ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Winter road conditions — chains required",
+          "is_correct": false
+        },
+        {
+          "text": "Ski area ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 5,
+      "image_path": "images/warning-signs/very-sharp-curve-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Road ends ahead — turn around",
+          "is_correct": false
+        },
+        {
+          "text": "Hairpin switchback for next 2 miles",
+          "is_correct": false
+        },
+        {
+          "text": "Very sharp curve ahead — significantly reduce speed",
+          "is_correct": true
+        },
+        {
+          "text": "Mountain pass curve with scenic view",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 6,
+      "image_path": "images/warning-signs/left-reverse-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Left reverse turn ahead — sharp left then sharp right curve",
+          "is_correct": true
+        },
+        {
+          "text": "Left U-turn only ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Double left turn lanes ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Winding road ahead for several miles",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 7,
+      "image_path": "images/warning-signs/entering-roadway-added-lane.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Merge into traffic immediately",
+          "is_correct": false
+        },
+        {
+          "text": "Right lane ends — merge left",
+          "is_correct": false
+        },
+        {
+          "text": "Acceleration lane — speed up to merge",
+          "is_correct": false
+        },
+        {
+          "text": "Entering roadway with an added lane — you have your own lane",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 8,
+      "image_path": "images/warning-signs/intersection-within-curve-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Intersection within a curve ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Sharp curve then straight road ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Curved on-ramp to highway",
+          "is_correct": false
+        },
+        {
+          "text": "Side road after the curve",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 9,
+      "image_path": "images/warning-signs/added-lane-from-left.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Left lane ends — merge right",
+          "is_correct": false
+        },
+        {
+          "text": "Merge from left lane into traffic",
+          "is_correct": false
+        },
+        {
+          "text": "Highway on-ramp from the left ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Traffic entering from the left has its own lane — no merge needed",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 10,
+      "image_path": "images/warning-signs/cross-road-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Four-way stop ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Crossroad ahead — another road crosses your road",
+          "is_correct": true
+        },
+        {
+          "text": "Highway interchange ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Railroad crossing ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 11,
+      "image_path": "images/warning-signs/advisory-speed-on-exit-ramp.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Speed limit changes on the ramp",
+          "is_correct": false
+        },
+        {
+          "text": "Advisory speed for the exit ramp ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Minimum speed on the exit ramp",
+          "is_correct": false
+        },
+        {
+          "text": "Speed limit for trucks on the ramp",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 12,
+      "image_path": "images/warning-signs/yield-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Stop sign ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Yield sign ahead — be prepared to yield",
+          "is_correct": true
+        },
+        {
+          "text": "Merge ahead — yield to traffic",
+          "is_correct": false
+        },
+        {
+          "text": "Crosswalk ahead — yield to pedestrians",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 13,
+      "image_path": "images/warning-signs/side-road-at-angle-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Sharp curve ahead to the right",
+          "is_correct": false
+        },
+        {
+          "text": "Side road enters at an angle ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Fork in the road ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Y-intersection ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 14,
+      "image_path": "images/warning-signs/side-road-left.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Left turn lane ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Side road entering from the left ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Road branches to the left",
+          "is_correct": false
+        },
+        {
+          "text": "Divided highway begins — keep right",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 15,
+      "image_path": "images/warning-signs/stop-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Traffic signal ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Stop sign ahead — be prepared to stop",
+          "is_correct": true
+        },
+        {
+          "text": "Yield sign ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Road closed ahead — must stop",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 16,
+      "image_path": "images/warning-signs/hairpin-curve-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Road ends at a dead end ahead",
+          "is_correct": false
+        },
+        {
+          "text": "U-turn area ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Hairpin curve ahead — extremely sharp turn",
+          "is_correct": true
+        },
+        {
+          "text": "Series of gentle curves ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 17,
+      "image_path": "images/warning-signs/sharp-curve-to-right.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Sharp right curve ahead — reduce speed",
+          "is_correct": true
+        },
+        {
+          "text": "Right turn recommended ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Road bends slightly to the right",
+          "is_correct": false
+        },
+        {
+          "text": "Exit ramp curve ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 18,
+      "image_path": "images/warning-signs/hill.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Uneven road surface ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Speed bump ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Mountain pass elevation sign",
+          "is_correct": false
+        },
+        {
+          "text": "Steep hill ahead — be cautious of the grade",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 19,
+      "image_path": "images/warning-signs/side-road-at-angle-right.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Right lane exits ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Merge from right ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Side road enters from the right at an angle",
+          "is_correct": true
+        },
+        {
+          "text": "Right curve followed by side road",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 20,
+      "image_path": "images/warning-signs/slippery-when-wet.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Ice on bridge ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Flood zone ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Slippery road ahead when wet",
+          "is_correct": true
+        },
+        {
+          "text": "Gravel road ahead — loose surface",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 21,
+      "image_path": "images/warning-signs/winding-road-left-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Left curve ahead only",
+          "is_correct": false
+        },
+        {
+          "text": "Winding road ahead starting with a left curve",
+          "is_correct": true
+        },
+        {
+          "text": "Slippery curves ahead when wet",
+          "is_correct": false
+        },
+        {
+          "text": "Scenic winding route — next 5 miles",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 22,
+      "image_path": "images/warning-signs/divided-highway-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Highway merges ahead",
+          "is_correct": false
+        },
+        {
+          "text": "End of divided highway",
+          "is_correct": false
+        },
+        {
+          "text": "Divided highway ahead — road will split with a median",
+          "is_correct": true
+        },
+        {
+          "text": "Two-way traffic begins ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 23,
+      "image_path": "images/warning-signs/deer-crossing.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Deer crossing — watch for deer on or near the road",
+          "is_correct": true
+        },
+        {
+          "text": "Wildlife refuge — no hunting zone",
+          "is_correct": false
+        },
+        {
+          "text": "Animal control zone ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Scenic wildlife viewing area",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 24,
+      "image_path": "images/warning-signs/signal-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Traffic signal ahead — be prepared to stop",
+          "is_correct": true
+        },
+        {
+          "text": "Intersection without signals ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Signal is broken — treat as stop sign",
+          "is_correct": false
+        },
+        {
+          "text": "New traffic signal installed ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 25,
+      "image_path": "images/warning-signs/advisory-turn-speed.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Mandatory speed through the turn",
+          "is_correct": false
+        },
+        {
+          "text": "Speed reduction required by law",
+          "is_correct": false
+        },
+        {
+          "text": "Advisory turn speed — recommended speed for the curve ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Turn lane speed limit ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 26,
+      "image_path": "images/warning-signs/t-intersection.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "T-intersection ahead — prepare to turn",
+          "is_correct": true
+        },
+        {
+          "text": "Road ends — turn around",
+          "is_correct": false
+        },
+        {
+          "text": "One-way street intersection",
+          "is_correct": false
+        },
+        {
+          "text": "Highway exit ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 27,
+      "image_path": "images/warning-signs/sharp-curve-right.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Gentle curve to the right",
+          "is_correct": false
+        },
+        {
+          "text": "Sharp curve to the right ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Right turn only ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Right lane exit ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 28,
+      "image_path": "images/warning-signs/left-turn-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Left turn only ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Left lane exit ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Left curve ahead — road curves to the left",
+          "is_correct": true
+        },
+        {
+          "text": "Merge left ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 29,
+      "image_path": "images/warning-signs/traffic-laws-enforced-by-cam.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Traffic laws enforced by camera in this area",
+          "is_correct": true
+        },
+        {
+          "text": "Surveillance cameras for security purposes",
+          "is_correct": false
+        },
+        {
+          "text": "Speed measured by radar ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Photo toll collection ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 30,
+      "image_path": "images/warning-signs/lane-reduction-right-lane-ends.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Left lane ends — merge right",
+          "is_correct": false
+        },
+        {
+          "text": "New lane added on the right",
+          "is_correct": false
+        },
+        {
+          "text": "Right lane for right turns only",
+          "is_correct": false
+        },
+        {
+          "text": "Right lane ends ahead — merge left",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 31,
+      "image_path": "images/warning-signs/advisory-speed.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Speed limit for this road segment",
+          "is_correct": false
+        },
+        {
+          "text": "Minimum speed required ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Advisory speed — recommended safe speed for the road condition ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Speed zone ends at next intersection",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 32,
+      "image_path": "images/warning-signs/fire-station.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "No parking — fire lane",
+          "is_correct": false
+        },
+        {
+          "text": "Fire station ahead — watch for emergency vehicles",
+          "is_correct": true
+        },
+        {
+          "text": "Fire hydrant zone — no stopping",
+          "is_correct": false
+        },
+        {
+          "text": "Emergency evacuation route",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 33,
+      "image_path": "images/warning-signs/entering-roadway-merge-right.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "New lane added — no merge needed",
+          "is_correct": false
+        },
+        {
+          "text": "Entering roadway — merge right into traffic",
+          "is_correct": true
+        },
+        {
+          "text": "Right lane for exiting only",
+          "is_correct": false
+        },
+        {
+          "text": "Weave area — traffic merging from both sides",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 34,
+      "image_path": "images/warning-signs/y-intersection-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Divided highway begins ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Merge area ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Two-way traffic ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Y-intersection ahead — road splits into two directions",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 35,
+      "image_path": "images/warning-signs/two-way-traffic.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Two-way traffic ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Divided highway ahead",
+          "is_correct": false
+        },
+        {
+          "text": "One-way street ends",
+          "is_correct": false
+        },
+        {
+          "text": "Merge into single lane ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 36,
+      "image_path": "images/warning-signs/t-intersection-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Dead end — no outlet",
+          "is_correct": false
+        },
+        {
+          "text": "Cross road ahead",
+          "is_correct": false
+        },
+        {
+          "text": "T-intersection ahead — road ends, you must turn left or right",
+          "is_correct": true
+        },
+        {
+          "text": "Divided highway ends ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 37,
+      "image_path": "images/warning-signs/merging-traffic-from-right-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Right lane ends — merge left",
+          "is_correct": false
+        },
+        {
+          "text": "Right turn only lane ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Highway on-ramp from the right",
+          "is_correct": false
+        },
+        {
+          "text": "Merging traffic from the right ahead",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 38,
+      "image_path": "images/warning-signs/emergency-signal-ahead.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Traffic light ahead — prepare to stop",
+          "is_correct": false
+        },
+        {
+          "text": "Hospital zone — reduce speed",
+          "is_correct": false
+        },
+        {
+          "text": "Emergency vehicle station on the right",
+          "is_correct": false
+        },
+        {
+          "text": "Emergency signal ahead — be prepared to stop",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 39,
+      "image_path": "images/warning-signs/truck-rollover-warning-sharp-curve.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Trucks must exit at this ramp",
+          "is_correct": false
+        },
+        {
+          "text": "Truck runaway ramp ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Steep downgrade — trucks use low gear",
+          "is_correct": false
+        },
+        {
+          "text": "Truck rollover warning — sharp curve ahead, reduce speed",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 40,
+      "image_path": "images/warning-signs/road-narrows.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Bridge ahead with weight limit",
+          "is_correct": false
+        },
+        {
+          "text": "One lane road ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Road narrows ahead",
+          "is_correct": true
+        },
+        {
+          "text": "Lane ends — merge now",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 41,
+      "image_path": "images/warning-signs/truck-crossing.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Truck weigh station ahead",
+          "is_correct": false
+        },
+        {
+          "text": "No trucks allowed on this road",
+          "is_correct": false
+        },
+        {
+          "text": "Truck parking area ahead",
+          "is_correct": false
+        },
+        {
+          "text": "Truck crossing ahead — watch for trucks entering the road",
+          "is_correct": true
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 42,
+      "image_path": "images/warning-signs/cattle-crossing.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Farm area — no honking",
+          "is_correct": false
+        },
+        {
+          "text": "Cattle crossing ahead — watch for cattle on the road",
+          "is_correct": true
+        },
+        {
+          "text": "Ranch entrance ahead on the right",
+          "is_correct": false
+        },
+        {
+          "text": "Animal shelter ahead",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    },
+    {
+      "id": 43,
+      "image_path": "images/warning-signs/farm-machinery-crossing.png",
+      "question_en": "What does this sign mean?",
+      "options_en": [
+        {
+          "text": "Tractor dealership ahead",
+          "is_correct": false
+        },
+        {
+          "text": "No farm vehicles allowed on this road",
+          "is_correct": false
+        },
+        {
+          "text": "Farm machinery crossing — watch for slow farm vehicles",
+          "is_correct": true
+        },
+        {
+          "text": "Agricultural zone — speed limit reduced",
+          "is_correct": false
+        }
+      ],
+      "secondary_languages": {}
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "state": "Washington",
+  "category": "cdl",
+  "testName": "Combination Test #2 20 Questions • Passing Score 16",
+  "testSlug": "combination-2",
+  "url": "/images/washington/cdl/combination-2.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11528",
+      "question": "在行程前，您可以通过以下方式确保空气流向所有拖车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查每个拖车内的移动空气。"
+        },
+        {
+          "letter": "B",
+          "text": "在后关闭阀处听空气。"
+        },
+        {
+          "letter": "C",
+          "text": "在前关闭阀处感觉空气。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "在后关闭阀处听空气。",
+      "explanation": "在行程前，确保空气制动系统中的空气到达所有拖车。通过等待空气压力建立，然后将空气发送到应急和服务线，并打开最后一个拖车后部的关闭阀来完成此操作。如果空气从联合车后部的关闭阀逸出，则空气被供应到整个车辆。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "9607",
+      "question": "什么是无挂车拖拉机？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "没有拖车的拖拉机"
+        },
+        {
+          "letter": "B",
+          "text": "连接两个拖车的拖拉机"
+        },
+        {
+          "letter": "C",
+          "text": "带有油箱的拖拉机"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "没有拖车的拖拉机",
+      "explanation": "没有半挂车的拖拉机被称为平头拖拉机。操作平头拖拉机需要驾驶员谨慎行驶。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9948",
+      "question": "较旧的拖车没有配备弹簧制动器。这意味着如果车辆气制动系统的供气泄漏：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "拖车将正常停止。"
+        },
+        {
+          "letter": "B",
+          "text": "拖车将没有制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "拖车将加速。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "拖车将没有制动器。",
+      "explanation": "较旧的拖车没有弹簧制动器。这意味着如果较旧拖车的气罐中的供气已泄漏，则拖车上将没有工作制动器，其车轮将自由转动。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "9949",
+      "question": "使用ABS制动时，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "比平常更用力踩制动踏板。"
+        },
+        {
+          "letter": "B",
+          "text": "像平常一样踩制动踏板。"
+        },
+        {
+          "letter": "C",
+          "text": "比平常更轻轻地踩制动踏板。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "像平常一样踩制动踏板。",
+      "explanation": "使用防抱死制动系统（ABS）操作车辆时，您应该以与操作不带ABS的车辆相同的方式应用制动器。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11529",
+      "question": "驾驶员应该通过以下方式测试拖拉机保护阀：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "拉动黄色的菱形旋钮。"
+        },
+        {
+          "letter": "B",
+          "text": "用制动踏板释放空气。"
+        },
+        {
+          "letter": "C",
+          "text": "解锁拖车门。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "用制动踏板释放空气。",
+      "explanation": "你应该通过让空气供应正确充电、关闭发动机，然后通过多次踩制动踏板从系统中释放空气来测试拖拉机保护阀。当psi下降到不安全的水平时，拖拉机保护阀应进入其紧急位置。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11832",
+      "question": "如果气源控制杆处于其\"应急\"位置：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "车辆将加速。"
+        },
+        {
+          "letter": "B",
+          "text": "拖车应急制动器将被启动。"
+        },
+        {
+          "letter": "C",
+          "text": "到拖车的空气供应将增加。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "拖车应急制动器将被启动。",
+      "explanation": "旧车辆中的牵引车保护控制装置可能由杆杆而不是旋钮操作。如果气源控制杆设置在其\"应急\"位置，气源供应将停止，挂车应急制动器将被施加。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "11839",
+      "question": "完成行前检查后，您应该确保：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "服务线路阀关闭。"
+        },
+        {
+          "letter": "B",
+          "text": "拖车手刹已应用。"
+        },
+        {
+          "letter": "C",
+          "text": "紧急线路阀打开。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "服务线路阀关闭。",
+      "explanation": "在旅行前，你应该打开后部应急管线和服务管线关闭阀门，倾听逃逸的空气声，确保空气到达所有拖车上的所有空气制动装置。开始驾驶前关闭两个关闭阀门。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11853",
+      "question": "如果你按下牵引车空气供应控制装置，而你的挂车的弹簧制动器没有释放，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查空气管连接。"
+        },
+        {
+          "letter": "B",
+          "text": "激活防抱死制动系统。"
+        },
+        {
+          "letter": "C",
+          "text": "关闭并重新启动发动机。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "检查空气管连接。",
+      "explanation": "在开始旅程之前，确保车辆的所有设备都处于正常工作状态是很重要的。如果在你按下牵引车空气供应控制装置时挂车的弹簧制动器没有释放，你应该确保空气管连接正确连接和密封。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "9610",
+      "question": "在驾驶配备防抱死制动系统（ABS）的车辆时，应该以____方式应用制动器。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "方式与在没有ABS的车辆中相同。"
+        },
+        {
+          "letter": "B",
+          "text": "当车辆置于空档时。"
+        },
+        {
+          "letter": "C",
+          "text": "使用手制动。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "方式与在没有ABS的车辆中相同。",
+      "explanation": "驾驶配备ABS的车辆时，你应该以与驾驶没有ABS的车辆相同的方式制动。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "11825",
+      "question": "将货物保持在车辆上的中央可以：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "帮助您更快地驾驶。"
+        },
+        {
+          "letter": "B",
+          "text": "防止翻车。"
+        },
+        {
+          "letter": "C",
+          "text": "使转向变得更危险。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "防止翻车。",
+      "explanation": "如果货物在牵引车上装载不均，侧翻的可能性更大。为了帮助防止危险侧翻，重要的是将货物尽可能保持在牵引车的中心。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "11826",
+      "question": "如果驾驶员转弯太快，____拖车最可能翻覆。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "前"
+        },
+        {
+          "letter": "B",
+          "text": "最后一辆"
+        },
+        {
+          "letter": "C",
+          "text": "中间"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "最后一辆",
+      "explanation": "转向时，确保温和平稳地转向。拖车时快速转向是危险的，会增加最后一辆拖车翻车的风险。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11830",
+      "question": "按入拖车供气控制将：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "为拖车供应空气。"
+        },
+        {
+          "letter": "B",
+          "text": "停用空气制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "防止车辆打滑。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "为拖车供应空气。",
+      "explanation": "推入拖车空气供应控制以为拖车供应空气。拉出拖车空气供应控制以关闭空气供应并启动紧急制动。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "11526",
+      "question": "第五轮上部和下部之间应该有多少空间？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "大约五英寸的空间"
+        },
+        {
+          "letter": "B",
+          "text": "最多两英寸的空间"
+        },
+        {
+          "letter": "C",
+          "text": "无间隙"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "无间隙",
+      "explanation": "在行程前，务必检查所有联接。上下第五轮之间不应有任何间隙。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "11854",
+      "question": "在倒车耦合拖车时，牵引车应该定位在：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "拖车的正前方。"
+        },
+        {
+          "letter": "B",
+          "text": "直接在拖车旁边。"
+        },
+        {
+          "letter": "C",
+          "text": "与拖车平行。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "拖车的正前方。",
+      "explanation": "倒车耦合拖车时，你应该将牵引车定位在拖车的正前方。尝试以角度倒车耦合可能导致拖车移动和着陆支架损坏。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "11522",
+      "question": "如果拖车开始折刀，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不应该使用拖车手制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "应该用力踩制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "可以用停车制动器拉直拖车。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "不应该使用拖车手制动器。",
+      "explanation": "如果拖车开始折刀，你应该释放制动器，使拖车车轮重新与道路接触。不要使用拖车手制动器来尝试将车组拉直，因为制动器的使用会导致车轮锁定。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "11845",
+      "question": "在空的联合车辆中，坚硬的悬架弹簧和强力制动器将具有：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "高牵引力。"
+        },
+        {
+          "letter": "B",
+          "text": "低牵引力。"
+        },
+        {
+          "letter": "C",
+          "text": "无牵引力。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "低牵引力。",
+      "explanation": "空的联合车辆比完全装载的车辆停止更慢。由于拖车中的重量较少，坚硬的悬架弹簧和强力制动器的牵引力将低于车辆承载更多重量时的牵引力。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11849",
+      "question": "当您牵引拖车时，空气供应控制杆应该处于其____位置。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "紧急"
+        },
+        {
+          "letter": "B",
+          "text": "供应"
+        },
+        {
+          "letter": "C",
+          "text": "正常"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "正常",
+      "explanation": "旧车辆中的牵引车保护控制装置可能由杆杆而不是旋钮操作。如果气源控制杆设置在其\"正常\"位置，则表示您已正确设置好拖动挂车。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8645",
+      "question": "什么是无挂车拖拉机？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "没有半挂车的拖拉机"
+        },
+        {
+          "letter": "B",
+          "text": "带有两个半挂车的拖拉机"
+        },
+        {
+          "letter": "C",
+          "text": "行驶速度超过限速的拖拉机"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "没有半挂车的拖拉机",
+      "explanation": "不带半挂车的牵引车称为\"无挂牵引车\"。无挂牵引车操作困难，驾驶员必须谨慎操作。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "9468",
+      "question": "所有在____之后制造的拖车必须配备防抱死制动系统(ABS)。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1943"
+        },
+        {
+          "letter": "B",
+          "text": "1998"
+        },
+        {
+          "letter": "C",
+          "text": "2009"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "1998",
+      "explanation": "所有在1998年3月1日或之后制造的拖车和转换拖斗必须配备防抱死制动系统(ABS)。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "11841",
+      "question": "在测试 ____ 时，你应该使用手动控制器踩下车辆制动器，同时缓慢前进。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "防抱死制动系统"
+        },
+        {
+          "letter": "B",
+          "text": "应急制动系统"
+        },
+        {
+          "letter": "C",
+          "text": "拖车行驶制动器"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "拖车行驶制动器",
+      "explanation": "要测试拖车行驶制动器，你应该首先确保制动系统的空气压力水平正常，然后释放驻车制动器。然后你应该缓慢向前移动车辆，并使用手动控制器踩下制动器。如果拖车行驶制动器工作正常，你会感到制动器启动。"
+    }
+  ]
+}

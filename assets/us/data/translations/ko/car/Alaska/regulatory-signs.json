@@ -1,0 +1,339 @@
+{
+  "state": "Alaska",
+  "category": "car",
+  "quizName": "Regulatory Signs",
+  "slug": "regulatory-signs",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/speed-limit.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "게시된 속도보다 빠르게 운전하면 안 됩니다."
+        },
+        {
+          "letter": "B",
+          "text": "항상 게시된 속도로 운전해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "게시된 속도는 단지 제안일 뿐입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "게시된 속도보다 빠르게 운전하면 안 됩니다.",
+      "explanation": "속도 제한 표지판은 그 도로에서 허용되는 최고 속도를 알려줍니다. 게시된 속도보다 빠르게 운전하면 안 되며, 악천후나 교통량이 많을 때는 더 천천히 운전해야 합니다."
+    },
+    {
+      "questionNumber": 2,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/do-not-enter.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "이 도로나 램프로 진입하지 마세요."
+        },
+        {
+          "letter": "B",
+          "text": "도로 공사가 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "정지하고 신호를 기다리세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "이 도로나 램프로 진입하지 마세요.",
+      "explanation": "이 빨강색과 흰색 표지판은 그 도로나 램프로 진입하면 안 된다는 뜻입니다. 이 표지판을 지나면 잘못된 방향으로 가게 됩니다."
+    },
+    {
+      "questionNumber": 3,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/one-way.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "이 도로의 교통은 한 방향으로만 흐릅니다."
+        },
+        {
+          "letter": "B",
+          "text": "표시된 방향으로 회전해야 합니다."
+        },
+        {
+          "letter": "C",
+          "text": "앞에는 한 차선만 열려 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "이 도로의 교통은 한 방향으로만 흐릅니다.",
+      "explanation": "일방통행 표지판은 그 도로의 모든 교통이 화살표가 가리키는 방향으로 흐른다는 뜻입니다. 교통 흐름에 반대 방향으로 운전하지 마세요."
+    },
+    {
+      "questionNumber": 4,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/no-u-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "여기서는 U턴이 허용되지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "우회전이 허용되지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "앞에 도로가 굽어 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "여기서는 U턴이 허용되지 않습니다.",
+      "explanation": "이 표지판은 이 위치에서 U턴을 할 수 없다는 뜻입니다. 방향을 바꿀 다른 방법을 찾아야 합니다."
+    },
+    {
+      "questionNumber": 5,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/no-left-turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "여기서는 좌회전이 허용되지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "왼쪽 차선이 앞에서 끝납니다."
+        },
+        {
+          "letter": "C",
+          "text": "갈림길에서 왼쪽으로 유지하세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "여기서는 좌회전이 허용되지 않습니다.",
+      "explanation": "이 표지판은 이 교차로나 위치에서 좌회전을 할 수 없다는 뜻입니다. 직진하거나 우회전해야 합니다."
+    },
+    {
+      "questionNumber": 6,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/no-left-turn-or-uturn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "여기서는 좌회전과 U턴이 허용되지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "여기서는 우회전이 허용되지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "모든 방향의 회전이 허용되지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "여기서는 좌회전과 U턴이 허용되지 않습니다.",
+      "explanation": "이 표지판은 이 위치에서 좌회전과 U턴이 모두 허용되지 않는다는 뜻입니다."
+    },
+    {
+      "questionNumber": 7,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/no-parking.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "여기서는 주차가 허용되지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "언제든지 정지가 허용되지 않습니다."
+        },
+        {
+          "letter": "C",
+          "text": "주차는 허가증 소유자만 허용됩니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "여기서는 주차가 허용되지 않습니다.",
+      "explanation": "이 표지판은 이 지역에 차량을 주차할 수 없다는 뜻입니다. 승객을 태우거나 내리기 위해 잠깐 정지할 수 있지만, 차량을 주차된 상태로 두면 안 됩니다."
+    },
+    {
+      "questionNumber": 8,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "이 차선에서 좌회전해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "왼쪽 차선이 폐쇄되었습니다."
+        },
+        {
+          "letter": "C",
+          "text": "좌회전이 허용되지 않습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "이 차선에서 좌회전해야 합니다.",
+      "explanation": "이 표지판은 당신이 있는 차선이 좌회전 전용이라는 뜻입니다. 교차로에 도달하면 좌회전해야 합니다."
+    },
+    {
+      "questionNumber": 9,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/straight-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "직진해야 합니다. 회전이 허용되지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "앞에 일방통행 교통이 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "도로가 오르막입니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "직진해야 합니다. 회전이 허용되지 않습니다.",
+      "explanation": "이 표지판은 교차로를 통해 직진해야 한다는 뜻입니다. 이 차선에서는 좌회전이나 우회전이 허용되지 않습니다."
+    },
+    {
+      "questionNumber": 10,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/straight-or-left-turn-only.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "이 차선에서 직진하거나 좌회전할 수 있습니다."
+        },
+        {
+          "letter": "B",
+          "text": "도로가 두 차선으로 나뉩니다."
+        },
+        {
+          "letter": "C",
+          "text": "앞에 좌회전 차선이 시작됩니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "이 차선에서 직진하거나 좌회전할 수 있습니다.",
+      "explanation": "이 표지판은 이 차선에서 직진하거나 좌회전할 수 있다는 뜻입니다. 우회전은 허용되지 않습니다."
+    },
+    {
+      "questionNumber": 11,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/red-yield-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "속도를 늦추고 다른 교통에 양보하세요."
+        },
+        {
+          "letter": "B",
+          "text": "완전히 정지하세요."
+        },
+        {
+          "letter": "C",
+          "text": "교통에 합류하기 위해 속도를 높이세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "속도를 늦추고 다른 교통에 양보하세요.",
+      "explanation": "양보 표지판은 속도를 늦추고 다른 차량이나 보행자에게 먼저 지나가도록 해야 한다는 뜻입니다. 필요하면 그들이 안전하게 지나가도록 정지하세요."
+    },
+    {
+      "questionNumber": 12,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/pedestrians-prohibited.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "보행자는 이 도로에서 허용되지 않습니다."
+        },
+        {
+          "letter": "B",
+          "text": "보행자 횡단보도가 앞에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "보행자를 주의하세요."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "보행자는 이 도로에서 허용되지 않습니다.",
+      "explanation": "이 표지판은 보행자가 이 도로를 걸을 수 없다는 의미입니다. 일반적으로 고속도로나 보행이 위험한 도로에 설치됩니다."
+    },
+    {
+      "questionNumber": 13,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/detour.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "표시된 방향으로 우회 경로를 따르세요."
+        },
+        {
+          "letter": "B",
+          "text": "휴게소가 이 방향에 있습니다."
+        },
+        {
+          "letter": "C",
+          "text": "경치 좋은 경로를 이용할 수 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "표시된 방향으로 우회 경로를 따르세요.",
+      "explanation": "迂回 표지판은 정상 도로가 폐쇄되어 있기 때문에 대체 경로로 안내합니다. 화살표를 따라 원래 경로로 돌아가세요."
+    },
+    {
+      "questionNumber": 14,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/four-way-sign.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "이 교차로의 모든 교통은 정지해야 합니다."
+        },
+        {
+          "letter": "B",
+          "text": "4차선 고속도로가 시작됩니다."
+        },
+        {
+          "letter": "C",
+          "text": "교통 원형 교차로가 앞에 있습니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "이 교차로의 모든 교통은 정지해야 합니다.",
+      "explanation": "4-방향 표지판은 정지 표지판과 함께 설치됩니다. 이는 모든 방향의 모든 차량이 교차로에 진입하기 전에 정지해야 함을 의미합니다."
+    },
+    {
+      "questionNumber": 15,
+      "question": "이 표지판은 무엇을 의미합니까?",
+      "image": "/images/regulatory-signs/intersection-lane-control.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "각 차선에서 허용된 회전 또는 움직임을 보여줍니다."
+        },
+        {
+          "letter": "B",
+          "text": "각 차선의 속도를 보여줍니다."
+        },
+        {
+          "letter": "C",
+          "text": "앞의 폐쇄된 차선을 보여줍니다."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "각 차선에서 허용된 회전 또는 움직임을 보여줍니다.",
+      "explanation": "교차로 차선 통제 표지판은 교차로 앞에 설치되어 각 차선에서 허용된 회전 또는 움직임을 운전자에게 보여줍니다."
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "state": "Illinois",
+  "category": "cdl",
+  "testName": "Air Brakes Test #1 25 Questions • Passing Score 20",
+  "testSlug": "air-brakes-1",
+  "url": "/images/illinois/cdl/air-brakes-1.html",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "11101",
+      "question": "当即将驾驶装有双制动系统的车辆时，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "让车辆预热以确保燃油到达发动机。"
+        },
+        {
+          "letter": "B",
+          "text": "等待空气压力在主系统和副系统中都建立起来。"
+        },
+        {
+          "letter": "C",
+          "text": "发动机启动后立即开始驾驶。"
+        },
+        {
+          "letter": "D",
+          "text": "泵踏板约20次以建立压力，然后开始驾驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "等待空气压力在主系统和副系统中都建立起来。",
+      "explanation": "在驾驶装有双气制动系统的车辆之前，应留出时间让压缩机在两个系统中都建立至少100 psi的压力。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10232",
+      "question": "使用防抱死制动系统(ABS)：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "缩短停止距离。"
+        },
+        {
+          "letter": "B",
+          "text": "缩短制动响应时间。"
+        },
+        {
+          "letter": "C",
+          "text": "提供更少的控制。"
+        },
+        {
+          "letter": "D",
+          "text": "提供更多控制。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "提供更多控制。",
+      "explanation": "防抱死制动系统(ABS)有助于在紧急制动时防止车轮抱死。虽然它提供更好的控制，但不一定会缩短车辆的停止距离。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "9006",
+      "question": "如果低压警告灯在您驾驶时亮起：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "只有当储气罐中有足够的空气时，制动才会发生。"
+        },
+        {
+          "letter": "B",
+          "text": "在系统中的空气耗尽之前，您可以制动14次。"
+        },
+        {
+          "letter": "C",
+          "text": "您应该继续正常驾驶，并在方便时检查制动系统。"
+        },
+        {
+          "letter": "D",
+          "text": "您应该继续驾驶，但打开应急闪光灯以警告其他驾驶者。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "只有当储气罐中有足够的空气时，制动才会发生。",
+      "explanation": "如果低气压警告灯亮起，您应该尽快停车并安全地停放您的车辆。只要储气罐中还有足够的空气，控制制动才可能进行。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "8994",
+      "question": "所有气罐必须包括：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "排水阀。"
+        },
+        {
+          "letter": "B",
+          "text": "锁。"
+        },
+        {
+          "letter": "C",
+          "text": "活板门。"
+        },
+        {
+          "letter": "D",
+          "text": "警告标签。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "排水阀。",
+      "explanation": "气压制动系统罐必须包含排水阀。这些阀门用于排出罐中积累的油和水，可以是手动或自动操作。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "11289",
+      "question": "充气罐排水管：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "允许雨水进入罐中。"
+        },
+        {
+          "letter": "B",
+          "text": "用于从罐中排出水和油。"
+        },
+        {
+          "letter": "C",
+          "text": "永远不应打开。"
+        },
+        {
+          "letter": "D",
+          "text": "在驾驶时必须保持打开。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "用于从罐中排出水和油。",
+      "explanation": "在气制动系统中,空气储存罐配备有排水装置,以允许水和压缩机油被排出。如果水和油在系统中积累,会损坏制动器。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "11676",
+      "question": "您应该如何测试低压警告信号？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "启用和禁用驻车制动器。"
+        },
+        {
+          "letter": "B",
+          "text": "快速按下并释放制动踏板。"
+        },
+        {
+          "letter": "C",
+          "text": "打开后部关闭阀。"
+        },
+        {
+          "letter": "D",
+          "text": "断开并重新连接所有快速接头。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "快速按下并释放制动踏板。",
+      "explanation": "低压警告灯正常运作至关重要。在允许系统充电后，你可以通过快速踩踏和释放制动踏板来测试警告信号。这将从制动系统释放空气，当压力下降到危险水平时警告信号应该亮起。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10742",
+      "question": "单一空气系统中的气压应在以下时间内建立:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15分钟。"
+        },
+        {
+          "letter": "B",
+          "text": "12分钟。"
+        },
+        {
+          "letter": "C",
+          "text": "三分钟。"
+        },
+        {
+          "letter": "D",
+          "text": "一分钟。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "三分钟。",
+      "explanation": "在装有单一空气制动系统的车辆中，发动机达到工作转速后，空气系统中的压力通常应在三分钟内从50增加到90 psi。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11465",
+      "question": "在应用泄漏测试期间，双组合车辆的最大泄漏率为：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每分钟10 psi"
+        },
+        {
+          "letter": "B",
+          "text": "每分钟8 psi"
+        },
+        {
+          "letter": "C",
+          "text": "每分钟6 psi"
+        },
+        {
+          "letter": "D",
+          "text": "每分钟4 psi"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "每分钟4 psi",
+      "explanation": "了解您的特定车辆安全的最大空气损失率很重要。双组合车辆在应用泄漏测试中的泄漏率不应超过每分钟4 psi。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11104",
+      "question": "停车制动应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每次停放车辆时使用。"
+        },
+        {
+          "letter": "B",
+          "text": "在驾驶时使用。"
+        },
+        {
+          "letter": "C",
+          "text": "在恶劣天气下驾驶时设置。"
+        },
+        {
+          "letter": "D",
+          "text": "在正常驾驶中用于停止车辆。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "每次停放车辆时使用。",
+      "explanation": "每次停放车辆时都应该施加驻车制动。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "10228",
+      "question": "水和压缩机油通常在气制动系统的压缩空气中发现。水和压缩机油：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "是气制动系统正常功能所必需的。"
+        },
+        {
+          "letter": "B",
+          "text": "如果不足，应添加。"
+        },
+        {
+          "letter": "C",
+          "text": "应定期清除。"
+        },
+        {
+          "letter": "D",
+          "text": "不是问题。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "应定期清除。",
+      "explanation": "空气制动系统中的压缩空气通常含有一定量的水分和压缩机油。如果在系统中积累，水分和油会损害制动器。手动操作的空气储罐排水阀必须每天打开以清除这些积累物。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "10363",
+      "question": "防抱死制动系统(ABS)：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "不能与空气制动器一起使用。"
+        },
+        {
+          "letter": "B",
+          "text": "应仅在干燥路面上使用。"
+        },
+        {
+          "letter": "C",
+          "text": "可以帮助在制动时保持控制。"
+        },
+        {
+          "letter": "D",
+          "text": "仅当所有车轴都装有ABS时才应使用。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "可以帮助在制动时保持控制。",
+      "explanation": "防抱死制动系统 (ABS) 与空气制动系统兼容。ABS 有助于在光滑表面上硬制动时保持车辆控制并防止车轮锁定。即使仅在一个车轴上装有ABS，它仍然可以提供好处。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "11712",
+      "question": "单向止回阀：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "从空气箱中排出水和压缩机油。"
+        },
+        {
+          "letter": "B",
+          "text": "如果空气压缩机泄漏，防止空气逸出。"
+        },
+        {
+          "letter": "C",
+          "text": "当泄漏时激活紧急制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "保持弹簧制动器在适当位置，直到使用它们。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "如果空气压缩机泄漏，防止空气逸出。",
+      "explanation": "在空气压缩机和第一个主储罐之间需要安装单向止回阀。该阀防止空气压缩机发生泄漏时空气从系统逸出。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "8874",
+      "question": "如果弹簧制动器被激活，您应该永远不要：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "踩下制动踏板。"
+        },
+        {
+          "letter": "B",
+          "text": "打开发动机盖。"
+        },
+        {
+          "letter": "C",
+          "text": "从储气罐释放气体。"
+        },
+        {
+          "letter": "D",
+          "text": "打开驾驶室的门。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "踩下制动踏板。",
+      "explanation": "如果您的弹簧制动器被激活，千万不要踩制动踏板。如果制动器同时受到弹簧和气压的作用，可能会损坏制动器。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "10231",
+      "question": "如果您在驾驶时ABS警告灯亮起，这意味着:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ABS工作正常。"
+        },
+        {
+          "letter": "B",
+          "text": "ABS刚刚被激活。"
+        },
+        {
+          "letter": "C",
+          "text": "ABS工作不正常。"
+        },
+        {
+          "letter": "D",
+          "text": "ABS需要被激活。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "ABS工作不正常。",
+      "explanation": "装有防抱死制动系统(ABS)的车辆配备黄色故障灯，以在制动系统出现问题时提醒驾驶员。如果这些灯亮起，驾驶员可能在一个或多个车轮上失去了ABS。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "9007",
+      "question": "如果在非常潮湿的天气和温度低于冰点时使用停泊制动，会发生什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "制动会发出吱吱声。"
+        },
+        {
+          "letter": "B",
+          "text": "制动可能会结冰，使车辆无法移动。"
+        },
+        {
+          "letter": "C",
+          "text": "制动可能会突然自行释放。"
+        },
+        {
+          "letter": "D",
+          "text": "制动可能会爆炸。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "制动可能会结冰，使车辆无法移动。",
+      "explanation": "如果你在天气非常潮湿且温度低于冰点时使用停泊制动，制动可能会结冰，导致车辆无法移动。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "9003",
+      "question": "在紧急情况下使用受控制动方法时，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "尽可能用力地踩制动踏板，但不锁定车轮。"
+        },
+        {
+          "letter": "B",
+          "text": "用约为您平时一半的力度踩制动踏板。"
+        },
+        {
+          "letter": "C",
+          "text": "踩制动踏板使车轮锁定。"
+        },
+        {
+          "letter": "D",
+          "text": "用最小压力踩制动踏板。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "尽可能用力地踩制动踏板，但不锁定车轮。",
+      "explanation": "紧急停止的受控制动方法涉及尽可能用力地踩制动踏板，但不锁定车轮。以这种方式制动时，应保持方向盘的转向幅度较小。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "8876",
+      "question": "1997年3月1日或之后制造的配备气制动的卡车牵引车配备有：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "额外的制动装置。"
+        },
+        {
+          "letter": "B",
+          "text": "语音激活制动器。"
+        },
+        {
+          "letter": "C",
+          "text": "巡航控制。"
+        },
+        {
+          "letter": "D",
+          "text": "防抱死制动系统(ABS)。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "防抱死制动系统(ABS)。",
+      "explanation": "1997年3月1日或之后制造的配备气制动的卡车牵引车必须配备防抱死制动系统(ABS)。任何其他类型的配备气制动且在1998年3月1日或之后制造的车辆也必须配备ABS。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "8987",
+      "question": "如果空气制动系统中的空气压力过低会发生什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "制动器可能会吱吱叫。"
+        },
+        {
+          "letter": "B",
+          "text": "制动器可能无法工作。"
+        },
+        {
+          "letter": "C",
+          "text": "制动器可能反应迟钝。"
+        },
+        {
+          "letter": "D",
+          "text": "制动器将非常敏感。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "制动器可能无法工作。",
+      "explanation": "不必要地按压和释放制动踏板会导致空气流失速度快于压缩机的补充速度，从而降低可用气压。如果气压制动系统中的气压变得过低，制动器将无法工作。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "10230",
+      "question": "基础制动器用于：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅在前轮。"
+        },
+        {
+          "letter": "B",
+          "text": "仅在后轮。"
+        },
+        {
+          "letter": "C",
+          "text": "仅在驾驶员侧车轮。"
+        },
+        {
+          "letter": "D",
+          "text": "在每个车轮。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "在每个车轮。",
+      "explanation": "基础制动器用于每个车轮。最常见的类型是S凸轮鼓式制动器。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "8985",
+      "question": "储气罐：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "仅储存足够的空气用于一个制动周期。"
+        },
+        {
+          "letter": "B",
+          "text": "储存足够的空气，使制动器在压缩机停止工作的情况下可以使用多次。"
+        },
+        {
+          "letter": "C",
+          "text": "除非在紧急情况下，否则不储存空气。"
+        },
+        {
+          "letter": "D",
+          "text": "储存足够的空气以进行超过1,000次制动循环。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "储存足够的空气，使制动器在压缩机停止工作的情况下可以使用多次。",
+      "explanation": "在气压制动系统中，空气储存罐储存的空气足以在压缩机停止工作的情况下使制动器使用多次。"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "8993",
+      "question": "双空气制动系统：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "有一个气动制动系统，但使用两组控制装置。"
+        },
+        {
+          "letter": "B",
+          "text": "卡车每一侧有一个气动制动系统。"
+        },
+        {
+          "letter": "C",
+          "text": "每个轮子有两个制动器。"
+        },
+        {
+          "letter": "D",
+          "text": "有两个独立的气动制动系统，但使用一组控制装置。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "有两个独立的气动制动系统，但使用一组控制装置。",
+      "explanation": "双回路制动系统有两个独立的气动制动系统，使用一组制动控制装置。一个系统通常操作后轴或多个后轴上的常规制动。另一个系统操作前轴上的常规制动。"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "11720",
+      "question": "在干燥路面上以55 mph的速度制动时，制动滞后可以增加____到你的车辆总停止距离。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32英尺"
+        },
+        {
+          "letter": "B",
+          "text": "15英尺"
+        },
+        {
+          "letter": "C",
+          "text": "50 feet"
+        },
+        {
+          "letter": "D",
+          "text": "10英尺"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "32英尺",
+      "explanation": "配备空气制动的车辆的总停止距离由四个因素组成：感知距离、反应距离、制动滞后距离和制动距离。在干燥路面上以55 mph的速度制动时，制动滞后可以增加约32英尺到车辆的总停止距离。"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "11106",
+      "question": "要使用戳式制动方法，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "完全踩下制动器直到车轮抱死，释放制动器直到车轮开始转动，然后重复该过程。"
+        },
+        {
+          "letter": "B",
+          "text": "踩下约一半的制动器，但允许车轮继续转动。"
+        },
+        {
+          "letter": "C",
+          "text": "完全踩下制动器直到车轮抱死，车辆停止。"
+        },
+        {
+          "letter": "D",
+          "text": "踩下应急制动器直到车辆开始减速。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "完全踩下制动器直到车轮抱死，释放制动器直到车轮开始转动，然后重复该过程。",
+      "explanation": "紧急停止的戳式制动方法涉及完全踩下制动器直到车轮抱死。然后释放制动器直到车轮开始转动，然后重复该过程。"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "8884",
+      "question": "制动衰退是由以下原因引起的:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "制动器使用频率不足。"
+        },
+        {
+          "letter": "B",
+          "text": "制动器过热。"
+        },
+        {
+          "letter": "C",
+          "text": "制动器太冷。"
+        },
+        {
+          "letter": "D",
+          "text": "制动器潮湿。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "制动器过热。",
+      "explanation": "过度使用制动器会导致其过热，使其效能降低。这被称为\"衰退\"。"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "9000",
+      "question": "如果使用带手动放气阀的空气罐，应多频繁地排放罐内的空气？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "每天"
+        },
+        {
+          "letter": "B",
+          "text": "每周一次"
+        },
+        {
+          "letter": "C",
+          "text": "每月一次"
+        },
+        {
+          "letter": "D",
+          "text": "每3,000英里一次"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "每天",
+      "explanation": "为了防止油和水在车辆空气罐中积累，应在每天驾驶结束时使用手动操作的空气罐放气阀。"
+    }
+  ]
+}

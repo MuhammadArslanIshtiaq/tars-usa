@@ -1,0 +1,680 @@
+{
+  "state": "Delaware",
+  "category": "car",
+  "quizName": "Hard Practice Test #1",
+  "slug": "hard-practice-test-1",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1155",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/lane_ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Highway entrance ramp."
+        },
+        {
+          "letter": "B",
+          "text": "Road widens."
+        },
+        {
+          "letter": "C",
+          "text": "Right lane ends."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Right lane ends.",
+      "explanation": "This yellow warning sign tells drivers that the right lane is ending. Get ready for traffic to merge into other lanes."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "2096",
+      "question": "A flashing red traffic light at an intersection means:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The same thing as a yield sign."
+        },
+        {
+          "letter": "B",
+          "text": "The light is about to turn green."
+        },
+        {
+          "letter": "C",
+          "text": "The same thing as a stop sign."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "The same thing as a stop sign.",
+      "explanation": "A flashing red light means you must stop completely. Check for traffic and pedestrians. Proceed only when it is safe. This is the same as a stop sign."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "120",
+      "question": "You want to turn left at an upcoming corner. Yield the right-of-way to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oncoming vehicles also turning left."
+        },
+        {
+          "letter": "B",
+          "text": "All approaching vehicles."
+        },
+        {
+          "letter": "C",
+          "text": "Pedestrians on the sidewalk waiting for a \"Walk\" signal."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "All approaching vehicles.",
+      "explanation": "When turning left, you must yield to all vehicles coming toward you, pedestrians, and bicyclists."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1988",
+      "question": "Which of the following road surfaces freezes first?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A tunnel"
+        },
+        {
+          "letter": "B",
+          "text": "An intersection"
+        },
+        {
+          "letter": "C",
+          "text": "A bridge"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "A bridge",
+      "explanation": "Bridges freeze before other roads because cold air flows under them. Bridges also thaw later than regular pavement."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1858",
+      "question": "It is legal to make a left turn at a red traffic light after stopping only if:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You are traveling on a two-way street and turning onto a two-way street."
+        },
+        {
+          "letter": "B",
+          "text": "You are traveling on a one-way street and turning onto another one-way street."
+        },
+        {
+          "letter": "C",
+          "text": "You yield to all other traffic at the intersection."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You are traveling on a one-way street and turning onto another one-way street.",
+      "explanation": "After stopping at a red light, you may turn left only if you are on a one-way street turning onto another one-way street. Check for signs that prohibit this turn."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "1170",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/steep_hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intersection ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Merging traffic."
+        },
+        {
+          "letter": "C",
+          "text": "Steep hill ahead."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Steep hill ahead.",
+      "explanation": "This yellow warning sign alerts you to a steep hill coming up. Slow down to avoid accidents and protect your brakes."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "887",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/school_zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Directions for children"
+        },
+        {
+          "letter": "B",
+          "text": "School zone ahead"
+        },
+        {
+          "letter": "C",
+          "text": "Playground area ahead"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "School zone ahead",
+      "explanation": "This pentagonal sign warns you that you are in or near a school zone. Drive carefully and watch for children. Follow the posted speed limits."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "843",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/no_left_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All traffic must turn left."
+        },
+        {
+          "letter": "B",
+          "text": "No left turn."
+        },
+        {
+          "letter": "C",
+          "text": "No U-turn."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "No left turn.",
+      "explanation": "This sign means you cannot turn left. It is illegal and unsafe to turn left at this location."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "849",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/washington-curve_left_35_mph_or_less_recommended.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There is a 35 mph speed zone after the curve ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Drive no slower than 35 mph around the upcoming curve."
+        },
+        {
+          "letter": "C",
+          "text": "Approach the upcoming curve at a speed of 35 mph or slower."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Approach the upcoming curve at a speed of 35 mph or slower.",
+      "explanation": "This yellow warning sign tells you to slow down for the curve ahead. The number shows the recommended safe speed for the curve."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "118",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/stop.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Check for vehicles only in the direction that you plan on going, then proceed."
+        },
+        {
+          "letter": "B",
+          "text": "Let all vehicles that arrive before or after you go first."
+        },
+        {
+          "letter": "C",
+          "text": "Check for traffic in all directions before proceeding."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Check for traffic in all directions before proceeding.",
+      "explanation": "At a stop sign, you must stop completely. Look both left and right before moving forward."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1000",
+      "question": "You are being passed on both sides while driving in the center lane of an expressway. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stay in the center lane."
+        },
+        {
+          "letter": "B",
+          "text": "Move to the right lane."
+        },
+        {
+          "letter": "C",
+          "text": "Move to the left lane."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Move to the right lane.",
+      "explanation": "On roads with four or more lanes, drive in the right lanes unless you are passing or turning left. On highways, use the right lane if you are driving slower than the traffic around you."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1814",
+      "question": "When should you NOT use your horn?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When visibility ahead is limited."
+        },
+        {
+          "letter": "B",
+          "text": "If you might hit another vehicle."
+        },
+        {
+          "letter": "C",
+          "text": "Near blind pedestrians."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Near blind pedestrians.",
+      "explanation": "Do not use your horn near blind pedestrians. It may be dangerous. Instead, yield to the pedestrian and proceed when it is safe."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "1040",
+      "question": "What does a yellow left turn arrow mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Get ready to yield to oncoming traffic."
+        },
+        {
+          "letter": "B",
+          "text": "The protected left turn is ending."
+        },
+        {
+          "letter": "C",
+          "text": "Both of the above."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Both of the above.",
+      "explanation": "A yellow left turn arrow means the protected turn is ending. Be ready to yield to oncoming traffic."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1123",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/maryland-flashing_red_light.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You are traveling in the wrong direction."
+        },
+        {
+          "letter": "B",
+          "text": "Treat the intersection like a stop sign."
+        },
+        {
+          "letter": "C",
+          "text": "Wait until it turns green to proceed."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Treat the intersection like a stop sign.",
+      "explanation": "A flashing red light means stop. Come to a complete stop at the stop line or before the crosswalk. Yield to all traffic and pedestrians before entering the intersection."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1773",
+      "question": "If your vehicle is about to be hit from behind, what should you NOT do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Release your seat belt."
+        },
+        {
+          "letter": "B",
+          "text": "Brace yourself."
+        },
+        {
+          "letter": "C",
+          "text": "Press your head against the head restraint."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Release your seat belt.",
+      "explanation": "Keep your seat belt on. Brace yourself by pressing against your seat back and pushing your head against the head restraint. Hold the steering wheel firmly and be ready to brake."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "78",
+      "question": "When passing another vehicle, what should you remember?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do not assume the other driver will make room for you to return to your lane."
+        },
+        {
+          "letter": "B",
+          "text": "The other driver will let you pass if you use your turn signal."
+        },
+        {
+          "letter": "C",
+          "text": "The other driver will keep the same speed."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Do not assume the other driver will make room for you to return to your lane.",
+      "explanation": "Even with a turn signal, do not assume other drivers will give you space or the right-of-way."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1929",
+      "question": "When leaving an alley or driveway to enter traffic, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop only if pedestrians are on the sidewalk."
+        },
+        {
+          "letter": "B",
+          "text": "Stop before entering the sidewalk or sidewalk area."
+        },
+        {
+          "letter": "C",
+          "text": "Expect pedestrians to yield to you."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stop before entering the sidewalk or sidewalk area.",
+      "explanation": "You must stop before driving onto a sidewalk or sidewalk area. Pedestrians and traffic have the right-of-way."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1797",
+      "question": "On an interstate, how can you best avoid traffic merging from on-ramps on your right?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Change lanes to the left."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down."
+        },
+        {
+          "letter": "C",
+          "text": "Keep your speed and position."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Change lanes to the left.",
+      "explanation": "Watch for on-ramps ahead. When safe, move to the left lane to let vehicles enter from the right."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "840",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/railroad_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An intersection."
+        },
+        {
+          "letter": "B",
+          "text": "A crosswalk."
+        },
+        {
+          "letter": "C",
+          "text": "A railroad crossing."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "A railroad crossing.",
+      "explanation": "A round sign warns you of a railroad crossing ahead. Slow down, look and listen for trains, and be ready to stop."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "1214",
+      "question": "What headlights should you use in fog, rain, or snow?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Low beams."
+        },
+        {
+          "letter": "B",
+          "text": "High beams."
+        },
+        {
+          "letter": "C",
+          "text": "Fog lights only."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Low beams.",
+      "explanation": "Use low beams in fog, rain, and snow. High beams reflect off these conditions and create glare that makes it hard to see."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "1150",
+      "question": "What does excessive speed do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It does not increase the chance of a crash."
+        },
+        {
+          "letter": "B",
+          "text": "It improves your ability to react to hazards."
+        },
+        {
+          "letter": "C",
+          "text": "It leads to risky driving decisions."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "It leads to risky driving decisions.",
+      "explanation": "Excessive speed is a major cause of crashes. It does not save time and leads drivers to make risky decisions."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "46",
+      "question": "When driving at night on a dim street, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drive slowly enough to stop within the area lit by your headlights."
+        },
+        {
+          "letter": "B",
+          "text": "Use high beam headlights to see vehicles ahead better."
+        },
+        {
+          "letter": "C",
+          "text": "Keep your instrument panel lights bright so other drivers can see you."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Drive slowly enough to stop within the area lit by your headlights.",
+      "explanation": "Drive slower at night than during the day because you cannot see as far ahead. Make sure you can stop within the distance your headlights illuminate."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "101",
+      "question": "Which statement is true about work zones?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fines for violations in work zones are the same as fines for normal traffic violations."
+        },
+        {
+          "letter": "B",
+          "text": "You must slow down in work zones."
+        },
+        {
+          "letter": "C",
+          "text": "You only need to slow down if you see workers present."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "You must slow down in work zones.",
+      "explanation": "Reduce your speed and be ready to slow down or stop for equipment. Driving carefully through work zones keeps drivers, walkers, bicyclists, and road workers safe."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1939",
+      "question": "You see a steady yellow light at an intersection ahead. If you have not yet entered the intersection, you should:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Speed up to pass through before the red light."
+        },
+        {
+          "letter": "B",
+          "text": "Slow down and carefully proceed through the intersection."
+        },
+        {
+          "letter": "C",
+          "text": "Come to a safe stop."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Come to a safe stop.",
+      "explanation": "When you see a yellow light and have not entered the intersection yet, stop safely. If you are already in the intersection when the light turns yellow, continue through at a safe speed."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "1164",
+      "question": "The best way to avoid a dangerous situation while driving is to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Know what is happening around your vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "Turn off the radio."
+        },
+        {
+          "letter": "C",
+          "text": "Always look straight ahead at the road."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Know what is happening around your vehicle.",
+      "explanation": "Always be aware of what is happening around you. Watch the front, sides, and back of your vehicle. This helps you spot problems early so you can change speed or position."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "834",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/georgia-reduction_of_lanes.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The right lane is ending. Traffic should merge left."
+        },
+        {
+          "letter": "B",
+          "text": "The road curves ahead."
+        },
+        {
+          "letter": "C",
+          "text": "There are intersections ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "The right lane is ending. Traffic should merge left.",
+      "explanation": "Warning signs are yellow with black markings. They alert you to conditions just ahead. This sign warns that one lane is ending and traffic must move to the left."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "197",
+      "question": "When should you increase the distance between your vehicle and the car ahead?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When you are following a small passenger vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "When another driver is tailgating you."
+        },
+        {
+          "letter": "C",
+          "text": "When you are driving slower than the speed limit."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "When another driver is tailgating you.",
+      "explanation": "If someone tailgates you, increase the space in front of your vehicle and do not brake suddenly. Slow down gradually or change lanes to avoid a crash."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "1012",
+      "question": "When traffic is moving at 50 to 55 mph, you are least likely to have an accident if you:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drive a few mph faster than most other vehicles."
+        },
+        {
+          "letter": "B",
+          "text": "Stay within that same speed range."
+        },
+        {
+          "letter": "C",
+          "text": "Drive a few mph slower than most other vehicles."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Stay within that same speed range.",
+      "explanation": "Match your speed to the traffic around you (if it is within the speed limit). Vehicles moving at the same speed in the same direction cannot hit each other. Crashes happen when vehicles travel at different speeds."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "836",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/georgia-t_intersection(2).png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right turn."
+        },
+        {
+          "letter": "B",
+          "text": "Intersection ahead."
+        },
+        {
+          "letter": "C",
+          "text": "Lane change."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Intersection ahead.",
+      "explanation": "Warning signs are yellow with black markings. This sign warns that your road ends at an intersection straight ahead. Slow down and be ready to yield or stop before turning right or left."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "884",
+      "question": "What does this sign mean?",
+      "image": "/images/signs/merge.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Be ready for traffic to merge into your lane."
+        },
+        {
+          "letter": "B",
+          "text": "Always stop."
+        },
+        {
+          "letter": "C",
+          "text": "Divided highway ahead."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Be ready for traffic to merge into your lane.",
+      "explanation": "Warning signs are yellow with black markings. This sign warns that traffic will merge in from the right. Be prepared to make space for the incoming traffic to merge safely."
+    }
+  ]
+}

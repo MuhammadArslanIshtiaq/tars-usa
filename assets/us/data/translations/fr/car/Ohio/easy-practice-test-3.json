@@ -1,0 +1,806 @@
+{
+  "state": "Ohio",
+  "category": "car",
+  "quizName": "Easy Practice Test #3",
+  "slug": "easy-practice-test-3",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "1730",
+      "question": "Pendant que vous conduisez, vos roues quittent le bord de la route. Vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secouez le volant pour forcer le véhicule à revenir sur la chaussée."
+        },
+        {
+          "letter": "B",
+          "text": "Accélérez et revenez progressivement sur la chaussée."
+        },
+        {
+          "letter": "C",
+          "text": "Freinez brusquement et arrêtez-vous."
+        },
+        {
+          "letter": "D",
+          "text": "Ralentissez en utilisant doucement les freins. Tournez le volant pour revenir à la chaussée à une vitesse sûre."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Ralentissez en utilisant doucement les freins. Tournez le volant pour revenir à la chaussée à une vitesse sûre.",
+      "explanation": "Si votre véhicule commence à quitter la route, continuez à conduire avec les roues hors de la chaussée et réduisez votre vitesse en appliquant doucement les freins. À une vitesse sûre, tournez le volant pour revenir à la chaussée. N'essayez pas de forcer votre véhicule à revenir sur la chaussée en tournant brusquement le volant."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "256",
+      "question": "Ce panneau signifie que :",
+      "image": "/images/signs/pennsylvania-workers_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un groupe de service communautaire ramasse les déchets le long de la route à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Des travailleurs sont sur ou très près de la route dans la zone de travaux à venir."
+        },
+        {
+          "letter": "C",
+          "text": "Des enfants jouent à proximité."
+        },
+        {
+          "letter": "D",
+          "text": "Il y a un passage pour piétons à venir."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Des travailleurs sont sur ou très près de la route dans la zone de travaux à venir.",
+      "explanation": "Ce panneau indique que des travailleurs peuvent être sur ou très près de la chaussée à venir, vous devriez donc faire preuve de prudence particulière en circulant dans la zone."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "972",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/indiana-traffic_signal.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feu de circulation."
+        },
+        {
+          "letter": "B",
+          "text": "Caserne de pompiers."
+        },
+        {
+          "letter": "C",
+          "text": "Intersection en T."
+        },
+        {
+          "letter": "D",
+          "text": "Signal de virage à gauche."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Feu de circulation.",
+      "explanation": "Les panneaux d'avertissement préparent les conducteurs aux conditions routières et aux dangers à venir et sont généralement jaunes avec des marquages noirs. Ce panneau alerte les conducteurs sur un feu de circulation à venir. Ils doivent être préparés à répondre à un feu jaune, un feu rouge et/ou au trafic transversal."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "606",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interdiction d'entrer."
+        },
+        {
+          "letter": "B",
+          "text": "Pas de stationnement."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de demi-tour."
+        },
+        {
+          "letter": "D",
+          "text": "Pas de virage à gauche."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pas de demi-tour.",
+      "explanation": "Ces panneaux indiquent que les demi-tours sont interdits à l'endroit où ils sont affichés."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "221",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/divided_highway.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous devez tourner à gauche ou à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Vous approchez d'une intersection en T."
+        },
+        {
+          "letter": "C",
+          "text": "La route sur laquelle vous êtes s'intersecte avec une autoroute divisée."
+        },
+        {
+          "letter": "D",
+          "text": "Vous êtes sur un viaduc au-dessus d'une autoroute divisée."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La route sur laquelle vous êtes s'intersecte avec une autoroute divisée.",
+      "explanation": "Ce panneau indique que la route sur laquelle vous êtes s'intersecte avec une autoroute divisée. Une autoroute divisée est constituée de deux routes à sens unique séparées par un terre-plein ou une barrière de guidage."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "485",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/no_u_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de virage à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Interdiction de s'arrêter."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de demi-tour."
+        },
+        {
+          "letter": "D",
+          "text": "Déviation à proximité."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Pas de demi-tour.",
+      "explanation": "Ce panneau indique que les demi-tours sont interdits."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "238",
+      "question": "Quel est le sens de ce panneau?",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le feu de circulation à venir affiche un feu rouge."
+        },
+        {
+          "letter": "B",
+          "text": "Le feu de circulation à venir est défaillant."
+        },
+        {
+          "letter": "C",
+          "text": "Le feu de circulation à venir affiche un feu vert."
+        },
+        {
+          "letter": "D",
+          "text": "Il y a un feu de circulation à l'avance."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Il y a un feu de circulation à l'avance.",
+      "explanation": "Ce panneau indique qu'il y a un feu de circulation à l'intersection à venir."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "566",
+      "question": "Lorsque le conducteur derrière vous veut dépasser, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accélérer."
+        },
+        {
+          "letter": "B",
+          "text": "Allez à la même vitesse."
+        },
+        {
+          "letter": "C",
+          "text": "Ralentissez pour permettre à l'autre conducteur d'avoir assez d'espace devant votre véhicule pour compléter le dépassement facilement."
+        },
+        {
+          "letter": "D",
+          "text": "Changez de voie."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Ralentissez pour permettre à l'autre conducteur d'avoir assez d'espace devant votre véhicule pour compléter le dépassement facilement.",
+      "explanation": "Lorsque le conducteur derrière vous veut dépasser, vous devriez ralentir pour qu'il y ait suffisamment d'espace devant votre véhicule pour que l'autre conducteur complète son dépassement. Cela lui permettra de compléter la manœuvre de dépassement en moins de temps et plus facilement."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1087",
+      "question": "Quand vous êtes talonnné :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Changez de voie vers la droite, s'il y a une voie libre à votre droite."
+        },
+        {
+          "letter": "B",
+          "text": "S'il n'y a pas de voie libre à votre droite, attendez que la route soit dégagée devant vous et ralentissez lentement pour encourager le conducteur qui vous talonne à vous dépasser."
+        },
+        {
+          "letter": "C",
+          "text": "Ne ralentissez jamais brusquement."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Si un autre conducteur vous talonne et qu'il y a une voie de droite, changez de voie vers la droite. S'il n'y a pas de voie de droite, attendez que la route devant vous soit dégagée, puis ralentissez lentement. Cela encouragera le conducteur qui vous talonne à vous dépasser. Ne ralentissez jamais brusquement car cela ne ferait qu'augmenter le risque que votre véhicule soit heurté par l'arrière."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "356",
+      "question": "La chose la plus efficace que vous puissiez faire pour réduire votre risque d'être blessé ou tué dans un accident de la circulation est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porter votre ceinture de sécurité."
+        },
+        {
+          "letter": "B",
+          "text": "Limiter votre conduite aux jours de semaine."
+        },
+        {
+          "letter": "C",
+          "text": "Rester dans la voie de droite sur les autoroutes à plusieurs voies."
+        },
+        {
+          "letter": "D",
+          "text": "Limiter votre conduite aux heures entre 15 h et 18 h."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Porter votre ceinture de sécurité.",
+      "explanation": "Porter votre ceinture de sécurité est la meilleure chose que vous puissiez faire pour réduire votre risque de décès ou de blessure en conduisant."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "1686",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/pedestrian_crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "École à proximité."
+        },
+        {
+          "letter": "B",
+          "text": "Traversée scolaire."
+        },
+        {
+          "letter": "C",
+          "text": "Passage pour piétons."
+        },
+        {
+          "letter": "D",
+          "text": "Ouvriers de la construction sur ou près de la chaussée."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Passage pour piétons.",
+      "explanation": "Les panneaux d'avertissement ont généralement une forme de losange avec des marques noires sur un fond jaune. Ils avertissent les conducteurs des dangers imminents. Ce panneau indique qu'il peut y avoir des piétons traversant la route à proximité."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "589",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/no_right_turn.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas de virage à gauche."
+        },
+        {
+          "letter": "B",
+          "text": "Pas de demi-tours."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de sortie."
+        },
+        {
+          "letter": "D",
+          "text": "Pas de virage à droite."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Pas de virage à droite.",
+      "explanation": "Ce panneau indique que les virages à droite sont interdits."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "389",
+      "question": "Quelles sont les couleurs des panneaux d'avertissement indiquant les dangers à venir?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lettres ou symboles noirs sur fond blanc"
+        },
+        {
+          "letter": "B",
+          "text": "Lettres ou symboles noirs sur fond jaune"
+        },
+        {
+          "letter": "C",
+          "text": "Lettres ou symboles blancs sur fond bleu"
+        },
+        {
+          "letter": "D",
+          "text": "Lettres ou symboles blancs sur fond vert"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Lettres ou symboles noirs sur fond jaune",
+      "explanation": "Les panneaux d'avertissement qui indiquent les dangers approchants sont généralement jaunes avec des lettres ou des symboles noirs. Les panneaux d'avertissement dans les zones de travaux sont orange avec des lettres ou des symboles noirs."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "1426",
+      "question": "Un autre conducteur essaie de dépasser votre voiture. Vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quitter la route."
+        },
+        {
+          "letter": "B",
+          "text": "Faites un signal à l'autre conducteur quand il est sécuritaire pour lui de dépasser."
+        },
+        {
+          "letter": "C",
+          "text": "Vérifiez la circulation en sens inverse et ajustez votre vitesse pour permettre un dépassement sécuritaire."
+        },
+        {
+          "letter": "D",
+          "text": "Accélérer."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Vérifiez la circulation en sens inverse et ajustez votre vitesse pour permettre un dépassement sécuritaire.",
+      "explanation": "Restez à droite lorsqu'un autre conducteur commence à vous dépasser par la gauche. Vérifiez la circulation en sens inverse et ajustez votre vitesse pour permettre au véhicule qui dépasse de revenir facilement dans la voie de droite."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "2094",
+      "question": "Lorsque vous vous approchez d'un lieu d'accident, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentrez votre attention sur votre conduite."
+        },
+        {
+          "letter": "B",
+          "text": "Continuez à avancer."
+        },
+        {
+          "letter": "C",
+          "text": "Arrêtez-vous si vous êtes impliqué ou si l'aide d'urgence n'est pas encore arrivée."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "N'arrêtez-vous pas sur un lieu d'accident à moins que vous y soyez impliqué ou que l'aide d'urgence ne soit pas encore arrivée. Concentrez votre attention sur votre conduite et continuez à avancer, en surveillant les personnes qui pourraient se trouver sur la route ou à proximité. Ne vous rendez jamais sur le lieu d'un accident, d'un incendie ou d'une autre catastrophe juste pour regarder."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "594",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/left_turn_yield_on_green.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vous êtes sur le point d'entrer dans une rue à sens unique dans la mauvaise direction."
+        },
+        {
+          "letter": "B",
+          "text": "Passage d'école à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Ne conduisez pas dans cette voie."
+        },
+        {
+          "letter": "D",
+          "text": "Le trafic tournant à gauche au feu vert doit céder le passage au trafic venant en sens inverse."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Le trafic tournant à gauche au feu vert doit céder le passage au trafic venant en sens inverse.",
+      "explanation": "Ce panneau est utilisé avec un feu de circulation pour indiquer aux conducteurs que le trafic tournant à gauche n'a pas la priorité et doit au lieu de cela attendre que le trafic venant en sens inverse se dégagisse."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "1659",
+      "question": "Sur une rue à deux voies, votre véhicule est suivi par un camion de pompiers qui n'utilise pas ses signaux d'urgence. Vous devriez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuez à circuler normalement."
+        },
+        {
+          "letter": "B",
+          "text": "Arrêtez-vous aussi rapidement que possible."
+        },
+        {
+          "letter": "C",
+          "text": "Accélérez pour vous éloigner de sa route."
+        },
+        {
+          "letter": "D",
+          "text": "Ralentissez, déplacez-vous aussi loin que possible vers la droite et arrêtez-vous."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Continuez à circuler normalement.",
+      "explanation": "Si vous êtes suivi par un véhicule d'urgence qui n'utilise pas sa sirène ou ses feux clignotants, vous n'avez pas besoin de dégager le passage. Continuez à circuler normalement."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "582",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/arizona-four_way_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une pente raide approche."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez tourner à gauche à l'avant."
+        },
+        {
+          "letter": "C",
+          "text": "Interdiction d'entrer."
+        },
+        {
+          "letter": "D",
+          "text": "Une intersection à quatre directions se trouve plus loin."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Une intersection à quatre directions se trouve plus loin.",
+      "explanation": "Ce panneau avertit qu'une intersection à quatre directions approche."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "781",
+      "question": "Alors que vous conduisez, vous êtes tenu d'arrêter votre véhicule:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "À une intersection avec un panneau d'arrêt."
+        },
+        {
+          "letter": "B",
+          "text": "Là où il y a un feu rouge."
+        },
+        {
+          "letter": "C",
+          "text": "Quand un agent de circulation vous ordonne de vous arrêter."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Les situations où les automobilistes sont tenus de s'arrêter incluent l'approche d'intersections avec des panneaux d'arrêt, l'approche d'intersections où un feu rouge clignote ou est allumé, ou à tout moment quand un agent de circulation ordonne à votre véhicule de s'arrêter."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "584",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/divided_highway_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne pas dépasser."
+        },
+        {
+          "letter": "B",
+          "text": "Interdiction d'entrer."
+        },
+        {
+          "letter": "C",
+          "text": "Pas de virage au feu rouge."
+        },
+        {
+          "letter": "D",
+          "text": "Rester à droite."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Rester à droite.",
+      "explanation": "Ce panneau indique qu'une autoroute divisée commence à l'avant. La route se divisera en deux routes à sens unique séparées par un terre-plein ou un séparateur. Vous devez rester à droite."
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "478",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/traffic_signal_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuez à votre vitesse actuelle."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez vous arrêter devant."
+        },
+        {
+          "letter": "C",
+          "text": "Les excès de vitesse ne sont pas autorisés."
+        },
+        {
+          "letter": "D",
+          "text": "Il y a un feu de circulation à l'avance."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Il y a un feu de circulation à l'avance.",
+      "explanation": "Ce panneau indique qu'il y a un feu de circulation devant."
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "1749",
+      "question": "Un piéton commence à traverser devant votre véhicule. Vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faire clignoter vos phares."
+        },
+        {
+          "letter": "B",
+          "text": "Ralentir."
+        },
+        {
+          "letter": "C",
+          "text": "Accélérez et passez devant le piéton."
+        },
+        {
+          "letter": "D",
+          "text": "Arrêtez-vous et laissez le piéton traverser."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Arrêtez-vous et laissez le piéton traverser.",
+      "explanation": "Ralentissez et soyez prêt à vous arrêter chaque fois que vous voyez des piétons marcher ou traverser la chaussée. Soyez particulièrement prudent là où des enfants sont présents. Cédez toujours le droit de passage à un piéton traversant sur un passage pour piétons."
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "1354",
+      "question": "Vous approchez d'un passage à niveau qui n'a pas de barrières visibles ni de feux clignotants, mais qui a un signal d'arrêt standard. Vous devez:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Approchez-vous de tous les chemins avec une extrême prudence et ne traversez que lorsque vous savez qu'aucun train n'arrive."
+        },
+        {
+          "letter": "B",
+          "text": "Baissez votre radio pour entendre s'il y a un train qui s'approche."
+        },
+        {
+          "letter": "C",
+          "text": "Continuez uniquement une fois autorisé par un agent de circulation, le cas échéant."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Vous devez approcher tous les passages à niveau avec une extrême prudence et ne traverser que lorsque vous savez qu'aucun train n'arrive d'aucune direction. S'il y a un agent de circulation à un passage, vous devez obéir à toutes ses instructions."
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "1726",
+      "question": "Pour prévenir l'hydroplanage, vous devriez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Assurez-vous que vos pneus ont une bonne profondeur de bande de roulement."
+        },
+        {
+          "letter": "B",
+          "text": "Assurez-vous que vos pneus sont correctement gonflés."
+        },
+        {
+          "letter": "C",
+          "text": "Réduisez votre vitesse lorsque vous conduisez sous la pluie."
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Tous les éléments ci-dessus.",
+      "explanation": "Pour prévenir l'hydroplanage, vous devriez vous assurer que les pneus de votre véhicule ont une bonne profondeur de bande de roulement et sont gonflés à la bonne pression. Réduisez la vitesse de votre véhicule lorsque vous conduisez sous la pluie. L'hydroplanage se produit le plus fréquemment à des vitesses plus élevées."
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "2068",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/montana-right_and_left_curves.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La route à l'avance ne vire que vers la droite."
+        },
+        {
+          "letter": "B",
+          "text": "La route à l'avance tourne fortement vers la droite."
+        },
+        {
+          "letter": "C",
+          "text": "La route à l'avance vire à droite puis à gauche."
+        },
+        {
+          "letter": "D",
+          "text": "La route à l'avance vire à gauche puis à droite."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "La route à l'avance vire à droite puis à gauche.",
+      "explanation": "Les panneaux d'avertissement sont utilisés pour avertir les conducteurs des conditions dangereuses à venir et sont généralement jaunes avec des marquages noirs. Ce panneau avertit les conducteurs que la route à l'avance vire à droite puis à gauche."
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "2070",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/road_work_ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un détour à venir."
+        },
+        {
+          "letter": "B",
+          "text": "Vous devez vous arrêter pour les signaleurs."
+        },
+        {
+          "letter": "C",
+          "text": "La route devant vous est fermée à la circulation."
+        },
+        {
+          "letter": "D",
+          "text": "L'autoroute à venir est en cours d'entretien."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "L'autoroute à venir est en cours d'entretien.",
+      "explanation": "Les panneaux de construction et d'entretien sont de couleur orange et sont utilisés pour notifier les conducteurs des conditions inhabituelles ou potentiellement dangereuses dans ou près des zones de travail. Ce panneau avertit les conducteurs qu'ils s'approchent d'une zone de construction et qu'ils doivent se préparer à réduire leur vitesse et à conduire avec une prudence extraordinaire."
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "979",
+      "question": "Ce panneau signifie :",
+      "image": "/images/signs/yield.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cédez le passage."
+        },
+        {
+          "letter": "B",
+          "text": "Intersection à proximité."
+        },
+        {
+          "letter": "C",
+          "text": "Rester à droite."
+        },
+        {
+          "letter": "D",
+          "text": "Cédez le passage à l'avance."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Cédez le passage.",
+      "explanation": "Les panneaux de circulation ayant trois côtés de longueur égale avertissent les conducteurs de ralentir en s'approchant d'une intersection et de se préparer à s'arrêter complètement pour laisser la priorité à d'autres conducteurs ou piétons. Les conducteurs peuvent continuer quand cela est sûr."
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "535",
+      "question": "Ce panneau est un :",
+      "image": "/images/signs/washington-warning.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panneau de service."
+        },
+        {
+          "letter": "B",
+          "text": "Panneau de réglementation."
+        },
+        {
+          "letter": "C",
+          "text": "Panneau d'avertissement."
+        },
+        {
+          "letter": "D",
+          "text": "Panneau d'arrêt."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Panneau d'avertissement.",
+      "explanation": "Les panneaux d'avertissement sont généralement en forme de losange et de couleur jaune avec des lettres ou des symboles noirs. Ils avertissent les conducteurs des situations particulières ou des dangers potentiels à l'avant."
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "409",
+      "question": "Vous pouvez contourner ou passer sous une barrière qui s'abaisse ou se relève à un passage à niveau :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tant qu'un train qui s'approche n'est pas trop près."
+        },
+        {
+          "letter": "B",
+          "text": "Si votre véhicule peut le faire sans endommager la barrière."
+        },
+        {
+          "letter": "C",
+          "text": "Si vous regardez d'abord soigneusement dans les deux directions."
+        },
+        {
+          "letter": "D",
+          "text": "En aucun cas."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "En aucun cas.",
+      "explanation": "Les feux rouges clignotants, les barrières abaissées et/ou les cloches à un passage à niveau signifient que vous devez vous arrêter complètement. Vous ne devez pas traverser les voies jusqu'à ce que les feux et les cloches se soient arrêtés et que les barrières soient complètement relevées. Ne contournez pas et ne passez pas sous une barrière qui monte ou descend."
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "600",
+      "question": "Ce panneau routier signifie:",
+      "image": "/images/signs/t_intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tout le trafic doit tourner à droite."
+        },
+        {
+          "letter": "B",
+          "text": "Pas de virage à droite."
+        },
+        {
+          "letter": "C",
+          "text": "Tout le trafic doit aller tout droit."
+        },
+        {
+          "letter": "D",
+          "text": "Une route rejoint depuis la droite."
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Une route rejoint depuis la droite.",
+      "explanation": "Ce panneau indique qu'il y a un carrefour à proximité. Une route se joint à partir de la droite."
+    }
+  ]
+}

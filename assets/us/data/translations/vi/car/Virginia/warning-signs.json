@@ -1,0 +1,955 @@
+{
+  "state": "Virginia",
+  "category": "car",
+  "quizName": "Warning Signs",
+  "slug": "warning-signs",
+  "totalQuestions": 43,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/stop-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một biển dừng ở phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Một tín hiệu giao thông ở phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Một lối đi bộ ở phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một biển dừng ở phía trước.",
+      "explanation": "Biển báo này cảnh báo bạn rằng một biển dừng sắp tới. Bắt đầu giảm tốc độ để bạn sẵn sàng dừng hoàn toàn."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/yield-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một biển nhường đường ở phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Một điểm hợp nhất ở phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Một biển dừng ở phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một biển nhường đường ở phía trước.",
+      "explanation": "Biển báo này cảnh báo bạn rằng một biển nhường đường sắp tới. Hãy sẵn sàng giảm tốc độ và nhường quyền đi qua cho giao thông khác."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một tín hiệu giao thông ở phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Có một đường ngang đường sắt phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Một khu vực trường học sắp tới."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một tín hiệu giao thông ở phía trước.",
+      "explanation": "Biển báo này cảnh báo bạn rằng một tín hiệu giao thông ở phía trước. Hãy sẵn sàng dừng nếu đèn đỏ hoặc vàng."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/emergency-signal-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một tín hiệu phương tiện khẩn cấp ở phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Một trạm cứu hỏa ở phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Một khu vực bệnh viện ở phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một tín hiệu phương tiện khẩn cấp ở phía trước.",
+      "explanation": "Biển báo này cảnh báo bạn rằng một tín hiệu được kiểm soát bởi các phương tiện khẩn cấp ở phía trước. Tín hiệu có thể thay đổi để cho phép các phương tiện khẩn cấp đi qua."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/two-way-traffic.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giao thông hai chiều ở phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Đường chia thành hai con đường."
+        },
+        {
+          "letter": "C",
+          "text": "Hai làn đường hợp nhất thành một."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giao thông hai chiều ở phía trước.",
+      "explanation": "Biển báo này cảnh báo rằng bạn sắp vào một con đường có giao thông đi từ hướng ngược lại. Ở lại trong làn đường của bạn."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/no-passing-zone.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn đang vào một khu vực cấm vượt."
+        },
+        {
+          "letter": "B",
+          "text": "Đường hẹp lại phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Một khu vực trường học sắp tới."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bạn đang vào một khu vực cấm vượt.",
+      "explanation": "Biển báo hình lá này đánh dấu phần đầu của khu vực cấm vượt. Không vượt các phương tiện khác trong khu vực này."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/right-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường cong về bên phải phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Queo phải tại giao lộ kế tiếp."
+        },
+        {
+          "letter": "C",
+          "text": "Một làn đường bên phải đang kết thúc."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đường cong về bên phải phía trước.",
+      "explanation": "Biển báo này cảnh báo bạn rằng con đường phía trước cong về bên phải. Giảm tốc độ trước khi vào khúc cong."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/sharp-curve-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một khúc cong sắc nhọn về bên phải ở phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Một khúc cong nhẹ ở phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Đường quay sắc nhọn sang trái."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một khúc cong sắc nhọn về bên phải ở phía trước.",
+      "explanation": "Biển báo này cảnh báo về một khúc cong sắc nhọn về bên phải. Giảm tốc độ tốt trước khi vào khúc cong để giữ kiểm soát phương tiện của bạn."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/sharp-curve-to-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Có một khúc cong sắc nhọn về bên phải ở phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Làn đường bên phải kết thúc."
+        },
+        {
+          "letter": "C",
+          "text": "Một lượt rẽ phải là bắt buộc."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Có một khúc cong sắc nhọn về bên phải ở phía trước.",
+      "explanation": "Biển báo này cảnh báo về một khúc cong sắc nhọn về bên phải. Giảm tốc độ trước khi vào khúc cong."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/very-sharp-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một khúc cong hoặc lượt rẽ rất sắc nhọn ở phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Đường kết thúc ở phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Một lượt quay ngược chiều là bắt buộc."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một khúc cong hoặc lượt rẽ rất sắc nhọn ở phía trước.",
+      "explanation": "Biển báo này cảnh báo về một khúc cong cực kỳ sắc nhọn ở phía trước. Giảm tốc độ đáng kể trước khi vào khúc cong để tránh mất kiểm soát."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/hairpin-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một khúc cong tóc gái ở phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Khu vực quay đầu xe phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Đường cul-de-sac phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một khúc cong tóc gái ở phía trước.",
+      "explanation": "Biển báo này cảnh báo về một khúc cong tóc gái rất chặt ở phía trước. Giảm tốc độ một cách đáng kể trước khi vào khúc cong."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/left-turn-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường quay sang trái phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Làn quay trái bắt đầu."
+        },
+        {
+          "letter": "C",
+          "text": "Không được quay trái phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đường quay sang trái phía trước.",
+      "explanation": "Biển báo cảnh báo rằng đường phía trước quay sang trái. Giảm tốc độ trước khi quay."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/left-reverse-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một loạt đường cong bắt đầu với lượt quay trái phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Quay đầu xe phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Vòng xuyến phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một loạt đường cong bắt đầu với lượt quay trái phía trước.",
+      "explanation": "Biển báo cảnh báo về đường cong ngược phía trước, bắt đầu với một đường cong sang trái. Giảm tốc độ và chuẩn bị cho những thay đổi hướng."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/winding-road-left-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường quanh co phía trước, bắt đầu với một đường cong sang trái."
+        },
+        {
+          "letter": "B",
+          "text": "Dốc cao phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Đường trơn trượt khi ướt."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đường quanh co phía trước, bắt đầu với một đường cong sang trái.",
+      "explanation": "Biển báo cảnh báo về đường quanh co phía trước với nhiều đường cong. Đường cong đầu tiên hướng sang trái. Giảm tốc độ và lái xe cẩn thận."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/advisory-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tốc độ an toàn được khuyến nghị cho đường phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Tốc độ tối thiểu được phép."
+        },
+        {
+          "letter": "C",
+          "text": "Giới hạn tốc độ tối đa."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tốc độ an toàn được khuyến nghị cho đường phía trước.",
+      "explanation": "Biển báo tốc độ tư vấn cho biết tốc độ an toàn được khuyến nghị cho một đường cong hoặc tình trạng đường khác. Đây không phải giới hạn tốc độ mà là gợi ý về an toàn."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/advisory-turn-speed.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tốc độ được khuyến nghị cho lượt quay sắp tới."
+        },
+        {
+          "letter": "B",
+          "text": "Giới hạn tốc độ thay đổi phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Có một gờ giảm tốc độ phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tốc độ được khuyến nghị cho lượt quay sắp tới.",
+      "explanation": "Biển báo này cho biết tốc độ an toàn được đề nghị cho một lượt quay sắp tới. Giảm tốc độ đến mức này trước khi vào lượt quay."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/advisory-speed-on-exit-ramp.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tốc độ được khuyến nghị cho đường dốc thoát phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Giới hạn tốc độ trên đường cao tốc."
+        },
+        {
+          "letter": "C",
+          "text": "Tốc độ tối thiểu trên đường dốc."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Tốc độ được khuyến nghị cho đường dốc thoát phía trước.",
+      "explanation": "Biển báo này cho biết tốc độ an toàn được khuyến nghị cho đường dốc thoát. Giảm tốc độ xuống mức này trước khi vào đường dốc."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/truck-rollover-warning-sharp-curve.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Xe tải có thể bị lật trên đường cong gập gập phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Xe tải phải thoát ra tại đây."
+        },
+        {
+          "letter": "C",
+          "text": "Trạm cân xe tải phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Xe tải có thể bị lật trên đường cong gập gập phía trước.",
+      "explanation": "Biển báo cảnh báo tài xế xe tải về một đường cong gập gập nơi có thể xảy ra lật xe. Tất cả tài xế nên giảm tốc độ trước đường cong này."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/cross-road-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giao lộ phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Có một đường ngang đường sắt phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Bệnh viện phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giao lộ phía trước.",
+      "explanation": "Biển báo cảnh báo rằng một con đường khác giao cắt với đường bạn đang đi. Chú ý giao thông từ cả hai phía."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/side-road-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường bên cạnh vào từ bên trái."
+        },
+        {
+          "letter": "B",
+          "text": "Làn trái kết thúc."
+        },
+        {
+          "letter": "C",
+          "text": "Lượt quay trái phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đường bên cạnh vào từ bên trái.",
+      "explanation": "Biển báo cảnh báo rằng một con đường bên cạnh gặp đường của bạn từ bên trái. Chú ý giao thông vào từ hướng đó."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/side-road-at-angle-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường bên cạnh vào ở một góc phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Con đường cong phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Một điểm hợp nhất ở phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đường bên cạnh vào ở một góc phía trước.",
+      "explanation": "Biển báo cảnh báo rằng một con đường vào từ bên cạnh ở một góc. Chú ý các xe vào từ con đường đó."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/side-road-at-angle-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đường bên cạnh vào ở một góc từ bên phải."
+        },
+        {
+          "letter": "B",
+          "text": "Một lượt rẽ phải là bắt buộc."
+        },
+        {
+          "letter": "C",
+          "text": "Có một khu vực nghỉ ngơi ở bên phải."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Đường bên cạnh vào ở một góc từ bên phải.",
+      "explanation": "Biển báo cảnh báo về một con đường bên cạnh vào từ bên phải ở một góc. Chú ý các phương tiện từ hướng đó."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/t-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giao lộ hình chữ T phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Đường cul-de-sac phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Trạm thu phí phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giao lộ hình chữ T phía trước.",
+      "explanation": "Biển báo cảnh báo rằng con đường bạn đang đi kết thúc phía trước tại giao lộ hình chữ T. Bạn phải quay trái hoặc phải."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/t-intersection.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn đang tiếp cận giao lộ hình chữ T."
+        },
+        {
+          "letter": "B",
+          "text": "Cây cầu phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Đường hầm phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bạn đang tiếp cận giao lộ hình chữ T.",
+      "explanation": "Biển báo cảnh báo rằng con đường của bạn kết thúc phía trước tại giao lộ hình chữ T. Chuẩn bị quay trái hoặc phải."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/y-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giao lộ hình chữ Y phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Một điểm hợp nhất ở phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Giao lộ tách nhánh phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giao lộ hình chữ Y phía trước.",
+      "explanation": "Biển báo cảnh báo về giao lộ hình chữ Y phía trước nơi con đường chia thành hai hướng. Chọn làn của bạn sớm."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/intersection-within-curve-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Có một giao lộ trong khúc cua phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Một khúc cua gấp phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Đường hẹp lại trong khúc cua."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Có một giao lộ trong khúc cua phía trước.",
+      "explanation": "Biển báo này cảnh báo có một giao lộ nằm trong một khúc cua. Điều này có thể đặc biệt nguy hiểm vì tầm nhìn có thể bị hạn chế."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/circular-intersection-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một vòng tròn giao thông hoặc vòng xoay phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Đường cul-de-sac phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Khu vực quay đầu xe phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một vòng tròn giao thông hoặc vòng xoay phía trước.",
+      "explanation": "Biển báo này cảnh báo có một vòng tròn giao thông hoặc vòng xoay phía trước. Giảm tốc độ và nhường đường cho các phương tiện đang trong vòng tròn."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/merging-traffic-from-right-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giao thông nhập làn từ bên phải phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Làn đường bên phải kết thúc."
+        },
+        {
+          "letter": "C",
+          "text": "Một làn rẽ phải bắt đầu phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giao thông nhập làn từ bên phải phía trước.",
+      "explanation": "Biển báo này cảnh báo rằng các phương tiện từ một con đường khác sẽ nhập làn từ bên phải. Chuẩn bị điều chỉnh tốc độ hoặc đổi làn."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/entering-roadway-merge-right.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bạn phải nhập làn về bên phải khi vào đường."
+        },
+        {
+          "letter": "B",
+          "text": "Làn bên phải bị đóng."
+        },
+        {
+          "letter": "C",
+          "text": "Một khúc cua về bên phải phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Bạn phải nhập làn về bên phải khi vào đường.",
+      "explanation": "Biển báo này bảo bạn nhập làn về bên phải khi vào đường. Điều chỉnh tốc độ của bạn để an toàn hòa nhập với giao thông."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/entering-roadway-added-lane.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một làn mới được thêm vào cho giao thông nhập vào đường."
+        },
+        {
+          "letter": "B",
+          "text": "Đường ngày càng rộng hơn."
+        },
+        {
+          "letter": "C",
+          "text": "Một làn vượt bắt đầu tại đây."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một làn mới được thêm vào cho giao thông nhập vào đường.",
+      "explanation": "Biển báo này có nghĩa là một làn đường mới được thêm vào con đường cho giao thông nhập vào. Bạn không cần nhập làn ngay lập tức."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/added-lane-from-left.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một làn mới được thêm vào từ bên trái."
+        },
+        {
+          "letter": "B",
+          "text": "Làn bên trái sắp kết thúc."
+        },
+        {
+          "letter": "C",
+          "text": "Giao thông nhập làn từ bên trái."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một làn mới được thêm vào từ bên trái.",
+      "explanation": "Biển báo này cho bạn biết rằng một làn đường mới được thêm vào con đường từ bên trái. Giao thông từ bên trái sẽ có làn riêng của nó."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/lane-reduction-right-lane-ends.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Làn bên phải kết thúc phía trước. Nhập làn sang trái."
+        },
+        {
+          "letter": "B",
+          "text": "Một làn bên phải mới đang bắt đầu."
+        },
+        {
+          "letter": "C",
+          "text": "Đường đang mở rộng."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Làn bên phải kết thúc phía trước. Nhập làn sang trái.",
+      "explanation": "Biển báo này cảnh báo rằng làn bên phải sẽ kết thúc phía trước. Những người lái xe trên làn bên phải phải nhập làn sang trái một cách an toàn."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/road-narrows.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con đường phía trước sẽ hẹp lại."
+        },
+        {
+          "letter": "B",
+          "text": "Cây cầu phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Một con đường một làn phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Con đường phía trước sẽ hẹp lại.",
+      "explanation": "Biển báo này cảnh báo rằng con đường phía trước sẽ hẹp lại. Giảm tốc độ và chuẩn bị cho không gian giảm."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/divided-highway-ahead.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một con đường chia cách bắt đầu phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Một điểm hợp nhất ở phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Đường chia thành hai con đường."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một con đường chia cách bắt đầu phía trước.",
+      "explanation": "Biển báo này cảnh báo rằng con đường phía trước trở thành một con đường chia cách có dải phân cách. Giữ bên phải của dải phân cách."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/hill.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dốc cao phía trước."
+        },
+        {
+          "letter": "B",
+          "text": "Có một gờ giảm tốc độ phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Mặt đường không bằng phẳng."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Dốc cao phía trước.",
+      "explanation": "Biển báo này cảnh báo có một đoạn dốc phía trước. Bạn có thể cần phải chuyển sang số thấp hơn và sử dụng phanh cẩn thận khi đi xuống dốc."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/slippery-when-wet.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con đường có thể trơn trượt khi ẩm ướt."
+        },
+        {
+          "letter": "B",
+          "text": "Con đường có nhiều khúc cua."
+        },
+        {
+          "letter": "C",
+          "text": "Đá lạnh trên đường phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Con đường có thể trơn trượt khi ẩm ướt.",
+      "explanation": "Biển báo này cảnh báo rằng con đường phía trước trở nên trơn trượt khi có mưa. Giảm tốc độ và tránh các cú dừng hoặc rẽ đột ngột trong điều kiện ẩm ướt."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/deer-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hươu có thể qua đường trong khu vực này."
+        },
+        {
+          "letter": "B",
+          "text": "Một công viên động vật hoang dã gần đây."
+        },
+        {
+          "letter": "C",
+          "text": "Săn bắn được phép gần đây."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Hươu có thể qua đường trong khu vực này.",
+      "explanation": "Biển báo này cảnh báo rằng hươu thường xuyên qua đường trong khu vực này. Để ý hươu, đặc biệt vào lúc bình minh và chạng vạng."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/cattle-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gia súc có thể qua đường trong khu vực này."
+        },
+        {
+          "letter": "B",
+          "text": "Một trang trại gần đây."
+        },
+        {
+          "letter": "C",
+          "text": "Một khu vực rodeo phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Gia súc có thể qua đường trong khu vực này.",
+      "explanation": "Biển báo này cảnh báo rằng gia súc hoặc động vật gia chăn khác có thể qua đường. Giảm tốc độ và chuẩn bị dừng lại cho các động vật."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/farm-machinery-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Máy móc nông nghiệp có thể qua hoặc sử dụng đường."
+        },
+        {
+          "letter": "B",
+          "text": "Một chợ nông sản phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Những chiếc xe tải nặng sử dụng con đường này."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Máy móc nông nghiệp có thể qua hoặc sử dụng đường.",
+      "explanation": "Biển báo này cảnh báo rằng máy nông nghiệp chạy chậm có thể ở trên hoặc qua đường. Hãy kiên nhẫn và chỉ vượt khi an toàn."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/truck-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Những chiếc xe tải có thể nhập vào hoặc qua đường."
+        },
+        {
+          "letter": "B",
+          "text": "Một trạm dừng xe tải ở phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Xe tải phải sử dụng làn đường bên phải."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Những chiếc xe tải có thể nhập vào hoặc qua đường.",
+      "explanation": "Biển báo này cảnh báo rằng những chiếc xe tải thường xuyên vào hoặc qua đường tại vị trí này. Để ý các phương tiện lớn."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/snow-mobile-crossing.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Xe snowmobile có thể băng qua đường ở khu vực này."
+        },
+        {
+          "letter": "B",
+          "text": "Một khu nghỉ dưỡng trượt tuyết ở gần đây."
+        },
+        {
+          "letter": "C",
+          "text": "Đường có thể bị phủ bởi tuyết."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Xe snowmobile có thể băng qua đường ở khu vực này.",
+      "explanation": "Biển báo này cảnh báo rằng xe snowmobile thường xuyên băng qua đường ở khu vực này. Hãy cảnh báo cho xe snowmobile, đặc biệt là vào mùa đông."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/fire-station.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một trạm cứu hỏa ở gần đường. Hãy chú ý đến các xe cứu hỏa."
+        },
+        {
+          "letter": "B",
+          "text": "Một vòi cứu hỏa ở gần đây."
+        },
+        {
+          "letter": "C",
+          "text": "Một khu vực lửa trại ở phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Một trạm cứu hỏa ở gần đường. Hãy chú ý đến các xe cứu hỏa.",
+      "explanation": "Biển báo này cảnh báo rằng một trạm cứu hỏa gần đường. Hãy chú ý đến các xe cứu hỏa có thể đột ngột vào đường. Luôn nhường đường cho các phương tiện khẩn cấp."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "image": "/images/warning-signs/traffic-laws-enforced-by-cam.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Luật giao thông được thực thi bằng camera ở khu vực này."
+        },
+        {
+          "letter": "B",
+          "text": "Có một gờ giảm tốc độ phía trước."
+        },
+        {
+          "letter": "C",
+          "text": "Một trạm thu phí có camera ở phía trước."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Luật giao thông được thực thi bằng camera ở khu vực này.",
+      "explanation": "Biển báo này cho biết rằng camera được sử dụng để thực thi luật giao thông ở khu vực này. Tuân theo tất cả luật giao thông, bao gồm giới hạn tốc độ và đèn đỏ."
+    }
+  ]
+}

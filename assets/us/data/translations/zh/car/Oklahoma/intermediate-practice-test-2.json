@@ -1,0 +1,483 @@
+{
+  "state": "Oklahoma",
+  "category": "car",
+  "quizName": "Intermediate Practice Test #2",
+  "slug": "intermediate-practice-test-2",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "553",
+      "question": "进入高速公路：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "打信号，向现有交通让行，并以与交通相同的速度进入。"
+        },
+        {
+          "letter": "B",
+          "text": "打信号并进入高速公路。高速公路交通必须让行。"
+        },
+        {
+          "letter": "C",
+          "text": "缓慢行驶以便您可以检查交通。"
+        },
+        {
+          "letter": "D",
+          "text": "始终首先完全停止。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "打信号，向现有交通让行，并以与交通相同的速度进入。",
+      "explanation": "并入交通时，您应该打信号并以与交通相同的速度进入。进入道路时始终向其他交通让行。"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "764",
+      "question": "这个标志表示：",
+      "image": "/images/signs/crossroad.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "十字路口即将到来。"
+        },
+        {
+          "letter": "B",
+          "text": "合并。"
+        },
+        {
+          "letter": "C",
+          "text": "停止。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "十字路口即将到来。",
+      "explanation": "此标志表示前方有十字路口。"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "1848",
+      "question": "当你同时到达无信号控制的交叉路口，左右两侧都有车辆时，你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "让路给你左边的车辆。"
+        },
+        {
+          "letter": "B",
+          "text": "让路给你右边的车辆。"
+        },
+        {
+          "letter": "C",
+          "text": "等待直到交叉路口没有车辆后再通行。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "让路给你右边的车辆。",
+      "explanation": "如果多辆车同时到达没有标志或信号控制的交叉路口，右边的驾驶员拥有路权。驾驶员应该根据他们到达交叉路口的顺序依次通行。"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "1863",
+      "question": "如果行人在红绿灯前行走，驾驶员不需要让行。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "正确"
+        },
+        {
+          "letter": "B",
+          "text": "错误"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "错误",
+      "explanation": "你必须始终向行人让路。要意识到行人可能误判交通信号并冲过红灯的可能性。"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "1207",
+      "question": "橙色标志表示什么？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "禁止超车区域的开始。"
+        },
+        {
+          "letter": "B",
+          "text": "前方有铁路道口。"
+        },
+        {
+          "letter": "C",
+          "text": "前方有学校区域。"
+        },
+        {
+          "letter": "D",
+          "text": "施工工作的存在。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "施工工作的存在。",
+      "explanation": "施工、维护和紧急操作标志通常是橙色，带有黑色符号。"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "728",
+      "question": "只有显示残疾人士特殊车牌或停车牌的车辆才可以停在为残疾人士保留的停车位上。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "正确"
+        },
+        {
+          "letter": "B",
+          "text": "错误"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "正确",
+      "explanation": "标有\"残疾人保留停车位\"标志的停车位只能由展示残疾人牌照、残疾退伍军人牌照和/或残疾人停车牌的车辆使用。"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "1721",
+      "question": "你在驾驶时开始下雨。你应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "比周围交通驾驶更快。"
+        },
+        {
+          "letter": "B",
+          "text": "以最高限速行驶。"
+        },
+        {
+          "letter": "C",
+          "text": "减速。"
+        },
+        {
+          "letter": "D",
+          "text": "紧跟前面的车辆。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "减速。",
+      "explanation": "当大雨降低能见度时，降低你的速度。打开你的前灯，使其他驾驶员能看到你的车辆。如果雨势太大导致你无法清晰看到，驶入路肩停车，直到雨停。"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "142",
+      "question": "如果满足以下条件，你可以越过双黄线以超越另一辆车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "你前面的车向右移以让你通过。"
+        },
+        {
+          "letter": "B",
+          "text": "道路你一侧的黄线是虚的。"
+        },
+        {
+          "letter": "C",
+          "text": "对面道路的黄线是虚的。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "道路你一侧的黄线是虚的。",
+      "explanation": "道路中心的虚黄线表示靠近虚黄线的交通可以超越（如果安全的话）。"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "1547",
+      "question": "你必须停下来让学校巴士通过：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "停在道路肩部且车内没有人。"
+        },
+        {
+          "letter": "B",
+          "text": "当它朝你驶近时，即使其灯光没有闪烁。"
+        },
+        {
+          "letter": "C",
+          "text": "如果你们都在两车道高速公路上行驶，且其红灯在闪烁。"
+        },
+        {
+          "letter": "D",
+          "text": "只要驾驶员向你挥手。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "如果你们都在两车道高速公路上行驶，且其红灯在闪烁。",
+      "explanation": "当接近一辆学校巴士时，如果它在停止接送儿童时显示闪烁的红灯，你必须停止。在两车道道路上，双向行驶的交通都必须停止，只要巴士顶部附近的红灯闪烁和/或巴士左侧的停车臂伸出，就必须保持停止状态。"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "2235",
+      "question": "如果担心、紧张、愤怒或哭泣，驾驶员应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "驾驶方式与思路清晰时没有区别。"
+        },
+        {
+          "letter": "B",
+          "text": "可以驾驶得更快，因为他们对感官的感受更敏感。"
+        },
+        {
+          "letter": "C",
+          "text": "应该在启动引擎前花时间专注于驾驶。"
+        },
+        {
+          "letter": "D",
+          "text": "应该在驾驶时打电话给朋友倾诉。"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "应该在启动引擎前花时间专注于驾驶。",
+      "explanation": "如果你感到担心、兴奋、哭泣、愤怒或沮丧，你可能无法很好地驾驶。情绪会让你分心，因为你的注意力集中在别的东西上。在驾驶前花时间冷静下来并集中注意力。"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "713",
+      "question": "如果车辆在水上打滑,驾驶员应该迅速踩刹车。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "正确"
+        },
+        {
+          "letter": "B",
+          "text": "错误"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "错误",
+      "explanation": "如果车辆在水滑时打滑,驾驶员应该尝试恢复车辆控制。如果那不可能,驾驶员应该释放油门并度过打滑。驾驶员不应该立即踩刹车。"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "1467",
+      "question": "如果卡车或巴士正在进行右转，而您也需要进行右转，您应该：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在卡车或公交车能够转向之前快速转向。"
+        },
+        {
+          "letter": "B",
+          "text": "等待卡车或巴士转弯后再转弯。"
+        },
+        {
+          "letter": "C",
+          "text": "在卡车或公交车和路边之间挤过。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "等待卡车或巴士转弯后再转弯。",
+      "explanation": "如果您试图将您的车辆插入正在转弯的卡车或巴士与路缘之间，您可能会遭受严重的碰撞。为避免碰撞，在卡车或巴士完成转弯前不要转弯。"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "2899",
+      "question": "您何时可以在道路右肩超车？",
+      "options": [
+        {
+          "letter": "A",
+          "text": "从不。"
+        },
+        {
+          "letter": "B",
+          "text": "当你前面的车行驶太慢时。"
+        },
+        {
+          "letter": "C",
+          "text": "当您前面的车在转弯时。"
+        },
+        {
+          "letter": "D",
+          "text": "当肩部铺装时。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "从不。",
+      "explanation": "如果你从右边超车，只有在条件允许你合法且安全地超车时才可以这样做。在任何情况下，你都不允许驶离路面或进入路肩来超越另一辆车。"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "763",
+      "question": "这个标志表示：",
+      "image": "/images/signs/divided_highway_begins.png",
+      "options": [
+        {
+          "letter": "A",
+          "text": "分隔型公路。"
+        },
+        {
+          "letter": "B",
+          "text": "铁路警告。"
+        },
+        {
+          "letter": "C",
+          "text": "禁止超车区域。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "分隔型公路。",
+      "explanation": "此标志表示分隔的高速公路即将开始。"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "1923",
+      "question": "在雪地或冰面条件下驾驶时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "使用定速巡航是安全的。"
+        },
+        {
+          "letter": "B",
+          "text": "比平时更逐步地改变速度和方向。"
+        },
+        {
+          "letter": "C",
+          "text": "像在正常条件下一样驾驶。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "比平时更逐步地改变速度和方向。",
+      "explanation": "在雪地或冰面条件下驾驶时，你应逐步改变速度和方向。在冰雪路面上驾驶时切勿使用定速巡航，因为你的轮胎可能失去与路面的接触，你将失去对车辆的控制。"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "2250",
+      "question": "颜色为橙色的标志是：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "施工区标志。"
+        },
+        {
+          "letter": "B",
+          "text": "管制标志。"
+        },
+        {
+          "letter": "C",
+          "text": "学校区标志。"
+        },
+        {
+          "letter": "D",
+          "text": "指路标志。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "施工区标志。",
+      "explanation": "高速公路施工区根据沿着道路进行的施工类型设立。施工区域中的标志通常是钻石形的、橙色的、带有黑色字母或符号的，并警告人们正在高速公路上或附近施工。"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "638",
+      "question": "禁止超车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "在山丘和弯道上。"
+        },
+        {
+          "letter": "B",
+          "text": "在十字路口。"
+        },
+        {
+          "letter": "C",
+          "text": "在铁路道口。"
+        },
+        {
+          "letter": "D",
+          "text": "以上全部。"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "以上全部。",
+      "explanation": "禁止超车的地点包括山丘、弯道、十字路口和铁路道口，这些地方违法且不安全。"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "1573",
+      "question": "在被任何活动分散注意力时开车：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "从不危险。"
+        },
+        {
+          "letter": "B",
+          "text": "通常会导致驾驶员对危险反应迟缓。"
+        },
+        {
+          "letter": "C",
+          "text": "通常会导致驾驶员开车速度更快。"
+        },
+        {
+          "letter": "D",
+          "text": "仅对年轻驾驶员危险。"
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "通常会导致驾驶员对危险反应迟缓。",
+      "explanation": "分心驾驶会导致驾驶员对交通和道路上的危险反应迟缓。分心驾驶从来都不安全。"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "1535",
+      "question": "超车时：",
+      "options": [
+        {
+          "letter": "A",
+          "text": "检查您的镜子和盲点。"
+        },
+        {
+          "letter": "B",
+          "text": "至少按三次喇叭。"
+        },
+        {
+          "letter": "C",
+          "text": "在距离被超越车辆10英尺以内重新进入你的车道。"
+        },
+        {
+          "letter": "D",
+          "text": "没有必要打信号。"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "检查您的镜子和盲点。",
+      "explanation": "在超越另一辆车之前，检查你的后视镜和盲点。在变道前，激活适当的转向信号。当你能在后视镜中看到被超越车辆的前部时，重新进入车道。"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "262",
+      "question": "相反方向行驶的交通车道由____线分隔。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "白色"
+        },
+        {
+          "letter": "B",
+          "text": "红色"
+        },
+        {
+          "letter": "C",
+          "text": "黑色"
+        },
+        {
+          "letter": "D",
+          "text": "黄色"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "黄色",
+      "explanation": "黄线用于分隔相反方向的交通。"
+    }
+  ]
+}

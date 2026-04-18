@@ -1,0 +1,494 @@
+{
+  "state": "Alabama",
+  "category": "cdl",
+  "testName": "Tank Test #1 20 Questions • Passing Score 16",
+  "testSlug": "tank-1",
+  "url": "/images/alabama/cdl/tank-1.html",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "9471",
+      "question": "Một bể chứa thường có:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trọng tâm thấp."
+        },
+        {
+          "letter": "B",
+          "text": "Trọng tâm cao."
+        },
+        {
+          "letter": "C",
+          "text": "Một bộ phanh bổ sung."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Trọng tâm cao.",
+      "explanation": "Lái xe chứa liquid yêu cầu sự chăm sóc đặc biệt vì chúng thường có trọng tâm cao. Tài xế cũng nên dự tính chuyển động của hàng hóa trong quá trình vận chuyển, nếu vận chuyển hàng hóa lỏng."
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "10481",
+      "question": "Bể chứa di động:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không thể được tháo rời khỏi xe."
+        },
+        {
+          "letter": "B",
+          "text": "Không được gắn cố định vào xe."
+        },
+        {
+          "letter": "C",
+          "text": "Được gắn cố định vào xe."
+        },
+        {
+          "letter": "D",
+          "text": "Không nên được sử dụng."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Không được gắn cố định vào xe.",
+      "explanation": "Bể chứa hàng hóa ở trên xe mọi lúc, bất kể có vận chuyển hàng hóa hay không. Bể chứa di động là bao bì hàng loạt và không được gắn cố định vào xe."
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "11317",
+      "question": "Tài xế có thể duy trì sự tỉnh táo như thế nào khi lái xe?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Giữ sức khỏe và tình trạng thể chất tốt"
+        },
+        {
+          "letter": "B",
+          "text": "Giữ cabin ấm áp"
+        },
+        {
+          "letter": "C",
+          "text": "Ăn những thực phẩm nặng"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Giữ sức khỏe và tình trạng thể chất tốt",
+      "explanation": "Ăn những thực phẩm nặng trước khi lái xe hoặc giữ nhiệt độ trong cabin quá cao có thể làm cho tài xế buồn ngủ khi ngồi trên ghế lái. Tập thể dục và duy trì chế độ ăn uống lành mạnh sẽ giúp tài xế luôn tỉnh táo khi lái xe."
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "11556",
+      "question": "Một cách để ngăn chặn lật xe là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Di chuyển hàng hóa sang phía bên trái của xe tải."
+        },
+        {
+          "letter": "B",
+          "text": "Giữ hàng hóa ở tâm giữa của xe tải."
+        },
+        {
+          "letter": "C",
+          "text": "Di chuyển hàng hóa sang phía bên phải của xe tải."
+        },
+        {
+          "letter": "D",
+          "text": "Giữ hàng hóa càng xa mặt đất càng tốt."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Giữ hàng hóa ở tâm giữa của xe tải.",
+      "explanation": "Lật xe có khả năng xảy ra cao hơn nếu hàng hóa được chất lên không đều trong một chiếc xe tải. Để giúp ngăn chặn lật xe nguy hiểm, điều quan trọng là giữ tải trọng ở tâm giữa của xe tải càng nhiều càng tốt."
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "8957",
+      "question": "Số hiệu, tên vận chuyển và lớp nguy hiểm:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nên được viết tắt trên giấy vận chuyển nếu sử dụng một mảnh giấy nhỏ."
+        },
+        {
+          "letter": "B",
+          "text": "Nên được viết tắt trên giấy vận chuyển để dễ đọc hơn."
+        },
+        {
+          "letter": "C",
+          "text": "Không nên được viết tắt trên giấy vận chuyển."
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ nên được viết tắt trên giấy vận chuyển nếu các chữ viết tắt dễ hiểu."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Không nên được viết tắt trên giấy vận chuyển.",
+      "explanation": "Số hiệu, tên vận chuyển và lớp nguy hiểm không bao giờ được viết tắt trên giấy vận chuyển. Ngoại lệ duy nhất là nếu viết tắt được phép cụ thể trong các quy định về vật liệu nguy hiểm."
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "8548",
+      "question": "Một chiếc xe tải hàng là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thường cùng chiều cao với hoặc không có tải."
+        },
+        {
+          "letter": "B",
+          "text": "Thường cao hơn với tải nặng so với tải nhẹ."
+        },
+        {
+          "letter": "C",
+          "text": "Thường ngắn hơn với tải nặng so với tải nhẹ."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Thường ngắn hơn với tải nặng so với tải nhẹ.",
+      "explanation": "Trọng lượng bổ sung của một tải nặng sẽ làm cho xe nằm thấp hơn bình thường. Một chiếc xe sẽ thường cao hơn khi vận chuyển tải nhẹ so với khi vận chuyển tải nặng. Nếu xe của bạn vừa vặn dưới cây cầu vượt khi chở tải đầy đủ, không đảm bảo rằng nó sẽ vừa vặn dưới cây cầu vượt tương tự nếu xe trống."
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "10120",
+      "question": "Ai phải dán nhãn vật liệu nguy hiểm?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Người gửi"
+        },
+        {
+          "letter": "B",
+          "text": "Người xếp hàng"
+        },
+        {
+          "letter": "C",
+          "text": "Người lái xe"
+        },
+        {
+          "letter": "D",
+          "text": "Thợ máy"
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Người gửi",
+      "explanation": "Người gửi vật liệu nguy hiểm có trách nhiệm đóng gói, đánh dấu và dán nhãn vật liệu. Họ phải cung cấp bất kỳ biển báo cần thiết."
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "11834",
+      "question": "Đường ống khí cấp cứu cung cấp khí cho:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Các van tiếp liên."
+        },
+        {
+          "letter": "B",
+          "text": "Bể khí của rơ mooc."
+        },
+        {
+          "letter": "C",
+          "text": "Đường tín hiệu."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Bể khí của rơ mooc.",
+      "explanation": "Đường ống khí cấp cứu (còn được gọi là đường cung cấp) có hai chức năng. Chức năng đầu tiên là cung cấp khí cho bể khí của rơ mooc, và chức năng thứ hai là điều khiển phanh cấp cứu trên xe kết hợp."
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "11470",
+      "question": "Khi nạp hàng hóa lỏng, bạn nên tính đến:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trọng lượng của chất lỏng."
+        },
+        {
+          "letter": "B",
+          "text": "Màu sắc của hàng hóa."
+        },
+        {
+          "letter": "C",
+          "text": "Áp suất không khí trong lốp xe."
+        },
+        {
+          "letter": "D",
+          "text": "Giới hạn tốc độ trên tuyến đường."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Trọng lượng của chất lỏng.",
+      "explanation": "Các yếu tố ảnh hưởng đến lượng chất lỏng an toàn để nạp vào bình chứa của bạn bao gồm mức độ chất lỏng sẽ giãn nở trong quá trình vận chuyển, trọng lượng của chất lỏng và giới hạn trọng lượng hợp pháp."
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "9948",
+      "question": "Rơ mooc cũ không được trang bị phanh lò xo. Điều này có nghĩa là nếu nguồn cấp khí cho hệ thống phanh khí của xe bị rò rỉ:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rơ mooc sẽ dừng bình thường."
+        },
+        {
+          "letter": "B",
+          "text": "Rơ mooc sẽ không có phanh."
+        },
+        {
+          "letter": "C",
+          "text": "Rơ mooc sẽ tăng tốc độ."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Rơ mooc sẽ không có phanh.",
+      "explanation": "Rơ mooc cũ không có phanh lò xo. Điều này có nghĩa là nếu nguồn cấp khí trong bình chứa khí của rơ mooc cũ bị rò rỉ, sẽ không có phanh hoạt động nào được kết nối với rơ mooc và bánh xe sẽ quay tự do."
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "8967",
+      "question": "____ biển cảnh báo giống hệt nhau phải được dán trên xe vận chuyển hàng hóa nguy hiểm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một"
+        },
+        {
+          "letter": "B",
+          "text": "Hai"
+        },
+        {
+          "letter": "C",
+          "text": "Ba"
+        },
+        {
+          "letter": "D",
+          "text": "Bốn"
+        }
+      ],
+      "correctAnswerLetter": "D",
+      "correctAnswerText": "Bốn",
+      "explanation": "Khi biển cảnh báo hàng hóa nguy hiểm được yêu cầu, chúng phải được dán trên cả bốn cạnh của phương tiện vận chuyển."
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "8901",
+      "question": "Có ABS chỉ trên một trục:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không thay đổi phanh theo bất kỳ cách nào."
+        },
+        {
+          "letter": "B",
+          "text": "Là không thể."
+        },
+        {
+          "letter": "C",
+          "text": "Sẽ cho phép người lái xe kiểm soát thêm xe của họ khi phanh."
+        },
+        {
+          "letter": "D",
+          "text": "Sẽ gây ra căng thẳng thêm trên các trục khác."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sẽ cho phép người lái xe kiểm soát thêm xe của họ khi phanh.",
+      "explanation": "Có Hệ thống Phanh Chống Khóa (ABS) chỉ trên rơmooc hoặc thậm chí chỉ trên một trục, vẫn sẽ cung cấp cho người lái xe quyền kiểm soát thêm đối với rơmooc khi phanh."
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "9243",
+      "question": "Khi rẽ, tín hiệu rẽ nên được hủy khi nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trước khi vào rẽ"
+        },
+        {
+          "letter": "B",
+          "text": "Trong quá trình rẽ"
+        },
+        {
+          "letter": "C",
+          "text": "Sau khi hoàn thành rẽ"
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Sau khi hoàn thành rẽ",
+      "explanation": "Luôn phát tín hiệu liên tục trong quá trình rẽ. Không hủy tín hiệu cho đến khi hoàn thành rẽ."
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "9897",
+      "question": "Khi lái xe bồn:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Các đường cong nên được thực hiện nhanh hơn giới hạn tốc độ được công bố."
+        },
+        {
+          "letter": "B",
+          "text": "Các đường cong nên được thực hiện chậm hơn giới hạn tốc độ được công bố."
+        },
+        {
+          "letter": "C",
+          "text": "Nếu có hai làn giao thông, xe bồn nên sử dụng cả hai làn."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Các đường cong nên được thực hiện chậm hơn giới hạn tốc độ được công bố.",
+      "explanation": "Xe bồn có trọng tâm cao và do đó đặc biệt dễ bị lật. Để giảm rủi ro này, xe bồn nên được lái chậm hơn đáng kể so với giới hạn tốc độ được công bố trên các đường cong."
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "10943",
+      "question": "Đường xá trơn trượt khi mới bắt đầu mưa vì:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nước rất trơn trượt."
+        },
+        {
+          "letter": "B",
+          "text": "Mưa tươi trộn với dầu trên mặt đường."
+        },
+        {
+          "letter": "C",
+          "text": "Nước không có chỗ để đi."
+        },
+        {
+          "letter": "D",
+          "text": "Bê tông có thể trơn trượt."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Mưa tươi trộn với dầu trên mặt đường.",
+      "explanation": "Đường xá đặc biệt trơn trượt khi mới bắt đầu mưa. Nước mưa ban đầu trộn với dầu và mỡ trên đường để tạo thành một lớp phim trơn trượt. Khi mưa tiếp tục, hỗn hợp này cuối cùng sẽ bị rửa sạch."
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "8826",
+      "question": "Nếu bạn rẽ trái và có hai làn rẽ trái có sẵn, bạn nên chọn làn nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Làn bên trái"
+        },
+        {
+          "letter": "B",
+          "text": "Làn bên phải"
+        },
+        {
+          "letter": "C",
+          "text": "Bất kỳ làn nào"
+        },
+        {
+          "letter": "D",
+          "text": "Xe tải không nên rẽ ở những nơi có hai làn rẽ trái."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Làn bên phải",
+      "explanation": "Một xe lớn có thể cần phải lách phải để rẽ trái. Nếu giao lộ có hai làn rẽ trái, người lái xe nên chọn làn bên phải để bắt đầu rẽ."
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "11261",
+      "question": "Để kiểm tra mức chất lỏng hộp số tự động trong một số phương tiện, bạn sẽ phải:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đỗ phương tiện của bạn lên dốc."
+        },
+        {
+          "letter": "B",
+          "text": "Đỗ phương tiện của bạn xuống dốc."
+        },
+        {
+          "letter": "C",
+          "text": "Để phương tiện chạy."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Để phương tiện chạy.",
+      "explanation": "Trong một số phương tiện, có thể cần phải để động cơ chạy khi kiểm tra mức chất lỏng hộp số tự động."
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "11097",
+      "question": "Khi lái xe được trang bị Hệ thống phanh chống bó cứng (ABS), bạn nên:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dừng mạnh hơn so với trong xe không được trang bị ABS."
+        },
+        {
+          "letter": "B",
+          "text": "Sử dụng lực phanh thêm để đảm bảo ABS kích hoạt."
+        },
+        {
+          "letter": "C",
+          "text": "Phanh như bạn sẽ làm trong xe không được trang bị ABS."
+        },
+        {
+          "letter": "D",
+          "text": "Phanh với lực ít hơn so với trong xe không được trang bị ABS."
+        }
+      ],
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "Phanh như bạn sẽ làm trong xe không được trang bị ABS.",
+      "explanation": "Khi lái kéo-mooc được trang bị Hệ thống phanh chống bó cứng (ABS), bạn nên phanh theo cách tương tự như khi xe không được trang bị ABS."
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "11355",
+      "question": "Các bộ phận khung gầm bị hỏng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nên được sửa chữa ngay lập tức."
+        },
+        {
+          "letter": "B",
+          "text": "Nên được sửa chữa, nhưng không phải ngay lập tức."
+        },
+        {
+          "letter": "C",
+          "text": "Không thể được xác định."
+        }
+      ],
+      "correctAnswerLetter": "A",
+      "correctAnswerText": "Nên được sửa chữa ngay lập tức.",
+      "explanation": "Hệ thống khung gầm thực hiện các chức năng quan trọng là hỗ trợ xe và tải của nó trong khi giữ các trục ở vị trí. Các khiếm khuyết trong hệ thống khung gầm do đó cực kỳ nguy hiểm."
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "10967",
+      "question": "Hệ thống phanh chống bó cứng (ABS):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cho phép bánh xe bị bó cứng."
+        },
+        {
+          "letter": "B",
+          "text": "Ngăn chặn bánh xe bị bó cứng."
+        },
+        {
+          "letter": "C",
+          "text": "Giúp dễ dàng hơn để rẽ một chiếc xe lớn."
+        },
+        {
+          "letter": "D",
+          "text": "Hỗ trợ hoạt động của đèn phanh."
+        }
+      ],
+      "correctAnswerLetter": "B",
+      "correctAnswerText": "Ngăn chặn bánh xe bị bó cứng.",
+      "explanation": "Chức năng của Hệ thống phanh chống bó cứng (ABS) là ngăn chặn các bánh xe của xe bị bó cứng khi phanh gắt."
+    }
+  ]
+}
