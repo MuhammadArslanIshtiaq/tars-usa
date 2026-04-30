@@ -38,12 +38,12 @@
     "extra": {
       "admob": {
         "android": {
-          "appId": "ca-app-pub-5967256865674252~3930298885",
-          "interstitialUnitId": "ca-app-pub-5967256865674252/5107649185"
+          "appId": "ca-app-pub-5967256865674252~4067627735",
+          "interstitialUnitId": "ca-app-pub-5967256865674252/6174916322"
         },
         "ios": {
-          "appId": "ca-app-pub-5967256865674252~8991053879",
-          "interstitialUnitId": "ca-app-pub-5967256865674252/1213346642"
+          "appId": "ca-app-pub-5967256865674252~5983344636",
+          "interstitialUnitId": "ca-app-pub-5967256865674252/6743779032"
         }
       },
       "eas": {
@@ -62,8 +62,8 @@
       [
         "react-native-google-mobile-ads",
         {
-          "androidAppId": "ca-app-pub-5967256865674252~3930298885",
-          "iosAppId": "ca-app-pub-5967256865674252~8991053879"
+          "androidAppId": "ca-app-pub-5967256865674252~4067627735",
+          "iosAppId": "ca-app-pub-5967256865674252~5983344636"
         }
       ],
       "expo-font",
