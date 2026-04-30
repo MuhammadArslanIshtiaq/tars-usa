@@ -13,6 +13,7 @@ import {
 } from 'react-native';
 import Header from '../components/Header';
 import { useUser } from '../contexts/UserContext';
+import { COLORS } from '../theme/colors';
 
 const ProgressScreen = ({ navigation }) => {
   const { username, userStats, quizHistory, loadUserData } = useUser();
@@ -175,15 +176,6 @@ const ProgressScreen = ({ navigation }) => {
     loadUserData();
   };
 
-  const renderHeaderRight = () => (
-    <TouchableOpacity 
-      style={styles.headerButton}
-      onPress={() => navigation.goBack()}
-    >
-      <Ionicons name="arrow-back" size={24} color="white" />
-    </TouchableOpacity>
-  );
-
   const renderStatsCard = () => (
     <View style={styles.statsCard}>
       <View style={styles.sectionHeader}>
@@ -191,24 +183,38 @@ const ProgressScreen = ({ navigation }) => {
         <TouchableOpacity 
           style={styles.refreshButton}
           onPress={handleRefresh}
+          accessibilityRole="button"
+          accessibilityLabel="Refresh progress"
         >
-          <Ionicons name="refresh" size={20} color="#1a5f3a" />
+          <Ionicons name="refresh" size={20} color={COLORS.primary2} />
         </TouchableOpacity>
       </View>
       <View style={styles.statsGrid}>
         <View style={styles.statItem}>
+          <View style={styles.statIconWrap}>
+            <Ionicons name="reader-outline" size={18} color={COLORS.primary2} />
+          </View>
           <Text style={styles.statNumber}>{userStats.quizzesTaken}</Text>
           <Text style={styles.statLabel}>Quizzes Taken</Text>
         </View>
         <View style={styles.statItem}>
+          <View style={styles.statIconWrap}>
+            <Ionicons name="sparkles-outline" size={18} color={COLORS.accent} />
+          </View>
           <Text style={styles.statNumber}>{userStats.totalPoints}</Text>
           <Text style={styles.statLabel}>Total Points</Text>
         </View>
         <View style={styles.statItem}>
+          <View style={styles.statIconWrap}>
+            <Ionicons name="speedometer-outline" size={18} color={COLORS.primary2} />
+          </View>
           <Text style={styles.statNumber}>{userStats.averageScore.toFixed(1)}%</Text>
           <Text style={styles.statLabel}>Average Score</Text>
         </View>
         <View style={styles.statItem}>
+          <View style={styles.statIconWrap}>
+            <Ionicons name="flame-outline" size={18} color={COLORS.accent} />
+          </View>
           <Text style={styles.statNumber}>{streakData.currentStreak}</Text>
           <Text style={styles.statLabel}>Day Streak</Text>
         </View>
@@ -266,9 +272,7 @@ const ProgressScreen = ({ navigation }) => {
         username={username} 
         navigation={navigation}
         pageTitle="Progress"
-      >
-        {renderHeaderRight()}
-      </Header>
+      />
       
       <FlatList
         data={[{ type: 'content' }]}
@@ -314,14 +318,16 @@ const ProgressScreen = ({ navigation }) => {
             {/* Empty State */}
             {userStats.quizzesTaken === 0 && (
               <View style={styles.emptyState}>
-        <Ionicons name="stats-chart-outline" size={64} color="#ccc" />
+        <Ionicons name="stats-chart-outline" size={64} color="#94a3b8" />
                 <Text style={styles.emptyTitle}>Start Your Journey</Text>
                 <Text style={styles.emptyDescription}>
                   Take your first quiz to begin tracking your progress and earning achievements!
         </Text>
                 <TouchableOpacity 
                   style={styles.startButton}
-                  onPress={() => navigation.navigate('Test')}
+                  onPress={() => navigation.navigate('Home')}
+                  accessibilityRole="button"
+                  accessibilityLabel="Go to Home to take a quiz"
                 >
                   <Text style={styles.startButtonText}>Take a Quiz</Text>
                 </TouchableOpacity>
@@ -340,7 +346,7 @@ const ProgressScreen = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f5f5f5',
+    backgroundColor: COLORS.background,
   },
   scrollContainer: {
     flexGrow: 1,
@@ -348,27 +354,18 @@ const styles = StyleSheet.create({
   content: {
     padding: 16,
   },
-  headerButtons: {
-    flexDirection: 'row',
-    gap: 8,
-  },
-  headerButton: {
-    width: 40,
-    height: 40,
-    borderRadius: 20,
-    backgroundColor: 'rgba(255, 255, 255, 0.2)',
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
   
   // Stats Card Styles
   statsCard: {
-    backgroundColor: 'white',
+    backgroundColor: COLORS.surface,
     borderRadius: 16,
     padding: 20,
     marginBottom: 20,
     elevation: 3,
-    boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.1)',
+    shadowColor: '#0b1220',
+    shadowOffset: { width: 0, height: 10 },
+    shadowOpacity: 0.06,
+    shadowRadius: 18,
   },
   statsGrid: {
     flexDirection: 'row',
@@ -381,10 +378,19 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 16,
   },
+  statIconWrap: {
+    width: 34,
+    height: 34,
+    borderRadius: 12,
+    backgroundColor: '#EFF6FF',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginBottom: 6,
+  },
   statNumber: {
     fontSize: 32,
     fontWeight: 'bold',
-    color: '#1a5f3a',
+    color: COLORS.primary,
     marginBottom: 4,
   },
   statLabel: {
@@ -400,7 +406,7 @@ const styles = StyleSheet.create({
   sectionTitle: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#333',
+    color: COLORS.text,
   },
   sectionHeader: {
     flexDirection: 'row',
@@ -412,17 +418,14 @@ const styles = StyleSheet.create({
     width: 36,
     height: 36,
     borderRadius: 18,
-    backgroundColor: '#f0f0f0',
+    backgroundColor: '#F1F5F9',
     justifyContent: 'center',
     alignItems: 'center',
     elevation: 1,
-    shadowColor: '#000',
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    shadowColor: '#0b1220',
+    shadowOffset: { width: 0, height: 8 },
+    shadowOpacity: 0.06,
+    shadowRadius: 14,
   },
   sectionHeaderRow: {
     flexDirection: 'row',
@@ -433,7 +436,7 @@ const styles = StyleSheet.create({
 
   // Achievement Styles
   achievementCount: {
-    backgroundColor: '#1a5f3a',
+    backgroundColor: COLORS.primary,
     borderRadius: 12,
     paddingHorizontal: 8,
     paddingVertical: 4,
@@ -448,12 +451,15 @@ const styles = StyleSheet.create({
   achievementCard: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: 'white',
+    backgroundColor: COLORS.surface,
     borderRadius: 12,
     padding: 16,
     marginBottom: 12,
     elevation: 2,
-    boxShadow: '0px 1px 2px rgba(0, 0, 0, 0.1)',
+    shadowColor: '#0b1220',
+    shadowOffset: { width: 0, height: 10 },
+    shadowOpacity: 0.06,
+    shadowRadius: 18,
   },
   achievementIcon: {
     width: 48,
@@ -469,7 +475,7 @@ const styles = StyleSheet.create({
   achievementTitle: {
     fontSize: 16,
     fontWeight: 'bold',
-    color: '#333',
+    color: COLORS.text,
     marginBottom: 4,
   },
   achievementDescription: {
@@ -479,12 +485,15 @@ const styles = StyleSheet.create({
 
   // Quiz Card Styles
   quizCard: {
-    backgroundColor: 'white',
+    backgroundColor: COLORS.surface,
     borderRadius: 12,
     padding: 16,
     marginBottom: 12,
     elevation: 2,
-    boxShadow: '0px 1px 2px rgba(0, 0, 0, 0.1)',
+    shadowColor: '#0b1220',
+    shadowOffset: { width: 0, height: 10 },
+    shadowOpacity: 0.06,
+    shadowRadius: 18,
   },
   quizHeader: {
     flexDirection: 'row',
@@ -495,7 +504,7 @@ const styles = StyleSheet.create({
   quizTitle: {
     fontSize: 16,
     fontWeight: '600',
-    color: '#333',
+    color: COLORS.text,
     flex: 1,
     marginRight: 8,
   },
@@ -515,7 +524,7 @@ const styles = StyleSheet.create({
   quizScore: {
     fontSize: 18,
     fontWeight: 'bold',
-    color: '#1a5f3a',
+    color: COLORS.primary,
     marginRight: 4,
   },
   perfectScore: {
@@ -535,7 +544,7 @@ const styles = StyleSheet.create({
   emptyTitle: {
     fontSize: 24,
     fontWeight: 'bold',
-    color: '#333',
+    color: COLORS.text,
     marginTop: 16,
     marginBottom: 12,
   },
@@ -547,12 +556,15 @@ const styles = StyleSheet.create({
     marginBottom: 24,
   },
   startButton: {
-    backgroundColor: '#1a5f3a',
+    backgroundColor: COLORS.accent,
     paddingHorizontal: 32,
     paddingVertical: 14,
     borderRadius: 8,
     elevation: 2,
-    boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.1)',
+    shadowColor: '#0b1220',
+    shadowOffset: { width: 0, height: 10 },
+    shadowOpacity: 0.12,
+    shadowRadius: 18,
   },
   startButtonText: {
     color: 'white',

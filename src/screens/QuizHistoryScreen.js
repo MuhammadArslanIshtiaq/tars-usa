@@ -3,9 +3,17 @@ import { LinearGradient } from 'expo-linear-gradient';
 import React from 'react';
 import { FlatList, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { useUser } from '../contexts/UserContext';
+import { COLORS, GRADIENTS } from '../theme/colors';
 
 const QuizHistoryScreen = ({ navigation }) => {
   const { quizHistory, userStats } = useUser();
+
+  const formatScore = (value) => {
+    const n = typeof value === 'number' ? value : Number(value);
+    if (!Number.isFinite(n)) return '0';
+    // max 2 decimals, but don't force trailing zeros
+    return String(parseFloat(n.toFixed(2)));
+  };
 
   const formatDate = (timestamp) => {
     if (!timestamp) return '';
@@ -26,9 +34,9 @@ const QuizHistoryScreen = ({ navigation }) => {
   };
 
   const getScoreColor = (score) => {
-    if (score >= 90) return '#1a5f3a';
-    if (score >= 70) return '#FFC107';
-    return '#FF5722';
+    if (score >= 90) return COLORS.primary2;
+    if (score >= 70) return '#F59E0B';
+    return COLORS.accent;
   };
 
   const renderHistoryItem = ({ item }) => (
@@ -78,7 +86,7 @@ const QuizHistoryScreen = ({ navigation }) => {
     <View style={styles.container}>
       <StatusBar translucent backgroundColor="transparent" />
       <LinearGradient
-        colors={['#1a5f3a', '#2d8659']}
+        colors={GRADIENTS.header}
         style={styles.header}
         start={{ x: 0, y: 0 }}
         end={{ x: 1, y: 1 }}
@@ -96,7 +104,7 @@ const QuizHistoryScreen = ({ navigation }) => {
 
         <View style={styles.statsContainer}>
           <View style={styles.statItem}>
-            <Text style={styles.statValue}>{userStats.averageScore}%</Text>
+            <Text style={styles.statValue}>{formatScore(userStats.averageScore)}%</Text>
             <Text style={styles.statLabel}>Average Score</Text>
           </View>
           <View style={styles.statDivider} />
@@ -125,7 +133,7 @@ const QuizHistoryScreen = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f5f5f5',
+    backgroundColor: COLORS.background,
   },
   header: {
     paddingTop: 48,

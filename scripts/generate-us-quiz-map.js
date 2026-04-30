@@ -26,6 +26,12 @@ const getArg = (name, fallback) => {
   return value || fallback;
 };
 
+const parseCsv = (value) =>
+  String(value || '')
+    .split(',')
+    .map((s) => s.trim())
+    .filter(Boolean);
+
 const main = () => {
   if (!fs.existsSync(dataRoot)) {
     console.error(`Missing data root: ${dataRoot}`);
@@ -35,6 +41,7 @@ const main = () => {
   const category = getArg('category', 'car');
   const state = getArg('state', 'Alabama');
   const includeTranslations = getArg('translations', 'true') !== 'false';
+  const translationLangs = parseCsv(getArg('langs', 'es')); // default: only bundle Spanish translations
   const scopedRoot = path.join(dataRoot, category, state);
 
   if (!fs.existsSync(scopedRoot)) {
@@ -47,10 +54,15 @@ const main = () => {
   if (includeTranslations) {
     const translationsRoot = path.join(dataRoot, 'translations');
     if (fs.existsSync(translationsRoot)) {
-      const langDirs = fs
+      const availableLangDirs = fs
         .readdirSync(translationsRoot, { withFileTypes: true })
         .filter((d) => d.isDirectory())
         .map((d) => d.name);
+
+      const langDirs =
+        translationLangs.length === 0 || translationLangs.includes('all')
+          ? availableLangDirs
+          : availableLangDirs.filter((l) => translationLangs.includes(l));
 
       for (const lang of langDirs) {
         const translationScopedRoot = path.join(translationsRoot, lang, category, state);

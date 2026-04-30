@@ -1,11 +1,12 @@
 import { Ionicons } from '@expo/vector-icons';
 import React from 'react';
 import { Alert, Platform, Share, StyleSheet, Text, TouchableOpacity } from 'react-native';
+import { COLORS } from '../theme/colors';
 
 const ShareApp = ({ 
   style = {}, 
   iconSize = 24, 
-  iconColor = '#1a5f3a',
+  iconColor = COLORS.primary2,
   showText = false,
   customMessage = null 
 }) => {

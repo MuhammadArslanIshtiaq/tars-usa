@@ -357,11 +357,11 @@
         },
         {
           "letter": "C",
-          "text": "Both of the above."
+          "text": "Both of these."
         }
       ],
       "correctAnswerLetter": "C",
-      "correctAnswerText": "Both of the above.",
+      "correctAnswerText": "Both of these.",
       "explanation": "Alcohol and drugs hurt many driving skills. They slow your reaction time, hurt your coordination, reduce alertness, and make it hard to concentrate."
     },
     {
@@ -387,25 +387,26 @@
     },
     {
       "questionNumber": 19,
+      "questionId": "1821",
       "question": "What does this sign mean?",
-      "image": "/images/signs/stop.png",
+      "image": "/images/signs/illinois-school_2.png",
       "options": [
         {
           "letter": "A",
-          "text": "Stop."
+          "text": "Stop sign."
         },
         {
           "letter": "B",
-          "text": "Merge."
+          "text": "Regulatory sign."
         },
         {
           "letter": "C",
-          "text": "The road will turn ahead."
+          "text": "School zone or school crossing sign."
         }
       ],
-      "correctAnswerLetter": "A",
-      "correctAnswerText": "Stop.",
-      "explanation": "An eight-sided red sign means \"stop.\""
+      "correctAnswerLetter": "C",
+      "correctAnswerText": "School zone or school crossing sign.",
+      "explanation": "Five-sided signs alert drivers to school zones. They warn that children or other pedestrians may be crossing the road nearby."
     },
     {
       "questionNumber": 20,
@@ -632,11 +633,11 @@
         },
         {
           "letter": "C",
-          "text": "Both of the above."
+          "text": "Both of these."
         }
       ],
       "correctAnswerLetter": "C",
-      "correctAnswerText": "Both of the above.",
+      "correctAnswerText": "Both of these.",
       "explanation": "Approach all railroad crossings with extreme caution. Cross only when you are sure no train is coming from either direction. Watch for school buses and hazardous material trucks that must stop at all crossings."
     }
   ]

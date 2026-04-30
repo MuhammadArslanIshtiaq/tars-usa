@@ -9,6 +9,7 @@ import {
   TouchableOpacity,
   View,
 } from 'react-native';
+import { COLORS } from '../theme/colors';
 
 export const LANGUAGES = [
   { code: 'en', name: 'English', flag: '🇺🇸' },
@@ -98,7 +99,7 @@ const LanguageSwitcher = ({
                       {lang.name}
                     </Text>
                     {isSelected && (
-                      <Ionicons name="checkmark-circle" size={22} color="#1a5f3a" style={styles.check} />
+                      <Ionicons name="checkmark-circle" size={22} color={COLORS.primary2} style={styles.check} />
                     )}
                   </TouchableOpacity>
                 );
@@ -187,7 +188,7 @@ const styles = StyleSheet.create({
     gap: 12,
   },
   optionSelected: {
-    backgroundColor: 'rgba(26, 95, 58, 0.1)',
+    backgroundColor: 'rgba(30, 90, 168, 0.10)',
   },
   optionFlag: {
     fontSize: 24,
@@ -199,7 +200,7 @@ const styles = StyleSheet.create({
     fontWeight: '500',
   },
   optionLabelSelected: {
-    color: '#1a5f3a',
+    color: COLORS.primary2,
     fontWeight: '600',
   },
   check: {

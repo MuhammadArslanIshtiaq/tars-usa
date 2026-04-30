@@ -3,11 +3,13 @@ import { LinearGradient } from 'expo-linear-gradient';
 import React, { useEffect, useState } from 'react';
 import { Alert, Image, Modal, ScrollView, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import Header from '../components/Header';
-import LanguageSwitcher from '../components/LanguageSwitcher';
+import LanguageSwitcher, { LANGUAGES as ALL_LANGUAGES } from '../components/LanguageSwitcher';
 import { useUser } from '../contexts/UserContext';
 import { useAdMob } from '../hooks/useAdMob';
 import { resolveImageSource } from '../utils/resolveImageSource';
-import { loadMobileQuiz } from '../utils/usQuizLoader';
+import { loadMobileQuizAsync } from '../utils/usQuizLoaderAsync';
+import { getDownloadedLanguageCodes, isBundledLanguage } from '../utils/languagePacks';
+import { COLORS } from '../theme/colors';
 
 // Fisher-Yates shuffle algorithm
 const shuffleArray = (array) => {
@@ -70,6 +72,9 @@ const Quiz = ({ route, navigation }) => {
   const [userAnswers, setUserAnswers] = useState([]);
   const [incorrectAnswers, setIncorrectAnswers] = useState([]);
   const [selectedLanguage, setSelectedLanguage] = useState(preferences?.language || 'en');
+  const [availableLanguages, setAvailableLanguages] = useState(
+    ALL_LANGUAGES.filter((l) => isBundledLanguage(l.code))
+  );
 
   const resetQuiz = (nextQuestions) => {
     setCurrentQuestionIndex(0);
@@ -142,6 +147,15 @@ const Quiz = ({ route, navigation }) => {
     setSelectedLanguage(next);
   }, [preferences?.language]);
 
+  useEffect(() => {
+    const loadAvailable = async () => {
+      const downloaded = await getDownloadedLanguageCodes();
+      const allow = new Set(['en', 'es', ...downloaded]);
+      setAvailableLanguages(ALL_LANGUAGES.filter((l) => allow.has(l.code)));
+    };
+    loadAvailable();
+  }, []);
+
   const handleChangeLanguage = async (nextLanguage) => {
     setSelectedLanguage(nextLanguage);
     try {
@@ -153,7 +167,7 @@ const Quiz = ({ route, navigation }) => {
     const meta = quiz?.meta;
     if (!meta?.slug) return;
 
-    const nextQuiz = loadMobileQuiz({
+    const nextQuiz = await loadMobileQuizAsync({
       category: meta.category,
       state: meta.state,
       slug: meta.slug,
@@ -340,9 +354,13 @@ const Quiz = ({ route, navigation }) => {
     // Always return to Home (new flow) after reviewing mistakes.
     // This avoids old KSA navigation destinations like SignTests/Rules.
     try {
-      navigation.navigate('Home');
+      navigation.navigate('Main', { screen: 'Home' });
     } catch (e) {
-      navigation.goBack();
+      try {
+        navigation.popToTop();
+      } catch (err) {
+        navigation.goBack();
+      }
     }
   };
 
@@ -445,6 +463,7 @@ const Quiz = ({ route, navigation }) => {
       <LanguageSwitcher
         value={selectedLanguage}
         onChange={handleChangeLanguage}
+        languages={availableLanguages}
         compact
         triggerStyle={styles.languageButton}
         triggerTextStyle={{ color: 'white' }}
@@ -457,7 +476,7 @@ const Quiz = ({ route, navigation }) => {
 
   return (
     <View style={styles.container}>
-      <StatusBar barStyle="light-content" backgroundColor="#1a5f3a" />
+      <StatusBar barStyle="light-content" backgroundColor={COLORS.primary} />
       <Header 
         customGreeting='Welcome'
         username={username || null}

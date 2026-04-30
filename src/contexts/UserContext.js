@@ -1,5 +1,6 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import React, { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
+import { ensureBundledLanguagePacksInstalled } from '../utils/languagePacks';
 
 export const UserContext = createContext();
 
@@ -28,6 +29,10 @@ export const UserProvider = ({ children }) => {
 
   const loadUserData = useCallback(async () => {
     try {
+      // Ensure bundled EN/ES packs are installed locally (no network).
+      // If this fails, the app will still work via the built-in sample fallback.
+      await ensureBundledLanguagePacksInstalled();
+
       // Load username
       const storedUsername = await AsyncStorage.getItem('username');
       if (storedUsername) {

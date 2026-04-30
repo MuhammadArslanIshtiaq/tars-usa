@@ -1,9 +1,10 @@
 import { Ionicons } from '@expo/vector-icons';
 import React, { useState } from 'react';
-import { ActivityIndicator, Alert, Modal, ScrollView, StatusBar, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
+import { ActivityIndicator, Alert, Modal, Pressable, ScrollView, StatusBar, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import Header from '../components/Header';
 import ShareApp from '../components/ShareApp';
 import { useUser } from '../contexts/UserContext';
+import { COLORS } from '../theme/colors';
 
 const ProfileScreen = ({ navigation }) => {
   const { username, userStats, updateUsername, clearHistory } = useUser();
@@ -137,15 +138,6 @@ const ProfileScreen = ({ navigation }) => {
     </Modal>
   );
 
-  const renderHeaderRight = () => (
-    <TouchableOpacity 
-      style={styles.headerButton}
-      onPress={() => navigation.goBack()}
-    >
-      <Ionicons name="arrow-back" size={28} color="white" />
-    </TouchableOpacity>
-  );
-
   return (
     <View style={styles.container}>
       <StatusBar barStyle="dark-content" />
@@ -153,16 +145,14 @@ const ProfileScreen = ({ navigation }) => {
         username={username} 
         navigation={navigation}
         pageTitle="Profile"
-      >
-        {renderHeaderRight()}
-      </Header>
+      />
       <ScrollView style={styles.scrollView} showsVerticalScrollIndicator={false}>
         <View style={styles.content}>
           {/* Profile Card */}
           <View style={styles.profileCard}>
             <View style={styles.avatarContainer}>
               <View style={styles.avatarPlaceholder}>
-                <Ionicons name="person" size={50} color="#1a5f3a" />
+                <Ionicons name="person" size={50} color={COLORS.primary2} />
               </View>
             </View>
             
@@ -172,10 +162,13 @@ const ProfileScreen = ({ navigation }) => {
                 <TouchableOpacity
                   style={styles.editButton}
                   onPress={handleEditUsername}
+                  accessibilityRole="button"
+                  accessibilityLabel="Edit username"
                 >
-                  <Ionicons name="pencil" size={18} color="#1a5f3a" />
+                  <Ionicons name="pencil" size={18} color={COLORS.primary2} />
                 </TouchableOpacity>
               </View>
+              <Text style={styles.subtitle}>Your stats and settings in one place</Text>
             </View>
           </View>
 
@@ -184,14 +177,23 @@ const ProfileScreen = ({ navigation }) => {
             <Text style={styles.sectionTitle}>Your Statistics</Text>
             <View style={styles.statsGrid}>
               <View style={styles.statItem}>
+                <View style={styles.statIconWrap}>
+                  <Ionicons name="reader-outline" size={18} color={COLORS.primary2} />
+                </View>
                 <Text style={styles.statNumber}>{userStats.quizzesTaken}</Text>
                 <Text style={styles.statLabel}>Quizzes Taken</Text>
               </View>
               <View style={styles.statItem}>
+                <View style={styles.statIconWrap}>
+                  <Ionicons name="sparkles-outline" size={18} color={COLORS.accent} />
+                </View>
                 <Text style={styles.statNumber}>{userStats.totalPoints}</Text>
                 <Text style={styles.statLabel}>Total Points</Text>
               </View>
               <View style={styles.statItem}>
+                <View style={styles.statIconWrap}>
+                  <Ionicons name="speedometer-outline" size={18} color={COLORS.primary2} />
+                </View>
                 <Text style={styles.statNumber}>{userStats.averageScore.toFixed(1)}%</Text>
                 <Text style={styles.statLabel}>Average Score</Text>
               </View>
@@ -203,16 +205,18 @@ const ProfileScreen = ({ navigation }) => {
             <TouchableOpacity
               style={styles.actionButton}
               onPress={() => navigation.navigate('QuizHistory')}
+              accessibilityRole="button"
+              accessibilityLabel="Open quiz history"
             >
-              <Ionicons name="time-outline" size={24} color="#1a5f3a" />
+              <Ionicons name="time-outline" size={24} color={COLORS.primary2} />
               <Text style={styles.actionButtonText}>Quiz History</Text>
-              <Ionicons name="chevron-forward" size={20} color="#1a5f3a" />
+              <Ionicons name="chevron-forward" size={20} color={COLORS.primary2} />
             </TouchableOpacity>
 
             <ShareApp 
               style={styles.shareActionButton}
               iconSize={24}
-              iconColor="#1a5f3a"
+              iconColor={COLORS.primary2}
               showText={true}
               customMessage={`🚗 I'm practicing for my US DMV test with "EASY DMV TESTS"! 
 
@@ -222,6 +226,8 @@ Perfect for road signs, rules, and mock tests. Check it out:`}
             <TouchableOpacity
               style={styles.actionButton}
               onPress={handleClearHistory}
+              accessibilityRole="button"
+              accessibilityLabel="Clear quiz history"
             >
               <Ionicons name="trash-outline" size={24} color="#e74c3c" />
               <Text style={[styles.actionButtonText, { color: '#e74c3c' }]}>Clear History</Text>
@@ -239,7 +245,7 @@ Perfect for road signs, rules, and mock tests. Check it out:`}
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f5f5f5',
+    backgroundColor: COLORS.background,
   },
   scrollView: {
     flex: 1,
@@ -248,23 +254,17 @@ const styles = StyleSheet.create({
     padding: 16,
     paddingBottom: 32,
   },
-  headerButton: {
-    width: 40,
-    height: 40,
-    borderRadius: 20,
-    backgroundColor: 'rgba(255, 255, 255, 0.2)',
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  
   // Profile Card
   profileCard: {
-    backgroundColor: 'white',
+    backgroundColor: COLORS.surface,
     borderRadius: 16,
     padding: 20,
     marginBottom: 20,
     elevation: 3,
-    boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.1)',
+    shadowColor: '#0b1220',
+    shadowOffset: { width: 0, height: 10 },
+    shadowOpacity: 0.06,
+    shadowRadius: 18,
     alignItems: 'center',
   },
   avatarContainer: {
@@ -276,8 +276,8 @@ const styles = StyleSheet.create({
     height: 100,
     borderRadius: 50,
     borderWidth: 3,
-    borderColor: '#1a5f3a',
-    backgroundColor: '#f5f5f5',
+    borderColor: COLORS.primary2,
+    backgroundColor: '#EFF6FF',
     justifyContent: 'center',
     alignItems: 'center',
   },
@@ -293,28 +293,36 @@ const styles = StyleSheet.create({
   name: {
     fontSize: 22,
     fontWeight: 'bold',
-    color: '#333',
+    color: COLORS.text,
     marginRight: 8,
+  },
+  subtitle: {
+    fontSize: 13,
+    fontWeight: '700',
+    color: COLORS.textMuted,
   },
   editButton: {
     padding: 6,
     borderRadius: 6,
-    backgroundColor: '#f0f0f0',
+    backgroundColor: '#F1F5F9',
   },
 
   // Stats Card
   statsCard: {
-    backgroundColor: 'white',
+    backgroundColor: COLORS.surface,
     borderRadius: 16,
     padding: 20,
     marginBottom: 20,
     elevation: 3,
-    boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.1)',
+    shadowColor: '#0b1220',
+    shadowOffset: { width: 0, height: 10 },
+    shadowOpacity: 0.06,
+    shadowRadius: 18,
   },
   sectionTitle: {
     fontSize: 18,
     fontWeight: 'bold',
-    color: '#333',
+    color: COLORS.text,
     marginBottom: 16,
     textAlign: 'center',
   },
@@ -325,10 +333,19 @@ const styles = StyleSheet.create({
   statItem: {
     alignItems: 'center',
   },
+  statIconWrap: {
+    width: 34,
+    height: 34,
+    borderRadius: 12,
+    backgroundColor: '#EFF6FF',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginBottom: 6,
+  },
   statNumber: {
     fontSize: 24,
     fontWeight: 'bold',
-    color: '#1a5f3a',
+    color: COLORS.primary,
     marginBottom: 4,
   },
   statLabel: {
@@ -339,11 +356,14 @@ const styles = StyleSheet.create({
 
   // Actions Card
   actionsCard: {
-    backgroundColor: 'white',
+    backgroundColor: COLORS.surface,
     borderRadius: 16,
     padding: 4,
     elevation: 3,
-    boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.1)',
+    shadowColor: '#0b1220',
+    shadowOffset: { width: 0, height: 10 },
+    shadowOpacity: 0.06,
+    shadowRadius: 18,
   },
   actionButton: {
     flexDirection: 'row',
@@ -358,12 +378,12 @@ const styles = StyleSheet.create({
     padding: 16,
     borderRadius: 12,
     marginVertical: 2,
-    backgroundColor: 'rgba(241, 154, 92, 0.1)',
+    backgroundColor: 'rgba(30, 90, 168, 0.08)',
   },
   actionButtonText: {
     flex: 1,
     fontSize: 16,
-    color: '#333',
+    color: COLORS.text,
     marginLeft: 12,
     fontWeight: '500',
   },
@@ -376,29 +396,33 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   modalContent: {
-    backgroundColor: 'white',
+    backgroundColor: COLORS.surface,
     borderRadius: 16,
     padding: 24,
     width: '90%',
     maxWidth: 400,
     elevation: 8,
-    boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
+    shadowColor: '#0b1220',
+    shadowOffset: { width: 0, height: 18 },
+    shadowOpacity: 0.16,
+    shadowRadius: 30,
   },
   modalTitle: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#333',
+    color: COLORS.text,
     marginBottom: 20,
     textAlign: 'center',
   },
   input: {
     borderWidth: 1,
-    borderColor: '#e0e0e0',
+    borderColor: COLORS.border,
     borderRadius: 12,
     padding: 16,
     marginBottom: 16,
     fontSize: 16,
-    backgroundColor: '#f9f9f9',
+    backgroundColor: '#F8FAFC',
+    color: COLORS.text,
   },
   modalButtons: {
     flexDirection: 'row',
@@ -413,10 +437,10 @@ const styles = StyleSheet.create({
     marginHorizontal: 6,
   },
   cancelButton: {
-    backgroundColor: '#e0e0e0',
+    backgroundColor: '#E2E8F0',
   },
   saveButton: {
-    backgroundColor: '#1a5f3a',
+    backgroundColor: COLORS.primary2,
   },
   modalButtonText: {
     color: 'white',
