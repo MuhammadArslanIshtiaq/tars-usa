@@ -3,7 +3,7 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { COLORS, GRADIENTS } from '../theme/colors';
 
-const Header = ({ username, navigation, children, customGreeting, customSubtitle, pageTitle }) => {
+const Header = ({ username, navigation, children, customGreeting, customSubtitle, pageTitle, titleOnly = false }) => {
   const displayName = username || 'Guest';
   
   // Use custom text if provided, otherwise use default
@@ -11,6 +11,7 @@ const Header = ({ username, navigation, children, customGreeting, customSubtitle
     ? (username ? `${customGreeting} ${displayName}` : customGreeting)
     : 'EASY DMV TESTS';
   const subtitle = pageTitle || customSubtitle || 'Ready for today\'s quiz?';
+  const title = pageTitle || customSubtitle || customGreeting || greeting;
   
   return (
     <LinearGradient
@@ -21,8 +22,16 @@ const Header = ({ username, navigation, children, customGreeting, customSubtitle
     >
       <View style={styles.headerContent}>
         <View style={styles.greetingContainer}>
-          <Text style={styles.greeting}>{greeting}</Text>
-          <Text style={styles.subtitle}>{subtitle}</Text>
+          {titleOnly ? (
+            <Text style={styles.titleOnly} numberOfLines={2}>
+              {title}
+            </Text>
+          ) : (
+            <>
+              <Text style={styles.greeting}>{greeting}</Text>
+              <Text style={styles.subtitle}>{subtitle}</Text>
+            </>
+          )}
         </View>
         {children && (
           <View style={styles.rightContainer}>
@@ -55,6 +64,12 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: COLORS.white,
     marginBottom: 4,
+  },
+  titleOnly: {
+    fontSize: 22,
+    fontWeight: '900',
+    color: COLORS.white,
+    lineHeight: 28,
   },
   subtitle: {
     fontSize: 16,

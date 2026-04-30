@@ -172,18 +172,49 @@ const SetupScreen = ({ navigation, route }) => {
       </ScrollView>
 
       <Modal visible={!!activePicker} transparent animationType="fade" onRequestClose={handleClose}>
-        <TouchableOpacity style={styles.backdrop} onPress={handleClose} accessibilityRole="button" />
-        <View style={styles.modalCard}>
-          <Text style={styles.modalTitle}>
-            {activePicker === 'category' ? 'Select category' : activePicker === 'state' ? 'Select state' : 'Select language'}
-          </Text>
+        <Pressable
+          style={styles.backdrop}
+          onPress={handleClose}
+          accessibilityRole="button"
+          accessibilityLabel="Close picker"
+        />
+        <View style={styles.sheetWrap} pointerEvents="box-none">
+          <View style={styles.sheetCard}>
+            <View style={styles.sheetHandle} />
+            <View style={styles.sheetHeader}>
+              <View style={styles.sheetHeaderLeft}>
+                <Text style={styles.sheetTitle}>
+                  {activePicker === 'category'
+                    ? 'Choose category'
+                    : activePicker === 'state'
+                      ? 'Choose state'
+                      : 'Choose language'}
+                </Text>
+                {activePicker === 'language' && (
+                  <Text style={styles.sheetSubtitle}>Download languages for offline translations.</Text>
+                )}
+              </View>
+              <Pressable
+                style={styles.closeBtn}
+                onPress={handleClose}
+                accessibilityRole="button"
+                accessibilityLabel="Close"
+                hitSlop={10}
+              >
+                <Ionicons name="close" size={18} color="#0B1220" />
+              </Pressable>
+            </View>
 
-          <ScrollView style={styles.modalList} showsVerticalScrollIndicator={false}>
+            <ScrollView style={styles.sheetList} showsVerticalScrollIndicator={false} keyboardShouldPersistTaps="handled">
             {activePicker === 'category' &&
               CATEGORIES.map((c) => (
                 <TouchableOpacity
                   key={c.id}
-                  style={[styles.option, styles.optionWithLeading]}
+                  style={[
+                    styles.rowCard,
+                    styles.rowCardWithLeading,
+                    c.id === category && styles.rowCardSelected,
+                  ]}
                   onPress={() => handlePickCategory(c.id)}
                   accessibilityRole="button"
                 >
@@ -198,7 +229,11 @@ const SetupScreen = ({ navigation, route }) => {
                       </Text>
                     </View>
                   </View>
-                  {c.id === category && <Ionicons name="checkmark" size={18} color={COLORS.primary} />}
+                  {c.id === category && (
+                    <View style={styles.selectedCheck}>
+                      <Ionicons name="checkmark" size={16} color="white" />
+                    </View>
+                  )}
                 </TouchableOpacity>
               ))}
 
@@ -227,12 +262,16 @@ const SetupScreen = ({ navigation, route }) => {
                   {filteredStates.map((st) => (
                     <TouchableOpacity
                       key={st}
-                      style={styles.option}
+                      style={[styles.rowCard, st === stateValue && styles.rowCardSelected]}
                       onPress={() => handlePickState(st)}
                       accessibilityRole="button"
                     >
                       <Text style={styles.optionText}>{st}</Text>
-                      {st === stateValue && <Ionicons name="checkmark" size={18} color={COLORS.primary} />}
+                      {st === stateValue && (
+                        <View style={styles.selectedCheck}>
+                          <Ionicons name="checkmark" size={16} color="white" />
+                        </View>
+                      )}
                     </TouchableOpacity>
                   ))}
 
@@ -252,25 +291,28 @@ const SetupScreen = ({ navigation, route }) => {
                 const isDownloaded = !!downloadedLang[l.code];
 
                 return (
-                  <View key={l.code} style={styles.option}>
+                  <View key={l.code} style={[styles.rowCard, isSelected && styles.rowCardSelected]}>
                     <View style={styles.languageRow}>
-                      <TouchableOpacity
+                      <Pressable
                         style={styles.languageLeftTap}
                         onPress={() => handlePickLanguage(l.code)}
                         accessibilityRole="button"
                         accessibilityLabel={`Select ${l.name}`}
                       >
                         <Text style={styles.optionText}>{l.name}</Text>
-                      </TouchableOpacity>
+                        <Text style={styles.languageMeta}>
+                          {isBundledLanguage(l.code) ? 'Included' : isDownloaded ? 'Downloaded' : 'Download to use'}
+                        </Text>
+                      </Pressable>
 
                       <View style={styles.languageRight}>
                         {isBundledLanguage(l.code) ? (
-                          <View style={styles.pill}>
-                            <Text style={styles.pillText}>Included</Text>
+                          <View style={[styles.chip, styles.chipIncluded]}>
+                            <Text style={styles.chipTextIncluded}>Included</Text>
                           </View>
                         ) : isDownloaded ? (
-                          <View style={[styles.pill, styles.pillDownloaded]}>
-                            <Text style={styles.pillTextDownloaded}>Downloaded</Text>
+                          <View style={[styles.chip, styles.chipDownloaded]}>
+                            <Text style={styles.chipTextDownloaded}>Downloaded</Text>
                           </View>
                         ) : (
                           <Pressable
@@ -292,19 +334,26 @@ const SetupScreen = ({ navigation, route }) => {
                             ) : (
                               <>
                                 <Ionicons name="download-outline" size={16} color="white" />
-                                <Text style={styles.downloadText}>Download</Text>
+                                <Text style={styles.downloadText}>Get</Text>
                               </>
                             )}
                           </Pressable>
                         )}
 
-                        {isSelected && <Ionicons name="checkmark" size={18} color={COLORS.primary} />}
+                        <View
+                          style={[styles.checkSlot, isSelected && styles.checkSlotSelected]}
+                          accessibilityElementsHidden
+                          importantForAccessibility="no-hide-descendants"
+                        >
+                          {isSelected && <Ionicons name="checkmark" size={16} color="white" />}
+                        </View>
                       </View>
                     </View>
                   </View>
                 );
               })}
-          </ScrollView>
+            </ScrollView>
+          </View>
         </View>
       </Modal>
     </View>
@@ -355,23 +404,54 @@ const styles = StyleSheet.create({
   noteText: { fontSize: 13, color: '#555', lineHeight: 18 },
   continueText: { color: 'white', fontSize: 16, fontWeight: '700' },
   backdrop: { ...StyleSheet.absoluteFillObject, backgroundColor: 'rgba(0,0,0,0.35)' },
-  modalCard: {
-    position: 'absolute',
-    left: 16,
-    right: 16,
-    top: 120,
-    bottom: 80,
+  sheetWrap: {
+    flex: 1,
+    justifyContent: 'flex-end',
+    paddingHorizontal: 12,
+    paddingBottom: 12,
+  },
+  sheetCard: {
     backgroundColor: 'white',
-    borderRadius: 18,
+    borderRadius: 22,
     overflow: 'hidden',
+    maxHeight: '82%',
     shadowColor: '#0b1220',
     shadowOffset: { width: 0, height: 18 },
-    shadowOpacity: 0.12,
-    shadowRadius: 26,
-    elevation: 6,
+    shadowOpacity: 0.18,
+    shadowRadius: 28,
+    elevation: 10,
   },
-  modalTitle: { fontSize: 18, fontWeight: '900', padding: 16, borderBottomWidth: 1, borderBottomColor: '#EEF2F7', color: '#0B1220' },
-  modalList: { padding: 10 },
+  sheetHandle: {
+    alignSelf: 'center',
+    width: 44,
+    height: 5,
+    borderRadius: 99,
+    backgroundColor: '#E6EAF2',
+    marginTop: 10,
+  },
+  sheetHeader: {
+    paddingHorizontal: 16,
+    paddingTop: 12,
+    paddingBottom: 12,
+    borderBottomWidth: 1,
+    borderBottomColor: '#EEF2F7',
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    justifyContent: 'space-between',
+    gap: 12,
+  },
+  sheetHeaderLeft: { flex: 1 },
+  sheetTitle: { fontSize: 18, fontWeight: '900', color: '#0B1220' },
+  sheetSubtitle: { marginTop: 4, fontSize: 13, fontWeight: '600', color: '#64748b', lineHeight: 18 },
+  closeBtn: {
+    width: 34,
+    height: 34,
+    borderRadius: 12,
+    backgroundColor: '#F1F5F9',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  sheetList: { padding: 12 },
   searchWrap: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -394,21 +474,24 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   noResultsText: { fontSize: 14, color: '#666', fontWeight: '700' },
-  option: {
-    paddingVertical: 14,
-    paddingHorizontal: 12,
-    borderRadius: 12,
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-  },
-  optionWithLeading: {
-    paddingVertical: 12,
-    paddingHorizontal: 12,
+  rowCard: {
     backgroundColor: '#ffffff',
     borderWidth: 1,
     borderColor: '#EEF2F7',
+    paddingVertical: 14,
+    paddingHorizontal: 14,
+    borderRadius: 16,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
     marginBottom: 10,
+  },
+  rowCardSelected: {
+    borderColor: 'rgba(26, 95, 58, 0.35)',
+    backgroundColor: 'rgba(26, 95, 58, 0.06)',
+  },
+  rowCardWithLeading: {
+    paddingVertical: 12,
   },
   optionLeading: {
     flexDirection: 'row',
@@ -438,22 +521,23 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingVertical: 2,
   },
+  languageMeta: { marginTop: 4, fontSize: 12, fontWeight: '700', color: '#64748b' },
   languageRight: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 10,
   },
-  pill: {
+  chip: {
     paddingHorizontal: 10,
-    height: 24,
+    height: 26,
     borderRadius: 999,
-    backgroundColor: '#e8eef8',
     alignItems: 'center',
     justifyContent: 'center',
   },
-  pillText: { fontSize: 12, fontWeight: '800', color: '#1e3a8a' },
-  pillDownloaded: { backgroundColor: '#dcfce7' },
-  pillTextDownloaded: { fontSize: 12, fontWeight: '800', color: '#166534' },
+  chipIncluded: { backgroundColor: '#E8EEF8' },
+  chipTextIncluded: { fontSize: 12, fontWeight: '900', color: '#1e3a8a' },
+  chipDownloaded: { backgroundColor: '#DCFCE7' },
+  chipTextDownloaded: { fontSize: 12, fontWeight: '900', color: '#166534' },
   downloadBtn: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -466,6 +550,25 @@ const styles = StyleSheet.create({
   downloadBtnDisabled: { opacity: 0.8 },
   downloadText: { color: 'white', fontSize: 12, fontWeight: '800' },
   downloadProgress: { flexDirection: 'row', alignItems: 'center', gap: 8 },
+  selectedCheck: {
+    width: 26,
+    height: 26,
+    borderRadius: 999,
+    backgroundColor: COLORS.primary,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  checkSlot: {
+    width: 26,
+    height: 26,
+    borderRadius: 999,
+    backgroundColor: 'transparent',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  checkSlotSelected: {
+    backgroundColor: COLORS.primary,
+  },
 });
 
 export default SetupScreen;

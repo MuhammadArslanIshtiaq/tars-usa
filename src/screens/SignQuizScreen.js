@@ -5,6 +5,7 @@ import Header from '../components/Header';
 import { useQuiz } from '../contexts/QuizContext';
 import { useUser } from '../contexts/UserContext';
 import { useAdMob } from '../hooks/useAdMob';
+import { COLORS } from '../theme/colors';
 
 const SignQuizScreen = ({ navigation, route }) => {
   const { username, saveQuizResult } = useUser();
@@ -771,6 +772,7 @@ const SignQuizScreen = ({ navigation, route }) => {
         username={username} 
         navigation={navigation}
         pageTitle={categoryName}
+        titleOnly
       >
         {renderHeaderRight()}
       </Header>
@@ -975,7 +977,7 @@ const styles = StyleSheet.create({
     marginTop: 4,
   },
   nextButton: {
-    backgroundColor: '#1a5f3a',
+    backgroundColor: COLORS.primary,
     padding: 16,
     borderRadius: 8,
     alignItems: 'center',

@@ -496,10 +496,10 @@ const Quiz = ({ route, navigation }) => {
     <View style={styles.container}>
       <StatusBar barStyle="light-content" backgroundColor={COLORS.primary} />
       <Header 
-        customGreeting="EASY DMV TESTS"
         username={username || null}
-        customSubtitle={quiz.title}
+        pageTitle={quiz.title}
         navigation={navigation}
+        titleOnly
       >
         {renderHeaderRight()}
       </Header>
@@ -981,7 +981,7 @@ const styles = StyleSheet.create({
     lineHeight: 22,
   },
   nextButton: {
-    backgroundColor: '#1a5f3a',
+    backgroundColor: COLORS.primary,
     padding: 16,
     borderRadius: 12,
     margin: 16,

@@ -6,6 +6,7 @@ import LanguageSwitcher from '../components/LanguageSwitcher';
 import { useUser } from '../contexts/UserContext';
 import mockQuizData from '../data/quiz/mock-quiz-01.json';
 import { useAdMob } from '../hooks/useAdMob';
+import { COLORS } from '../theme/colors';
 import { resolveImageSource } from '../utils/resolveImageSource';
 
 const MockQuizScreen = ({ navigation, route }) => {
@@ -503,6 +504,7 @@ const MockQuizScreen = ({ navigation, route }) => {
           username={username}
           navigation={navigation}
           pageTitle={title}
+          titleOnly
         >
           {renderHeaderRight()}
         </Header>
@@ -522,6 +524,7 @@ const MockQuizScreen = ({ navigation, route }) => {
           username={username}
           navigation={navigation}
           pageTitle={title}
+          titleOnly
         >
           {renderHeaderRight()}
         </Header>
@@ -544,6 +547,7 @@ const MockQuizScreen = ({ navigation, route }) => {
           username={username}
           navigation={navigation}
           pageTitle={title}
+          titleOnly
         >
           {renderHeaderRight()}
         </Header>
@@ -572,6 +576,7 @@ const MockQuizScreen = ({ navigation, route }) => {
           username={username}
           navigation={navigation}
           pageTitle={title}
+          titleOnly
         >
           {renderHeaderRight()}
         </Header>
@@ -659,6 +664,7 @@ const MockQuizScreen = ({ navigation, route }) => {
         username={username}
         navigation={navigation}
         pageTitle={title}
+          titleOnly
       >
         {renderHeaderRight()}
       </Header>
@@ -955,7 +961,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#ffe6e6',
   },
   nextButton: {
-    backgroundColor: '#1a5f3a',
+    backgroundColor: COLORS.primary,
     padding: 16,
     borderRadius: 12,
     marginHorizontal: 16,
