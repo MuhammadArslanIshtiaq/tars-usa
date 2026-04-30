@@ -413,7 +413,7 @@ const HomeScreen = ({ navigation, route }) => {
       <Header 
         username={username} 
         navigation={navigation}
-        pageTitle="EASY DMV TESTS"
+        pageTitle="Start Practicing Today"
       >
         {renderHeaderRight()}
       </Header>

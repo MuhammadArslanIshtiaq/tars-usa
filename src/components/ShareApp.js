@@ -8,6 +8,9 @@ const ShareApp = ({
   iconSize = 24, 
   iconColor = COLORS.primary2,
   showText = false,
+  textColor = COLORS.text,
+  showChevron = false,
+  chevronColor = COLORS.primary2,
   customMessage = null 
 }) => {
   const shareApp = async () => {
@@ -59,6 +62,8 @@ Perfect for:
       style={[styles.shareButton, style]} 
       onPress={shareApp}
       activeOpacity={0.7}
+      accessibilityRole="button"
+      accessibilityLabel="Share app"
     >
       <Ionicons 
         name="share-outline" 
@@ -66,10 +71,11 @@ Perfect for:
         color={iconColor} 
       />
       {showText && (
-        <Text style={[styles.shareText, { color: iconColor }]}>
+        <Text style={[styles.shareText, { color: textColor }]}>
           Share App
         </Text>
       )}
+      {showChevron ? <Ionicons name="chevron-forward" size={20} color={chevronColor} /> : null}
     </TouchableOpacity>
   );
 };
@@ -78,11 +84,11 @@ const styles = StyleSheet.create({
   shareButton: {
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'center',
-    padding: 8,
+    justifyContent: 'flex-start',
   },
   shareText: {
-    marginLeft: 8,
+    flex: 1,
+    marginLeft: 12,
     fontSize: 16,
     fontWeight: '500',
   },

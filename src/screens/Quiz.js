@@ -382,6 +382,24 @@ const Quiz = ({ route, navigation }) => {
     return question.question_en || question.question || question.question_text;
   };
 
+  const getExplanationLanguageText = (question, language) => {
+    const base =
+      typeof question?.explanation === 'string' ? question.explanation.trim() : '';
+    const baseEn =
+      typeof question?.explanation_en === 'string' ? question.explanation_en.trim() : '';
+
+    if (!language || language === 'en') {
+      return base || baseEn;
+    }
+
+    const localized = question?.secondary_languages?.[language]?.explanation;
+    if (typeof localized === 'string' && localized.trim()) {
+      return localized.trim();
+    }
+
+    return base || baseEn;
+  };
+
   const getOptionLanguageText = (option, language, question, optionIndex) => {
     // Handle string options (from Quiz.js format)
     if (typeof option === 'string') {
@@ -478,7 +496,7 @@ const Quiz = ({ route, navigation }) => {
     <View style={styles.container}>
       <StatusBar barStyle="light-content" backgroundColor={COLORS.primary} />
       <Header 
-        customGreeting='Welcome'
+        customGreeting="EASY DMV TESTS"
         username={username || null}
         customSubtitle={quiz.title}
         navigation={navigation}
@@ -547,6 +565,18 @@ const Quiz = ({ route, navigation }) => {
           </TouchableOpacity>
         ))}
       </View>
+
+      {selectedAnswerId && getExplanationLanguageText(currentQuestion, selectedLanguage) ? (
+        <View style={styles.explanationCard} accessibilityRole="summary">
+          <View style={styles.explanationHeader}>
+            <Ionicons name="information-circle-outline" size={20} color={COLORS.primary2} />
+            <Text style={styles.explanationTitle}>Explanation</Text>
+          </View>
+          <Text style={styles.explanationBody}>
+            {getExplanationLanguageText(currentQuestion, selectedLanguage)}
+          </Text>
+        </View>
+      ) : null}
 
         <TouchableOpacity
           style={[
@@ -923,6 +953,32 @@ const styles = StyleSheet.create({
     backgroundColor: '#FFEBEE',
     borderColor: '#F44336',
     borderWidth: 1,
+  },
+  explanationCard: {
+    marginHorizontal: 16,
+    marginTop: 0,
+    marginBottom: 8,
+    padding: 14,
+    backgroundColor: '#EFF6FF',
+    borderRadius: 12,
+    borderWidth: 1,
+    borderColor: COLORS.border,
+  },
+  explanationHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+    marginBottom: 8,
+  },
+  explanationTitle: {
+    fontSize: 14,
+    fontWeight: '800',
+    color: COLORS.primary2,
+  },
+  explanationBody: {
+    fontSize: 15,
+    color: '#333',
+    lineHeight: 22,
   },
   nextButton: {
     backgroundColor: '#1a5f3a',

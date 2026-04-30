@@ -138,7 +138,7 @@ const SetupScreen = ({ navigation, route }) => {
         customGreeting={isEditMode ? 'Preferences' : 'Setup'}
         customSubtitle={
           isEditMode
-            ? 'Change your state, category, and language'
+            ? 'Personalize your practice tests — state, vehicle type, and language'
             : 'Pick your state and start practicing'
         }
         pageTitle={isEditMode ? 'Preferences' : 'Setup'}

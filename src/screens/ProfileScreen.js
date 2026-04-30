@@ -213,16 +213,6 @@ const ProfileScreen = ({ navigation }) => {
               <Ionicons name="chevron-forward" size={20} color={COLORS.primary2} />
             </TouchableOpacity>
 
-            <ShareApp 
-              style={styles.shareActionButton}
-              iconSize={24}
-              iconColor={COLORS.primary2}
-              showText={true}
-              customMessage={`🚗 I'm practicing for my US DMV test with "EASY DMV TESTS"! 
-
-Perfect for road signs, rules, and mock tests. Check it out:`}
-            />
-
             <TouchableOpacity
               style={styles.actionButton}
               onPress={handleClearHistory}
@@ -233,6 +223,19 @@ Perfect for road signs, rules, and mock tests. Check it out:`}
               <Text style={[styles.actionButtonText, { color: '#e74c3c' }]}>Clear History</Text>
               <Ionicons name="chevron-forward" size={20} color="#e74c3c" />
             </TouchableOpacity>
+
+            <ShareApp
+              style={styles.actionButton}
+              iconSize={24}
+              iconColor={COLORS.primary2}
+              textColor={COLORS.text}
+              showText={true}
+              showChevron={true}
+              chevronColor={COLORS.primary2}
+              customMessage={`🚗 I'm practicing for my US DMV test with "EASY DMV TESTS"! 
+
+Perfect for road signs, rules, and mock tests. Check it out:`}
+            />
           </View>
         </View>
       </ScrollView>
@@ -371,14 +374,6 @@ const styles = StyleSheet.create({
     padding: 16,
     borderRadius: 12,
     marginVertical: 2,
-  },
-  shareActionButton: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    padding: 16,
-    borderRadius: 12,
-    marginVertical: 2,
-    backgroundColor: 'rgba(30, 90, 168, 0.08)',
   },
   actionButtonText: {
     flex: 1,

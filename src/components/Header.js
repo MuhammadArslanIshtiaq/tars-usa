@@ -7,7 +7,9 @@ const Header = ({ username, navigation, children, customGreeting, customSubtitle
   const displayName = username || 'Guest';
   
   // Use custom text if provided, otherwise use default
-  const greeting = customGreeting ? (username ? `${customGreeting} ${displayName}` : customGreeting) : (username ? `Welcome ${displayName}` : 'Welcome');
+  const greeting = customGreeting
+    ? (username ? `${customGreeting} ${displayName}` : customGreeting)
+    : 'EASY DMV TESTS';
   const subtitle = pageTitle || customSubtitle || 'Ready for today\'s quiz?';
   
   return (
