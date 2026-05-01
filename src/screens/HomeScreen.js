@@ -359,6 +359,10 @@ const HomeScreen = ({ navigation, route }) => {
     </TouchableOpacity>
   );
 
+  const handleOpenLearningMaterial = () => {
+    navigation.navigate('LearningMaterial');
+  };
+
   const renderBlock = ({ item }) => {
     const expanded = expandedKey === item.key;
     const empty = item.items.length === 0;
@@ -384,12 +388,36 @@ const HomeScreen = ({ navigation, route }) => {
           </View>
         </TouchableOpacity>
         {expanded && !empty && (
-          <FlatList
-            data={item.items}
-            keyExtractor={(q) => q.slug}
-            renderItem={renderQuizRow}
-            scrollEnabled={false}
-          />
+          <>
+            <FlatList
+              data={item.items}
+              keyExtractor={(q) => q.slug}
+              renderItem={renderQuizRow}
+              scrollEnabled={false}
+            />
+            {item.key === 'sign' && (
+              <TouchableOpacity
+                style={[styles.quizRow, styles.learningRow]}
+                onPress={handleOpenLearningMaterial}
+                accessibilityRole="button"
+                accessibilityLabel="Open learning material"
+              >
+                <View style={styles.quizRowLeading}>
+                  <View style={[styles.quizRowIcon, { backgroundColor: 'rgba(30, 90, 168, 0.12)' }]}>
+                    <Ionicons name="book-outline" size={18} color={COLORS.primary2} />
+                  </View>
+                </View>
+                <View style={styles.quizRowLeft}>
+                  <Text style={styles.quizRowTitle}>Learning Material</Text>
+                  <Text style={styles.quizRowMeta}>Study • Signs • Rules • Tips</Text>
+                  <Text style={styles.quizRowDescription} numberOfLines={2}>
+                    Learn road signs, driving rules, and key tips before your test.
+                  </Text>
+                </View>
+                <Ionicons name="chevron-forward" size={20} color="#94a3b8" />
+              </TouchableOpacity>
+            )}
+          </>
         )}
         {expanded && empty && (
           <View style={styles.emptyBlock}>
@@ -921,6 +949,10 @@ const styles = StyleSheet.create({
     paddingVertical: 14,
     borderTopWidth: 1,
     borderTopColor: '#F1F5F9',
+  },
+  learningRow: {
+    borderTopColor: '#EEF2F7',
+    backgroundColor: 'rgba(246, 248, 252, 0.6)',
   },
   quizRowLeading: {
     marginRight: 12,

@@ -13,6 +13,12 @@ import Quiz from './src/screens/Quiz';
 import QuizHistoryScreen from './src/screens/QuizHistoryScreen';
 import SetupScreen from './src/screens/SetupScreen';
 import WelcomeScreen from './src/screens/WelcomeScreen';
+import DataSourcesScreen from './src/screens/DataSourcesScreen';
+import FinesScreen from './src/screens/FinesScreen';
+import LearningMaterialScreen from './src/screens/LearningMaterialScreen';
+import RoadSignsScreen from './src/screens/RoadSignsScreen';
+import RulesContentScreen from './src/screens/RulesContentScreen';
+import TipsScreen from './src/screens/TipsScreen';
 
 let admobInitialized = false;
 
@@ -55,6 +61,12 @@ export default function App() {
                 <Stack.Screen name="Quiz" component={Quiz} />
                 <Stack.Screen name="QuizHistory" component={QuizHistoryScreen} />
                 <Stack.Screen name="Profile" component={ProfileScreen} />
+                <Stack.Screen name="LearningMaterial" component={LearningMaterialScreen} />
+                <Stack.Screen name="RoadSigns" component={RoadSignsScreen} />
+                <Stack.Screen name="RulesContent" component={RulesContentScreen} />
+                <Stack.Screen name="Fines" component={FinesScreen} />
+                <Stack.Screen name="DataSources" component={DataSourcesScreen} />
+                <Stack.Screen name="Tips" component={TipsScreen} />
               </Stack.Navigator>
             </NavigationContainer>
           </TrackingProvider>

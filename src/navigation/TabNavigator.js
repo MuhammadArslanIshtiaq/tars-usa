@@ -5,6 +5,7 @@ import QuizLoadingScreen from '../components/QuizLoadingScreen';
 import { useQuiz } from '../contexts/QuizContext';
 import { COLORS } from '../theme/colors';
 import HomeScreen from '../screens/HomeScreen';
+import LearningMaterialScreen from '../screens/LearningMaterialScreen';
 import ProfileScreen from '../screens/ProfileScreen';
 import ProgressScreen from '../screens/ProgressScreen';
 
@@ -40,6 +41,20 @@ const TabNavigator = () => {
               color={color} 
             />
           )
+        }}
+      />
+      <Tab.Screen
+        name="Learning"
+        component={LearningMaterialScreen}
+        options={{
+          title: 'Learning',
+          tabBarIcon: ({ focused, color, size }) => (
+            <Ionicons
+              name={focused ? 'book' : 'book-outline'}
+              size={size}
+              color={color}
+            />
+          ),
         }}
       />
       <Tab.Screen 

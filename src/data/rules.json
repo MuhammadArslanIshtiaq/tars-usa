@@ -4,6 +4,7 @@
   "languages": {
     "en": {
       "language_name": "English",
+      "introduction": "Driving in the United States requires understanding state-specific traffic laws and practicing safe, defensive driving. Following these rules helps you avoid fines and penalties and keeps everyone safer on the road.",
       "sections": [
         {
           "title": "Speed Limits",
@@ -41,8 +42,249 @@
         }
       ]
     },
+    "es": {
+      "language_name": "Español",
+      "introduction": "Conducir en Estados Unidos requiere conocer las leyes de tránsito específicas de cada estado y practicar una conducción segura y defensiva. Seguir estas reglas ayuda a evitar sanciones y a mantener a todos más seguros en la vía.",
+      "sections": [
+        {
+          "title": "Límites de velocidad",
+          "rules": [
+            "Zonas residenciales: suelen tener límites bajos para proteger a peatones y residentes. Respeta siempre la señalización.",
+            "Vías urbanas: los límites varían según el estado y el tipo de vía; sigue los límites publicados.",
+            "Autopistas: los límites cambian por estado y condiciones. Presta atención a los letreros y ajusta la velocidad cuando sea necesario."
+          ]
+        },
+        {
+          "title": "Disciplina de carril y adelantamiento",
+          "rules": [
+            "Carril lento: en carreteras de varios carriles, usa el carril derecho para circular más lento o para salir.",
+            "Carril izquierdo: normalmente es para rebasar. No te quedes allí si no estás adelantando.",
+            "Adelantamiento seguro: revisa espejos y punto ciego, señaliza y mantén una distancia segura."
+          ]
+        },
+        {
+          "title": "Cinturones y seguridad infantil",
+          "rules": [
+            "Adultos: el conductor y todos los pasajeros deben usar cinturón en todo momento.",
+            "Niños: usa sillas infantiles o elevadores según edad/altura/peso y la ley de tu estado; lo más seguro es en el asiento trasero."
+          ]
+        },
+        {
+          "title": "Otras reglas importantes",
+          "rules": [
+            "Teléfono: evita distraerte. Usa manos libres cuando la ley lo permita y nunca envíes mensajes manejando.",
+            "Vehículos de emergencia: cede el paso y oríllate si es necesario cuando tengan luces o sirena.",
+            "Cruces peatonales: cede el paso a peatones en cruces marcados y respeta señales.",
+            "Rotondas: generalmente, el tráfico dentro de la rotonda tiene prioridad; entra solo cuando sea seguro.",
+            "Clima: reduce la velocidad y aumenta la distancia de seguimiento en lluvia, niebla o hielo.",
+            "Vehículo: mantén luces, frenos y llantas en buen estado para circular con seguridad."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "language_name": "Français",
+      "introduction": "Conduire aux États‑Unis nécessite de connaître les règles de circulation propres à chaque État et d’adopter une conduite prudente et défensive. Respecter ces règles réduit les risques et aide à éviter des sanctions.",
+      "sections": [
+        {
+          "title": "Limitations de vitesse",
+          "rules": [
+            "Zones résidentielles : vitesses plus basses pour protéger les piétons. Respecte toujours la signalisation.",
+            "Routes urbaines : les limites varient selon l’État et la voie. Suis les panneaux.",
+            "Autoroutes : les limites changent selon l’État et les conditions. Adapte ta vitesse."
+          ]
+        },
+        {
+          "title": "Discipline de voie et dépassement",
+          "rules": [
+            "Voie de droite : généralement pour rouler plus lentement et pour sortir.",
+            "Voie de gauche : souvent réservée au dépassement. N’y reste pas sans dépasser.",
+            "Dépassement sûr : vérifie rétros/angles morts, clignote et garde une distance de sécurité."
+          ]
+        },
+        {
+          "title": "Ceintures et sécurité des enfants",
+          "rules": [
+            "Adultes : conducteur et passagers doivent porter la ceinture.",
+            "Enfants : utilise siège auto/réhausseur selon âge/taille/poids et la loi de ton État; l’arrière est généralement plus sûr."
+          ]
+        },
+        {
+          "title": "Autres règles clés",
+          "rules": [
+            "Téléphone : évite la distraction. Utilise un kit mains libres si autorisé et ne texte jamais en conduisant.",
+            "Véhicules d’urgence : cède le passage, range‑toi et arrête‑toi si nécessaire.",
+            "Passages piétons : laisse traverser les piétons et respecte la signalisation.",
+            "Ronds‑points : en général, les véhicules déjà engagés sont prioritaires; entre seulement si c’est sûr.",
+            "Météo : ralentis et augmente la distance en cas de pluie, brouillard ou verglas.",
+            "Véhicule : garde feux, freins et pneus en bon état."
+          ]
+        }
+      ]
+    },
+    "vi": {
+      "language_name": "Tiếng Việt",
+      "introduction": "Lái xe ở Hoa Kỳ cần hiểu luật giao thông theo từng bang và thực hành lái xe an toàn, phòng vệ. Tuân thủ quy tắc giúp giảm rủi ro và tránh vi phạm.",
+      "sections": [
+        {
+          "title": "Giới hạn tốc độ",
+          "rules": [
+            "Khu dân cư: thường giới hạn thấp để bảo vệ người đi bộ; luôn theo biển báo.",
+            "Đường đô thị: giới hạn thay đổi theo bang và loại đường; tuân theo tốc độ niêm yết.",
+            "Cao tốc: giới hạn khác nhau theo bang và điều kiện; điều chỉnh tốc độ phù hợp."
+          ]
+        },
+        {
+          "title": "Giữ làn và vượt xe",
+          "rules": [
+            "Làn phải: thường dành cho xe chạy chậm hơn và chuẩn bị rẽ/ra khỏi đường.",
+            "Làn trái: thường để vượt. Không chạy “chiếm làn” nếu không vượt.",
+            "Vượt an toàn: kiểm tra gương/điểm mù, bật xi-nhan và giữ khoảng cách."
+          ]
+        },
+        {
+          "title": "Dây an toàn và trẻ em",
+          "rules": [
+            "Người lớn: tài xế và hành khách phải thắt dây an toàn.",
+            "Trẻ em: dùng ghế trẻ em/ghế nâng theo tuổi/chiều cao/cân nặng và luật bang; hàng ghế sau thường an toàn hơn."
+          ]
+        },
+        {
+          "title": "Quy định quan trọng khác",
+          "rules": [
+            "Điện thoại: tránh mất tập trung. Dùng rảnh tay khi được phép và không nhắn tin khi lái xe.",
+            "Xe ưu tiên: nhường đường cho xe cấp cứu có còi/đèn; tấp vào lề nếu cần.",
+            "Vạch qua đường: nhường người đi bộ tại vạch và tuân theo tín hiệu.",
+            "Vòng xuyến: thường xe trong vòng xuyến được ưu tiên; chỉ nhập làn khi an toàn.",
+            "Thời tiết: giảm tốc và tăng khoảng cách khi mưa/sương mù/đường trơn.",
+            "Phương tiện: đảm bảo đèn, phanh, lốp hoạt động tốt."
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "language_name": "中文",
+      "introduction": "在美国驾驶需要了解各州不同的交通法规，并保持安全、防御性驾驶。遵守规则可以降低风险并减少违规。",
+      "sections": [
+        {
+          "title": "限速",
+          "rules": [
+            "居民区：通常限速较低以保护行人，请以路牌为准。",
+            "城市道路：限速因州和道路类型而异，遵守标示限速。",
+            "高速公路：限速会随州和路况变化，必要时调整车速。"
+          ]
+        },
+        {
+          "title": "车道纪律与超车",
+          "rules": [
+            "右侧车道：一般用于较慢行驶或准备驶出。",
+            "左侧车道：通常用于超车，不要长时间占用。",
+            "安全超车：检查后视镜与盲区，打灯并保持安全距离。"
+          ]
+        },
+        {
+          "title": "安全带与儿童安全",
+          "rules": [
+            "成人：驾驶员和乘客应全程系安全带。",
+            "儿童：按年龄/身高/体重和州法律使用儿童座椅或增高座；后排通常更安全。"
+          ]
+        },
+        {
+          "title": "其他重要规定",
+          "rules": [
+            "手机：避免分心。法律允许时使用免提，切勿边开车边发信息。",
+            "紧急车辆：遇到警灯/警报应让行，必要时靠右停车。",
+            "人行横道：在斑马线处礼让行人并遵守信号。",
+            "环岛：一般环岛内车辆优先；确认安全后再进入。",
+            "天气：雨雾冰雪时减速并增加跟车距离。",
+            "车辆状态：确保灯光、刹车、轮胎状况良好。"
+          ]
+        }
+      ]
+    },
+    "ko": {
+      "language_name": "한국어",
+      "introduction": "미국에서 운전하려면 주(州)별 교통 법규를 이해하고 안전·방어 운전을 실천해야 합니다. 규정을 지키면 위험을 줄이고 위반을 피하는 데 도움이 됩니다.",
+      "sections": [
+        {
+          "title": "속도 제한",
+          "rules": [
+            "주거 지역: 보행자 보호를 위해 제한 속도가 낮습니다. 표지판을 따르세요.",
+            "도심 도로: 주와 도로에 따라 다릅니다. 게시된 제한 속도를 준수하세요.",
+            "고속도로: 주/상황에 따라 제한이 달라집니다. 필요 시 속도를 조절하세요."
+          ]
+        },
+        {
+          "title": "차로 준수와 추월",
+          "rules": [
+            "오른쪽 차로: 보통 느린 차량 및 출구로 나갈 때 사용합니다.",
+            "왼쪽 차로: 주로 추월용입니다. 추월하지 않으면 오래 머물지 마세요.",
+            "안전한 추월: 거울/사각지대 확인, 방향지시등, 안전거리 유지."
+          ]
+        },
+        {
+          "title": "안전벨트와 어린이 안전",
+          "rules": [
+            "성인: 운전자와 승객은 항상 안전벨트를 착용해야 합니다.",
+            "어린이: 주 법과 연령/키/체중에 맞는 카시트/부스터를 사용하세요. 뒷좌석이 더 안전합니다."
+          ]
+        },
+        {
+          "title": "기타 주요 규정",
+          "rules": [
+            "휴대폰: 주의 분산을 피하세요. 허용 시 핸즈프리 사용, 운전 중 문자 금지.",
+            "긴급 차량: 사이렌/경광등이 있으면 양보하고 필요 시 우측에 정차하세요.",
+            "횡단보도: 보행자에게 양보하고 신호를 준수하세요.",
+            "로터리: 보통 진입 차량이 양보합니다. 안전할 때만 진입하세요.",
+            "날씨: 비/안개/빙판 시 감속하고 차간거리를 늘리세요.",
+            "차량 상태: 조명, 브레이크, 타이어를 점검해 안전하게 운행하세요."
+          ]
+        }
+      ]
+    },
+    "tl": {
+      "language_name": "Tagalog",
+      "introduction": "Ang pagmamaneho sa U.S. ay nangangailangan ng pag-unawa sa mga batas trapiko ng bawat estado at pagsunod sa ligtas at defensive driving. Ang pagsunod sa mga tuntunin ay nakakatulong maiwasan ang aksidente at paglabag.",
+      "sections": [
+        {
+          "title": "Limitasyon ng bilis",
+          "rules": [
+            "Residential: karaniwang mas mababa ang limit para sa kaligtasan ng tao; sundin ang mga karatula.",
+            "Urban roads: nag-iiba depende sa estado at kalsada; sundin ang posted speed limit.",
+            "Highways: nag-iiba ang limit ayon sa estado at kondisyon; i-adjust ang bilis kapag kailangan."
+          ]
+        },
+        {
+          "title": "Disiplina sa linya at pag-overtake",
+          "rules": [
+            "Right lane: kadalasan para sa mas mabagal at para sa paglabas.",
+            "Left lane: madalas para sa overtaking; huwag manatili kung hindi overtaking.",
+            "Ligtas na overtake: tingin sa salamin/blind spot, mag-signal, at panatilihin ang distansya."
+          ]
+        },
+        {
+          "title": "Seatbelt at kaligtasan ng bata",
+          "rules": [
+            "Adults: driver at lahat ng pasahero ay dapat naka-seatbelt.",
+            "Children: gumamit ng car seat/booster ayon sa edad/taas/timbang at batas ng estado; mas ligtas sa likod."
+          ]
+        },
+        {
+          "title": "Iba pang mahahalagang tuntunin",
+          "rules": [
+            "Telepono: iwasan ang distraction. Hands-free kung pinapayagan at huwag mag-text habang nagmamaneho.",
+            "Emergency vehicles: magbigay-daan sa may sirena/ilaw; tumabi kung kailangan.",
+            "Pedestrian crossings: mag-yield sa tumatawid at sundin ang signals.",
+            "Roundabouts: kadalasan ang nasa loob ang may right of way; pumasok lang kapag safe.",
+            "Panahon: magbagal at dagdagan ang following distance kapag maulan/mahamog/madulas.",
+            "Sasakyan: siguraduhing maayos ang ilaw, preno at gulong."
+          ]
+        }
+      ]
+    },
     "ar": {
       "language_name": "Arabic",
+      "introduction": "تتطلب القيادة في الولايات المتحدة فهم قوانين المرور الخاصة بكل ولاية وممارسة القيادة الآمنة والدفاعية. يساعد الالتزام بهذه القواعد على تقليل المخاطر وتجنب المخالفات.",
       "sections": [
         {
           "title": "حدود السرعة",
@@ -82,6 +324,7 @@
     },
     "ur": {
       "language_name": "Urdu",
+      "introduction": "امریکہ میں ڈرائیونگ کے لیے ہر ریاست کے ٹریفک قوانین سمجھنا اور محفوظ، دفاعی ڈرائیونگ کرنا ضروری ہے۔ ان قواعد پر عمل کرنے سے خطرات کم ہوتے ہیں اور خلاف ورزیوں سے بچاؤ ہوتا ہے۔",
       "sections": [
         {
           "title": "رفتار کی حد",
@@ -121,6 +364,7 @@
     },
     "hi": {
       "language_name": "Hindi",
+      "introduction": "अमेरिका में ड्राइविंग के लिए राज्य-विशिष्ट ट्रैफिक नियमों को समझना और सुरक्षित, डिफेंसिव ड्राइविंग करना ज़रूरी है। नियमों का पालन जोखिम कम करता है और उल्लंघन से बचाता है।",
       "sections": [
         {
           "title": "गति सीमा",
@@ -160,6 +404,7 @@
     },
     "bn": {
       "language_name": "Bengali",
+      "introduction": "যুক্তরাষ্ট্রে গাড়ি চালাতে রাজ্যভিত্তিক ট্রাফিক আইন বোঝা এবং নিরাপদ, ডিফেন্সিভ ড্রাইভিং অনুশীলন করা জরুরি। নিয়ম মানলে ঝুঁকি কমে এবং লঙ্ঘন এড়ানো যায়।",
       "sections": [
         {
           "title": "গতির সীমা",

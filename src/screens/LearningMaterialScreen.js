@@ -1,18 +1,74 @@
 import { Ionicons } from '@expo/vector-icons';
-import React from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { FlatList, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import Header from '../components/Header';
-import ShareApp from '../components/ShareApp';
+import LanguageSwitcher, { LANGUAGES as ALL_LANGUAGES } from '../components/LanguageSwitcher';
 import { useUser } from '../contexts/UserContext';
+import { COLORS } from '../theme/colors';
 
 const LearningMaterialScreen = ({ navigation }) => {
-  const { username } = useUser();
+  const { username, preferences, updatePreferences } = useUser();
+  const [selectedLanguage, setSelectedLanguage] = useState(preferences?.language || 'en');
+
+  const availableLanguages = useMemo(() => {
+    return ALL_LANGUAGES;
+  }, []);
+
+  useEffect(() => {
+    const next = preferences?.language || 'en';
+    setSelectedLanguage(next);
+  }, [preferences?.language]);
+
+  const getLocalized = (obj) => {
+    if (!selectedLanguage || selectedLanguage === 'en') return '';
+    return obj?.[selectedLanguage] || '';
+  };
+
+  const handleChangeLanguage = async (nextLanguage) => {
+    setSelectedLanguage(nextLanguage);
+    try {
+      await updatePreferences({ language: nextLanguage });
+    } catch {
+      // ignore
+    }
+  };
 
   const learningOptions = [
     {
+      id: '0',
+      title: 'Tips for Passing the Test',
+      titles: {
+        ar: 'نصائح لاجتياز الاختبار',
+        ur: 'ٹیسٹ پاس کرنے کے لیے ٹپس',
+        hi: 'टेस्ट पास करने के टिप्स',
+        bn: 'পরীক্ষা পাস করার টিপস',
+        es: 'Consejos para aprobar el examen',
+        fr: 'Conseils pour réussir l’examen',
+        vi: 'Mẹo để vượt qua bài thi',
+        zh: '通过考试的技巧',
+        ko: '시험 합격 팁',
+        tl: 'Mga tip para pumasa sa exam',
+      },
+      icon: 'bulb-outline',
+      description: 'Practical advice for theory + road test day',
+      color: '#16a34a',
+      onPress: () => navigation.navigate('Tips')
+    },
+    {
       id: '1',
       title: 'Road Signs',
-      titleArabic: 'إشارات الطريق',
+      titles: {
+        ar: 'إشارات الطريق',
+        ur: 'روڈ سائنز',
+        hi: 'सड़क संकेत',
+        bn: 'রাস্তার চিহ্ন',
+        es: 'Señales de tránsito',
+        fr: 'Panneaux de signalisation',
+        vi: 'Biển báo giao thông',
+        zh: '交通标志',
+        ko: '도로 표지판',
+        tl: 'Mga karatula sa kalsada',
+      },
       icon: 'warning-outline',
       description: 'Learn all traffic signs and their meanings',
       color: '#e74c3c',
@@ -21,30 +77,23 @@ const LearningMaterialScreen = ({ navigation }) => {
     {
       id: '2',
       title: 'Rules',
-      titleArabic: 'القواعد واللوائح',
+      titles: {
+        ar: 'القواعد واللوائح',
+        ur: 'قواعد و ضوابط',
+        hi: 'नियम',
+        bn: 'নিয়ম',
+        es: 'Reglas',
+        fr: 'Règles',
+        vi: 'Quy tắc',
+        zh: '规则',
+        ko: '규칙',
+        tl: 'Mga tuntunin',
+      },
       icon: 'document-text-outline',
       description: 'Study driving rules and regulations',
       color: '#3498db',
       onPress: () => navigation.navigate('RulesContent')
     },
-    {
-      id: '3',
-      title: 'Fines',
-      titleArabic: 'الغرامات',
-      icon: 'cash-outline',
-      description: 'Learn about traffic fines and penalties',
-      color: '#e67e22',
-      onPress: () => navigation.navigate('Fines')
-    },
-    {
-      id: '4',
-      title: 'Data Sources',
-      titleArabic: 'مصادر البيانات',
-      icon: 'library-outline',
-      description: 'Official sources and information references',
-      color: '#9b59b6',
-      onPress: () => navigation.navigate('DataSources')
-    }
   ];
 
   const handleBackPress = () => {
@@ -53,13 +102,13 @@ const LearningMaterialScreen = ({ navigation }) => {
 
   const renderHeaderRight = () => (
     <View style={styles.headerButtonsContainer}>
-      <ShareApp 
-        style={styles.shareButton}
-        iconSize={28}
-        iconColor="white"
-        customMessage={`📚 Learning US road signs with "EASY DMV TESTS"!
-
-Great for studying before the driving test. Check it out:`}
+      <LanguageSwitcher
+        value={selectedLanguage}
+        onChange={handleChangeLanguage}
+        languages={availableLanguages}
+        compact
+        triggerStyle={styles.languageButton}
+        triggerTextStyle={{ color: 'white' }}
       />
       <TouchableOpacity 
         style={styles.headerButton}
@@ -73,6 +122,20 @@ Great for studying before the driving test. Check it out:`}
   const ListHeader = () => (
     <View style={styles.sectionHeader}>
       <Text style={styles.sectionTitle}>Learning Material</Text>
+      <Text style={styles.sectionTitleLocalized}>
+        {getLocalized({
+          ar: 'مواد تعليمية',
+          ur: 'سیکھنے کا مواد',
+          hi: 'सीखने की सामग्री',
+          bn: 'শেখার উপকরণ',
+          es: 'Material de estudio',
+          fr: 'Matériel d’apprentissage',
+          vi: 'Tài liệu học',
+          zh: '学习资料',
+          ko: '학습 자료',
+          tl: 'Mga materyal sa pag-aaral',
+        }) || ' '}
+      </Text>
       <Text style={styles.description}>
         Choose a category to start learning
       </Text>
@@ -90,11 +153,13 @@ Great for studying before the driving test. Check it out:`}
         </View>
         <View style={styles.textContainer}>
           <Text style={styles.optionTitle}>{item.title}</Text>
-          <Text style={styles.optionTitleArabic}>{item.titleArabic}</Text>
+          <Text style={styles.optionTitleLocalized}>
+            {getLocalized(item.titles) || ' '}
+          </Text>
           <Text style={styles.optionDescription}>{item.description}</Text>
         </View>
         <View style={styles.arrowContainer}>
-          <Ionicons name="chevron-forward" size={24} color="#1a5f3a" />
+          <Ionicons name="chevron-forward" size={24} color={COLORS.primary} />
         </View>
       </View>
     </TouchableOpacity>
@@ -138,6 +203,12 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: '#333',
     marginBottom: 4,
+  },
+  sectionTitleLocalized: {
+    fontSize: 16,
+    fontWeight: '700',
+    color: '#64748b',
+    marginBottom: 8,
   },
   sectionSubtitle: {
     fontSize: 18,
@@ -183,7 +254,7 @@ const styles = StyleSheet.create({
     color: '#333',
     marginBottom: 4,
   },
-  optionTitleArabic: {
+  optionTitleLocalized: {
     fontSize: 16,
     color: '#666',
     marginBottom: 4,
@@ -200,15 +271,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     gap: 12,
   },
-  headerButton: {
-    width: 40,
-    height: 40,
-    borderRadius: 20,
-    backgroundColor: 'rgba(255, 255, 255, 0.2)',
-    justifyContent: 'center',
-    alignItems: 'center',
+  languageButton: {
+    marginRight: 2,
   },
-  shareButton: {
+  headerButton: {
     width: 40,
     height: 40,
     borderRadius: 20,

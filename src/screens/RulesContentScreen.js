@@ -7,13 +7,27 @@ import { useUser } from '../contexts/UserContext';
 import rulesData from '../data/rules.json';
 
 const RulesContentScreen = ({ navigation }) => {
-  const { username } = useUser();
+  const { username, preferences, updatePreferences } = useUser();
   const [loading, setLoading] = useState(true);
-  const [selectedLanguage, setSelectedLanguage] = useState('en');
+  const [selectedLanguage, setSelectedLanguage] = useState(preferences?.language || 'en');
 
   useEffect(() => {
     loadRulesData();
   }, [selectedLanguage]);
+
+  useEffect(() => {
+    const next = preferences?.language || 'en';
+    setSelectedLanguage(next);
+  }, [preferences?.language]);
+
+  const handleChangeLanguage = async (nextLanguage) => {
+    setSelectedLanguage(nextLanguage);
+    try {
+      await updatePreferences({ language: nextLanguage });
+    } catch {
+      // ignore
+    }
+  };
 
   const loadRulesData = async () => {
     try {
@@ -35,7 +49,9 @@ const RulesContentScreen = ({ navigation }) => {
   };
 
   const getIntroduction = () => {
-    return rulesData.introduction;
+    const current = rulesData.languages?.[selectedLanguage];
+    const localizedIntro = current?.introduction;
+    return localizedIntro || rulesData.introduction;
   };
 
   const handleBackPress = () => {
@@ -46,7 +62,7 @@ const RulesContentScreen = ({ navigation }) => {
     <View style={styles.headerButtons}>
       <LanguageSwitcher
         value={selectedLanguage}
-        onChange={setSelectedLanguage}
+        onChange={handleChangeLanguage}
         compact
         triggerStyle={styles.languageButton}
         triggerTextStyle={styles.languageTriggerText}
@@ -114,7 +130,7 @@ const RulesContentScreen = ({ navigation }) => {
         <StatusBar barStyle="dark-content" />
         <Header 
           customGreeting="Traffic Rules"
-          customSubtitle="US Traffic Rules & Regulations"
+          customSubtitle={rulesData.languages?.[selectedLanguage]?.language_name || 'US Traffic Rules & Regulations'}
           username={username}
           navigation={navigation}
         >
@@ -140,7 +156,7 @@ const RulesContentScreen = ({ navigation }) => {
       <StatusBar barStyle="dark-content" />
       <Header 
         customGreeting="Traffic Rules"
-        customSubtitle="US Traffic Rules & Regulations"
+        customSubtitle={rulesData.languages?.[selectedLanguage]?.language_name || 'US Traffic Rules & Regulations'}
         username={username}
         navigation={navigation}
       >
