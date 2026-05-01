@@ -1,7 +1,7 @@
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import React, { useEffect, useState } from 'react';
-import { Alert, Image, Modal, ScrollView, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { Alert, Image, InteractionManager, Modal, ScrollView, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import Header from '../components/Header';
 import LanguageSwitcher, { LANGUAGES as ALL_LANGUAGES } from '../components/LanguageSwitcher';
 import { useUser } from '../contexts/UserContext';
@@ -58,9 +58,9 @@ const prepareRandomizedQuestions = (questions) => {
 };
 
 const Quiz = ({ route, navigation }) => {
-  const { quiz } = route.params;
+  const { quiz, showInterstitialOnStart } = route.params;
   const { username, preferences, updatePreferences, saveQuizResult } = useUser();
-  const { showAd } = useAdMob();
+  const { showAdAndWaitForClose } = useAdMob();
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [selectedAnswerId, setSelectedAnswerId] = useState(null);
@@ -141,6 +141,15 @@ const Quiz = ({ route, navigation }) => {
     resetQuiz(quiz.questions);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [quiz.questions]);
+
+  useEffect(() => {
+    if (!showInterstitialOnStart) return;
+    // Run after navigation/animations settle to avoid iOS "not in window hierarchy" issues.
+    const task = InteractionManager.runAfterInteractions(() => {
+      Promise.resolve(showAdAndWaitForClose({ timeoutMs: 8000 })).catch(() => {});
+    });
+    return () => task?.cancel?.();
+  }, [showInterstitialOnStart, showAdAndWaitForClose]);
 
   useEffect(() => {
     const next = preferences?.language || 'en';
@@ -277,13 +286,15 @@ const Quiz = ({ route, navigation }) => {
       });
       
       // Show interstitial ad when quiz is completed
-      try {
-        showAd();
-      } catch (error) {
-        console.log('Ad not available or failed to show');
-      }
-      
-      setShowResult(true);
+      (async () => {
+        try {
+          await showAdAndWaitForClose({ timeoutMs: 8000 });
+        } catch {
+          // ignore
+        } finally {
+          setShowResult(true);
+        }
+      })();
     }
   };
 
@@ -325,13 +336,15 @@ const Quiz = ({ route, navigation }) => {
             });
             
             // Show interstitial ad when quiz is ended early
-            try {
-              await showAd();
-            } catch (error) {
-              console.log('Ad not available or failed to show');
-            }
-            
-            setShowResult(true);
+            (async () => {
+              try {
+                await showAdAndWaitForClose({ timeoutMs: 8000 });
+              } catch {
+                // ignore
+              } finally {
+                setShowResult(true);
+              }
+            })();
           },
         },
       ]
@@ -362,6 +375,53 @@ const Quiz = ({ route, navigation }) => {
         navigation.goBack();
       }
     }
+  };
+
+  const handleConfirmExitToHome = () => {
+    // If the quiz hasn't started, just go back.
+    if (!currentQuestionIndex && !selectedAnswerId) {
+      navigation.goBack();
+      return;
+    }
+
+    Alert.alert(
+      'End Quiz?',
+      'If you leave now, your progress will be saved and you’ll return to Home.',
+      [
+        { text: 'Cancel', style: 'cancel' },
+        {
+          text: 'End Quiz',
+          style: 'destructive',
+          onPress: async () => {
+            try {
+              const timeSpent = Math.round((Date.now() - startTime) / 1000);
+              const percentage = randomizedQuestions.length
+                ? Math.round((score / randomizedQuestions.length) * 100)
+                : 0;
+
+              saveQuizResult({
+                quizId: quiz.id,
+                title: quiz.title,
+                score: percentage,
+                totalQuestions: randomizedQuestions.length,
+                correctAnswers: score,
+                timeSpent: timeSpent,
+              });
+            } catch {
+              // ignore
+            }
+
+            try {
+              await showAdAndWaitForClose({ timeoutMs: 8000 });
+            } catch {
+              // ignore
+            } finally {
+              navigation.navigate('Main', { screen: 'Home' });
+            }
+          },
+        },
+      ]
+    );
   };
 
 
@@ -486,7 +546,7 @@ const Quiz = ({ route, navigation }) => {
         triggerStyle={styles.languageButton}
         triggerTextStyle={{ color: 'white' }}
       />
-      <TouchableOpacity style={styles.headerButton} onPress={() => navigation.goBack()}>
+      <TouchableOpacity style={styles.headerButton} onPress={handleConfirmExitToHome}>
         <Ionicons name="arrow-back" size={28} color="white" />
       </TouchableOpacity>
     </View>

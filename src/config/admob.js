@@ -19,6 +19,7 @@ class AdMobService {
     this.interstitial = null;
     this._unsubscribeLoaded = null;
     this._unsubscribeClosed = null;
+    this._closeWaiters = [];
     this.sdkInitialized = false;
 
     // Get AdMob IDs from environment variables or app.json
@@ -132,6 +133,10 @@ class AdMobService {
       this._unsubscribeClosed = this.interstitial.addAdEventListener(AdEventType.CLOSED, () => {
         console.log('AdMob: Interstitial ad closed');
         this.isAdLoaded = false;
+        const waiters = this._closeWaiters.splice(0, this._closeWaiters.length);
+        waiters.forEach((fn) => {
+          try { fn(); } catch {}
+        });
         // Preload next ad after a short delay
         setTimeout(() => this.preloadInterstitialAd(), 1000);
       });
@@ -185,6 +190,28 @@ class AdMobService {
       console.log('AdMob: Failed to show interstitial ad:', error?.message || String(error));
       return false;
     }
+  }
+
+  async showInterstitialAdAndWaitForClose({ timeoutMs = 8000 } = {}) {
+    const shown = await this.showInterstitialAd();
+    if (!shown) return false;
+
+    await new Promise((resolve) => {
+      let done = false;
+      const finish = () => {
+        if (done) return;
+        done = true;
+        resolve();
+      };
+
+      const t = setTimeout(finish, timeoutMs);
+      this._closeWaiters.push(() => {
+        clearTimeout(t);
+        finish();
+      });
+    });
+
+    return true;
   }
 
   // Not used but kept to satisfy existing hook API

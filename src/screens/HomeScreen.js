@@ -317,15 +317,10 @@ const HomeScreen = ({ navigation, route }) => {
       return;
     }
 
-    // Show interstitial ad only once per session for first quiz start
-    try {
-      if (!learningMaterialAdShownThisSession) {
-        await showAd();
-        learningMaterialAdShownThisSession = true;
-      }
-    } catch (error) {
-      // ignore
-    }
+    // IMPORTANT (iOS): don't show interstitial during navigation transitions.
+    // We'll trigger it on the Quiz screen after it's mounted (once per session).
+    const showInterstitialOnStart = !learningMaterialAdShownThisSession;
+    learningMaterialAdShownThisSession = true;
 
     navigation.navigate('Quiz', {
       quiz: {
@@ -334,6 +329,7 @@ const HomeScreen = ({ navigation, route }) => {
         questions: quiz.questions,
         meta: quiz.meta,
       },
+      showInterstitialOnStart,
     });
   };
 

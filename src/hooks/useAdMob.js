@@ -56,6 +56,20 @@ export const useAdMob = () => {
     }
   }, [isWebPlatform]);
 
+  const showAdAndWaitForClose = useCallback(async ({ timeoutMs = 8000 } = {}) => {
+    if (isWebPlatform) return false;
+    try {
+      const shown = await adMobService.showInterstitialAdAndWaitForClose({ timeoutMs });
+      if (shown) {
+        setIsAdReady(false);
+      }
+      return shown;
+    } catch (error) {
+      console.log('AdMob: Show ad (wait close) failed:', error.message);
+      return false;
+    }
+  }, [isWebPlatform]);
+
   const loadAd = useCallback(async () => {
     if (isWebPlatform) {
       return;
@@ -85,6 +99,7 @@ export const useAdMob = () => {
   return {
     isAdReady: isWebPlatform ? false : isAdReady,
     showAd,
+    showAdAndWaitForClose,
     loadAd,
     showRewardedAd,
   };

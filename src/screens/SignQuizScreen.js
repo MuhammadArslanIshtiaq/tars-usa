@@ -11,7 +11,7 @@ const SignQuizScreen = ({ navigation, route }) => {
   const { username, saveQuizResult } = useUser();
   const { getCategoryQuiz, shuffleArray } = useQuiz();
   const { authority, category, categoryName } = route.params;
-  const { showAd } = useAdMob();
+  const { showAdAndWaitForClose } = useAdMob();
   
 
   
@@ -205,14 +205,15 @@ const SignQuizScreen = ({ navigation, route }) => {
     }
     
     // Show interstitial ad when quiz is completed
-    try {
-      await showAd();
-    } catch (error) {
-      console.log('Ad not available or failed to show');
-    }
-    
-    // Show results screen
-    setShowResult(true);
+    (async () => {
+      try {
+        await showAdAndWaitForClose({ timeoutMs: 8000 });
+      } catch {
+        // ignore
+      } finally {
+        setShowResult(true);
+      }
+    })();
   };
 
   const handleRetryQuiz = () => {
@@ -242,11 +243,23 @@ const SignQuizScreen = ({ navigation, route }) => {
               'Are you sure you want to leave? Your progress will be lost.',
               [
                 { text: 'Cancel', style: 'cancel' },
-                { text: 'Leave Quiz', style: 'destructive', onPress: () => navigation.goBack() }
+                {
+                  text: 'End Quiz',
+                  style: 'destructive',
+                  onPress: async () => {
+                    try {
+                      await showAdAndWaitForClose({ timeoutMs: 8000 });
+                    } catch {
+                      // ignore
+                    } finally {
+                      navigation.navigate('Main', { screen: 'Home' });
+                    }
+                  },
+                }
               ]
             );
           } else {
-            navigation.goBack();
+            navigation.navigate('Main', { screen: 'Home' });
           }
         }}
       >

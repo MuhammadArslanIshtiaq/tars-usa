@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "EASY DMV TESTS ",
-    "slug": "tars-usa",
+    "slug": "easy-dmv-tests",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,7 +16,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.digitalukapps.tars-usa",
+      "bundleIdentifier": "com.digitalukapps.tars.usa",
       "buildNumber": "1",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false,
@@ -28,7 +28,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#1a5f3a"
       },
-      "package": "com.tarsksa.app",
+      "package": "com.digitalukapps.tars.usa",
       "versionCode": 1,
       "permissions": [
         "android.permission.INTERNET",
