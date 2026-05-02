@@ -1,4 +1,3 @@
-import { imageMap } from './imageMap';
 import { usImageMap } from './usImageMap';
 
 const normalizeImageKey = (value) => {
@@ -14,8 +13,6 @@ export const resolveImageSource = (imagePath) => {
   if (!filename) return null;
 
   return (
-    imageMap[normalized] ||
-    imageMap[filename] ||
     usImageMap[normalized] ||
     usImageMap[filename] ||
     null

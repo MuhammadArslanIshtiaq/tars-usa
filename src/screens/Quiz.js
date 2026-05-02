@@ -1,10 +1,11 @@
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import React, { useEffect, useState } from 'react';
-import { Alert, Image, InteractionManager, Modal, ScrollView, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { Alert, Image, Modal, ScrollView, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import Header from '../components/Header';
 import LanguageSwitcher, { LANGUAGES as ALL_LANGUAGES } from '../components/LanguageSwitcher';
 import { useUser } from '../contexts/UserContext';
+import { useAdTriggerFallback } from '../contexts/AdTriggerFallbackContext';
 import { useAdMob } from '../hooks/useAdMob';
 import { resolveImageSource } from '../utils/resolveImageSource';
 import { loadMobileQuizAsync } from '../utils/usQuizLoaderAsync';
@@ -58,9 +59,10 @@ const prepareRandomizedQuestions = (questions) => {
 };
 
 const Quiz = ({ route, navigation }) => {
-  const { quiz, showInterstitialOnStart } = route.params;
+  const { quiz } = route.params;
   const { username, preferences, updatePreferences, saveQuizResult } = useUser();
   const { showAdAndWaitForClose } = useAdMob();
+  const { presentAdTrigger } = useAdTriggerFallback();
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [selectedAnswerId, setSelectedAnswerId] = useState(null);
@@ -141,15 +143,6 @@ const Quiz = ({ route, navigation }) => {
     resetQuiz(quiz.questions);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [quiz.questions]);
-
-  useEffect(() => {
-    if (!showInterstitialOnStart) return;
-    // Run after navigation/animations settle to avoid iOS "not in window hierarchy" issues.
-    const task = InteractionManager.runAfterInteractions(() => {
-      Promise.resolve(showAdAndWaitForClose({ timeoutMs: 8000 })).catch(() => {});
-    });
-    return () => task?.cancel?.();
-  }, [showInterstitialOnStart, showAdAndWaitForClose]);
 
   useEffect(() => {
     const next = preferences?.language || 'en';
@@ -285,10 +278,10 @@ const Quiz = ({ route, navigation }) => {
         timeSpent: timeSpent
       });
       
-      // Show interstitial ad when quiz is completed
+      // Show interstitial when quiz is completed (session cap applies)
       (async () => {
         try {
-          await showAdAndWaitForClose({ timeoutMs: 8000 });
+          await presentAdTrigger(showAdAndWaitForClose, { timeoutMs: 8000 });
         } catch {
           // ignore
         } finally {
@@ -335,10 +328,10 @@ const Quiz = ({ route, navigation }) => {
               timeSpent: timeSpent
             });
             
-            // Show interstitial ad when quiz is ended early
+            // Show interstitial when quiz is ended early (session cap applies)
             (async () => {
               try {
-                await showAdAndWaitForClose({ timeoutMs: 8000 });
+                await presentAdTrigger(showAdAndWaitForClose, { timeoutMs: 8000 });
               } catch {
                 // ignore
               } finally {
@@ -412,7 +405,7 @@ const Quiz = ({ route, navigation }) => {
             }
 
             try {
-              await showAdAndWaitForClose({ timeoutMs: 8000 });
+              await presentAdTrigger(showAdAndWaitForClose, { timeoutMs: 8000 });
             } catch {
               // ignore
             } finally {
@@ -776,7 +769,9 @@ const Quiz = ({ route, navigation }) => {
               contentContainerStyle={styles.reviewModalScrollContent}
               showsVerticalScrollIndicator={true}
             >
-              {incorrectAnswers.map((item, index) => (
+              {incorrectAnswers.map((item, index) => {
+                const explanationText = getExplanationLanguageText(item.question, selectedLanguage);
+                return (
                 <View key={index} style={styles.reviewQuestionCard}>
                   {/* Question Header */}
                   <View style={styles.reviewQuestionHeader}>
@@ -846,8 +841,24 @@ const Quiz = ({ route, navigation }) => {
                       );
                     })}
                   </View>
+
+                  {!!explanationText && (
+                    <View style={styles.reviewExplanationBox}>
+                      <Text style={styles.reviewExplanationTitle}>Explanation</Text>
+                      <Text
+                        style={[
+                          styles.reviewExplanationText,
+                          (selectedLanguage === 'ar' || selectedLanguage === 'ur') &&
+                            styles.reviewExplanationTextRtl,
+                        ]}
+                      >
+                        {explanationText}
+                      </Text>
+                    </View>
+                  )}
                 </View>
-              ))}
+                );
+              })}
               
               {/* Empty state */}
               {incorrectAnswers.length === 0 && (
@@ -1447,7 +1458,31 @@ const styles = StyleSheet.create({
     color: '#dc3545',
     fontWeight: '600',
   },
-  
+  reviewExplanationBox: {
+    marginTop: 14,
+    padding: 12,
+    borderRadius: 8,
+    backgroundColor: '#e8f4fc',
+    borderWidth: 1,
+    borderColor: '#b8d4f0',
+  },
+  reviewExplanationTitle: {
+    fontSize: 13,
+    fontWeight: '700',
+    color: '#1e5a96',
+    marginBottom: 6,
+  },
+  reviewExplanationText: {
+    fontSize: 14,
+    color: '#334155',
+    lineHeight: 20,
+    fontWeight: '500',
+  },
+  reviewExplanationTextRtl: {
+    writingDirection: 'rtl',
+    textAlign: 'right',
+  },
+
   // Empty state
   emptyReviewContainer: {
     alignItems: 'center',

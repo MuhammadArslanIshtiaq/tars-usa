@@ -18,18 +18,13 @@ import {
 import Header from '../components/Header';
 import ShareApp from '../components/ShareApp';
 import { useUser } from '../contexts/UserContext';
-import { useAdMob } from '../hooks/useAdMob';
 import { getAllStatesForCategory, getQuizListFor, SUPPORTED_LANGUAGES } from '../utils/usQuizLoader';
 import { loadMobileQuizAsync } from '../utils/usQuizLoaderAsync';
 import { downloadAndInstallLanguagePack, isBundledLanguage, isLanguagePackDownloaded } from '../utils/languagePacks';
 import { COLORS } from '../theme/colors';
 
-// Session-based ad tracking (resets when app is closed/opened)
-let learningMaterialAdShownThisSession = false;
-
 const HomeScreen = ({ navigation, route }) => {
   const { username, preferences, updatePreferences } = useUser();
-  const { showAd } = useAdMob();
   const [showDisclaimer, setShowDisclaimer] = useState(false);
   const [expandedKey, setExpandedKey] = useState(null);
   const [activePrefPicker, setActivePrefPicker] = useState(null); // 'state' | 'category' | 'language' | null
@@ -165,6 +160,33 @@ const HomeScreen = ({ navigation, route }) => {
     </View>
   );
 
+  const handleOpenLearningMaterial = () => {
+    navigation.navigate('LearningMaterial');
+  };
+
+  const LearningMaterialTile = () => (
+    <TouchableOpacity
+      style={[styles.quizRow, styles.learningRowStandalone]}
+      onPress={handleOpenLearningMaterial}
+      accessibilityRole="button"
+      accessibilityLabel="Open learning material"
+    >
+      <View style={styles.quizRowLeading}>
+        <View style={[styles.quizRowIcon, { backgroundColor: 'rgba(30, 90, 168, 0.12)' }]}>
+          <Ionicons name="book-outline" size={18} color={COLORS.primary2} />
+        </View>
+      </View>
+      <View style={styles.quizRowLeft}>
+        <Text style={styles.quizRowTitle}>Learning Material</Text>
+        <Text style={styles.quizRowMeta}>Study • Signs • Rules • Tips</Text>
+        <Text style={styles.quizRowDescription} numberOfLines={2}>
+          Learn road signs, driving rules, and key tips before your test.
+        </Text>
+      </View>
+      <Ionicons name="chevron-forward" size={20} color="#94a3b8" />
+    </TouchableOpacity>
+  );
+
   const ListHeader = () => (
     <View style={styles.sectionHeader}>
       <View style={styles.prefsRow}>
@@ -211,6 +233,10 @@ const HomeScreen = ({ navigation, route }) => {
           <Ionicons name="chevron-down" size={14} color="#64748b" />
         </Pressable>
       </View>
+      <LearningMaterialTile />
+      <Text style={styles.learningHelperText}>
+        Pick a test and start practicing.
+      </Text>
     </View>
   );
 
@@ -317,11 +343,6 @@ const HomeScreen = ({ navigation, route }) => {
       return;
     }
 
-    // IMPORTANT (iOS): don't show interstitial during navigation transitions.
-    // We'll trigger it on the Quiz screen after it's mounted (once per session).
-    const showInterstitialOnStart = !learningMaterialAdShownThisSession;
-    learningMaterialAdShownThisSession = true;
-
     navigation.navigate('Quiz', {
       quiz: {
         id: quiz.id,
@@ -329,7 +350,6 @@ const HomeScreen = ({ navigation, route }) => {
         questions: quiz.questions,
         meta: quiz.meta,
       },
-      showInterstitialOnStart,
     });
   };
 
@@ -358,10 +378,6 @@ const HomeScreen = ({ navigation, route }) => {
       <Ionicons name="chevron-forward" size={20} color="#94a3b8" />
     </TouchableOpacity>
   );
-
-  const handleOpenLearningMaterial = () => {
-    navigation.navigate('LearningMaterial');
-  };
 
   const renderBlock = ({ item }) => {
     const expanded = expandedKey === item.key;
@@ -395,28 +411,6 @@ const HomeScreen = ({ navigation, route }) => {
               renderItem={renderQuizRow}
               scrollEnabled={false}
             />
-            {item.key === 'sign' && (
-              <TouchableOpacity
-                style={[styles.quizRow, styles.learningRow]}
-                onPress={handleOpenLearningMaterial}
-                accessibilityRole="button"
-                accessibilityLabel="Open learning material"
-              >
-                <View style={styles.quizRowLeading}>
-                  <View style={[styles.quizRowIcon, { backgroundColor: 'rgba(30, 90, 168, 0.12)' }]}>
-                    <Ionicons name="book-outline" size={18} color={COLORS.primary2} />
-                  </View>
-                </View>
-                <View style={styles.quizRowLeft}>
-                  <Text style={styles.quizRowTitle}>Learning Material</Text>
-                  <Text style={styles.quizRowMeta}>Study • Signs • Rules • Tips</Text>
-                  <Text style={styles.quizRowDescription} numberOfLines={2}>
-                    Learn road signs, driving rules, and key tips before your test.
-                  </Text>
-                </View>
-                <Ionicons name="chevron-forward" size={20} color="#94a3b8" />
-              </TouchableOpacity>
-            )}
           </>
         )}
         {expanded && empty && (
@@ -953,6 +947,21 @@ const styles = StyleSheet.create({
   learningRow: {
     borderTopColor: '#EEF2F7',
     backgroundColor: 'rgba(246, 248, 252, 0.6)',
+  },
+  learningRowStandalone: {
+    marginTop: 14,
+    borderTopWidth: 0,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
+    borderRadius: 14,
+    backgroundColor: 'rgba(246, 248, 252, 0.6)',
+  },
+  learningHelperText: {
+    marginTop: 10,
+    fontSize: 13,
+    fontWeight: '700',
+    color: '#64748b',
+    textAlign: 'center',
   },
   quizRowLeading: {
     marginRight: 12,

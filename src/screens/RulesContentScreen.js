@@ -2,14 +2,18 @@ import { Ionicons } from '@expo/vector-icons';
 import React, { useEffect, useState } from 'react';
 import { ActivityIndicator, FlatList, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import Header from '../components/Header';
-import LanguageSwitcher from '../components/LanguageSwitcher';
+import LanguageSwitcher, { LANGUAGES as ALL_LANGUAGES } from '../components/LanguageSwitcher';
 import { useUser } from '../contexts/UserContext';
 import rulesData from '../data/rules.json';
+import { getDownloadedLanguageCodes, isBundledLanguage } from '../utils/languagePacks';
 
 const RulesContentScreen = ({ navigation }) => {
   const { username, preferences, updatePreferences } = useUser();
   const [loading, setLoading] = useState(true);
   const [selectedLanguage, setSelectedLanguage] = useState(preferences?.language || 'en');
+  const [availableLanguages, setAvailableLanguages] = useState(
+    ALL_LANGUAGES.filter((l) => isBundledLanguage(l.code))
+  );
 
   useEffect(() => {
     loadRulesData();
@@ -19,6 +23,15 @@ const RulesContentScreen = ({ navigation }) => {
     const next = preferences?.language || 'en';
     setSelectedLanguage(next);
   }, [preferences?.language]);
+
+  useEffect(() => {
+    const loadAvailable = async () => {
+      const downloaded = await getDownloadedLanguageCodes();
+      const allow = new Set(['en', 'es', ...downloaded]);
+      setAvailableLanguages(ALL_LANGUAGES.filter((l) => allow.has(l.code)));
+    };
+    loadAvailable();
+  }, []);
 
   const handleChangeLanguage = async (nextLanguage) => {
     setSelectedLanguage(nextLanguage);
@@ -63,6 +76,7 @@ const RulesContentScreen = ({ navigation }) => {
       <LanguageSwitcher
         value={selectedLanguage}
         onChange={handleChangeLanguage}
+        languages={availableLanguages}
         compact
         triggerStyle={styles.languageButton}
         triggerTextStyle={styles.languageTriggerText}

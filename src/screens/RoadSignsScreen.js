@@ -1,476 +1,383 @@
 import { Ionicons } from '@expo/vector-icons';
-import React, { useState } from 'react';
-import { FlatList, Image, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import React, { useCallback, useEffect, useRef, useState } from 'react';
+import {
+  ActivityIndicator,
+  BackHandler,
+  FlatList,
+  Image,
+  InteractionManager,
+  StatusBar,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  View,
+} from 'react-native';
 import Header from '../components/Header';
-import LanguageSwitcher, { LANGUAGES } from '../components/LanguageSwitcher';
+import LanguageSwitcher, { LANGUAGES as ALL_LANGUAGES } from '../components/LanguageSwitcher';
+import { useAdTriggerFallback } from '../contexts/AdTriggerFallbackContext';
+import { useAdMob } from '../hooks/useAdMob';
 import { useUser } from '../contexts/UserContext';
+import { COLORS } from '../theme/colors';
 import { resolveImageSource } from '../utils/resolveImageSource';
+import { getDownloadedLanguageCodes, isBundledLanguage } from '../utils/languagePacks';
+import { loadMobileQuizAsync } from '../utils/usQuizLoaderAsync';
 
-// Import sign data
-import guideSignsData from '../data/guide-signs.json';
-import regulatorySignsData from '../data/regulatory-signs.json';
-import roadMarkingData from '../data/road-marking.json';
-import warningSignsData from '../data/warning-signs.json';
+const SIGN_CATEGORIES = [
+  {
+    id: 'regulatory',
+    title: 'Regulatory Signs',
+    slug: 'regulatory-signs',
+    icon: 'hand-left-outline',
+    color: '#ef4444',
+    description: 'Must-follow signs and road rules.',
+  },
+  {
+    id: 'warning',
+    title: 'Warning Signs',
+    slug: 'warning-signs',
+    icon: 'warning-outline',
+    color: '#f59e0b',
+    description: 'Hazards and caution signs.',
+  },
+  {
+    id: 'railroad',
+    title: 'Railroad Crossing Signs',
+    slug: 'railroad-crossing-signs',
+    icon: 'train-outline',
+    color: '#0f172a',
+    description: 'Safe behavior near tracks and crossings.',
+  },
+  {
+    id: 'temporary',
+    title: 'Temporary Traffic Control Signs',
+    slug: 'temporary-traffic-control-signs',
+    icon: 'construct-outline',
+    color: '#f97316',
+    description: 'Work zones and temporary controls.',
+  },
+];
 
 const RoadSignsScreen = ({ navigation }) => {
-  const { username } = useUser();
+  const { preferences, updatePreferences } = useUser();
+  const { showAdAndWaitForClose } = useAdMob();
+  const { presentAdTrigger } = useAdTriggerFallback();
+  const exitingCategoryForAdRef = useRef(false);
+  const [selectedLanguage, setSelectedLanguage] = useState(preferences?.language || 'en');
+  const [availableLanguages, setAvailableLanguages] = useState(
+    ALL_LANGUAGES.filter((l) => isBundledLanguage(l.code))
+  );
   const [selectedCategory, setSelectedCategory] = useState(null);
-  const [selectedLanguage, setSelectedLanguage] = useState('en');
+  const [loading, setLoading] = useState(false);
+  const [questions, setQuestions] = useState([]);
 
-  // Sign categories
-  const signCategories = [
-    {
-      id: 'regulatory',
-      title: 'Regulatory Road Signs',
-      titleUrdu: 'ریگولیٹری روڈ سائنز',
-      titleArabic: 'علامات المرور الإلزامية',
-      titleHindi: 'नियामक सड़क संकेत',
-      titleBengali: 'নিয়ন্ত্রক সড়ক চিহ্ন',
-      description: 'Mandatory signs that must be obeyed',
-      descriptionUrdu: 'لازمی نشانات جن کی پابندی ضروری ہے',
-      descriptionArabic: 'علامات إلزامية يجب الالتزام بها',
-      descriptionHindi: 'अनिवार्य संकेत जिनका पालन करना चाहिए',
-      descriptionBengali: 'বাধ্যতামূলক চিহ্ন যা অবশ্যই মেনে চলতে হবে',
-      icon: 'checkmark-circle',
-      color: '#e74c3c',
-      data: regulatorySignsData.regulatory,
-      imagePath: 'signs/regulatory-road-signs/'
-    },
-    {
-      id: 'warning',
-      title: 'Warning Signs',
-      titleUrdu: 'انتباہی نشانات',
-      titleArabic: 'علامات التحذير',
-      titleHindi: 'चेतावनी संकेत',
-      titleBengali: 'সতর্কতা চিহ্ন',
-      description: 'Signs that warn of potential hazards',
-      descriptionUrdu: 'نشانات جو ممکنہ خطرات سے آگاہ کرتے ہیں',
-      descriptionArabic: 'علامات تحذر من المخاطر المحتملة',
-      descriptionHindi: 'संकेत जो संभावित खतरों की चेतावनी देते हैं',
-      descriptionBengali: 'চিহ্ন যা সম্ভাব্য বিপদ সম্পর্কে সতর্ক করে',
-      icon: 'warning',
-      color: '#f39c12',
-      data: warningSignsData.warning,
-      imagePath: 'signs/warning-signs/'
-    },
-    {
-      id: 'guide',
-      title: 'Guide Signs',
-      titleUrdu: 'رہنمائی کے نشانات',
-      titleArabic: 'علامات التوجيه',
-      titleHindi: 'मार्गदर्शक संकेत',
-      titleBengali: 'গাইড চিহ্ন',
-      description: 'Informational signs for navigation',
-      descriptionUrdu: 'رہنمائی کے لیے معلوماتی نشانات',
-      descriptionArabic: 'علامات معلوماتية للملاحة',
-      descriptionHindi: 'नेविगेशन के लिए सूचनात्मक संकेत',
-      descriptionBengali: 'নেভিগেশনের জন্য তথ্যগত চিহ্ন',
-      icon: 'information-circle',
-      color: '#3498db',
-      data: guideSignsData.guide,
-      imagePath: 'signs/guide-signs/'
-    },
-    {
-      id: 'road-marking',
-      title: 'Road Marking',
-      titleUrdu: 'سڑک کی نشاندہی',
-      titleArabic: 'علامات الطريق',
-      titleHindi: 'सड़क चिह्न',
-      titleBengali: 'সড়ক চিহ্ন',
-      description: 'Pavement markings and road lines',
-      descriptionUrdu: 'پیمنٹ کی نشاندہی اور سڑک کی لکیریں',
-      descriptionArabic: 'علامات الرصيف وخطوط الطريق',
-      descriptionHindi: 'फुटपाथ के निशान और सड़क की रेखाएं',
-      descriptionBengali: 'পেভমেন্ট চিহ্ন এবং সড়ক রেখা',
-      icon: 'remove',
-      color: '#9b59b6',
-      data: roadMarkingData['road-marking'],
-      imagePath: 'signs/guide-signs/'
+  useEffect(() => {
+    setSelectedLanguage(preferences?.language || 'en');
+  }, [preferences?.language]);
+
+  useEffect(() => {
+    const loadAvailable = async () => {
+      const downloaded = await getDownloadedLanguageCodes();
+      const allow = new Set(['en', 'es', ...downloaded]);
+      setAvailableLanguages(ALL_LANGUAGES.filter((l) => allow.has(l.code)));
+    };
+    loadAvailable();
+  }, []);
+
+  const handleChangeLanguage = async (nextLanguage) => {
+    setSelectedLanguage(nextLanguage);
+    try {
+      await updatePreferences({ language: nextLanguage });
+    } catch {
+      // ignore
     }
-  ];
+  };
+
+  const isRTL = selectedLanguage === 'ar' || selectedLanguage === 'ur';
+
+  const exitSignCategory = useCallback(() => {
+    setSelectedCategory(null);
+    setQuestions([]);
+    setLoading(false);
+  }, []);
+
+  const handleBackFromSignCategory = useCallback(() => {
+    if (exitingCategoryForAdRef.current) {
+      return;
+    }
+    exitingCategoryForAdRef.current = true;
+    InteractionManager.runAfterInteractions(() => {
+      Promise.resolve(presentAdTrigger(showAdAndWaitForClose, { timeoutMs: 8000 }))
+        .catch(() => {})
+        .finally(() => {
+          exitingCategoryForAdRef.current = false;
+          exitSignCategory();
+        });
+    });
+  }, [exitSignCategory, presentAdTrigger, showAdAndWaitForClose]);
 
   const handleBackPress = () => {
     if (selectedCategory) {
-      setSelectedCategory(null);
-    } else {
-      navigation.goBack();
+      handleBackFromSignCategory();
+      return;
+    }
+    navigation.goBack();
+  };
+
+  useEffect(() => {
+    if (!selectedCategory) {
+      return undefined;
+    }
+    const sub = BackHandler.addEventListener('hardwareBackPress', () => {
+      handleBackFromSignCategory();
+      return true;
+    });
+    return () => sub.remove();
+  }, [selectedCategory, handleBackFromSignCategory]);
+
+  const handleOpenCategory = async (cat) => {
+    const state = preferences?.state || 'Alabama';
+    const category = preferences?.category || 'car';
+    const language = preferences?.language || 'en';
+
+    setSelectedCategory(cat);
+    setLoading(true);
+    setQuestions([]);
+
+    try {
+      const quiz = await loadMobileQuizAsync({ category, state, slug: cat.slug, language });
+      setQuestions(Array.isArray(quiz?.questions) ? quiz.questions : []);
+    } catch {
+      setQuestions([]);
+    } finally {
+      setLoading(false);
     }
   };
+
+  useEffect(() => {
+    if (!selectedCategory) return;
+    if (loading) return;
+    (async () => {
+      await handleOpenCategory(selectedCategory);
+    })();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [preferences?.language]);
 
   const renderHeaderRight = () => (
     <View style={styles.headerRight}>
       <LanguageSwitcher
         value={selectedLanguage}
-        onChange={setSelectedLanguage}
-        languages={LANGUAGES}
+        onChange={handleChangeLanguage}
+        languages={availableLanguages}
         compact
         triggerStyle={styles.languageButton}
         triggerTextStyle={{ color: 'white' }}
       />
       <TouchableOpacity
         style={styles.headerButton}
-        onPress={selectedCategory ? () => setSelectedCategory(null) : handleBackPress}
+        onPress={handleBackPress}
+        accessibilityRole="button"
+        accessibilityLabel="Back"
       >
         <Ionicons name="arrow-back" size={28} color="white" />
       </TouchableOpacity>
     </View>
   );
 
-  const getSignTitle = (sign) => {
-    if (selectedLanguage === 'en') {
-      return sign.title_en;
-    }
-    return sign.secondary_languages?.[selectedLanguage]?.title || sign.title_en;
-  };
-
-  const getSignDescription = (sign) => {
-    if (selectedLanguage === 'en') {
-      return sign.description_en;
-    }
-    return sign.secondary_languages?.[selectedLanguage]?.description || sign.description_en;
-  };
-
-  const getCategoryTitle = (category) => {
-    if (selectedLanguage === 'en') {
-      return category.title;
-    }
-    if (selectedLanguage === 'ur') {
-      return category.titleUrdu;
-    }
-    if (selectedLanguage === 'ar') {
-      return category.titleArabic || category.titleUrdu;
-    }
-    if (selectedLanguage === 'hi') {
-      return category.titleHindi || category.titleUrdu;
-    }
-    if (selectedLanguage === 'bn') {
-      return category.titleBengali || category.titleUrdu;
-    }
-    return category.title;
-  };
-
-  const getCategoryDescription = (category) => {
-    if (selectedLanguage === 'en') {
-      return category.description;
-    }
-    if (selectedLanguage === 'ur') {
-      return category.descriptionUrdu;
-    }
-    if (selectedLanguage === 'ar') {
-      return category.descriptionArabic || category.descriptionUrdu;
-    }
-    if (selectedLanguage === 'hi') {
-      return category.descriptionHindi || category.descriptionUrdu;
-    }
-    if (selectedLanguage === 'bn') {
-      return category.descriptionBengali || category.descriptionUrdu;
-    }
-    return category.description;
-  };
-
-  const renderSignImage = (sign) => {
-    // Extract filename from image_path
-    const imagePath = sign.image_path;
-    const imageSource = resolveImageSource(imagePath);
-    if (imageSource) {
-      return (
-        <Image 
-          source={imageSource} 
-          style={styles.signImage}
-          resizeMode="contain"
-        />
-      );
-    }
-
-    // Fallback to placeholder if image not found
-    return (
-      <View style={styles.placeholderImage}>
-        <View style={styles.signTypeIcon}>
-          <Ionicons 
-            name={
-              sign.type === 'regulatory' ? 'checkmark-circle' :
-              sign.type === 'warning' ? 'warning' :
-              sign.type === 'guide' ? 'information-circle' :
-              'remove'
-            } 
-            size={40} 
-            color={
-              sign.type === 'regulatory' ? '#e74c3c' :
-              sign.type === 'warning' ? '#f39c12' :
-              sign.type === 'guide' ? '#3498db' :
-              '#9b59b6'
-            } 
-          />
-        </View>
-        <Text style={styles.placeholderTitle}>{getSignTitle(sign)}</Text>
-        <Text style={styles.placeholderSubtitle}>
-          {sign.type.charAt(0).toUpperCase() + sign.type.slice(1)} Sign
-        </Text>
-      </View>
-    );
-  };
-
   const renderCategoryTile = ({ item }) => (
     <TouchableOpacity
       style={[styles.categoryTile, { borderLeftColor: item.color }]}
-      onPress={() => setSelectedCategory(item)}
+      onPress={() => handleOpenCategory(item)}
+      accessibilityRole="button"
+      accessibilityLabel={`Open ${item.title}`}
     >
       <View style={styles.tileContent}>
         <View style={[styles.tileIcon, { backgroundColor: item.color }]}>
-          <Ionicons name={item.icon} size={32} color="white" />
+          <Ionicons name={item.icon} size={30} color="white" />
         </View>
         <View style={styles.tileText}>
-          <Text style={styles.tileTitle}>{getCategoryTitle(item)}</Text>
-          <Text style={styles.tileDescription}>{getCategoryDescription(item)}</Text>
-          <Text style={styles.tileCount}>{item.data.length} signs</Text>
+          <Text style={styles.tileTitle}>{item.title}</Text>
+          <Text style={styles.tileDescription}>{item.description}</Text>
         </View>
-        <Ionicons name="chevron-forward" size={24} color="#1a5f3a" />
+        <Ionicons name="chevron-forward" size={22} color="#94a3b8" />
       </View>
     </TouchableOpacity>
   );
 
-  const renderSignItem = ({ item, index }) => (
-    <View style={styles.signCard}>
-      <View style={styles.signHeader}>
-        <Text style={styles.signNumber}>{index + 1} / {selectedCategory.data.length}</Text>
-        <Text style={styles.signType}>{item.type.toUpperCase()}</Text>
-      </View>
-      
-      <View style={styles.signImageContainer}>
-        {renderSignImage(item)}
-      </View>
-      
-      <View style={styles.signInfo}>
-        <Text style={styles.signTitle}>{getSignTitle(item)}</Text>
-        <Text style={styles.signDescription}>{getSignDescription(item)}</Text>
-      </View>
-    </View>
-  );
+  const renderQuestionCard = ({ item, index }) => {
+    const imageSource = resolveImageSource(item?.image);
+    const options = Array.isArray(item?.options) ? item.options : [];
+    const correct = options.find((o) => o?.is_correct === true);
 
-  const renderCategoryView = () => (
+    return (
+      <View style={styles.card}>
+        <View style={styles.cardHeader}>
+          <Text style={styles.cardIndex}>
+            {index + 1} / {questions.length}
+          </Text>
+          <View style={styles.badge}>
+            <Text style={styles.badgeText}>SIGN</Text>
+          </View>
+        </View>
+
+        <View style={styles.imageWrap}>
+          {imageSource ? (
+            <Image source={imageSource} style={styles.image} resizeMode="contain" />
+          ) : (
+            <View style={styles.imagePlaceholder}>
+              <Ionicons name="image-outline" size={34} color="#94a3b8" />
+              <Text style={styles.imagePlaceholderText}>Image unavailable</Text>
+            </View>
+          )}
+        </View>
+
+        <Text style={[styles.questionText, isRTL ? styles.rtlText : null]}>{item?.question || ' '}</Text>
+
+        <View style={styles.answerRow}>
+          <Ionicons name="checkmark-circle" size={18} color="#16a34a" />
+          <Text style={[styles.answerText, isRTL ? styles.rtlText : null]}>{correct?.text || ' '}</Text>
+        </View>
+
+        {!!item?.explanation && (
+          <View style={styles.explainBox}>
+            <Text style={[styles.explainTitle, isRTL ? styles.rtlText : null]}>Explanation</Text>
+            <Text style={[styles.explainText, isRTL ? styles.rtlText : null]}>{item.explanation}</Text>
+          </View>
+        )}
+      </View>
+    );
+  };
+
+  return (
     <View style={styles.container}>
-      <StatusBar barStyle="light-content" backgroundColor="#1a5f3a" />
-      <Header 
-        customGreeting="Road Signs"
-        customSubtitle={
-          selectedLanguage === 'en' ? 'Road Signs' :
-          selectedLanguage === 'ur' ? 'روڈ سائنز' :
-          selectedLanguage === 'ar' ? 'علامات الطريق' :
-          selectedLanguage === 'hi' ? 'सड़क संकेत' :
-          selectedLanguage === 'bn' ? 'সড়ক চিহ্ন' : 'Road Signs'
-        }
-      >
+      <StatusBar barStyle="light-content" backgroundColor={COLORS.primary} />
+      <Header customSubtitle={selectedCategory?.title || 'Road Signs'} titleOnly>
         {renderHeaderRight()}
       </Header>
-      
 
-      <FlatList
-        data={signCategories}
-        renderItem={renderCategoryTile}
-        keyExtractor={(item) => item.id}
-        contentContainerStyle={styles.categoriesList}
-        showsVerticalScrollIndicator={false}
-      />
-    </View>
-  );
-
-  const renderSignsView = () => (
-    <View style={styles.container}>
-      <StatusBar barStyle="light-content" backgroundColor="#1a5f3a" />
-      <Header 
-        //customGreeting={}
-        customSubtitle={getCategoryTitle(selectedCategory)}
-      >
-        {renderHeaderRight()}
-      </Header>
-      
-      <View style={styles.signsHeader}>
-        <Text style={styles.signsCount}>
-          {selectedCategory.data.length} {
-            selectedLanguage === 'en' ? 'signs' :
-            selectedLanguage === 'ar' ? 'علامات' :
-            selectedLanguage === 'ur' ? 'نشانات' :
-            selectedLanguage === 'hi' ? 'संकेत' :
-            selectedLanguage === 'bn' ? 'চিহ্ন' : 'signs'
+      {!selectedCategory ? (
+        <FlatList
+          data={SIGN_CATEGORIES}
+          renderItem={renderCategoryTile}
+          keyExtractor={(item) => item.id}
+          contentContainerStyle={styles.listContainer}
+          showsVerticalScrollIndicator={false}
+          ListHeaderComponent={
+            <View style={styles.listHeader}>
+              <Text style={styles.headerSubtitle}>Choose a sign category</Text>
+            </View>
           }
-        </Text>
-      </View>
-
-      <FlatList
-        data={selectedCategory.data}
-        renderItem={renderSignItem}
-        keyExtractor={(item) => item.id.toString()}
-        contentContainerStyle={styles.signsList}
-        showsVerticalScrollIndicator={false}
-      />
+        />
+      ) : loading ? (
+        <View style={styles.loadingWrap}>
+          <ActivityIndicator size="large" color={COLORS.primary} />
+          <Text style={styles.loadingText}>Loading…</Text>
+        </View>
+      ) : (
+        <FlatList
+          data={questions}
+          renderItem={renderQuestionCard}
+          keyExtractor={(item, idx) => String(item?.id || idx)}
+          contentContainerStyle={styles.listContainer}
+          showsVerticalScrollIndicator={false}
+          ListHeaderComponent={
+            <View style={styles.listHeader}>
+              <Text style={styles.headerSubtitle}>Signs with explanations</Text>
+              <Text style={styles.smallMeta}>{questions.length} items</Text>
+            </View>
+          }
+        />
+      )}
     </View>
   );
-
-  return selectedCategory ? renderSignsView() : renderCategoryView();
 };
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#f8f9fa',
-  },
-  headerRight: {
-    flexDirection: 'row',
-    alignItems: 'center',
-  },
-  headerButton: {
-    padding: 8,
-    marginLeft: 8,
-  },
-  languageButton: {
-    marginRight: 4,
-  },
-  categoriesList: {
-    padding: 20,
-  },
+  container: { flex: 1, backgroundColor: '#f8f9fa' },
+  headerRight: { flexDirection: 'row', alignItems: 'center' },
+  headerButton: { padding: 8, marginLeft: 8 },
+  languageButton: { marginRight: 4 },
+
+  listContainer: { padding: 16, paddingBottom: 28 },
+  listHeader: { marginBottom: 12 },
+  headerSubtitle: { fontSize: 14, fontWeight: '700', color: '#475569' },
+  smallMeta: { marginTop: 6, fontSize: 12, fontWeight: '700', color: '#64748b' },
+
   categoryTile: {
     backgroundColor: 'white',
     borderRadius: 12,
-    marginBottom: 16,
+    marginBottom: 14,
     borderLeftWidth: 4,
-    elevation: 2,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.1,
-    shadowRadius: 4,
+    borderWidth: 1,
+    borderColor: '#e5e7eb',
+    overflow: 'hidden',
   },
-  tileContent: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    padding: 20,
-  },
+  tileContent: { flexDirection: 'row', alignItems: 'center', padding: 16 },
   tileIcon: {
-    width: 60,
-    height: 60,
-    borderRadius: 30,
+    width: 52,
+    height: 52,
+    borderRadius: 18,
+    alignItems: 'center',
     justifyContent: 'center',
-    alignItems: 'center',
-    marginRight: 16,
+    marginRight: 14,
   },
-  tileText: {
-    flex: 1,
-  },
-  tileTitle: {
-    fontSize: 18,
-    fontWeight: '600',
-    color: '#1a5f3a',
-    marginBottom: 4,
-  },
-  tileDescription: {
-    fontSize: 14,
-    color: '#666',
-    marginBottom: 4,
-  },
-  tileCount: {
-    fontSize: 12,
-    color: '#1a5f3a',
-    fontWeight: '500',
-  },
-  signsHeader: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    paddingHorizontal: 20,
-    paddingVertical: 16,
+  tileText: { flex: 1, paddingRight: 10 },
+  tileTitle: { fontSize: 16, fontWeight: '900', color: COLORS.text, marginBottom: 4 },
+  tileDescription: { fontSize: 13, fontWeight: '600', color: '#64748b', lineHeight: 18 },
+
+  loadingWrap: { flex: 1, alignItems: 'center', justifyContent: 'center', gap: 10, padding: 24 },
+  loadingText: { fontSize: 14, fontWeight: '700', color: '#475569' },
+
+  card: {
     backgroundColor: 'white',
-    borderBottomWidth: 1,
-    borderBottomColor: '#e0e0e0',
+    borderRadius: 14,
+    borderWidth: 1,
+    borderColor: '#e5e7eb',
+    padding: 14,
+    marginBottom: 14,
   },
-  signsCount: {
-    fontSize: 16,
-    fontWeight: '600',
-    color: '#1a5f3a',
+  cardHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
+  cardIndex: { fontSize: 12, fontWeight: '800', color: '#64748b' },
+  badge: {
+    paddingHorizontal: 10,
+    height: 24,
+    borderRadius: 999,
+    backgroundColor: '#f1f5f9',
+    alignItems: 'center',
+    justifyContent: 'center',
   },
-  signsList: {
-    padding: 20,
-  },
-  signCard: {
-    backgroundColor: 'white',
+  badgeText: { fontSize: 12, fontWeight: '800', color: '#64748b' },
+
+  imageWrap: {
+    marginTop: 12,
     borderRadius: 12,
-    marginBottom: 20,
-    elevation: 2,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.1,
-    shadowRadius: 4,
-  },
-  signHeader: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
+    borderWidth: 1,
+    borderColor: '#e5e7eb',
+    backgroundColor: '#f8fafc',
+    height: 160,
+    overflow: 'hidden',
     alignItems: 'center',
-    padding: 16,
-    borderBottomWidth: 1,
-    borderBottomColor: '#f0f0f0',
+    justifyContent: 'center',
   },
-  signNumber: {
-    fontSize: 14,
-    fontWeight: '600',
-    color: '#1a5f3a',
-  },
-  signType: {
-    fontSize: 12,
-    fontWeight: '500',
-    color: '#666',
-    backgroundColor: '#f0f0f0',
-    paddingHorizontal: 8,
-    paddingVertical: 4,
+  image: { width: '100%', height: '100%' },
+  imagePlaceholder: { alignItems: 'center', justifyContent: 'center', gap: 6, padding: 12 },
+  imagePlaceholderText: { fontSize: 12, fontWeight: '800', color: '#94a3b8' },
+
+  questionText: { marginTop: 10, fontSize: 15, fontWeight: '800', color: '#0f172a', lineHeight: 21 },
+  answerRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 10 },
+  answerText: { flex: 1, fontSize: 14, fontWeight: '800', color: '#166534', lineHeight: 20 },
+
+  explainBox: {
+    marginTop: 12,
     borderRadius: 12,
+    borderWidth: 1,
+    borderColor: '#e5e7eb',
+    backgroundColor: '#f8fafc',
+    padding: 12,
   },
-  signImageContainer: {
-    height: 200,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#f8f9fa',
-  },
-  signImage: {
-    width: 150,
-    height: 150,
-  },
-  placeholderImage: {
-    justifyContent: 'center',
-    alignItems: 'center',
-    padding: 20,
-  },
-  signTypeIcon: {
-    width: 80,
-    height: 80,
-    borderRadius: 40,
-    backgroundColor: '#f8f9fa',
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginBottom: 12,
-  },
-  placeholderTitle: {
-    fontSize: 16,
-    fontWeight: '600',
-    color: '#1a5f3a',
-    textAlign: 'center',
-    marginBottom: 4,
-  },
-  placeholderSubtitle: {
-    fontSize: 12,
-    color: '#666',
-    textAlign: 'center',
-  },
-  signInfo: {
-    padding: 16,
-  },
-  signTitle: {
-    fontSize: 18,
-    fontWeight: '600',
-    color: '#1a5f3a',
-    marginBottom: 8,
-  },
-  signDescription: {
-    fontSize: 14,
-    color: '#666',
-    lineHeight: 20,
-  },
+  explainTitle: { fontSize: 12, fontWeight: '900', color: COLORS.primary2, marginBottom: 6 },
+  explainText: { fontSize: 13, fontWeight: '600', color: '#334155', lineHeight: 18 },
+
+  rtlText: { writingDirection: 'rtl', textAlign: 'right' },
 });
 
 export default RoadSignsScreen;

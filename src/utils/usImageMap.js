@@ -378,6 +378,8 @@ export const usImageMap = {
   "slippery_when_wet.png": require("../../assets/us/images/signs/slippery_when_wet.png"),
   "images/signs/slow_moving_vehicle - Copy.png": require("../../assets/us/images/signs/slow_moving_vehicle - Copy.png"),
   "slow_moving_vehicle - Copy.png": require("../../assets/us/images/signs/slow_moving_vehicle - Copy.png"),
+  "images/signs/slow_moving_vehicle.png": require("../../assets/us/images/signs/maryland-slow_moving_vehicles.png"),
+  "slow_moving_vehicle.png": require("../../assets/us/images/signs/maryland-slow_moving_vehicles.png"),
   "images/signs/speed_limit_55.png": require("../../assets/us/images/signs/speed_limit_55.png"),
   "speed_limit_55.png": require("../../assets/us/images/signs/speed_limit_55.png"),
   "images/signs/steep_hill.png": require("../../assets/us/images/signs/steep_hill.png"),

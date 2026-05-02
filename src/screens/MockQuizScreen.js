@@ -5,6 +5,7 @@ import Header from '../components/Header';
 import LanguageSwitcher from '../components/LanguageSwitcher';
 import { useUser } from '../contexts/UserContext';
 import mockQuizData from '../data/quiz/mock-quiz-01.json';
+import { useAdTriggerFallback } from '../contexts/AdTriggerFallbackContext';
 import { useAdMob } from '../hooks/useAdMob';
 import { COLORS } from '../theme/colors';
 import { resolveImageSource } from '../utils/resolveImageSource';
@@ -12,6 +13,7 @@ import { resolveImageSource } from '../utils/resolveImageSource';
 const MockQuizScreen = ({ navigation, route }) => {
   const { username, saveQuizResult } = useUser();
   const { showAdAndWaitForClose } = useAdMob();
+  const { presentAdTrigger } = useAdTriggerFallback();
   const { title = 'Mock Quiz' } = route.params || {};
 
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -278,7 +280,7 @@ const MockQuizScreen = ({ navigation, route }) => {
     // Show interstitial ad when quiz is completed
     (async () => {
       try {
-        await showAdAndWaitForClose({ timeoutMs: 8000 });
+        await presentAdTrigger(showAdAndWaitForClose, { timeoutMs: 8000 });
       } catch {
         // ignore
       } finally {
@@ -318,7 +320,7 @@ const MockQuizScreen = ({ navigation, route }) => {
                   style: 'destructive',
                   onPress: async () => {
                     try {
-                      await showAdAndWaitForClose({ timeoutMs: 8000 });
+                      await presentAdTrigger(showAdAndWaitForClose, { timeoutMs: 8000 });
                     } catch {
                       // ignore
                     } finally {

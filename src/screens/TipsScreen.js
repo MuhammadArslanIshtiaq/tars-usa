@@ -5,6 +5,7 @@ import Header from '../components/Header';
 import LanguageSwitcher, { LANGUAGES as ALL_LANGUAGES } from '../components/LanguageSwitcher';
 import { useUser } from '../contexts/UserContext';
 import { COLORS } from '../theme/colors';
+import { getDownloadedLanguageCodes, isBundledLanguage } from '../utils/languagePacks';
 
 const TipCard = ({ title, items, isRTL }) => {
   return (
@@ -25,14 +26,24 @@ const TipCard = ({ title, items, isRTL }) => {
 const TipsScreen = ({ navigation }) => {
   const { username, preferences, updatePreferences } = useUser();
   const [selectedLanguage, setSelectedLanguage] = useState(preferences?.language || 'en');
-
-  const availableLanguages = useMemo(() => ALL_LANGUAGES, []);
+  const [availableLanguages, setAvailableLanguages] = useState(
+    ALL_LANGUAGES.filter((l) => isBundledLanguage(l.code))
+  );
   const isRTL = selectedLanguage === 'ar' || selectedLanguage === 'ur';
 
   useEffect(() => {
     const next = preferences?.language || 'en';
     setSelectedLanguage(next);
   }, [preferences?.language]);
+
+  useEffect(() => {
+    const loadAvailable = async () => {
+      const downloaded = await getDownloadedLanguageCodes();
+      const allow = new Set(['en', 'es', ...downloaded]);
+      setAvailableLanguages(ALL_LANGUAGES.filter((l) => allow.has(l.code)));
+    };
+    loadAvailable();
+  }, []);
 
   const handleChangeLanguage = async (nextLanguage) => {
     setSelectedLanguage(nextLanguage);

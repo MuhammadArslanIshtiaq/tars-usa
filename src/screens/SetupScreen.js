@@ -135,7 +135,7 @@ const SetupScreen = ({ navigation, route }) => {
     <View style={styles.container}>
       <StatusBar barStyle="dark-content" />
       <Header
-        customGreeting={isEditMode ? 'Preferences' : 'Setup'}
+        customGreeting={isEditMode ? 'Welcome back' : 'Setup'}
         customSubtitle={
           isEditMode
             ? 'Personalize your practice tests — state, vehicle type, and language'
@@ -169,6 +169,28 @@ const SetupScreen = ({ navigation, route }) => {
           <Text style={styles.continueText}>{isEditMode ? 'Save' : 'Continue'}</Text>
           <Ionicons name={isEditMode ? 'checkmark' : 'arrow-forward'} size={20} color="white" />
         </TouchableOpacity>
+
+        <View
+          style={styles.adSupportNote}
+          accessibilityRole="text"
+          accessibilityLabel="About ads and supporting the app. This app is supported by advertising. You can close ads when you are ready. A limited number of ads per session. You are not required to tap ads. You can also share the app with others and leave a rating on the App Store or Google Play."
+        >
+          <Text style={styles.adSupportTitle}>About ads</Text>
+          <Text style={styles.adSupportBody}>
+            This app is supported by advertising. When an ad is shown, you can close it and keep practicing — you are
+            never required to tap an ad to continue using the app, and you should only tap ads you are genuinely
+            interested in.
+          </Text>
+          <Text style={styles.adSupportBody}>
+            To keep study sessions comfortable, we limit how many ads may appear each time you use the app (per
+            session). That cap helps balance supporting the app with a smoother experience.
+          </Text>
+          <Text style={styles.adSupportSubtitle}>Share & rate</Text>
+          <Text style={styles.adSupportBodyLast}>
+            You can also support this app by sharing it with others who are studying for their test, and by leaving an
+            honest rating on the App Store or Google Play when you have found the app helpful.
+          </Text>
+        </View>
       </ScrollView>
 
       <Modal visible={!!activePicker} transparent animationType="fade" onRequestClose={handleClose}>
@@ -403,6 +425,35 @@ const styles = StyleSheet.create({
   noteTitle: { fontSize: 14, fontWeight: '800', color: '#111', marginBottom: 4 },
   noteText: { fontSize: 13, color: '#555', lineHeight: 18 },
   continueText: { color: 'white', fontSize: 16, fontWeight: '700' },
+  adSupportNote: {
+    marginTop: 20,
+    paddingHorizontal: 6,
+    paddingBottom: 8,
+  },
+  adSupportTitle: {
+    fontSize: 13,
+    fontWeight: '800',
+    color: '#475569',
+    marginBottom: 8,
+  },
+  adSupportBody: {
+    fontSize: 12,
+    color: '#64748b',
+    lineHeight: 18,
+    marginBottom: 10,
+  },
+  adSupportSubtitle: {
+    fontSize: 13,
+    fontWeight: '800',
+    color: '#475569',
+    marginTop: 4,
+    marginBottom: 8,
+  },
+  adSupportBodyLast: {
+    fontSize: 12,
+    color: '#64748b',
+    lineHeight: 18,
+  },
   backdrop: { ...StyleSheet.absoluteFillObject, backgroundColor: 'rgba(0,0,0,0.35)' },
   sheetWrap: {
     flex: 1,

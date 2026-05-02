@@ -4,6 +4,7 @@ import { ActivityIndicator, Alert, Image, Modal, ScrollView, StatusBar, StyleShe
 import Header from '../components/Header';
 import { useQuiz } from '../contexts/QuizContext';
 import { useUser } from '../contexts/UserContext';
+import { useAdTriggerFallback } from '../contexts/AdTriggerFallbackContext';
 import { useAdMob } from '../hooks/useAdMob';
 import { COLORS } from '../theme/colors';
 
@@ -12,6 +13,7 @@ const SignQuizScreen = ({ navigation, route }) => {
   const { getCategoryQuiz, shuffleArray } = useQuiz();
   const { authority, category, categoryName } = route.params;
   const { showAdAndWaitForClose } = useAdMob();
+  const { presentAdTrigger } = useAdTriggerFallback();
   
 
   
@@ -207,7 +209,7 @@ const SignQuizScreen = ({ navigation, route }) => {
     // Show interstitial ad when quiz is completed
     (async () => {
       try {
-        await showAdAndWaitForClose({ timeoutMs: 8000 });
+        await presentAdTrigger(showAdAndWaitForClose, { timeoutMs: 8000 });
       } catch {
         // ignore
       } finally {
@@ -248,7 +250,7 @@ const SignQuizScreen = ({ navigation, route }) => {
                   style: 'destructive',
                   onPress: async () => {
                     try {
-                      await showAdAndWaitForClose({ timeoutMs: 8000 });
+                      await presentAdTrigger(showAdAndWaitForClose, { timeoutMs: 8000 });
                     } catch {
                       // ignore
                     } finally {
