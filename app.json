@@ -32,7 +32,8 @@
       "versionCode": 1,
       "permissions": [
         "android.permission.INTERNET",
-        "android.permission.ACCESS_NETWORK_STATE"
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.gms.permission.AD_ID"
       ]
     },
     "extra": {
@@ -47,16 +48,13 @@
         }
       },
       "eas": {
-        "projectId": "a65c707b-21c2-48c6-82f1-9af09894c026"
+        "projectId": "884d0a27-88c5-414f-8d28-2788577e0602"
       }
-    },
-    "updates": {
-      "url": "https://u.expo.dev/2bd1e5a9-90f0-4200-8dda-5849294bfd97"
     },
     "runtimeVersion": {
       "policy": "sdkVersion"
     },
-    "owner": "remoterunuk",
+    "owner": "thebabybless",
     "plugins": [
       "expo-web-browser",
       [
