@@ -1,6 +1,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as FileSystem from 'expo-file-system/legacy';
 import { Asset } from 'expo-asset';
+import { Platform } from 'react-native';
 import { DATASET_BASE_URL, DATASET_VERSION } from '../config/dataset';
 import { Buffer } from 'buffer';
 
@@ -73,6 +74,14 @@ export const getLocalTranslationFilePath = ({ language, category, state, slug })
 
 const ensureDir = async (dirPath) => {
   await FileSystem.makeDirectoryAsync(dirPath, { intermediates: true });
+};
+
+const runInBatches = async (tasks, batchSize = 25) => {
+  for (let i = 0; i < tasks.length; i += batchSize) {
+    const batch = tasks.slice(i, i + batchSize);
+    // eslint-disable-next-line no-await-in-loop
+    await Promise.all(batch.map((task) => task()));
+  }
 };
 
 const getRegistry = async () => {
@@ -197,7 +206,8 @@ const installLanguagePackEntries = async ({ language, entries, strFromU8Fn }) =>
     );
   }
 
-  await Promise.all(writes);
+  const writeBatchSize = Platform.OS === 'android' ? 20 : 50;
+  await runInBatches(writes, writeBatchSize);
 
   if (writtenJsonCount === 0) {
     throw new Error(

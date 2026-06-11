@@ -1,6 +1,7 @@
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import React, { useCallback, useEffect } from 'react';
+import * as SplashScreen from 'expo-splash-screen';
+import React, { useCallback, useEffect, useState } from 'react';
 import { Platform } from 'react-native';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { AdTriggerFallbackProvider } from './src/contexts/AdTriggerFallbackContext';
@@ -20,6 +21,8 @@ import RoadSignsScreen from './src/screens/RoadSignsScreen';
 import RulesContentScreen from './src/screens/RulesContentScreen';
 import TipsScreen from './src/screens/TipsScreen';
 
+SplashScreen.preventAutoHideAsync().catch(() => {});
+
 let admobInitialized = false;
 
 const initializeAdmob = async () => {
@@ -37,7 +40,11 @@ const initializeAdmob = async () => {
 const Stack = createNativeStackNavigator();
 
 export default function App() {
+  const [appIsReady, setAppIsReady] = useState(false);
   const stableInitializeAdmob = useCallback(initializeAdmob, []);
+  const handleAppReady = useCallback(() => {
+    setAppIsReady(true);
+  }, []);
 
   useEffect(() => {
     if (Platform.OS === 'android') {
@@ -45,9 +52,14 @@ export default function App() {
     }
   }, []);
 
+  useEffect(() => {
+    if (!appIsReady) return;
+    SplashScreen.hideAsync().catch(() => {});
+  }, [appIsReady]);
+
   return (
     <SafeAreaProvider>
-      <UserProvider>
+      <UserProvider onReady={handleAppReady}>
         <QuizProvider>
           <AdTriggerFallbackProvider>
             <TrackingProvider initializeAdmob={stableInitializeAdmob}>

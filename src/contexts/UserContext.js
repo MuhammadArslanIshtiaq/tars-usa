@@ -12,7 +12,7 @@ export const useUser = () => {
   return context;
 };
 
-export const UserProvider = ({ children }) => {
+export const UserProvider = ({ children, onReady }) => {
   const [username, setUsername] = useState('');
   const [loading, setLoading] = useState(true);
   const [quizHistory, setQuizHistory] = useState([]);
@@ -29,10 +29,6 @@ export const UserProvider = ({ children }) => {
 
   const loadUserData = useCallback(async () => {
     try {
-      // Ensure bundled EN/ES packs are installed locally (no network).
-      // If this fails, the app will still work via the built-in sample fallback.
-      await ensureBundledLanguagePacksInstalled();
-
       // Load username
       const storedUsername = await AsyncStorage.getItem('username');
       if (storedUsername) {
@@ -69,8 +65,15 @@ export const UserProvider = ({ children }) => {
       console.error('Error loading user data:', error);
     } finally {
       setLoading(false);
+      onReady?.();
     }
-  }, []);
+
+    // Install bundled EN/ES packs in the background so first launch stays responsive.
+    // On Android the zip extraction can take several seconds and previously blocked the UI.
+    ensureBundledLanguagePacksInstalled().catch((error) => {
+      console.warn('Background language pack install failed:', error?.message || error);
+    });
+  }, [onReady]);
 
   // Load user data from local storage on mount
   useEffect(() => {
